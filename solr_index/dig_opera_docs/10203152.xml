@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203152</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ovis misere perdita</field>
+		<field name="titleSort">Ovis misere perdita</field>
+		<field name="year">1738</field>
+		<field name="month">March</field>
+		<field name="day">21</field>
+		<field name="date">March 21, 1738</field>
+		<field name="composer">Franz Xaver Richter</field>
+		<field name="composerSort">Richter, Franz Xaver</field>
+		<field name="librettist">Joseph Franz von Gondola</field>
+		<field name="librettistSort">Gondola, Joseph Franz von</field>
+		
+		<field name="theater">Benedictine Abbey</field>
+		<field name="city">Ettal</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ovis+misere+perdita+Franz+Xaver+Richter&amp;search_field=search</field>
+	</doc></add>

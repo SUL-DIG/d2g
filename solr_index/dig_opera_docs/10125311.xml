@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125311</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze dell' piacere e dell'allegria</field>
+<field name="titleSort">nozze dell' piacere e dell'allegria</field>
+<field name="composer">Pietro Pulli</field>
+<field name="composerSort">Pulli, Pietro</field>
+<field name="year">1739</field>
+<field name="date">1739</field><field name="theater">Teatro Molza</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+dell'+piacere+e+dell'allegria+Pietro+Pulli&amp;search_field=search</field>
+</doc>
+</add>

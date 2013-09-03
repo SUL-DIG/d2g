@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118826</field>
+<field name="genre">Operas</field>
+<field name="title">Johnny and the Mohawks</field>
+<field name="titleSort">Johnny and the Mohawks</field>
+<field name="composer">Elizabeth Maconchy</field>
+<field name="composerSort">Maconchy, Elizabeth</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Elizabeth Maconchy</field>
+<field name="librettistSort">Maconchy, Elizabeth</field>
+<field name="theater">Francis Holland School</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johnny+and+the+Mohawks+Elizabeth+Maconchy&amp;search_field=search</field>
+</doc>
+</add>

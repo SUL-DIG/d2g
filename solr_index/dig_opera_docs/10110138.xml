@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110138</field>
+<field name="genre">Operas</field>
+<field name="title">Srdce (The Heart)</field>
+<field name="titleSort">Srdce (The Heart)</field>
+<field name="composer">Josef Bohuslav Foerster</field>
+<field name="composerSort">Foerster, Josef Bohuslav</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Josef Bohuslav Foerster</field>
+<field name="librettistSort">Foerster, Josef Bohuslav</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Srdce+The+Heart+Josef+Bohuslav+Foerster&amp;search_field=search</field>
+</doc>
+</add>

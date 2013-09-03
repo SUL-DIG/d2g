@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128853</field>
+<field name="genre">Operas</field>
+<field name="title">Songs of Insanity</field>
+<field name="titleSort">Songs of Insanity</field>
+<field name="composer">Harold Seletsky</field>
+<field name="composerSort">Seletsky, Harold</field>
+<field name="year">1987</field>
+<field name="date">1987</field><field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Songs+of+Insanity+Harold+Seletsky&amp;search_field=search</field>
+</doc>
+</add>

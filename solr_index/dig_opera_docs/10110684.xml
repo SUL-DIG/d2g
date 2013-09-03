@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110684</field>
+<field name="genre">Operas</field>
+<field name="title">Der Dybuk</field>
+<field name="titleSort">Dybuk</field>
+<field name="composer">Karl Heinz Füssl</field>
+<field name="composerSort">Füssl, Karl Heinz</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Helmut Wagner</field>
+<field name="librettistSort">Wagner, Helmut</field>
+<field name="librettist">[Shloyme Zaynv Rapoport] An-ski</field>
+<field name="librettistSort">An-ski, [Shloyme Zaynv Rapoport]</field>
+<field name="theater">Konzerthaus</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Dybuk+Karl+Heinz+Füssl&amp;search_field=search</field>
+</doc>
+</add>

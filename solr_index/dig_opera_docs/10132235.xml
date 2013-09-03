@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132235</field>
+<field name="genre">Operas</field>
+<field name="title">Zryni</field>
+<field name="titleSort">Zryni</field>
+<field name="composer">Albert de Vleeshouwer</field>
+<field name="composerSort">Vleeshouwer, Albert de</field>
+<field name="year">1895</field>
+<field name="date">1895</field><field name="theater">Vlaamse Opera</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zryni+Albert+de+Vleeshouwer&amp;search_field=search</field>
+</doc>
+</add>

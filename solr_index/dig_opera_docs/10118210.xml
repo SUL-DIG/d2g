@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118210</field>
+<field name="genre">Operas</field>
+<field name="title">The Royal Merchant</field>
+<field name="titleSort">Royal Merchant</field>
+<field name="composer">Thomas Linley</field>
+<field name="composerSort">Linley, Thomas</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Thomas Hull</field>
+<field name="librettistSort">Hull, Thomas</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Royal+Merchant+Thomas+Linley&amp;search_field=search</field>
+</doc>
+</add>

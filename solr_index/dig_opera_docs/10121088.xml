@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121088</field>
+<field name="genre">Operas</field>
+<field name="title">The Weird of Colbar</field>
+<field name="titleSort">Weird of Colbar</field>
+<field name="composer">William Beatton Moonie</field>
+<field name="composerSort">Moonie, William Beatton</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">George Murray Reith</field>
+<field name="librettistSort">Reith, George Murray</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Weird+of+Colbar+William+Beatton+Moonie&amp;search_field=search</field>
+</doc>
+</add>

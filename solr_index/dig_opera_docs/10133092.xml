@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133092</field>
+<field name="genre">Operas</field>
+<field name="title">Helga</field>
+<field name="titleSort">Helga</field>
+<field name="composer">Victor Woikowsky-Biedau</field>
+<field name="composerSort">Woikowsky-Biedau, Victor</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Victor Woikowsky-Biedau</field>
+<field name="librettistSort">Woikowsky-Biedau, Victor</field>
+<field name="theater">Königliches Theater</field>
+<field name="city">Wiesbaden</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helga+Victor+Woikowsky-Biedau&amp;search_field=search</field>
+</doc>
+</add>

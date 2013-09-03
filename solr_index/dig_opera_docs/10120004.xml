@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120004</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Visconti</field>
+<field name="titleSort">Marco Visconti</field>
+<field name="composer">Raffaele Mazzetti</field>
+<field name="composerSort">Mazzetti, Raffaele</field>
+<field name="year">1843</field>
+<field name="date">1843</field><field name="theater">Teatro Pascolini</field>
+<field name="city">Urbino</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Visconti+Raffaele+Mazzetti&amp;search_field=search</field>
+</doc>
+</add>

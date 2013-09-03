@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116938</field>
+<field name="genre">Operas</field>
+<field name="title">Benvenuto Cellini</field>
+<field name="titleSort">Benvenuto Cellini</field>
+<field name="composer">Franz Paul Lachner</field>
+<field name="composerSort">Lachner, Franz Paul</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Léon de Wailly</field>
+<field name="librettistSort">Wailly, Léon de</field>
+<field name="librettist">Auguste Barbier</field>
+<field name="librettistSort">Barbier, Auguste</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Benvenuto+Cellini+Franz+Paul+Lachner&amp;search_field=search</field>
+</doc>
+</add>

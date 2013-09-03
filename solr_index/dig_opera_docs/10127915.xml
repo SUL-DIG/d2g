@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127915</field>
+<field name="genre">Operas</field>
+<field name="title">Semiramide riconosciuta</field>
+<field name="titleSort">Semiramide riconosciuta</field>
+<field name="composer">Paolo Scalabrini</field>
+<field name="composerSort">Scalabrini, Paolo</field>
+<field name="year">1743</field>
+<field name="date">1743</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Theater auf dem Tummelplatze</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Semiramide+riconosciuta+Paolo+Scalabrini&amp;search_field=search</field>
+</doc>
+</add>

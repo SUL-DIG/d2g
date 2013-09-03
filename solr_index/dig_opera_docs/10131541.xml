@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131541</field>
+<field name="genre">Operas</field>
+<field name="title">Le donne curiose</field>
+<field name="titleSort">donne curiose</field>
+<field name="composer">Emilio Usiglio</field>
+<field name="composerSort">Usiglio, Emilio</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+donne+curiose+Emilio+Usiglio&amp;search_field=search</field>
+</doc>
+</add>

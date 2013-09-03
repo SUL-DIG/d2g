@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121916</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze di Mandina</field>
+<field name="titleSort">nozze di Mandina</field>
+<field name="composer">Benedetto Neri</field>
+<field name="composerSort">Neri, Benedetto</field>
+<field name="year">1807</field>
+<field name="date">1807</field><field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+di+Mandina+Benedetto+Neri&amp;search_field=search</field>
+</doc>
+</add>

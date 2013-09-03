@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111798</field>
+<field name="genre">Operas</field>
+<field name="title">La monaca bianca</field>
+<field name="titleSort">monaca bianca</field>
+<field name="composer">Clemente Giglio</field>
+<field name="composerSort">Giglio, Clemente</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Francis Marion Crawford</field>
+<field name="librettistSort">Crawford, Francis Marion</field>
+<field name="theater">National Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+monaca+bianca+Clemente+Giglio&amp;search_field=search</field>
+</doc>
+</add>

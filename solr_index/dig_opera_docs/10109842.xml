@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109842</field>
+<field name="genre">Operas</field>
+<field name="title">L'innocente ambizione</field>
+<field name="titleSort">innocente ambizione</field>
+<field name="composer">Valentino Fioravanti</field>
+<field name="composerSort">Fioravanti, Valentino</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Gaetano Gasbarri</field>
+<field name="librettistSort">Gasbarri, Gaetano</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'innocente+ambizione+Valentino+Fioravanti&amp;search_field=search</field>
+</doc>
+</add>

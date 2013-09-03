@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124158</field>
+<field name="genre">Operas</field>
+<field name="title">Le contadine bizzarre</field>
+<field name="titleSort">contadine bizzarre</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">[Giuseppe Petrosellini] Ensildo Prosindio</field>
+<field name="librettistSort">Prosindio, Ensildo [Giuseppe Petrosellini]</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contadine+bizzarre+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132536</field>
+<field name="genre">Operas</field>
+<field name="title">Les penitents rouges</field>
+<field name="titleSort">penitents rouges</field>
+<field name="composer">Victor Warot</field>
+<field name="composerSort">Warot, Victor</field>
+<field name="year">1834</field>
+<field name="date">1834</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+penitents+rouges+Victor+Warot&amp;search_field=search</field>
+</doc>
+</add>

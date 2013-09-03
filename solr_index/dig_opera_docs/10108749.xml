@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108749</field>
+<field name="genre">Operas</field>
+<field name="title">Svad'ba (The Wedding)</field>
+<field name="titleSort">Svad'ba (The Wedding)</field>
+<field name="composer">Vladimir Georgiyevich Ehrenberg</field>
+<field name="composerSort">Ehrenberg, Vladimir Georgiyevich</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Opernïy Teatr S. I. Zimina</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svad'ba+The+Wedding+Vladimir+Georgiyevich+Ehrenberg&amp;search_field=search</field>
+</doc>
+</add>

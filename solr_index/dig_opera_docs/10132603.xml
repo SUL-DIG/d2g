@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132603</field>
+<field name="genre">Operas</field>
+<field name="title">L'organiste dans l'embarras</field>
+<field name="titleSort">organiste dans l'embarras</field>
+<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Jules-Édouard Alboise de Pujol</field>
+<field name="librettistSort">Alboise de Pujol, Jules-Édouard</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'organiste+dans+l'embarras+Jean-Baptiste-Théodore+Weckerlin&amp;search_field=search</field>
+</doc>
+</add>

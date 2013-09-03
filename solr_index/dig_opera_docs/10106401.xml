@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106401</field>
+<field name="genre">Operas</field>
+<field name="title">Il sogno di Scipione</field>
+<field name="titleSort">sogno di Scipione</field>
+<field name="composer">Nicola Conforto</field>
+<field name="composerSort">Conforto, Nicola</field>
+
+
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+di+Scipione+Nicola+Conforto&amp;search_field=search</field>
+</doc>
+</add>

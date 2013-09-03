@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133274</field>
+<field name="genre">Operas</field>
+<field name="title">Christoph Columbus</field>
+<field name="titleSort">Christoph Columbus</field>
+<field name="composer">Eugene Zador</field>
+<field name="composerSort">Zador, Eugene</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Jenö Mohacsi</field>
+<field name="librettistSort">Mohacsi, Jenö</field>
+<field name="theater">WJZ Radio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christoph+Columbus+Eugene+Zador&amp;search_field=search</field>
+</doc>
+</add>

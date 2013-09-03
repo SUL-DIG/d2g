@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109021</field>
+<field name="genre">Operas</field>
+<field name="title">Las treguas de Tolemaida</field>
+<field name="titleSort">treguas de Tolemaida</field>
+<field name="composer">Hilarión Eslava</field>
+<field name="composerSort">Eslava, Hilarión</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Luis Bertochi</field>
+<field name="librettistSort">Bertochi, Luis</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Cadiz</field>
+<field name="region">Andalucia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Las+treguas+de+Tolemaida+Hilarión+Eslava&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114178</field>
+<field name="genre">Operas</field>
+<field name="title">Le vertigo</field>
+<field name="titleSort">vertigo</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Henri Crisafulli</field>
+<field name="librettistSort">Crisafulli, Henri</field>
+<field name="librettist">Henri Bocage</field>
+<field name="librettistSort">Bocage, Henri</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vertigo+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115031</field>
+<field name="genre">Operas</field>
+<field name="title">"La ruse inutile, ou Les rivaux par convention</field>
+<field name="titleSort">"ruse inutile, ou Les rivaux par convention"</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ruse+inutile,+ou+Les+rivaux+par+convention+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

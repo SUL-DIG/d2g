@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103327</field>
+<field name="genre">Operas</field>
+<field name="title">Une mari pour étrenne</field>
+<field name="titleSort">mari pour étrenne</field>
+<field name="composer">Nicholas Charles Bochsa</field>
+<field name="composerSort">Bochsa, Nicholas Charles</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="librettist">Armand Dartois</field>
+<field name="librettistSort">Dartois, Armand</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+mari+pour+étrenne+Nicholas+Charles+Bochsa&amp;search_field=search</field>
+</doc>
+</add>

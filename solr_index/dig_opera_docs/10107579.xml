@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107579</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit Orphée</field>
+<field name="titleSort">petit Orphée</field>
+<field name="composer">Prosper-Didier Deshayes</field>
+<field name="composerSort">Deshayes, Prosper-Didier</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">J. Rouhier-Deschamps</field>
+<field name="librettistSort">Rouhier-Deschamps, J.</field>
+<field name="theater">Théâtre de la Cité-Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+Orphée+Prosper-Didier+Deshayes&amp;search_field=search</field>
+</doc>
+</add>

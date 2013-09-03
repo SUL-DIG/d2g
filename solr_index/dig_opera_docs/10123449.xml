@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123449</field>
+<field name="genre">Operas</field>
+<field name="title">The Postman Always Rings Twice</field>
+<field name="titleSort">Postman Always Rings Twice</field>
+<field name="composer">Stephen Paulus</field>
+<field name="composerSort">Paulus, Stephen</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Colin Graham</field>
+<field name="librettistSort">Graham, Colin</field>
+<field name="librettist">James Mallahan Cain</field>
+<field name="librettistSort">Cain, James Mallahan</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Postman+Always+Rings+Twice+Stephen+Paulus&amp;search_field=search</field>
+</doc>
+</add>

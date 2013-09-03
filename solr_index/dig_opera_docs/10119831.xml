@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119831</field>
+<field name="genre">Operas</field>
+<field name="title">Coeur de neige</field>
+<field name="titleSort">Coeur de neige</field>
+<field name="composer">André de Mauprey</field>
+<field name="composerSort">Mauprey, André de</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Georges Montignac</field>
+<field name="librettistSort">Montignac, Georges</field>
+<field name="librettist">__ Seigle</field>
+<field name="librettistSort">Seigle, __</field>
+<field name="theater">Opéra</field>
+<field name="city">Vichy</field>
+<field name="region">Allier</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coeur+de+neige+André+de+Mauprey&amp;search_field=search</field>
+</doc>
+</add>

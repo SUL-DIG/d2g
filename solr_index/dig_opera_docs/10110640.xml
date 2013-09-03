@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110640</field>
+<field name="genre">Operas</field>
+<field name="title">Notre Dame of Paris</field>
+<field name="titleSort">Notre Dame of Paris</field>
+<field name="composer">William Henry Fry</field>
+<field name="composerSort">Fry, William Henry</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Joseph Reese Fry</field>
+<field name="librettistSort">Fry, Joseph Reese</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Academy of Music</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notre+Dame+of+Paris+William+Henry+Fry&amp;search_field=search</field>
+</doc>
+</add>

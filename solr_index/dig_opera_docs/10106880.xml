@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106880</field>
+<field name="genre">Operas</field>
+<field name="title">Purgatory</field>
+<field name="titleSort">Purgatory</field>
+<field name="composer">Gordon Crosse</field>
+<field name="composerSort">Crosse, Gordon</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">William Butler Yeats</field>
+<field name="librettistSort">Yeats, William Butler</field>
+<field name="theater">Everyman Theatre</field>
+<field name="city">Cheltenham</field>
+<field name="region">Gloucestershire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Purgatory+Gordon+Crosse&amp;search_field=search</field>
+</doc>
+</add>

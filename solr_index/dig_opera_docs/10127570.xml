@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127570</field>
+<field name="genre">Operas</field>
+<field name="title">Carlota</field>
+<field name="titleSort">Carlota</field>
+<field name="composer">Luis Sandi</field>
+<field name="composerSort">Sandi, Luis</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Francisco Zendejas Gómez</field>
+<field name="librettistSort">Zendejas Gómez, Francisco</field>
+<field name="theater">Palácio de Bellas Artes</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carlota+Luis+Sandi&amp;search_field=search</field>
+</doc>
+</add>

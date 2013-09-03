@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130046</field>
+<field name="genre">Operas</field>
+<field name="title">Orion</field>
+<field name="titleSort">Orion</field>
+<field name="composer">Gottfried Heinrich Stölzel</field>
+<field name="composerSort">Stölzel, Gottfried Heinrich</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Gottfried Heinrich Stölzel</field>
+<field name="librettistSort">Stölzel, Gottfried Heinrich</field>
+
+<field name="city">Naumburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orion+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
+</doc>
+</add>

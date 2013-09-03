@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103112</field>
+<field name="genre">Operas</field>
+<field name="title">The Annuity</field>
+<field name="titleSort">Annuity</field>
+<field name="composer">James Bixel</field>
+<field name="composerSort">Bixel, James</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Lawrence Templin</field>
+<field name="librettistSort">Templin, Lawrence</field>
+<field name="theater">Bluffton College</field>
+<field name="city">Bluffton</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Annuity+James+Bixel&amp;search_field=search</field>
+</doc>
+</add>

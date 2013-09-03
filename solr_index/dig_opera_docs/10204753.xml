@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204753</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Vaterunser</field>
+		<field name="titleSort">Vaterunser</field>
+		<field name="year">1816</field>
+		<field name="month">December</field>
+		<field name="day">22</field>
+		<field name="date">December 22, 1816</field>
+		<field name="composer">Franz Xaver Kleinheinz</field>
+		<field name="composerSort">Kleinheinz, Franz Xaver</field>
+		<field name="librettist">Dr. Kleinmann</field>
+		<field name="librettistSort">Kleinmann, Dr.</field>
+		
+		
+		<field name="city">Budapest</field>
+		
+		<field name="country">Hungary</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Vaterunser+Franz+Xaver+Kleinheinz&amp;search_field=search</field>
+	</doc></add>

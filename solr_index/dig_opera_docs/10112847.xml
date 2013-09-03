@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112847</field>
+<field name="genre">Operas</field>
+<field name="title">Petruchio</field>
+<field name="titleSort">Petruchio</field>
+<field name="composer">Howard Groth</field>
+<field name="composerSort">Groth, Howard</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Howard Groth</field>
+<field name="librettistSort">Groth, Howard</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Arkansas State University</field>
+<field name="city">Conway</field>
+<field name="region">Arkansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petruchio+Howard+Groth&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109687</field>
+<field name="genre">Operas</field>
+<field name="title">La femme nue</field>
+<field name="titleSort">femme nue</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Henry Bataille</field>
+<field name="librettistSort">Bataille, Henry</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+femme+nue+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200873</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davide eletto al trono</field>
+		<field name="titleSort">Davide eletto al trono</field>
+		<field name="year">1769</field>
+		
+		
+		<field name="date">1769</field>
+		<field name="composer">Brizio Petrucci</field>
+		<field name="composerSort">Petrucci, Brizio</field>
+		<field name="librettist">Giovanni Francesco Fattiboni</field>
+		<field name="librettistSort">Fattiboni, Giovanni Frances</field>
+		
+		
+		<field name="city">Imola</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David crowned king of Israel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davide+eletto+al+trono+Brizio+Petrucci&amp;search_field=search</field>
+	</doc></add>

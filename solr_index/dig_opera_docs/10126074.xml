@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126074</field>
+<field name="genre">Operas</field>
+<field name="title">Es spukt</field>
+<field name="titleSort">Es spukt</field>
+<field name="composer">Karl August Riccius</field>
+<field name="composerSort">Riccius, Karl August</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Gustav Räder</field>
+<field name="librettistSort">Räder, Gustav</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Es+spukt+Karl+August+Riccius&amp;search_field=search</field>
+</doc>
+</add>

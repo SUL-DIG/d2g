@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132880</field>
+<field name="genre">Operas</field>
+<field name="title">Faruk</field>
+<field name="titleSort">Faruk</field>
+<field name="composer">Christoph Ernst Weyse</field>
+<field name="composerSort">Weyse, Christoph Ernst</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Adam Oehlenschläger</field>
+<field name="librettistSort">Oehlenschläger, Adam</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faruk+Christoph+Ernst+Weyse&amp;search_field=search</field>
+</doc>
+</add>

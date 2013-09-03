@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201522</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gesù presentato nel tempio</field>
+		<field name="titleSort">Gesù presentato nel tempio</field>
+		<field name="year">1735</field>
+		<field name="month">April</field>
+		<field name="day">5</field>
+		<field name="date">April 5, 1735</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Apostolo Zeno</field>
+		<field name="librettistSort">Zeno, Apostolo</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Circumcision</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesù+presentato+nel+tempio+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

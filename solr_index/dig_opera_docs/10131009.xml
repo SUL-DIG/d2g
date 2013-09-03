@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131009</field>
+<field name="genre">Operas</field>
+<field name="title">The Ice Break</field>
+<field name="titleSort">Ice Break</field>
+<field name="composer">Michael Tippett</field>
+<field name="composerSort">Tippett, Michael</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Michael Tippett</field>
+<field name="librettistSort">Tippett, Michael</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ice+Break+Michael+Tippett&amp;search_field=search</field>
+</doc>
+</add>

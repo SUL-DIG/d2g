@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111239</field>
+<field name="genre">Operas</field>
+<field name="title">Kirbisch</field>
+<field name="titleSort">Kirbisch</field>
+<field name="composer">Heinrich Gattermeyer</field>
+<field name="composerSort">Gattermeyer, Heinrich</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Heinrich Gattermeyer</field>
+<field name="librettistSort">Gattermeyer, Heinrich</field>
+<field name="librettist">Anton Wildgans</field>
+<field name="librettistSort">Wildgans, Anton</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kirbisch+Heinrich+Gattermeyer&amp;search_field=search</field>
+</doc>
+</add>

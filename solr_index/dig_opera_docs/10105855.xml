@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105855</field>
+<field name="genre">Operas</field>
+<field name="title">Der Doktor</field>
+<field name="titleSort">Doktor</field>
+<field name="composer">Josef Chudy</field>
+<field name="composerSort">Chudy, Josef</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Josef Chudy</field>
+<field name="librettistSort">Chudy, Josef</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Neues Schauspielhaus</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Doktor+Josef+Chudy&amp;search_field=search</field>
+</doc>
+</add>

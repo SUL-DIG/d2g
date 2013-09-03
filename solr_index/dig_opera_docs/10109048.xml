@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109048</field>
+<field name="genre">Operas</field>
+<field name="title">La suite а demain</field>
+<field name="titleSort">suite а demain</field>
+<field name="composer">__ Estéban-Marti</field>
+<field name="composerSort">Estéban-Marti, __</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">L. Chassigneux</field>
+<field name="librettistSort">Chassigneux, L.</field>
+<field name="theater">Théâtre Grévin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+suite+а+demain+__+Estéban-Marti&amp;search_field=search</field>
+</doc>
+</add>

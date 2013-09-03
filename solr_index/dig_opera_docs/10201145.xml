@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201145</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Erat fames in terra Canaan</field>
+		<field name="titleSort">Erat fames in terra Canaan</field>
+		
+		
+		
+		
+		<field name="composer">Marco Marazzoli</field>
+		<field name="composerSort">Marazzoli, Marco</field>
+		
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Sarah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erat+fames+in+terra+Canaan+Marco+Marazzoli&amp;search_field=search</field>
+	</doc></add>

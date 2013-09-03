@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203072</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio de Noлl</field>
+		<field name="titleSort">Oratorio de Noлl</field>
+		<field name="year">1858</field>
+		<field name="month">December</field>
+		<field name="day">25</field>
+		<field name="date">December 25, 1858</field>
+		<field name="composer">Camille Saint-Saлns</field>
+		<field name="composerSort">Saint-Sa_ns, Camille</field>
+		
+		
+		<field name="theater">Église de Sainte-Madeleine (Panthéon)</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+de+Noлl+Camille+Saint-Saлns&amp;search_field=search</field>
+	</doc></add>

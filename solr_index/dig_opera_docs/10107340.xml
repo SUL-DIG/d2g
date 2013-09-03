@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107340</field>
+<field name="genre">Operas</field>
+<field name="title">Les sept baisers de Buckingham</field>
+<field name="titleSort">sept baisers de Buckingham</field>
+<field name="composer">Eugène-Joseph Déjazet</field>
+<field name="composerSort">Déjazet, Eugène-Joseph</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Alfred Tranchant</field>
+<field name="librettistSort">Tranchant, Alfred</field>
+<field name="librettist">Léon Coron</field>
+<field name="librettistSort">Coron, Léon</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sept+baisers+de+Buckingham+Eugène-Joseph+Déjazet&amp;search_field=search</field>
+</doc>
+</add>

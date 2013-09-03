@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118840</field>
+<field name="genre">Operas</field>
+<field name="title">Der selige Vincenz</field>
+<field name="titleSort">selige Vincenz</field>
+<field name="composer">Raoul Mader</field>
+<field name="composerSort">Mader, Raoul</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Alexander Landesberg</field>
+<field name="librettistSort">Landesberg, Alexander</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+selige+Vincenz+Raoul+Mader&amp;search_field=search</field>
+</doc>
+</add>

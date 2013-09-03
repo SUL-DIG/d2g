@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108046</field>
+<field name="genre">Operas</field>
+<field name="title">Jean-sans-terre</field>
+<field name="titleSort">Jean-sans-terre</field>
+<field name="composer">Adolf von Doss</field>
+<field name="composerSort">Doss, Adolf von</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Armand Neut</field>
+<field name="librettistSort">Neut, Armand</field>
+<field name="theater">Collège de Saint-Servais</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean-sans-terre+Adolf+von+Doss&amp;search_field=search</field>
+</doc>
+</add>

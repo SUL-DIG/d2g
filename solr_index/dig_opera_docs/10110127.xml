@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110127</field>
+<field name="genre">Operas</field>
+<field name="title">'s Lorle</field>
+<field name="titleSort">Lorle</field>
+<field name="composer">Alban Foerster</field>
+<field name="composerSort">Foerster, Alban</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Hans Scheffsky</field>
+<field name="librettistSort">Scheffsky, Hans</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q='s+Lorle+Alban+Foerster&amp;search_field=search</field>
+</doc>
+</add>

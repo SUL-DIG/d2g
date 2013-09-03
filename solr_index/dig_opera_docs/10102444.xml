@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102444</field>
+<field name="genre">Operas</field>
+<field name="title">Caïla Lapi</field>
+<field name="titleSort">Caïla Lapi</field>
+<field name="composer">Henri van den Berg</field>
+<field name="composerSort">Berg, Henri van den</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Willem Adriaan Alexander Liernur</field>
+<field name="librettistSort">Liernur, Willem Adriaan Alexander</field>
+
+<field name="city">Deventer</field>
+<field name="region">Overijssel</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caïla+Lapi+Henri+van+den+Berg&amp;search_field=search</field>
+</doc>
+</add>

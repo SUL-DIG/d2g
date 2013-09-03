@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106562</field>
+<field name="genre">Operas</field>
+<field name="title">Oaunel de Salamão</field>
+<field name="titleSort">Oaunel de Salamão</field>
+<field name="composer">Antonio Coppola</field>
+<field name="composerSort">Coppola, Antonio</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">José da Silva Mendes Leal</field>
+<field name="librettistSort">Leal, José da Silva Mendes</field>
+<field name="theater">Teatro Laranjeiras</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oaunel+de+Salamão+Antonio+Coppola&amp;search_field=search</field>
+</doc>
+</add>

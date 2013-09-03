@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101032</field>
+<field name="genre">Operas</field>
+<field name="title">Cymon</field>
+<field name="titleSort">Cymon</field>
+<field name="composer">Michael Arne</field>
+<field name="composerSort">Arne, Michael</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">David Garrick</field>
+<field name="librettistSort">Garrick, David</field>
+<field name="librettist">John Dryden</field>
+<field name="librettistSort">Dryden, John</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cymon+Michael+Arne&amp;search_field=search</field>
+</doc>
+</add>

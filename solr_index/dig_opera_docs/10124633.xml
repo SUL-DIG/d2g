@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124633</field>
+<field name="genre">Operas</field>
+<field name="title">The Kentucky Story</field>
+<field name="titleSort">Kentucky Story</field>
+<field name="composer">Jon J. Polifrone</field>
+<field name="composerSort">Polifrone, Jon J.</field>
+<field name="year">1966</field>
+<field name="date">1966</field><field name="theater">Union College</field>
+<field name="city">Barbourville</field>
+<field name="region">Kentucky</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Kentucky+Story+Jon+J.+Polifrone&amp;search_field=search</field>
+</doc>
+</add>

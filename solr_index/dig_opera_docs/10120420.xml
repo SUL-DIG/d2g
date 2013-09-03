@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120420</field>
+<field name="genre">Operas</field>
+<field name="title">Mirette</field>
+<field name="titleSort">Mirette</field>
+<field name="composer">André Messager</field>
+<field name="composerSort">Messager, André</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="librettist">Frederick Edwards Weatherly</field>
+<field name="librettistSort">Weatherly, Frederick Edwards</field>
+<field name="theater">Savoy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirette+André+Messager&amp;search_field=search</field>
+</doc>
+</add>

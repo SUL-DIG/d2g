@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119252</field>
+<field name="genre">Operas</field>
+<field name="title">"La vita humana, ovvero Il trionfo della pietа</field>
+<field name="titleSort">"vita humana, ovvero Il trionfo della pietа"</field>
+<field name="composer">Marco Marazzoli</field>
+<field name="composerSort">Marazzoli, Marco</field>
+<field name="year">1656</field>
+<field name="date">1656</field>
+<field name="librettist">Giulio Rospigliosi</field>
+<field name="librettistSort">Rospigliosi, Giulio</field>
+<field name="theater">Palazzo Barberini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vita+humana,+ovvero+Il+trionfo+della+pietа+Marco+Marazzoli&amp;search_field=search</field>
+</doc>
+</add>

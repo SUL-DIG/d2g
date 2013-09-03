@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104550</field>
+<field name="genre">Operas</field>
+<field name="title">The Selfish Giant</field>
+<field name="titleSort">Selfish Giant</field>
+<field name="composer">Barrie Cabena</field>
+<field name="composerSort">Cabena, Barrie</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">First Saint Andrew's United Church</field>
+<field name="city">London</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Selfish+Giant+Barrie+Cabena&amp;search_field=search</field>
+</doc>
+</add>

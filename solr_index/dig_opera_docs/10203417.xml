@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203417</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Pilgrim's Progress</field>
+		<field name="titleSort">Pilgrim's Progress</field>
+		<field name="year">1933</field>
+		
+		
+		<field name="date">1933</field>
+		<field name="composer">Robin Humphrey Milford</field>
+		<field name="composerSort">Milford, Robin Humphrey</field>
+		<field name="librettist">John Bunyan</field>
+		<field name="librettistSort">Bunyan, John</field>
+		
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pilgrim's+Progress+Robin+Humphrey+Milford&amp;search_field=search</field>
+	</doc></add>

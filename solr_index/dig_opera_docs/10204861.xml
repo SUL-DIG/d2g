@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204861</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vittoria di San Filippo Neri</field>
+		<field name="titleSort">vittoria di San Filippo Neri</field>
+		<field name="year">1669</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1669</field>
+		<field name="composer">Maurizio Cazzati</field>
+		<field name="composerSort">Cazzati, Maurizio</field>
+		
+		
+		<field name="theater">Casa del conte Astore Orsi</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Philip Neri</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">May 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittoria+di+San+Filippo+Neri+Maurizio+Cazzati&amp;search_field=search</field>
+	</doc></add>

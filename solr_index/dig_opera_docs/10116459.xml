@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116459</field>
+<field name="genre">Operas</field>
+<field name="title">Zenichové (The Bridegrooms)</field>
+<field name="titleSort">Zenichové (The Bridegrooms)</field>
+<field name="composer">Karel Kovarovic</field>
+<field name="composerSort">Kovarovic, Karel</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Antonín Koukl</field>
+<field name="librettistSort">Koukl, Antonín</field>
+<field name="librettist">Simeon Karel Machácek</field>
+<field name="librettistSort">Machácek, Simeon Karel</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zenichové+The+Bridegrooms+Karel+Kovarovic&amp;search_field=search</field>
+</doc>
+</add>

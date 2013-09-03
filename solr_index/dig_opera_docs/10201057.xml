@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201057</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I due sposi felici, Sara e Tobia</field>
+		<field name="titleSort">due sposi felici, Sara e Tobia</field>
+		<field name="year">1720</field>
+		
+		
+		<field name="date">1720</field>
+		<field name="composer">Francesco Gasparini</field>
+		<field name="composerSort">Gasparini, Francesco</field>
+		
+		
+		<field name="theater">Compagnia dell'Arcangelo Raffaello detta La Scala</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Wedding of Tobias and Sara</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+sposi+felici,+Sara+e+Tobia+Francesco+Gasparini&amp;search_field=search</field>
+	</doc></add>

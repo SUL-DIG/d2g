@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117303</field>
+<field name="genre">Operas</field>
+<field name="title">Mrs. Dalloway</field>
+<field name="titleSort">Mrs. Dalloway</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Bonnie Grice</field>
+<field name="librettistSort">Grice, Bonnie</field>
+<field name="librettist">Virginia Woolf</field>
+<field name="librettistSort">Woolf, Virginia</field>
+<field name="theater">Lyric Opera</field>
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mrs.+Dalloway+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

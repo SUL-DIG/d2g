@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100165</field>
+<field name="genre">Operas</field>
+<field name="title">Nixon in China</field>
+<field name="titleSort">Nixon in China</field>
+<field name="composer">John Adams</field>
+<field name="composerSort">Adams, John</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Alice Goodman</field>
+<field name="librettistSort">Goodman, Alice</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nixon+in+China+John+Adams&amp;search_field=search</field>
+</doc>
+</add>

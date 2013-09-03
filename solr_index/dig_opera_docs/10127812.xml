@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127812</field>
+<field name="genre">Operas</field>
+<field name="title">"O la borsa, o la vita</field>
+<field name="titleSort">"O la borsa, o la vita"</field>
+<field name="composer">Edoardo Sassone</field>
+<field name="composerSort">Sassone, Edoardo</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Girolamo Clemente Tomei</field>
+<field name="librettistSort">Tomei, Girolamo Clemente</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Mortara</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+la+borsa,+o+la+vita+Edoardo+Sassone&amp;search_field=search</field>
+</doc>
+</add>

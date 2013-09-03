@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130742</field>
+<field name="genre">Operas</field>
+<field name="title">Zemire</field>
+<field name="titleSort">Zemire</field>
+<field name="composer">Tigran Tchukhatjian</field>
+<field name="composerSort">Tchukhatjian, Tigran</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">T. Galymdjian</field>
+<field name="librettistSort">Galymdjian, T.</field>
+<field name="theater">Vardovian Theater</field>
+<field name="city">Istanbul</field>
+
+<field name="country">Turkey</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zemire+Tigran+Tchukhatjian&amp;search_field=search</field>
+</doc>
+</add>

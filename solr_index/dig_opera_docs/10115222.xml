@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115222</field>
+<field name="genre">Operas</field>
+<field name="title">Put oko zemlje za osamdeset dana</field>
+<field name="titleSort">Put oko zemlje za osamdeset dana</field>
+<field name="composer">Davorin Jenko</field>
+<field name="composerSort">Jenko, Davorin</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="librettist">Jules Verne</field>
+<field name="librettistSort">Verne, Jules</field>
+<field name="theater">Narodno Pozorista</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Put+oko+zemlje+za+osamdeset+dana+Davorin+Jenko&amp;search_field=search</field>
+</doc>
+</add>

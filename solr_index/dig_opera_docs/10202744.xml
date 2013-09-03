@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202744</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Miracle of Bethany</field>
+		<field name="titleSort">Miracle of Bethany</field>
+		<field name="year">1892</field>
+		
+		
+		<field name="date">1892</field>
+		<field name="composer">Arthur James Greenish</field>
+		<field name="composerSort">Greenish, Arthur James</field>
+		
+		
+		
+		<field name="city">Cambridge</field>
+		<field name="region">Cambridgeshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Miracle+of+Bethany+Arthur+James+Greenish&amp;search_field=search</field>
+	</doc></add>

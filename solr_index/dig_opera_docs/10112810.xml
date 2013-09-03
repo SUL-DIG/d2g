@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112810</field>
+<field name="genre">Operas</field>
+<field name="title">La quenouille de verre</field>
+<field name="titleSort">quenouille de verre</field>
+<field name="composer">Charles Grisart</field>
+<field name="composerSort">Grisart, Charles</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Albert Millaud</field>
+<field name="librettistSort">Millaud, Albert</field>
+<field name="librettist">Henri Heugel</field>
+<field name="librettistSort">Heugel, Henri</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+quenouille+de+verre+Charles+Grisart&amp;search_field=search</field>
+</doc>
+</add>

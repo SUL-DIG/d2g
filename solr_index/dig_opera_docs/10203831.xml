@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203831</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Fabio</field>
+		<field name="titleSort">San Fabio</field>
+		
+		
+		
+		
+		<field name="composer">Angelo Resi</field>
+		<field name="composerSort">Resi, Angelo</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Fabius</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">31</field>
+		<field name="feastDate">July 31</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Fabio+Angelo+Resi&amp;search_field=search</field>
+	</doc></add>

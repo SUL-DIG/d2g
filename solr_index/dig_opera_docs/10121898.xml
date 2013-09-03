@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121898</field>
+<field name="genre">Operas</field>
+<field name="title">The Guilt of Lillian Sloane</field>
+<field name="titleSort">Guilt of Lillian Sloane</field>
+<field name="composer">William Neil</field>
+<field name="composerSort">Neil, William</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Frank Galati</field>
+<field name="librettistSort">Galati, Frank</field>
+<field name="theater">Northwestern University</field>
+<field name="city">Evanston</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Guilt+of+Lillian+Sloane+William+Neil&amp;search_field=search</field>
+</doc>
+</add>

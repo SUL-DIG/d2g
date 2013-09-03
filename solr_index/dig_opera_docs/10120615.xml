@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120615</field>
+<field name="genre">Operas</field>
+<field name="title">Toldi szerelme (Toldi's Love)</field>
+<field name="titleSort">Toldi szerelme (Toldi's Love)</field>
+<field name="composer">Ödön Mihalovich</field>
+<field name="composerSort">Mihalovich, Ödön</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Gergely Csíky</field>
+<field name="librettistSort">Csíky, Gergely</field>
+<field name="librettist">Emil Abrányi</field>
+<field name="librettistSort">Abrányi, Emil</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toldi+szerelme+Toldi's+Love+Ödön+Mihalovich&amp;search_field=search</field>
+</doc>
+</add>

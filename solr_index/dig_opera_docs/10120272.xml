@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120272</field>
+<field name="genre">Operas</field>
+<field name="title">Chip and his Dog</field>
+<field name="titleSort">Chip and his Dog</field>
+<field name="composer">Gian Carlo Menotti</field>
+<field name="composerSort">Menotti, Gian Carlo</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Gian Carlo Menotti</field>
+<field name="librettistSort">Menotti, Gian Carlo</field>
+<field name="theater">University of Guelph</field>
+<field name="city">Guelph</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chip+and+his+Dog+Gian+Carlo+Menotti&amp;search_field=search</field>
+</doc>
+</add>

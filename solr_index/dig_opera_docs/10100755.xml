@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100755</field>
+<field name="genre">Operas</field>
+<field name="title">Cleopatra</field>
+<field name="titleSort">Cleopatra</field>
+<field name="composer">Pasquale Anfossi</field>
+<field name="composerSort">Anfossi, Pasquale</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Mattia Verazi</field>
+<field name="librettistSort">Verazi, Mattia</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleopatra+Pasquale+Anfossi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202218</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Job</field>
+		<field name="titleSort">Job</field>
+		
+		
+		
+		
+		<field name="composer">Edmund Thomas Chipp</field>
+		<field name="composerSort">Chipp, Edmund Thomas</field>
+		
+		
+		<field name="theater">Ulster Hall</field>
+		<field name="city">Belfast</field>
+		<field name="region">Northern Ireland</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Job</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Job+Edmund+Thomas+Chipp&amp;search_field=search</field>
+	</doc></add>

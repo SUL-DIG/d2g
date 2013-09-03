@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124719</field>
+<field name="genre">Operas</field>
+<field name="title">Il Roderico</field>
+<field name="titleSort">Roderico</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1687</field>
+<field name="date">1687</field>
+<field name="librettist">Giovanni Battista Bottalino</field>
+<field name="librettistSort">Bottalino, Giovanni Battista</field>
+<field name="theater">Teatro dei Temperati</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Roderico+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

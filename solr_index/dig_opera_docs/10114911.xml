@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114911</field>
+<field name="genre">Operas</field>
+<field name="title">Magda</field>
+<field name="titleSort">Magda</field>
+<field name="composer">Pasquale Indaco</field>
+<field name="composerSort">Indaco, Pasquale</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">A. Viges</field>
+<field name="librettistSort">Viges, A.</field>
+<field name="theater">Teatro Garibaldi</field>
+<field name="city">Santa Maria Capua Vetere</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magda+Pasquale+Indaco&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104037</field>
+<field name="genre">Operas</field>
+<field name="title">Vremuri de vitejie (Times of Bravery)</field>
+<field name="titleSort">Vremuri de vitejie (Times of Bravery)</field>
+<field name="composer">Teodor Bratu</field>
+<field name="composerSort">Bratu, Teodor</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Teodor Bratu</field>
+<field name="librettistSort">Bratu, Teodor</field>
+<field name="theater">Muzical Teatrul</field>
+<field name="city">Brasov</field>
+<field name="region">Brasov</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vremuri+de+vitejie+Times+of+Bravery+Teodor+Bratu&amp;search_field=search</field>
+</doc>
+</add>

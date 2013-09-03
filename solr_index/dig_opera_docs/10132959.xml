@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132959</field>
+<field name="genre">Operas</field>
+<field name="title">Raffaello le chanteur</field>
+<field name="titleSort">Raffaello le chanteur</field>
+<field name="composer">Eugène Willent-Bordogni</field>
+<field name="composerSort">Willent-Bordogni, Eugène</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Édouard Legentil</field>
+<field name="librettistSort">Legentil, Édouard</field>
+<field name="librettist">Hippolyte Ryon</field>
+<field name="librettistSort">Ryon, Hippolyte</field>
+<field name="theater">Opéra-National-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raffaello+le+chanteur+Eugène+Willent-Bordogni&amp;search_field=search</field>
+</doc>
+</add>

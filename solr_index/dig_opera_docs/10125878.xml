@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125878</field>
+<field name="genre">Operas</field>
+<field name="title">Kitty és Kató</field>
+<field name="titleSort">Kitty és Kató</field>
+<field name="composer">Aladár Rényi</field>
+<field name="composerSort">Rényi, Aladár</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="theater">Király Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kitty+és+Kató+Aladár+Rényi&amp;search_field=search</field>
+</doc>
+</add>

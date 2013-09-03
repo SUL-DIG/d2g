@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121175</field>
+<field name="genre">Operas</field>
+<field name="title">La marraine de l'escouade</field>
+<field name="titleSort">marraine de l'escouade</field>
+<field name="composer">Henry Moreau-Febvre</field>
+<field name="composerSort">Moreau-Febvre, Henry</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">André Mouëzy-Éon</field>
+<field name="librettistSort">Mouëzy-Éon, André</field>
+<field name="librettist">Charles Daveillans</field>
+<field name="librettistSort">Daveillans, Charles</field>
+<field name="theater">Théâtre-Lyrique du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+marraine+de+l'escouade+Henry+Moreau-Febvre&amp;search_field=search</field>
+</doc>
+</add>

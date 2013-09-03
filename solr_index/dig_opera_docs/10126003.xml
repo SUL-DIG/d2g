@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126003</field>
+<field name="genre">Operas</field>
+<field name="title">Ritter Blaubart</field>
+<field name="titleSort">Ritter Blaubart</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Herbert Eulenberg</field>
+<field name="librettistSort">Eulenberg, Herbert</field>
+<field name="theater">Hessisches Landestheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ritter+Blaubart+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

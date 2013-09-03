@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102182</field>
+<field name="genre">Operas</field>
+<field name="title">Leonore (Fidelio)</field>
+<field name="titleSort">Leonore (Fidelio)</field>
+<field name="composer">Ludwig van Beethoven</field>
+<field name="composerSort">Beethoven, Ludwig van</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Joseph Ferdinand von Sonnleithner</field>
+<field name="librettistSort">Sonnleithner, Joseph Ferdinand von</field>
+<field name="librettist">Jean-Nicolas Bouilly</field>
+<field name="librettistSort">Bouilly, Jean-Nicolas</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonore+Fidelio+Ludwig+van+Beethoven&amp;search_field=search</field>
+</doc>
+</add>

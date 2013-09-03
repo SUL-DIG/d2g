@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111917</field>
+<field name="genre">Operas</field>
+<field name="title">"La nièce vengée, ou Les petits comédiens</field>
+<field name="titleSort">"nièce vengée, ou Les petits comédiens"</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1731</field>
+<field name="date">1731</field>
+<field name="librettist">Charles-François Pannard</field>
+<field name="librettistSort">Pannard, Charles-François</field>
+<field name="librettist">Christophe-Barthelemy Fagan</field>
+<field name="librettistSort">Fagan, Christophe-Barthelemy</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nièce+vengée,+ou+Les+petits+comédiens+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

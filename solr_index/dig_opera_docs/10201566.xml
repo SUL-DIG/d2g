@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201566</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gilgamesch</field>
+		<field name="titleSort">Gilgamesch</field>
+		<field name="year">1956</field>
+		
+		
+		<field name="date">1956</field>
+		<field name="composer">Alfred Uhl</field>
+		<field name="composerSort">Uhl, Alfred</field>
+		<field name="librettist">Alfred Uhl</field>
+		<field name="librettistSort">Uhl, Alfred</field>
+		<field name="librettist">Andreas Liess</field>
+		<field name="librettistSort">Liess, Andreas</field>
+		
+		
+		
+		
+		<field name="subject">Gilgamesh</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gilgamesch+Alfred+Uhl&amp;search_field=search</field>
+	</doc></add>

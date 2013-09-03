@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116372</field>
+<field name="genre">Operas</field>
+<field name="title">Kasa Mare</field>
+<field name="titleSort">Kasa Mare</field>
+<field name="composer">Mark Ruvinovich Kopytman</field>
+<field name="composerSort">Kopytman, Mark Ruvinovich</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Viktor Teleuke</field>
+<field name="librettistSort">Teleuke, Viktor</field>
+<field name="librettist">Ion Druta</field>
+<field name="librettistSort">Druta, Ion</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu imeni I. Franka</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kasa+Mare+Mark+Ruvinovich+Kopytman&amp;search_field=search</field>
+</doc>
+</add>

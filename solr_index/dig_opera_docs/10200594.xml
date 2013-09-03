@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200594</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christi Grablegung</field>
+		<field name="titleSort">Christi Grablegung</field>
+		<field name="year">1827</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1827</field>
+		<field name="composer">Sigismund Neukomm</field>
+		<field name="composerSort">Neukomm, Sigismund</field>
+		<field name="librettist">Friedrich Gottlieb Klopstock</field>
+		<field name="librettistSort">Klopstock, Friedrich Gottli</field>
+		
+		
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Entombment of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christi+Grablegung+Sigismund+Neukomm&amp;search_field=search</field>
+	</doc></add>

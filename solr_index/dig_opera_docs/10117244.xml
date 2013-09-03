@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117244</field>
+<field name="genre">Operas</field>
+<field name="title">"Élisabeth, ou L'héroïsme filial</field>
+<field name="titleSort">"Élisabeth, ou L'héroïsme filial"</field>
+<field name="composer">J. Lanusse</field>
+<field name="composerSort">Lanusse, J.</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Joseph Aude</field>
+<field name="librettistSort">Aude, Joseph</field>
+<field name="librettist">Henri-Joseph Thuring de Ryss</field>
+<field name="librettistSort">Thuring deRyss, Henri-Joseph</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Élisabeth,+ou+L'héroïsme+filial+J.+Lanusse&amp;search_field=search</field>
+</doc>
+</add>

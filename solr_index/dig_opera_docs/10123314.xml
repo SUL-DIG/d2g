@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123314</field>
+<field name="genre">Operas</field>
+<field name="title">Cap and Gown</field>
+<field name="titleSort">Cap and Gown</field>
+<field name="composer">Joseph Parry</field>
+<field name="composerSort">Parry, Joseph</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Benjamin John</field>
+<field name="librettistSort">John, Benjamin</field>
+<field name="theater">South Wales School of Music</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cap+and+Gown+Joseph+Parry&amp;search_field=search</field>
+</doc>
+</add>

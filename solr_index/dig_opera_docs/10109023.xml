@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109023</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Bakunawa</field>
+<field name="titleSort">Legend of Bakunawa</field>
+<field name="composer">Noni Espina</field>
+<field name="composerSort">Espina, Noni</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Noni Espina</field>
+<field name="librettistSort">Espina, Noni</field>
+
+<field name="city">Maasin</field>
+
+<field name="country">Phillipines</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Bakunawa+Noni+Espina&amp;search_field=search</field>
+</doc>
+</add>

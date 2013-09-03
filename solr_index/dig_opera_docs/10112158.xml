@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112158</field>
+<field name="genre">Operas</field>
+<field name="title">Once Too Often</field>
+<field name="titleSort">Once Too Often</field>
+<field name="composer">William Howard Glover</field>
+<field name="composerSort">Glover, William Howard</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">William Howard Glover</field>
+<field name="librettistSort">Glover, William Howard</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Once+Too+Often+William+Howard+Glover&amp;search_field=search</field>
+</doc>
+</add>

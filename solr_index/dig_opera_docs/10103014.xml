@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103014</field>
+<field name="genre">Operas</field>
+<field name="title">Winona</field>
+<field name="titleSort">Winona</field>
+<field name="composer">Alberto Bimboni</field>
+<field name="composerSort">Bimboni, Alberto</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Perry Williams</field>
+<field name="librettistSort">Williams, Perry</field>
+<field name="theater">American Grand Opera Company</field>
+<field name="city">Portland</field>
+<field name="region">Oregon</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Winona+Alberto+Bimboni&amp;search_field=search</field>
+</doc>
+</add>

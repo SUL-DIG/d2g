@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106345</field>
+<field name="genre">Operas</field>
+<field name="title">Le retour des dieux sur la terre</field>
+<field name="titleSort">retour des dieux sur la terre</field>
+<field name="composer">François Collin de Blamont</field>
+<field name="composerSort">Collin de Blamont, François </field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Alexandre Tannevot</field>
+<field name="librettistSort">Tannevot, Alexandre</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+retour+des+dieux+sur+la+terre+François+Collin+de+Blamont&amp;search_field=search</field>
+</doc>
+</add>

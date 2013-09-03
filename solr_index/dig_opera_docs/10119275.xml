@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119275</field>
+<field name="genre">Operas</field>
+<field name="title">Lifkronan</field>
+<field name="titleSort">Lifkronan</field>
+<field name="composer">Ulderico Marcelli</field>
+<field name="composerSort">Marcelli, Ulderico</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Kenneth G. Hook</field>
+<field name="librettistSort">Hook, Kenneth G.</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lifkronan+Ulderico+Marcelli&amp;search_field=search</field>
+</doc>
+</add>

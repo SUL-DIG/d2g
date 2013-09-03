@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132140</field>
+<field name="genre">Operas</field>
+<field name="title">Fiorina</field>
+<field name="titleSort">Fiorina</field>
+<field name="composer">Mario Vitali</field>
+<field name="composerSort">Vitali, Mario</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Francesco Cimmino</field>
+<field name="librettistSort">Cimmino, Francesco</field>
+<field name="theater">Collegio di Musica</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiorina+Mario+Vitali&amp;search_field=search</field>
+</doc>
+</add>

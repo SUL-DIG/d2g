@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110544</field>
+<field name="genre">Operas</field>
+<field name="title">Dnevnik Annï Frank (The Diary of Anne Frank)</field>
+<field name="titleSort">Dnevnik Annï Frank (The Diary of Anne Frank)</field>
+<field name="composer">Grigory Samuilovich Frid</field>
+<field name="composerSort">Frid, Grigory Samuilovich</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Grigory Samuilovich Frid</field>
+<field name="librettistSort">Frid, Grigory Samuilovich</field>
+<field name="librettist">Anne Frank</field>
+<field name="librettistSort">Frank, Anne</field>
+<field name="theater">All-Union House of Composers</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dnevnik+Annï+Frank+The+Diary+of+Anne+Frank+Grigory+Samuilovich+Frid&amp;search_field=search</field>
+</doc>
+</add>

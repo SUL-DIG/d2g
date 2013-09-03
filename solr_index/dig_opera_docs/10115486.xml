@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115486</field>
+<field name="genre">Operas</field>
+<field name="title">Banise</field>
+<field name="titleSort">Banise</field>
+<field name="composer">Johann Käfer</field>
+<field name="composerSort">Käfer, Johann</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Heinrich Anselm von Ziegler und Kliphausen</field>
+<field name="librettistSort">Ziegler und Kliphausen, Heinrich Anselm von </field>
+
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Banise+Johann+Käfer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117302</field>
+<field name="genre">Operas</field>
+<field name="title">"Frankenstein, or The Modern Prometheus</field>
+<field name="titleSort">"Frankenstein, or The Modern Prometheus"</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Libby Larsen</field>
+<field name="librettistSort">Larsen, Libby</field>
+<field name="librettist">Mary Wollstonecraft Shelley</field>
+<field name="librettistSort">Shelley, Mary Wollstonecraft</field>
+<field name="theater">Ordway Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frankenstein,+or+The+Modern+Prometheus+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

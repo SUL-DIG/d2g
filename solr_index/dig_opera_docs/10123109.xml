@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123109</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti ridicoli</field>
+<field name="titleSort">amanti ridicoli</field>
+<field name="composer">Silvestro Palma</field>
+<field name="composerSort">Palma, Silvestro</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+ridicoli+Silvestro+Palma&amp;search_field=search</field>
+</doc>
+</add>

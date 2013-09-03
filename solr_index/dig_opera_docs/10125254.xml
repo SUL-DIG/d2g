@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125254</field>
+<field name="genre">Operas</field>
+<field name="title">Il fuoruscito</field>
+<field name="titleSort">fuoruscito</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fuoruscito+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

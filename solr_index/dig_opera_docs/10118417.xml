@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118417</field>
+<field name="genre">Operas</field>
+<field name="title">La fête en Camargue</field>
+<field name="titleSort">fête en Camargue</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Daniel Ringold</field>
+<field name="librettistSort">Ringold, Daniel</field>
+<field name="librettist">Claude Dufresne</field>
+<field name="librettistSort">Dufresne, Claude</field>
+
+<field name="city">Saint-Étienne</field>
+<field name="region">Loire</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+en+Camargue+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

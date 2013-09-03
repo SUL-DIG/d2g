@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123247</field>
+<field name="genre">Operas</field>
+<field name="title">El cabesota</field>
+<field name="titleSort">cabesota</field>
+<field name="composer">Antonio Paredes</field>
+<field name="composerSort">Paredes, Antonio</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Doroteo Berriatúa y Gorroсo</field>
+<field name="librettistSort">Berriatúa y Gorroсo, Doroteo</field>
+<field name="librettist">Jesus Aguado Soriano</field>
+<field name="librettistSort">Aguado Soriano, Jesus</field>
+<field name="theater">Teatro Barbieri</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+cabesota+Antonio+Paredes&amp;search_field=search</field>
+</doc>
+</add>

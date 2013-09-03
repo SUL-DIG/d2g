@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104543</field>
+<field name="genre">Operas</field>
+<field name="title">Elisabetta di Valois</field>
+<field name="titleSort">Elisabetta di Valois</field>
+<field name="composer">Antonio Buzzolla</field>
+<field name="composerSort">Buzzolla, Antonio</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisabetta+di+Valois+Antonio+Buzzolla&amp;search_field=search</field>
+</doc>
+</add>

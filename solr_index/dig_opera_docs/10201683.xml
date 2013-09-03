@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201683</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuseppe glorificato in Egitto (Giuseppe riconosciuto)</field>
+		<field name="titleSort">Giuseppe glorificato in Egitto (Giuseppe riconosciuto)</field>
+		<field name="year">1749</field>
+		
+		
+		<field name="date">1749</field>
+		<field name="composer">Niccolò Jommelli</field>
+		<field name="composerSort">Jommelli, Niccolò</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Collegio Nazareno</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuseppe+glorificato+in+Egitto+(Giuseppe+riconosciuto)+Niccolò+Jommelli&amp;search_field=search</field>
+	</doc></add>

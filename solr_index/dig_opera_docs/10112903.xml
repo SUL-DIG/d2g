@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112903</field>
+<field name="genre">Operas</field>
+<field name="title">Die Magd der Frau</field>
+<field name="titleSort">Magd der Frau</field>
+<field name="composer">Ignaz Gspan</field>
+<field name="composerSort">Gspan, Ignaz</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Joseph Felix von Kurz</field>
+<field name="librettistSort">Kurz, Joseph Felix von</field>
+<field name="theater">Theater beim Fasan am Neustift</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Magd+der+Frau+Ignaz+Gspan&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115945</field>
+<field name="genre">Operas</field>
+<field name="title">Optimisticheskaya tragediya</field>
+<field name="titleSort">Optimisticheskaya tragediya</field>
+<field name="composer">Aleksandr Nikolayevich Kholminov</field>
+<field name="composerSort">Kholminov, Aleksandr Nikolayevich</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Aleksandr Nikolayevich Kholminov</field>
+<field name="librettistSort">Kholminov, Aleksandr Nikolayevich</field>
+<field name="librettist">Vsevolod Vishnevsky</field>
+<field name="librettistSort">Vishnevsky, Vsevolod</field>
+<field name="theater">Kirghiz Teatr Operï i Baleta</field>
+<field name="city">Biskek</field>
+
+<field name="country">Kyrgyzstan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Optimisticheskaya+tragediya+Aleksandr+Nikolayevich+Kholminov&amp;search_field=search</field>
+</doc>
+</add>

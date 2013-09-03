@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104847</field>
+<field name="genre">Operas</field>
+<field name="title">L'immaginario</field>
+<field name="titleSort">immaginario</field>
+<field name="composer">Francesco Cannetti (1)</field>
+<field name="composerSort">Cannetti (1), Francesco</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="city">Brescia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'immaginario+Francesco+Cannetti+-1&amp;search_field=search</field>
+</doc>
+</add>

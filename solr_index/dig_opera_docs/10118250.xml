@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118250</field>
+<field name="genre">Operas</field>
+<field name="title">L'augellin bel verde</field>
+<field name="titleSort">augellin bel verde</field>
+<field name="composer">Fernando Liuzzi</field>
+<field name="composerSort">Liuzzi, Fernando</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Carlo Gozzi</field>
+<field name="librettistSort">Gozzi, Carlo</field>
+<field name="theater">Teatro dei Piccoli</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'augellin+bel+verde+Fernando+Liuzzi&amp;search_field=search</field>
+</doc>
+</add>

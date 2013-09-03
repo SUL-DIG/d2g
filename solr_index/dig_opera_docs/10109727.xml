@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109727</field>
+<field name="genre">Operas</field>
+<field name="title">Gilles chante et danse</field>
+<field name="titleSort">Gilles chante et danse</field>
+<field name="composer">André Fijan</field>
+<field name="composerSort">Fijan, André</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Alexandre Dréville</field>
+<field name="librettistSort">Dréville, Alexandre</field>
+<field name="theater">Opéra</field>
+<field name="city">Vichy</field>
+<field name="region">Allier</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gilles+chante+et+danse+André+Fijan&amp;search_field=search</field>
+</doc>
+</add>

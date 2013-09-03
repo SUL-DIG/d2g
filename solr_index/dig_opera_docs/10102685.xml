@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102685</field>
+<field name="genre">Operas</field>
+<field name="title">Der neue Burgermeister</field>
+<field name="titleSort">neue Burgermeister</field>
+<field name="composer">Heinrich Berté</field>
+<field name="composerSort">Berté, Heinrich</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Ernst Gettke</field>
+<field name="librettistSort">Gettke, Ernst</field>
+<field name="librettist">Robert Pohl</field>
+<field name="librettistSort">Pohl, Robert</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+neue+Burgermeister+Heinrich+Berté&amp;search_field=search</field>
+</doc>
+</add>

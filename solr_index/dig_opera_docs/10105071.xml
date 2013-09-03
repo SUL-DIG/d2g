@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105071</field>
+<field name="genre">Operas</field>
+<field name="title">La bella ostessa del Granatello</field>
+<field name="titleSort">bella ostessa del Granatello</field>
+<field name="composer">Nicola Carparelli</field>
+<field name="composerSort">Carparelli, Nicola</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+<field name="theater">Conservatorio di San Pietro a Majella</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bella+ostessa+del+Granatello+Nicola+Carparelli&amp;search_field=search</field>
+</doc>
+</add>

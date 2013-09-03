@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128198</field>
+<field name="genre">Operas</field>
+<field name="title">La Zanina finta contessa</field>
+<field name="titleSort">Zanina finta contessa</field>
+<field name="composer">Gaetano Maria Schiassi</field>
+<field name="composerSort">Schiassi, Gaetano Maria</field>
+<field name="year">1728</field>
+<field name="date">1728</field><field name="theater">Teatro Molza</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Zanina+finta+contessa+Gaetano+Maria+Schiassi&amp;search_field=search</field>
+</doc>
+</add>

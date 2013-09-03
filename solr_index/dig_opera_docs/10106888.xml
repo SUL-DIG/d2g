@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106888</field>
+<field name="genre">Operas</field>
+<field name="title">Dr. Syn</field>
+<field name="titleSort">Dr. Syn</field>
+<field name="composer">Adrian Cruft</field>
+<field name="composerSort">Cruft, Adrian</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Johanna Platt</field>
+<field name="librettistSort">Platt, Johanna</field>
+<field name="librettist">Russell Thorndike</field>
+<field name="librettistSort">Thorndike, Russell</field>
+<field name="theater">Norton Knatchbull School</field>
+<field name="city">Ashford</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Syn+Adrian+Cruft&amp;search_field=search</field>
+</doc>
+</add>

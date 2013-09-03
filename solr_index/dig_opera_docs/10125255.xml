@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125255</field>
+<field name="genre">Operas</field>
+<field name="title">Ginevra di Scozia</field>
+<field name="titleSort">Ginevra di Scozia</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra+di+Scozia+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

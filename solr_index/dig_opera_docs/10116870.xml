@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116870</field>
+<field name="genre">Operas</field>
+<field name="title">Der kleine Klaus</field>
+<field name="titleSort">kleine Klaus</field>
+<field name="composer">Arthur Kusterer</field>
+<field name="composerSort">Kusterer, Arthur</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Arthur Kusterer</field>
+<field name="librettistSort">Kusterer, Arthur</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Badisches Landesbühne</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+Klaus+Arthur+Kusterer&amp;search_field=search</field>
+</doc>
+</add>

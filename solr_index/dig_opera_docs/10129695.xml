@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129695</field>
+<field name="genre">Operas</field>
+<field name="title">"The Critic, or An Opera Rehearsed</field>
+<field name="titleSort">"Critic, or An Opera Rehearsed"</field>
+<field name="composer">Charles Villiers Stanford</field>
+<field name="composerSort">Stanford, Charles Villiers</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Lewis Cairns James</field>
+<field name="librettistSort">James, Lewis Cairns</field>
+<field name="librettist">Richard Brinsley Sheridan</field>
+<field name="librettistSort">Sheridan, Richard Brinsley</field>
+<field name="theater">Shaftesbury Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Critic,+or+An+Opera+Rehearsed+Charles+Villiers+Stanford&amp;search_field=search</field>
+</doc>
+</add>

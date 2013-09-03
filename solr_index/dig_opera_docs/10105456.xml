@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105456</field>
+<field name="genre">Operas</field>
+<field name="title">Dix contre un</field>
+<field name="titleSort">Dix contre un</field>
+<field name="composer">Henri Cellot</field>
+<field name="composerSort">Cellot, Henri</field>
+<field name="year">1865</field>
+<field name="date">1865</field><field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dix+contre+un+Henri+Cellot&amp;search_field=search</field>
+</doc>
+</add>

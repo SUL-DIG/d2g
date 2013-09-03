@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127236</field>
+<field name="genre">Operas</field>
+<field name="title">Dardanus</field>
+<field name="titleSort">Dardanus</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Nicolas-François Guillard</field>
+<field name="librettistSort">Guillard, Nicolas-François</field>
+<field name="theater">Théâtre du Trianon</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dardanus+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

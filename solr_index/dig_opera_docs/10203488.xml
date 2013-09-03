@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203488</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Prodigal Son</field>
+		<field name="titleSort">Prodigal Son</field>
+		<field name="year">1866</field>
+		
+		
+		<field name="date">1866</field>
+		<field name="composer">Joseph Parry</field>
+		<field name="composerSort">Parry, Joseph</field>
+		
+		
+		<field name="theater">Chester Festival</field>
+		<field name="city">Chester</field>
+		<field name="region">Cheshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Prodigal+Son+Joseph+Parry&amp;search_field=search</field>
+	</doc></add>

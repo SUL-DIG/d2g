@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204682</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Giuseppe in Egitto</field>
+		<field name="titleSort">trionfo di Giuseppe in Egitto</field>
+		<field name="year">1901</field>
+		<field name="month">January</field>
+		<field name="day">22</field>
+		<field name="date">January 22, 1901</field>
+		<field name="composer">Ludovico Lucchesi</field>
+		<field name="composerSort">Lucchesi, Ludovico</field>
+		<field name="librettist">Leopoldo Farnese</field>
+		<field name="librettistSort">Farnese, Leopoldo</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Giuseppe+in+Egitto+Ludovico+Lucchesi&amp;search_field=search</field>
+	</doc></add>

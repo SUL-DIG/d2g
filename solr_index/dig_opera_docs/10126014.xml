@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126014</field>
+<field name="genre">Operas</field>
+<field name="title">Horyuji</field>
+<field name="titleSort">Horyuji</field>
+<field name="composer">Mary Rhoads</field>
+<field name="composerSort">Rhoads, Mary</field>
+<field name="year">1984</field>
+<field name="date">1984</field><field name="theater">University of Northern Colorado</field>
+<field name="city">Greeley</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Horyuji+Mary+Rhoads&amp;search_field=search</field>
+</doc>
+</add>

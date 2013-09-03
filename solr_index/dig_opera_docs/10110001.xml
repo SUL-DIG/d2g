@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110001</field>
+<field name="genre">Operas</field>
+<field name="title">"Das Stelldichein, oder Alle fürchten sich</field>
+<field name="titleSort">"Stelldichein, oder Alle fürchten sich"</field>
+<field name="composer">Wilhelm Fischer</field>
+<field name="composerSort">Fischer, Wilhelm</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Gustav Räder</field>
+<field name="librettistSort">Räder, Gustav</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Stelldichein,+oder+Alle+fürchten+sich+Wilhelm+Fischer&amp;search_field=search</field>
+</doc>
+</add>

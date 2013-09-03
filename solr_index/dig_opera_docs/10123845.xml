@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123845</field>
+<field name="genre">Operas</field>
+<field name="title">La nuit espagnole</field>
+<field name="titleSort">nuit espagnole</field>
+<field name="composer">Louis-Luc Loiseau de Persius</field>
+<field name="composerSort">Persius, Louis-Luc Loiseau de</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Joseph Fiévée</field>
+<field name="librettistSort">Fiévée, Joseph</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuit+espagnole+Louis-Luc+Loiseau+de+Persius&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111776</field>
+<field name="genre">Operas</field>
+<field name="title">The Blue Peter</field>
+<field name="titleSort">Blue Peter</field>
+<field name="composer">Cecil Armstrong Gibbs</field>
+<field name="composerSort">Gibbs, Cecil Armstrong</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Alan Patrick Herbert</field>
+<field name="librettistSort">Herbert, Alan Patrick</field>
+<field name="theater">Royal College of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blue+Peter+Cecil+Armstrong+Gibbs&amp;search_field=search</field>
+</doc>
+</add>

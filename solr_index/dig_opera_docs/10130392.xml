@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130392</field>
+<field name="genre">Operas</field>
+<field name="title">Die Füsse im Feuer</field>
+<field name="titleSort">Füsse im Feuer</field>
+<field name="composer">Heinrich Sutermeister</field>
+<field name="composerSort">Sutermeister, Heinrich</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Heinrich Sutermeister</field>
+<field name="librettistSort">Sutermeister, Heinrich</field>
+<field name="librettist">Conrad Ferdinand Meyer</field>
+<field name="librettistSort">Meyer, Conrad Ferdinand</field>
+<field name="theater">Radio Berlin</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Füsse+im+Feuer+Heinrich+Sutermeister&amp;search_field=search</field>
+</doc>
+</add>

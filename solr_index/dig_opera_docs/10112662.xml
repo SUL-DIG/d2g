@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112662</field>
+<field name="genre">Operas</field>
+<field name="title">Willem Beukels</field>
+<field name="titleSort">Willem Beukels</field>
+<field name="composer">Jacques Grégoir</field>
+<field name="composerSort">Grégoir, Jacques</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Eugeen Stroobant</field>
+<field name="librettistSort">Stroobant, Eugeen</field>
+<field name="librettist">Seraphien Willems</field>
+<field name="librettistSort">Willems, Seraphien</field>
+<field name="theater">Théâtre du Cirque</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Willem+Beukels+Jacques+Grégoir&amp;search_field=search</field>
+</doc>
+</add>

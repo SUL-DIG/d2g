@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102699</field>
+<field name="genre">Operas</field>
+<field name="title">Les plaisirs de la campagne</field>
+<field name="titleSort">plaisirs de la campagne</field>
+<field name="composer">Toussaint Bertin</field>
+<field name="composerSort">Bertin, Toussaint</field>
+<field name="year">1719</field>
+<field name="date">1719</field>
+<field name="librettist">Marie-Anne Barbier</field>
+<field name="librettistSort">Barbier, Marie-Anne</field>
+<field name="librettist">Simon-Joseph Pellegrin</field>
+<field name="librettistSort">Pellegrin, Simon-Joseph</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+plaisirs+de+la+campagne+Toussaint+Bertin&amp;search_field=search</field>
+</doc>
+</add>

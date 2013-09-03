@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104465</field>
+<field name="genre">Operas</field>
+<field name="title">Tic-Tac</field>
+<field name="titleSort">Tic-Tac</field>
+<field name="composer">Paul Burkhard</field>
+<field name="composerSort">Burkhard, Paul</field>
+<field name="year">1944</field>
+<field name="date">1944</field>
+<field name="librettist">Fritz Schulz</field>
+<field name="librettistSort">Schulz, Fritz</field>
+<field name="librettist">Fridolin Tschudi</field>
+<field name="librettistSort">Tschudi, Fridolin</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tic-Tac+Paul+Burkhard&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111112</field>
+<field name="genre">Operas</field>
+<field name="title">Ra-Koun-Koc</field>
+<field name="titleSort">Ra-Koun-Koc</field>
+<field name="composer">Antoine Garofalo</field>
+<field name="composerSort">Garofalo, Antoine</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">R. Pichou</field>
+<field name="librettistSort">Pichou, R.</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Angoulême</field>
+<field name="region">Charente</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ra-Koun-Koc+Antoine+Garofalo&amp;search_field=search</field>
+</doc>
+</add>

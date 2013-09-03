@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123352</field>
+<field name="genre">Operas</field>
+<field name="title">Lulli</field>
+<field name="titleSort">Lulli</field>
+<field name="composer">Josif Paschil</field>
+<field name="composerSort">Paschil, Josif</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">D. de Laforet</field>
+<field name="librettistSort">Laforet, D. de"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lulli+Josif+Paschil&amp;search_field=search</field>
+</doc>
+</add>

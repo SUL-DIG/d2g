@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202020</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'insubria e la fede</field>
+		<field name="titleSort">insubria e la fede</field>
+		<field name="year">1735</field>
+		
+		
+		<field name="date">1735</field>
+		<field name="composer">Giuseppe Paladini</field>
+		<field name="composerSort">Paladini, Giuseppe</field>
+		
+		
+		
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'insubria+e+la+fede+Giuseppe+Paladini&amp;search_field=search</field>
+	</doc></add>

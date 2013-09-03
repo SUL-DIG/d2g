@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115625</field>
+<field name="genre">Operas</field>
+<field name="title">Hunt ja seitse kitsetalle (Billy Goat's Gruff)</field>
+<field name="titleSort">Hunt ja seitse kitsetalle (Billy Goat's Gruff)</field>
+<field name="composer">Raimo Kangro</field>
+<field name="composerSort">Kangro, Raimo</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hunt+ja+seitse+kitsetalle+Billy+Goat's+Gruff+Raimo+Kangro&amp;search_field=search</field>
+</doc>
+</add>

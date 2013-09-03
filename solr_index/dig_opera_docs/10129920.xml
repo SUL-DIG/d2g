@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129920</field>
+<field name="genre">Operas</field>
+<field name="title">Die deutschen Kleinstädter</field>
+<field name="titleSort">deutschen Kleinstädter</field>
+<field name="composer">Kuno Stierlin</field>
+<field name="composerSort">Stierlin, Kuno</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Hans Brennert</field>
+<field name="librettistSort">Brennert, Hans</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Grosses Haus am Domhof</field>
+<field name="city">Osnabrück</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+deutschen+Kleinstädter+Kuno+Stierlin&amp;search_field=search</field>
+</doc>
+</add>

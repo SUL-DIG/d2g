@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109526</field>
+<field name="genre">Operas</field>
+<field name="title">I prodi di Mosca</field>
+<field name="titleSort">prodi di Mosca</field>
+<field name="composer">Scipione Fenzi</field>
+<field name="composerSort">Fenzi, Scipione</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="city">Taganrog</field>
+<field name="region">Rostov Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+prodi+di+Mosca+Scipione+Fenzi&amp;search_field=search</field>
+</doc>
+</add>

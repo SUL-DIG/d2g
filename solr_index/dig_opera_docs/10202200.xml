@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202200</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jésus parle</field>
+		<field name="titleSort">Jésus parle</field>
+		<field name="year">1992</field>
+		
+		
+		<field name="date">1992</field>
+		<field name="composer">Vahram Ohani Babaian</field>
+		<field name="composerSort">Babaian, Vahram Ohani</field>
+		<field name="librettist">Charles-Pierre Péguy</field>
+		<field name="librettistSort">Péguy, Charles-Pierre</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jésus+parle+Vahram+Ohani+Babaian&amp;search_field=search</field>
+	</doc></add>

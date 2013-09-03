@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204898</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">War Requiem</field>
+		<field name="titleSort">War Requiem</field>
+		<field name="year">1962</field>
+		<field name="month">May</field>
+		<field name="day">30</field>
+		<field name="date">May 30, 1962</field>
+		<field name="composer">Benjamin Britten</field>
+		<field name="composerSort">Britten, Benjamin</field>
+		<field name="librettist">Wilfrid Owen</field>
+		<field name="librettistSort">Owen, Wilfrid</field>
+		
+		<field name="theater">Coventry Cathedral</field>
+		<field name="city">Coventry</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=War+Requiem+Benjamin+Britten&amp;search_field=search</field>
+	</doc></add>

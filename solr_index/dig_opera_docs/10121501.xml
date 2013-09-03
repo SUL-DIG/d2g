@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121501</field>
+<field name="genre">Operas</field>
+<field name="title">Kleine Leiden des menschlichen Lebens</field>
+<field name="titleSort">Kleine Leiden des menschlichen Lebens</field>
+<field name="composer">Adolf Müller</field>
+<field name="composerSort">Müller, Adolf</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Ida Schuselka-Brüning</field>
+<field name="librettistSort">Schuselka-Brüning, Ida</field>
+<field name="librettist">[Louis-François Nicolaïe] Clairville</field>
+<field name="librettistSort">Clairville, Charles [Victor Nicolaïe]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kleine+Leiden+des+menschlichen+Lebens+Adolf+Müller&amp;search_field=search</field>
+</doc>
+</add>

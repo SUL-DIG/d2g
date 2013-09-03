@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118216</field>
+<field name="genre">Operas</field>
+<field name="title">Die schöne Rivalin</field>
+<field name="titleSort">schöne Rivalin</field>
+<field name="composer">Hans Linne</field>
+<field name="composerSort">Linne, Hans</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="librettist">Willy Steinberg</field>
+<field name="librettistSort">Steinberg, Willy</field>
+<field name="theater">Theater am Nollendorfplatz</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schöne+Rivalin+Hans+Linne&amp;search_field=search</field>
+</doc>
+</add>

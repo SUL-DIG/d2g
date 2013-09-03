@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114859</field>
+<field name="genre">Operas</field>
+<field name="title">Lili Baróno (Baroness Lili)</field>
+<field name="titleSort">Lili Baróno (Baroness Lili)</field>
+<field name="composer">Jenö Huszka</field>
+<field name="composerSort">Huszka, Jenö</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="theater">Népopera</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lili+Baróno+Baroness+Lili+Jenö+Huszka&amp;search_field=search</field>
+</doc>
+</add>

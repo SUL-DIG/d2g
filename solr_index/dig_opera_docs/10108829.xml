@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108829</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schmied von Gretna-Green</field>
+<field name="titleSort">Schmied von Gretna-Green</field>
+<field name="composer">Albert Ellmenreich</field>
+<field name="composerSort">Ellmenreich, Albert</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">[Albert Ellmenreich] M. L. Ehrich</field>
+<field name="librettistSort">Ehrich, M. L. [Albert Ellmenreich]</field>
+<field name="librettist">Felix Dahn</field>
+<field name="librettistSort">Dahn, Felix</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schmied+von+Gretna-Green+Albert+Ellmenreich&amp;search_field=search</field>
+</doc>
+</add>

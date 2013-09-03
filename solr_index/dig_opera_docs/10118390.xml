@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118390</field>
+<field name="genre">Operas</field>
+<field name="title">"Ariberto e Flavio, regi de' Langobardi</field>
+<field name="titleSort">"Ariberto e Flavio, regi de' Langobardi"</field>
+<field name="composer">Carlo Ambrogio Lonati</field>
+<field name="composerSort">Lonati, Carlo Ambrogio</field>
+<field name="year">1684</field>
+<field name="date">1684</field>
+<field name="librettist">Rinaldo Cialli</field>
+<field name="librettistSort">Cialli, Rinaldo</field>
+<field name="theater">Teatro Vendramin di San Salvatore</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariberto+e+Flavio,+regi+de'+Langobardi+Carlo+Ambrogio+Lonati&amp;search_field=search</field>
+</doc>
+</add>

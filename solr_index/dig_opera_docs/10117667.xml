@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117667</field>
+<field name="genre">Operas</field>
+<field name="title">Alceste</field>
+<field name="titleSort">Alceste</field>
+<field name="composer">Ton de Leeuw</field>
+<field name="composerSort">Leeuw, Ton de</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Ton de Leeuw</field>
+<field name="librettistSort">Leeuw, Ton de"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alceste+Ton+de+Leeuw&amp;search_field=search</field>
+</doc>
+</add>

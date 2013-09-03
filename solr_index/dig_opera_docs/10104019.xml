@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104019</field>
+<field name="genre">Operas</field>
+<field name="title">Micarême</field>
+<field name="titleSort">Micarême</field>
+<field name="composer">Jan Brandts Buys</field>
+<field name="composerSort">Buys, Jan Brandts</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="librettist">Ignaz Michael Welleminsky</field>
+<field name="librettistSort">Welleminsky, Ignaz Michael</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Micarême+Jan+Brandts+Buys&amp;search_field=search</field>
+</doc>
+</add>

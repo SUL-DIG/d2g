@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107802</field>
+<field name="genre">Operas</field>
+<field name="title">Beauty and the Beast</field>
+<field name="titleSort">Beauty and the Beast</field>
+<field name="composer">Frank DiGiacomo</field>
+<field name="composerSort">DiGiacomo, Frank</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Frank DiGiacomo</field>
+<field name="librettistSort">DiGiacomo, Frank</field>
+<field name="librettist">Emul P. Edmon</field>
+<field name="librettistSort">Edmon, Emul P.</field>
+<field name="theater">Syracuse University</field>
+<field name="city">Syracuse</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+Frank+DiGiacomo&amp;search_field=search</field>
+</doc>
+</add>

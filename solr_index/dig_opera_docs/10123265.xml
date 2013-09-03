@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123265</field>
+<field name="genre">Operas</field>
+<field name="title">Les amants protées</field>
+<field name="titleSort">amants protées</field>
+<field name="composer">Guillaume-Alexis Paris</field>
+<field name="composerSort">Paris, Guillaume-Alexis</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+amants+protées+Guillaume-Alexis+Paris&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106887</field>
+<field name="genre">Operas</field>
+<field name="title">La moabite</field>
+<field name="titleSort">moabite</field>
+<field name="composer">Jean Baptiste de Croze-Magnon</field>
+<field name="composerSort">Croze-Magnon, Jean Baptiste de</field>
+<field name="year">1860</field>
+<field name="date">1860</field><field name="theater">Private Performance</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+moabite+Jean+Baptiste+de+Croze-Magnon&amp;search_field=search</field>
+</doc>
+</add>

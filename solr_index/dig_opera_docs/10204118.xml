@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204118</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Alessio</field>
+		<field name="titleSort">Sant' Alessio</field>
+		<field name="year">1675</field>
+		
+		
+		<field name="date">1675</field>
+		<field name="composer">Bernardo Pasquini</field>
+		<field name="composerSort">Pasquini, Bernardo</field>
+		<field name="librettist">Giovanni Filippo Bernini</field>
+		<field name="librettistSort">Bernini, Giovanni Filippo</field>
+		
+		<field name="theater">Oratorio dei Filippini di Santa Maria in Vallicella</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Alexis</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">July 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Alessio+Bernardo+Pasquini&amp;search_field=search</field>
+	</doc></add>

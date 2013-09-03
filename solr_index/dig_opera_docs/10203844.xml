@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203844</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Francesco</field>
+		<field name="titleSort">San Francesco</field>
+		<field name="year">1708</field>
+		
+		
+		<field name="date">1708</field>
+		<field name="composer">Stefano Leporati</field>
+		<field name="composerSort">Leporati, Stefano</field>
+		
+		
+		<field name="theater">Casa del marchese Da Via</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francesco+Stefano+Leporati&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101348</field>
+<field name="genre">Operas</field>
+<field name="title">Reform'd in Time</field>
+<field name="titleSort">Reform'd in Time</field>
+<field name="composer">Thomas Attwood</field>
+<field name="composerSort">Attwood, Thomas</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Henry Heartwell</field>
+<field name="librettistSort">Heartwell, Henry</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reform'd+in+Time+Thomas+Attwood&amp;search_field=search</field>
+</doc>
+</add>

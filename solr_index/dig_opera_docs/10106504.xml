@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106504</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo dell'amicizia e dell'amore</field>
+<field name="titleSort">trionfo dell'amicizia e dell'amore</field>
+<field name="composer">Francesco Bartolomeo Conti</field>
+<field name="composerSort">Conti, Francesco Bartolomeo</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Francesco Ballerini</field>
+<field name="librettistSort">Ballerini, Francesco</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+dell'amicizia+e+dell'amore+Francesco+Bartolomeo+Conti&amp;search_field=search</field>
+</doc>
+</add>

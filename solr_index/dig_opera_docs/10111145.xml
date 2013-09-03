@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111145</field>
+<field name="genre">Operas</field>
+<field name="title">Democrito</field>
+<field name="titleSort">Democrito</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1718</field>
+<field name="date">1718</field><field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Democrito+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

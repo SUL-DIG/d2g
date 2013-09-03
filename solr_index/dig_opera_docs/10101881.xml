@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101881</field>
+<field name="genre">Operas</field>
+<field name="title">Albergo Empedocle</field>
+<field name="titleSort">Albergo Empedocle</field>
+<field name="composer">Paul Barker</field>
+<field name="composerSort">Barker, Paul</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Nicholas Till</field>
+<field name="librettistSort">Till, Nicholas</field>
+<field name="librettist">Edward Morgan Forster</field>
+<field name="librettistSort">Forster, Edward Morgan</field>
+<field name="theater">Modern Music Theatre Troupe</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Albergo+Empedocle+Paul+Barker&amp;search_field=search</field>
+</doc>
+</add>

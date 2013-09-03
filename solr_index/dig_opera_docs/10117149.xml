@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117149</field>
+<field name="genre">Operas</field>
+<field name="title">Strip</field>
+<field name="titleSort">Strip</field>
+<field name="composer">Gerhard Lampersberg</field>
+<field name="composerSort">Lampersberg, Gerhard</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Hans Carl Artmann</field>
+<field name="librettistSort">Artmann, Hans Carl</field>
+<field name="theater">Akademie der Künste</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Strip+Gerhard+Lampersberg&amp;search_field=search</field>
+</doc>
+</add>

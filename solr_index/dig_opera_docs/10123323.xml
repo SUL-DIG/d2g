@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123323</field>
+<field name="genre">Operas</field>
+<field name="title">Water! Water!</field>
+<field name="titleSort">Water! Water!</field>
+<field name="composer">Harry Partch</field>
+<field name="composerSort">Partch, Harry</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Harry Partch</field>
+<field name="librettistSort">Partch, Harry</field>
+<field name="theater">University of Illinois</field>
+<field name="city">Urbana</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Water!+Water!+Harry+Partch&amp;search_field=search</field>
+</doc>
+</add>

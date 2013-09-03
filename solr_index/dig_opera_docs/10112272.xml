@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112272</field>
+<field name="genre">Operas</field>
+<field name="title">"Anselmo Lancia, oder Das Fischermädchen</field>
+<field name="titleSort">"Anselmo Lancia, oder Das Fischermädchen"</field>
+<field name="composer">Walter von Goethe</field>
+<field name="composerSort">Goethe, Walter von</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anselmo+Lancia,+oder+Das+Fischermädchen+Walter+von+Goethe&amp;search_field=search</field>
+</doc>
+</add>

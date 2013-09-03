@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123602</field>
+<field name="genre">Operas</field>
+<field name="title">Baas Simpels</field>
+<field name="titleSort">Baas Simpels</field>
+<field name="composer">J. Peetermans</field>
+<field name="composerSort">Peetermans, J.</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="city">Geel</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baas+Simpels+J.+Peetermans&amp;search_field=search</field>
+</doc>
+</add>

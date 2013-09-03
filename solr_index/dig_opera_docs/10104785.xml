@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104785</field>
+<field name="genre">Operas</field>
+<field name="title">"Camille, reine des volsques</field>
+<field name="titleSort">"Camille, reine des volsques"</field>
+<field name="composer">André Campra</field>
+<field name="composerSort">Campra, André</field>
+<field name="year">1717</field>
+<field name="date">1717</field>
+<field name="librettist">Antoine Danchet</field>
+<field name="librettistSort">Danchet, Antoine</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Camille,+reine+des+volsques+André+Campra&amp;search_field=search</field>
+</doc>
+</add>

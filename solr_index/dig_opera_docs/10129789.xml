@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129789</field>
+<field name="genre">Operas</field>
+<field name="title">Montgolfier</field>
+<field name="titleSort">Montgolfier</field>
+<field name="composer">Carl David Stegmann</field>
+<field name="composerSort">Stegmann, Carl David</field>
+<field name="year">1788</field>
+<field name="date">1788</field><field name="theater">Hoftheater</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Montgolfier+Carl+David+Stegmann&amp;search_field=search</field>
+</doc>
+</add>

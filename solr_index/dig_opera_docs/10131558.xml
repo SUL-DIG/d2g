@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131558</field>
+<field name="genre">Operas</field>
+<field name="title">La Galatea</field>
+<field name="titleSort">Galatea</field>
+<field name="composer">Francesco Antonio Uttini</field>
+<field name="composerSort">Uttini, Francesco Antonio</field>
+<field name="year">1755</field>
+<field name="date">1755</field><field name="theater">Slott-Teatern</field>
+<field name="city">Drottningholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Galatea+Francesco+Antonio+Uttini&amp;search_field=search</field>
+</doc>
+</add>

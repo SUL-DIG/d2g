@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104576</field>
+<field name="genre">Operas</field>
+<field name="title">Europera 3 &amp; 4</field>
+<field name="titleSort">Europera 3 &amp; 4</field>
+<field name="composer">John Cage</field>
+<field name="composerSort">Cage, John</field>
+<field name="year">1990</field>
+<field name="date">1990</field><field name="theater">Almeida Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Europera+3&amp;+4+John+Cage&amp;search_field=search</field>
+</doc>
+</add>

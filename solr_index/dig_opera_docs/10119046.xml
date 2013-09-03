@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119046</field>
+<field name="genre">Operas</field>
+<field name="title">La comédie а Compiègne</field>
+<field name="titleSort">comédie а Compiègne</field>
+<field name="composer">Charles Malo</field>
+<field name="composerSort">Malo, Charles</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Édouard Noël</field>
+<field name="librettistSort">Noël, Édouard</field>
+<field name="librettist">Henri Malo</field>
+<field name="librettistSort">Malo, Henri</field>
+<field name="theater">Athénée Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+comédie+а+Compiègne+Charles+Malo&amp;search_field=search</field>
+</doc>
+</add>

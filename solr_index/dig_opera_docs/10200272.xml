@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200272</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Atalia</field>
+		<field name="titleSort">Atalia</field>
+		<field name="year">1700</field>
+		
+		
+		<field name="date">1700</field>
+		<field name="composer">Giovanni Domenico Giuliani</field>
+		<field name="composerSort">Giuliani, Giovanni Domenico</field>
+		<field name="librettist">Ascanio Sabatini</field>
+		<field name="librettistSort">Sabatini, Ascanio</field>
+		
+		<field name="theater">Compagnia dell'Arcangelo Raffaello detta La Scala</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Athaliah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atalia+Giovanni+Domenico+Giuliani&amp;search_field=search</field>
+	</doc></add>

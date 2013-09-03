@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118022</field>
+<field name="genre">Operas</field>
+<field name="title">Les rivaux genereux</field>
+<field name="titleSort">rivaux genereux</field>
+<field name="composer">Jean Levasseur</field>
+<field name="composerSort">Levasseur, Jean</field>
+<field name="year">1770</field>
+<field name="date">1770</field><field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+rivaux+genereux+Jean+Levasseur&amp;search_field=search</field>
+</doc>
+</add>

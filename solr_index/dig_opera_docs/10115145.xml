@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115145</field>
+<field name="genre">Operas</field>
+<field name="title">La rosière</field>
+<field name="titleSort">rosière</field>
+<field name="composer">[Edward Belville] Edward Jakobowski</field>
+<field name="composerSort">Jakobowski, [Edward Belville] Edward</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Harry Monkhouse</field>
+<field name="librettistSort">Monkhouse, Harry</field>
+<field name="theater">Shaftesbury Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rosière+Edward+Belville]+Edward+Jakobowski&amp;search_field=search</field>
+</doc>
+</add>

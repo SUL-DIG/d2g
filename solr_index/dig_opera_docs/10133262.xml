@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133262</field>
+<field name="genre">Operas</field>
+<field name="title">Die Witwe des Schmetterlings</field>
+<field name="titleSort">Witwe des Schmetterlings</field>
+<field name="composer">Isang Yun</field>
+<field name="composerSort">Yun, Isang</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Harald Kunz</field>
+<field name="librettistSort">Kunz, Harald</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Witwe+des+Schmetterlings+Isang+Yun&amp;search_field=search</field>
+</doc>
+</add>

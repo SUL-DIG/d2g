@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202885</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moyses ab aqua extractus</field>
+		<field name="titleSort">Moyses ab aqua extractus</field>
+		<field name="year">1791</field>
+		<field name="month">August</field>
+		<field name="day">15</field>
+		<field name="date">August 15, 1791</field>
+		<field name="composer">Francesco Gardi</field>
+		<field name="composerSort">Gardi, Francesco</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses in the Nile</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moyses+ab+aqua+extractus+Francesco+Gardi&amp;search_field=search</field>
+	</doc></add>

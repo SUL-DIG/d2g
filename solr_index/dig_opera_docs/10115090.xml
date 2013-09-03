@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115090</field>
+<field name="genre">Operas</field>
+<field name="title">Céphale et Procris</field>
+<field name="titleSort">Céphale et Procris</field>
+<field name="composer">Elisabeth-Claude Jacquet de la Guerre</field>
+<field name="composerSort">Guerre, Elisabeth-Claude Jacquet de la</field>
+<field name="year">1694</field>
+<field name="date">1694</field>
+<field name="librettist">Joseph-François Duché de Vancy</field>
+<field name="librettistSort">Duché de Vancy, Joseph-François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Céphale+et+Procris+Elisabeth-Claude+Jacquet+de+la+Guerre&amp;search_field=search</field>
+</doc>
+</add>

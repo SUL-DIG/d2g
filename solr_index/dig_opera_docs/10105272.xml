@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105272</field>
+<field name="genre">Operas</field>
+<field name="title">Bodas de sangre</field>
+<field name="titleSort">Bodas de sangre</field>
+<field name="composer">Juan José Castro</field>
+<field name="composerSort">Castro, Juan José</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Juan José Castro</field>
+<field name="librettistSort">Castro, Juan José</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bodas+de+sangre+Juan+José+Castro&amp;search_field=search</field>
+</doc>
+</add>

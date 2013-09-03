@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114579</field>
+<field name="genre">Operas</field>
+<field name="title">Tancredi</field>
+<field name="titleSort">Tancredi</field>
+<field name="composer">Ignaz Holzbauer</field>
+<field name="composerSort">Holzbauer, Ignaz</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Silvio Balbis</field>
+<field name="librettistSort">Balbis, Silvio</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tancredi+Ignaz+Holzbauer&amp;search_field=search</field>
+</doc>
+</add>

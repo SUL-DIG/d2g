@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102950</field>
+<field name="genre">Operas</field>
+<field name="title">Macbeth</field>
+<field name="titleSort">Macbeth</field>
+<field name="composer">Antonio Bibalo</field>
+<field name="composerSort">Bibalo, Antonio</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Antonio Bibalo</field>
+<field name="librettistSort">Bibalo, Antonio</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Macbeth+Antonio+Bibalo&amp;search_field=search</field>
+</doc>
+</add>

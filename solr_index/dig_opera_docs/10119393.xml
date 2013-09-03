@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119393</field>
+<field name="genre">Operas</field>
+<field name="title">Nele Dooryn</field>
+<field name="titleSort">Nele Dooryn</field>
+<field name="composer">Antoine Mariotte</field>
+<field name="composerSort">Mariotte, Antoine</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">[Camille Faust] Camille Mauclair</field>
+<field name="librettistSort">Mauclair, Camille [Camille Faust]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nele+Dooryn+Antoine+Mariotte&amp;search_field=search</field>
+</doc>
+</add>

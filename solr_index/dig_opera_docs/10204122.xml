@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204122</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Alessio reconosciuto</field>
+		<field name="titleSort">Sant' Alessio reconosciuto</field>
+		<field name="year">1769</field>
+		
+		
+		<field name="date">1769</field>
+		<field name="composer">Alessandro Felici</field>
+		<field name="composerSort">Felici, Alessandro</field>
+		
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Alexis</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">July 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Alessio+reconosciuto+Alessandro+Felici&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104266</field>
+<field name="genre">Operas</field>
+<field name="title">La filleule de Polydore</field>
+<field name="titleSort">filleule de Polydore</field>
+<field name="composer">Henri Brun</field>
+<field name="composerSort">Brun, Henri</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Clément Privé</field>
+<field name="librettistSort">Privé, Clément</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Auxerre</field>
+<field name="region">Yonne</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+filleule+de+Polydore+Henri+Brun&amp;search_field=search</field>
+</doc>
+</add>

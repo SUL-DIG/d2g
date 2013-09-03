@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113064</field>
+<field name="genre">Operas</field>
+<field name="title">La fedeltа nelle selve (La villanella rapita)</field>
+<field name="titleSort">fedeltа nelle selve (villanella rapita)</field>
+<field name="composer">Pietro Carlo Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Carlo</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Nuovo Teatro dei Quattro Signori</field>
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fedeltа+nelle+selve+La+villanella+rapita+Pietro+Carlo+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

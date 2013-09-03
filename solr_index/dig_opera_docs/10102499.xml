@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102499</field>
+<field name="genre">Operas</field>
+<field name="title">La terroriste</field>
+<field name="titleSort">terroriste</field>
+<field name="composer">Charles Berlandier</field>
+<field name="composerSort">Berlandier, Charles</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Georges Léglise</field>
+<field name="librettistSort">Léglise, Georges</field>
+<field name="librettist">Pierre Bossuet</field>
+<field name="librettistSort">Bossuet, Pierre</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Angers</field>
+<field name="region">Maine-et-Loire</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+terroriste+Charles+Berlandier&amp;search_field=search</field>
+</doc>
+</add>

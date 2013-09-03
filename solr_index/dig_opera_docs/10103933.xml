@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103933</field>
+<field name="genre">Operas</field>
+<field name="title">The Little Mermaid</field>
+<field name="titleSort">Little Mermaid</field>
+<field name="composer">Anne Boyd</field>
+<field name="composerSort">Boyd, Anne</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Robin Lee</field>
+<field name="librettistSort">Lee, Robin</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Opera House</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Little+Mermaid+Anne+Boyd&amp;search_field=search</field>
+</doc>
+</add>

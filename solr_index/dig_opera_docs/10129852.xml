@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129852</field>
+<field name="genre">Operas</field>
+<field name="title">Peste Dunare (Across the Danube)</field>
+<field name="titleSort">Peste Dunare (Across the Danube)</field>
+<field name="composer">George Stephanescu</field>
+<field name="composerSort">Stephanescu, George</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Giuseppe Ventura</field>
+<field name="librettistSort">Ventura, Giuseppe</field>
+<field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peste+Dunare+Across+the+Danube+George+Stephanescu&amp;search_field=search</field>
+</doc>
+</add>

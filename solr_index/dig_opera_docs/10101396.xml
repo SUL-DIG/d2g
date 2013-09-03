@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101396</field>
+<field name="genre">Operas</field>
+<field name="title">Der Geburtstag der Mutter</field>
+<field name="titleSort">Geburtstag der Mutter</field>
+<field name="composer">Samuel Gottlob Auberlen</field>
+<field name="composerSort">Auberlen, Samuel Gottlob</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="city">Schafthausen</field>
+<field name="region">Schafthausen</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Geburtstag+der+Mutter+Samuel+Gottlob+Auberlen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130932</field>
+<field name="genre">Operas</field>
+<field name="title">Hertuginnen dør</field>
+<field name="titleSort">Hertuginnen dør</field>
+<field name="composer">Olav Anton Thommessen</field>
+<field name="composerSort">Thommessen, Olav Anton</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Per Bronken</field>
+<field name="librettistSort">Bronken, Per</field>
+<field name="librettist">John Webster</field>
+<field name="librettistSort">Webster, John</field>
+<field name="theater">Det Norske Teatret</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hertuginnen+dør+Olav+Anton+Thommessen&amp;search_field=search</field>
+</doc>
+</add>

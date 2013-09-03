@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201029</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il divino sposalizio di Santa Caterina</field>
+		<field name="titleSort">divino sposalizio di Santa Caterina</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Giacomo Agazzini</field>
+		<field name="composerSort">Agazzini, Giacomo</field>
+		<field name="librettist">Giovanni Battista Neri</field>
+		<field name="librettistSort">Neri, Giovanni Battista</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Catherine of Alexandria</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">November 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+divino+sposalizio+di+Santa+Caterina+Giacomo+Agazzini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132848</field>
+<field name="genre">Operas</field>
+<field name="title">Der Landsknecht</field>
+<field name="titleSort">Landsknecht</field>
+<field name="composer">Franz Werther</field>
+<field name="composerSort">Werther, Franz</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Karl Schwelbe</field>
+<field name="librettistSort">Schwelbe, Karl</field>
+<field name="theater">Apollo-Theater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Landsknecht+Franz+Werther&amp;search_field=search</field>
+</doc>
+</add>

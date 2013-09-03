@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111879</field>
+<field name="genre">Operas</field>
+<field name="title">Arlequin sultane favorite</field>
+<field name="titleSort">Arlequin sultane favorite</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1715</field>
+<field name="date">1715</field>
+<field name="librettist">Jean-François Letellier</field>
+<field name="librettistSort">Letellier, Jean-François</field>
+<field name="theater">Théâtre de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arlequin+sultane+favorite+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

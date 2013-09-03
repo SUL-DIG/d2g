@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108119</field>
+<field name="genre">Operas</field>
+<field name="title">Balada o lásce/Láska carovaná</field>
+<field name="titleSort">Balada o lásce/Láska carovaná</field>
+<field name="composer">Jaroslav Doubrava</field>
+<field name="composerSort">Doubrava, Jaroslav</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Jan Wenig</field>
+<field name="librettistSort">Wenig, Jan</field>
+<field name="librettist">Jaroslav Doubrava</field>
+<field name="librettistSort">Doubrava, Jaroslav</field>
+<field name="theater">Smetanovo Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balada+o+lásce/Láska+carovaná+Jaroslav+Doubrava&amp;search_field=search</field>
+</doc>
+</add>

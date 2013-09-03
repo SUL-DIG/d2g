@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107821</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore disprezzato</field>
+<field name="titleSort">amore disprezzato</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+<field name="year">1771</field>
+<field name="date">1771</field><field name="theater">Jánsky Vrch</field>
+<field name="city">Javorník</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+disprezzato+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

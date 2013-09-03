@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124592</field>
+<field name="genre">Operas</field>
+<field name="title">Ottaviano in Sicilia</field>
+<field name="titleSort">Ottaviano in Sicilia</field>
+<field name="composer">Johann Nepomuk Poissl</field>
+<field name="composerSort">Poissl, Johann Nepomuk</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Johann Nepomuk Poissl</field>
+<field name="librettistSort">Poissl, Johann Nepomuk</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ottaviano+in+Sicilia+Johann+Nepomuk+Poissl&amp;search_field=search</field>
+</doc>
+</add>

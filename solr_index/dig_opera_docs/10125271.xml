@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125271</field>
+<field name="genre">Operas</field>
+<field name="title">La vestale</field>
+<field name="titleSort">vestale</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="librettist">Victor Joseph Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vestale+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

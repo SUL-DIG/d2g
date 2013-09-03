@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128226</field>
+<field name="genre">Operas</field>
+<field name="title">Baronin Vansdenland</field>
+<field name="titleSort">Baronin Vansdenland</field>
+<field name="composer">Hans Schilling</field>
+<field name="composerSort">Schilling, Hans</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Hans Schilling</field>
+<field name="librettistSort">Schilling, Hans</field>
+<field name="librettist">Charles de Coster</field>
+<field name="librettistSort">Coster, Charles de</field>
+
+<field name="city">Oldenburg</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baronin+Vansdenland+Hans+Schilling&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125175</field>
+<field name="genre">Operas</field>
+<field name="title">La colomba ferita</field>
+<field name="titleSort">colomba ferita</field>
+<field name="composer">Francesco Provenzale</field>
+<field name="composerSort">Provenzale, Francesco</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Giuseppe Castaldo</field>
+<field name="librettistSort">Castaldo, Giuseppe</field>
+<field name="theater">Convento di Donna Regina</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+colomba+ferita+Francesco+Provenzale&amp;search_field=search</field>
+</doc>
+</add>

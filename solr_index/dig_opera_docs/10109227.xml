@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109227</field>
+<field name="genre">Operas</field>
+<field name="title">Der heilige Ambrosius</field>
+<field name="titleSort">heilige Ambrosius</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Alfred Maria Willner</field>
+<field name="librettistSort">Willner, Alfred Maria</field>
+<field name="librettist">Arthur Rebner</field>
+<field name="librettistSort">Rebner, Arthur</field>
+<field name="theater">Deutsches Künstlertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+heilige+Ambrosius+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

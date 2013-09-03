@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121073</field>
+<field name="genre">Operas</field>
+<field name="title">Demofoonte</field>
+<field name="titleSort">Demofoonte</field>
+<field name="composer">Carlo Monza</field>
+<field name="composerSort">Monza, Carlo</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Alessandria</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demofoonte+Carlo+Monza&amp;search_field=search</field>
+</doc>
+</add>

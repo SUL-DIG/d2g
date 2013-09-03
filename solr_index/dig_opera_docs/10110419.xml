@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110419</field>
+<field name="genre">Operas</field>
+<field name="title">Les orang-outangs</field>
+<field name="titleSort">orang-outangs</field>
+<field name="composer">Louis François</field>
+<field name="composerSort">François, Louis</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Adolphe Joly</field>
+<field name="librettistSort">Joly, Adolphe</field>
+<field name="librettist">__ Obreo</field>
+<field name="librettistSort">Obreo, __</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+orang-outangs+Louis+François&amp;search_field=search</field>
+</doc>
+</add>

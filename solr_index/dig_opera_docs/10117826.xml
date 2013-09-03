@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117826</field>
+<field name="genre">Operas</field>
+<field name="title">"Le batelier, ou Les vrais sans-culottes</field>
+<field name="titleSort">"batelier, ou Les vrais sans-culottes"</field>
+<field name="composer">Jean-Baptiste Lemoyne</field>
+<field name="composerSort">Lemoyne, Jean-Baptiste</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">__ Rézicourt</field>
+<field name="librettistSort">Rézicourt, __</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+batelier,+ou+Les+vrais+sans-culottes+Jean-Baptiste+Lemoyne&amp;search_field=search</field>
+</doc>
+</add>

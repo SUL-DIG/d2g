@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126273</field>
+<field name="genre">Operas</field>
+<field name="title">Don Chisciotte della Mancia</field>
+<field name="titleSort">Don Chisciotte della Mancia</field>
+<field name="composer">Carlo Rispo</field>
+<field name="composerSort">Rispo, Carlo</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Angelo Tiby</field>
+<field name="librettistSort">Tiby, Angelo</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Chisciotte+della+Mancia+Carlo+Rispo&amp;search_field=search</field>
+</doc>
+</add>

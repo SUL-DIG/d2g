@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103939</field>
+<field name="genre">Operas</field>
+<field name="title">Lizistrata 75</field>
+<field name="titleSort">Lizistrata 75</field>
+<field name="composer">Darijan Bozic</field>
+<field name="composerSort">Bozic, Darijan</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Smiljan Rozman</field>
+<field name="librettistSort">Rozman, Smiljan</field>
+
+<field name="city">Maribor</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lizistrata+75+Darijan+Bozic&amp;search_field=search</field>
+</doc>
+</add>

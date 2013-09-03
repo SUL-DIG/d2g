@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203081</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio dell'incredulitа di San Tomaso</field>
+		<field name="titleSort">Oratorio dell'incredulitа di San Tomaso</field>
+		<field name="year">1665</field>
+		
+		
+		<field name="date">1665</field>
+		<field name="composer">Pietro Andrea Ziani</field>
+		<field name="composerSort">Ziani, Pietro Andrea</field>
+		<field name="librettist">G. A. Sacchi</field>
+		<field name="librettistSort">Sacchi, G. A.</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Thomas the Apostle</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">3</field>
+		<field name="feastDate">July 3</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+dell'incredulitа+di+San+Tomaso+Pietro+Andrea+Ziani&amp;search_field=search</field>
+	</doc></add>

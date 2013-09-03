@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132107</field>
+<field name="genre">Operas</field>
+<field name="title">Urania e Clito</field>
+<field name="titleSort">Urania e Clito</field>
+<field name="composer">Leonardo Vinci</field>
+<field name="composerSort">Vinci, Leonardo</field>
+<field name="year">1725</field>
+<field name="date">1725</field><field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urania+e+Clito+Leonardo+Vinci&amp;search_field=search</field>
+</doc>
+</add>

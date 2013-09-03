@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103846</field>
+<field name="genre">Operas</field>
+<field name="title">The Seraphic Vision</field>
+<field name="titleSort">Seraphic Vision</field>
+<field name="composer">Rutland Boughton</field>
+<field name="composerSort">Boughton, Rutland</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Laurence Houseman</field>
+<field name="librettistSort">Houseman, Laurence</field>
+<field name="theater">Assembly Rooms</field>
+<field name="city">Glastonbury</field>
+<field name="region">Somerset</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Seraphic+Vision+Rutland+Boughton&amp;search_field=search</field>
+</doc>
+</add>

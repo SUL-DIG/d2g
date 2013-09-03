@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108628</field>
+<field name="genre">Operas</field>
+<field name="title">Icarus</field>
+<field name="titleSort">Icarus</field>
+<field name="composer">Paul Earls</field>
+<field name="composerSort">Earls, Paul</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Otto Pierne</field>
+<field name="librettistSort">Pierne, Otto</field>
+<field name="librettist">Ian Strasfogel</field>
+<field name="librettistSort">Strasfogel, Ian</field>
+<field name="theater">Brucknerhaus</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Icarus+Paul+Earls&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110205</field>
+<field name="genre">Operas</field>
+<field name="title">Hécuba</field>
+<field name="titleSort">Hécuba</field>
+<field name="composer">Granges de Fontenelle</field>
+<field name="composerSort">Fontenelle, Granges de</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Jean-Baptiste-Gabriel-Marie Milcent</field>
+<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hécuba+Granges+de+Fontenelle&amp;search_field=search</field>
+</doc>
+</add>

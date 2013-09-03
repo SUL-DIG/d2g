@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128172</field>
+<field name="genre">Operas</field>
+<field name="title">Im Finstern ist nicht gut tappen</field>
+<field name="titleSort">Im Finstern ist nicht gut tappen</field>
+<field name="composer">Johann Baptist Schenk</field>
+<field name="composerSort">Schenk, Johann Baptist</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Leopold Hiesberger</field>
+<field name="librettistSort">Hiesberger, Leopold</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Im+Finstern+ist+nicht+gut+tappen+Johann+Baptist+Schenk&amp;search_field=search</field>
+</doc>
+</add>

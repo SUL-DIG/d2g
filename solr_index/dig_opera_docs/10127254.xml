@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127254</field>
+<field name="genre">Operas</field>
+<field name="title">Nitteti</field>
+<field name="titleSort">Nitteti</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nitteti+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132625</field>
+<field name="genre">Operas</field>
+<field name="title">The Muse of Excellence</field>
+<field name="titleSort">Muse of Excellence</field>
+<field name="composer">Ron Weidberg</field>
+<field name="composerSort">Weidberg, Ron</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Irwin Donald Nier</field>
+<field name="librettistSort">Nier, Irwin Donald</field>
+<field name="theater">Minor Latham Playhouse</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Muse+of+Excellence+Ron+Weidberg&amp;search_field=search</field>
+</doc>
+</add>

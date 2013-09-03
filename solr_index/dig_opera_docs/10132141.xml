@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132141</field>
+<field name="genre">Operas</field>
+<field name="title">Romana</field>
+<field name="titleSort">Romana</field>
+<field name="composer">Mario Vitali</field>
+<field name="composerSort">Vitali, Mario</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">G. G. Brotani</field>
+<field name="librettistSort">Brotani, G. G.</field>
+<field name="theater">Teatro Velluti</field>
+<field name="city">Pausula</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romana+Mario+Vitali&amp;search_field=search</field>
+</doc>
+</add>

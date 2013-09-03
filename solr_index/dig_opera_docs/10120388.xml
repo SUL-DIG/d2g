@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120388</field>
+<field name="genre">Operas</field>
+<field name="title">Regina von Emmeritz</field>
+<field name="titleSort">Regina von Emmeritz</field>
+<field name="composer">Oskar Merikanto</field>
+<field name="composerSort">Merikanto, Oskar</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Oskar Merikanto</field>
+<field name="librettistSort">Merikanto, Oskar</field>
+<field name="librettist">Zachris Topelius</field>
+<field name="librettistSort">Topelius, Zachris</field>
+<field name="theater">Aleksanterinteatteri</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Regina+von+Emmeritz+Oskar+Merikanto&amp;search_field=search</field>
+</doc>
+</add>

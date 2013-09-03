@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122134</field>
+<field name="genre">Operas</field>
+<field name="title">Uhret (The Clock)</field>
+<field name="titleSort">Uhret (The Clock)</field>
+<field name="composer">Ludolf Nielsen</field>
+<field name="composerSort">Nielsen, Ludolf</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Aage Lind</field>
+<field name="librettistSort">Lind, Aage"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uhret+The+Clock+Ludolf+Nielsen&amp;search_field=search</field>
+</doc>
+</add>

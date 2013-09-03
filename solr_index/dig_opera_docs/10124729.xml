@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124729</field>
+<field name="genre">Operas</field>
+<field name="title">La vendetta d'amore</field>
+<field name="titleSort">vendetta d'amore</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1707</field>
+<field name="date">1707</field><field name="theater">Teatro Manfredini</field>
+<field name="city">Rovigo</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vendetta+d'amore+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

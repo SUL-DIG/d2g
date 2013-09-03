@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109162</field>
+<field name="genre">Operas</field>
+<field name="title">Cristina di Svezia</field>
+<field name="titleSort">Cristina di Svezia</field>
+<field name="composer">Paolo Fabrizi</field>
+<field name="composerSort">Fabrizi, Paolo</field>
+<field name="year">1844</field>
+<field name="date">1844</field><field name="theater">Teatro de' Nobili</field>
+<field name="city">Spoleto</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristina+di+Svezia+Paolo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

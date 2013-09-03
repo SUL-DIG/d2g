@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201304</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Festival Oratorio</field>
+		<field name="titleSort">Festival Oratorio</field>
+		<field name="year">1909</field>
+		
+		
+		<field name="date">1909</field>
+		<field name="composer">Lorena Beresford</field>
+		<field name="composerSort">Beresford, Lorena</field>
+		<field name="librettist">Lorena Beresford</field>
+		<field name="librettistSort">Beresford, Lorena</field>
+		
+		
+		<field name="city">Chicago</field>
+		<field name="region">Illinois</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Festival+Oratorio+Lorena+Beresford&amp;search_field=search</field>
+	</doc></add>

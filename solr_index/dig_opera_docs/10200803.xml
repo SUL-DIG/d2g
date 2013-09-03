@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200803</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David</field>
+		<field name="titleSort">David</field>
+		<field name="year">1937</field>
+		
+		
+		<field name="date">1937</field>
+		<field name="composer">Louis Cheslock</field>
+		<field name="composerSort">Cheslock, Louis</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Louis+Cheslock&amp;search_field=search</field>
+	</doc></add>

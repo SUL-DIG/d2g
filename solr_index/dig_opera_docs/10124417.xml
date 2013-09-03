@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124417</field>
+<field name="genre">Operas</field>
+<field name="title">Kniesenack</field>
+<field name="titleSort">Kniesenack</field>
+<field name="composer">Carl Pistor</field>
+<field name="composerSort">Pistor, Carl</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Benno Rinow</field>
+<field name="librettistSort">Rinow, Benno</field>
+<field name="librettist">Peter Andreas</field>
+<field name="librettistSort">Andreas, Peter</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kniesenack+Carl+Pistor&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101260</field>
+<field name="genre">Operas</field>
+<field name="title">Dusha Poeta (A Poet's Soul)</field>
+<field name="titleSort">Dusha Poeta (A Poet's Soul)</field>
+<field name="composer">Mukhtar Ashrafi</field>
+<field name="composerSort">Ashrafi, Mukhtar</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Izzat Sulton</field>
+<field name="librettistSort">Sulton, Izzat</field>
+<field name="theater">Teatr Operï i Baleta imeni A. Navoi</field>
+<field name="city">Tashkent</field>
+
+<field name="country">Uzbekistan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dusha+Poeta+A+Poet's+Soul+Mukhtar+Ashrafi&amp;search_field=search</field>
+</doc>
+</add>

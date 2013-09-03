@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104486</field>
+<field name="genre">Operas</field>
+<field name="title">Men of Blackmoor</field>
+<field name="titleSort">Men of Blackmoor</field>
+<field name="composer">Alan Bush</field>
+<field name="composerSort">Bush, Alan</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Men+of+Blackmoor+Alan+Bush&amp;search_field=search</field>
+</doc>
+</add>

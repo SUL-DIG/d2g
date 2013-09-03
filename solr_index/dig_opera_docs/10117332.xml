@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117332</field>
+<field name="genre">Operas</field>
+<field name="title">Das wüthende Heer</field>
+<field name="titleSort">wüthende Heer</field>
+<field name="composer">Johann Baptist Lasser</field>
+<field name="composerSort">Lasser, Johann Baptist</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Christoph Friedrich Bretzner</field>
+<field name="librettistSort">Bretzner, Christoph Friedrich</field>
+<field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+wüthende+Heer+Johann+Baptist+Lasser&amp;search_field=search</field>
+</doc>
+</add>

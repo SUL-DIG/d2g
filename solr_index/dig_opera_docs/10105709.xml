@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105709</field>
+<field name="genre">Operas</field>
+<field name="title">"Anacréon, ou L'amour fugitif</field>
+<field name="titleSort">"Anacréon, ou L'amour fugitif"</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">R. Mendouze</field>
+<field name="librettistSort">Mendouze, R.</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anacréon,+ou+L'amour+fugitif+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

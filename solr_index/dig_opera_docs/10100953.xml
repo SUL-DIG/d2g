@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100953</field>
+<field name="genre">Operas</field>
+<field name="title">I briganti</field>
+<field name="titleSort">briganti</field>
+<field name="composer">Luigi Arditi</field>
+<field name="composerSort">Arditi, Luigi</field>
+<field name="year">1841</field>
+<field name="date">1841</field><field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+briganti+Luigi+Arditi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125821</field>
+<field name="genre">Operas</field>
+<field name="title">Rasputin</field>
+<field name="titleSort">Rasputin</field>
+<field name="composer">Jay Reise</field>
+<field name="composerSort">Reise, Jay</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Jay Reise</field>
+<field name="librettistSort">Reise, Jay</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rasputin+Jay+Reise&amp;search_field=search</field>
+</doc>
+</add>

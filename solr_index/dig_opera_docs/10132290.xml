@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132290</field>
+<field name="genre">Operas</field>
+<field name="title">Ist's was oder ist's nichts</field>
+<field name="titleSort">Ist's was oder ist's nichts</field>
+<field name="composer">Franz Volkert</field>
+<field name="composerSort">Volkert, Franz</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Joseph Alois Gleich</field>
+<field name="librettistSort">Gleich, Joseph Alois</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ist's+was+oder+ist's+nichts+Franz+Volkert&amp;search_field=search</field>
+</doc>
+</add>

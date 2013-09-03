@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122688</field>
+<field name="genre">Operas</field>
+<field name="title">Honzovo království (Johnny's Kingdom)</field>
+<field name="titleSort">Honzovo království (Johnny's Kingdom)</field>
+<field name="composer">Otakar Ostrcil</field>
+<field name="composerSort">Ostrcil, Otakar</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Jirí Maránek</field>
+<field name="librettistSort">Maránek, Jirí</field>
+<field name="librettist">Lev Nikolayevich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Lev Nikolayevich</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Honzovo+království+Johnny's+Kingdom+Otakar+Ostrcil&amp;search_field=search</field>
+</doc>
+</add>

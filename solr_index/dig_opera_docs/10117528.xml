@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117528</field>
+<field name="genre">Operas</field>
+<field name="title">L'illustre magicien</field>
+<field name="titleSort">illustre magicien</field>
+<field name="composer">Daniel Lazarus</field>
+<field name="composerSort">Lazarus, Daniel</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Jean-Richard Bloch</field>
+<field name="librettistSort">Bloch, Jean-Richard</field>
+<field name="librettist">Joseph-Arthur de Gobineau</field>
+<field name="librettistSort">Gobineau, Joseph-Arthur de</field>
+<field name="theater">Palais des Sports</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'illustre+magicien+Daniel+Lazarus&amp;search_field=search</field>
+</doc>
+</add>

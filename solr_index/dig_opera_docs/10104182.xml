@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104182</field>
+<field name="genre">Operas</field>
+<field name="title">A Colonial Wedding</field>
+<field name="titleSort">Colonial Wedding</field>
+<field name="composer">John A. Van Broekhoven</field>
+<field name="composerSort">Broekhoven, John A. Van</field>
+<field name="year">1905</field>
+<field name="date">1905</field><field name="theater">Music Hall</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Colonial+Wedding+John+A.+Van+Broekhoven&amp;search_field=search</field>
+</doc>
+</add>

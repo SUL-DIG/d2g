@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131590</field>
+<field name="genre">Operas</field>
+<field name="title">La station thermale</field>
+<field name="titleSort">station thermale</field>
+<field name="composer">Fabio Vacchi</field>
+<field name="composerSort">Vacchi, Fabio</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Myriam Tanant</field>
+<field name="librettistSort">Tanant, Myriam</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Opéra</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+station+thermale+Fabio+Vacchi&amp;search_field=search</field>
+</doc>
+</add>

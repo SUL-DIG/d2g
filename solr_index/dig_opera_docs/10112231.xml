@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112231</field>
+<field name="genre">Operas</field>
+<field name="title">Il nuovo podestа</field>
+<field name="titleSort">nuovo podestа</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Giuseppe Caravita</field>
+<field name="librettistSort">Caravita, Giuseppe</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nuovo+podestа+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

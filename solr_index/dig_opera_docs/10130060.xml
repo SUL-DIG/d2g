@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130060</field>
+<field name="genre">Operas</field>
+<field name="title">Gli equivoci</field>
+<field name="titleSort">equivoci</field>
+<field name="composer">Stephen Storace</field>
+<field name="composerSort">Storace, Stephen</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Lorenzo Da Ponte</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+equivoci+Stephen+Storace&amp;search_field=search</field>
+</doc>
+</add>

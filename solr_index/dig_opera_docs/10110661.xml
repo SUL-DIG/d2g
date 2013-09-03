@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110661</field>
+<field name="genre">Operas</field>
+<field name="title">Pamelia</field>
+<field name="titleSort">Pamelia</field>
+<field name="composer">Eric Funk</field>
+<field name="composerSort">Funk, Eric</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Linda Peavy</field>
+<field name="librettistSort">Peavy, Linda</field>
+<field name="librettist">Ursula Smith</field>
+<field name="librettistSort">Smith, Ursula</field>
+<field name="theater">Billings Symphony</field>
+<field name="city">Billings</field>
+<field name="region">Montana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pamelia+Eric+Funk&amp;search_field=search</field>
+</doc>
+</add>

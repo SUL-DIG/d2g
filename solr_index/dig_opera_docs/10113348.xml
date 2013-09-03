@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113348</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Müllertomerl, oder Die Bergmännchen</field>
+<field name="titleSort">"Müllertomerl, oder Die Bergmännchen"</field>
+<field name="composer">Jakob Haibel</field>
+<field name="composerSort">Haibel, Jakob</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Müllertomerl,+oder+Die+Bergmännchen+Jakob+Haibel&amp;search_field=search</field>
+</doc>
+</add>

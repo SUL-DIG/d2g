@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118358</field>
+<field name="genre">Operas</field>
+<field name="title">Tanto ben che male</field>
+<field name="titleSort">Tanto ben che male</field>
+<field name="composer">Nicola Bonifacio Logroscino</field>
+<field name="composerSort">Logroscino, Nicola Bonifacio</field>
+<field name="year">1753</field>
+<field name="date">1753</field><field name="theater">Real Teatro di Santa Cecilia</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tanto+ben+che+male+Nicola+Bonifacio+Logroscino&amp;search_field=search</field>
+</doc>
+</add>

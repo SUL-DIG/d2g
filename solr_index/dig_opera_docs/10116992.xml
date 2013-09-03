@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116992</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanna Shore</field>
+<field name="titleSort">Giovanna Shore</field>
+<field name="composer">Enrico Lacroix</field>
+<field name="composerSort">Lacroix, Enrico</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Nicholas Rowe</field>
+<field name="librettistSort">Rowe, Nicholas</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanna+Shore+Enrico+Lacroix&amp;search_field=search</field>
+</doc>
+</add>

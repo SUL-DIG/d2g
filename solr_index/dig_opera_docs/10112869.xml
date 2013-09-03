@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112869</field>
+<field name="genre">Operas</field>
+<field name="title">Jack and the Beanstalk</field>
+<field name="titleSort">Jack and the Beanstalk</field>
+<field name="composer">Louis Gruenberg</field>
+<field name="composerSort">Gruenberg, Louis</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">John Erskine</field>
+<field name="librettistSort">Erskine, John</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jack+and+the+Beanstalk+Louis+Gruenberg&amp;search_field=search</field>
+</doc>
+</add>

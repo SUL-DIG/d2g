@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204039</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Francesca Romana</field>
+		<field name="titleSort">Santa Francesca Romana</field>
+		<field name="year">1710</field>
+		<field name="month">March</field>
+		<field name="day">16</field>
+		<field name="date">March 16, 1710</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		
+		
+		<field name="theater">Palazzo Bonelli</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Frances of Rome</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">9</field>
+		<field name="feastDate">March 9</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Francesca+Romana+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

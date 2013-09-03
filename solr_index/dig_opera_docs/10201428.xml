@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201428</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Furchtlosigkeit und Wohlwollen</field>
+		<field name="titleSort">Furchtlosigkeit und Wohlwollen</field>
+		<field name="year">1931</field>
+		<field name="month">May</field>
+		<field name="day">19</field>
+		<field name="date">May 19, 1931</field>
+		<field name="composer">Werner Egk</field>
+		<field name="composerSort">Egk, Werner</field>
+		<field name="librettist">Werner Egk</field>
+		<field name="librettistSort">Egk, Werner</field>
+		
+		<field name="theater">Tonhalle</field>
+		<field name="city">Munich</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Furchtlosigkeit+und+Wohlwollen+Werner+Egk&amp;search_field=search</field>
+	</doc></add>

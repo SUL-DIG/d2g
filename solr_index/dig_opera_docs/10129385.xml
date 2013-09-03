@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129385</field>
+<field name="genre">Operas</field>
+<field name="title">La vedova bizzarra</field>
+<field name="titleSort">vedova bizzarra</field>
+<field name="composer">Pasquale Sogner</field>
+<field name="composerSort">Sogner, Pasquale</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Giuseppe Checcherini</field>
+<field name="librettistSort">Checcherini, Giuseppe</field>
+<field name="theater">Teatro Carlo Ludovico</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedova+bizzarra+Pasquale+Sogner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101027</field>
+<field name="genre">Operas</field>
+<field name="title">Au marche des innocents</field>
+<field name="titleSort">Au marche des innocents</field>
+<field name="composer">Eugène Arnaud</field>
+<field name="composerSort">Arnaud, Eugène</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Georges Dorfeuil</field>
+<field name="librettistSort">Dorfeuil, Georges</field>
+<field name="librettist">Charles Mey</field>
+<field name="librettistSort">Mey, Charles</field>
+<field name="theater">Théâtre de la Cigale</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+marche+des+innocents+Eugène+Arnaud&amp;search_field=search</field>
+</doc>
+</add>

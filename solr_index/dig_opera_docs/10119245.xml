@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119245</field>
+<field name="genre">Operas</field>
+<field name="title">I ciclopi innamorati</field>
+<field name="titleSort">ciclopi innamorati</field>
+<field name="composer">__ Marassi</field>
+<field name="composerSort">Marassi, __</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="city">Istanbul</field>
+
+<field name="country">Turkey</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+ciclopi+innamorati+__+Marassi&amp;search_field=search</field>
+</doc>
+</add>

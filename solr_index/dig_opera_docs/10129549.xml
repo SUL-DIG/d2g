@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129549</field>
+<field name="genre">Operas</field>
+<field name="title">El capitan</field>
+<field name="titleSort">capitan</field>
+<field name="composer">John Philip Sousa</field>
+<field name="composerSort">Sousa, John Philip</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Charles Klein</field>
+<field name="librettistSort">Klein, Charles</field>
+<field name="librettist">Thomas Frost</field>
+<field name="librettistSort">Frost, Thomas</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+capitan+John+Philip+Sousa&amp;search_field=search</field>
+</doc>
+</add>

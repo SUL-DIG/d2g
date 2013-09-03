@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127059</field>
+<field name="genre">Operas</field>
+<field name="title">La difesa di Goa</field>
+<field name="titleSort">difesa di Goa</field>
+<field name="composer">Raffaele Russo</field>
+<field name="composerSort">Russo, Raffaele</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+difesa+di+Goa+Raffaele+Russo&amp;search_field=search</field>
+</doc>
+</add>

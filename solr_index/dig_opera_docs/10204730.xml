@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204730</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Unerschöpflichs Meer der Liebe</field>
+		<field name="titleSort">Unerschöpflichs Meer der Liebe</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Jakob Friedrich Lamprecht</field>
+		<field name="librettistSort">Lamprecht, Jakob Friedrich</field>
+		
+		<field name="theater">Kapitänsmusik</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Unerschöpflichs+Meer+der+Liebe+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

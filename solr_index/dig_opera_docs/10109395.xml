@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109395</field>
+<field name="genre">Operas</field>
+<field name="title">La pagode</field>
+<field name="titleSort">pagode</field>
+<field name="composer">Benoit Constant Fauconier</field>
+<field name="composerSort">Fauconier, Benoit Constant</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pagode+Benoit+Constant+Fauconier&amp;search_field=search</field>
+</doc>
+</add>

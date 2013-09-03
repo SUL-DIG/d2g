@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201770</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il gran conflitto nel trionfo di San Michele Archangelo contro Lucifero</field>
+		<field name="titleSort">gran conflitto nel trionfo di San Michele Archangelo contro Lucifero</field>
+		<field name="year">1713</field>
+		
+		
+		<field name="date">1713</field>
+		<field name="composer">Domenico Antonio Berti</field>
+		<field name="composerSort">Berti, Domenico Antonio</field>
+		<field name="librettist">Arcangelo Spagna</field>
+		<field name="librettistSort">Spagna, Arcangelo</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Archangel Michael battles Satan</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gran+conflitto+nel+trionfo+di+San+Michele+Archangelo+contro+Lucifero+Domenico+Antonio+Berti&amp;search_field=search</field>
+	</doc></add>

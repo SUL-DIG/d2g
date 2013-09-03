@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115089</field>
+<field name="genre">Operas</field>
+<field name="title">Romanitza</field>
+<field name="titleSort">Romanitza</field>
+<field name="composer">Maurice Jacquet</field>
+<field name="composerSort">Jacquet, Maurice</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Maurice Magre</field>
+<field name="librettistSort">Magre, Maurice</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Calais</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romanitza+Maurice+Jacquet&amp;search_field=search</field>
+</doc>
+</add>

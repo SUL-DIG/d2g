@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132259</field>
+<field name="genre">Operas</field>
+<field name="title">Castore e Polluce</field>
+<field name="titleSort">Castore e Polluce</field>
+<field name="composer">Georg Joseph Vogler</field>
+<field name="composerSort">Vogler, Georg Joseph</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Georg Joseph Vogler</field>
+<field name="librettistSort">Vogler, Georg Joseph</field>
+<field name="librettist">Carlo Innocenzo Frugoni</field>
+<field name="librettistSort">Frugoni, Carlo Innocenzo</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Castore+e+Polluce+Georg+Joseph+Vogler&amp;search_field=search</field>
+</doc>
+</add>

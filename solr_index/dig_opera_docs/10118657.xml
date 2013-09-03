@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118657</field>
+<field name="genre">Operas</field>
+<field name="title">Persée</field>
+<field name="titleSort">Persée</field>
+<field name="composer">Jean-Baptiste Lully</field>
+<field name="composerSort">Lully, Jean-Baptiste</field>
+<field name="year">1682</field>
+<field name="date">1682</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Persée+Jean-Baptiste+Lully&amp;search_field=search</field>
+</doc>
+</add>

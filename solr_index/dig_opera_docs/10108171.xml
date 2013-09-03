@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108171</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'elogii</field>
+<field name="titleSort">elogii</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1684</field>
+<field name="date">1684</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'elogii+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

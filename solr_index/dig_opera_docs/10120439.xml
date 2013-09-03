@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120439</field>
+<field name="genre">Operas</field>
+<field name="title">Der Teufel ein Hydraulikus</field>
+<field name="titleSort">Teufel ein Hydraulikus</field>
+<field name="composer">Adolf Friedrich Metke</field>
+<field name="composerSort">Metke, Adolf Friedrich</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Johann Friedrich Ernst Albrecht</field>
+<field name="librettistSort">Albrecht, Johann Friedrich Ernst</field>
+
+<field name="city">Oelsnitz im Erzgebirge</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Teufel+ein+Hydraulikus+Adolf+Friedrich+Metke&amp;search_field=search</field>
+</doc>
+</add>

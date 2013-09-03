@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114814</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rückfahrt des Kaisers</field>
+<field name="titleSort">Rückfahrt des Kaisers</field>
+<field name="composer">Johann Nepomuk Hummel</field>
+<field name="composerSort">Hummel, Johann Nepomuk</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Johann Emanuel Veith</field>
+<field name="librettistSort">Veith, Johann Emanuel</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rückfahrt+des+Kaisers+Johann+Nepomuk+Hummel&amp;search_field=search</field>
+</doc>
+</add>

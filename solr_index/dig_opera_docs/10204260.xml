@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204260</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le sermon sur la montagne</field>
+		<field name="titleSort">sermon sur la montagne</field>
+		<field name="year">1936</field>
+		
+		
+		<field name="date">1936</field>
+		<field name="composer">Georges Migot</field>
+		<field name="composerSort">Migot, Georges</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Sermon on the Mount</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sermon+sur+la+montagne+Georges+Migot&amp;search_field=search</field>
+	</doc></add>

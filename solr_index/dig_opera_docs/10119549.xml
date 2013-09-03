@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119549</field>
+<field name="genre">Operas</field>
+<field name="title">Meedio (The Medium)</field>
+<field name="titleSort">Meedio (The Medium)</field>
+<field name="composer">Tauno Marttinen</field>
+<field name="composerSort">Marttinen, Tauno</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Tauno Marttinen</field>
+<field name="librettistSort">Marttinen, Tauno</field>
+<field name="theater">Hämeenlinna Opera Society</field>
+<field name="city">Hämeenlinna</field>
+<field name="region">Hämeen</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meedio+The+Medium+Tauno+Marttinen&amp;search_field=search</field>
+</doc>
+</add>

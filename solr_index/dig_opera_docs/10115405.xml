@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115405</field>
+<field name="genre">Operas</field>
+<field name="title">Sam Slick</field>
+<field name="titleSort">Sam Slick</field>
+<field name="composer">Kelsey Jones</field>
+<field name="composerSort">Jones, Kelsey</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Rosabelle Jones</field>
+<field name="librettistSort">Jones, Rosabelle</field>
+<field name="librettist">Thomas Chandler Haliburton</field>
+<field name="librettistSort">Haliburton, Thomas Chandler</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Halifax</field>
+<field name="region">Nova Scotia</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sam+Slick+Kelsey+Jones&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119882</field>
+<field name="genre">Operas</field>
+<field name="title">Li Fordjeu</field>
+<field name="titleSort">Fordjeu</field>
+<field name="composer">Fernand Mawet</field>
+<field name="composerSort">Mawet, Fernand</field>
+<field name="year">1908</field>
+<field name="date">1908</field><field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+Fordjeu+Fernand+Mawet&amp;search_field=search</field>
+</doc>
+</add>

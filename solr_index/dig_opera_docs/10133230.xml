@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133230</field>
+<field name="genre">Operas</field>
+<field name="title">Gespräch mit einem guten Menshen</field>
+<field name="titleSort">Gespräch mit einem guten Menshen</field>
+<field name="composer">Zdzislaw Wysocki</field>
+<field name="composerSort">Wysocki, Zdzislaw</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Attila Böcs</field>
+<field name="librettistSort">Böcs, Attila</field>
+<field name="librettist">Frigyes Karinthy</field>
+<field name="librettistSort">Karinthy, Frigyes</field>
+<field name="theater">Jugendstiltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gespräch+mit+einem+guten+Menshen+Zdzislaw+Wysocki&amp;search_field=search</field>
+</doc>
+</add>

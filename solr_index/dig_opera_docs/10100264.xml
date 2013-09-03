@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100264</field>
+<field name="genre">Operas</field>
+<field name="title">Frigga</field>
+<field name="titleSort">Frigga</field>
+<field name="composer">Olaf Åhlström</field>
+<field name="composerSort">Åhlström, Olaf</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Carl Gustaf Leopold</field>
+<field name="librettistSort">Leopold, Carl Gustaf</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frigga+Olaf+Åhlström&amp;search_field=search</field>
+</doc>
+</add>

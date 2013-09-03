@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121797</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo di Clelia</field>
+<field name="titleSort">trionfo di Clelia</field>
+<field name="composer">Sebastiano Nasolini</field>
+<field name="composerSort">Nasolini, Sebastiano</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Simeone Antonio Sografi</field>
+<field name="librettistSort">Sografi, Simeone Antonio</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Clelia+Sebastiano+Nasolini&amp;search_field=search</field>
+</doc>
+</add>

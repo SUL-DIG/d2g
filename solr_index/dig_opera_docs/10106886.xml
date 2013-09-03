@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106886</field>
+<field name="genre">Operas</field>
+<field name="title">Louise de Charolais</field>
+<field name="titleSort">Louise de Charolais</field>
+<field name="composer">Jean Baptiste de Croze-Magnon</field>
+<field name="composerSort">Croze-Magnon, Jean Baptiste de</field>
+<field name="year">1854</field>
+<field name="date">1854</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Louise+de+Charolais+Jean+Baptiste+de+Croze-Magnon&amp;search_field=search</field>
+</doc>
+</add>

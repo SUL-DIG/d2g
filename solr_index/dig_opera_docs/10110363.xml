@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110363</field>
+<field name="genre">Operas</field>
+<field name="title">Il signor di Pourceaugnac</field>
+<field name="titleSort">signor di Pourceaugnac</field>
+<field name="composer">Alberto Franchetti</field>
+<field name="composerSort">Franchetti, Alberto</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Ferdinando Fontana</field>
+<field name="librettistSort">Fontana, Ferdinando</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+signor+di+Pourceaugnac+Alberto+Franchetti&amp;search_field=search</field>
+</doc>
+</add>

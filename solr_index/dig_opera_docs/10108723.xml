@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108723</field>
+<field name="genre">Operas</field>
+<field name="title">May and December</field>
+<field name="titleSort">May and December</field>
+<field name="composer">Julian Edwards</field>
+<field name="composerSort">Edwards, Julian</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Julian Edwards</field>
+<field name="librettistSort">Edwards, Julian</field>
+<field name="theater">Assembly Rooms</field>
+<field name="city">Tunbridge Wells</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=May+and+December+Julian+Edwards&amp;search_field=search</field>
+</doc>
+</add>

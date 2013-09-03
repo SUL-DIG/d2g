@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202996</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Notre-Dame de la mer</field>
+		<field name="titleSort">Notre-Dame de la mer</field>
+		<field name="year">1897</field>
+		<field name="month">November</field>
+		<field name="day">27</field>
+		<field name="date">November 27, 1897</field>
+		<field name="composer">Théodore Dubois</field>
+		<field name="composerSort">Dubois, Théodore</field>
+		<field name="librettist">Louis Gallet</field>
+		<field name="librettistSort">Gallet, Louis</field>
+		
+		
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notre-Dame+de+la+mer+Théodore+Dubois&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127975</field>
+<field name="genre">Operas</field>
+<field name="title">Il gran Tamerlano</field>
+<field name="titleSort">gran Tamerlano</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="librettist">Jacques Pradon</field>
+<field name="librettistSort">Pradon, Jacques</field>
+<field name="theater">Villa Medicea</field>
+<field name="city">Pratolino</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gran+Tamerlano+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200622</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus am Olberg</field>
+		<field name="titleSort">Christus am Olberg</field>
+		<field name="year">1754</field>
+		
+		
+		<field name="date">1754</field>
+		<field name="composer">Anton Cajetan Adlgasser</field>
+		<field name="composerSort">Adlgasser, Anton Cajetan</field>
+		
+		
+		
+		<field name="city">Salzburg</field>
+		<field name="region">Salzburg</field>
+		<field name="country">Austria</field>
+		<field name="subject">Christ on the Mount of Olives</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+am+Olberg+Anton+Cajetan+Adlgasser&amp;search_field=search</field>
+	</doc></add>

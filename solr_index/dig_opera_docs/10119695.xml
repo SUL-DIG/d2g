@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119695</field>
+<field name="genre">Operas</field>
+<field name="title">Cendrillon</field>
+<field name="titleSort">Cendrillon</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cendrillon+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

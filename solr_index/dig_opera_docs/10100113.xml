@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100113</field>
+<field name="genre">Operas</field>
+<field name="title">La dame jaune</field>
+<field name="titleSort">dame jaune</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Pierre-Frédéric-Adolphe Carmouche</field>
+<field name="librettistSort">Carmouche, Pierre-Frédéric-Adolphe</field>
+<field name="librettist">Edmond-Joseph Ennemond Mazères</field>
+<field name="librettistSort">Mazères, Edmond-Joseph Ennemond</field>
+<field name="theater">Théâtre du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dame+jaune+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

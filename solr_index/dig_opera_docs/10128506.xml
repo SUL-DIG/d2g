@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128506</field>
+<field name="genre">Operas</field>
+<field name="title">Svinedrengen</field>
+<field name="titleSort">Svinedrengen</field>
+<field name="composer">Svend Simon Schultz</field>
+<field name="composerSort">Schultz, Svend Simon</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Ida Høeg Jacobsen</field>
+<field name="librettistSort">Jacobsen, Ida Høeg</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svinedrengen+Svend+Simon+Schultz&amp;search_field=search</field>
+</doc>
+</add>

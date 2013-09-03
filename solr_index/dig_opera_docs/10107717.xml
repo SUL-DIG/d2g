@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107717</field>
+<field name="genre">Operas</field>
+<field name="title">Silvester (New Year's Eve)</field>
+<field name="titleSort">Silvester (New Year's Eve)</field>
+<field name="composer">Igor Dibák</field>
+<field name="composerSort">Dibák, Igor</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Petr Strelinger</field>
+<field name="librettistSort">Strelinger, Petr</field>
+<field name="librettist">Igor Dibák</field>
+<field name="librettistSort">Dibák, Igor</field>
+<field name="theater">Slovak Television (Slovenská televízia)</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvester+New+Year's+Eve+Igor+Dibák&amp;search_field=search</field>
+</doc>
+</add>

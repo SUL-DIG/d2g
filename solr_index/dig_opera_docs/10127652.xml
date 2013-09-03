@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127652</field>
+<field name="genre">Operas</field>
+<field name="title">Studenti parigini</field>
+<field name="titleSort">Studenti parigini</field>
+<field name="composer">Settimo Sardo</field>
+<field name="composerSort">Sardo, Settimo</field>
+<field name="year">1892</field>
+<field name="date">1892</field><field name="theater">Teatro Farinese</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Studenti+parigini+Settimo+Sardo&amp;search_field=search</field>
+</doc>
+</add>

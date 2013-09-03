@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132864</field>
+<field name="genre">Operas</field>
+<field name="title">The Tempest</field>
+<field name="titleSort">Tempest</field>
+<field name="composer">Peter Westergaard</field>
+<field name="composerSort">Westergaard, Peter</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Peter Westergaard</field>
+<field name="librettistSort">Westergaard, Peter</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Kirby Arts Center</field>
+<field name="city">Lawrenceville</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tempest+Peter+Westergaard&amp;search_field=search</field>
+</doc>
+</add>

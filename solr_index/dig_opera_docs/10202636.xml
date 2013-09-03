@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202636</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El martirio de San Esteban</field>
+		<field name="titleSort">martirio de San Esteban</field>
+		<field name="year">1795</field>
+		<field name="month">December</field>
+		<field name="day">27</field>
+		<field name="date">December 27, 1795</field>
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Stephen</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">December 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+martirio+de+San+Esteban+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

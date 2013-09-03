@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133399</field>
+<field name="genre">Operas</field>
+<field name="title">Opera uz laukuma (Opera on the Square)</field>
+<field name="titleSort">Opera uz laukuma (Opera on the Square)</field>
+<field name="composer">Margers Zarins</field>
+<field name="composerSort">Zarins, Margers</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Julijs Vanags</field>
+<field name="librettistSort">Vanags, Julijs</field>
+<field name="librettist">Margers Zarins</field>
+<field name="librettistSort">Zarins, Margers</field>
+<field name="theater">Latviyskiy Teatr Operï i Baleta</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Opera+uz+laukuma+Opera+on+the+Square+Margers+Zarins&amp;search_field=search</field>
+</doc>
+</add>

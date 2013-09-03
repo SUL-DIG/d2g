@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203957</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sansone</field>
+		<field name="titleSort">Sansone</field>
+		<field name="year">1882</field>
+		<field name="month">August</field>
+		<field name="day">23</field>
+		<field name="date">August 23, 1882</field>
+		<field name="composer">Francesco Paolo Frontini</field>
+		<field name="composerSort">Frontini, Francesco Paolo</field>
+		
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Samson</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sansone+Francesco+Paolo+Frontini&amp;search_field=search</field>
+	</doc></add>

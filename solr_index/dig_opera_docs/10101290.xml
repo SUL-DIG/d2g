@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101290</field>
+<field name="genre">Operas</field>
+<field name="title">Die Kinder der Natur</field>
+<field name="titleSort">Kinder der Natur</field>
+<field name="composer">Franz Aspelmayr</field>
+<field name="composerSort">Aspelmayr, Franz</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Joseph Felix von Kurz</field>
+<field name="librettistSort">Kurz, Joseph Felix von</field>
+<field name="librettist">Johann Friedrich Schmidt</field>
+<field name="librettistSort">Schmidt, Johann Friedrich</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Kinder+der+Natur+Franz+Aspelmayr&amp;search_field=search</field>
+</doc>
+</add>

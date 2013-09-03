@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116981</field>
+<field name="genre">Operas</field>
+<field name="title">Biblis</field>
+<field name="titleSort">Biblis</field>
+<field name="composer">Louis de Lacoste</field>
+<field name="composerSort">Lacoste, Louis de</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">N. Fleury</field>
+<field name="librettistSort">Fleury, N.</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Biblis+Louis+de+Lacoste&amp;search_field=search</field>
+</doc>
+</add>

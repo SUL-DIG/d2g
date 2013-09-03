@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125378</field>
+<field name="genre">Operas</field>
+<field name="title">Rose et Florbel</field>
+<field name="titleSort">Rose et Florbel</field>
+<field name="composer">__ Quinebaud</field>
+<field name="composerSort">Quinebaud, __</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Joseph Patrat</field>
+<field name="librettistSort">Patrat, Joseph</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rose+et+Florbel+__+Quinebaud&amp;search_field=search</field>
+</doc>
+</add>

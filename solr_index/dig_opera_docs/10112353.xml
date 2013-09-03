@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112353</field>
+<field name="genre">Operas</field>
+<field name="title">Il Guarany</field>
+<field name="titleSort">Guarany</field>
+<field name="composer">Carlos Gomes</field>
+<field name="composerSort">Gomes, Carlos</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Antonio Scalvini</field>
+<field name="librettistSort">Scalvini, Antonio</field>
+<field name="librettist">Carlo d'Ormeville</field>
+<field name="librettistSort">d'Ormeville, Carlo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Guarany+Carlos+Gomes&amp;search_field=search</field>
+</doc>
+</add>

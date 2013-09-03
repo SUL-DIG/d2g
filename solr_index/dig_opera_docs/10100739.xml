@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100739</field>
+<field name="genre">Operas</field>
+<field name="title">"Rosa, A Horse Opera</field>
+<field name="titleSort">"Rosa, A Horse Opera"</field>
+<field name="composer">Louis Andriessen</field>
+<field name="composerSort">Andriessen, Louis</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Peter Greenaway</field>
+<field name="librettistSort">Greenaway, Peter</field>
+<field name="theater">Muziektheater</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosa,+A+Horse+Opera+Louis+Andriessen&amp;search_field=search</field>
+</doc>
+</add>

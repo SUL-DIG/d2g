@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112420</field>
+<field name="genre">Operas</field>
+<field name="title">Morana</field>
+<field name="titleSort">Morana</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Ahmed Muradbegovic</field>
+<field name="librettistSort">Muradbegovic, Ahmed</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morana+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

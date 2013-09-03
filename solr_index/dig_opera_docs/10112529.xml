@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112529</field>
+<field name="genre">Operas</field>
+<field name="title">Liliana</field>
+<field name="titleSort">Liliana</field>
+<field name="composer">Enrique Granados</field>
+<field name="composerSort">Granados, Enrique</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Apeles Mestres</field>
+<field name="librettistSort">Mestres, Apeles</field>
+<field name="theater">Palau de Bellas Artes</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liliana+Enrique+Granados&amp;search_field=search</field>
+</doc>
+</add>

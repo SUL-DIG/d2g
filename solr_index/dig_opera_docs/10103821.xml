@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103821</field>
+<field name="genre">Operas</field>
+<field name="title">Marion Delorme</field>
+<field name="titleSort">Marion Delorme</field>
+<field name="composer">Giovanni Bottesini</field>
+<field name="composerSort">Bottesini, Giovanni</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marion+Delorme+Giovanni+Bottesini&amp;search_field=search</field>
+</doc>
+</add>

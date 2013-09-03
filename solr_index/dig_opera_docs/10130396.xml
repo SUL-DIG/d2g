@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130396</field>
+<field name="genre">Operas</field>
+<field name="title">Raskolnikoff</field>
+<field name="titleSort">Raskolnikoff</field>
+<field name="composer">Heinrich Sutermeister</field>
+<field name="composerSort">Sutermeister, Heinrich</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Heinrich Sutermeister</field>
+<field name="librettistSort">Sutermeister, Heinrich</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raskolnikoff+Heinrich+Sutermeister&amp;search_field=search</field>
+</doc>
+</add>

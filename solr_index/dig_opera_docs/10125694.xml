@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125694</field>
+<field name="genre">Operas</field>
+<field name="title">The Ballad of the Sleazy Cafe</field>
+<field name="titleSort">Ballad of the Sleazy Cafe</field>
+<field name="composer">Paul Reale</field>
+<field name="composerSort">Reale, Paul</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Peter Belfiore</field>
+<field name="librettistSort">Belfiore, Peter</field>
+<field name="theater">University of California</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ballad+of+the+Sleazy+Cafe+Paul+Reale&amp;search_field=search</field>
+</doc>
+</add>

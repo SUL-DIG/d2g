@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131888</field>
+<field name="genre">Operas</field>
+<field name="title">Imilda</field>
+<field name="titleSort">Imilda</field>
+<field name="composer">Theodor Verhey</field>
+<field name="composerSort">Verhey, Theodor</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Willem Smalt</field>
+<field name="librettistSort">Smalt, Willem</field>
+<field name="theater">Hoogduitse Opera</field>
+<field name="city">Rotterdam</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Imilda+Theodor+Verhey&amp;search_field=search</field>
+</doc>
+</add>

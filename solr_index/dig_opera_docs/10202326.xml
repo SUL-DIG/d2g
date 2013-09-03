@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202326</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Judith</field>
+		<field name="titleSort">Judith</field>
+		<field name="year">1878</field>
+		<field name="month">June</field>
+		
+		<field name="date">June 1878</field>
+		<field name="composer">Alfred Richter</field>
+		<field name="composerSort">Richter, Alfred</field>
+		<field name="librettist">Alfred Richter</field>
+		<field name="librettistSort">Richter, Alfred</field>
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Alfred+Richter&amp;search_field=search</field>
+	</doc></add>

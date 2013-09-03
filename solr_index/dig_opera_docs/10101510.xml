@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101510</field>
+<field name="genre">Operas</field>
+<field name="title">Ortzuri</field>
+<field name="titleSort">Ortzuri</field>
+<field name="composer">Resurrección Mariá de Azkue</field>
+<field name="composerSort">Azkue, Resurrección Mariá de</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Resurrección Mariá de Azkue</field>
+<field name="librettistSort">Azkue, Resurrección Mariá de</field>
+<field name="theater">Sociedad Coral de Bilbao</field>
+<field name="city">Bilbao</field>
+<field name="region">Euskal Herriko</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ortzuri+Resurrección+Mariá+de+Azkue&amp;search_field=search</field>
+</doc>
+</add>

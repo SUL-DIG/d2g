@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116120</field>
+<field name="genre">Operas</field>
+<field name="title">Zlý jelen (The Evil Stag)</field>
+<field name="titleSort">Zlý jelen (The Evil Stag)</field>
+<field name="composer">Jan Klusák</field>
+<field name="composerSort">Klusák, Jan</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Václav Kliment Klicpera</field>
+<field name="librettistSort">Klicpera, Václav Kliment</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zlý+jelen+The+Evil+Stag+Jan+Klusák&amp;search_field=search</field>
+</doc>
+</add>

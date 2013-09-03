@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124165</field>
+<field name="genre">Operas</field>
+<field name="title">Didon</field>
+<field name="titleSort">Didon</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Didon+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

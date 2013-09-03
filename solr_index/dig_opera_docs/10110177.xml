@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110177</field>
+<field name="genre">Operas</field>
+<field name="title">Die Goldburg im Hexentale</field>
+<field name="titleSort">Goldburg im Hexentale</field>
+<field name="composer">Nikolaus von Földváry</field>
+<field name="composerSort">Földváry, Nikolaus von</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Goldburg+im+Hexentale+Nikolaus+von+Földváry&amp;search_field=search</field>
+</doc>
+</add>

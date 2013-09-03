@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118150</field>
+<field name="genre">Operas</field>
+<field name="title">Rosmunda in Ravenna</field>
+<field name="titleSort">Rosmunda in Ravenna</field>
+<field name="composer">Giuseppe Lillo</field>
+<field name="composerSort">Lillo, Giuseppe</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Luisa Amalia Paladini</field>
+<field name="librettistSort">Paladini, Luisa Amalia</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosmunda+in+Ravenna+Giuseppe+Lillo&amp;search_field=search</field>
+</doc>
+</add>

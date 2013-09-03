@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130546</field>
+<field name="genre">Operas</field>
+<field name="title">Ashmedai</field>
+<field name="titleSort">Ashmedai</field>
+<field name="composer">Josef Tal</field>
+<field name="composerSort">Tal, Josef</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Israel Eliraz</field>
+<field name="librettistSort">Eliraz, Israel</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ashmedai+Josef+Tal&amp;search_field=search</field>
+</doc>
+</add>

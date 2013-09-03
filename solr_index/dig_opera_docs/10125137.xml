@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125137</field>
+<field name="genre">Operas</field>
+<field name="title">Igrok (The Gambler)</field>
+<field name="titleSort">Igrok (The Gambler)</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Igrok+The+Gambler+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

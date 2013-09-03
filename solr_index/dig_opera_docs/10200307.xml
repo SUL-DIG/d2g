@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200307</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Auferstehungs-Oratorium</field>
+		<field name="titleSort">Auferstehungs-Oratorium</field>
+		
+		
+		
+		
+		<field name="composer">Johann Friedrich Reichardt</field>
+		<field name="composerSort">Reichardt, Johann Friedrich</field>
+		<field name="librettist">Karl Wilhelm Ramler</field>
+		<field name="librettistSort">Ramler, Karl Wilhelm</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auferstehungs-Oratorium+Johann+Friedrich+Reichardt&amp;search_field=search</field>
+	</doc></add>

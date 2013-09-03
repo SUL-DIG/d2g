@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106844</field>
+<field name="genre">Operas</field>
+<field name="title">Les ruses de Truffaldin</field>
+<field name="titleSort">ruses de Truffaldin</field>
+<field name="composer">Paul Cressonois</field>
+<field name="composerSort">Cressonois, Paul</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Bertrand Millanvoye</field>
+<field name="librettistSort">Millanvoye, Bertrand</field>
+<field name="librettist">Alfred Étiévant</field>
+<field name="librettistSort">Étiévant, Alfred</field>
+<field name="theater">Théâtre de la Bodinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+ruses+de+Truffaldin+Paul+Cressonois&amp;search_field=search</field>
+</doc>
+</add>

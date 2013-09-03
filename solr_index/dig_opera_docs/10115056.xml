@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115056</field>
+<field name="genre">Operas</field>
+<field name="title">Cinderella</field>
+<field name="titleSort">Cinderella</field>
+<field name="composer">Georg Jacobi</field>
+<field name="composerSort">Jacobi, Georg</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">[Henry Shapcott Bunce] Shapcott Wensley</field>
+<field name="librettistSort">Wensley, Shapcott [Henry Shapcott Bunce]</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cinderella+Georg+Jacobi&amp;search_field=search</field>
+</doc>
+</add>

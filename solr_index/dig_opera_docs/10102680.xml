@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102680</field>
+<field name="genre">Operas</field>
+<field name="title">Der kleine Chevalier</field>
+<field name="titleSort">kleine Chevalier</field>
+<field name="composer">Heinrich Berté</field>
+<field name="composerSort">Berté, Heinrich</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Alfred Maria Willner</field>
+<field name="librettistSort">Willner, Alfred Maria</field>
+<field name="theater">Zentraltheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+Chevalier+Heinrich+Berté&amp;search_field=search</field>
+</doc>
+</add>

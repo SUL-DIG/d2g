@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201572</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Gioas</field>
+		<field name="titleSort">Gioas</field>
+		<field name="year">1791</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1791</field>
+		<field name="composer">Domenico Coventati</field>
+		<field name="composerSort">Coventati, Domenico</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Oratorio dei Filippini di Santa Maria in Vallicella</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Gioas+Domenico+Coventati&amp;search_field=search</field>
+	</doc></add>

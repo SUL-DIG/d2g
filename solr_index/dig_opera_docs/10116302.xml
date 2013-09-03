@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116302</field>
+<field name="genre">Operas</field>
+<field name="title">The Fox</field>
+<field name="titleSort">Fox</field>
+<field name="composer">Leslie Kondorossy</field>
+<field name="composerSort">Kondorossy, Leslie</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">[Elizabeth Davis] Shawn Hall</field>
+<field name="librettistSort">Hall, Shawn [Elizabeth Davis]</field>
+<field name="librettist">Kálmán Mikszáth</field>
+<field name="librettistSort">Mikszáth, Kálmán</field>
+
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fox+Leslie+Kondorossy&amp;search_field=search</field>
+</doc>
+</add>

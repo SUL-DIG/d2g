@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104816</field>
+<field name="genre">Operas</field>
+<field name="title">"La bayadère, ou Le français а Surate</field>
+<field name="titleSort">"bayadère, ou Le français а Surate"</field>
+<field name="composer">Julie Candeille</field>
+<field name="composerSort">Candeille, Julie</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Julie Candeille</field>
+<field name="librettistSort">Candeille, Julie</field>
+<field name="theater">Théâtre de la République</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bayadère,+ou+Le+français+а+Surate+Julie+Candeille&amp;search_field=search</field>
+</doc>
+</add>

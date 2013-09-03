@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114436</field>
+<field name="genre">Operas</field>
+<field name="title">Kalif Storch</field>
+<field name="titleSort">Kalif Storch</field>
+<field name="composer">Christoph Hohlfeld</field>
+<field name="composerSort">Hohlfeld, Christoph</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Monika Naumann</field>
+<field name="librettistSort">Naumann, Monika</field>
+<field name="librettist">Wilhelm Hauff</field>
+<field name="librettistSort">Hauff, Wilhelm</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalif+Storch+Christoph+Hohlfeld&amp;search_field=search</field>
+</doc>
+</add>

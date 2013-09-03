@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204359</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sospiri del cuore umano</field>
+		<field name="titleSort">Sospiri del cuore umano</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Pietro Paolo Laurenti</field>
+		<field name="composerSort">Laurenti, Pietro Paolo</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sospiri+del+cuore+umano+Pietro+Paolo+Laurenti&amp;search_field=search</field>
+	</doc></add>

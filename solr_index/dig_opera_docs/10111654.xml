@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111654</field>
+<field name="genre">Operas</field>
+<field name="title">Der glückliche Kiebitz</field>
+<field name="titleSort">glückliche Kiebitz</field>
+<field name="composer">Rudolf Gfaller</field>
+<field name="composerSort">Gfaller, Rudolf</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Bruno Decker</field>
+<field name="librettistSort">Decker, Bruno</field>
+<field name="librettist">Robert Pohl</field>
+<field name="librettistSort">Pohl, Robert</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+glückliche+Kiebitz+Rudolf+Gfaller&amp;search_field=search</field>
+</doc>
+</add>

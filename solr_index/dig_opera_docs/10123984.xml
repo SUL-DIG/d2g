@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123984</field>
+<field name="genre">Operas</field>
+<field name="title">Pyotr I</field>
+<field name="titleSort">Pyotr I</field>
+<field name="composer">Andrey Pavlovich Petrov</field>
+<field name="composerSort">Petrov, Andrey Pavlovich</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Natal'ya Emil'evna Kasatkina</field>
+<field name="librettistSort">Kasatkina, Natal'ya Emil'evna</field>
+<field name="librettist">Vladimir Vasil'yov</field>
+<field name="librettistSort">Vasil'yov, Vladimir</field>
+<field name="theater">Teatr Opernïy imeni S. M. Kirova</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pyotr+I+Andrey+Pavlovich+Petrov&amp;search_field=search</field>
+</doc>
+</add>

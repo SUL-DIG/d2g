@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110296</field>
+<field name="genre">Operas</field>
+<field name="title">Das unmöglichste Ding</field>
+<field name="titleSort">unmöglichste Ding</field>
+<field name="composer">Johann Philipp Förtsch</field>
+<field name="composerSort">Förtsch, Johann Philipp</field>
+<field name="year">1684</field>
+<field name="date">1684</field>
+<field name="librettist">Lucas von Bostel</field>
+<field name="librettistSort">Bostel, Lucas von</field>
+<field name="librettist">Lope de Vega</field>
+<field name="librettistSort">Vega, Lope de</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+unmöglichste+Ding+Johann+Philipp+Förtsch&amp;search_field=search</field>
+</doc>
+</add>

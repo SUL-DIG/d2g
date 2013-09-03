@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111834</field>
+<field name="genre">Operas</field>
+<field name="title">Der Prinzregent</field>
+<field name="titleSort">Prinzregent</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Hans Forsten</field>
+<field name="librettistSort">Forsten, Hans</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Prinzregent+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

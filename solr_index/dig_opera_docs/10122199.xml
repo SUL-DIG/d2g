@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122199</field>
+<field name="genre">Operas</field>
+<field name="title">Siddharta</field>
+<field name="titleSort">Siddharta</field>
+<field name="composer">Per Nørgеrd</field>
+<field name="composerSort">Nørgеrd, Per</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Per Nørgеrd</field>
+<field name="librettistSort">Nørgеrd, Per</field>
+<field name="librettist">Ole Sarvig</field>
+<field name="librettistSort">Sarvig, Ole</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siddharta+Per+Nørgеrd&amp;search_field=search</field>
+</doc>
+</add>

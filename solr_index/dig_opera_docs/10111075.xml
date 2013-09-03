@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111075</field>
+<field name="genre">Operas</field>
+<field name="title">"Don Giovanni, o Il nuovo convitato di pietra</field>
+<field name="titleSort">"Don Giovanni, o Il nuovo convitato di pietra"</field>
+<field name="composer">Francesco Gardi</field>
+<field name="composerSort">Gardi, Francesco</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="librettist">[Gabriel Téllez] Tirso de Molina</field>
+<field name="librettistSort">Tirso de Molina, [Gabriel Téllez]</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Giovanni,+o+Il+nuovo+convitato+di+pietra+Francesco+Gardi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121397</field>
+<field name="genre">Operas</field>
+<field name="title">Il matrimonio per concorso</field>
+<field name="titleSort">matrimonio per concorso</field>
+<field name="composer">João Pedro Almeida Mota</field>
+<field name="composerSort">Mota, João Pedro Almeida</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Gaetano Martinelli</field>
+<field name="librettistSort">Martinelli, Gaetano</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+
+<field name="city">Mondeсedo</field>
+<field name="region">Galicia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+per+concorso+João+Pedro+Almeida+Mota&amp;search_field=search</field>
+</doc>
+</add>

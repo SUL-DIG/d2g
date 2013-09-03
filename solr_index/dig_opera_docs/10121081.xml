@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121081</field>
+<field name="genre">Operas</field>
+<field name="title">Oreste</field>
+<field name="titleSort">Oreste</field>
+<field name="composer">Carlo Monza</field>
+<field name="composerSort">Monza, Carlo</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Mattia Verazi</field>
+<field name="librettistSort">Verazi, Mattia</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oreste+Carlo+Monza&amp;search_field=search</field>
+</doc>
+</add>

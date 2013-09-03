@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116890</field>
+<field name="genre">Operas</field>
+<field name="title">Yula</field>
+<field name="titleSort">Yula</field>
+<field name="composer">Krasmir Kyurkchiyski</field>
+<field name="composerSort">Kyurkchiyski, Krasmir</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Petar Filchev</field>
+<field name="librettistSort">Filchev, Petar</field>
+<field name="theater">Narodna Opera</field>
+<field name="city">Stara Zagora</field>
+<field name="region">Haskovo Oblast</field>
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yula+Krasmir+Kyurkchiyski&amp;search_field=search</field>
+</doc>
+</add>

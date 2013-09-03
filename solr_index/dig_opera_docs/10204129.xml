@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204129</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Antonio abbate, l'eroe trionfator dell'Inferno</field>
+		<field name="titleSort">Sant' Antonio abbate, l'eroe trionfator dell'Inferno</field>
+		<field name="year">1677</field>
+		<field name="month">February</field>
+		<field name="day">14</field>
+		<field name="date">February 14, 1677</field>
+		<field name="composer">Antonio Maria Pacchioni</field>
+		<field name="composerSort">Pacchioni, Antonio Maria</field>
+		<field name="librettist">Valentino Carli</field>
+		<field name="librettistSort">Carli, Valentino</field>
+		
+		<field name="theater">Oratorio di San Carlo rotondo</field>
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Antony of Egypt</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">January 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Antonio+abbate,+l'eroe+trionfator+dell'Inferno+Antonio+Maria+Pacchioni&amp;search_field=search</field>
+	</doc></add>

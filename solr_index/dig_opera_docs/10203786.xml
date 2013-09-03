@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203786</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Salomon rex Israel electus</field>
+		<field name="titleSort">Salomon rex Israel electus</field>
+		<field name="year">1782</field>
+		
+		
+		<field name="date">1782</field>
+		<field name="composer">Bonaventura Furlanetto</field>
+		<field name="composerSort">Furlanetto, Bonaventura</field>
+		
+		
+		<field name="theater">Ospedale della Pietа</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Solomon annointed by Zadok</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salomon+rex+Israel+electus+Bonaventura+Furlanetto&amp;search_field=search</field>
+	</doc></add>

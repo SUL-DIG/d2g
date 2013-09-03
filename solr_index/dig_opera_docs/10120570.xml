@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120570</field>
+<field name="genre">Operas</field>
+<field name="title">Héloise</field>
+<field name="titleSort">Héloise</field>
+<field name="composer">Jean Baptiste Aimé Michelot</field>
+<field name="composerSort">Michelot, Jean Baptiste Aimé</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Héloise+Jean+Baptiste+Aimé+Michelot&amp;search_field=search</field>
+</doc>
+</add>

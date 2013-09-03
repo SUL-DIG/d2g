@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107372</field>
+<field name="genre">Operas</field>
+<field name="title">Pépita</field>
+<field name="titleSort">Pépita</field>
+<field name="composer">Léon Delahaye (fils)</field>
+<field name="composerSort">Delahaye (fils), Léon</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">Jules Delahaye</field>
+<field name="librettistSort">Delahaye, Jules</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pépita+Léon+Delahaye+fils&amp;search_field=search</field>
+</doc>
+</add>

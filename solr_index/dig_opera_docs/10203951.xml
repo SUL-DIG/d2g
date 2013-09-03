@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203951</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sankt Alfons</field>
+		<field name="titleSort">Sankt Alfons</field>
+		<field name="year">1911</field>
+		
+		
+		<field name="date">1911</field>
+		<field name="composer">Hubert Cuypers</field>
+		<field name="composerSort">Cuypers, Hubert</field>
+		
+		
+		
+		<field name="city">Amsterdam</field>
+		<field name="region">Noord Holland</field>
+		<field name="country">Netherlands</field>
+		<field name="subject">Saint Alphonsus Rodríguez</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">30</field>
+		<field name="feastDate">October 30</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sankt+Alfons+Hubert+Cuypers&amp;search_field=search</field>
+	</doc></add>

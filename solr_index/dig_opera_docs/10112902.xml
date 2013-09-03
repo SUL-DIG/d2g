@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112902</field>
+<field name="genre">Operas</field>
+<field name="title">Süsse Susi</field>
+<field name="titleSort">Süsse Susi</field>
+<field name="composer">Siegfried Grzяb</field>
+<field name="composerSort">Grzяb, Siegfried</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="librettist">Richard Bars</field>
+<field name="librettistSort">Bars, Richard</field>
+<field name="theater">Schillertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Süsse+Susi+Siegfried+Grzяb&amp;search_field=search</field>
+</doc>
+</add>

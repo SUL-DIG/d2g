@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100429</field>
+<field name="genre">Operas</field>
+<field name="title">Mirena e Floro</field>
+<field name="titleSort">Mirena e Floro</field>
+<field name="composer">Giuseppe Antonio Vincenzo Aldrovandini</field>
+<field name="composerSort">Aldrovandini, Giuseppe Antonio Vincenzo</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Francesco Maria Paglia</field>
+<field name="librettistSort">Paglia, Francesco Maria</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirena+e+Floro+Giuseppe+Antonio+Vincenzo+Aldrovandini&amp;search_field=search</field>
+</doc>
+</add>

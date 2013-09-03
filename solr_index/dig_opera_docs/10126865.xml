@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126865</field>
+<field name="genre">Operas</field>
+<field name="title">"Rheinzauber, oder Der Baum der Loreley</field>
+<field name="titleSort">"Rheinzauber, oder Der Baum der Loreley"</field>
+<field name="composer">Arthur Rother</field>
+<field name="composerSort">Rother, Arthur</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Wilhelm Clobes</field>
+<field name="librettistSort">Clobes, Wilhelm</field>
+<field name="theater">Königliches Theater</field>
+<field name="city">Wiesbaden</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rheinzauber,+oder+Der+Baum+der+Loreley+Arthur+Rother&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101747</field>
+<field name="genre">Operas</field>
+<field name="title">Beleyet parus odinokiy (Lonely White Sail)</field>
+<field name="titleSort">Beleyet parus odinokiy (Lonely White Sail)</field>
+<field name="composer">Sergey Banevich</field>
+<field name="composerSort">Banevich, Sergey</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">V. Roshchin</field>
+<field name="librettistSort">Roshchin, V.</field>
+<field name="librettist">Valentin Petrovich Katayev</field>
+<field name="librettistSort">Katayev, Valentin Petrovich</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beleyet+parus+odinokiy+Lonely+White+Sail+Sergey+Banevich&amp;search_field=search</field>
+</doc>
+</add>

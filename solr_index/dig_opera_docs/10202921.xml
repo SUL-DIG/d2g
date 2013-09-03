@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202921</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Nabuccodonosor</field>
+		<field name="titleSort">Nabuccodonosor</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Attilio Ariosti</field>
+		<field name="composerSort">Ariosti, Attilio</field>
+		<field name="librettist">Rocco Maria Rossi</field>
+		<field name="librettistSort">Rossi, Rocco Maria</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Nebuchadrezzar II</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nabuccodonosor+Attilio+Ariosti&amp;search_field=search</field>
+	</doc></add>

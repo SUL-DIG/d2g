@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116697</field>
+<field name="genre">Operas</field>
+<field name="title">Quauhquauhtinchan</field>
+<field name="titleSort">Quauhquauhtinchan</field>
+<field name="composer">Ton de Kruyf</field>
+<field name="composerSort">Kruyf, Ton de</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Harry Mulisch</field>
+<field name="librettistSort">Mulisch, Harry</field>
+<field name="theater">NOS Radio (Nederlandse Omroep Stichting)</field>
+<field name="city">Hilversum</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quauhquauhtinchan+Ton+de+Kruyf&amp;search_field=search</field>
+</doc>
+</add>

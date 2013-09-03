@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200774</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Daniel</field>
+		<field name="titleSort">Daniel</field>
+		<field name="year">1885</field>
+		<field name="month">July</field>
+		<field name="day">23</field>
+		<field name="date">July 23, 1885</field>
+		<field name="composer">Joseph Cox Bridge</field>
+		<field name="composerSort">Bridge, Joseph Cox</field>
+		
+		
+		<field name="theater">Chester Festival</field>
+		<field name="city">Chester</field>
+		<field name="region">Cheshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Daniel</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">July 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+Joseph+Cox+Bridge&amp;search_field=search</field>
+	</doc></add>

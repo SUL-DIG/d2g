@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101333</field>
+<field name="genre">Operas</field>
+<field name="title">Rinaldo d'Asti</field>
+<field name="titleSort">Rinaldo d'Asti</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1796</field>
+<field name="date">1796</field><field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinaldo+d'Asti+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

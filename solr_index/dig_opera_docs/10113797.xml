@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113797</field>
+<field name="genre">Operas</field>
+<field name="title">Chuta no kuso (Fantasy of Chuta)</field>
+<field name="titleSort">Chuta no kuso (Fantasy of Chuta)</field>
+<field name="composer">Hikaru Hayashi</field>
+<field name="composerSort">Hayashi, Hikaru</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Tsunetoshi Hirowatari</field>
+<field name="librettistSort">Hirowatari, Tsunetoshi</field>
+<field name="librettist">Tadashi Ozawa</field>
+<field name="librettistSort">Ozawa, Tadashi</field>
+<field name="theater">Chuo Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chuta+no+kuso+Fantasy+of+Chuta+Hikaru+Hayashi&amp;search_field=search</field>
+</doc>
+</add>

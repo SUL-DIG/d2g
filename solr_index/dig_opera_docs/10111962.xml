@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111962</field>
+<field name="genre">Operas</field>
+<field name="title">Prinses Zonneschijn</field>
+<field name="titleSort">Prinses Zonneschijn</field>
+<field name="composer">Paul Gilson</field>
+<field name="composerSort">Gilson, Paul</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Pol de Mont</field>
+<field name="librettistSort">Mont, Pol de</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Vlaamse Opera</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinses+Zonneschijn+Paul+Gilson&amp;search_field=search</field>
+</doc>
+</add>

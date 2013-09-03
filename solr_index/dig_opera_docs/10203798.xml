@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203798</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La samaritaine</field>
+		<field name="titleSort">samaritaine</field>
+		<field name="year">1901</field>
+		
+		
+		<field name="date">1901</field>
+		<field name="composer">Charles Pons</field>
+		<field name="composerSort">Pons, Charles</field>
+		<field name="librettist">Perelotti della Rocca</field>
+		<field name="librettistSort">Rocca, Perelotti della</field>
+		
+		
+		<field name="city">Nice</field>
+		<field name="region">Alpes-Maritimes</field>
+		<field name="country">France</field>
+		<field name="subject">Parable of the Good Samaritan</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+samaritaine+Charles+Pons&amp;search_field=search</field>
+	</doc></add>

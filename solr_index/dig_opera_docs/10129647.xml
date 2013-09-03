@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129647</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto pittore</field>
+<field name="titleSort">finto pittore</field>
+<field name="composer">Gasparo Spontini</field>
+<field name="composerSort">Spontini, Gasparo</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Real Teatro di Santa Cecilia</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+pittore+Gasparo+Spontini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131709</field>
+<field name="genre">Operas</field>
+<field name="title">Venere cerca amore</field>
+<field name="titleSort">Venere cerca amore</field>
+<field name="composer">Costanzo Varini</field>
+<field name="composerSort">Varini, Costanzo</field>
+<field name="year">1635</field>
+<field name="date">1635</field>
+<field name="librettist">Bernardino Marescotti</field>
+<field name="librettistSort">Marescotti, Bernardino</field>
+
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venere+cerca+amore+Costanzo+Varini&amp;search_field=search</field>
+</doc>
+</add>

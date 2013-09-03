@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108600</field>
+<field name="genre">Operas</field>
+<field name="title">Dalia</field>
+<field name="titleSort">Dalia</field>
+<field name="composer">Balys Dvarionas</field>
+<field name="composerSort">Dvarionas, Balys</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Jonas Mackonis</field>
+<field name="librettistSort">Mackonis, Jonas</field>
+<field name="theater">Litovsky Teatr Operï i Baleta</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dalia+Balys+Dvarionas&amp;search_field=search</field>
+</doc>
+</add>

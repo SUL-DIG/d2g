@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120869</field>
+<field name="genre">Operas</field>
+<field name="title">"L'Amazzone corsara, o vero L'Alvilda</field>
+<field name="titleSort">"Amazzone corsara, o vero Alvilda"</field>
+<field name="composer">Clemente Monari</field>
+<field name="composerSort">Monari, Clemente</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Giulio Cesare Corradi</field>
+<field name="librettistSort">Corradi, Giulio Cesare</field>
+
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amazzone+corsara,+o+vero+L'Alvilda+Clemente+Monari&amp;search_field=search</field>
+</doc>
+</add>

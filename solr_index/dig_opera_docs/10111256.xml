@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111256</field>
+<field name="genre">Operas</field>
+<field name="title">Sonis</field>
+<field name="titleSort">Sonis</field>
+<field name="composer">Philippe Gaubert</field>
+<field name="composerSort">Gaubert, Philippe</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Charles Batilliot</field>
+<field name="librettistSort">Batilliot, Charles</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sonis+Philippe+Gaubert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110772</field>
+<field name="genre">Operas</field>
+<field name="title">"Nie kazdy spi, co chrapi</field>
+<field name="titleSort">"Nie kazdy spi, co chrapi"</field>
+<field name="composer">[Kajetan Majer] Gaetano</field>
+<field name="composerSort">Gaetano, [Kajetan Majer]</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Leon Pierozynski</field>
+<field name="librettistSort">Pierozynski, Leon</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nie+kazdy+spi,+co+chrapi+Kajetan+Majer]+Gaetano&amp;search_field=search</field>
+</doc>
+</add>

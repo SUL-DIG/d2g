@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120082</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schlosser</field>
+<field name="titleSort">Schlosser</field>
+<field name="composer">Johann Mederitsch</field>
+<field name="composerSort">Mederitsch, Johann</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schlosser+Johann+Mederitsch&amp;search_field=search</field>
+</doc>
+</add>

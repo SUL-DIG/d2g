@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127775</field>
+<field name="genre">Operas</field>
+<field name="title">Il tempio d'eternitа</field>
+<field name="titleSort">tempio d'eternitа</field>
+<field name="composer">Giuseppe Sarti</field>
+<field name="composerSort">Sarti, Giuseppe</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tempio+d'eternitа+Giuseppe+Sarti&amp;search_field=search</field>
+</doc>
+</add>

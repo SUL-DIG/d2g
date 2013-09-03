@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130449</field>
+<field name="genre">Operas</field>
+<field name="title">A Tündérlaki lányok (The Tündérlaki Sisters)</field>
+<field name="titleSort">Tündérlaki lányok (The Tündérlaki Sisters)</field>
+<field name="composer">Albert Szirmai</field>
+<field name="composerSort">Szirmai, Albert</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Erno Innocent-Vincze</field>
+<field name="librettistSort">Innocent-Vincze, Erno</field>
+<field name="librettist">Jenö Heltai</field>
+<field name="librettistSort">Heltai, Jenö</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Tündérlaki+lányok+The+Tündérlaki+Sisters+Albert+Szirmai&amp;search_field=search</field>
+</doc>
+</add>

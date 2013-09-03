@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108728</field>
+<field name="genre">Operas</field>
+<field name="title">Numance</field>
+<field name="titleSort">Numance</field>
+<field name="composer">Jan van den Eeden</field>
+<field name="composerSort">Eeden, Jan van den</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Charles Narrey</field>
+<field name="librettistSort">Narrey, Charles</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Numance+Jan+van+den+Eeden&amp;search_field=search</field>
+</doc>
+</add>

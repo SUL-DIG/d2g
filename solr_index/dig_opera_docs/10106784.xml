@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106784</field>
+<field name="genre">Operas</field>
+<field name="title">Il pallone volante</field>
+<field name="titleSort">pallone volante</field>
+<field name="composer">Luigi Cotti</field>
+<field name="composerSort">Cotti, Luigi</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Teatro di via Santa Maria</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pallone+volante+Luigi+Cotti&amp;search_field=search</field>
+</doc>
+</add>

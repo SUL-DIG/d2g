@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102528</field>
+<field name="genre">Operas</field>
+<field name="title">Tata Vasco</field>
+<field name="titleSort">Tata Vasco</field>
+<field name="composer">Miguel Bernal Jiménez</field>
+<field name="composerSort">Jiménez, Miguel Bernal</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Manuel Muсoz</field>
+<field name="librettistSort">Muсoz, Manuel</field>
+
+<field name="city">Pátzcuaro</field>
+<field name="region">Michoacán</field>
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tata+Vasco+Miguel+Bernal+Jiménez&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125061</field>
+<field name="genre">Operas</field>
+<field name="title">Lucille (Antonio)</field>
+<field name="titleSort">Lucille (Antonio)</field>
+<field name="composer">Silas Gamaliel Pratt</field>
+<field name="composerSort">Pratt, Silas Gamaliel</field>
+<field name="year">1887</field>
+<field name="date">1887</field><field name="theater">Columbia Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucille+Antonio+Silas+Gamaliel+Pratt&amp;search_field=search</field>
+</doc>
+</add>

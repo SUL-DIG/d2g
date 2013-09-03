@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104162</field>
+<field name="genre">Operas</field>
+<field name="title">The Turn of the Screw</field>
+<field name="titleSort">Turn of the Screw</field>
+<field name="composer">Benjamin Britten</field>
+<field name="composerSort">Britten, Benjamin</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Myfanwy Piper</field>
+<field name="librettistSort">Piper, Myfanwy</field>
+<field name="librettist">Henry James</field>
+<field name="librettistSort">James, Henry</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Turn+of+the+Screw+Benjamin+Britten&amp;search_field=search</field>
+</doc>
+</add>

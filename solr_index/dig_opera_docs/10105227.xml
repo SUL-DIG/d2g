@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105227</field>
+<field name="genre">Operas</field>
+<field name="title">Astuzie d'amore</field>
+<field name="titleSort">Astuzie d'amore</field>
+<field name="composer">Franco Casavola</field>
+<field name="composerSort">Casavola, Franco</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="theater">Politeama Petruzzelli</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astuzie+d'amore+Franco+Casavola&amp;search_field=search</field>
+</doc>
+</add>

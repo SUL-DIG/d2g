@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128300</field>
+<field name="genre">Operas</field>
+<field name="title">Vorsicht Diana</field>
+<field name="titleSort">Vorsicht Diana</field>
+<field name="composer">Ludwig Schmidseder</field>
+<field name="composerSort">Schmidseder, Ludwig</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Günther Resee</field>
+<field name="librettistSort">Resee, Günther</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Fürth</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vorsicht+Diana+Ludwig+Schmidseder&amp;search_field=search</field>
+</doc>
+</add>

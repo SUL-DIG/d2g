@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116000</field>
+<field name="genre">Operas</field>
+<field name="title">The Lib: 393 B.C.</field>
+<field name="titleSort">Lib: 393 B.C.</field>
+<field name="composer">Theron Kirk</field>
+<field name="composerSort">Kirk, Theron</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Theron Kirk</field>
+<field name="librettistSort">Kirk, Theron</field>
+<field name="theater">San Antonio College</field>
+<field name="city">San Antonio</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lib:+393+B.C.+Theron+Kirk&amp;search_field=search</field>
+</doc>
+</add>

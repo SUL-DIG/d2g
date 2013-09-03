@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131097</field>
+<field name="genre">Operas</field>
+<field name="title">William of Normandy</field>
+<field name="titleSort">William of Normandy</field>
+<field name="composer">George William Torrance</field>
+<field name="composerSort">Torrance, George William</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">William Henry Craig</field>
+<field name="librettistSort">Craig, William Henry</field>
+
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=William+of+Normandy+George+William+Torrance&amp;search_field=search</field>
+</doc>
+</add>

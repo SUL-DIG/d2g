@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118177</field>
+<field name="genre">Operas</field>
+<field name="title">Der Meisterdieb</field>
+<field name="titleSort">Meisterdieb</field>
+<field name="composer">Eugen Lindner</field>
+<field name="composerSort">Lindner, Eugen</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Gustav Kastropp</field>
+<field name="librettistSort">Kastropp, Gustav</field>
+<field name="librettist">Eugen Lindner</field>
+<field name="librettistSort">Lindner, Eugen</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Meisterdieb+Eugen+Lindner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119649</field>
+<field name="genre">Operas</field>
+<field name="title">Playing Away</field>
+<field name="titleSort">Playing Away</field>
+<field name="composer">Benedict Mason</field>
+<field name="composerSort">Mason, Benedict</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Howard Brenton</field>
+<field name="librettistSort">Brenton, Howard</field>
+<field name="theater">Grand Theatre</field>
+<field name="city">Leeds</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Playing+Away+Benedict+Mason&amp;search_field=search</field>
+</doc>
+</add>

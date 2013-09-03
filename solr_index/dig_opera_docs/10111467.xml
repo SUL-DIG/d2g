@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111467</field>
+<field name="genre">Operas</field>
+<field name="title">Der Musikfeind</field>
+<field name="titleSort">Musikfeind</field>
+<field name="composer">Richard Genée</field>
+<field name="composerSort">Genée, Richard</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Musikfeind+Richard+Genée&amp;search_field=search</field>
+</doc>
+</add>

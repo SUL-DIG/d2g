@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102151</field>
+<field name="genre">Operas</field>
+<field name="title">The Outcasts of Poker Flat</field>
+<field name="titleSort">Outcasts of Poker Flat</field>
+<field name="composer">Stanworth Beckler</field>
+<field name="composerSort">Beckler, Stanworth</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Jon Pearce</field>
+<field name="librettistSort">Pearce, Jon</field>
+<field name="librettist">Bret Harte</field>
+<field name="librettistSort">Harte, Bret</field>
+<field name="theater">University of the Pacific</field>
+<field name="city">Stockton</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Outcasts+of+Poker+Flat+Stanworth+Beckler&amp;search_field=search</field>
+</doc>
+</add>

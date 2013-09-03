@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109341</field>
+<field name="genre">Operas</field>
+<field name="title">The Registry Office</field>
+<field name="titleSort">Registry Office</field>
+<field name="composer">Harry Farjeon</field>
+<field name="composerSort">Farjeon, Harry</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Eleanor Farjeon</field>
+<field name="librettistSort">Farjeon, Eleanor</field>
+<field name="theater">Saint George's Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Registry+Office+Harry+Farjeon&amp;search_field=search</field>
+</doc>
+</add>

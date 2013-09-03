@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101876</field>
+<field name="genre">Operas</field>
+<field name="title">Maly ksiaze (The Little Prince)</field>
+<field name="titleSort">Maly ksiaze (The Little Prince)</field>
+<field name="composer">Zbigniew Bargielski</field>
+<field name="composerSort">Bargielski, Zbigniew</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Zbigniew Bargielski</field>
+<field name="librettistSort">Bargielski, Zbigniew</field>
+<field name="librettist">Antoine de Saint-Exupéry</field>
+<field name="librettistSort">Saint-Exupéry, Antoine de</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maly+ksiaze+The+Little+Prince+Zbigniew+Bargielski&amp;search_field=search</field>
+</doc>
+</add>

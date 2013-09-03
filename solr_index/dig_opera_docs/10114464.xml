@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114464</field>
+<field name="genre">Operas</field>
+<field name="title">Tiroler Ballade</field>
+<field name="titleSort">Tiroler Ballade</field>
+<field name="composer">Hanns Holenia</field>
+<field name="composerSort">Holenia, Hanns</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Hans Lohberger</field>
+<field name="librettistSort">Lohberger, Hans</field>
+<field name="librettist">Hermann Pferschy</field>
+<field name="librettistSort">Pferschy, Hermann</field>
+<field name="theater">ORF Radio (Österreichischen Rundfunks Fernsehen)</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tiroler+Ballade+Hanns+Holenia&amp;search_field=search</field>
+</doc>
+</add>

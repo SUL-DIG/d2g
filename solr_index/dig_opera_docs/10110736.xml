@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110736</field>
+<field name="genre">Operas</field>
+<field name="title">"Rodoaldo, re d'Italia</field>
+<field name="titleSort">"Rodoaldo, re d'Italia"</field>
+<field name="composer">Domenico Gabrielli</field>
+<field name="composerSort">Gabrielli, Domenico</field>
+<field name="year">1685</field>
+<field name="date">1685</field>
+<field name="librettist">Tommaso Stanzani</field>
+<field name="librettistSort">Stanzani, Tommaso</field>
+<field name="theater">Teatro Zane a San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rodoaldo,+re+d'Italia+Domenico+Gabrielli&amp;search_field=search</field>
+</doc>
+</add>

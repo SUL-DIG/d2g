@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107948</field>
+<field name="genre">Operas</field>
+<field name="title">Elisabetta al castello di Kenilworth</field>
+<field name="titleSort">Elisabetta al castello di Kenilworth</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Andrea Leone Tottola</field>
+<field name="librettistSort">Tottola, Andrea Leone</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisabetta+al+castello+di+Kenilworth+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

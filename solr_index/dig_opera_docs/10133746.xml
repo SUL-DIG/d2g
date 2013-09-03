@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133746</field>
+<field name="genre">Operas</field>
+<field name="title">Angelica e Medoro</field>
+<field name="titleSort">Angelica e Medoro</field>
+<field name="composer">Giuseppe Zonca</field>
+<field name="composerSort">Zonca, Giuseppe</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+e+Medoro+Giuseppe+Zonca&amp;search_field=search</field>
+</doc>
+</add>

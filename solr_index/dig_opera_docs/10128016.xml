@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128016</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della libertа</field>
+<field name="titleSort">trionfo della libertа</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1707</field>
+<field name="date">1707</field>
+<field name="librettist">Girolamo Frigimelica Roberti</field>
+<field name="librettistSort">Frigimelica Roberti, Girolamo</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+libertа+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

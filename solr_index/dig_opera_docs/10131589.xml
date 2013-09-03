@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131589</field>
+<field name="genre">Operas</field>
+<field name="title">Girotondo</field>
+<field name="titleSort">Girotondo</field>
+<field name="composer">Fabio Vacchi</field>
+<field name="composerSort">Vacchi, Fabio</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Roberto Roversi</field>
+<field name="librettistSort">Roversi, Roberto</field>
+<field name="librettist">Arthur Schnitzler</field>
+<field name="librettistSort">Schnitzler, Arthur</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Girotondo+Fabio+Vacchi&amp;search_field=search</field>
+</doc>
+</add>

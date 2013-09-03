@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121255</field>
+<field name="genre">Operas</field>
+<field name="title">Il nuovo barbiere di Siviglia</field>
+<field name="titleSort">nuovo barbiere di Siviglia</field>
+<field name="composer">Francesco Morlacchi</field>
+<field name="composerSort">Morlacchi, Francesco</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Cesare Sterbini</field>
+<field name="librettistSort">Sterbini, Cesare</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nuovo+barbiere+di+Siviglia+Francesco+Morlacchi&amp;search_field=search</field>
+</doc>
+</add>

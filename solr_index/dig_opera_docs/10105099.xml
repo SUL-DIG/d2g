@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105099</field>
+<field name="genre">Operas</field>
+<field name="title">The White Bird</field>
+<field name="titleSort">White Bird</field>
+<field name="composer">Ernest Trow Carter</field>
+<field name="composerSort">Carter, Ernest Trow</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Brian Hooker</field>
+<field name="librettistSort">Hooker, Brian</field>
+<field name="theater">Carnegie Chamber Music Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+White+Bird+Ernest+Trow+Carter&amp;search_field=search</field>
+</doc>
+</add>

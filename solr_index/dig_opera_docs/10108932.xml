@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108932</field>
+<field name="genre">Operas</field>
+<field name="title">Der letzte Ruf</field>
+<field name="titleSort">letzte Ruf</field>
+<field name="composer">Marie-Joseph Erb</field>
+<field name="composerSort">Erb, Marie-Joseph</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Mme. Hermann von Waltershausen</field>
+<field name="librettistSort">Waltershausen, Mme. Hermann von</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+letzte+Ruf+Marie-Joseph+Erb&amp;search_field=search</field>
+</doc>
+</add>

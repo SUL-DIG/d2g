@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110174</field>
+<field name="genre">Operas</field>
+<field name="title">"Le retour inattendu, ou Le mari revenant</field>
+<field name="titleSort">"retour inattendu, ou mari revenant"</field>
+<field name="composer">François Foignet</field>
+<field name="composerSort">Foignet, François</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Marie Monnet</field>
+<field name="librettistSort">Monnet, Marie</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+retour+inattendu,+ou+Le+mari+revenant+François+Foignet&amp;search_field=search</field>
+</doc>
+</add>

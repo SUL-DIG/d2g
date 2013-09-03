@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200431</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Betulia liberata</field>
+		<field name="titleSort">Betulia liberata</field>
+		<field name="year">1774</field>
+		
+		
+		<field name="date">1774</field>
+		<field name="composer">Johann Nikolaus Franz Seydelmann</field>
+		<field name="composerSort">Seydelmann, Johann Nikolaus Franz</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Betulia+liberata+Johann+Nikolaus+Franz+Seydelmann&amp;search_field=search</field>
+	</doc></add>

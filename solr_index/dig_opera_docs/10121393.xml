@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121393</field>
+<field name="genre">Operas</field>
+<field name="title">Geroy (The Hero)</field>
+<field name="titleSort">Geroy (The Hero)</field>
+<field name="composer">Aleksandr Vasil'yevich Mosolov</field>
+<field name="composerSort">Mosolov, Aleksandr Vasil'yevich</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Aleksandr Vasil'yevich Mosolov</field>
+<field name="librettistSort">Mosolov, Aleksandr Vasil'yevich</field>
+<field name="theater">Teatr-studiya Kompozitor</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geroy+The+Hero+Aleksandr+Vasil'yevich+Mosolov&amp;search_field=search</field>
+</doc>
+</add>

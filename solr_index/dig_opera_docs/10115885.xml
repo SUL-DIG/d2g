@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115885</field>
+<field name="genre">Operas</field>
+<field name="title">Arany meg az asszony (Gold and the Woman)</field>
+<field name="titleSort">Arany meg az asszony (Gold and the Woman)</field>
+<field name="composer">Jenö Kenessey</field>
+<field name="composerSort">Kenessey, Jenö</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Gyula Krúdy</field>
+<field name="librettistSort">Krúdy, Gyula</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arany+meg+az+asszony+Gold+and+the+Woman+Jenö+Kenessey&amp;search_field=search</field>
+</doc>
+</add>

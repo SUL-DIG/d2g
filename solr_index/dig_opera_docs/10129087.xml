@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129087</field>
+<field name="genre">Operas</field>
+<field name="title">Die goldene Schale</field>
+<field name="titleSort">goldene Schale</field>
+<field name="composer">Joseph Siderits</field>
+<field name="composerSort">Siderits, Joseph</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Siglinde Sonneck</field>
+<field name="librettistSort">Sonneck, Siglinde</field>
+
+<field name="city">Neunkirchen</field>
+<field name="region">Saarland</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+goldene+Schale+Joseph+Siderits&amp;search_field=search</field>
+</doc>
+</add>

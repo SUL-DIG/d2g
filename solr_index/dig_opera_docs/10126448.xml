@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126448</field>
+<field name="genre">Operas</field>
+<field name="title">The Spirit of the Bell</field>
+<field name="titleSort">Spirit of the Bell</field>
+<field name="composer">George Rodwell</field>
+<field name="composerSort">Rodwell, George</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">James Kenney</field>
+<field name="librettistSort">Kenney, James</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Spirit+of+the+Bell+George+Rodwell&amp;search_field=search</field>
+</doc>
+</add>

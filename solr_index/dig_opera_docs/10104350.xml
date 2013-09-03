@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104350</field>
+<field name="genre">Operas</field>
+<field name="title">Les troyennes</field>
+<field name="titleSort">troyennes</field>
+<field name="composer">Joanna Bruzdowicz</field>
+<field name="composerSort">Bruzdowicz, Joanna</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Jean Luccioni</field>
+<field name="librettistSort">Luccioni, Jean</field>
+<field name="theater">Théâtre Gérard-Philippe</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+troyennes+Joanna+Bruzdowicz&amp;search_field=search</field>
+</doc>
+</add>

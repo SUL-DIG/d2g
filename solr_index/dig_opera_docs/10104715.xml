@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104715</field>
+<field name="genre">Operas</field>
+<field name="title">La serenata</field>
+<field name="titleSort">serenata</field>
+<field name="composer">Luigi Antonio Calegari</field>
+<field name="composerSort">Calegari, Luigi Antonio</field>
+<field name="year">1806</field>
+<field name="date">1806</field><field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+serenata+Luigi+Antonio+Calegari&amp;search_field=search</field>
+</doc>
+</add>

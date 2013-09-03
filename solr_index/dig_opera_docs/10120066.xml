@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120066</field>
+<field name="genre">Operas</field>
+<field name="title">Voss</field>
+<field name="titleSort">Voss</field>
+<field name="composer">Richard Meale</field>
+<field name="composerSort">Meale, Richard</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">David Malouf</field>
+<field name="librettistSort">Malouf, David</field>
+<field name="librettist">Patrick White</field>
+<field name="librettistSort">White, Patrick</field>
+<field name="theater">Festival Centre</field>
+<field name="city">Adelaide</field>
+<field name="region">South Australia</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voss+Richard+Meale&amp;search_field=search</field>
+</doc>
+</add>

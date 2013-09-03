@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128627</field>
+<field name="genre">Operas</field>
+<field name="title">Zenobia</field>
+<field name="titleSort">Zenobia</field>
+<field name="composer">Johann Gottfried Schwanenberger</field>
+<field name="composerSort">Schwanenberger, Johann Gottfried</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Grosses Hochfürstliches Theater im Opern-Hause in der Winter-Messe</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zenobia+Johann+Gottfried+Schwanenberger&amp;search_field=search</field>
+</doc>
+</add>

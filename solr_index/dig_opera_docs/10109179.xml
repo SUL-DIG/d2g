@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109179</field>
+<field name="genre">Operas</field>
+<field name="title">La necessitа non ha legge</field>
+<field name="titleSort">necessitа non ha legge</field>
+<field name="composer">Vincenzo Fabrizi</field>
+<field name="composerSort">Fabrizi, Vincenzo</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+necessitа+non+ha+legge+Vincenzo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

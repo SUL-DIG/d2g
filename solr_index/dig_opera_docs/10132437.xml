@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132437</field>
+<field name="genre">Operas</field>
+<field name="title">Alt-Wien</field>
+<field name="titleSort">Alt-Wien</field>
+<field name="composer">Eduard Wagnes</field>
+<field name="composerSort">Wagnes, Eduard</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Ferdinand Maierfeld-Enter</field>
+<field name="librettistSort">Maierfeld-Enter, Ferdinand</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alt-Wien+Eduard+Wagnes&amp;search_field=search</field>
+</doc>
+</add>

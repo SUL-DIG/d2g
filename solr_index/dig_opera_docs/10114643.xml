@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114643</field>
+<field name="genre">Operas</field>
+<field name="title">"Lalla Rookh, or The Cashmerian Minstrel</field>
+<field name="titleSort">"Lalla Rookh, or The Cashmerian Minstrel"</field>
+<field name="composer">Charles Edward Horn</field>
+<field name="composerSort">Horn, Charles Edward</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Michael John O'Sullivan</field>
+<field name="librettistSort">O'Sullivan, Michael John</field>
+<field name="librettist">Thomas Moore</field>
+<field name="librettistSort">Moore, Thomas</field>
+<field name="theater">"Theatre Royal, Crow Street"</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lalla+Rookh,+or+The+Cashmerian+Minstrel+Charles+Edward+Horn&amp;search_field=search</field>
+</doc>
+</add>

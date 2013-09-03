@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119654</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Chatillon</field>
+<field name="titleSort">conte di Chatillon</field>
+<field name="composer">Nicolò Massa</field>
+<field name="composerSort">Massa, Nicolò</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Rodolfo Paravicini</field>
+<field name="librettistSort">Paravicini, Rodolfo</field>
+<field name="theater">Teatro Municipale</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Chatillon+Nicolò+Massa&amp;search_field=search</field>
+</doc>
+</add>

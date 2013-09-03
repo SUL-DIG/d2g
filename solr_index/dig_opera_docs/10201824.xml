@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201824</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die heldenmüthige Judith</field>
+		<field name="titleSort">heldenmüthige Judith</field>
+		<field name="year">1708</field>
+		<field name="month">July</field>
+		<field name="day">27</field>
+		<field name="date">July 27, 1708</field>
+		<field name="composer">Johann Michael Zächer</field>
+		<field name="composerSort">Zächer, Johann Michael</field>
+		
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heldenmüthige+Judith+Johann+Michael+Zächer&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,8 @@
+ 	    <ul class="bookmarkTools">
+     <li>
+       <%= link_to t('Start New Search'), catalog_index_path, :class=> 'btn' %>
+        </li>
+      <li>
+        <%= link_to t('Clear Selected Items'), clear_bookmarks_path, :method => :delete, :data => { :confirm => t('blacklight.bookmarks.clear.action_confirm') }, :class => 'btn' %>
+      </li>
+</ul>

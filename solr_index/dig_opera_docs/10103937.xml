@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103937</field>
+<field name="genre">Operas</field>
+<field name="title">Ares-Eros</field>
+<field name="titleSort">Ares-Eros</field>
+<field name="composer">Darijan Bozic</field>
+<field name="composerSort">Bozic, Darijan</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Darijan Bozic</field>
+<field name="librettistSort">Bozic, Darijan</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ares-Eros+Darijan+Bozic&amp;search_field=search</field>
+</doc>
+</add>

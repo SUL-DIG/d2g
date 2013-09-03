@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117094</field>
+<field name="genre">Operas</field>
+<field name="title">Valentine</field>
+<field name="titleSort">Valentine</field>
+<field name="composer">Napoleon Lambelet</field>
+<field name="composerSort">Lambelet, Napoleon</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Arthur Davenport</field>
+<field name="librettistSort">Davenport, Arthur</field>
+<field name="librettist">Charles Wibrow</field>
+<field name="librettistSort">Wibrow, Charles</field>
+<field name="theater">Saint James's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valentine+Napoleon+Lambelet&amp;search_field=search</field>
+</doc>
+</add>

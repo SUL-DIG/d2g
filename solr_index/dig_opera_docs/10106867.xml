@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106867</field>
+<field name="genre">Operas</field>
+<field name="title">Saul</field>
+<field name="titleSort">Saul</field>
+<field name="composer">Stefano Cristiani</field>
+<field name="composerSort">Cristiani, Stefano</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Francisco Sánchez Barbero</field>
+<field name="librettistSort">Sánchez Barbero, Francisco</field>
+<field name="librettist">Vittorio Alfieri</field>
+<field name="librettistSort">Alfieri, Vittorio</field>
+<field name="theater">Teatro de los Caсos del Peral</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+Stefano+Cristiani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203754</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saint Antoine</field>
+		<field name="titleSort">Saint Antoine</field>
+		<field name="year">1953</field>
+		
+		
+		<field name="date">1953</field>
+		<field name="composer">Sem Dresden</field>
+		<field name="composerSort">Dresden, Sem</field>
+		<field name="librettist">Gustave Flaubert</field>
+		<field name="librettistSort">Flaubert, Gustave</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Antony of Egypt</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">January 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saint+Antoine+Sem+Dresden&amp;search_field=search</field>
+	</doc></add>

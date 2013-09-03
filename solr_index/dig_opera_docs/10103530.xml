@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103530</field>
+<field name="genre">Operas</field>
+<field name="title">Circe delusa</field>
+<field name="titleSort">Circe delusa</field>
+<field name="composer">Giuseppe Boniventi</field>
+<field name="composerSort">Boniventi, Giuseppe</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Giorgio Antonio Falier</field>
+<field name="librettistSort">Falier, Giorgio Antonio</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Circe+delusa+Giuseppe+Boniventi&amp;search_field=search</field>
+</doc>
+</add>

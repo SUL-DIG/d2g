@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131585</field>
+<field name="genre">Operas</field>
+<field name="title">I solitari di Scozia</field>
+<field name="titleSort">solitari di Scozia</field>
+<field name="composer">Nicola Vaccai</field>
+<field name="composerSort">Vaccai, Nicola</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Andrea Leone Tottola</field>
+<field name="librettistSort">Tottola, Andrea Leone</field>
+<field name="librettist">Giovanni de Gamerra</field>
+<field name="librettistSort">Gamerra, Giovanni de</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+solitari+di+Scozia+Nicola+Vaccai&amp;search_field=search</field>
+</doc>
+</add>

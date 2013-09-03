@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130271</field>
+<field name="genre">Operas</field>
+<field name="title">Vlasta</field>
+<field name="titleSort">Vlasta</field>
+<field name="composer">Frank van der Stucken</field>
+<field name="composerSort">Stucken, Frank van der</field>
+<field name="year">1883</field>
+<field name="date">1883</field><field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vlasta+Frank+van+der+Stucken&amp;search_field=search</field>
+</doc>
+</add>

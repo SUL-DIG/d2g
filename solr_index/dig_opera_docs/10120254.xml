@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120254</field>
+<field name="genre">Operas</field>
+<field name="title">"Aujourd'hui, ou Les fous supposés</field>
+<field name="titleSort">"Aujourd'hui, ou Les fous supposés"</field>
+<field name="composer">Bernardo Mengozzi</field>
+<field name="composerSort">Mengozzi, Bernardo</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Louis Bonnefoy de Bouyon</field>
+<field name="librettistSort">Bouyon, Louis Bonnefoy de</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aujourd'hui,+ou+Les+fous+supposés+Bernardo+Mengozzi&amp;search_field=search</field>
+</doc>
+</add>

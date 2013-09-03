@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203064</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gli oracoli della grazia</field>
+		<field name="titleSort">oracoli della grazia</field>
+		<field name="year">1704</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1704</field>
+		<field name="composer">Pietro Giuseppe Sandoni</field>
+		<field name="composerSort">Sandoni, Pietro Giuseppe</field>
+		<field name="librettist">Tommaso Stanzani</field>
+		<field name="librettistSort">Stanzani, Tommaso</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+oracoli+della+grazia+Pietro+Giuseppe+Sandoni&amp;search_field=search</field>
+	</doc></add>

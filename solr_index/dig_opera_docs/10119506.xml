@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119506</field>
+<field name="genre">Operas</field>
+<field name="title">La Dirindina</field>
+<field name="titleSort">Dirindina</field>
+<field name="composer">Giovanni Battista Martini</field>
+<field name="composerSort">Martini, Giovanni Battista</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Girolamo Gigli</field>
+<field name="librettistSort">Gigli, Girolamo</field>
+<field name="theater">Private Performance</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Dirindina+Giovanni+Battista+Martini&amp;search_field=search</field>
+</doc>
+</add>

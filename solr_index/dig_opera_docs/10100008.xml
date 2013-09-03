@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100008</field>
+<field name="genre">Operas</field>
+<field name="title">Isabella Spinola</field>
+<field name="titleSort">Isabella Spinola</field>
+<field name="composer">Pietro Abba-Cornaglia</field>
+<field name="composerSort">Abba-Cornaglia, Pietro</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Crispino Jachino</field>
+<field name="librettistSort">Jachino, Crispino</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isabella+Spinola+Pietro+Abba-Cornaglia&amp;search_field=search</field>
+</doc>
+</add>

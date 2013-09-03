@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121649</field>
+<field name="genre">Operas</field>
+<field name="title">Hai visto l'elno</field>
+<field name="titleSort">Hai visto l'elno</field>
+<field name="composer">Gino Murgi</field>
+<field name="composerSort">Murgi, Gino</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Paolo Reni</field>
+<field name="librettistSort">Reni, Paolo</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hai+visto+l'elno+Gino+Murgi&amp;search_field=search</field>
+</doc>
+</add>

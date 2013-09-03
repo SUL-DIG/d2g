@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123835</field>
+<field name="genre">Operas</field>
+<field name="title">Cola di Rienzi</field>
+<field name="titleSort">Cola di Rienzi</field>
+<field name="composer">Wenceslao Persichini</field>
+<field name="composerSort">Persichini, Wenceslao</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Pietro Cossa</field>
+<field name="librettistSort">Cossa, Pietro</field>
+<field name="theater">Politeama Romano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cola+di+Rienzi+Wenceslao+Persichini&amp;search_field=search</field>
+</doc>
+</add>

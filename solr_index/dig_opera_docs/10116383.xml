@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116383</field>
+<field name="genre">Operas</field>
+<field name="title">Rubber</field>
+<field name="titleSort">Rubber</field>
+<field name="composer">Felix Körling</field>
+<field name="composerSort">Körling, Felix</field>
+<field name="year">1917</field>
+<field name="date">1917</field><field name="theater">Oscarteatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rubber+Felix+Körling&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126483</field>
+<field name="genre">Operas</field>
+<field name="title">Joséphine vendue par ses soeurs</field>
+<field name="titleSort">Joséphine vendue par ses soeurs</field>
+<field name="composer">Victor Roger</field>
+<field name="composerSort">Roger, Victor</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="librettist">[Fabrice Labrousse] Fabrice Carré</field>
+<field name="librettistSort">Carré, Fabrice [Fabrice Labrousse]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joséphine+vendue+par+ses+soeurs+Victor+Roger&amp;search_field=search</field>
+</doc>
+</add>

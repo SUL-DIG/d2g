@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125632</field>
+<field name="genre">Operas</field>
+<field name="title">"Siroe, re di Persia</field>
+<field name="titleSort">"Siroe, re di Persia"</field>
+<field name="composer">Hermann Friedrich Raupach</field>
+<field name="composerSort">Raupach, Hermann Friedrich</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siroe,+re+di+Persia+Hermann+Friedrich+Raupach&amp;search_field=search</field>
+</doc>
+</add>

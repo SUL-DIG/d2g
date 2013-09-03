@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111706</field>
+<field name="genre">Operas</field>
+<field name="title">Scipione in Cartagine nuova</field>
+<field name="titleSort">Scipione in Cartagine nuova</field>
+<field name="composer">Geminiano Giacomelli</field>
+<field name="composerSort">Giacomelli, Geminiano</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Carlo Innocenzo Frugoni</field>
+<field name="librettistSort">Frugoni, Carlo Innocenzo</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scipione+in+Cartagine+nuova+Geminiano+Giacomelli&amp;search_field=search</field>
+</doc>
+</add>

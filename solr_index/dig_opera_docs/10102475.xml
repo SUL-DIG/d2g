@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102475</field>
+<field name="genre">Operas</field>
+<field name="title">Luisa di Montfort</field>
+<field name="titleSort">Luisa di Montfort</field>
+<field name="composer">Michal Bergson</field>
+<field name="composerSort">Bergson, Michal</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="librettist">Filippo Meucci</field>
+<field name="librettistSort">Meucci, Filippo</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luisa+di+Montfort+Michal+Bergson&amp;search_field=search</field>
+</doc>
+</add>

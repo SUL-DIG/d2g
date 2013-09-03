@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121891</field>
+<field name="genre">Operas</field>
+<field name="title">A basoche</field>
+<field name="titleSort">basoche</field>
+<field name="composer">Tomás del Negro</field>
+<field name="composerSort">Negro, Tomás del</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+basoche+Tomás+del+Negro&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126607</field>
+<field name="genre">Operas</field>
+<field name="title">Bertha</field>
+<field name="titleSort">Bertha</field>
+<field name="composer">Ned Rorem</field>
+<field name="composerSort">Rorem, Ned</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Ned Rorem</field>
+<field name="librettistSort">Rorem, Ned</field>
+<field name="librettist">Kenneth Koch</field>
+<field name="librettistSort">Koch, Kenneth</field>
+<field name="theater">Alice Tully Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bertha+Ned+Rorem&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117059</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur de Floridor</field>
+<field name="titleSort">Monsieur de Floridor</field>
+<field name="composer">Théodore de Lajarte</field>
+<field name="composerSort">Lajarte, Théodore de</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">Étienne Tréfeu</field>
+<field name="librettistSort">Tréfeu, Étienne</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+de+Floridor+Théodore+de+Lajarte&amp;search_field=search</field>
+</doc>
+</add>

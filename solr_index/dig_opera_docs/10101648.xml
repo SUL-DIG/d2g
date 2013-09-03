@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101648</field>
+<field name="genre">Operas</field>
+<field name="title">Arsen</field>
+<field name="titleSort">Arsen</field>
+<field name="composer">Andrey Melitonovich Balanchivadze</field>
+<field name="composerSort">Balanchivadze, Andrey Melitonovich</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Shalva Dadiani</field>
+<field name="librettistSort">Dadiani, Shalva</field>
+<field name="librettist">Sandro Shanshiashvili</field>
+<field name="librettistSort">Shanshiashvili, Sandro"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsen+Andrey+Melitonovich+Balanchivadze&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120624</field>
+<field name="genre">Operas</field>
+<field name="title">Joruri</field>
+<field name="titleSort">Joruri</field>
+<field name="composer">Minoru Miki</field>
+<field name="composerSort">Miki, Minoru</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Colin Graham</field>
+<field name="librettistSort">Graham, Colin</field>
+<field name="librettist">[Sugimori Nobumori] Monzaemon Chikamatsu</field>
+<field name="librettistSort">Chikamatsu, Monzaemon [Sugimori Nobumori]</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joruri+Minoru+Miki&amp;search_field=search</field>
+</doc>
+</add>

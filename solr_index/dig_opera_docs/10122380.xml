@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122380</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Favart</field>
+<field name="titleSort">Madame Favart</field>
+<field name="composer">Jacques Offenbach</field>
+<field name="composerSort">Offenbach, Jacques</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Henri-Charles Chivot</field>
+<field name="librettistSort">Chivot, Henri-Charles</field>
+<field name="librettist">Alfred Duru</field>
+<field name="librettistSort">Duru, Alfred</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Favart+Jacques+Offenbach&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113216</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bergkönigin</field>
+<field name="titleSort">Bergkönigin</field>
+<field name="composer">Joseph Haas</field>
+<field name="composerSort">Haas, Joseph</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Franziska Rodenstock</field>
+<field name="librettistSort">Rodenstock, Franziska</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bergkönigin+Joseph+Haas&amp;search_field=search</field>
+</doc>
+</add>

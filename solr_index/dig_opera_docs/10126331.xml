@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126331</field>
+<field name="genre">Operas</field>
+<field name="title">La dea risorta</field>
+<field name="titleSort">dea risorta</field>
+<field name="composer">[Théodore Bennet] Théodore Ritter</field>
+<field name="composerSort">Ritter, [Théodore Bennet] Théodore</field>
+<field name="year">1865</field>
+<field name="date">1865</field><field name="theater">Teatro Alfieri</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dea+risorta+Théodore+Bennet]+Théodore+Ritter&amp;search_field=search</field>
+</doc>
+</add>

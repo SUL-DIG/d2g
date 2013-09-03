@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130702</field>
+<field name="genre">Operas</field>
+<field name="title">Pulcinella marito geloso</field>
+<field name="titleSort">Pulcinella marito geloso</field>
+<field name="composer">Nicola Tauro</field>
+<field name="composerSort">Tauro, Nicola</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Nicola Tauro</field>
+<field name="librettistSort">Tauro, Nicola</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pulcinella+marito+geloso+Nicola+Tauro&amp;search_field=search</field>
+</doc>
+</add>

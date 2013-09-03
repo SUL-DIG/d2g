@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116392</field>
+<field name="genre">Operas</field>
+<field name="title">"Zelma und Azir, oder Der Sieg wahrer Liebe</field>
+<field name="titleSort">"Zelma und Azir, oder Der Sieg wahrer Liebe"</field>
+<field name="composer">Josef Franz Körner</field>
+<field name="composerSort">Körner, Josef Franz</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Josef Franz Körner</field>
+<field name="librettistSort">Körner, Josef Franz</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zelma+und+Azir,+oder+Der+Sieg+wahrer+Liebe+Josef+Franz+Körner&amp;search_field=search</field>
+</doc>
+</add>

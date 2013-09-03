@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100654</field>
+<field name="genre">Operas</field>
+<field name="title">Jean et Jeanne</field>
+<field name="titleSort">Jean et Jeanne</field>
+<field name="composer">Joseph Jacques Augustin Ancessy</field>
+<field name="composerSort">Ancessy, Joseph Jacques Augustin</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Achille Eyraud</field>
+<field name="librettistSort">Eyraud, Achille</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+et+Jeanne+Joseph+Jacques+Augustin+Ancessy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125635</field>
+<field name="genre">Operas</field>
+<field name="title">Kaivos (The Mine)</field>
+<field name="titleSort">Kaivos (The Mine)</field>
+<field name="composer">Einojuhani Rautavaara</field>
+<field name="composerSort">Rautavaara, Einojuhani</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Einojuhani Rautavaara</field>
+<field name="librettistSort">Rautavaara, Einojuhani</field>
+<field name="theater">Finnish Television (Oy Mainos-TV-Reklam Ab)</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaivos+The+Mine+Einojuhani+Rautavaara&amp;search_field=search</field>
+</doc>
+</add>

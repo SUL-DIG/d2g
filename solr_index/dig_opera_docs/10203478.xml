@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203478</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il primogenito del riformato Carmelo, Beato Giovanni della Croce</field>
+		<field name="titleSort">primogenito del riformato Carmelo, Beato Giovanni della Croce</field>
+		
+		
+		
+		
+		<field name="composer">Domenico Antonio Berti</field>
+		<field name="composerSort">Berti, Domenico Antonio</field>
+		<field name="librettist">Tommaso Aceti</field>
+		<field name="librettistSort">Aceti, Tommaso</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint John of the Cross</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">14</field>
+		<field name="feastDate">December 14</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+primogenito+del+riformato+Carmelo,+Beato+Giovanni+della+Croce+Domenico+Antonio+Berti&amp;search_field=search</field>
+	</doc></add>

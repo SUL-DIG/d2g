@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123357</field>
+<field name="genre">Operas</field>
+<field name="title">"Ersilia, ossia La vedova scaltra</field>
+<field name="titleSort">"Ersilia, ossia La vedova scaltra"</field>
+<field name="composer">Cesare Pascucci</field>
+<field name="composerSort">Pascucci, Cesare</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Raffaele Berninzone</field>
+<field name="librettistSort">Berninzone, Raffaele</field>
+<field name="theater">Teatro dell'Alhambra</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ersilia,+ossia+La+vedova+scaltra+Cesare+Pascucci&amp;search_field=search</field>
+</doc>
+</add>

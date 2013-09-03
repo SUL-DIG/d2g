@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119622</field>
+<field name="genre">Operas</field>
+<field name="title">La piccina del Garage</field>
+<field name="titleSort">piccina del Garage</field>
+<field name="composer">Vittorio Mascheroni</field>
+<field name="composerSort">Mascheroni, Vittorio</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Leo Micheluzzi</field>
+<field name="librettistSort">Micheluzzi, Leo</field>
+<field name="librettist">Alberico Squassi</field>
+<field name="librettistSort">Squassi, Alberico</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+piccina+del+Garage+Vittorio+Mascheroni&amp;search_field=search</field>
+</doc>
+</add>

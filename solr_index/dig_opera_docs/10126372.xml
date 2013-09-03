@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126372</field>
+<field name="genre">Operas</field>
+<field name="title">Sandhog</field>
+<field name="titleSort">Sandhog</field>
+<field name="composer">Earl Robinson</field>
+<field name="composerSort">Robinson, Earl</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Waldo Salt</field>
+<field name="librettistSort">Salt, Waldo</field>
+<field name="librettist">Theodore Dreiser</field>
+<field name="librettistSort">Dreiser, Theodore</field>
+<field name="theater">Phoenix Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sandhog+Earl+Robinson&amp;search_field=search</field>
+</doc>
+</add>

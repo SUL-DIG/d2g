@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114604</field>
+<field name="genre">Operas</field>
+<field name="title">Sharp and Flat</field>
+<field name="titleSort">Sharp and Flat</field>
+<field name="composer">James Hook</field>
+<field name="composerSort">Hook, James</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Dennis Lawler</field>
+<field name="librettistSort">Lawler, Dennis</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sharp+and+Flat+James+Hook&amp;search_field=search</field>
+</doc>
+</add>

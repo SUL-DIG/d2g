@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101919</field>
+<field name="genre">Operas</field>
+<field name="title">À l'épreuve</field>
+<field name="titleSort">À l'épreuve</field>
+<field name="composer">Louis Barras</field>
+<field name="composerSort">Barras, Louis</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Louis Tiercelin</field>
+<field name="librettistSort">Tiercelin, Louis</field>
+<field name="theater">Casino</field>
+<field name="city">Saint-Malo</field>
+<field name="region">Ille-et-Vilaine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+l'épreuve+Louis+Barras&amp;search_field=search</field>
+</doc>
+</add>

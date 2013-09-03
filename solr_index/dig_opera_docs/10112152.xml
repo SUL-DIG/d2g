@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112152</field>
+<field name="genre">Operas</field>
+<field name="title">"L'oracle, ou La fête des vertus et des grâces</field>
+<field name="titleSort">"oracle, ou La fête des vertus et des grâces"</field>
+<field name="composer">Carl Wilhelm Glösch</field>
+<field name="composerSort">Glösch, Carl Wilhelm</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Sébastian Bourdais</field>
+<field name="librettistSort">Bourdais, Sébastian</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oracle,+ou+La+fête+des+vertus+et+des+grâces+Carl+Wilhelm+Glösch&amp;search_field=search</field>
+</doc>
+</add>

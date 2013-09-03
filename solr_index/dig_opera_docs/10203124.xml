@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203124</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio tedesco al Sepolcro Santo</field>
+		<field name="titleSort">Oratorio tedesco al Sepolcro Santo</field>
+		<field name="year">1724</field>
+		<field name="month">April</field>
+		<field name="day">14</field>
+		<field name="date">April 14, 1724</field>
+		<field name="composer">Johann David Heinichen</field>
+		<field name="composerSort">Heinichen, Johann David</field>
+		
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Holy Sepulcher</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+tedesco+al+Sepolcro+Santo+Johann+David+Heinichen&amp;search_field=search</field>
+	</doc></add>

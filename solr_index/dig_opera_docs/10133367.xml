@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133367</field>
+<field name="genre">Operas</field>
+<field name="title">Una partita</field>
+<field name="titleSort">partita</field>
+<field name="composer">Riccardo Zandonai</field>
+<field name="composerSort">Zandonai, Riccardo</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+partita+Riccardo+Zandonai&amp;search_field=search</field>
+</doc>
+</add>

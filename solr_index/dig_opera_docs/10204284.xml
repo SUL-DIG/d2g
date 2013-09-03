@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204284</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Sieben Schläfer</field>
+		<field name="titleSort">Sieben Schläfer</field>
+		<field name="year">1833</field>
+		<field name="month">June</field>
+		<field name="day">1</field>
+		<field name="date">June 1, 1833</field>
+		<field name="composer">Carl Loewe</field>
+		<field name="composerSort">Loewe, Carl</field>
+		<field name="librettist">Ludwig Giesebrecht</field>
+		<field name="librettistSort">Giesebrecht, Ludwig</field>
+		
+		
+		<field name="city">Szczecin</field>
+		<field name="region">Zachodniopomorskie</field>
+		<field name="country">Poland</field>
+		<field name="subject">The Seven Sleepers of Ephesus</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">27</field>
+		<field name="feastDate">July 27</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sieben+Schläfer+Carl+Loewe&amp;search_field=search</field>
+	</doc></add>

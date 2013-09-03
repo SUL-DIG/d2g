@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125258</field>
+<field name="genre">Operas</field>
+<field name="title">Il maestro di cappella</field>
+<field name="titleSort">maestro di cappella</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+maestro+di+cappella+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

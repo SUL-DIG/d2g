@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112323</field>
+<field name="genre">Operas</field>
+<field name="title">R. Hot</field>
+<field name="titleSort">R. Hot</field>
+<field name="composer">Friedrich Goldmann</field>
+<field name="composerSort">Goldmann, Friedrich</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Thomas Körner</field>
+<field name="librettistSort">Körner, Thomas</field>
+<field name="librettist">Jakob Michael Reinhold Lenz</field>
+<field name="librettistSort">Lenz, Jakob Michael Reinhold</field>
+<field name="theater">Deutsche Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=R.+Hot+Friedrich+Goldmann&amp;search_field=search</field>
+</doc>
+</add>

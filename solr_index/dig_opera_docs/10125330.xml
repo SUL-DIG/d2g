@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125330</field>
+<field name="genre">Operas</field>
+<field name="title">Der lustige Rath</field>
+<field name="titleSort">lustige Rath</field>
+<field name="composer">Johann Vesque von Püttlingen</field>
+<field name="composerSort">Püttlingen, Johann Vesque von</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Salomon Hermann Mosenthal</field>
+<field name="librettistSort">Mosenthal, Salomon Hermann</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lustige+Rath+Johann+Vesque+von+Püttlingen&amp;search_field=search</field>
+</doc>
+</add>

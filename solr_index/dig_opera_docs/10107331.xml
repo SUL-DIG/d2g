@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107331</field>
+<field name="genre">Operas</field>
+<field name="title">L'enfant de 35 mères</field>
+<field name="titleSort">enfant de 35 mères</field>
+<field name="composer">Eugène-Joseph Déjazet</field>
+<field name="composerSort">Déjazet, Eugène-Joseph</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Adolphe Jaime</field>
+<field name="librettistSort">Jaime, Adolphe</field>
+<field name="librettist">Giovanni Battista Guarini</field>
+<field name="librettistSort">Guarini, Giovanni Battista</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enfant+de+35+mères+Eugène-Joseph+Déjazet&amp;search_field=search</field>
+</doc>
+</add>

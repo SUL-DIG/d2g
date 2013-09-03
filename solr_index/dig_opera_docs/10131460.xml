@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131460</field>
+<field name="genre">Operas</field>
+<field name="title">Ligazón</field>
+<field name="titleSort">Ligazón</field>
+<field name="composer">José Luis Turina</field>
+<field name="composerSort">Turina, José Luis</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Ramón del Valle-Inclán</field>
+<field name="librettistSort">Valle-Inclán, Ramón del</field>
+<field name="theater">Los Encuentros Internacionales de Opera de Cámara</field>
+<field name="city">Cuenca</field>
+<field name="region">Castilla-La Mancha</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ligazón+José+Luis+Turina&amp;search_field=search</field>
+</doc>
+</add>

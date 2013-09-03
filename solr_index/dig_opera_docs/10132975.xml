@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132975</field>
+<field name="genre">Operas</field>
+<field name="title">The Happy Prince</field>
+<field name="titleSort">Happy Prince</field>
+<field name="composer">Malcolm Williamson</field>
+<field name="composerSort">Williamson, Malcolm</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Malcolm Williamson</field>
+<field name="librettistSort">Williamson, Malcolm</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Parish Church</field>
+<field name="city">Farnham</field>
+<field name="region">Surrey</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Happy+Prince+Malcolm+Williamson&amp;search_field=search</field>
+</doc>
+</add>

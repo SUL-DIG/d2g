@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132316</field>
+<field name="genre">Operas</field>
+<field name="title">Der Storch hat sich geirrt</field>
+<field name="titleSort">Storch hat sich geirrt</field>
+<field name="composer">E. von der Voss</field>
+<field name="composerSort">Voss, E. von der</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Orobio del Castro</field>
+<field name="librettistSort">Castro, Orobio del</field>
+<field name="librettist">Hans Edmund</field>
+<field name="librettistSort">Edmund, Hans</field>
+<field name="theater">Bömly-Theater</field>
+<field name="city">Basle</field>
+<field name="region">Basel-Land</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Storch+hat+sich+geirrt+E.+von+der+Voss&amp;search_field=search</field>
+</doc>
+</add>

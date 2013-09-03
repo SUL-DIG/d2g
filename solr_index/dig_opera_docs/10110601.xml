@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110601</field>
+<field name="genre">Operas</field>
+<field name="title">Cydippe</field>
+<field name="titleSort">Cydippe</field>
+<field name="composer">__ Froment</field>
+<field name="composerSort">Froment, __</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Maximilien-Jean Boutellier</field>
+<field name="librettistSort">Boutellier, Maximilien-Jean</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cydippe+__+Froment&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116289</field>
+<field name="genre">Operas</field>
+<field name="title">A harapós férj</field>
+<field name="titleSort">harapós férj</field>
+<field name="composer">Károly Komjáti</field>
+<field name="composerSort">Komjáti, Károly</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Tamás Emöd</field>
+<field name="librettistSort">Emöd, Tamás</field>
+<field name="librettist">Rezso Török</field>
+<field name="librettistSort">Török, Rezso</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+harapós+férj+Károly+Komjáti&amp;search_field=search</field>
+</doc>
+</add>

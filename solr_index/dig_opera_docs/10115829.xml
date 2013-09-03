@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115829</field>
+<field name="genre">Operas</field>
+<field name="title">Julius Caesar</field>
+<field name="titleSort">Julius Caesar</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Barthold Feind</field>
+<field name="librettistSort">Feind, Barthold</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julius+Caesar+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

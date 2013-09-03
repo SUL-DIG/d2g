@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100984</field>
+<field name="genre">Operas</field>
+<field name="title">Christopher Sly</field>
+<field name="titleSort">Christopher Sly</field>
+<field name="composer">Dominick Argento</field>
+<field name="composerSort">Argento, Dominick</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">[Dominick Argento et al.] John Manlove</field>
+<field name="librettistSort">Manlove, John [Dominick Argento et al.]</field>
+<field name="theater">University of Minnesota</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christopher+Sly+Dominick+Argento&amp;search_field=search</field>
+</doc>
+</add>

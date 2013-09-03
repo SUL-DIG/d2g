@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122133</field>
+<field name="genre">Operas</field>
+<field name="title">Lola</field>
+<field name="titleSort">Lola</field>
+<field name="composer">Ludolf Nielsen</field>
+<field name="composerSort">Nielsen, Ludolf</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Peter Andreas Rosenberg</field>
+<field name="librettistSort">Rosenberg, Peter Andreas</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lola+Ludolf+Nielsen&amp;search_field=search</field>
+</doc>
+</add>

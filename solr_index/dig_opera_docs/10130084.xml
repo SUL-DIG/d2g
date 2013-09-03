@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130084</field>
+<field name="genre">Operas</field>
+<field name="title">Phoedé</field>
+<field name="titleSort">Phoedé</field>
+<field name="composer">Oscar Stoumon</field>
+<field name="composerSort">Stoumon, Oscar</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Oscar Stoumon</field>
+<field name="librettistSort">Stoumon, Oscar</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phoedé+Oscar+Stoumon&amp;search_field=search</field>
+</doc>
+</add>

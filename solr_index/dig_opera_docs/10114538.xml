@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114538</field>
+<field name="genre">Operas</field>
+<field name="title">Die Wände</field>
+<field name="titleSort">Wände</field>
+<field name="composer">Adriana Hölsky</field>
+<field name="composerSort">Hölsky, Adriana</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Thomas Körner</field>
+<field name="librettistSort">Körner, Thomas</field>
+<field name="librettist">Jean Genet</field>
+<field name="librettistSort">Genet, Jean</field>
+<field name="theater">Wiener Festwochen</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Wände+Adriana+Hölsky&amp;search_field=search</field>
+</doc>
+</add>

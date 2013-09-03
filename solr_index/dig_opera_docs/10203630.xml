@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203630</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La risurrezione di nostro Signor Gesù Cristo</field>
+		<field name="titleSort">risurrezione di nostro Signor Gesù Cristo</field>
+		<field name="year">1827</field>
+		<field name="month">June</field>
+		<field name="day">2</field>
+		<field name="date">June 2, 1827</field>
+		<field name="composer">Paolo Bonfichi</field>
+		<field name="composerSort">Bonfichi, Paolo</field>
+		<field name="librettist">Giovanni Battista Rasi</field>
+		<field name="librettistSort">Rasi, Giovanni Battista</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+risurrezione+di+nostro+Signor+Gesù+Cristo+Paolo+Bonfichi&amp;search_field=search</field>
+	</doc></add>

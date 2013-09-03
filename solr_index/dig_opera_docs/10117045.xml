@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117045</field>
+<field name="genre">Operas</field>
+<field name="title">Bérénice</field>
+<field name="titleSort">Bérénice</field>
+<field name="composer">Paul La Gye</field>
+<field name="composerSort">Gye, Paul La</field>
+<field name="year">1913</field>
+<field name="date">1913</field><field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bérénice+Paul+La+Gye&amp;search_field=search</field>
+</doc>
+</add>

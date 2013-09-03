@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203629</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La risurrezione di Lazzaro</field>
+		<field name="titleSort">risurrezione di Lazzaro</field>
+		<field name="year">1898</field>
+		<field name="month">July</field>
+		<field name="day">28</field>
+		<field name="date">July 28, 1898</field>
+		<field name="composer">Lorenzo Perosi</field>
+		<field name="composerSort">Perosi, Lorenzo</field>
+		
+		
+		<field name="theater">Teatro La Fenice</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+risurrezione+di+Lazzaro+Lorenzo+Perosi&amp;search_field=search</field>
+	</doc></add>

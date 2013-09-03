@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116323</field>
+<field name="genre">Operas</field>
+<field name="title">Der Bravo</field>
+<field name="titleSort">Bravo</field>
+<field name="composer">Arthur Könnemann</field>
+<field name="composerSort">Könnemann, Arthur</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Arthur Könnemann</field>
+<field name="librettistSort">Könnemann, Arthur</field>
+<field name="theater">Komödienhaus</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Bravo+Arthur+Könnemann&amp;search_field=search</field>
+</doc>
+</add>

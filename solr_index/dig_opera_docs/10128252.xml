@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128252</field>
+<field name="genre">Operas</field>
+<field name="title">Mina</field>
+<field name="titleSort">Mina</field>
+<field name="composer">Francesco Schira</field>
+<field name="composerSort">Schira, Francesco</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">William Morris</field>
+<field name="librettistSort">Morris, William</field>
+<field name="librettist">George Linley</field>
+<field name="librettistSort">Linley, George</field>
+<field name="theater">Princess's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mina+Francesco+Schira&amp;search_field=search</field>
+</doc>
+</add>

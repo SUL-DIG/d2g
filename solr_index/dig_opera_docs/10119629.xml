@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119629</field>
+<field name="genre">Operas</field>
+<field name="title">Das alte Weib vom Schneeberg</field>
+<field name="titleSort">alte Weib vom Schneeberg</field>
+<field name="composer">Paul Masek</field>
+<field name="composerSort">Masek, Paul</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Joseph Anton Schuster</field>
+<field name="librettistSort">Schuster, Joseph Anton</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+alte+Weib+vom+Schneeberg+Paul+Masek&amp;search_field=search</field>
+</doc>
+</add>

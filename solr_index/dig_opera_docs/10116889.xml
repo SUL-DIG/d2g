@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116889</field>
+<field name="genre">Operas</field>
+<field name="title">Nasledstvo (Heritage)</field>
+<field name="titleSort">Nasledstvo (Heritage)</field>
+<field name="composer">Krasmir Kyurkchiyski</field>
+<field name="composerSort">Kyurkchiyski, Krasmir</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Molen Paunov</field>
+<field name="librettistSort">Paunov, Molen</field>
+
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nasledstvo+Heritage+Krasmir+Kyurkchiyski&amp;search_field=search</field>
+</doc>
+</add>

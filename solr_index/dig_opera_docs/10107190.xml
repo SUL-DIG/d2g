@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107190</field>
+<field name="genre">Operas</field>
+<field name="title">Diane de Spaar</field>
+<field name="titleSort">Diane de Spaar</field>
+<field name="composer">Adolphe David</field>
+<field name="composerSort">David, Adolphe</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diane+de+Spaar+Adolphe+David&amp;search_field=search</field>
+</doc>
+</add>

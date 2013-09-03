@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201010</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La distruzione dell'esercito de Cananei con la morte di Sisara</field>
+		<field name="titleSort">distruzione dell'esercito de Cananei con la morte di Sisara</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Francesco Feo</field>
+		<field name="composerSort">Feo, Francesco</field>
+		
+		
+		<field name="theater">Congregation of the Fathers of the Holy Cross</field>
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+distruzione+dell'esercito+de+Cananei+con+la+morte+di+Sisara+Francesco+Feo&amp;search_field=search</field>
+	</doc></add>

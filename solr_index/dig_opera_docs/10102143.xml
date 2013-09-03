@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102143</field>
+<field name="genre">Operas</field>
+<field name="title">Frauenlob</field>
+<field name="titleSort">Frauenlob</field>
+<field name="composer">Reinhold Becker</field>
+<field name="composerSort">Becker, Reinhold</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Franz Koppel-Ellfeld</field>
+<field name="librettistSort">Koppel-Ellfeld, Franz</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frauenlob+Reinhold+Becker&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108280</field>
+<field name="genre">Operas</field>
+<field name="title">Die Abenteuernacht</field>
+<field name="titleSort">Abenteuernacht</field>
+<field name="composer">Joseph Drechsler</field>
+<field name="composerSort">Drechsler, Joseph</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Theodor von Haupt</field>
+<field name="librettistSort">Haupt, Theodor von</field>
+<field name="librettist">Josef Lang</field>
+<field name="librettistSort">Lang, Josef</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Abenteuernacht+Joseph+Drechsler&amp;search_field=search</field>
+</doc>
+</add>

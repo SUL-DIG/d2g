@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114772</field>
+<field name="genre">Operas</field>
+<field name="title">Der lustige Schulmeister</field>
+<field name="titleSort">lustige Schulmeister</field>
+<field name="composer">Ludwig Huber</field>
+<field name="composerSort">Huber, Ludwig</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="city">Ingolstadt</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lustige+Schulmeister+Ludwig+Huber&amp;search_field=search</field>
+</doc>
+</add>

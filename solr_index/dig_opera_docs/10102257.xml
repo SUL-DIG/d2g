@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102257</field>
+<field name="genre">Operas</field>
+<field name="title">Le baiser de Suzon</field>
+<field name="titleSort">baiser de Suzon</field>
+<field name="composer">Herman Bemberg</field>
+<field name="composerSort">Bemberg, Herman</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Pierre Barbier</field>
+<field name="librettistSort">Barbier, Pierre</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+baiser+de+Suzon+Herman+Bemberg&amp;search_field=search</field>
+</doc>
+</add>

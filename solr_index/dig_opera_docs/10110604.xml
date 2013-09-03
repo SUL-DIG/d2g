@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110604</field>
+<field name="genre">Operas</field>
+<field name="title">"Pierre Luc, ou Le cultivateur du Mont Blanc</field>
+<field name="titleSort">"Pierre Luc, ou Le cultivateur du Mont Blanc"</field>
+<field name="composer">__ Froment</field>
+<field name="composerSort">Froment, __</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Jean-François-Jacques Corsange de la Plante</field>
+<field name="librettistSort">Corsange de la Plante, Jean-François-Jacques</field>
+<field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
+<field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pierre+Luc,+ou+Le+cultivateur+du+Mont+Blanc+__+Froment&amp;search_field=search</field>
+</doc>
+</add>

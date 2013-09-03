@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100306</field>
+<field name="genre">Operas</field>
+<field name="title">Les petits du premier</field>
+<field name="titleSort">petits du premier</field>
+<field name="composer">Émile Albert</field>
+<field name="composerSort">Albert, Émile</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">William Busnach</field>
+<field name="librettistSort">Busnach, William</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Théâtre Cluny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+petits+du+premier+Émile+Albert&amp;search_field=search</field>
+</doc>
+</add>

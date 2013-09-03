@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120042</field>
+<field name="genre">Operas</field>
+<field name="title">"The Lion, the Witch and the Wardrobe</field>
+<field name="titleSort">"Lion, the Witch and the Wardrobe"</field>
+<field name="composer">John McCabe</field>
+<field name="composerSort">McCabe, John</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Gerald Larner</field>
+<field name="librettistSort">Larner, Gerald</field>
+<field name="librettist">Clive Staples Lewis</field>
+<field name="librettistSort">Lewis, Clive Staples</field>
+<field name="theater">Manchester Cathedral</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lion,+the+Witch+and+the+Wardrobe+John+McCabe&amp;search_field=search</field>
+</doc>
+</add>

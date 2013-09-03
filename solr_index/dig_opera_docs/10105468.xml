@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105468</field>
+<field name="genre">Operas</field>
+<field name="title">Annella tavernara di Porta Capuana</field>
+<field name="titleSort">Annella tavernara di Porta Capuana</field>
+<field name="composer">Domenico Cerciа</field>
+<field name="composerSort">Cerciа, Domenico</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Gennaro d'Avino</field>
+<field name="librettistSort">d'Avino, Gennaro</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Annella+tavernara+di+Porta+Capuana+Domenico+Cerciа&amp;search_field=search</field>
+</doc>
+</add>

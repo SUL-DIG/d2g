@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103770</field>
+<field name="genre">Operas</field>
+<field name="title">Wildfeuer</field>
+<field name="titleSort">Wildfeuer</field>
+<field name="composer">Alfred Bortz</field>
+<field name="composerSort">Bortz, Alfred</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Theodor von Riba</field>
+<field name="librettistSort">Riba, Theodor von</field>
+<field name="librettist">[Eligius Franz Joseph von Münch-Bellinghausen] Friedrich Halm</field>
+<field name="librettistSort">Halm, Friedrich [Eligius Franz Joseph von Münch-Bellinghausen]</field>
+
+<field name="city">Cottbus</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wildfeuer+Alfred+Bortz&amp;search_field=search</field>
+</doc>
+</add>

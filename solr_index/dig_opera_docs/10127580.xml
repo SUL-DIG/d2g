@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127580</field>
+<field name="genre">Operas</field>
+<field name="title">Kejsar Jones</field>
+<field name="titleSort">Kejsar Jones</field>
+<field name="composer">Sven-David Sandström</field>
+<field name="composerSort">Sandström, Sven-David</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Lars Thelestam</field>
+<field name="librettistSort">Thelestam, Lars</field>
+<field name="librettist">Eugene O'Neill</field>
+<field name="librettistSort">O'Neill, Eugene</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kejsar+Jones+Sven-David+Sandström&amp;search_field=search</field>
+</doc>
+</add>

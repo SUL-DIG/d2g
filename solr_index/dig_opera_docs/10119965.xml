@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119965</field>
+<field name="genre">Operas</field>
+<field name="title">La Lodoiska</field>
+<field name="titleSort">Lodoiska</field>
+<field name="composer">Simon Mayr</field>
+<field name="composerSort">Mayr, Simon</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Francesco Gonella</field>
+<field name="librettistSort">Gonella, Francesco</field>
+<field name="librettist">Jean-Baptiste Louvet de Couvray</field>
+<field name="librettistSort">Louvet de Couvray, Jean-Baptiste</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Lodoiska+Simon+Mayr&amp;search_field=search</field>
+</doc>
+</add>

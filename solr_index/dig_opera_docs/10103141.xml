@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103141</field>
+<field name="genre">Operas</field>
+<field name="title">Une mesure de silence</field>
+<field name="titleSort">mesure de silence</field>
+<field name="composer">Maurice Blackburn</field>
+<field name="composerSort">Blackburn, Maurice</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Marthe Morisset-Blackburn</field>
+<field name="librettistSort">Morisset-Blackburn, Marthe</field>
+<field name="theater">CBC Television (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+mesure+de+silence+Maurice+Blackburn&amp;search_field=search</field>
+</doc>
+</add>

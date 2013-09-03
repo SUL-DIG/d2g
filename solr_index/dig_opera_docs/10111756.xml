@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111756</field>
+<field name="genre">Operas</field>
+<field name="title">The Servant of Two Masters</field>
+<field name="titleSort">Servant of Two Masters</field>
+<field name="composer">Vittorio Giannini</field>
+<field name="composerSort">Giannini, Vittorio</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Bernard Stambler</field>
+<field name="librettistSort">Stambler, Bernard</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Servant+of+Two+Masters+Vittorio+Giannini&amp;search_field=search</field>
+</doc>
+</add>

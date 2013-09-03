@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109599</field>
+<field name="genre">Operas</field>
+<field name="title">Le cobzar</field>
+<field name="titleSort">cobzar</field>
+<field name="composer">Gabrielle Ferrari</field>
+<field name="composerSort">Ferrari, Gabrielle</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Paul Milliet</field>
+<field name="librettistSort">Milliet, Paul</field>
+<field name="librettist">Hélène Vacaresco</field>
+<field name="librettistSort">Vacaresco, Hélène</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cobzar+Gabrielle+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

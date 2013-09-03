@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114742</field>
+<field name="genre">Operas</field>
+<field name="title">Hans bleibt Hans</field>
+<field name="titleSort">Hans bleibt Hans</field>
+<field name="composer">Anton Hubatschek</field>
+<field name="composerSort">Hubatschek, Anton</field>
+<field name="year">1787</field>
+<field name="date">1787</field><field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Sibiu</field>
+<field name="region">Sibiu</field>
+<field name="country">Romania</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+bleibt+Hans+Anton+Hubatschek&amp;search_field=search</field>
+</doc>
+</add>

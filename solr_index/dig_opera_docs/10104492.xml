@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104492</field>
+<field name="genre">Operas</field>
+<field name="title">The Equation</field>
+<field name="titleSort">Equation</field>
+<field name="composer">Geoffrey Bush</field>
+<field name="composerSort">Bush, Geoffrey</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Geoffrey Bush</field>
+<field name="librettistSort">Bush, Geoffrey</field>
+<field name="librettist">John Drinkwater</field>
+<field name="librettistSort">Drinkwater, John</field>
+<field name="theater">"All Saints, Margaret Street"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Equation+Geoffrey+Bush&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129014</field>
+<field name="genre">Operas</field>
+<field name="title">Philomel</field>
+<field name="titleSort">Philomel</field>
+<field name="composer">Martin Shaw</field>
+<field name="composerSort">Shaw, Martin</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Eleanor Farjeon</field>
+<field name="librettistSort">Farjeon, Eleanor</field>
+<field name="librettist">Clifford Bax</field>
+<field name="librettistSort">Bax, Clifford</field>
+<field name="theater">Ambassador's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Philomel+Martin+Shaw&amp;search_field=search</field>
+</doc>
+</add>

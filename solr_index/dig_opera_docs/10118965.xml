@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118965</field>
+<field name="genre">Operas</field>
+<field name="title">Erzsike</field>
+<field name="titleSort">Erzsike</field>
+<field name="composer">Gyula Major</field>
+<field name="composerSort">Major, Gyula</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Aladár Radó</field>
+<field name="librettistSort">Radó, Aladár</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erzsike+Gyula+Major&amp;search_field=search</field>
+</doc>
+</add>

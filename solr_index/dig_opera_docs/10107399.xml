@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107399</field>
+<field name="genre">Operas</field>
+<field name="title">L'île d'amour</field>
+<field name="titleSort">île d'amour</field>
+<field name="composer">Jean Charles Alfred Deléhelle</field>
+<field name="composerSort">Deléhelle, Jean Charles Alfred</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Camille Du Locle</field>
+<field name="librettistSort">Du Locle, Camille</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'île+d'amour+Jean+Charles+Alfred+Deléhelle&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101768</field>
+<field name="genre">Operas</field>
+<field name="title">Chanticleer</field>
+<field name="titleSort">Chanticleer</field>
+<field name="composer">Seymour Barab</field>
+<field name="composerSort">Barab, Seymour</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Mary Caroline Richards</field>
+<field name="librettistSort">Richards, Mary Caroline</field>
+<field name="librettist">Geoffrey Chaucer</field>
+<field name="librettistSort">Chaucer, Geoffrey</field>
+<field name="theater">Wheeler Opera House</field>
+<field name="city">Aspen</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chanticleer+Seymour+Barab&amp;search_field=search</field>
+</doc>
+</add>

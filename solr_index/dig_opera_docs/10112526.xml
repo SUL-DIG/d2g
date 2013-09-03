@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112526</field>
+<field name="genre">Operas</field>
+<field name="title">Follet</field>
+<field name="titleSort">Follet</field>
+<field name="composer">Enrique Granados</field>
+<field name="composerSort">Granados, Enrique</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Apeles Mestres</field>
+<field name="librettistSort">Mestres, Apeles</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Follet+Enrique+Granados&amp;search_field=search</field>
+</doc>
+</add>

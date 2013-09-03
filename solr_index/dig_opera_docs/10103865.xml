@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103865</field>
+<field name="genre">Operas</field>
+<field name="title">Anne de Bretagne</field>
+<field name="titleSort">Anne de Bretagne</field>
+<field name="composer">Louis-Albert Bourgault-Ducoudray</field>
+<field name="composerSort">Bourgault-Ducoudray, Louis-Albert</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Louis-Albert Bourgault-Decoudray</field>
+<field name="librettistSort">Bourgault-Decoudray, Louis-Albert</field>
+<field name="theater">Société Musicale Concordia</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anne+de+Bretagne+Louis-Albert+Bourgault-Ducoudray&amp;search_field=search</field>
+</doc>
+</add>

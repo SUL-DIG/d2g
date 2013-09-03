@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204605</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo del tempo nella bellezza ravveduta</field>
+		<field name="titleSort">trionfo del tempo nella bellezza ravveduta</field>
+		<field name="year">1725</field>
+		<field name="month">March</field>
+		<field name="day">22</field>
+		<field name="date">March 22, 1725</field>
+		<field name="composer">Carlo Francesco Cesarini</field>
+		<field name="composerSort">Cesarini, Carlo Francesco</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Collegio Clementino</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+del+tempo+nella+bellezza+ravveduta+Carlo+Francesco+Cesarini&amp;search_field=search</field>
+	</doc></add>

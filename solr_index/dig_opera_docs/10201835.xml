@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201835</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Herr Zebaoth is mit uns</field>
+		<field name="titleSort">Herr Zebaoth is mit uns</field>
+		<field name="year">1764</field>
+		
+		
+		<field name="date">1764</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Wilhelm Adolf Paulli</field>
+		<field name="librettistSort">Paulli, Wilhelm Adolf</field>
+		
+		<field name="theater">Kapitänsmusik</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+Zebaoth+is+mit+uns+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

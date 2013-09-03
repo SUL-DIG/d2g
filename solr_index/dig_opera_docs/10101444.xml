@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101444</field>
+<field name="genre">Operas</field>
+<field name="title">Schneewittchen</field>
+<field name="titleSort">Schneewittchen</field>
+<field name="composer">Hans Auenmüller</field>
+<field name="composerSort">Auenmüller, Hans</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Margrit Lenk</field>
+<field name="librettistSort">Lenk, Margrit</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Volkstheater</field>
+<field name="city">Halberstadt</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+Hans+Auenmüller&amp;search_field=search</field>
+</doc>
+</add>

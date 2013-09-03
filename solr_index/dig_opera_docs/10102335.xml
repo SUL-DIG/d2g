@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102335</field>
+<field name="genre">Operas</field>
+<field name="title">Beef Tea</field>
+<field name="titleSort">Beef Tea</field>
+<field name="composer">Wilfred Bendall</field>
+<field name="composerSort">Bendall, Wilfred</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Harry Greenbank</field>
+<field name="librettistSort">Greenbank, Harry</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beef+Tea+Wilfred+Bendall&amp;search_field=search</field>
+</doc>
+</add>

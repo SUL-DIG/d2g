@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123889</field>
+<field name="genre">Operas</field>
+<field name="title">Solimano</field>
+<field name="titleSort">Solimano</field>
+<field name="composer">Giovanni Battista Pescetti</field>
+<field name="composerSort">Pescetti, Giovanni Battista</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">Giovanni Ambrogio Migliavacca</field>
+<field name="librettistSort">Migliavacca, Giovanni Ambrogio</field>
+<field name="theater">Teatro Pubblico</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solimano+Giovanni+Battista+Pescetti&amp;search_field=search</field>
+</doc>
+</add>

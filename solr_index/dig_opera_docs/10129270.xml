@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129270</field>
+<field name="genre">Operas</field>
+<field name="title">Caccia lontana</field>
+<field name="titleSort">Caccia lontana</field>
+<field name="composer">Antonio Smareglia</field>
+<field name="composerSort">Smareglia, Antonio</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Giovanni Pozza</field>
+<field name="librettistSort">Pozza, Giovanni</field>
+<field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caccia+lontana+Antonio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

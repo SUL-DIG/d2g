@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204526</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tod Balders</field>
+		<field name="titleSort">Tod Balders</field>
+		<field name="year">1888</field>
+		
+		
+		<field name="date">1888</field>
+		<field name="composer">Otto Beständig</field>
+		<field name="composerSort">Beständig, Otto</field>
+		<field name="librettist">Otto Beständig</field>
+		<field name="librettistSort">Beständig, Otto</field>
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Balder</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+Balders+Otto+Beständig&amp;search_field=search</field>
+	</doc></add>

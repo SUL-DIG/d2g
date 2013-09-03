@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204966</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Zimri</field>
+		<field name="titleSort">Zimri</field>
+		<field name="year">1760</field>
+		<field name="month">March</field>
+		<field name="day">12</field>
+		<field name="date">March 12, 1760</field>
+		<field name="composer">John Stanley</field>
+		<field name="composerSort">Stanley, John</field>
+		<field name="librettist">John Hawkesworth</field>
+		<field name="librettistSort">Hawkesworth, John</field>
+		
+		<field name="theater">Royal Opera House, Covent Garden</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Zimri</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zimri+John+Stanley&amp;search_field=search</field>
+	</doc></add>

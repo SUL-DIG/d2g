@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115641</field>
+<field name="genre">Operas</field>
+<field name="title">"Miranda, oder Das Schwert der Rache</field>
+<field name="titleSort">"Miranda, oder Das Schwert der Rache"</field>
+<field name="composer">Friedrich August Kanne</field>
+<field name="composerSort">Kanne, Friedrich August</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Friedrich August Kanne</field>
+<field name="librettistSort">Kanne, Friedrich August</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miranda,+oder+Das+Schwert+der+Rache+Friedrich+August+Kanne&amp;search_field=search</field>
+</doc>
+</add>

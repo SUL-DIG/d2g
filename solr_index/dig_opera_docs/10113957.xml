@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113957</field>
+<field name="genre">Operas</field>
+<field name="title">Maître William</field>
+<field name="titleSort">Maître William</field>
+<field name="composer">Charles Hemleb</field>
+<field name="composerSort">Hemleb, Charles</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Louis Docquier</field>
+<field name="librettistSort">Docquier, Louis</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Namur</field>
+<field name="region">Namur</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maître+William+Charles+Hemleb&amp;search_field=search</field>
+</doc>
+</add>

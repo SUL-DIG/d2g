@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109006</field>
+<field name="genre">Operas</field>
+<field name="title">Solimano</field>
+<field name="titleSort">Solimano</field>
+<field name="composer">Pasquale Errichelli</field>
+<field name="composerSort">Errichelli, Pasquale</field>
+<field name="year">1757</field>
+<field name="date">1757</field>
+<field name="librettist">Giovanni Ambrogio Migliavacca</field>
+<field name="librettistSort">Migliavacca, Giovanni Ambrogio</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solimano+Pasquale+Errichelli&amp;search_field=search</field>
+</doc>
+</add>

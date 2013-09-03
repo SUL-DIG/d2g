@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132794</field>
+<field name="genre">Operas</field>
+<field name="title">Incognita</field>
+<field name="titleSort">Incognita</field>
+<field name="composer">Egon Wellesz</field>
+<field name="composerSort">Wellesz, Egon</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Elizabeth Mackenzie</field>
+<field name="librettistSort">Mackenzie, Elizabeth</field>
+<field name="librettist">William Congreve</field>
+<field name="librettistSort">Congreve, William</field>
+<field name="theater">Town Hall</field>
+<field name="city">Oxford</field>
+<field name="region">Oxfordshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Incognita+Egon+Wellesz&amp;search_field=search</field>
+</doc>
+</add>

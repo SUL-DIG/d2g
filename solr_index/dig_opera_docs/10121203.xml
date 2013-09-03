@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121203</field>
+<field name="genre">Operas</field>
+<field name="title">Lorenzaccio</field>
+<field name="titleSort">Lorenzaccio</field>
+<field name="composer">Ernest Moret</field>
+<field name="composerSort">Moret, Ernest</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Alfred de Musset</field>
+<field name="librettistSort">Musset, Alfred de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lorenzaccio+Ernest+Moret&amp;search_field=search</field>
+</doc>
+</add>

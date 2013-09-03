@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110258</field>
+<field name="genre">Operas</field>
+<field name="title">Cristina di Svezia</field>
+<field name="titleSort">Cristina di Svezia</field>
+<field name="composer">Jacopo Foroni</field>
+<field name="composerSort">Foroni, Jacopo</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Carlo Casanova</field>
+<field name="librettistSort">Casanova, Carlo</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristina+di+Svezia+Jacopo+Foroni&amp;search_field=search</field>
+</doc>
+</add>

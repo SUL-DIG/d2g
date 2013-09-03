@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130401</field>
+<field name="genre">Operas</field>
+<field name="title">Seraphine (Die stümme Apothekerin)</field>
+<field name="titleSort">Seraphine (Die stümme Apothekerin)</field>
+<field name="composer">Heinrich Sutermeister</field>
+<field name="composerSort">Sutermeister, Heinrich</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Heinrich Sutermeister</field>
+<field name="librettistSort">Sutermeister, Heinrich</field>
+<field name="librettist">François Rabelais</field>
+<field name="librettistSort">Rabelais, François</field>
+<field name="theater">SRG Television (Schweizerische Radio- und- Fernsehgesellschaft)</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seraphine+Die+stümme+Apothekerin+Heinrich+Sutermeister&amp;search_field=search</field>
+</doc>
+</add>

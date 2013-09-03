@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102494</field>
+<field name="genre">Operas</field>
+<field name="title">Ein armer Musikante</field>
+<field name="titleSort">armer Musikante</field>
+<field name="composer">Erich Berken</field>
+<field name="composerSort">Berken, Erich</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Hans Bachwitz</field>
+<field name="librettistSort">Bachwitz, Hans</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+armer+Musikante+Erich+Berken&amp;search_field=search</field>
+</doc>
+</add>

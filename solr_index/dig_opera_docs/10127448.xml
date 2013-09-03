@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127448</field>
+<field name="genre">Operas</field>
+<field name="title">Der Rauchfangkehrer</field>
+<field name="titleSort">Rauchfangkehrer</field>
+<field name="composer">Antonio Salieri</field>
+<field name="composerSort">Salieri, Antonio</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Joseph Leopold Auenbrugger</field>
+<field name="librettistSort">Auenbrugger, Joseph Leopold</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Rauchfangkehrer+Antonio+Salieri&amp;search_field=search</field>
+</doc>
+</add>

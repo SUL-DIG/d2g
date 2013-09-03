@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121160</field>
+<field name="genre">Operas</field>
+<field name="title">Il Tobia</field>
+<field name="titleSort">Tobia</field>
+<field name="composer">Pietro Morandi</field>
+<field name="composerSort">Morandi, Pietro</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="city">Jesi</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Tobia+Pietro+Morandi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127485</field>
+<field name="genre">Operas</field>
+<field name="title">Margita a Besná (Margita and Besná)</field>
+<field name="titleSort">Margita a Besná (Margita and Besná)</field>
+<field name="composer">Tadeás Salva</field>
+<field name="composerSort">Salva, Tadeás</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Veronika Vrbková</field>
+<field name="librettistSort">Vrbková, Veronika</field>
+<field name="librettist">Ján Botto</field>
+<field name="librettistSort">Botto, Ján</field>
+<field name="theater">Slovak Television (Slovenská televízia)</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margita+a+Besná+Margita+and+Besná+Tadeás+Salva&amp;search_field=search</field>
+</doc>
+</add>

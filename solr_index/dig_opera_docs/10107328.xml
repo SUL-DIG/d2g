@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107328</field>
+<field name="genre">Operas</field>
+<field name="title">Der fürstliche Wildfang</field>
+<field name="titleSort">fürstliche Wildfang</field>
+<field name="composer">Hermann Heinrich Dehlsen</field>
+<field name="composerSort">Dehlsen, Hermann Heinrich</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+fürstliche+Wildfang+Hermann+Heinrich+Dehlsen&amp;search_field=search</field>
+</doc>
+</add>

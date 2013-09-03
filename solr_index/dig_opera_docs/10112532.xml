@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112532</field>
+<field name="genre">Operas</field>
+<field name="title">Un'avventura teatrale</field>
+<field name="titleSort">avventura teatrale</field>
+<field name="composer">Antonio Granara</field>
+<field name="composerSort">Granara, Antonio</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Carlo Cambiaggio</field>
+<field name="librettistSort">Cambiaggio, Carlo</field>
+<field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un'avventura+teatrale+Antonio+Granara&amp;search_field=search</field>
+</doc>
+</add>

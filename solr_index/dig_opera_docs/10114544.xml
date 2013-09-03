@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114544</field>
+<field name="genre">Operas</field>
+<field name="title">The Wandering Scholar</field>
+<field name="titleSort">Wandering Scholar</field>
+<field name="composer">Gustav Holst</field>
+<field name="composerSort">Holst, Gustav</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Clifford Bax</field>
+<field name="librettistSort">Bax, Clifford</field>
+<field name="librettist">Helen Waddell</field>
+<field name="librettistSort">Waddell, Helen</field>
+<field name="theater">David Lewis Theatre</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wandering+Scholar+Gustav+Holst&amp;search_field=search</field>
+</doc>
+</add>

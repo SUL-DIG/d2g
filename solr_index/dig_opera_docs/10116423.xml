@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116423</field>
+<field name="genre">Operas</field>
+<field name="title">Maurya</field>
+<field name="titleSort">Maurya</field>
+<field name="composer">Gregory Kosteck</field>
+<field name="composerSort">Kosteck, Gregory</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Gregory Kosteck</field>
+<field name="librettistSort">Kosteck, Gregory</field>
+<field name="theater">East Carolina University</field>
+<field name="city">Greenville</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maurya+Gregory+Kosteck&amp;search_field=search</field>
+</doc>
+</add>

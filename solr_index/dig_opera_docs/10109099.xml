@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109099</field>
+<field name="genre">Operas</field>
+<field name="title">Das ist der erste</field>
+<field name="titleSort">ist der erste</field>
+<field name="composer">Edmund Eysler</field>
+<field name="composerSort">Eysler, Edmund</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Gustav Beer</field>
+<field name="librettistSort">Beer, Gustav</field>
+<field name="librettist">Hans Kottow</field>
+<field name="librettistSort">Kottow, Hans</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+ist+der+erste+Edmund+Eysler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100020</field>
+<field name="genre">Operas</field>
+<field name="title">Die Almhoaden</field>
+<field name="titleSort">Almhoaden</field>
+<field name="composer">Johann Joseph Abert</field>
+<field name="composerSort">Abert, Johann Joseph</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Adolf Kröner</field>
+<field name="librettistSort">Kröner, Adolf</field>
+<field name="librettist">Juan Palon y Coll</field>
+<field name="librettistSort">Palon y Coll, Juan</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Almhoaden+Johann+Joseph+Abert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131680</field>
+<field name="genre">Operas</field>
+<field name="title">Sordello</field>
+<field name="titleSort">Sordello</field>
+<field name="composer">Ernesto Vallini</field>
+<field name="composerSort">Vallini, Ernesto</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Emilio Girardi</field>
+<field name="librettistSort">Girardi, Emilio</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sordello+Ernesto+Vallini&amp;search_field=search</field>
+</doc>
+</add>

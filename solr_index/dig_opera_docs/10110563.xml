@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110563</field>
+<field name="genre">Operas</field>
+<field name="title">Lord Incognito</field>
+<field name="titleSort">Lord Incognito</field>
+<field name="composer">Hans Friedel</field>
+<field name="composerSort">Friedel, Hans</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Hans Junkermann</field>
+<field name="librettistSort">Junkermann, Hans</field>
+<field name="theater">Deutsches Schauspiele Haus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lord+Incognito+Hans+Friedel&amp;search_field=search</field>
+</doc>
+</add>

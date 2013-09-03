@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101076</field>
+<field name="genre">Operas</field>
+<field name="title">"Thomas and Sally, or The Sailor's Return</field>
+<field name="titleSort">"Thomas and Sally, or The Sailor's Return"</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Isaac Bickerstaff</field>
+<field name="librettistSort">Bickerstaff, Isaac</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thomas+and+Sally,+or+The+Sailor's+Return+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

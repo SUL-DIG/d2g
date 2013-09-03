@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132886</field>
+<field name="genre">Operas</field>
+<field name="title">Ouanga</field>
+<field name="titleSort">Ouanga</field>
+<field name="composer">Clarence Cameron White</field>
+<field name="composerSort">White, Clarence Cameron</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">John Frederick Matheus</field>
+<field name="librettistSort">Matheus, John Frederick</field>
+<field name="theater">Central High School</field>
+<field name="city">South Bend</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ouanga+Clarence+Cameron+White&amp;search_field=search</field>
+</doc>
+</add>

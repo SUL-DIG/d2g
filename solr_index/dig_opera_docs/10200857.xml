@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200857</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David's Lamentation over Saul and Jonathan</field>
+		<field name="titleSort">David's Lamentation over Saul and Jonathan</field>
+		<field name="year">1740</field>
+		<field name="month">February</field>
+		<field name="day">22</field>
+		<field name="date">February 22, 1740</field>
+		<field name="composer">John Christopher Smith</field>
+		<field name="composerSort">Smith, John Christopher</field>
+		<field name="librettist">John Lockman</field>
+		<field name="librettistSort">Lockman, John</field>
+		
+		<field name="theater">Hickford's Rooms</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">David's Lamentation</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David's+Lamentation+over+Saul+and+Jonathan+John+Christopher+Smith&amp;search_field=search</field>
+	</doc></add>

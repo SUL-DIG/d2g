@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129752</field>
+<field name="genre">Operas</field>
+<field name="title">"Zyd, wieczny tulacz (The Wandering Jew)</field>
+<field name="titleSort">"Zyd, wieczny tulacz (The Wandering Jew)"</field>
+<field name="composer">Józef Stefani</field>
+<field name="composerSort">Stefani, Józef</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Jan Jasinski</field>
+<field name="librettistSort">Jasinski, Jan</field>
+<field name="librettist">Eugène Sue</field>
+<field name="librettistSort">Sue, Eugène</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zyd,+wieczny+tulacz+The+Wandering+Jew+Józef+Stefani&amp;search_field=search</field>
+</doc>
+</add>

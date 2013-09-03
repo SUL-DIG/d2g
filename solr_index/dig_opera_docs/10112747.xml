@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112747</field>
+<field name="genre">Operas</field>
+<field name="title">Silvain</field>
+<field name="titleSort">Silvain</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="librettist">Salomon Gessner</field>
+<field name="librettistSort">Gessner, Salomon</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvain+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113892</field>
+<field name="genre">Operas</field>
+<field name="title">Der Lehr- und Weisheit begierige Jüngling</field>
+<field name="titleSort">Lehr- und Weisheit begierige Jüngling</field>
+<field name="composer">Paul Heinlein</field>
+<field name="composerSort">Heinlein, Paul</field>
+<field name="year">1669</field>
+<field name="date">1669</field>
+<field name="librettist">Christoph Paul Spiess</field>
+<field name="librettistSort">Spiess, Christoph Paul</field>
+<field name="theater">Komödienhaus</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Lehr-+und+Weisheit+begierige+Jüngling+Paul+Heinlein&amp;search_field=search</field>
+</doc>
+</add>

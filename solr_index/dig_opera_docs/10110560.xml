@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110560</field>
+<field name="genre">Operas</field>
+<field name="title">Die Würkung der Natur</field>
+<field name="titleSort">Würkung der Natur</field>
+<field name="composer">Joseph Friebert</field>
+<field name="composerSort">Friebert, Joseph</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Johann Baptist Schiffner</field>
+<field name="librettistSort">Schiffner, Johann Baptist</field>
+<field name="theater">Schloss Batthyány</field>
+<field name="city">Stadtschlaining</field>
+<field name="region">Burgenland</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Würkung+der+Natur+Joseph+Friebert&amp;search_field=search</field>
+</doc>
+</add>

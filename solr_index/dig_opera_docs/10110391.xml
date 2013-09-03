@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110391</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca da Rimini</field>
+<field name="titleSort">Francesca da Rimini</field>
+<field name="composer">Giovanni Franchini</field>
+<field name="composerSort">Franchini, Giovanni</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro de São
+Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Giovanni+Franchini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202556</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Maddalena</field>
+		<field name="titleSort">Maddalena</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Giuseppe Scalmani</field>
+		<field name="composerSort">Scalmani, Giuseppe</field>
+		<field name="librettist">Pietro Vagni</field>
+		<field name="librettistSort">Vagni, Pietro</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Maddalena+Giuseppe+Scalmani&amp;search_field=search</field>
+	</doc></add>

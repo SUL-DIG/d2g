@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110839</field>
+<field name="genre">Operas</field>
+<field name="title">Córdoba la sultana</field>
+<field name="titleSort">Córdoba la sultana</field>
+<field name="composer">Angel Galindo</field>
+<field name="composerSort">Galindo, Angel</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Marcos Rafael Blanco-Belmonte</field>
+<field name="librettistSort">Blanco-Belmonte, Marcos Rafael</field>
+
+<field name="city">Córdoba</field>
+<field name="region">Andalucia</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Córdoba+la+sultana+Angel+Galindo&amp;search_field=search</field>
+</doc>
+</add>

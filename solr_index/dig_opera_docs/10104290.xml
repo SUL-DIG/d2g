@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104290</field>
+<field name="genre">Operas</field>
+<field name="title">Lo sposo di tre e marito di nessuna</field>
+<field name="titleSort">sposo di tre e marito di nessuna</field>
+<field name="composer">Antonio Brunetti</field>
+<field name="composerSort">Brunetti, Antonio</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Filippo Livigni</field>
+<field name="librettistSort">Livigni, Filippo</field>
+<field name="theater">Teatro Formagliari</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+sposo+di+tre+e+marito+di+nessuna+Antonio+Brunetti&amp;search_field=search</field>
+</doc>
+</add>

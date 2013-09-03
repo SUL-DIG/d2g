@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124433</field>
+<field name="genre">Operas</field>
+<field name="title">Les faveurs du sommeil</field>
+<field name="titleSort">faveurs du sommeil</field>
+<field name="composer">__ Pizet</field>
+<field name="composerSort">Pizet, __</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">François Turben</field>
+<field name="librettistSort">Turben, François</field>
+
+<field name="city">Caen</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+faveurs+du+sommeil+__+Pizet&amp;search_field=search</field>
+</doc>
+</add>

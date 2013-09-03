@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204880</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Von der unerbittlichen Zufälligkeit des Todes</field>
+		<field name="titleSort">Von der unerbittlichen Zufälligkeit des Todes</field>
+		<field name="year">1995</field>
+		<field name="month">August</field>
+		<field name="day">26</field>
+		<field name="date">August 26, 1995</field>
+		<field name="composer">Ulrich Gasser</field>
+		<field name="composerSort">Gasser, Ulrich</field>
+		
+		
+		<field name="theater">Heiligkreuzmünster</field>
+		<field name="city">Schwäbisch-Gmünd</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Von+der+unerbittlichen+Zufälligkeit+des+Todes+Ulrich+Gasser&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112853</field>
+<field name="genre">Operas</field>
+<field name="title">Il pastor fido</field>
+<field name="titleSort">pastor fido</field>
+<field name="composer">Carlo Luigi Pietro Grua</field>
+<field name="composerSort">Grua, Carlo Luigi Pietro</field>
+<field name="year">1721</field>
+<field name="date">1721</field>
+<field name="librettist">Benedetto Pasqualigo</field>
+<field name="librettistSort">Pasqualigo, Benedetto</field>
+<field name="librettist">Giovanni Battista Guarini</field>
+<field name="librettistSort">Guarini, Giovanni Battista</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pastor+fido+Carlo+Luigi+Pietro+Grua&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105624</field>
+<field name="genre">Operas</field>
+<field name="title">Orphée</field>
+<field name="titleSort">Orphée</field>
+<field name="composer">Gabriel Charpentier</field>
+<field name="composerSort">Charpentier, Gabriel</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Gabriel Charpentier</field>
+<field name="librettistSort">Charpentier, Gabriel</field>
+<field name="theater">National Arts Centre</field>
+<field name="city">Ottawa</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orphée+Gabriel+Charpentier&amp;search_field=search</field>
+</doc>
+</add>

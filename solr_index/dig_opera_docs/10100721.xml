@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100721</field>
+<field name="genre">Operas</field>
+<field name="title">Saulle</field>
+<field name="titleSort">Saulle</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Francesco Saverio Salfi</field>
+<field name="librettistSort">Salfi, Francesco Saverio</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulle+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

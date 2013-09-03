@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125817</field>
+<field name="genre">Operas</field>
+<field name="title">Das süsse Mädel</field>
+<field name="titleSort">süsse Mädel</field>
+<field name="composer">Heinrich Reinhardt</field>
+<field name="composerSort">Reinhardt, Heinrich</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Alexander Landesberg</field>
+<field name="librettistSort">Landesberg, Alexander</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+süsse+Mädel+Heinrich+Reinhardt&amp;search_field=search</field>
+</doc>
+</add>

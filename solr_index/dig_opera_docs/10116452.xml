@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116452</field>
+<field name="genre">Operas</field>
+<field name="title">Yemel'yan Pugachyov</field>
+<field name="titleSort">Yemel'yan Pugachyov</field>
+<field name="composer">Marian Viktorovich Koval'</field>
+<field name="composerSort">Koval', Marian Viktorovich</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Vasily Kamensky</field>
+<field name="librettistSort">Kamensky, Vasily</field>
+<field name="theater">Teatr Operï i Baleta</field>
+<field name="city">Perm'</field>
+<field name="region">Perm' Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yemel'yan+Pugachyov+Marian+Viktorovich+Koval'&amp;search_field=search</field>
+</doc>
+</add>

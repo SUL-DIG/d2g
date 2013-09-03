@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120380</field>
+<field name="genre">Operas</field>
+<field name="title">L'armorique</field>
+<field name="titleSort">armorique</field>
+<field name="composer">Paul Mériel</field>
+<field name="composerSort">Mériel, Paul</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Paul Mériel</field>
+<field name="librettistSort">Mériel, Paul</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'armorique+Paul+Mériel&amp;search_field=search</field>
+</doc>
+</add>

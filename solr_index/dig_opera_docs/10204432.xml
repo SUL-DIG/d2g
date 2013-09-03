@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204432</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Svensk lagsaga</field>
+		<field name="titleSort">Svensk lagsaga</field>
+		<field name="year">1942</field>
+		<field name="month">February</field>
+		<field name="day">24</field>
+		<field name="date">February 24, 1942</field>
+		<field name="composer">Hilding Rosenberg</field>
+		<field name="composerSort">Rosenberg, Hilding</field>
+		
+		
+		<field name="theater">SR Radio (Sveriges Radio)</field>
+		<field name="city">Stockholm</field>
+		<field name="region">Stockholm</field>
+		<field name="country">Sweden</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svensk+lagsaga+Hilding+Rosenberg&amp;search_field=search</field>
+	</doc></add>

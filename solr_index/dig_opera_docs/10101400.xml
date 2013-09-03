@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101400</field>
+<field name="genre">Operas</field>
+<field name="title">Fête royale</field>
+<field name="titleSort">Fête royale</field>
+<field name="composer">Jacques Aubert</field>
+<field name="composerSort">Aubert, Jacques</field>
+<field name="year">1722</field>
+<field name="date">1722</field><field name="theater">Château de Chantilly</field>
+<field name="city">Chantilly</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fête+royale+Jacques+Aubert&amp;search_field=search</field>
+</doc>
+</add>

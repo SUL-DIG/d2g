@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133405</field>
+<field name="genre">Operas</field>
+<field name="title">Una notte a Firenze</field>
+<field name="titleSort">notte a Firenze</field>
+<field name="composer">Ladislao Zavertal</field>
+<field name="composerSort">Zavertal, Ladislao</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Stefano Interdonato</field>
+<field name="librettistSort">Interdonato, Stefano</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+notte+a+Firenze+Ladislao+Zavertal&amp;search_field=search</field>
+</doc>
+</add>

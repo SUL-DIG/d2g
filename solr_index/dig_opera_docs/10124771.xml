@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124771</field>
+<field name="genre">Operas</field>
+<field name="title">Don Desiderio</field>
+<field name="titleSort">Don Desiderio</field>
+<field name="composer">Giuseppe Poniatowski</field>
+<field name="composerSort">Poniatowski, Giuseppe</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Cassiano Zaccagnini</field>
+<field name="librettistSort">Zaccagnini, Cassiano</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Desiderio+Giuseppe+Poniatowski&amp;search_field=search</field>
+</doc>
+</add>

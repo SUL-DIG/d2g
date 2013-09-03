@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130733</field>
+<field name="genre">Operas</field>
+<field name="title">The Farmer and the Nymph</field>
+<field name="titleSort">Farmer and the Nymph</field>
+<field name="composer">Alexander Tcherepnin</field>
+<field name="composerSort">Tcherepnin, Alexander</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Giovanni Cardelli</field>
+<field name="librettistSort">Cardelli, Giovanni</field>
+<field name="librettist">Siao YulibrettistSortSiao YutheaterWheeler Opera House</field>
+<field name="city">Aspen</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Farmer+and+the+Nymph+Alexander+Tcherepnin&amp;search_field=search</field>
+</doc>
+</add>

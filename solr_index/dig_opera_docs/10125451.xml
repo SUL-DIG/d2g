@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125451</field>
+<field name="genre">Operas</field>
+<field name="title">Jungfer Potiphar</field>
+<field name="titleSort">Jungfer Potiphar</field>
+<field name="composer">Alfred Rahlwes</field>
+<field name="composerSort">Rahlwes, Alfred</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Wilhelm Hagen</field>
+<field name="librettistSort">Hagen, Wilhelm</field>
+<field name="librettist">Erna Dolenga von Zabiesky</field>
+<field name="librettistSort">Zabiesky, Erna Dolenga von</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Essen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jungfer+Potiphar+Alfred+Rahlwes&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105001</field>
+<field name="genre">Operas</field>
+<field name="title">Creusa</field>
+<field name="titleSort">Creusa</field>
+<field name="composer">Pietro Leone Cardena</field>
+<field name="composerSort">Cardena, Pietro Leone</field>
+<field name="year">1739</field>
+<field name="date">1739</field>
+<field name="librettist">Urbano Rizzi</field>
+<field name="librettistSort">Rizzi, Urbano</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Creusa+Pietro+Leone+Cardena&amp;search_field=search</field>
+</doc>
+</add>

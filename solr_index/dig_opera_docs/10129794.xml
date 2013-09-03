@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129794</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Triumf der Liebe, oder Das kühne Abentheuer</field>
+<field name="titleSort">"Triumf der Liebe, oder Das kühne Abentheuer"</field>
+<field name="composer">Carl David Stegmann</field>
+<field name="composerSort">Stegmann, Carl David</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Friedrich Ernst Jester</field>
+<field name="librettistSort">Jester, Friedrich Ernst</field>
+<field name="theater">Ackermannsches Komödienhaus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Triumf+der+Liebe,+oder+Das+kühne+Abentheuer+Carl+David+Stegmann&amp;search_field=search</field>
+</doc>
+</add>

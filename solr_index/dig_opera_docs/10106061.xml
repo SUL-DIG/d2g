@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106061</field>
+<field name="genre">Operas</field>
+<field name="title">Javelle-les-eaux</field>
+<field name="titleSort">Javelle-les-eaux</field>
+<field name="composer">Géo Clarett</field>
+<field name="composerSort">Clarett, Géo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">[Alfred Leblanc] Alfred Vercourt</field>
+<field name="librettistSort">Vercourt, Alfred [Alfred Leblanc]</field>
+<field name="librettist">Jean Bever</field>
+<field name="librettistSort">Bever, Jean</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Javelle-les-eaux+Géo+Clarett&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103258</field>
+<field name="genre">Operas</field>
+<field name="title">Samum</field>
+<field name="titleSort">Samum</field>
+<field name="composer">Frederick Block</field>
+<field name="composerSort">Block, Frederick</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Frederick Block</field>
+<field name="librettistSort">Block, Frederick</field>
+<field name="theater">Slovenské Narodné Divadlo</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samum+Frederick+Block&amp;search_field=search</field>
+</doc>
+</add>

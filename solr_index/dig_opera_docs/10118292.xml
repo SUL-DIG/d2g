@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118292</field>
+<field name="genre">Operas</field>
+<field name="title">Psyche</field>
+<field name="titleSort">Psyche</field>
+<field name="composer">Matthew Locke</field>
+<field name="composerSort">Locke, Matthew</field>
+<field name="year">1675</field>
+<field name="date">1675</field>
+<field name="librettist">Thomas Shadwell</field>
+<field name="librettistSort">Shadwell, Thomas</field>
+<field name="theater">"Duke's Theatre, Dorset Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Psyche+Matthew+Locke&amp;search_field=search</field>
+</doc>
+</add>

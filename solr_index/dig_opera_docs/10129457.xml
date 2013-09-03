@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129457</field>
+<field name="genre">Operas</field>
+<field name="title">The Nautch Girl</field>
+<field name="titleSort">Nautch Girl</field>
+<field name="composer">Edward Solomon</field>
+<field name="composerSort">Solomon, Edward</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Frank Desprez</field>
+<field name="librettistSort">Desprez, Frank</field>
+<field name="librettist">George Dance</field>
+<field name="librettistSort">Dance, George</field>
+<field name="theater">Savoy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Nautch+Girl+Edward+Solomon&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126848</field>
+<field name="genre">Operas</field>
+<field name="title">"Zuleima, oder Wien und Berlin</field>
+<field name="titleSort">"Zuleima, oder Wien und Berlin"</field>
+<field name="composer">Franz Roth</field>
+<field name="composerSort">Roth, Franz</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Gustav Schöppel</field>
+<field name="librettistSort">Schöppel, Gustav</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zuleima,+oder+Wien+und+Berlin+Franz+Roth&amp;search_field=search</field>
+</doc>
+</add>

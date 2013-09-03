@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125537</field>
+<field name="genre">Operas</field>
+<field name="title">La princesse de Navarre</field>
+<field name="titleSort">princesse de Navarre</field>
+<field name="composer">Jean-Philippe Rameau</field>
+<field name="composerSort">Rameau, Jean-Philippe</field>
+<field name="year">1745</field>
+<field name="date">1745</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Théâtre des Grandes Écuries</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+princesse+de+Navarre+Jean-Philippe+Rameau&amp;search_field=search</field>
+</doc>
+</add>

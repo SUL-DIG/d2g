@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103013</field>
+<field name="genre">Operas</field>
+<field name="title">In the Name of Culture</field>
+<field name="titleSort">In the Name of Culture</field>
+<field name="composer">Alberto Bimboni</field>
+<field name="composerSort">Bimboni, Alberto</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Norma Frizelle Stolzenbach</field>
+<field name="librettistSort">Stolzenbach, Norma Frizelle</field>
+<field name="theater">Eastman School of Music</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+the+Name+of+Culture+Alberto+Bimboni&amp;search_field=search</field>
+</doc>
+</add>

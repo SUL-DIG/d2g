@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119603</field>
+<field name="genre">Operas</field>
+<field name="title">Il giornale degli Analfabeti</field>
+<field name="titleSort">giornale degli Analfabeti</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Ulisse Barbieri</field>
+<field name="librettistSort">Barbieri, Ulisse</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giornale+degli+Analfabeti+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

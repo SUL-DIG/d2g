@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108336</field>
+<field name="genre">Operas</field>
+<field name="title">O morgado de Freches</field>
+<field name="titleSort">morgado de Freches</field>
+<field name="composer">Filippe Duarte</field>
+<field name="composerSort">Duarte, Filippe</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">António Correia</field>
+<field name="librettistSort">Correia, António</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+morgado+de+Freches+Filippe+Duarte&amp;search_field=search</field>
+</doc>
+</add>

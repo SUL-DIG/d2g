@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107502</field>
+<field name="genre">Operas</field>
+<field name="title">The Audience</field>
+<field name="titleSort">Audience</field>
+<field name="composer">Royce Dembo</field>
+<field name="composerSort">Dembo, Royce</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Glenn Miller</field>
+<field name="librettistSort">Miller, Glenn</field>
+<field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Audience+Royce+Dembo&amp;search_field=search</field>
+</doc>
+</add>

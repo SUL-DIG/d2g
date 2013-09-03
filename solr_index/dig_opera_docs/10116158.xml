@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116158</field>
+<field name="genre">Operas</field>
+<field name="title">Durchs Fenster</field>
+<field name="titleSort">Durchs Fenster</field>
+<field name="composer">Iwan Knorr</field>
+<field name="composerSort">Knorr, Iwan</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Iwan Knorr</field>
+<field name="librettistSort">Knorr, Iwan</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Durchs+Fenster+Iwan+Knorr&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120955</field>
+<field name="genre">Operas</field>
+<field name="title">Il mistero</field>
+<field name="titleSort">mistero</field>
+<field name="composer">Domenico Monleone</field>
+<field name="composerSort">Monleone, Domenico</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Giovanni Monleone</field>
+<field name="librettistSort">Monleone, Giovanni</field>
+<field name="librettist">Giovanni Verga</field>
+<field name="librettistSort">Verga, Giovanni</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mistero+Domenico+Monleone&amp;search_field=search</field>
+</doc>
+</add>

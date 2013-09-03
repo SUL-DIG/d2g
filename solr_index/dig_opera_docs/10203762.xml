@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203762</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">St. John the Baptist</field>
+		<field name="titleSort">St. John the Baptist</field>
+		<field name="year">1867</field>
+		<field name="month">November</field>
+		<field name="day">12</field>
+		<field name="date">November 12, 1867</field>
+		<field name="composer">William Taylor</field>
+		<field name="composerSort">Taylor, William</field>
+		
+		
+		<field name="theater">Kidderminster Philharmonic Society</field>
+		<field name="city">Kidderminster</field>
+		<field name="region">Worcestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint John the Baptist</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">June 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+John+the+Baptist+William+Taylor&amp;search_field=search</field>
+	</doc></add>

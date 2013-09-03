@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132473</field>
+<field name="genre">Operas</field>
+<field name="title">Andreas Wolfius</field>
+<field name="titleSort">Andreas Wolfius</field>
+<field name="composer">[Walter Schmidt] Fried Walter</field>
+<field name="composerSort">Walter, [Walter Schmidt] Fried</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Christoph Schulz-Gellen</field>
+<field name="librettistSort">Schulz-Gellen, Christoph</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andreas+Wolfius+Walter+Schmidt]+Fried+Walter&amp;search_field=search</field>
+</doc>
+</add>

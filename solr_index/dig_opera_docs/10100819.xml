@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100819</field>
+<field name="genre">Operas</field>
+<field name="title">Hadrian z Rimsu</field>
+<field name="titleSort">Hadrian z Rimsu</field>
+<field name="composer">Moritz Anger</field>
+<field name="composerSort">Anger, Moritz</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Václav Kliment Klicpera</field>
+<field name="librettistSort">Klicpera, Václav Kliment</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hadrian+z+Rimsu+Moritz+Anger&amp;search_field=search</field>
+</doc>
+</add>

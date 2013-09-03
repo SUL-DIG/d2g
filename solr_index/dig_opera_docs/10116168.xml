@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116168</field>
+<field name="genre">Operas</field>
+<field name="title">"Igra pro Maksa-Yemel'yana, Alyonu i Ivana</field>
+<field name="titleSort">"Igra pro Maksa-Yemel'yana, Alyonu i Ivana"</field>
+<field name="composer">Vladimir Aleksandrovich Kobekin</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Vladimir Aleksandrovich Kobekin</field>
+<field name="librettistSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="librettist">Semyon Isaakovich Kirsanov</field>
+<field name="librettistSort">Kirsanov, Semyon Isaakovich</field>
+<field name="theater">Kamennïy Opernïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Igra+pro+Maksa-Yemel'yana,+Alyonu+i+Ivana+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109485</field>
+<field name="genre">Operas</field>
+<field name="title">The Postman's Tale</field>
+<field name="titleSort">Postman's Tale</field>
+<field name="composer">Jindrich Feld</field>
+<field name="composerSort">Feld, Jindrich</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Divadlo Josefa Kajetána Tyl</field>
+<field name="city">Plzen</field>
+<field name="region">Západocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Postman's+Tale+Jindrich+Feld&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119514</field>
+<field name="genre">Operas</field>
+<field name="title">Le droit du seigneur</field>
+<field name="titleSort">droit du seigneur</field>
+<field name="composer">Johann Paul Aegidius Martini</field>
+<field name="composerSort">Martini, Johann Paul Aegidius</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">[François-Guillaume Fouques-Deshays] Desfontaines</field>
+<field name="librettistSort">Desfontaines, [François-Guillaume Fouques-Deshays]</field>
+<field name="librettist">[Paul-Antoine Nolivos Saint-Cyr] Paul-Antoine Laval</field>
+<field name="librettistSort">Laval, Paul-Antoine [Paul-Antoine Nolivos Saint-Cyr]</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+droit+du+seigneur+Johann+Paul+Aegidius+Martini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118247</field>
+<field name="genre">Operas</field>
+<field name="title">Il viandante</field>
+<field name="titleSort">viandante</field>
+<field name="composer">Giulio Litta</field>
+<field name="composerSort">Litta, Giulio</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="theater">Teatro Milanese</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+viandante+Giulio+Litta&amp;search_field=search</field>
+</doc>
+</add>

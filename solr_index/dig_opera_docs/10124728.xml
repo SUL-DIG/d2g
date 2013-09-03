@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124728</field>
+<field name="genre">Operas</field>
+<field name="title">Venceslao</field>
+<field name="titleSort">Venceslao</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venceslao+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

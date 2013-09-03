@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105902</field>
+<field name="genre">Operas</field>
+<field name="title">Fiamma</field>
+<field name="titleSort">Fiamma</field>
+<field name="composer">Vincenzo Cicognagni</field>
+<field name="composerSort">Cicognagni, Vincenzo</field>
+<field name="year">1892</field>
+<field name="date">1892</field><field name="theater">Politeama Argentino</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiamma+Vincenzo+Cicognagni&amp;search_field=search</field>
+</doc>
+</add>

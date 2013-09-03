@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106981</field>
+<field name="genre">Operas</field>
+<field name="title">Bialowlosa (The Girl with the Flaxen Hair)</field>
+<field name="titleSort">Bialowlosa (The Girl with the Flaxen Hair)</field>
+<field name="composer">Henryk Czyz</field>
+<field name="composerSort">Czyz, Henryk</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Henryk Czyz</field>
+<field name="librettistSort">Czyz, Henryk</field>
+<field name="librettist">Danuta Baduszkowa</field>
+<field name="librettistSort">Baduszkowa, Danuta</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bialowlosa+The+Girl+with+the+Flaxen+Hair+Henryk+Czyz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132028</field>
+<field name="genre">Operas</field>
+<field name="title">"Alina, ossia Il matrimonio di una cantante</field>
+<field name="titleSort">"Alina, ossia Il matrimonio di una cantante"</field>
+<field name="composer">Angelo Villanis</field>
+<field name="composerSort">Villanis, Angelo</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Giorgio Giacchetti</field>
+<field name="librettistSort">Giacchetti, Giorgio</field>
+<field name="theater">Teatro Nazionale</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alina,+ossia+Il+matrimonio+di+una+cantante+Angelo+Villanis&amp;search_field=search</field>
+</doc>
+</add>

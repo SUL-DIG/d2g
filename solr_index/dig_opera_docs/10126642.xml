@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126642</field>
+<field name="genre">Operas</field>
+<field name="title">Sauvez ma femme</field>
+<field name="titleSort">Sauvez ma femme</field>
+<field name="composer">Georges Rose</field>
+<field name="composerSort">Rose, Georges</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">__ Helin</field>
+<field name="librettistSort">Helin, __</field>
+<field name="theater">Théâtre des Bouffes-du-Nord</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sauvez+ma+femme+Georges+Rose&amp;search_field=search</field>
+</doc>
+</add>

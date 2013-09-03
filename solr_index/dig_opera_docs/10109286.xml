@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109286</field>
+<field name="genre">Operas</field>
+<field name="title">Chi la dura la vince</field>
+<field name="titleSort">Chi la dura la vince</field>
+<field name="composer">Giuseppe Farinelli</field>
+<field name="composerSort">Farinelli, Giuseppe</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+la+dura+la+vince+Giuseppe+Farinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114613</field>
+<field name="genre">Operas</field>
+<field name="title">The Man from Tuscany</field>
+<field name="titleSort">Man from Tuscany</field>
+<field name="composer">Antony Hopkins</field>
+<field name="composerSort">Hopkins, Antony</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Christopher Hassall</field>
+<field name="librettistSort">Hassall, Christopher</field>
+<field name="theater">Chapter House</field>
+<field name="city">Canterbury</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Man+from+Tuscany+Antony+Hopkins&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128203</field>
+<field name="genre">Operas</field>
+<field name="title">Hänsel und Gretel</field>
+<field name="titleSort">Hänsel und Gretel</field>
+<field name="composer">Edgar Schick</field>
+<field name="composerSort">Schick, Edgar</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Sascha Baumgarten</field>
+<field name="librettistSort">Baumgarten, Sascha</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Görlitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hänsel+und+Gretel+Edgar+Schick&amp;search_field=search</field>
+</doc>
+</add>

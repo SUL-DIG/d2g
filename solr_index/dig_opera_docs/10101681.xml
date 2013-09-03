@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101681</field>
+<field name="genre">Operas</field>
+<field name="title">La sorciera di Benevento</field>
+<field name="titleSort">sorciera di Benevento</field>
+<field name="composer">Giuseppe Balducci</field>
+<field name="composerSort">Balducci, Giuseppe</field>
+<field name="year">1837</field>
+<field name="date">1837</field><field name="theater">Private Performance</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sorciera+di+Benevento+Giuseppe+Balducci&amp;search_field=search</field>
+</doc>
+</add>

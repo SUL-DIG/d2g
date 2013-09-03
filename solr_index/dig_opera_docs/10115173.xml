@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115173</field>
+<field name="genre">Operas</field>
+<field name="title">"Le bonhomme Jadis, ou Onkel Dazumal</field>
+<field name="titleSort">"bonhomme Jadis, ou Onkel Dazumal"</field>
+<field name="composer">Émile Jaques-Dalcroze</field>
+<field name="composerSort">Jaques-Dalcroze, Émile</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Maurice Étienne Legrand] Franc-Nohain</field>
+<field name="librettistSort">Franc-Nohain, [Maurice Étienne Legrand]</field>
+<field name="librettist">Henri Murger</field>
+<field name="librettistSort">Murger, Henri</field>
+<field name="theater">Neues Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bonhomme+Jadis,+ou+Onkel+Dazumal+Émile+Jaques-Dalcroze&amp;search_field=search</field>
+</doc>
+</add>

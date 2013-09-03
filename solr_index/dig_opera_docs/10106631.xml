@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106631</field>
+<field name="genre">Operas</field>
+<field name="title">The Telling of the North Star</field>
+<field name="titleSort">Telling of the North Star</field>
+<field name="composer">John Corina</field>
+<field name="composerSort">Corina, John</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Vincent Ferinni</field>
+<field name="librettistSort">Ferinni, Vincent</field>
+<field name="theater">University of Georgia</field>
+<field name="city">Athens</field>
+<field name="region">Georgia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Telling+of+the+North+Star+John+Corina&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113499</field>
+<field name="genre">Operas</field>
+<field name="title">Il pastor fido</field>
+<field name="titleSort">pastor fido</field>
+<field name="composer">George Frideric Handel</field>
+<field name="composerSort">Handel, George Frideric</field>
+<field name="year">1712</field>
+<field name="date">1712</field>
+<field name="librettist">Giacomo Rossi</field>
+<field name="librettistSort">Rossi, Giacomo</field>
+<field name="librettist">Giovanni Battista Guarini</field>
+<field name="librettistSort">Guarini, Giovanni Battista</field>
+<field name="theater">"Queen's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pastor+fido+George+Frideric+Handel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115413</field>
+<field name="genre">Operas</field>
+<field name="title">San Toy</field>
+<field name="titleSort">San Toy</field>
+<field name="composer">Sidney Jones</field>
+<field name="composerSort">Jones, Sidney</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Edward Morton</field>
+<field name="librettistSort">Morton, Edward</field>
+<field name="librettist">Harry Greenbank</field>
+<field name="librettistSort">Greenbank, Harry</field>
+<field name="theater">Daly's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Toy+Sidney+Jones&amp;search_field=search</field>
+</doc>
+</add>

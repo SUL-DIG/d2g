@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112792</field>
+<field name="genre">Operas</field>
+<field name="title">La chatte merveilleuse</field>
+<field name="titleSort">chatte merveilleuse</field>
+<field name="composer">Albert Grisar</field>
+<field name="composerSort">Grisar, Albert</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="librettist">[Philippe-François Pinel] Dumanoir</field>
+<field name="librettistSort">Dumanoir, [Philippe-François Pinel]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chatte+merveilleuse+Albert+Grisar&amp;search_field=search</field>
+</doc>
+</add>

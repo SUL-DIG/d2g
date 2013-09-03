@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110511</field>
+<field name="genre">Operas</field>
+<field name="title">Giulio Cesare trionfante</field>
+<field name="titleSort">Giulio Cesare trionfante</field>
+<field name="composer">Domenico Freschi</field>
+<field name="composerSort">Freschi, Domenico</field>
+<field name="year">1682</field>
+<field name="date">1682</field>
+<field name="librettist">Luigi Orlandi</field>
+<field name="librettistSort">Orlandi, Luigi</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulio+Cesare+trionfante+Domenico+Freschi&amp;search_field=search</field>
+</doc>
+</add>

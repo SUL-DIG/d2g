@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114737</field>
+<field name="genre">Operas</field>
+<field name="title">Vij</field>
+<field name="titleSort">Vij</field>
+<field name="composer">Vitaly Serhiyovych Hubarenko</field>
+<field name="composerSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Maryna Cherkashyna-Hubarenko</field>
+<field name="librettistSort">Cherkashyna-Hubarenko, Maryna</field>
+<field name="librettist">L. Mykhaylovna</field>
+<field name="librettistSort">Mykhaylovna, L.</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vij+Vitaly+Serhiyovych+Hubarenko&amp;search_field=search</field>
+</doc>
+</add>

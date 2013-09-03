@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111867</field>
+<field name="genre">Operas</field>
+<field name="title">Mariage Princier</field>
+<field name="titleSort">Mariage Princier</field>
+<field name="composer">Ernest Gillet</field>
+<field name="composerSort">Gillet, Ernest</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mariage+Princier+Ernest+Gillet&amp;search_field=search</field>
+</doc>
+</add>

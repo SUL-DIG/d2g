@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101783</field>
+<field name="genre">Operas</field>
+<field name="title">Iglesias</field>
+<field name="titleSort">Iglesias</field>
+<field name="composer">Vittorio Baravalle</field>
+<field name="composerSort">Baravalle, Vittorio</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iglesias+Vittorio+Baravalle&amp;search_field=search</field>
+</doc>
+</add>

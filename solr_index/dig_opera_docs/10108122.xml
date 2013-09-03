@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108122</field>
+<field name="genre">Operas</field>
+<field name="title">Many Moons</field>
+<field name="titleSort">Many Moons</field>
+<field name="composer">Celius Dougherty</field>
+<field name="composerSort">Dougherty, Celius</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Celius Dougherty</field>
+<field name="librettistSort">Dougherty, Celius</field>
+<field name="librettist">James Thurber</field>
+<field name="librettistSort">Thurber, James</field>
+<field name="theater">Vassar College</field>
+<field name="city">Poughkeepsie</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Many+Moons+Celius+Dougherty&amp;search_field=search</field>
+</doc>
+</add>

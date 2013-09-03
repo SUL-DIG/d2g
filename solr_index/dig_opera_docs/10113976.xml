@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113976</field>
+<field name="genre">Operas</field>
+<field name="title">Viel Lärm um Nichts</field>
+<field name="titleSort">Viel Lärm um Nichts</field>
+<field name="composer">Hermann Henrich</field>
+<field name="composerSort">Henrich, Hermann</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Hermann Henrich</field>
+<field name="librettistSort">Henrich, Hermann</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Schauspielhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viel+Lärm+um+Nichts+Hermann+Henrich&amp;search_field=search</field>
+</doc>
+</add>

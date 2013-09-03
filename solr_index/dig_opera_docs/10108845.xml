@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108845</field>
+<field name="genre">Operas</field>
+<field name="title">"Nurzahad, czyli Niesmiertelnosc i bogactwa</field>
+<field name="titleSort">"Nurzahad, czyli Niesmiertelnosc i bogactwa"</field>
+<field name="composer">Józef Elsner</field>
+<field name="composerSort">Elsner, Józef</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Jakób Adamczewski</field>
+<field name="librettistSort">Adamczewski, Jakób</field>
+<field name="librettist">Louis-Charles Caigniez</field>
+<field name="librettistSort">Caigniez, Louis-Charles</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nurzahad,+czyli+Niesmiertelnosc+i+bogactwa+Józef+Elsner&amp;search_field=search</field>
+</doc>
+</add>

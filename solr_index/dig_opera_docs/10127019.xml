@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127019</field>
+<field name="genre">Operas</field>
+<field name="title">Orio Soranzo</field>
+<field name="titleSort">Orio Soranzo</field>
+<field name="composer">Gustave Raphael Ruiz</field>
+<field name="composerSort">Ruiz, Gustave Raphael</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Giorgio Tommaso Cimino</field>
+<field name="librettistSort">Cimino, Giorgio Tommaso</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orio+Soranzo+Gustave+Raphael+Ruiz&amp;search_field=search</field>
+</doc>
+</add>

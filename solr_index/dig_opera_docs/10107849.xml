@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107849</field>
+<field name="genre">Operas</field>
+<field name="title">Lo sposo burlato</field>
+<field name="titleSort">sposo burlato</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+
+
+<field name="librettist">Carl Ditters von Dittersdorf</field>
+<field name="librettistSort">Dittersdorf, Carl Ditters von</field>
+<field name="theater">Jánsky Vrch</field>
+<field name="city">Javorník</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+sposo+burlato+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

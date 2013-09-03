@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126528</field>
+<field name="genre">Operas</field>
+<field name="title">Carlo Magno</field>
+<field name="titleSort">Carlo Magno</field>
+<field name="composer">Pietro Romani</field>
+<field name="composerSort">Romani, Pietro</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carlo+Magno+Pietro+Romani&amp;search_field=search</field>
+</doc>
+</add>

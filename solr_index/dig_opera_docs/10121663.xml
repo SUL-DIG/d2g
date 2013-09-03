@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121663</field>
+<field name="genre">Operas</field>
+<field name="title">Marko the Miser</field>
+<field name="titleSort">Marko the Miser</field>
+<field name="composer">Thea Musgrave</field>
+<field name="composerSort">Musgrave, Thea</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Thea Musgrave</field>
+<field name="librettistSort">Musgrave, Thea</field>
+<field name="librettist">Frederic Samson</field>
+<field name="librettistSort">Samson, Frederic</field>
+<field name="theater">Parish Church</field>
+<field name="city">Farnham</field>
+<field name="region">Surrey</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marko+the+Miser+Thea+Musgrave&amp;search_field=search</field>
+</doc>
+</add>

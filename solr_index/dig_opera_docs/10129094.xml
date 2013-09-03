@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129094</field>
+<field name="genre">Operas</field>
+<field name="title">Darling Corie</field>
+<field name="titleSort">Darling Corie</field>
+<field name="composer">Elie Siegmeister</field>
+<field name="composerSort">Siegmeister, Elie</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">[Abel Meeropol] Lewis Allan</field>
+<field name="librettistSort">Allan, Lewis [Abel Meeropol]</field>
+<field name="theater">Hofstra University</field>
+<field name="city">Hempstead</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Darling+Corie+Elie+Siegmeister&amp;search_field=search</field>
+</doc>
+</add>

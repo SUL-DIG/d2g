@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101509</field>
+<field name="genre">Operas</field>
+<field name="title">The Strike</field>
+<field name="titleSort">Strike</field>
+<field name="composer">Josephine Crew Aylwin</field>
+<field name="composerSort">Aylwin, Josephine Crew</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Marion Cummings</field>
+<field name="librettistSort">Cummings, Marion</field>
+<field name="theater">Musical Club</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Strike+Josephine+Crew+Aylwin&amp;search_field=search</field>
+</doc>
+</add>

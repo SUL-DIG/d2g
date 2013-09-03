@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200859</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Davidde</field>
+		<field name="titleSort">Davidde</field>
+		<field name="year">1791</field>
+		
+		
+		<field name="date">1791</field>
+		<field name="composer">Bernardo Bittoni</field>
+		<field name="composerSort">Bittoni, Bernardo</field>
+		
+		
+		
+		<field name="city">Fabriano</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Davidde+Bernardo+Bittoni&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113606</field>
+<field name="genre">Operas</field>
+<field name="title">Malvolio</field>
+<field name="titleSort">Malvolio</field>
+<field name="composer">Fritz Hart</field>
+<field name="composerSort">Hart, Fritz</field>
+<field name="year">1919</field>
+<field name="date">1919</field><field name="theater">Playhouse</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malvolio+Fritz+Hart&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114110</field>
+<field name="genre">Operas</field>
+<field name="title">La gioventù di Enrico V</field>
+<field name="titleSort">gioventù di Enrico V</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Ferdinand Hérold</field>
+<field name="librettistSort">Hérold, Ferdinand</field>
+<field name="librettist">[Alexandre Vincent Pineux-Duval] Alexandre Duval</field>
+<field name="librettistSort">Duval, Alexandre [Alexandre Vincent Pineux-Duval]</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gioventù+di+Enrico+V+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

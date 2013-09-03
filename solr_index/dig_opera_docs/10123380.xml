@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123380</field>
+<field name="genre">Operas</field>
+<field name="title">Svad'ba Krechinskogo (The Krechinsky Wedding)</field>
+<field name="titleSort">Svad'ba Krechinskogo (The Krechinsky Wedding)</field>
+<field name="composer">Andrey Filippovich Pashchenko</field>
+<field name="composerSort">Pashchenko, Andrey Filippovich</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Sergey Dmitryevich Spassky</field>
+<field name="librettistSort">Spassky, Sergey Dmitryevich</field>
+<field name="librettist">Aleksandr Vasileyevich Sukhovo-Kobïlin</field>
+<field name="librettistSort">Sukhovo-Kobïlin, Aleksandr Vasileyevich</field>
+<field name="theater">Malïy Opernïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svad'ba+Krechinskogo+The+Krechinsky+Wedding+Andrey+Filippovich+Pashchenko&amp;search_field=search</field>
+</doc>
+</add>

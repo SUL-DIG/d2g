@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115751</field>
+<field name="genre">Operas</field>
+<field name="title">Volksoper</field>
+<field name="titleSort">Volksoper</field>
+<field name="composer">Dieter Kaufmann</field>
+<field name="composerSort">Kaufmann, Dieter</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Dieter Kaufmann</field>
+<field name="librettistSort">Kaufmann, Dieter</field>
+<field name="librettist">Gert Jonke</field>
+<field name="librettistSort">Jonke, Gert</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volksoper+Dieter+Kaufmann&amp;search_field=search</field>
+</doc>
+</add>

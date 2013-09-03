@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131808</field>
+<field name="genre">Operas</field>
+<field name="title">Lyubov' d'Artanyana (D'Artagnan in Love)</field>
+<field name="titleSort">Lyubov' d'Artanyana (D'Artagnan in Love)</field>
+<field name="composer">Moisey Samuilovich Vaynberg</field>
+<field name="composerSort">Vaynberg, Moisey Samuilovich</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Yevgenia L'vovna Gal'perina</field>
+<field name="librettistSort">Gal'perina, Yevgenia L'vovna</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lyubov'+d'Artanyana+D'Artagnan+in+Love+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
+</doc>
+</add>

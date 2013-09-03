@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119702</field>
+<field name="genre">Operas</field>
+<field name="title">La grand'tante</field>
+<field name="titleSort">grand'tante</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Jules Adénis</field>
+<field name="librettistSort">Adénis, Jules</field>
+<field name="librettist">Charles Grandvallet</field>
+<field name="librettistSort">Grandvallet, Charles</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grand'tante+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123293</field>
+<field name="genre">Operas</field>
+<field name="title">"Urh, grof celjski (Ulrich, Count of Cilli)</field>
+<field name="titleSort">"Urh, grof celjski (Ulrich, Count of Cilli)"</field>
+<field name="composer">Viktor Parma</field>
+<field name="composerSort">Parma, Viktor</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Anton Funtek</field>
+<field name="librettistSort">Funtek, Anton</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urh,+grof+celjski+Ulrich,+Count+of+Cilli+Viktor+Parma&amp;search_field=search</field>
+</doc>
+</add>

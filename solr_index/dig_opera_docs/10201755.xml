@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201755</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Good Shepherd</field>
+		<field name="titleSort">Good Shepherd</field>
+		<field name="year">1886</field>
+		
+		
+		<field name="date">1886</field>
+		<field name="composer">William Smyth Rockstro</field>
+		<field name="composerSort">Rockstro, William Smyth</field>
+		
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Gloucester</field>
+		<field name="region">Gloucestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Parable of the Good Shepherd</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Good+Shepherd+William+Smyth+Rockstro&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102521</field>
+<field name="genre">Operas</field>
+<field name="title">L'Ermione</field>
+<field name="titleSort">Ermione</field>
+<field name="composer">Giuseppe Antonio Bernabei</field>
+<field name="composerSort">Bernabei, Giuseppe Antonio</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Ventura Terzago</field>
+<field name="librettistSort">Terzago, Ventura</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Ermione+Giuseppe+Antonio+Bernabei&amp;search_field=search</field>
+</doc>
+</add>

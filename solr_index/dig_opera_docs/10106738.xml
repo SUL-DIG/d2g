@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106738</field>
+<field name="genre">Operas</field>
+<field name="title">Ariodante</field>
+<field name="titleSort">Ariodante</field>
+<field name="composer">Geronimo Maria Costa</field>
+<field name="composerSort">Costa, Geronimo Maria</field>
+<field name="year">1655</field>
+<field name="date">1655</field>
+<field name="librettist">[Giovanni Aleandro Pisani] Gian Andrea Spinola</field>
+<field name="librettistSort">Spinola, Gian Andrea [Giovanni Aleandro Pisani]</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro del Falcone</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariodante+Geronimo+Maria+Costa&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119558</field>
+<field name="genre">Operas</field>
+<field name="title">La ressucité</field>
+<field name="titleSort">ressucité</field>
+<field name="composer">Paul Martyns</field>
+<field name="composerSort">Martyns, Paul</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Paul Martyns</field>
+<field name="librettistSort">Martyns, Paul</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ressucité+Paul+Martyns&amp;search_field=search</field>
+</doc>
+</add>

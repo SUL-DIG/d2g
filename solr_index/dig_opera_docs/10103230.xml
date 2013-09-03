@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103230</field>
+<field name="genre">Operas</field>
+<field name="title">Rory O'More</field>
+<field name="titleSort">Rory O'More</field>
+<field name="composer">Jonathan Blewitt</field>
+<field name="composerSort">Blewitt, Jonathan</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Samuel Lover</field>
+<field name="librettistSort">Lover, Samuel</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rory+O'More+Jonathan+Blewitt&amp;search_field=search</field>
+</doc>
+</add>

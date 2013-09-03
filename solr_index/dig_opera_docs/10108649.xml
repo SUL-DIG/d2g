@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108649</field>
+<field name="genre">Operas</field>
+<field name="title">Die Braut des Flibustiers</field>
+<field name="titleSort">Braut des Flibustiers</field>
+<field name="composer">Karl Gustav Ebell</field>
+<field name="composerSort">Ebell, Karl Gustav</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Otto Prechtler</field>
+<field name="librettistSort">Prechtler, Otto</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Braut+des+Flibustiers+Karl+Gustav+Ebell&amp;search_field=search</field>
+</doc>
+</add>

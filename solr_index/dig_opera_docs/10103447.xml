@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103447</field>
+<field name="genre">Operas</field>
+<field name="title">Drei Rendezvous</field>
+<field name="titleSort">Drei Rendezvous</field>
+<field name="composer">József Bokor</field>
+<field name="composerSort">Bokor, József</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+Rendezvous+József+Bokor&amp;search_field=search</field>
+</doc>
+</add>

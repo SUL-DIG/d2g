@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107204</field>
+<field name="genre">Operas</field>
+<field name="title">Tu l'as voulu</field>
+<field name="titleSort">Tu l'as voulu</field>
+<field name="composer">Samuel David</field>
+<field name="composerSort">David, Samuel</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Émile Abraham</field>
+<field name="librettistSort">Abraham, Émile</field>
+<field name="librettist">Jules Prével</field>
+<field name="librettistSort">Prével, Jules</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tu+l'as+voulu+Samuel+David&amp;search_field=search</field>
+</doc>
+</add>

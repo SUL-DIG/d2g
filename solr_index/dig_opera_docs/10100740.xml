@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100740</field>
+<field name="genre">Operas</field>
+<field name="title">Don Ambrogio</field>
+<field name="titleSort">Don Ambrogio</field>
+<field name="composer">Cesare Androet</field>
+<field name="composerSort">Androet, Cesare</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="city">Bibbiena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Ambrogio+Cesare+Androet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121153</field>
+<field name="genre">Operas</field>
+<field name="title">Il mercato di Malmantile</field>
+<field name="titleSort">mercato di Malmantile</field>
+<field name="composer">Oreste Morandi</field>
+<field name="composerSort">Morandi, Oreste</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Vittorio Lorenzi</field>
+<field name="librettistSort">Lorenzi, Vittorio</field>
+
+<field name="city">Senigallia</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mercato+di+Malmantile+Oreste+Morandi&amp;search_field=search</field>
+</doc>
+</add>

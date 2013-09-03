@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100253</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spiegelritter</field>
+<field name="titleSort">Spiegelritter</field>
+<field name="composer">Carl Christian Agthe</field>
+<field name="composerSort">Agthe, Carl Christian</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Ballenstedt</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spiegelritter+Carl+Christian+Agthe&amp;search_field=search</field>
+</doc>
+</add>

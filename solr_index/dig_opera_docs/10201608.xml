@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201608</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giobbe</field>
+		<field name="titleSort">Giobbe</field>
+		<field name="year">1688</field>
+		
+		
+		<field name="date">1688</field>
+		<field name="composer">Pirro Albergati</field>
+		<field name="composerSort">Albergati, Pirro</field>
+		<field name="librettist">Giovanni Battista Neri</field>
+		<field name="librettistSort">Neri, Giovanni Battista</field>
+		
+		<field name="theater">Oratorio Filippino della Madonna di Galliera</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Job</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giobbe+Pirro+Albergati&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131466</field>
+<field name="genre">Operas</field>
+<field name="title">Pinocchio</field>
+<field name="titleSort">Pinocchio</field>
+<field name="composer">Marco Tutino</field>
+<field name="composerSort">Tutino, Marco</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Linda Brunetta</field>
+<field name="librettistSort">Brunetta, Linda</field>
+<field name="librettist">[Carlo Lorenzini] Carlo Collodi</field>
+<field name="librettistSort">Collodi, Carlo [Carlo Lorenzini]</field>
+<field name="theater">Teatro Margherita</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pinocchio+Marco+Tutino&amp;search_field=search</field>
+</doc>
+</add>

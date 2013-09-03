@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124652</field>
+<field name="genre">Operas</field>
+<field name="title">Almansore in Alimena</field>
+<field name="titleSort">Almansore in Alimena</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1696</field>
+<field name="date">1696</field>
+<field name="librettist">Giovanni Matteo Gianini</field>
+<field name="librettistSort">Gianini, Giovanni Matteo</field>
+
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almansore+in+Alimena+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

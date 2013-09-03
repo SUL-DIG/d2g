@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118387</field>
+<field name="genre">Operas</field>
+<field name="title">La vergine del Antella</field>
+<field name="titleSort">vergine del Antella</field>
+<field name="composer">Costantino Lombardo</field>
+<field name="composerSort">Lombardo, Costantino</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Angelo Maria Tirabassi</field>
+<field name="librettistSort">Tirabassi, Angelo Maria</field>
+<field name="theater">Teatro Quirino</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vergine+del+Antella+Costantino+Lombardo&amp;search_field=search</field>
+</doc>
+</add>

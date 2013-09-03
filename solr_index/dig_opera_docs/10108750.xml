@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108750</field>
+<field name="genre">Operas</field>
+<field name="title">"Vampuka, ili Nevesta afrikanskaya</field>
+<field name="titleSort">"Vampuka, ili Nevesta afrikanskaya"</field>
+<field name="composer">Vladimir Georgiyevich Ehrenberg</field>
+<field name="composerSort">Ehrenberg, Vladimir Georgiyevich</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Vladimir Georgiyevich Ehrenberg</field>
+<field name="librettistSort">Ehrenberg, Vladimir Georgiyevich</field>
+<field name="librettist">[Mikhail Volkonsky] Anchar Mantsenilov</field>
+<field name="librettistSort">Mantsenilov, Anchar [Mikhail Volkonsky]</field>
+<field name="theater">Krivoye Zerkalo</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vampuka,+ili+Nevesta+afrikanskaya+Vladimir+Georgiyevich+Ehrenberg&amp;search_field=search</field>
+</doc>
+</add>

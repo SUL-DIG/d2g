@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105213</field>
+<field name="genre">Operas</field>
+<field name="title">Il Bajazette</field>
+<field name="titleSort">Bajazette</field>
+<field name="composer">Giovanni Battista Casali</field>
+<field name="composerSort">Casali, Giovanni Battista</field>
+<field name="year">1741</field>
+<field name="date">1741</field>
+<field name="librettist">Agostin Piovene</field>
+<field name="librettistSort">Piovene, Agostin</field>
+<field name="librettist">Jacques Pradon</field>
+<field name="librettistSort">Pradon, Jacques</field>
+
+<field name="city">Rimini</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Bajazette+Giovanni+Battista+Casali&amp;search_field=search</field>
+</doc>
+</add>

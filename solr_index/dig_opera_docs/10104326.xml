@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104326</field>
+<field name="genre">Operas</field>
+<field name="title">Secondatto</field>
+<field name="titleSort">Secondatto</field>
+<field name="composer">Alberto Bruni-Tedeschi</field>
+<field name="composerSort">Bruni-Tedeschi, Alberto</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Alberto Bruni-Tedeschi</field>
+<field name="librettistSort">Bruni-Tedeschi, Alberto</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Secondatto+Alberto+Bruni-Tedeschi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202505</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Licenza di Giesù da Maria</field>
+		<field name="titleSort">Licenza di Giesù da Maria</field>
+		<field name="year">1661</field>
+		
+		
+		<field name="date">1661</field>
+		<field name="composer">Giulio Cesare Arresti</field>
+		<field name="composerSort">Arresti, Giulio Cesare</field>
+		
+		
+		<field name="theater">Casa del abbate Carlo Antonio Sampieri</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christ leaves Mary to begin His Ministry</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Licenza+di+Giesù+da+Maria+Giulio+Cesare+Arresti&amp;search_field=search</field>
+	</doc></add>

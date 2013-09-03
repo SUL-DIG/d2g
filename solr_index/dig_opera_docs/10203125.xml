@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203125</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratoriu de Craciun</field>
+		<field name="titleSort">Oratoriu de Craciun</field>
+		<field name="year">1979</field>
+		
+		
+		<field name="date">1979</field>
+		<field name="composer">Serban Nichifor</field>
+		<field name="composerSort">Nichifor, Serban</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratoriu+de+Craciun+Serban+Nichifor&amp;search_field=search</field>
+	</doc></add>

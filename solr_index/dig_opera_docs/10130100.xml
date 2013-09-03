@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130100</field>
+<field name="genre">Operas</field>
+<field name="title">La ruina del mondo</field>
+<field name="titleSort">ruina del mondo</field>
+<field name="composer">Alessandro Stradella</field>
+<field name="composerSort">Stradella, Alessandro</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ruina+del+mondo+Alessandro+Stradella&amp;search_field=search</field>
+</doc>
+</add>

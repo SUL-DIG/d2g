@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203897</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Nicola</field>
+		<field name="titleSort">San Nicola</field>
+		
+		
+		
+		
+		<field name="composer">Cesare Franco</field>
+		<field name="composerSort">Franco, Cesare</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Nicholas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">December 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Nicola+Cesare+Franco&amp;search_field=search</field>
+	</doc></add>

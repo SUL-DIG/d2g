@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116024</field>
+<field name="genre">Operas</field>
+<field name="title">Das Märchen von der schönen Lilie</field>
+<field name="titleSort">Märchen von der schönen Lilie</field>
+<field name="composer">Giselher Klebe</field>
+<field name="composerSort">Klebe, Giselher</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Giselher Klebe</field>
+<field name="librettistSort">Klebe, Giselher</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Schwetzingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Märchen+von+der+schönen+Lilie+Giselher+Klebe&amp;search_field=search</field>
+</doc>
+</add>

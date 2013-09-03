@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132696</field>
+<field name="genre">Operas</field>
+<field name="title">Der Frechling</field>
+<field name="titleSort">Frechling</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Fritz Grünbaum</field>
+<field name="librettistSort">Grünbaum, Fritz</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Frechling+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

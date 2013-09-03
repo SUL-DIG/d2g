@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103240</field>
+<field name="genre">Operas</field>
+<field name="title">The Feast of the Red Corn</field>
+<field name="titleSort">Feast of the Red Corn</field>
+<field name="composer">Pearl Bliss</field>
+<field name="composerSort">Bliss, Pearl</field>
+<field name="year">1955</field>
+<field name="date">1955</field><field name="theater">Children's Opera Workshop</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Feast+of+the+Red+Corn+Pearl+Bliss&amp;search_field=search</field>
+</doc>
+</add>

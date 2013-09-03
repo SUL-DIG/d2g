@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132699</field>
+<field name="genre">Operas</field>
+<field name="title">Lachende Erben</field>
+<field name="titleSort">Lachende Erben</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">[Joseph Hostasch] Julius Horst</field>
+<field name="librettistSort">Horst, Julius [Joseph Hostasch]</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lachende+Erben+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

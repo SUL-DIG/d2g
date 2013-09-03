@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128100</field>
+<field name="genre">Operas</field>
+<field name="title">Kaspar der lächerliche Mundkoch</field>
+<field name="titleSort">Kaspar der lächerliche Mundkoch</field>
+<field name="composer">Benedikt Schack</field>
+<field name="composerSort">Schack, Benedikt</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaspar+der+lächerliche+Mundkoch+Benedikt+Schack&amp;search_field=search</field>
+</doc>
+</add>

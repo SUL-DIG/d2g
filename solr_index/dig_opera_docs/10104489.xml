@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104489</field>
+<field name="genre">Operas</field>
+<field name="title">The Sugar Reapers (Guyana Johnny)</field>
+<field name="titleSort">Sugar Reapers (Guyana Johnny)</field>
+<field name="composer">Alan Bush</field>
+<field name="composerSort">Bush, Alan</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+<field name="theater">Opernhaus am Karl-Marx-Platz</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sugar+Reapers+Guyana+Johnny+Alan+Bush&amp;search_field=search</field>
+</doc>
+</add>

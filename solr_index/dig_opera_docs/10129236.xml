@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129236</field>
+<field name="genre">Operas</field>
+<field name="title">Dráteník (The Tinker)</field>
+<field name="titleSort">Dráteník (The Tinker)</field>
+<field name="composer">Frantisek Jan Skroup</field>
+<field name="composerSort">Skroup, Frantisek Jan</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Josef Krasoslav Chmelenský</field>
+<field name="librettistSort">Chmelenský, Josef Krasoslav</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dráteník+The+Tinker+Frantisek+Jan+Skroup&amp;search_field=search</field>
+</doc>
+</add>

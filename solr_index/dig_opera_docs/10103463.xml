@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103463</field>
+<field name="genre">Operas</field>
+<field name="title">Rosa delle Alpi</field>
+<field name="titleSort">Rosa delle Alpi</field>
+<field name="composer">Francesco Boldi</field>
+<field name="composerSort">Boldi, Francesco</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Olga Tasca</field>
+<field name="librettistSort">Tasca, Olga</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Portomaggiore</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosa+delle+Alpi+Francesco+Boldi&amp;search_field=search</field>
+</doc>
+</add>

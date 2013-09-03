@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109007</field>
+<field name="genre">Operas</field>
+<field name="title">Santa Agata</field>
+<field name="titleSort">Santa Agata</field>
+<field name="composer">Jean Paul Ertel</field>
+<field name="composerSort">Ertel, Jean Paul</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Olga Rüst</field>
+<field name="librettistSort">Rüst, Olga</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Agata+Jean+Paul+Ertel&amp;search_field=search</field>
+</doc>
+</add>

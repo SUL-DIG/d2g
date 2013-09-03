@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115264</field>
+<field name="genre">Operas</field>
+<field name="title">Zena a buh (A Woman and a God)</field>
+<field name="titleSort">Zena a buh (A Woman and a God)</field>
+<field name="composer">Karel Boleslav Jirák</field>
+<field name="composerSort">Jirák, Karel Boleslav</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Jirí Karásek</field>
+<field name="librettistSort">Karásek, Jirí</field>
+
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zena+a+buh+A+Woman+and+a+God+Karel+Boleslav+Jirák&amp;search_field=search</field>
+</doc>
+</add>

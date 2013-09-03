@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121906</field>
+<field name="genre">Operas</field>
+<field name="title">Everyman</field>
+<field name="titleSort">Everyman</field>
+<field name="composer">Vaclav Nelhybel</field>
+<field name="composerSort">Nelhybel, Vaclav</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Vaclav Nelhybel</field>
+<field name="librettistSort">Nelhybel, Vaclav</field>
+<field name="theater">Southwest Missouri State University</field>
+<field name="city">Springfield</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Everyman+Vaclav+Nelhybel&amp;search_field=search</field>
+</doc>
+</add>

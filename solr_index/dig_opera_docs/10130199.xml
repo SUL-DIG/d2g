@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130199</field>
+<field name="genre">Operas</field>
+<field name="title">Le dernier de Muelhausen</field>
+<field name="titleSort">dernier de Muelhausen</field>
+<field name="composer">Georges Ernest Street</field>
+<field name="composerSort">Street, Georges Ernest</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Maurice Lefèvre</field>
+<field name="librettistSort">Lefèvre, Maurice</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+dernier+de+Muelhausen+Georges+Ernest+Street&amp;search_field=search</field>
+</doc>
+</add>

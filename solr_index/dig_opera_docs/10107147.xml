@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107147</field>
+<field name="genre">Operas</field>
+<field name="title">La rosière de Montmartre</field>
+<field name="titleSort">rosière de Montmartre</field>
+<field name="composer">__ Darmaine</field>
+<field name="composerSort">Darmaine, __</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Jules Combe</field>
+<field name="librettistSort">Combe, Jules</field>
+
+<field name="city">Bezons</field>
+<field name="region">Seine-et-Oise</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rosière+de+Montmartre+__+Darmaine&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128763</field>
+<field name="genre">Operas</field>
+<field name="title">La famille Banaste</field>
+<field name="titleSort">famille Banaste</field>
+<field name="composer">Vincent Scotto</field>
+<field name="composerSort">Scotto, Vincent</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">[Antoine Mas] Mas-Andrès</field>
+<field name="librettistSort">Mas-Andrès, [Antoine Mas]</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Tarascon</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+famille+Banaste+Vincent+Scotto&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107513</field>
+<field name="genre">Operas</field>
+<field name="title">Triste Natale</field>
+<field name="titleSort">Triste Natale</field>
+<field name="composer">Giuseppe Antonio Demuro</field>
+<field name="composerSort">Demuro, Giuseppe Antonio</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="city">Tempio Pausania</field>
+<field name="region">Sardegna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Triste+Natale+Giuseppe+Antonio+Demuro&amp;search_field=search</field>
+</doc>
+</add>

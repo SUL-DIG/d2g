@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116397</field>
+<field name="genre">Operas</field>
+<field name="title">Das Wunder der Heliane</field>
+<field name="titleSort">Wunder der Heliane</field>
+<field name="composer">Erich Wolfgang Korngold</field>
+<field name="composerSort">Korngold, Erich Wolfgang</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Hans Müller</field>
+<field name="librettistSort">Müller, Hans</field>
+<field name="librettist">Hans Kaltneker</field>
+<field name="librettistSort">Kaltneker, Hans</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wunder+der+Heliane+Erich+Wolfgang+Korngold&amp;search_field=search</field>
+</doc>
+</add>

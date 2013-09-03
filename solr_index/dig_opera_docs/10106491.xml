@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106491</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto Policare</field>
+<field name="titleSort">finto Policare</field>
+<field name="composer">Francesco Bartolomeo Conti</field>
+<field name="composerSort">Conti, Francesco Bartolomeo</field>
+<field name="year">1716</field>
+<field name="date">1716</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+Policare+Francesco+Bartolomeo+Conti&amp;search_field=search</field>
+</doc>
+</add>

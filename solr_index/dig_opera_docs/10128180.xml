@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128180</field>
+<field name="genre">Operas</field>
+<field name="title">Le teneur de livre</field>
+<field name="titleSort">teneur de livre</field>
+<field name="composer">François Corneille Schermers</field>
+<field name="composerSort">Schermers, François Corneille</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Emiel Siroux</field>
+<field name="librettistSort">Siroux, Emiel</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+teneur+de+livre+François+Corneille+Schermers&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118068</field>
+<field name="genre">Operas</field>
+<field name="title">Der Pomposaner</field>
+<field name="titleSort">Pomposaner</field>
+<field name="composer">Max Leythauser-Melano</field>
+<field name="composerSort">Leythauser-Melano, Max</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Max Leythauser-Melano</field>
+<field name="librettistSort">Leythauser-Melano, Max</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Würzburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Pomposaner+Max+Leythauser-Melano&amp;search_field=search</field>
+</doc>
+</add>

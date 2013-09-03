@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129722</field>
+<field name="genre">Operas</field>
+<field name="title">Die Lyranten</field>
+<field name="titleSort">Lyranten</field>
+<field name="composer">Johann Georg Staudinger</field>
+<field name="composerSort">Staudinger, Johann Georg</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+
+<field name="city">Alba-Iulia</field>
+<field name="region">Alba</field>
+<field name="country">Romania</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Lyranten+Johann+Georg+Staudinger&amp;search_field=search</field>
+</doc>
+</add>

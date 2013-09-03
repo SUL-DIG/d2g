@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105677</field>
+<field name="genre">Operas</field>
+<field name="title">"Amalasunta, regina di Goti</field>
+<field name="titleSort">"Amalasunta, regina di Goti"</field>
+<field name="composer">Fortunato Chelleri</field>
+<field name="composerSort">Chelleri, Fortunato</field>
+<field name="year">1718</field>
+<field name="date">1718</field>
+<field name="librettist">Giacomo Gabrieli</field>
+<field name="librettistSort">Gabrieli, Giacomo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amalasunta,+regina+di+Goti+Fortunato+Chelleri&amp;search_field=search</field>
+</doc>
+</add>

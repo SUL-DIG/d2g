@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130327</field>
+<field name="genre">Operas</field>
+<field name="title">Hippolytus</field>
+<field name="titleSort">Hippolytus</field>
+<field name="composer">Joseph Summer</field>
+<field name="composerSort">Summer, Joseph</field>
+<field name="year">1983</field>
+<field name="date">1983</field><field name="theater">Pennsylvania Opera Festival</field>
+<field name="city">Pittsburgh</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hippolytus+Joseph+Summer&amp;search_field=search</field>
+</doc>
+</add>

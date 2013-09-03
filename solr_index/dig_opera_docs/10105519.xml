@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105519</field>
+<field name="genre">Operas</field>
+<field name="title">Fisch-Ton-Kan</field>
+<field name="titleSort">Fisch-Ton-Kan</field>
+<field name="composer">Emmanuel Chabrier</field>
+<field name="composerSort">Chabrier, Emmanuel</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Paul Verlaine</field>
+<field name="librettistSort">Verlaine, Paul</field>
+<field name="librettist">Lucien Viotti</field>
+<field name="librettistSort">Viotti, Lucien</field>
+<field name="theater">Cercle de l'Union Artistique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fisch-Ton-Kan+Emmanuel+Chabrier&amp;search_field=search</field>
+</doc>
+</add>

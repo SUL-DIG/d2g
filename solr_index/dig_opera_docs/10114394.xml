@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114394</field>
+<field name="genre">Operas</field>
+<field name="title">Dornröschen</field>
+<field name="titleSort">Dornröschen</field>
+<field name="composer">Franz Höfer</field>
+<field name="composerSort">Höfer, Franz</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Max Müller</field>
+<field name="librettistSort">Müller, Max</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Franz+Höfer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112058</field>
+<field name="genre">Operas</field>
+<field name="title">Acante et Cidippe</field>
+<field name="titleSort">Acante et Cidippe</field>
+<field name="composer">François-Joseph Giraud</field>
+<field name="composerSort">Giraud, François-Joseph</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">Maximilien-Jean Boutellier</field>
+<field name="librettistSort">Boutellier, Maximilien-Jean</field>
+<field name="theater">Théâtre Nicolet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Acante+et+Cidippe+François-Joseph+Giraud&amp;search_field=search</field>
+</doc>
+</add>

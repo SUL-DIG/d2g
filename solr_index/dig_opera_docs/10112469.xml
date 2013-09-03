@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112469</field>
+<field name="genre">Operas</field>
+<field name="title">Ein grosser Damenkaffee</field>
+<field name="titleSort">grosser Damenkaffee</field>
+<field name="composer">Gustav Graben-Hoffmann</field>
+<field name="composerSort">Graben-Hoffmann, Gustav</field>
+<field name="year">1869</field>
+<field name="date">1869</field><field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+grosser+Damenkaffee+Gustav+Graben-Hoffmann&amp;search_field=search</field>
+</doc>
+</add>

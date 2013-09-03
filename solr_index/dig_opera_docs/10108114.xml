@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108114</field>
+<field name="genre">Operas</field>
+<field name="title">La tunique fatale</field>
+<field name="titleSort">tunique fatale</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Louis Houssot</field>
+<field name="librettistSort">Houssot, Louis</field>
+<field name="theater">Théâtre de la Tertulia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tunique+fatale+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

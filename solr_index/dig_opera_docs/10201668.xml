@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201668</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Giuditta trionfante</field>
+		<field name="titleSort">Giuditta trionfante</field>
+		<field name="year">1690</field>
+		
+		
+		<field name="date">1690</field>
+		<field name="composer">Giuseppe Vignola</field>
+		<field name="composerSort">Vignola, Giuseppe</field>
+		<field name="librettist">Giacomo Badiale</field>
+		<field name="librettistSort">Badiale, Giacomo</field>
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Giuditta+trionfante+Giuseppe+Vignola&amp;search_field=search</field>
+	</doc></add>

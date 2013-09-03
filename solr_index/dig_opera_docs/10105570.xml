@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105570</field>
+<field name="genre">Operas</field>
+<field name="title">"Le poète supposé, ou Les préparatifs de fête</field>
+<field name="titleSort">"poète supposé, ou Les préparatifs de fête"</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Pierre Laujon</field>
+<field name="librettistSort">Laujon, Pierre</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+poète+supposé,+ou+Les+préparatifs+de+fête+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

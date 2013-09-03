@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124595</field>
+<field name="genre">Operas</field>
+<field name="title">Der Untersberg</field>
+<field name="titleSort">Untersberg</field>
+<field name="composer">Johann Nepomuk Poissl</field>
+<field name="composerSort">Poissl, Johann Nepomuk</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Eduard von Schenk</field>
+<field name="librettistSort">Schenk, Eduard von</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Untersberg+Johann+Nepomuk+Poissl&amp;search_field=search</field>
+</doc>
+</add>

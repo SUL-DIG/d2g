@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105784</field>
+<field name="genre">Operas</field>
+<field name="title">Artaserse</field>
+<field name="titleSort">Artaserse</field>
+<field name="composer">Pietro Vincenzo Chiocchetti</field>
+<field name="composerSort">Chiocchetti, Pietro Vincenzo</field>
+<field name="year">1730</field>
+<field name="date">1730</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Sant'Agostino</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artaserse+Pietro+Vincenzo+Chiocchetti&amp;search_field=search</field>
+</doc>
+</add>

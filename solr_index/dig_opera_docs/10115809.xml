@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115809</field>
+<field name="genre">Operas</field>
+<field name="title">Diana (Cupido)</field>
+<field name="titleSort">Diana (Cupido)</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1712</field>
+<field name="date">1712</field>
+<field name="librettist">Johann Ulrich von König</field>
+<field name="librettistSort">König, Johann Ulrich von</field>
+<field name="librettist">Francesco de Lemene</field>
+<field name="librettistSort">Lemene, Francesco de</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diana+Cupido+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

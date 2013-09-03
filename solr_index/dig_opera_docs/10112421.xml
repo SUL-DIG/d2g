@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112421</field>
+<field name="genre">Operas</field>
+<field name="title">Stanac</field>
+<field name="titleSort">Stanac</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Vojmil Rabadan</field>
+<field name="librettistSort">Rabadan, Vojmil</field>
+<field name="librettist">Marin Drzic</field>
+<field name="librettistSort">Drzic, Marin</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stanac+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

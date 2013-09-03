@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113393</field>
+<field name="genre">Operas</field>
+<field name="title">Les mousquetaires de la reine</field>
+<field name="titleSort">mousquetaires de la reine</field>
+<field name="composer">Fromental Halévy</field>
+<field name="composerSort">Halévy, Fromental</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+mousquetaires+de+la+reine+Fromental+Halévy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125273</field>
+<field name="genre">Operas</field>
+<field name="title">Werter e Carlotta</field>
+<field name="titleSort">Werter e Carlotta</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Giulio Domenico Camagna</field>
+<field name="librettistSort">Camagna, Giulio Domenico</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Werter+e+Carlotta+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

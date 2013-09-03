@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121178</field>
+<field name="genre">Operas</field>
+<field name="title">"Artemisia, regina di Caria</field>
+<field name="titleSort">"Artemisia, regina di Caria"</field>
+<field name="composer">António Leal Moreira</field>
+<field name="composerSort">Moreira, António Leal</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Gaetano Martinelli</field>
+<field name="librettistSort">Martinelli, Gaetano</field>
+<field name="theater">Palácio de Ajuda</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artemisia,+regina+di+Caria+António+Leal+Moreira&amp;search_field=search</field>
+</doc>
+</add>

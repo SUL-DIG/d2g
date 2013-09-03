@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127891</field>
+<field name="genre">Operas</field>
+<field name="title">Il ratto di Helena</field>
+<field name="titleSort">ratto di Helena</field>
+<field name="composer">Marco Scacchi</field>
+<field name="composerSort">Scacchi, Marco</field>
+<field name="year">1634</field>
+<field name="date">1634</field>
+<field name="librettist">Virgilio Puccitelli</field>
+<field name="librettistSort">Puccitelli, Virgilio</field>
+<field name="theater">Court</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ratto+di+Helena+Marco+Scacchi&amp;search_field=search</field>
+</doc>
+</add>

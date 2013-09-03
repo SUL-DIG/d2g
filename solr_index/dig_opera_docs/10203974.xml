@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203974</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Anna</field>
+		<field name="titleSort">Sant' Anna</field>
+		
+		
+		
+		
+		<field name="composer">Giuseppe Sigismondi</field>
+		<field name="composerSort">Sigismondi, Giuseppe</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Anne</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">July 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Anna+Giuseppe+Sigismondi&amp;search_field=search</field>
+	</doc></add>

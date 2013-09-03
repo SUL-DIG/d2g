@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133085</field>
+<field name="genre">Operas</field>
+<field name="title">Die Schwestern</field>
+<field name="titleSort">Schwestern</field>
+<field name="composer">Ottokar Wöber</field>
+<field name="composerSort">Wöber, Ottokar</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Ottokar Wöber</field>
+<field name="librettistSort">Wöber, Ottokar</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schwestern+Ottokar+Wöber&amp;search_field=search</field>
+</doc>
+</add>

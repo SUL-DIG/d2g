@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111419</field>
+<field name="genre">Operas</field>
+<field name="title">Royal Champagne</field>
+<field name="titleSort">Royal Champagne</field>
+<field name="composer">Henri Geffroy</field>
+<field name="composerSort">Geffroy, Henri</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Émile Delteil</field>
+<field name="librettistSort">Delteil, Émile</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Lorient</field>
+<field name="region">Morbihan</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Royal+Champagne+Henri+Geffroy&amp;search_field=search</field>
+</doc>
+</add>

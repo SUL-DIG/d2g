@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128479</field>
+<field name="genre">Operas</field>
+<field name="title">Die beiden Geizigen</field>
+<field name="titleSort">beiden Geizigen</field>
+<field name="composer">Louis Schubert</field>
+<field name="composerSort">Schubert, Louis</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Gustav Räder</field>
+<field name="librettistSort">Räder, Gustav</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+beiden+Geizigen+Louis+Schubert&amp;search_field=search</field>
+</doc>
+</add>

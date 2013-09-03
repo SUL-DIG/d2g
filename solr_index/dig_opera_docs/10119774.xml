@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119774</field>
+<field name="genre">Operas</field>
+<field name="title">Dramma eterno</field>
+<field name="titleSort">Dramma eterno</field>
+<field name="composer">Francesco de Matteo</field>
+<field name="composerSort">Matteo, Francesco de</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Francesco de Matteo</field>
+<field name="librettistSort">Matteo, Francesco de</field>
+
+<field name="city">Catanzaro</field>
+<field name="region">Calabria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dramma+eterno+Francesco+de+Matteo&amp;search_field=search</field>
+</doc>
+</add>

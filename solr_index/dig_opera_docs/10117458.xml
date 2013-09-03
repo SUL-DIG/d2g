@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117458</field>
+<field name="genre">Operas</field>
+<field name="title">Le jugement de Paris</field>
+<field name="titleSort">jugement de Paris</field>
+<field name="composer">François-Anatole Laurent de Rillé</field>
+<field name="composerSort">Rillé, François-Anatole Laurent de</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Ernest Alby</field>
+<field name="librettistSort">Alby, Ernest</field>
+<field name="librettist">[Jean-Louis-Auguste Commerson] Delmare</field>
+<field name="librettistSort">Delmare, [Jean-Louis-Auguste Commerson]</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jugement+de+Paris+François-Anatole+Laurent+de+Rillé&amp;search_field=search</field>
+</doc>
+</add>

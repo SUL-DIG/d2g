@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111318</field>
+<field name="genre">Operas</field>
+<field name="title">Le traité nul</field>
+<field name="titleSort">traité nul</field>
+<field name="composer">Pierre Gaveaux</field>
+<field name="composerSort">Gaveaux, Pierre</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Benoît-Joseph Marsollier des Vivetières</field>
+<field name="librettistSort">Marsollier des Vivetières, Benoît-Joseph</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+traité+nul+Pierre+Gaveaux&amp;search_field=search</field>
+</doc>
+</add>

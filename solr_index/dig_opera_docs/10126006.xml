@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126006</field>
+<field name="genre">Operas</field>
+<field name="title">Spiel oder Ernst?</field>
+<field name="titleSort">Spiel oder Ernst?</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Poul Knudsen</field>
+<field name="librettistSort">Knudsen, Poul</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spiel+oder+Ernst?+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

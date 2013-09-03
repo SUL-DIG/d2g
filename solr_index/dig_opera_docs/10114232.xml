@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114232</field>
+<field name="genre">Operas</field>
+<field name="title">The Hunter of the Alps</field>
+<field name="titleSort">Hunter of the Alps</field>
+<field name="composer">James Hewitt</field>
+<field name="composerSort">Hewitt, James</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">William Wyatt Dimond</field>
+<field name="librettistSort">Dimond, William Wyatt</field>
+
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Hunter+of+the+Alps+James+Hewitt&amp;search_field=search</field>
+</doc>
+</add>

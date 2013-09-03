@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202238</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Johannes der Täufer</field>
+		<field name="titleSort">Johannes der Täufer</field>
+		<field name="year">1855</field>
+		<field name="month">March</field>
+		<field name="day">1</field>
+		<field name="date">March 1, 1855</field>
+		<field name="composer">Johann von Hasslinger-Hassingen</field>
+		<field name="composerSort">Hasslinger-Hassingen, Johann von</field>
+		
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint John the Baptist</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">June 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johannes+der+Täufer+Johann+von+Hasslinger-Hassingen&amp;search_field=search</field>
+	</doc></add>

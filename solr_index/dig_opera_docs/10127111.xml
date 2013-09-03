@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127111</field>
+<field name="genre">Operas</field>
+<field name="title">"Amore vuol gioventù, ossia Le astuzie fortunate</field>
+<field name="titleSort">"Amore vuol gioventù, ossia Le astuzie fortunate"</field>
+<field name="composer">Ferdinando Rutini</field>
+<field name="composerSort">Rutini, Ferdinando</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+vuol+gioventù,+ossia+Le+astuzie+fortunate+Ferdinando+Rutini&amp;search_field=search</field>
+</doc>
+</add>

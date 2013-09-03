@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204155</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santo Tomás de Aquino</field>
+		<field name="titleSort">Santo Tomás de Aquino</field>
+		<field name="year">1766</field>
+		
+		
+		<field name="date">1766</field>
+		<field name="composer">Pedro Antonío Monlleó</field>
+		<field name="composerSort">Monlleó, Pedro Antonío</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Thomas Aquinas</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">January 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santo+Tomás+de+Aquino+Pedro+Antonío+Monlleó&amp;search_field=search</field>
+	</doc></add>

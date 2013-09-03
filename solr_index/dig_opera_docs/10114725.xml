@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114725</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux loups de mer</field>
+<field name="titleSort">deux loups de mer</field>
+<field name="composer">Charles Hubans</field>
+<field name="composerSort">Hubans, Charles</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Auguste Delarue</field>
+<field name="librettistSort">Delarue, Auguste</field>
+<field name="theater">Salle des fêtes du Casino</field>
+<field name="city">Enghien-les-Bains</field>
+<field name="region">Val-d'Oise</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+loups+de+mer+Charles+Hubans&amp;search_field=search</field>
+</doc>
+</add>

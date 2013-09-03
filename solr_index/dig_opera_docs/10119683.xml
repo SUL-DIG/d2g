@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119683</field>
+<field name="genre">Operas</field>
+<field name="title">Mariette la promise</field>
+<field name="titleSort">Mariette la promise</field>
+<field name="composer">Victor Massé</field>
+<field name="composerSort">Massé, Victor</field>
+<field name="year">1862</field>
+<field name="date">1862</field><field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mariette+la+promise+Victor+Massé&amp;search_field=search</field>
+</doc>
+</add>

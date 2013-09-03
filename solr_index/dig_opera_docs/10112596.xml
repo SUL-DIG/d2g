@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112596</field>
+<field name="genre">Operas</field>
+<field name="title">Adriano in Siria</field>
+<field name="titleSort">Adriano in Siria</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriano+in+Siria+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

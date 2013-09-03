@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108325</field>
+<field name="genre">Operas</field>
+<field name="title">Der Einzug</field>
+<field name="titleSort">Einzug</field>
+<field name="composer">Maximilian-Friedrich von Droste-Hülshoff</field>
+<field name="composerSort">Droste-Hülshoff, Maximilian-Friedrich von</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">F. G. von Nesselrode</field>
+<field name="librettistSort">Nesselrode, F. G. von</field>
+
+<field name="city">Emden</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Einzug+Maximilian-Friedrich+von+Droste-Hülshoff&amp;search_field=search</field>
+</doc>
+</add>

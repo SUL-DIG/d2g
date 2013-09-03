@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133643</field>
+<field name="genre">Operas</field>
+<field name="title">Fitzebutze</field>
+<field name="titleSort">Fitzebutze</field>
+<field name="composer">Hermann Zilcher</field>
+<field name="composerSort">Zilcher, Hermann</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Richard Dehmel</field>
+<field name="librettistSort">Dehmel, Richard</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fitzebutze+Hermann+Zilcher&amp;search_field=search</field>
+</doc>
+</add>

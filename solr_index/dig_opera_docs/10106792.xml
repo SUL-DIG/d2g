@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106792</field>
+<field name="genre">Operas</field>
+<field name="title">Griselda</field>
+<field name="titleSort">Griselda</field>
+<field name="composer">Giulio Cottrau</field>
+<field name="composerSort">Cottrau, Giulio</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistSort">Boccaccio, Giovanni</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griselda+Giulio+Cottrau&amp;search_field=search</field>
+</doc>
+</add>

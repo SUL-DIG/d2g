@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204466</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Templi reparatio</field>
+		<field name="titleSort">Templi reparatio</field>
+		<field name="year">1774</field>
+		<field name="month">September</field>
+		<field name="day">8</field>
+		<field name="date">September 8, 1774</field>
+		<field name="composer">Bonaventura Furlanetto</field>
+		<field name="composerSort">Furlanetto, Bonaventura</field>
+		
+		
+		<field name="theater">Ospedale della Pietа</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Second Temple is built</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Templi+reparatio+Bonaventura+Furlanetto&amp;search_field=search</field>
+	</doc></add>

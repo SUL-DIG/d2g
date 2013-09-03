@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119381</field>
+<field name="genre">Operas</field>
+<field name="title">Encore une audition</field>
+<field name="titleSort">Encore une audition</field>
+<field name="composer">Paul Marinier</field>
+<field name="composerSort">Marinier, Paul</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="city">La Flêche</field>
+<field name="region">Sarthe</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Encore+une+audition+Paul+Marinier&amp;search_field=search</field>
+</doc>
+</add>

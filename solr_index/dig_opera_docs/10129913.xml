@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129913</field>
+<field name="genre">Operas</field>
+<field name="title">Ceci n'est pas un conte</field>
+<field name="titleSort">Ceci n'est pas un conte</field>
+<field name="composer">Ludovic Stiénon du Pré</field>
+<field name="composerSort">Pré, Ludovic Stiénon du</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Gaston Dumestre</field>
+<field name="librettistSort">Dumestre, Gaston</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ceci+n'est+pas+un+conte+Ludovic+Stiénon+du+Pré&amp;search_field=search</field>
+</doc>
+</add>

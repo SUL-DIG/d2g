@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202858</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mosè liberatore</field>
+		<field name="titleSort">Mosè liberatore</field>
+		<field name="year">1813</field>
+		<field name="month">August</field>
+		<field name="day">18</field>
+		<field name="date">August 18, 1813</field>
+		<field name="composer">Giacinto Castorina</field>
+		<field name="composerSort">Castorina, Giacinto</field>
+		<field name="librettist">Giovanni Sardo</field>
+		<field name="librettistSort">Sardo, Giovanni</field>
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses leads the Israelites out of Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosè+liberatore+Giacinto+Castorina&amp;search_field=search</field>
+	</doc></add>

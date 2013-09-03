@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121992</field>
+<field name="genre">Operas</field>
+<field name="title">Peri</field>
+<field name="titleSort">Peri</field>
+<field name="composer">Frantisek Neumann</field>
+<field name="composerSort">Neumann, Frantisek</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peri+Frantisek+Neumann&amp;search_field=search</field>
+</doc>
+</add>

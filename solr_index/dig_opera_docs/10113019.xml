@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113019</field>
+<field name="genre">Operas</field>
+<field name="title">Rinaldo</field>
+<field name="titleSort">Rinaldo</field>
+<field name="composer">Pietro Alessandro Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Alessandro</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinaldo+Pietro+Alessandro+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

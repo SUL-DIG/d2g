@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110459</field>
+<field name="genre">Operas</field>
+<field name="title">African Kraal</field>
+<field name="titleSort">African Kraal</field>
+<field name="composer">Lawrence Freeman</field>
+<field name="composerSort">Freeman, Lawrence</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Lawrence Freeman</field>
+<field name="librettistSort">Freeman, Lawrence</field>
+<field name="theater">Wilberforce University</field>
+<field name="city">Wilberforce</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=African+Kraal+Lawrence+Freeman&amp;search_field=search</field>
+</doc>
+</add>

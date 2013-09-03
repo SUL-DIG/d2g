@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202982</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Noah</field>
+		<field name="titleSort">Noah</field>
+		<field name="year">1841</field>
+		<field name="month">March</field>
+		<field name="day">23</field>
+		<field name="date">March 23, 1841</field>
+		<field name="composer">Franz Seraphikus Hölzl</field>
+		<field name="composerSort">Hölzl, Franz Seraphikus</field>
+		<field name="librettist">Anton von Perger</field>
+		<field name="librettistSort">Perger, Anton von</field>
+		
+		<field name="theater">Musikverein</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Noah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noah+Franz+Seraphikus+Hölzl&amp;search_field=search</field>
+	</doc></add>

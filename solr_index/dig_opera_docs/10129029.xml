@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129029</field>
+<field name="genre">Operas</field>
+<field name="title">Orufeo no shori (El divino Orfeo)</field>
+<field name="titleSort">Orufeo no shori (El divino Orfeo)</field>
+<field name="composer">Minao Shibata</field>
+<field name="composerSort">Shibata, Minao</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Sho Shibata</field>
+<field name="librettistSort">Shibata, Sho</field>
+<field name="librettist">Pedro Calderón de la Barca</field>
+<field name="librettistSort">Calderón de la Barca, Pedro</field>
+<field name="theater">Umekawa No Institute Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orufeo+no+shori+El+divino+Orfeo+Minao+Shibata&amp;search_field=search</field>
+</doc>
+</add>

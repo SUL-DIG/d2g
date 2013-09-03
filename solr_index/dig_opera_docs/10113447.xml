@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113447</field>
+<field name="genre">Operas</field>
+<field name="title">Leonardo da Vinci</field>
+<field name="titleSort">Leonardo da Vinci</field>
+<field name="composer">Ebbe Hamerik</field>
+<field name="composerSort">Hamerik, Ebbe</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Marino Moretti</field>
+<field name="librettistSort">Moretti, Marino</field>
+<field name="librettist">Francesco Cazzamini Mussi</field>
+<field name="librettistSort">Cazzamini Mussi, Francesco</field>
+<field name="theater">Koninklijke Vlaamse Opera</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonardo+da+Vinci+Ebbe+Hamerik&amp;search_field=search</field>
+</doc>
+</add>

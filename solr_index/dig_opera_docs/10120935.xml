@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120935</field>
+<field name="genre">Operas</field>
+<field name="title">Hrabina (The Countess)</field>
+<field name="titleSort">Hrabina (The Countess)</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Wlodzimierz Wolski</field>
+<field name="librettistSort">Wolski, Wlodzimierz</field>
+<field name="librettist">Józef Dzierzkowski</field>
+<field name="librettistSort">Dzierzkowski, Józef</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hrabina+The+Countess+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

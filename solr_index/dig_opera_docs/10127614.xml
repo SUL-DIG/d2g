@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127614</field>
+<field name="genre">Operas</field>
+<field name="title">La favola di Helga</field>
+<field name="titleSort">favola di Helga</field>
+<field name="composer">Francesco Santoliquido</field>
+<field name="composerSort">Santoliquido, Francesco</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Francesco Santoliquido</field>
+<field name="librettistSort">Santoliquido, Francesco</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+favola+di+Helga+Francesco+Santoliquido&amp;search_field=search</field>
+</doc>
+</add>

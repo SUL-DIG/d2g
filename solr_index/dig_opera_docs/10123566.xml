@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123566</field>
+<field name="genre">Operas</field>
+<field name="title">El ultimo Abencerraje</field>
+<field name="titleSort">ultimo Abencerraje</field>
+<field name="composer">Carlos Pedrell</field>
+<field name="composerSort">Pedrell, Carlos</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Juan Bautista Altés y Alabert</field>
+<field name="librettistSort">Altés y Alabert, Juan Bautista</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+ultimo+Abencerraje+Carlos+Pedrell&amp;search_field=search</field>
+</doc>
+</add>

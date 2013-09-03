@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119041</field>
+<field name="genre">Operas</field>
+<field name="title">Lisinka</field>
+<field name="titleSort">Lisinka</field>
+<field name="composer">Jørgen Malling</field>
+<field name="composerSort">Malling, Jørgen</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Max Rottenmann</field>
+<field name="librettistSort">Rottenmann, Max</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lisinka+Jørgen+Malling&amp;search_field=search</field>
+</doc>
+</add>

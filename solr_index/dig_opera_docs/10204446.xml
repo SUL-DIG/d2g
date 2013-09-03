@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204446</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tag des Gerichts</field>
+		<field name="titleSort">Tag des Gerichts</field>
+		<field name="year">1762</field>
+		<field name="month">March</field>
+		<field name="day">17</field>
+		<field name="date">March 17, 1762</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Christian Wilhelm Alers</field>
+		<field name="librettistSort">Alers, Christian Wilhelm</field>
+		
+		<field name="theater">Concertsaal auf dem Kamp</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Last Judgment</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tag+des+Gerichts+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

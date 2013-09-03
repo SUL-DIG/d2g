@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130141</field>
+<field name="genre">Operas</field>
+<field name="title">Der schwarze Mann</field>
+<field name="titleSort">schwarze Mann</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Rudolf Schanzer</field>
+<field name="librettistSort">Schanzer, Rudolf</field>
+<field name="librettist">Thilo von Trotha</field>
+<field name="librettistSort">Trotha, Thilo von</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+schwarze+Mann+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

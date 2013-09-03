@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111557</field>
+<field name="genre">Operas</field>
+<field name="title">Trip</field>
+<field name="titleSort">Trip</field>
+<field name="composer">Fatty George</field>
+<field name="composerSort">George, Fatty</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Silke Schwinger</field>
+<field name="librettistSort">Schwinger, Silke</field>
+<field name="theater">ORF Television (Österreichischen Rundfunks Fernsehen)</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trip+Fatty+George&amp;search_field=search</field>
+</doc>
+</add>

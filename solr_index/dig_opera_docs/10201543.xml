@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201543</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giaele</field>
+		<field name="titleSort">Giaele</field>
+		<field name="year">1749</field>
+		
+		
+		<field name="date">1749</field>
+		<field name="composer">Antonio Aurisicchio</field>
+		<field name="composerSort">Aurisicchio, Antonio</field>
+		
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giaele+Antonio+Aurisicchio&amp;search_field=search</field>
+	</doc></add>

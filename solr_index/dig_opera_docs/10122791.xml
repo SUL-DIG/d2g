@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122791</field>
+<field name="genre">Operas</field>
+<field name="title">"I crociati a Tolemaide, ossia Malek-Adel</field>
+<field name="titleSort">"crociati a Tolemaide, ossia Malek-Adel"</field>
+<field name="composer">Giovanni Pacini</field>
+<field name="composerSort">Pacini, Giovanni</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+crociati+a+Tolemaide,+ossia+Malek-Adel+Giovanni+Pacini&amp;search_field=search</field>
+</doc>
+</add>

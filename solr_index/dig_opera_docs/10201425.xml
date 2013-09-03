@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201425</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der für die Sünde der Welt gemartete und sterbende Jesus</field>
+		<field name="titleSort">für die Sünde der Welt gemartete und sterbende Jesus</field>
+		<field name="year">1725</field>
+		<field name="month">March</field>
+		<field name="day">30</field>
+		<field name="date">March 30, 1725</field>
+		<field name="composer">Gottfried Heinrich Stölzel</field>
+		<field name="composerSort">Stölzel, Gottfried Heinrich</field>
+		<field name="librettist">Barthold Hinrich Brockes</field>
+		<field name="librettistSort">Brockes, Barthold Hinrich</field>
+		
+		<field name="theater">Schlosskirche Friedenstein</field>
+		<field name="city">Gotha</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+für+die+Sünde+der+Welt+gemartete+und+sterbende+Jesus+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109496</field>
+<field name="genre">Operas</field>
+<field name="title">Lassie</field>
+<field name="titleSort">Lassie</field>
+<field name="composer">Hugo Felix</field>
+<field name="composerSort">Felix, Hugo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Catherine Chisholm Cushing</field>
+<field name="librettistSort">Cushing, Catherine Chisholm</field>
+<field name="theater">Nora Bayes Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lassie+Hugo+Felix&amp;search_field=search</field>
+</doc>
+</add>

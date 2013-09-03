@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105980</field>
+<field name="genre">Operas</field>
+<field name="title">L'italiana in Londra (La virtù premiata)</field>
+<field name="titleSort">italiana in Londra (La virtù premiata)</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'italiana+in+Londra+La+virtù+premiata+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

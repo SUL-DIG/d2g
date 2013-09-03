@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126591</field>
+<field name="genre">Operas</field>
+<field name="title">Slumberland</field>
+<field name="titleSort">Slumberland</field>
+<field name="composer">Hubert E. Rooney</field>
+<field name="composerSort">Rooney, Hubert E.</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Hubert E. Rooney</field>
+<field name="librettistSort">Rooney, Hubert E.</field>
+
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slumberland+Hubert+E.+Rooney&amp;search_field=search</field>
+</doc>
+</add>

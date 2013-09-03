@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130983</field>
+<field name="genre">Operas</field>
+<field name="title">"Il solitario, ossia Carlo il temerario</field>
+<field name="titleSort">"solitario, ossia Carlo il temerario"</field>
+<field name="composer">Rinaldo Ticci</field>
+<field name="composerSort">Ticci, Rinaldo</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro dei Rinnovati</field>
+<field name="city">Siena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+solitario,+ossia+Carlo+il+temerario+Rinaldo+Ticci&amp;search_field=search</field>
+</doc>
+</add>

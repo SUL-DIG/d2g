@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121761</field>
+<field name="genre">Operas</field>
+<field name="title">Le Docteur Frontin</field>
+<field name="titleSort">Docteur Frontin</field>
+<field name="composer">Julien Nargéot</field>
+<field name="composerSort">Nargéot, Julien</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Marc Constantin</field>
+<field name="librettistSort">Constantin, Marc</field>
+<field name="theater">Théâtre Féerique des Champs-Elysées</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Docteur+Frontin+Julien+Nargéot&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121529</field>
+<field name="genre">Operas</field>
+<field name="title">Pietro di Porto</field>
+<field name="titleSort">Pietro di Porto</field>
+<field name="composer">Franz Ferdinand Georg Müller</field>
+<field name="composerSort">Müller, Franz Ferdinand Georg</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Robert Griepenkerl</field>
+<field name="librettistSort">Griepenkerl, Robert</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pietro+di+Porto+Franz+Ferdinand+Georg+Müller&amp;search_field=search</field>
+</doc>
+</add>

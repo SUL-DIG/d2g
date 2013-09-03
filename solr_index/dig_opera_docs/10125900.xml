@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125900</field>
+<field name="genre">Operas</field>
+<field name="title">Margherita d'Orleans</field>
+<field name="titleSort">Margherita d'Orleans</field>
+<field name="composer">Antonio Restano</field>
+<field name="composerSort">Restano, Antonio</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">A. G. Lagomaggiore</field>
+<field name="librettistSort">Lagomaggiore, A. G.</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margherita+d'Orleans+Antonio+Restano&amp;search_field=search</field>
+</doc>
+</add>

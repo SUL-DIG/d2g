@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106204</field>
+<field name="genre">Operas</field>
+<field name="title">Fajello (Gabriella di Vergy)</field>
+<field name="titleSort">Fajello (Gabriella di Vergy)</field>
+<field name="composer">Carlo Coccia</field>
+<field name="composerSort">Coccia, Carlo</field>
+<field name="year">1817</field>
+<field name="date">1817</field><field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fajello+Gabriella+di+Vergy+Carlo+Coccia&amp;search_field=search</field>
+</doc>
+</add>

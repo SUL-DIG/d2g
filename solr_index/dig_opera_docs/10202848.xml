@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202848</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mosè bambino esposto al Nilo</field>
+		<field name="titleSort">Mosè bambino esposto al Nilo</field>
+		<field name="year">1698</field>
+		<field name="month">March</field>
+		<field name="day">23</field>
+		<field name="date">March 23, 1698</field>
+		<field name="composer">Giacomo Cesare Predieri</field>
+		<field name="composerSort">Predieri, Giacomo Cesare</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses in the Nile</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosè+bambino+esposto+al+Nilo+Giacomo+Cesare+Predieri&amp;search_field=search</field>
+	</doc></add>

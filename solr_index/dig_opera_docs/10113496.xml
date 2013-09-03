@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113496</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando</field>
+<field name="titleSort">Orlando</field>
+<field name="composer">George Frideric Handel</field>
+<field name="composerSort">Handel, George Frideric</field>
+<field name="year">1733</field>
+<field name="date">1733</field>
+<field name="librettist">Carlo Sigismondo Capece</field>
+<field name="librettistSort">Capece, Carlo Sigismondo</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+George+Frideric+Handel&amp;search_field=search</field>
+</doc>
+</add>

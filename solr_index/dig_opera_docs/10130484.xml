@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130484</field>
+<field name="genre">Operas</field>
+<field name="title">Luisa Sanfelice</field>
+<field name="titleSort">Luisa Sanfelice</field>
+<field name="composer">Luigi Taccheo</field>
+<field name="composerSort">Taccheo, Luigi</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Giovanni Battista Baldetti</field>
+<field name="librettistSort">Baldetti, Giovanni Battista</field>
+<field name="theater">Teatro Garibaldi</field>
+<field name="city">Chioggia</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luisa+Sanfelice+Luigi+Taccheo&amp;search_field=search</field>
+</doc>
+</add>

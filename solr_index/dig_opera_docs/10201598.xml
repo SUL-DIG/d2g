@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201598</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioas, re di Giuda</field>
+		<field name="titleSort">Gioas, re di Giuda</field>
+		<field name="year">1776</field>
+		
+		
+		<field name="date">1776</field>
+		<field name="composer">Johann Nikolaus Franz Seydelmann</field>
+		<field name="composerSort">Seydelmann, Johann Nikolaus Franz</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioas,+re+di+Giuda+Johann+Nikolaus+Franz+Seydelmann&amp;search_field=search</field>
+	</doc></add>

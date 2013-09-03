@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109680</field>
+<field name="genre">Operas</field>
+<field name="title">Le mannequin de Bergame</field>
+<field name="titleSort">mannequin de Bergame</field>
+<field name="composer">François Joseph Fétis</field>
+<field name="composerSort">Fétis, François Joseph</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">François-Antoine-Eugène de Planard</field>
+<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="librettist">Eugène Duport</field>
+<field name="librettistSort">Duport, Eugène</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mannequin+de+Bergame+François+Joseph+Fétis&amp;search_field=search</field>
+</doc>
+</add>

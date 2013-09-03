@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107241</field>
+<field name="genre">Operas</field>
+<field name="title">Un premier avril</field>
+<field name="titleSort">premier avril</field>
+<field name="composer">Jean Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Henri Rochefort</field>
+<field name="librettistSort">Rochefort, Henri</field>
+<field name="librettist">Adrien Marx</field>
+<field name="librettistSort">Marx, Adrien</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+premier+avril+Jean+Jacques+Debillemont&amp;search_field=search</field>
+</doc>
+</add>

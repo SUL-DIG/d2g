@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129552</field>
+<field name="genre">Operas</field>
+<field name="title">Desirée</field>
+<field name="titleSort">Desirée</field>
+<field name="composer">John Philip Sousa</field>
+<field name="composerSort">Sousa, John Philip</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Edward Martin Taber</field>
+<field name="librettistSort">Taber, Edward Martin</field>
+<field name="librettist">John Maddison Morton</field>
+<field name="librettistSort">Morton, John Maddison</field>
+<field name="theater">National Theater</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Desirée+John+Philip+Sousa&amp;search_field=search</field>
+</doc>
+</add>

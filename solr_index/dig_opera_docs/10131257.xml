@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131257</field>
+<field name="genre">Operas</field>
+<field name="title">O faros (The Lighthouse)</field>
+<field name="titleSort">faros (The Lighthouse)</field>
+<field name="composer">Mihalis Travlos</field>
+<field name="composerSort">Travlos, Mihalis</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Marielli Sfakianaki</field>
+<field name="librettistSort">Sfakianaki, Marielli</field>
+<field name="theater">Moussikos Avgoustos Festival</field>
+<field name="city">Iráklion</field>
+<field name="region">Kríti</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+faros+The+Lighthouse+Mihalis+Travlos&amp;search_field=search</field>
+</doc>
+</add>

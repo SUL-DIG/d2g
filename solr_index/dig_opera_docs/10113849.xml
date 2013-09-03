@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113849</field>
+<field name="genre">Operas</field>
+<field name="title">Seabird Island</field>
+<field name="titleSort">Seabird Island</field>
+<field name="composer">Derek Healey</field>
+<field name="composerSort">Healey, Derek</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Norman Newton</field>
+<field name="librettistSort">Newton, Norman</field>
+<field name="theater">Spring Festival</field>
+<field name="city">Guelph</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seabird+Island+Derek+Healey&amp;search_field=search</field>
+</doc>
+</add>

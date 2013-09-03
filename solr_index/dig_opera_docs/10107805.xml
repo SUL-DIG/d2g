@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107805</field>
+<field name="genre">Operas</field>
+<field name="title">La bella modista di Chiaja</field>
+<field name="titleSort">bella modista di Chiaja</field>
+<field name="composer">Giovanni Di Lorenzo</field>
+<field name="composerSort">Lorenzo, Giovanni Di</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Alfredo Avellino</field>
+<field name="librettistSort">Avellino, Alfredo</field>
+<field name="theater">Teatro Partenope</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bella+modista+di+Chiaja+Giovanni+Di+Lorenzo&amp;search_field=search</field>
+</doc>
+</add>

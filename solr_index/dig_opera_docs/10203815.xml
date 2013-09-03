@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203815</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Samuel presentado al tempio</field>
+		<field name="titleSort">Samuel presentado al tempio</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Samuel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samuel+presentado+al+tempio+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

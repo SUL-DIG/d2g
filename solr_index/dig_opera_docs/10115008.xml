@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115008</field>
+<field name="genre">Operas</field>
+<field name="title">Les confidences</field>
+<field name="titleSort">confidences</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Antoine Gabriel Jars</field>
+<field name="librettistSort">Jars, Antoine Gabriel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+confidences+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

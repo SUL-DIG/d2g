@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129257</field>
+<field name="genre">Operas</field>
+<field name="title">The Duchess of Dijon</field>
+<field name="titleSort">Duchess of Dijon</field>
+<field name="composer">Walter Slaughter</field>
+<field name="composerSort">Slaughter, Walter</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Basil Hood</field>
+<field name="librettistSort">Hood, Basil</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Portsmouth</field>
+<field name="region">Hampshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duchess+of+Dijon+Walter+Slaughter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133106</field>
+<field name="genre">Operas</field>
+<field name="title">Le monde de la lune</field>
+<field name="titleSort">monde de la lune</field>
+<field name="composer">Ernst Wilhelm Wolf</field>
+<field name="composerSort">Wolf, Ernst Wilhelm</field>
+
+
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+monde+de+la+lune+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
+</doc>
+</add>

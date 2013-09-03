@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129718</field>
+<field name="genre">Operas</field>
+<field name="title">L'Achemo imperatore della China</field>
+<field name="titleSort">Achemo imperatore della China</field>
+<field name="composer">Giovanni Statella</field>
+<field name="composerSort">Statella, Giovanni</field>
+<field name="year">1751</field>
+<field name="date">1751</field><field name="theater">Real Teatro di Santa Cecilia</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Achemo+imperatore+della+China+Giovanni+Statella&amp;search_field=search</field>
+</doc>
+</add>

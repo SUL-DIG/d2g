@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112318</field>
+<field name="genre">Operas</field>
+<field name="title">Robinson und Freitag</field>
+<field name="titleSort">Robinson und Freitag</field>
+<field name="composer">Theo Goldberg</field>
+<field name="composerSort">Goldberg, Theo</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Heinz von Cramer</field>
+<field name="librettistSort">Cramer, Heinz von</field>
+<field name="theater">RIAS Radio (Rundfunk im amerikanischen Sektor Berlin)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robinson+und+Freitag+Theo+Goldberg&amp;search_field=search</field>
+</doc>
+</add>

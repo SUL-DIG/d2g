@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203896</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Miguel de los Santos</field>
+		<field name="titleSort">San Miguel de los Santos</field>
+		<field name="year">1779</field>
+		
+		
+		<field name="date">1779</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Michael de Sanctis</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">10</field>
+		<field name="feastDate">April 10</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Miguel+de+los+Santos+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

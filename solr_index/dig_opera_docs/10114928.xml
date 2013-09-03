@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114928</field>
+<field name="genre">Operas</field>
+<field name="title">Elena da Feltre</field>
+<field name="titleSort">Elena da Feltre</field>
+<field name="composer">Giuseppe Innocenzi</field>
+<field name="composerSort">Innocenzi, Giuseppe</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="theater">Teatro dei signori Condomini</field>
+<field name="city">Macerata</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elena+da+Feltre+Giuseppe+Innocenzi&amp;search_field=search</field>
+</doc>
+</add>

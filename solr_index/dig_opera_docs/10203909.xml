@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203909</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Pietro</field>
+		<field name="titleSort">San Pietro</field>
+		<field name="year">1738</field>
+		
+		
+		<field name="date">1738</field>
+		<field name="composer">Giovanni Battista Martini</field>
+		<field name="composerSort">Martini, Giovanni Battista</field>
+		<field name="librettist">Nicolò Coluzzi</field>
+		<field name="librettistSort">Coluzzi, Nicolò</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Pietro+Giovanni+Battista+Martini&amp;search_field=search</field>
+	</doc></add>

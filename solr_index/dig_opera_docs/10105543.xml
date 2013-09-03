@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105543</field>
+<field name="genre">Operas</field>
+<field name="title">Out of the Desert</field>
+<field name="titleSort">Out of the Desert</field>
+<field name="composer">Julius Chajes</field>
+<field name="composerSort">Chajes, Julius</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Michael Atzmoni Keen</field>
+<field name="librettistSort">Keen, Michael Atzmoni</field>
+<field name="theater">Temple Israel</field>
+<field name="city">Detroit</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Out+of+the+Desert+Julius+Chajes&amp;search_field=search</field>
+</doc>
+</add>

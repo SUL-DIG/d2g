@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200313</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Auferweckung des Lazarus</field>
+		<field name="titleSort">Auferweckung des Lazarus</field>
+		<field name="year">1858</field>
+		
+		
+		<field name="date">1858</field>
+		<field name="composer">Johann Vogt</field>
+		<field name="composerSort">Vogt, Johann</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Auferweckung+des+Lazarus+Johann+Vogt&amp;search_field=search</field>
+	</doc></add>

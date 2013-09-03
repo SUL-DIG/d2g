@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120863</field>
+<field name="genre">Operas</field>
+<field name="title">The Mask of Evil</field>
+<field name="titleSort">Mask of Evil</field>
+<field name="composer">Henry Mollicone</field>
+<field name="composerSort">Mollicone, Henry</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Catherine Pogue</field>
+<field name="librettistSort">Pogue, Catherine</field>
+<field name="theater">Tyrone Guthrie Theater</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mask+of+Evil+Henry+Mollicone&amp;search_field=search</field>
+</doc>
+</add>

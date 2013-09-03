@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104622</field>
+<field name="genre">Operas</field>
+<field name="title">Andromaca</field>
+<field name="titleSort">Andromaca</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1724</field>
+<field name="date">1724</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Theater in der Favorita</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromaca+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

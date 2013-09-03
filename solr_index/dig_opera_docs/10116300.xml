@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116300</field>
+<field name="genre">Operas</field>
+<field name="title">Edelweiss</field>
+<field name="titleSort">Edelweiss</field>
+<field name="composer">Karel Komzák</field>
+<field name="composerSort">Komzák, Karel</field>
+<field name="year">1891</field>
+<field name="date">1891</field><field name="theater">Stadttheater</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edelweiss+Karel+Komzák&amp;search_field=search</field>
+</doc>
+</add>

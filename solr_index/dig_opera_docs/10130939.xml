@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130939</field>
+<field name="genre">Operas</field>
+<field name="title">The Mother of Us All</field>
+<field name="titleSort">Mother of Us All</field>
+<field name="composer">Virgil Thomson</field>
+<field name="composerSort">Thomson, Virgil</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+<field name="theater">Columbia University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mother+of+Us+All+Virgil+Thomson&amp;search_field=search</field>
+</doc>
+</add>

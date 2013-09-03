@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115524</field>
+<field name="genre">Operas</field>
+<field name="title">Zouavens hjemkomst</field>
+<field name="titleSort">Zouavens hjemkomst</field>
+<field name="composer">Viggo Kalhauge</field>
+<field name="composerSort">Kalhauge, Viggo</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">E. Povelsen</field>
+<field name="librettistSort">Povelsen, E.</field>
+<field name="theater">Casino-Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zouavens+hjemkomst+Viggo+Kalhauge&amp;search_field=search</field>
+</doc>
+</add>

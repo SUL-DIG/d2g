@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130864</field>
+<field name="genre">Operas</field>
+<field name="title">"Fernando und Jariko, oder Die Indianer</field>
+<field name="titleSort">"Fernando und Jariko, oder Die Indianer"</field>
+<field name="composer">Franz Teyber</field>
+<field name="composerSort">Teyber, Franz</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Karl von Eckhartshausen</field>
+<field name="librettistSort">Eckhartshausen, Karl von</field>
+<field name="librettist">Joseph Addison</field>
+<field name="librettistSort">Addison, Joseph</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fernando+und+Jariko,+oder+Die+Indianer+Franz+Teyber&amp;search_field=search</field>
+</doc>
+</add>

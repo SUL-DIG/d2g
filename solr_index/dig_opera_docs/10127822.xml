@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127822</field>
+<field name="genre">Operas</field>
+<field name="title">Der Körbchenflechter an der Zauberquelle</field>
+<field name="titleSort">Körbchenflechter an der Zauberquelle</field>
+<field name="composer">Friedrich Satzenhofen</field>
+<field name="composerSort">Satzenhofen, Friedrich</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Michael Fenzl</field>
+<field name="librettistSort">Fenzl, Michael</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Körbchenflechter+an+der+Zauberquelle+Friedrich+Satzenhofen&amp;search_field=search</field>
+</doc>
+</add>

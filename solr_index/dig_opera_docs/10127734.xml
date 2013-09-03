@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127734</field>
+<field name="genre">Operas</field>
+<field name="title">Castore e Polluce</field>
+<field name="titleSort">Castore e Polluce</field>
+<field name="composer">Giuseppe Sarti</field>
+<field name="composerSort">Sarti, Giuseppe</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Ferdinando Moretti</field>
+<field name="librettistSort">Moretti, Ferdinando</field>
+<field name="librettist">[Pierre-Joseph Bernard] Gentil-Bernard</field>
+<field name="librettistSort">Gentil-Bernard, [Pierre-Joseph Bernard]</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Castore+e+Polluce+Giuseppe+Sarti&amp;search_field=search</field>
+</doc>
+</add>

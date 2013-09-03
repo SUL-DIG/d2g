@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125155</field>
+<field name="genre">Operas</field>
+<field name="title">Les rêveries renouvelées des grecs</field>
+<field name="titleSort">rêveries renouvelées des grecs</field>
+<field name="composer">Félix-Jean Prot</field>
+<field name="composerSort">Prot, Félix-Jean</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
+<field name="librettistSort">Voisenon, Claude-Henri de Fuzée de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+rêveries+renouvelées+des+grecs+Félix-Jean+Prot&amp;search_field=search</field>
+</doc>
+</add>

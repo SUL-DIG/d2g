@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129985</field>
+<field name="genre">Operas</field>
+<field name="title">Fest in Casablanca</field>
+<field name="titleSort">Fest in Casablanca</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">[Günther Franzke] Günther Schwenn</field>
+<field name="librettistSort">Schwenn, Günther [Günther Franzke]</field>
+<field name="librettist">Waldemar Frank</field>
+<field name="librettistSort">Frank, Waldemar</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fest+in+Casablanca+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

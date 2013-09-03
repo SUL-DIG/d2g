@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132068</field>
+<field name="genre">Operas</field>
+<field name="title">Baptême de sang</field>
+<field name="titleSort">Baptême de sang</field>
+<field name="composer">Édouard Villette</field>
+<field name="composerSort">Villette, Édouard</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">S. B. de Courpon</field>
+<field name="librettistSort">Courpon, S. B. de</field>
+<field name="theater">Théâtre de la Bodinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baptême+de+sang+Édouard+Villette&amp;search_field=search</field>
+</doc>
+</add>

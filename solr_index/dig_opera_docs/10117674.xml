@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117674</field>
+<field name="genre">Operas</field>
+<field name="title">Les recruteurs</field>
+<field name="titleSort">recruteurs</field>
+<field name="composer">Louis Jacques Alfred Lefebure-Wely</field>
+<field name="composerSort">Lefebure-Wely, Louis Jacques Alfred</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Amédée de Jallais</field>
+<field name="librettistSort">Jallais, Amédée de</field>
+<field name="librettist">Alphonse Vulpian</field>
+<field name="librettistSort">Vulpian, Alphonse</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+recruteurs+Louis+Jacques+Alfred+Lefebure-Wely&amp;search_field=search</field>
+</doc>
+</add>

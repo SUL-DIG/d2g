@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115707</field>
+<field name="genre">Operas</field>
+<field name="title">Hansi fliegt zum Negerkral</field>
+<field name="titleSort">Hansi fliegt zum Negerkral</field>
+<field name="composer">Rudolf Kattnigg</field>
+<field name="composerSort">Kattnigg, Rudolf</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Hera Kassmekat</field>
+<field name="librettistSort">Kassmekat, Hera</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hansi+fliegt+zum+Negerkral+Rudolf+Kattnigg&amp;search_field=search</field>
+</doc>
+</add>

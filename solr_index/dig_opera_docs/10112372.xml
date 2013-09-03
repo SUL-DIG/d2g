@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112372</field>
+<field name="genre">Operas</field>
+<field name="title">El jíbaro</field>
+<field name="titleSort">jíbaro</field>
+<field name="composer">Manuel Gonzalez</field>
+<field name="composerSort">Gonzalez, Manuel</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Ramón Méndez Guiсones</field>
+<field name="librettistSort">Méndez Guiсones, Ramón</field>
+<field name="theater">Carnegie Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+jíbaro+Manuel+Gonzalez&amp;search_field=search</field>
+</doc>
+</add>

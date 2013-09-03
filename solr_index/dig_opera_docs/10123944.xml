@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123944</field>
+<field name="genre">Operas</field>
+<field name="title">Antonio Foscarini</field>
+<field name="titleSort">Antonio Foscarini</field>
+<field name="composer">Luigi Petrali</field>
+<field name="composerSort">Petrali, Luigi</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Pietro Molinelli</field>
+<field name="librettistSort">Molinelli, Pietro</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antonio+Foscarini+Luigi+Petrali&amp;search_field=search</field>
+</doc>
+</add>

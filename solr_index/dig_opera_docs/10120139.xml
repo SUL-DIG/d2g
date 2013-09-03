@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120139</field>
+<field name="genre">Operas</field>
+<field name="title">Riccardo III</field>
+<field name="titleSort">Riccardo III</field>
+<field name="composer">Giovanni Battista Meiners</field>
+<field name="composerSort">Meiners, Giovanni Battista</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Andrea Codebò</field>
+<field name="librettistSort">Codebò, Andrea</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riccardo+III+Giovanni+Battista+Meiners&amp;search_field=search</field>
+</doc>
+</add>

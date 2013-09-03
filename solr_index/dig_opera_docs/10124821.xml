@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124821</field>
+<field name="genre">Operas</field>
+<field name="title">Caraco-la-Brazas</field>
+<field name="titleSort">Caraco-la-Brazas</field>
+<field name="composer">A. Porinelly</field>
+<field name="composerSort">Porinelly, A.</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Xavier Maunier</field>
+<field name="librettistSort">Maunier, Xavier</field>
+<field name="librettist">André Maurevert</field>
+<field name="librettistSort">Maurevert, André</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caraco-la-Brazas+A.+Porinelly&amp;search_field=search</field>
+</doc>
+</add>

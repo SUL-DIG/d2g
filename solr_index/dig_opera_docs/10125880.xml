@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125880</field>
+<field name="genre">Operas</field>
+<field name="title">Vandergold kisasszony</field>
+<field name="titleSort">Vandergold kisasszony</field>
+<field name="composer">Aladár Rényi</field>
+<field name="composerSort">Rényi, Aladár</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Sándor Hevesi</field>
+<field name="librettistSort">Hevesi, Sándor</field>
+<field name="librettist">Zsolt Harsányi</field>
+<field name="librettistSort">Harsányi, Zsolt</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vandergold+kisasszony+Aladár+Rényi&amp;search_field=search</field>
+</doc>
+</add>

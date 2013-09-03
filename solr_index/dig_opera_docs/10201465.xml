@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201465</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Gedeone geroglifico del glorioso patriarca S Domenico institutore del sacratissimo Rosario della Vergine</field>
+		<field name="titleSort">Gedeone geroglifico del glorioso patriarca S Domenico institutore del sacratissimo Rosario della Vergine</field>
+		<field name="year">1701</field>
+		
+		
+		<field name="date">1701</field>
+		<field name="composer">Giuseppe Vignola</field>
+		<field name="composerSort">Vignola, Giuseppe</field>
+		<field name="librettist">Andrea Perruccio e Fardella</field>
+		<field name="librettistSort">Perruccio e Fardella, Andre</field>
+		
+		<field name="theater">Congregazione del Santissimo Rosario di Palazzo</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Gedeone+geroglifico+del+glorioso+patriarca+S+Domenico+institutore+del+sacratissimo+Rosario+della+Vergine+Giuseppe+Vignola&amp;search_field=search</field>
+	</doc></add>

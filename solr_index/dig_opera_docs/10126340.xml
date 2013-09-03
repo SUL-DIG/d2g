@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126340</field>
+<field name="genre">Operas</field>
+<field name="title">Little Jo</field>
+<field name="titleSort">Little Jo</field>
+<field name="composer">John Donald Robb</field>
+<field name="composerSort">Robb, John Donald</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Robert Bright</field>
+<field name="librettistSort">Bright, Robert</field>
+<field name="theater">Little Theater</field>
+<field name="city">Albuquerque</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Jo+John+Donald+Robb&amp;search_field=search</field>
+</doc>
+</add>

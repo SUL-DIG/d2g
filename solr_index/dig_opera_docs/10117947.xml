@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117947</field>
+<field name="genre">Operas</field>
+<field name="title">"La simpatia nell'odio, ovvero Le Amazoni amanti</field>
+<field name="titleSort">"simpatia nell'odio, ovvero Le Amazoni amanti"</field>
+<field name="composer">"Leopold I, Kaiser von Deutschland"</field>
+<field name="composerSort">Deutschland, Leopold I, Kaiser von</field>
+<field name="year">1664</field>
+<field name="date">1664</field>
+<field name="librettist">Gian Pietro Monesio</field>
+<field name="librettistSort">Monesio, Gian Pietro</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+simpatia+nell'odio,+ovvero+Le+Amazoni+amanti+Leopold+I,+Kaiser+von+Deutschland&amp;search_field=search</field>
+</doc>
+</add>

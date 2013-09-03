@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203438</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pohvala Kirilu i Metodiju (In Praise of Cyril and Methodius)</field>
+		<field name="titleSort">Pohvala Kirilu i Metodiju (In Praise of Cyril and Methodius)</field>
+		<field name="year">1969</field>
+		
+		
+		<field name="date">1969</field>
+		<field name="composer">Tomislav Zografski</field>
+		<field name="composerSort">Zografski, Tomislav</field>
+		<field name="librettist">Saint Clement</field>
+		<field name="librettistSort">Clement, Saint</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saints Cyril</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">14</field>
+		<field name="feastDate">February 14</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pohvala+Kirilu+i+Metodiju+(In+Praise+of+Cyril+and+Methodius)+Tomislav+Zografski&amp;search_field=search</field>
+	</doc></add>

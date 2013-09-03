@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204192</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die schmerzensvolle Mutter Gottes</field>
+		<field name="titleSort">schmerzensvolle Mutter Gottes</field>
+		<field name="year">1761</field>
+		
+		
+		<field name="date">1761</field>
+		<field name="composer">Felix Benda</field>
+		<field name="composerSort">Benda, Felix</field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schmerzensvolle+Mutter+Gottes+Felix+Benda&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124405</field>
+<field name="genre">Operas</field>
+<field name="title">Osudny Manévr</field>
+<field name="titleSort">Osudny Manévr</field>
+<field name="composer">Adolf Piskacek</field>
+<field name="composerSort">Piskacek, Adolf</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Ludek Archleb</field>
+<field name="librettistSort">Archleb, Ludek</field>
+<field name="theater">Divadlo na Vinohradech</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Osudny+Manévr+Adolf+Piskacek&amp;search_field=search</field>
+</doc>
+</add>

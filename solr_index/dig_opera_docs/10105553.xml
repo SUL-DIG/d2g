@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105553</field>
+<field name="genre">Operas</field>
+<field name="title">Les dettes</field>
+<field name="titleSort">dettes</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Nicolas-Julien Forgeot</field>
+<field name="librettistSort">Forgeot, Nicolas-Julien</field>
+
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dettes+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

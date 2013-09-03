@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101039</field>
+<field name="genre">Operas</field>
+<field name="title">The Blind Beggar of Bethnal Green</field>
+<field name="titleSort">Blind Beggar of Bethnal Green</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1741</field>
+<field name="date">1741</field>
+<field name="librettist">Robert Dodsley</field>
+<field name="librettistSort">Dodsley, Robert</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blind+Beggar+of+Bethnal+Green+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

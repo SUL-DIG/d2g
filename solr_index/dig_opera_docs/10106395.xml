@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106395</field>
+<field name="genre">Operas</field>
+<field name="title">"La forza del genio, o sia Il pastor guerriero</field>
+<field name="titleSort">"forza del genio, o sia Il pastor guerriero"</field>
+<field name="composer">Nicola Conforto</field>
+<field name="composerSort">Conforto, Nicola</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Giuseppe Bonecchi</field>
+<field name="librettistSort">Bonecchi, Giuseppe</field>
+
+<field name="city">Aranjuez</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+del+genio,+o+sia+Il+pastor+guerriero+Nicola+Conforto&amp;search_field=search</field>
+</doc>
+</add>

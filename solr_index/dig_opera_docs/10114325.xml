@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114325</field>
+<field name="genre">Operas</field>
+<field name="title">Il primo navigatore</field>
+<field name="titleSort">primo navigatore</field>
+<field name="composer">Friedrich Heinrich Himmel</field>
+<field name="composerSort">Himmel, Friedrich Heinrich</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Simeone Antonio Sografi</field>
+<field name="librettistSort">Sografi, Simeone Antonio</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+primo+navigatore+Friedrich+Heinrich+Himmel&amp;search_field=search</field>
+</doc>
+</add>

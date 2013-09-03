@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129419</field>
+<field name="genre">Operas</field>
+<field name="title">Jean et Geneviève</field>
+<field name="titleSort">Jean et Geneviève</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Edmond-Guillaume-François de Favières</field>
+<field name="librettistSort">Favières, Edmond-Guillaume-François de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+et+Geneviève+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

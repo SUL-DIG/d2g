@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101349</field>
+<field name="genre">Operas</field>
+<field name="title">The Sea-Side Story</field>
+<field name="titleSort">Sea-Side Story</field>
+<field name="composer">Thomas Attwood</field>
+<field name="composerSort">Attwood, Thomas</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">William Wyatt Dimond</field>
+<field name="librettistSort">Dimond, William Wyatt</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sea-Side+Story+Thomas+Attwood&amp;search_field=search</field>
+</doc>
+</add>

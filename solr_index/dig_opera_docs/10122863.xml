@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122863</field>
+<field name="genre">Operas</field>
+<field name="title">El caballero Pierrot</field>
+<field name="titleSort">caballero Pierrot</field>
+<field name="composer">Alfredo Padovani</field>
+<field name="composerSort">Padovani, Alfredo</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Ulises Favaro</field>
+<field name="librettistSort">Favaro, Ulises</field>
+<field name="theater">Politeama</field>
+<field name="city">Montevideo</field>
+
+<field name="country">Uruguay</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+caballero+Pierrot+Alfredo+Padovani&amp;search_field=search</field>
+</doc>
+</add>

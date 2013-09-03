@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115232</field>
+<field name="genre">Operas</field>
+<field name="title">"Rosaura, eller Kærlighed besejer alt</field>
+<field name="titleSort">"Rosaura, eller Kærlighed besejer alt"</field>
+<field name="composer">Knud Jeppesen</field>
+<field name="composerSort">Jeppesen, Knud</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosaura,+eller+Kærlighed+besejer+alt+Knud+Jeppesen&amp;search_field=search</field>
+</doc>
+</add>

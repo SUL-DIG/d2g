@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120937</field>
+<field name="genre">Operas</field>
+<field name="title">Loteria (The Lottery)</field>
+<field name="titleSort">Loteria (The Lottery)</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Oskar Milewski</field>
+<field name="librettistSort">Milewski, Oskar</field>
+
+<field name="city">Minsk</field>
+<field name="region">Minsk Oblast</field>
+<field name="country">Belarus</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Loteria+The+Lottery+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114173</field>
+<field name="genre">Operas</field>
+<field name="title">Un ténor très léger</field>
+<field name="titleSort">ténor très léger</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">René Lordereau</field>
+<field name="librettistSort">Lordereau, René</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+ténor+très+léger+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

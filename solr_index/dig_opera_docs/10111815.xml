@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111815</field>
+<field name="genre">Operas</field>
+<field name="title">Die Frau im Hermelin</field>
+<field name="titleSort">Frau im Hermelin</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Rudolf Schanzer</field>
+<field name="librettistSort">Schanzer, Rudolf</field>
+<field name="librettist">[Ernst Friedrich Wilhelm Juraschek] Ernst Welisch</field>
+<field name="librettistSort">Welisch, Ernst [Ernst Friedrich Wilhelm Juraschek]</field>
+<field name="theater">Theater des Westens</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Frau+im+Hermelin+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

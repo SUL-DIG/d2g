@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202249</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Johannes in Cyprus</field>
+		<field name="titleSort">Johannes in Cyprus</field>
+		
+		
+		
+		
+		<field name="composer">Friedrich Maria Schreinzer</field>
+		<field name="composerSort">Schreinzer, Friedrich Maria</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint John</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">27</field>
+		<field name="feastDate">December 27</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johannes+in+Cyprus+Friedrich+Maria+Schreinzer&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129747</field>
+<field name="genre">Operas</field>
+<field name="title">Jest temu lat szesnascie (Sixteen Years Ago)</field>
+<field name="titleSort">Jest temu lat szesnascie (Sixteen Years Ago)</field>
+<field name="composer">Józef Stefani</field>
+<field name="composerSort">Stefani, Józef</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Witalis Olechowski</field>
+<field name="librettistSort">Olechowski, Witalis</field>
+<field name="librettist">Victor-Henri-Brahain Ducange</field>
+<field name="librettistSort">Ducange, Victor-Henri-Brahain</field>
+
+<field name="city">Poznan</field>
+<field name="region">Wielkopolskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jest+temu+lat+szesnascie+Sixteen+Years+Ago+Józef+Stefani&amp;search_field=search</field>
+</doc>
+</add>

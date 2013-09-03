@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127464</field>
+<field name="genre">Operas</field>
+<field name="title">Hail Gloriana</field>
+<field name="titleSort">Hail Gloriana</field>
+<field name="composer">Peggy Salmon</field>
+<field name="composerSort">Salmon, Peggy</field>
+<field name="year">1977</field>
+<field name="date">1977</field><field name="theater">Buckland Abbey Festival</field>
+<field name="city">Plymouth</field>
+<field name="region">Devonshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hail+Gloriana+Peggy+Salmon&amp;search_field=search</field>
+</doc>
+</add>

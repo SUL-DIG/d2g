@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110619</field>
+<field name="genre">Operas</field>
+<field name="title">Mademoiselle de Mérange</field>
+<field name="titleSort">Mademoiselle de Mérange</field>
+<field name="composer">Angelo Frondoni</field>
+<field name="composerSort">Frondoni, Angelo</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Teatro Laranjeiras</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mademoiselle+de+Mérange+Angelo+Frondoni&amp;search_field=search</field>
+</doc>
+</add>

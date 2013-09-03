@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111836</field>
+<field name="genre">Operas</field>
+<field name="title">Das Spiel um die Liebe</field>
+<field name="titleSort">Spiel um die Liebe</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Rudolf Schanzer</field>
+<field name="librettistSort">Schanzer, Rudolf</field>
+<field name="librettist">[Ernst Friedrich Wilhelm Juraschek] Ernst Welisch</field>
+<field name="librettistSort">Welisch, Ernst [Ernst Friedrich Wilhelm Juraschek]</field>
+<field name="theater">Theater des Westens</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Spiel+um+die+Liebe+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

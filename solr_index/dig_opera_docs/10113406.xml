@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113406</field>
+<field name="genre">Operas</field>
+<field name="title">Fröken Ensam Hemma (Miss Home Alone)</field>
+<field name="titleSort">Fröken Ensam Hemma (Miss Home Alone)</field>
+<field name="composer">Bengt Hallberg</field>
+<field name="composerSort">Hallberg, Bengt</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Gunnel Linde</field>
+<field name="librettistSort">Linde, Gunnel</field>
+<field name="theater">SVT Television (Sveriges Television)</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fröken+Ensam+Hemma+Miss+Home+Alone+Bengt+Hallberg&amp;search_field=search</field>
+</doc>
+</add>

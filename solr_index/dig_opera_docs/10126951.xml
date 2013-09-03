@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126951</field>
+<field name="genre">Operas</field>
+<field name="title">Tri tolstyaka (Three Fat Men)</field>
+<field name="titleSort">Tri tolstyaka (Three Fat Men)</field>
+<field name="composer">Vladimir Il'ich Rubin</field>
+<field name="composerSort">Rubin, Vladimir Il'ich</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Sergey Bogomazov</field>
+<field name="librettistSort">Bogomazov, Sergey</field>
+<field name="librettist">Yury Karlovich Olesha</field>
+<field name="librettistSort">Olesha, Yury Karlovich</field>
+<field name="theater">House of Actors</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tri+tolstyaka+Three+Fat+Men+Vladimir+Il'ich+Rubin&amp;search_field=search</field>
+</doc>
+</add>

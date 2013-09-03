@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104474</field>
+<field name="genre">Operas</field>
+<field name="title">The Canterville Ghost</field>
+<field name="titleSort">Canterville Ghost</field>
+<field name="composer">Mervyn Burtch</field>
+<field name="composerSort">Burtch, Mervyn</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Mervyn Burtch</field>
+<field name="librettistSort">Burtch, Mervyn</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Howell's School</field>
+<field name="city">Llandaff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Canterville+Ghost+Mervyn+Burtch&amp;search_field=search</field>
+</doc>
+</add>

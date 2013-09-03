@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204462</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il tempio dell'amor divino</field>
+		<field name="titleSort">tempio dell'amor divino</field>
+		<field name="year">1858</field>
+		
+		
+		<field name="date">1858</field>
+		<field name="composer">Nicolò Conforto</field>
+		<field name="composerSort">Conforto, Nicolò</field>
+		<field name="librettist">Giuseppe Passieri</field>
+		<field name="librettistSort">Passieri, Giuseppe</field>
+		
+		
+		<field name="city">Lecce</field>
+		<field name="region">Puglia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tempio+dell'amor+divino+Nicolò+Conforto&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111682</field>
+<field name="genre">Operas</field>
+<field name="title">Re Straccione</field>
+<field name="titleSort">Re Straccione</field>
+<field name="composer">Carmelo Giacchino</field>
+<field name="composerSort">Giacchino, Carmelo</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Mario Zaccari</field>
+<field name="librettistSort">Zaccari, Mario</field>
+<field name="theater">Hôtel des Palmes</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Re+Straccione+Carmelo+Giacchino&amp;search_field=search</field>
+</doc>
+</add>

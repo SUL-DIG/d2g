@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120037</field>
+<field name="genre">Operas</field>
+<field name="title">Esmeralda</field>
+<field name="titleSort">Esmeralda</field>
+<field name="composer">Alberto Mazzucato</field>
+<field name="composerSort">Mazzucato, Alberto</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Filippo De Boni</field>
+<field name="librettistSort">De Boni, Filippo</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esmeralda+Alberto+Mazzucato&amp;search_field=search</field>
+</doc>
+</add>

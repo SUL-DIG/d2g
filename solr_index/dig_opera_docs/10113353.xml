@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113353</field>
+<field name="genre">Operas</field>
+<field name="title">Harald's Dream</field>
+<field name="titleSort">Harald's Dream</field>
+<field name="composer">Eugen David Haile</field>
+<field name="composerSort">Haile, Eugen David</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Eugen David Haile</field>
+<field name="librettistSort">Haile, Eugen David</field>
+
+<field name="city">Woodstock</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harald's+Dream+Eugen+David+Haile&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132894</field>
+<field name="genre">Operas</field>
+<field name="title">Bride of Fortune</field>
+<field name="titleSort">Bride of Fortune</field>
+<field name="composer">Gillian Whitehead</field>
+<field name="composerSort">Whitehead, Gillian</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Anna Maria Dell'oso</field>
+<field name="librettistSort">Dell'oso, Anna Maria</field>
+<field name="theater">West Australian Opera</field>
+<field name="city">Perth</field>
+<field name="region">Western Australia</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bride+of+Fortune+Gillian+Whitehead&amp;search_field=search</field>
+</doc>
+</add>

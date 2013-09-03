@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126612</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Julie</field>
+<field name="titleSort">Miss Julie</field>
+<field name="composer">Ned Rorem</field>
+<field name="composerSort">Rorem, Ned</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Kenward Elmslie</field>
+<field name="librettistSort">Elmslie, Kenward</field>
+<field name="librettist">August Strindberg</field>
+<field name="librettistSort">Strindberg, August</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Julie+Ned+Rorem&amp;search_field=search</field>
+</doc>
+</add>

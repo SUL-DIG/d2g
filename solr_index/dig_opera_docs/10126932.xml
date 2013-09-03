@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126932</field>
+<field name="genre">Operas</field>
+<field name="title">Meduza</field>
+<field name="titleSort">Meduza</field>
+<field name="composer">Ludomir Rózycki</field>
+<field name="composerSort">Rózycki, Ludomir</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Cezary Jellenta</field>
+<field name="librettistSort">Jellenta, Cezary</field>
+
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meduza+Ludomir+Rózycki&amp;search_field=search</field>
+</doc>
+</add>

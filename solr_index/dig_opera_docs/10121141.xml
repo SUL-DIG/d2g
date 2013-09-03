@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121141</field>
+<field name="genre">Operas</field>
+<field name="title">Ildegonda</field>
+<field name="titleSort">Ildegonda</field>
+<field name="composer">Melesio Morales</field>
+<field name="composerSort">Morales, Melesio</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Temistocle Solera</field>
+<field name="librettistSort">Solera, Temistocle</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ildegonda+Melesio+Morales&amp;search_field=search</field>
+</doc>
+</add>

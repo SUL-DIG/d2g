@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125005</field>
+<field name="genre">Operas</field>
+<field name="title">Le vieux prix de Rome</field>
+<field name="titleSort">vieux prix de Rome</field>
+<field name="composer">Henri Hippolyte Potier</field>
+<field name="composerSort">Potier, Henri Hippolyte</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Charles Potier</field>
+<field name="librettistSort">Potier, Charles</field>
+<field name="theater">Théâtre Beaumarchais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vieux+prix+de+Rome+Henri+Hippolyte+Potier&amp;search_field=search</field>
+</doc>
+</add>

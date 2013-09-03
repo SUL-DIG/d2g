@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108802</field>
+<field name="genre">Operas</field>
+<field name="title">Die Mädchengarnison</field>
+<field name="titleSort">Mädchengarnison</field>
+<field name="composer">Karl Traugott Eisrich</field>
+<field name="composerSort">Eisrich, Karl Traugott</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Heinrich Gottlieb Schmieder</field>
+<field name="librettistSort">Schmieder, Heinrich Gottlieb</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Mädchengarnison+Karl+Traugott+Eisrich&amp;search_field=search</field>
+</doc>
+</add>

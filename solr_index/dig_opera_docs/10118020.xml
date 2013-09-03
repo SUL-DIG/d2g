@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118020</field>
+<field name="genre">Operas</field>
+<field name="title">Sophie</field>
+<field name="titleSort">Sophie</field>
+<field name="composer">Charles Levadé</field>
+<field name="composerSort">Levadé, Charles</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Georges Docquois</field>
+<field name="librettistSort">Docquois, Georges</field>
+<field name="librettist">Louis Tiercelin</field>
+<field name="librettistSort">Tiercelin, Louis</field>
+<field name="theater">Casino Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sophie+Charles+Levadé&amp;search_field=search</field>
+</doc>
+</add>

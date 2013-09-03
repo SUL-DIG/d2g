@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121535</field>
+<field name="genre">Operas</field>
+<field name="title">Percival und Griseldis</field>
+<field name="titleSort">Percival und Griseldis</field>
+<field name="composer">Friedrich Müller (3)</field>
+<field name="composerSort">Müller (3), Friedrich</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Hermann Herzenskron</field>
+<field name="librettistSort">Herzenskron, Hermann</field>
+<field name="librettist">Anton von Klesheim</field>
+<field name="librettistSort">Klesheim, Anton von</field>
+<field name="theater">Private Performance</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Percival+und+Griseldis+Friedrich+Müller+-3&amp;search_field=search</field>
+</doc>
+</add>

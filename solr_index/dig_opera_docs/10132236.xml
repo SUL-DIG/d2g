@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132236</field>
+<field name="genre">Operas</field>
+<field name="title">Filips de Schone</field>
+<field name="titleSort">Filips de Schone</field>
+<field name="composer">Gisleen van Vlemmeren</field>
+<field name="composerSort">Vlemmeren, Gisleen van</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Adolfo de Castro</field>
+<field name="librettistSort">Castro, Adolfo de</field>
+
+<field name="city">Sint-Niklaas</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Filips+de+Schone+Gisleen+van+Vlemmeren&amp;search_field=search</field>
+</doc>
+</add>

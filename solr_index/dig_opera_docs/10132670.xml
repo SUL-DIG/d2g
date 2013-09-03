@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132670</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bürgschaft</field>
+<field name="titleSort">Bürgschaft</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Caspar Neher</field>
+<field name="librettistSort">Neher, Caspar</field>
+<field name="theater">Städtische Opernhaus</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bürgschaft+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

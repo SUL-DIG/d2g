@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119556</field>
+<field name="genre">Operas</field>
+<field name="title">Le diable blanc</field>
+<field name="titleSort">diable blanc</field>
+<field name="composer">Paul Martyns</field>
+<field name="composerSort">Martyns, Paul</field>
+<field name="year">1877</field>
+<field name="date">1877</field><field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+blanc+Paul+Martyns&amp;search_field=search</field>
+</doc>
+</add>

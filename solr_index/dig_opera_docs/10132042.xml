@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132042</field>
+<field name="genre">Operas</field>
+<field name="title">Un bal а la sous-préfecture</field>
+<field name="titleSort">bal а la sous-préfecture</field>
+<field name="composer">Aldé de Villebichot</field>
+<field name="composerSort">Villebichot, Aldé de</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Étienne Tréfeu</field>
+<field name="librettistSort">Tréfeu, Étienne</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+bal+а+la+sous-préfecture+Aldé+de+Villebichot&amp;search_field=search</field>
+</doc>
+</add>

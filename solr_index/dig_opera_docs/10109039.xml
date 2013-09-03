@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109039</field>
+<field name="genre">Operas</field>
+<field name="title">Silas</field>
+<field name="titleSort">Silas</field>
+<field name="composer">Heinrich Esser</field>
+<field name="composerSort">Esser, Heinrich</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Carl Gollmick</field>
+<field name="librettistSort">Gollmick, Carl</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silas+Heinrich+Esser&amp;search_field=search</field>
+</doc>
+</add>

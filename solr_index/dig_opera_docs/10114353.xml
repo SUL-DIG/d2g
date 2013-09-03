@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114353</field>
+<field name="genre">Operas</field>
+<field name="title">La danseuse de Tanagra</field>
+<field name="titleSort">danseuse de Tanagra</field>
+<field name="composer">Henri Hirschmann</field>
+<field name="composerSort">Hirschmann, Henri</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="librettist">Félicien Champsaur</field>
+<field name="librettistSort">Champsaur, Félicien</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+danseuse+de+Tanagra+Henri+Hirschmann&amp;search_field=search</field>
+</doc>
+</add>

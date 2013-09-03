@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110388</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della costanza</field>
+<field name="titleSort">trionfo della costanza</field>
+<field name="composer">Carlo de Franchi</field>
+<field name="composerSort">Franchi, Carlo de</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Giuseppe Maria d'Orengo</field>
+<field name="librettistSort">d'Orengo, Giuseppe Maria</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+costanza+Carlo+de+Franchi&amp;search_field=search</field>
+</doc>
+</add>

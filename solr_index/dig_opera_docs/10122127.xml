@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122127</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schelm von Bergen</field>
+<field name="titleSort">Schelm von Bergen</field>
+<field name="composer">Gustav Niehr</field>
+<field name="composerSort">Niehr, Gustav</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">[Sandor Friedrich Rosenfeld] Roderich Fels</field>
+<field name="librettistSort">Fels, Roderich [Sandor Friedrich Rosenfeld]</field>
+<field name="librettist">Camillo Grans</field>
+<field name="librettistSort">Grans, Camillo</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schelm+von+Bergen+Gustav+Niehr&amp;search_field=search</field>
+</doc>
+</add>

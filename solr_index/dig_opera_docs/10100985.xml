@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100985</field>
+<field name="genre">Operas</field>
+<field name="title">Colonel Jonathan the Saint</field>
+<field name="titleSort">Colonel Jonathan the Saint</field>
+<field name="composer">Dominick Argento</field>
+<field name="composerSort">Argento, Dominick</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">[John Olon] John Olon-Scrymgeour</field>
+<field name="librettistSort">Olon-Scrymgeour, John [John Olon]</field>
+<field name="theater">Loretto Heights College</field>
+<field name="city">Denver</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Colonel+Jonathan+the+Saint+Dominick+Argento&amp;search_field=search</field>
+</doc>
+</add>

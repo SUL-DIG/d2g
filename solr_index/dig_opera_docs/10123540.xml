@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123540</field>
+<field name="genre">Operas</field>
+<field name="title">Das Irrlicht</field>
+<field name="titleSort">Irrlicht</field>
+<field name="composer">Robert Payr</field>
+<field name="composerSort">Payr, Robert</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Hugo Schwerdtner</field>
+<field name="librettistSort">Schwerdtner, Hugo</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Irrlicht+Robert+Payr&amp;search_field=search</field>
+</doc>
+</add>

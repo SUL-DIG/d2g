@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131349</field>
+<field name="genre">Operas</field>
+<field name="title">Ethan Brand</field>
+<field name="titleSort">Ethan Brand</field>
+<field name="composer">Philip Trier</field>
+<field name="composerSort">Trier, Philip</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Lake Forest Academy</field>
+<field name="city">Lake Forest</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ethan+Brand+Philip+Trier&amp;search_field=search</field>
+</doc>
+</add>

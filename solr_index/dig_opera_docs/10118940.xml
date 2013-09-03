@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118940</field>
+<field name="genre">Operas</field>
+<field name="title">Antigona</field>
+<field name="titleSort">Antigona</field>
+<field name="composer">Gian Francesco de Majo</field>
+<field name="composerSort">Majo, Gian Francesco de</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Gaetano Roccaforte</field>
+<field name="librettistSort">Roccaforte, Gaetano</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigona+Gian+Francesco+de+Majo&amp;search_field=search</field>
+</doc>
+</add>

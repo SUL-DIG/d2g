@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113898</field>
+<field name="genre">Operas</field>
+<field name="title">Die Ruinen von Tharand</field>
+<field name="titleSort">Ruinen von Tharand</field>
+<field name="composer">Gustav Adolph Heinze</field>
+<field name="composerSort">Heinze, Gustav Adolph</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Henriëtte Heinze-Berg</field>
+<field name="librettistSort">Heinze-Berg, Henriëtte</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Ruinen+von+Tharand+Gustav+Adolph+Heinze&amp;search_field=search</field>
+</doc>
+</add>

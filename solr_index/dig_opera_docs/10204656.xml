@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204656</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della religione, ossia Il martirio di San Pietro</field>
+		<field name="titleSort">trionfo della religione, ossia martirio di San Pietro</field>
+		<field name="year">1814</field>
+		
+		
+		<field name="date">1814</field>
+		<field name="composer">Antonio Brunetti</field>
+		<field name="composerSort">Brunetti, Antonio</field>
+		
+		
+		
+		<field name="city">Urbino</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+religione,+ossia+Il+martirio+di+San+Pietro+Antonio+Brunetti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120770</field>
+<field name="genre">Operas</field>
+<field name="title">Een engel op wacht</field>
+<field name="titleSort">engel op wacht</field>
+<field name="composer">Karel Miry</field>
+<field name="composerSort">Miry, Karel</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Pieter Geiregat</field>
+<field name="librettistSort">Geiregat, Pieter</field>
+<field name="theater">Nederlandsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Een+engel+op+wacht+Karel+Miry&amp;search_field=search</field>
+</doc>
+</add>

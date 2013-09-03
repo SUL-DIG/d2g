@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115658</field>
+<field name="genre">Operas</field>
+<field name="title">Tasuleegid (Flames of Vengeance)</field>
+<field name="titleSort">Tasuleegid (Flames of Vengeance)</field>
+<field name="composer">Eugen Kapp</field>
+<field name="composerSort">Kapp, Eugen</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Paul-Earik Rummo</field>
+<field name="librettistSort">Rummo, Paul-Earik</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tasuleegid+Flames+of+Vengeance+Eugen+Kapp&amp;search_field=search</field>
+</doc>
+</add>

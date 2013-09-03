@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108625</field>
+<field name="genre">Operas</field>
+<field name="title">The Box</field>
+<field name="titleSort">Box</field>
+<field name="composer">Charles G. Eakin</field>
+<field name="composerSort">Eakin, Charles G.</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">University of Oklahoma</field>
+<field name="city">Norman</field>
+<field name="region">Oklahoma</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Box+Charles+G.+Eakin&amp;search_field=search</field>
+</doc>
+</add>

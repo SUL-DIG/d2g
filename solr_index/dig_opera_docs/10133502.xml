@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133502</field>
+<field name="genre">Operas</field>
+<field name="title">Százszorszép</field>
+<field name="titleSort">Százszorszép</field>
+<field name="composer">Béla Zerkovitz</field>
+<field name="composerSort">Zerkovitz, Béla</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Jenö Faragó</field>
+<field name="librettistSort">Faragó, Jenö</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Százszorszép+Béla+Zerkovitz&amp;search_field=search</field>
+</doc>
+</add>

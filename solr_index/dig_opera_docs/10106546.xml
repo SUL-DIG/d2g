@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106546</field>
+<field name="genre">Operas</field>
+<field name="title">La Cassandra indovina</field>
+<field name="titleSort">Cassandra indovina</field>
+<field name="composer">Francesco Antonio Copillo</field>
+<field name="composerSort">Copillo, Francesco Antonio</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Antonio Salamone</field>
+<field name="librettistSort">Salamone, Antonio</field>
+
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Cassandra+indovina+Francesco+Antonio+Copillo&amp;search_field=search</field>
+</doc>
+</add>

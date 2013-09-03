@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200544</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Carmina in die solemnitatis Sanctae Mariae Magdalanae</field>
+		<field name="titleSort">Carmina in die solemnitatis Sanctae Mariae Magdalanae</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Ferdinando Bertoni</field>
+		<field name="composerSort">Bertoni, Ferdinando</field>
+		
+		
+		<field name="theater">Ospedale dei Mendicanti</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmina+in+die+solemnitatis+Sanctae+Mariae+Magdalanae+Ferdinando+Bertoni&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107730</field>
+<field name="genre">Operas</field>
+<field name="title">The Brickdust Man</field>
+<field name="titleSort">Brickdust Man</field>
+<field name="composer">Charles Dibdin</field>
+<field name="composerSort">Dibdin, Charles</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Isaac Bickerstaff</field>
+<field name="librettistSort">Bickerstaff, Isaac</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Brickdust+Man+Charles+Dibdin&amp;search_field=search</field>
+</doc>
+</add>

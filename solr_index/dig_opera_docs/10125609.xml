@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125609</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Rysoor</field>
+<field name="titleSort">conte di Rysoor</field>
+<field name="composer">Riccardo Rasori</field>
+<field name="composerSort">Rasori, Riccardo</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Attilio Catelli</field>
+<field name="librettistSort">Catelli, Attilio</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Rysoor+Riccardo+Rasori&amp;search_field=search</field>
+</doc>
+</add>

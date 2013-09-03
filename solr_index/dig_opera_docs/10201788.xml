@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201788</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Guttenberg</field>
+		<field name="titleSort">Guttenberg</field>
+		<field name="year">1837</field>
+		<field name="month">August</field>
+		<field name="day">14</field>
+		<field name="date">August 14, 1837</field>
+		<field name="composer">Carl Loewe</field>
+		<field name="composerSort">Loewe, Carl</field>
+		<field name="librettist">Ludwig Giesebrecht</field>
+		<field name="librettistSort">Giesebrecht, Ludwig</field>
+		
+		<field name="theater">Stadttheater</field>
+		<field name="city">Mainz</field>
+		<field name="region">Rheinland-Pfalz</field>
+		<field name="country">Germany</field>
+		<field name="subject">Johannes Gutenberg</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guttenberg+Carl+Loewe&amp;search_field=search</field>
+	</doc></add>

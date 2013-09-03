@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121385</field>
+<field name="genre">Operas</field>
+<field name="title">Piccarda Donati</field>
+<field name="titleSort">Piccarda Donati</field>
+<field name="composer">Vincenzo Moscuzza</field>
+<field name="composerSort">Moscuzza, Vincenzo</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Gaetano Daita</field>
+<field name="librettistSort">Daita, Gaetano</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piccarda+Donati+Vincenzo+Moscuzza&amp;search_field=search</field>
+</doc>
+</add>

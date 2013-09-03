@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100207</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux avares</field>
+<field name="titleSort">deux avares</field>
+<field name="composer">Salvatore Agnelli</field>
+<field name="composerSort">Agnelli, Salvatore</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Charles-Georges Fenouillot de Falbaire</field>
+<field name="librettistSort">Fenouillot de Falbaire, Charles-Georges</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+avares+Salvatore+Agnelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204044</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Genovefa</field>
+		<field name="titleSort">Santa Genovefa</field>
+		<field name="year">1918</field>
+		
+		
+		<field name="date">1918</field>
+		<field name="composer">Dynam-Victor Fumet</field>
+		<field name="composerSort">Fumet, Dynam-Victor</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Genevieve</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">3</field>
+		<field name="feastDate">January 3</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Genovefa+Dynam-Victor+Fumet&amp;search_field=search</field>
+	</doc></add>

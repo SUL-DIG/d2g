@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117243</field>
+<field name="genre">Operas</field>
+<field name="title">Le cabaret des amours</field>
+<field name="titleSort">cabaret des amours</field>
+<field name="composer">__ Lanteires</field>
+<field name="composerSort">Lanteires, __</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Octave Pradels</field>
+<field name="librettistSort">Pradels, Octave</field>
+<field name="librettist">Jules Lévy</field>
+<field name="librettistSort">Lévy, Jules</field>
+<field name="theater">Théâtre du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cabaret+des+amours+__+Lanteires&amp;search_field=search</field>
+</doc>
+</add>

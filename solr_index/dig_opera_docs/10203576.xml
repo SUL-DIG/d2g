@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203576</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il regno di Maria assunta in cielo</field>
+		<field name="titleSort">regno di Maria assunta in cielo</field>
+		<field name="year">1705</field>
+		<field name="month">August</field>
+		<field name="day">23</field>
+		<field name="date">August 23, 1705</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		<field name="librettist">Pietro Ottoboni</field>
+		<field name="librettistSort">Ottoboni, Pietro</field>
+		
+		<field name="theater">Palazzo della Cancelleria</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Queen of Heaven</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+regno+di+Maria+assunta+in+cielo+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201671</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il giudizio di Salomone</field>
+		<field name="titleSort">giudizio di Salomone</field>
+		<field name="year">1765</field>
+		<field name="month">April</field>
+		<field name="day">5</field>
+		<field name="date">April 5, 1765</field>
+		<field name="composer">Ignaz Holzbauer</field>
+		<field name="composerSort">Holzbauer, Ignaz</field>
+		<field name="librettist">Mattia Verazi</field>
+		<field name="librettistSort">Verazi, Mattia</field>
+		
+		<field name="theater">Cappella elettorale Palatina</field>
+		<field name="city">Mannheim</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Judgment of Solomon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giudizio+di+Salomone+Ignaz+Holzbauer&amp;search_field=search</field>
+	</doc></add>

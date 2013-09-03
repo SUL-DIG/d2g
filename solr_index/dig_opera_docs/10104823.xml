@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104823</field>
+<field name="genre">Operas</field>
+<field name="title">Laure et Pétrarque</field>
+<field name="titleSort">Laure et Pétrarque</field>
+<field name="composer">Pierre Joseph Candeille</field>
+<field name="composerSort">Candeille, Pierre Joseph</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Pierre-Louis Moline</field>
+<field name="librettistSort">Moline, Pierre-Louis</field>
+<field name="theater">Château de Marly</field>
+<field name="city">Marly-le-Roi</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laure+et+Pétrarque+Pierre+Joseph+Candeille&amp;search_field=search</field>
+</doc>
+</add>

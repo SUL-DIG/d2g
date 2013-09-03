@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125560</field>
+<field name="genre">Operas</field>
+<field name="title">L'ombra di Werter</field>
+<field name="titleSort">ombra di Werter</field>
+<field name="composer">Alberto Iginio Randegger</field>
+<field name="composerSort">Randegger, Alberto Iginio</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Arturo Franci</field>
+<field name="librettistSort">Franci, Arturo</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ombra+di+Werter+Alberto+Iginio+Randegger&amp;search_field=search</field>
+</doc>
+</add>

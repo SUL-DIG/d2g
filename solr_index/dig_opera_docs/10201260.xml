@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201260</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Fallen Angel</field>
+		<field name="titleSort">Fallen Angel</field>
+		<field name="year">1839</field>
+		<field name="month">June</field>
+		<field name="day">10</field>
+		<field name="date">June 10, 1839</field>
+		<field name="composer">Henry Rowley Bishop</field>
+		<field name="composerSort">Bishop, Henry Rowley</field>
+		
+		
+		
+		<field name="city">Oxford</field>
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fallen+Angel+Henry+Rowley+Bishop&amp;search_field=search</field>
+	</doc></add>

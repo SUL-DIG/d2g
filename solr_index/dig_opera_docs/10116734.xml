@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116734</field>
+<field name="genre">Operas</field>
+<field name="title">Der Silenus von Florenz</field>
+<field name="titleSort">Silenus von Florenz</field>
+<field name="composer">Emil Kühnel</field>
+<field name="composerSort">Kühnel, Emil</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Curt Böhmer</field>
+<field name="librettistSort">Böhmer, Curt</field>
+<field name="theater">Gerhart-Hauptmann-Theater</field>
+<field name="city">Zittau</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Silenus+von+Florenz+Emil+Kühnel&amp;search_field=search</field>
+</doc>
+</add>

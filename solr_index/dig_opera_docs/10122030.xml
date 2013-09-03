@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122030</field>
+<field name="genre">Operas</field>
+<field name="title">Le Cent-Suisse</field>
+<field name="titleSort">Cent-Suisse</field>
+<field name="composer">Joseph Napoléon Ney</field>
+<field name="composerSort">Ney, Joseph Napoléon</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Paul Duport</field>
+<field name="librettistSort">Duport, Paul</field>
+<field name="librettist">Édouard Monnais</field>
+<field name="librettistSort">Monnais, Édouard</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Cent-Suisse+Joseph+Napoléon+Ney&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132468</field>
+<field name="genre">Operas</field>
+<field name="title">Die Traumprinzessin</field>
+<field name="titleSort">Traumprinzessin</field>
+<field name="composer">Hans Maria Wallner</field>
+<field name="composerSort">Wallner, Hans Maria</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">W. F. Horak</field>
+<field name="librettistSort">Horak, W. F.</field>
+<field name="librettist">Franz Heidrich</field>
+<field name="librettistSort">Heidrich, Franz</field>
+
+<field name="city">Baden bei Wien</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Traumprinzessin+Hans+Maria+Wallner&amp;search_field=search</field>
+</doc>
+</add>

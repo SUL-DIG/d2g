@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124852</field>
+<field name="genre">Operas</field>
+<field name="title">Imeneo in Atene</field>
+<field name="titleSort">Imeneo in Atene</field>
+<field name="composer">Nicola Porpora</field>
+<field name="composerSort">Porpora, Nicola</field>
+<field name="year">1723</field>
+<field name="date">1723</field>
+<field name="librettist">Silvio Stampiglia</field>
+<field name="librettistSort">Stampiglia, Silvio</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Imeneo+in+Atene+Nicola+Porpora&amp;search_field=search</field>
+</doc>
+</add>

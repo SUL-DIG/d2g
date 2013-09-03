@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107622</field>
+<field name="genre">Operas</field>
+<field name="title">Le nègre de la porte Saint-Denis</field>
+<field name="titleSort">nègre de la porte Saint-Denis</field>
+<field name="composer">Louis Desormes</field>
+<field name="composerSort">Desormes, Louis</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">[Ange Édouard Hermil] Milher</field>
+<field name="librettistSort">Milher, [Ange Édouard Hermil]</field>
+<field name="librettist">[Armand-Juda Nunès] Armand Numès</field>
+<field name="librettistSort">Numès, Armand [Armand-Juda Nunès]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nègre+de+la+porte+Saint-Denis+Louis+Desormes&amp;search_field=search</field>
+</doc>
+</add>

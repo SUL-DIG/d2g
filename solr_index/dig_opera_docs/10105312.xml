@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105312</field>
+<field name="genre">Operas</field>
+<field name="title">La boucle de cheveux</field>
+<field name="titleSort">boucle de cheveux</field>
+<field name="composer">Gioseffo Catrufo</field>
+<field name="composerSort">Catrufo, Gioseffo</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+boucle+de+cheveux+Gioseffo+Catrufo&amp;search_field=search</field>
+</doc>
+</add>

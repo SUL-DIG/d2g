@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131513</field>
+<field name="genre">Operas</field>
+<field name="title">Melide</field>
+<field name="titleSort">Melide</field>
+<field name="composer">Ignaz Umlauf</field>
+<field name="composerSort">Umlauf, Ignaz</field>
+
+
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Melide+Ignaz+Umlauf&amp;search_field=search</field>
+</doc>
+</add>

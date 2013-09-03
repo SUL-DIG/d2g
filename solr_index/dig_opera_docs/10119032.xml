@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119032</field>
+<field name="genre">Operas</field>
+<field name="title">La donna è mobile</field>
+<field name="titleSort">donna è mobile</field>
+<field name="composer">Riccardo Malipiero</field>
+<field name="composerSort">Malipiero, Riccardo</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Guglielmo Zucconi</field>
+<field name="librettistSort">Zucconi, Guglielmo</field>
+<field name="librettist">Massimo Bontempelli</field>
+<field name="librettistSort">Bontempelli, Massimo</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+è+mobile+Riccardo+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

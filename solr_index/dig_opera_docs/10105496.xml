@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105496</field>
+<field name="genre">Operas</field>
+<field name="title">Das Narrenhaus</field>
+<field name="titleSort">Narrenhaus</field>
+<field name="composer">Hans Albert Cesek</field>
+<field name="composerSort">Cesek, Hans Albert</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Gustav Beer</field>
+<field name="librettistSort">Beer, Gustav</field>
+<field name="librettist">Ernst Marischka</field>
+<field name="librettistSort">Marischka, Ernst</field>
+<field name="theater">Cabaret Hölle</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Narrenhaus+Hans+Albert+Cesek&amp;search_field=search</field>
+</doc>
+</add>

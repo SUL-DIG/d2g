@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112573</field>
+<field name="genre">Operas</field>
+<field name="title">Der Orlow</field>
+<field name="titleSort">Orlow</field>
+<field name="composer">Bruno Granichstädten</field>
+<field name="composerSort">Granichstädten, Bruno</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Bruno Granichstädten</field>
+<field name="librettistSort">Granichstädten, Bruno</field>
+<field name="librettist">Ernst Marischka</field>
+<field name="librettistSort">Marischka, Ernst</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Orlow+Bruno+Granichstädten&amp;search_field=search</field>
+</doc>
+</add>

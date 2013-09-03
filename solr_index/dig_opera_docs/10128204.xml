@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128204</field>
+<field name="genre">Operas</field>
+<field name="title">Der Liebe goldene Zeit</field>
+<field name="titleSort">Liebe goldene Zeit</field>
+<field name="composer">Edgar Schick</field>
+<field name="composerSort">Schick, Edgar</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">A. Hanke</field>
+<field name="librettistSort">Hanke, A.</field>
+<field name="theater">Sommer-Theater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Liebe+goldene+Zeit+Edgar+Schick&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128398</field>
+<field name="genre">Operas</field>
+<field name="title">Anno 1757</field>
+<field name="titleSort">Anno 1757</field>
+<field name="composer">Bernhard Scholz</field>
+<field name="composerSort">Scholz, Bernhard</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Richard Scholz</field>
+<field name="librettistSort">Scholz, Richard</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anno+1757+Bernhard+Scholz&amp;search_field=search</field>
+</doc>
+</add>

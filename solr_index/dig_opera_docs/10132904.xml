@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132904</field>
+<field name="genre">Operas</field>
+<field name="title">Nerto</field>
+<field name="titleSort">Nerto</field>
+<field name="composer">Charles-Marie Widor</field>
+<field name="composerSort">Widor, Charles-Marie</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Maurice Léna</field>
+<field name="librettistSort">Léna, Maurice</field>
+<field name="librettist">Frédéric Mistral</field>
+<field name="librettistSort">Mistral, Frédéric</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nerto+Charles-Marie+Widor&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114130</field>
+<field name="genre">Operas</field>
+<field name="title">A Christmas Carol</field>
+<field name="titleSort">Christmas Carol</field>
+<field name="composer">Bernard Herrmann</field>
+<field name="composerSort">Herrmann, Bernard</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Maxwell Anderson</field>
+<field name="librettistSort">Anderson, Maxwell</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">CBS Television (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Christmas+Carol+Bernard+Herrmann&amp;search_field=search</field>
+</doc>
+</add>

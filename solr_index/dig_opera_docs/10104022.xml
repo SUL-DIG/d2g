@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104022</field>
+<field name="genre">Operas</field>
+<field name="title">Ulysses</field>
+<field name="titleSort">Ulysses</field>
+<field name="composer">Jan Brandts Buys</field>
+<field name="composerSort">Buys, Jan Brandts</field>
+
+
+<field name="librettist">Wera Solander</field>
+<field name="librettistSort">Solander, Wera"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulysses+Jan+Brandts+Buys&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202260</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jonah</field>
+		<field name="titleSort">Jonah</field>
+		<field name="year">1788</field>
+		<field name="month">June</field>
+		<field name="day">11</field>
+		<field name="date">June 11, 1788</field>
+		<field name="composer">Samuel Felsted</field>
+		<field name="composerSort">Felsted, Samuel</field>
+		
+		
+		<field name="theater">German Church on Nassau Street</field>
+		<field name="city">New York</field>
+		<field name="region">New York</field>
+		<field name="country">United States</field>
+		<field name="subject">Jonah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonah+Samuel+Felsted&amp;search_field=search</field>
+	</doc></add>

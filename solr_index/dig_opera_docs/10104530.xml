@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104530</field>
+<field name="genre">Operas</field>
+<field name="title">Rumpelstilzchen</field>
+<field name="titleSort">Rumpelstilzchen</field>
+<field name="composer">Paul Büttner</field>
+<field name="composerSort">Büttner, Paul</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Paul Büttner</field>
+<field name="librettistSort">Büttner, Paul</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+<field name="city">Bamberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstilzchen+Paul+Büttner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120928</field>
+<field name="genre">Operas</field>
+<field name="title">L'héritage de M. Maclos</field>
+<field name="titleSort">héritage de M. Maclos</field>
+<field name="composer">Georges Moniot</field>
+<field name="composerSort">Moniot, Georges</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Georges Moniot</field>
+<field name="librettistSort">Moniot, Georges</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héritage+de+M.+Maclos+Georges+Moniot&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113344</field>
+<field name="genre">Operas</field>
+<field name="title">Une revue</field>
+<field name="titleSort">revue</field>
+<field name="composer">Reynaldo Hahn</field>
+<field name="composerSort">Hahn, Reynaldo</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Maurice Donnay</field>
+<field name="librettistSort">Donnay, Maurice</field>
+<field name="librettist">[Henri Simon Schwabacher] Henri Duvernois</field>
+<field name="librettistSort">Duvernois, Henri [Henri Simon Schwabacher]</field>
+<field name="theater">Théâtre de la Porte-Saint-Martin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+revue+Reynaldo+Hahn&amp;search_field=search</field>
+</doc>
+</add>

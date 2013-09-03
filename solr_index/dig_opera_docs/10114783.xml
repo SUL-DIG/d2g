@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114783</field>
+<field name="genre">Operas</field>
+<field name="title">Das böse Weib</field>
+<field name="titleSort">böse Weib</field>
+<field name="composer">Arnold Hufeld</field>
+<field name="composerSort">Hufeld, Arnold</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Hans Sachs</field>
+<field name="librettistSort">Sachs, Hans</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Sovetsk</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+böse+Weib+Arnold+Hufeld&amp;search_field=search</field>
+</doc>
+</add>

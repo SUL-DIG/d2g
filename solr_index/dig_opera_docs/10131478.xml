@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131478</field>
+<field name="genre">Operas</field>
+<field name="title">Karhu (The Bear)</field>
+<field name="titleSort">Karhu (The Bear)</field>
+<field name="composer">Pentti Tynkkynen</field>
+<field name="composerSort">Tynkkynen, Pentti</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Uolevi Nojonen</field>
+<field name="librettistSort">Nojonen, Uolevi</field>
+<field name="theater">Shore of Toriseva Lake</field>
+<field name="city">Virrat</field>
+<field name="region">Hämeen</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karhu+The+Bear+Pentti+Tynkkynen&amp;search_field=search</field>
+</doc>
+</add>

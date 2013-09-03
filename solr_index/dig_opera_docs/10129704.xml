@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129704</field>
+<field name="genre">Operas</field>
+<field name="title">Puss in Boots</field>
+<field name="titleSort">Puss in Boots</field>
+<field name="composer">George Frederick Stansbury</field>
+<field name="composerSort">Stansbury, George Frederick</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Strand Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Puss+in+Boots+George+Frederick+Stansbury&amp;search_field=search</field>
+</doc>
+</add>

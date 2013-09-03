@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200914</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Death of Moses</field>
+		<field name="titleSort">Death of Moses</field>
+		<field name="year">1895</field>
+		
+		
+		<field name="date">1895</field>
+		<field name="composer">Marcus Hast</field>
+		<field name="composerSort">Hast, Marcus</field>
+		
+		
+		<field name="theater">Great Synagogue, Duke Street</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Moses shows the Promised Land</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Death+of+Moses+Marcus+Hast&amp;search_field=search</field>
+	</doc></add>

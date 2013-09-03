@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108078</field>
+<field name="genre">Operas</field>
+<field name="title">Graziosa</field>
+<field name="titleSort">Graziosa</field>
+<field name="composer">Friedrich Dotzauer</field>
+<field name="composerSort">Dotzauer, Friedrich</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Hans Kriete</field>
+<field name="librettistSort">Kriete, Hans</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Graziosa+Friedrich+Dotzauer&amp;search_field=search</field>
+</doc>
+</add>

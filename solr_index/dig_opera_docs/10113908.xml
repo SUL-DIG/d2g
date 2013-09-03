@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113908</field>
+<field name="genre">Operas</field>
+<field name="title">Zamora und Aurelie</field>
+<field name="titleSort">Zamora und Aurelie</field>
+<field name="composer">Josef A. Heller</field>
+<field name="composerSort">Heller, Josef A.</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Josef A. Heller</field>
+<field name="librettistSort">Heller, Josef A.</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zamora+und+Aurelie+Josef+A.+Heller&amp;search_field=search</field>
+</doc>
+</add>

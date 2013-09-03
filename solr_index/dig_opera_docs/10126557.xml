@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126557</field>
+<field name="genre">Operas</field>
+<field name="title">The Girl in Pink Tights</field>
+<field name="titleSort">Girl in Pink Tights</field>
+<field name="composer">Sigmund Romberg</field>
+<field name="composerSort">Romberg, Sigmund</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Jerome Chodorov</field>
+<field name="librettistSort">Chodorov, Jerome</field>
+<field name="librettist">Joseph Fields</field>
+<field name="librettistSort">Fields, Joseph</field>
+<field name="theater">Mark Hellinger Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Girl+in+Pink+Tights+Sigmund+Romberg&amp;search_field=search</field>
+</doc>
+</add>

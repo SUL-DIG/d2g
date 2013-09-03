@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118100</field>
+<field name="genre">Operas</field>
+<field name="title">La disfada di Barletta (Ettore Fieramosca)</field>
+<field name="titleSort">disfada di Barletta (Ettore Fieramosca)</field>
+<field name="composer">Aegidius Karl Lickl</field>
+<field name="composerSort">Lickl, Aegidius Karl</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Antonio Gazzoletti</field>
+<field name="librettistSort">Gazzoletti, Antonio</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+disfada+di+Barletta+Ettore+Fieramosca+Aegidius+Karl+Lickl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116695</field>
+<field name="genre">Operas</field>
+<field name="title">Et sjakkspill</field>
+<field name="titleSort">Et sjakkspill</field>
+<field name="composer">Bjørn Kruse</field>
+<field name="composerSort">Kruse, Bjørn</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Arild Feldborg</field>
+<field name="librettistSort">Feldborg, Arild</field>
+<field name="theater">NRK Television (Norsk Rikskringkasting)</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Et+sjakkspill+Bjørn+Kruse&amp;search_field=search</field>
+</doc>
+</add>

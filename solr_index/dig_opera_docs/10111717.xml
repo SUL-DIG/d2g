@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111717</field>
+<field name="genre">Operas</field>
+<field name="title">Le tre dee riunite</field>
+<field name="titleSort">tre dee riunite</field>
+<field name="composer">Giovanni Antonio Giai</field>
+<field name="composerSort">Giai, Giovanni Antonio</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Giuseppe Bartoli</field>
+<field name="librettistSort">Bartoli, Giuseppe</field>
+
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+tre+dee+riunite+Giovanni+Antonio+Giai&amp;search_field=search</field>
+</doc>
+</add>

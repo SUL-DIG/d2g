@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107826</field>
+<field name="genre">Operas</field>
+<field name="title">Betrug durch Aberglauben oder Die Schatzgräber</field>
+<field name="titleSort">Betrug durch Aberglauben oder Die Schatzgräber</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Ferdinand Eberl</field>
+<field name="librettistSort">Eberl, Ferdinand</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Betrug+durch+Aberglauben+oder+Die+Schatzgräber+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

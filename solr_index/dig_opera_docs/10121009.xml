@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121009</field>
+<field name="genre">Operas</field>
+<field name="title">La nave</field>
+<field name="titleSort">nave</field>
+<field name="composer">Italo Montemezzi</field>
+<field name="composerSort">Montemezzi, Italo</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Gabriele d'Annunzio</field>
+<field name="librettistSort">d'Annunzio, Gabriele</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nave+Italo+Montemezzi&amp;search_field=search</field>
+</doc>
+</add>

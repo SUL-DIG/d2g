@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132839</field>
+<field name="genre">Operas</field>
+<field name="title">Cancer</field>
+<field name="titleSort">Cancer</field>
+<field name="composer">Sven-Erik Werner</field>
+<field name="composerSort">Werner, Sven-Erik</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Aleksandr Solzhenitzyn</field>
+<field name="librettistSort">Solzhenitzyn, Aleksandr"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cancer+Sven-Erik+Werner&amp;search_field=search</field>
+</doc>
+</add>

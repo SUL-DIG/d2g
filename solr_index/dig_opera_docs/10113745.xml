@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113745</field>
+<field name="genre">Operas</field>
+<field name="title">Der Barbier von Bagdad</field>
+<field name="titleSort">Barbier von Bagdad</field>
+<field name="composer">Heinrich Christoph Hattasch</field>
+<field name="composerSort">Hattasch, Heinrich Christoph</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Wilhelm Christhelf Siegmund Mylius</field>
+<field name="librettistSort">Mylius, Wilhelm Christhelf Siegmund</field>
+<field name="theater">Ackermannsches Komödienhaus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Barbier+von+Bagdad+Heinrich+Christoph+Hattasch&amp;search_field=search</field>
+</doc>
+</add>

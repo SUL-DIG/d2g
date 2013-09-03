@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100660</field>
+<field name="genre">Operas</field>
+<field name="title">Apollo en Dafne</field>
+<field name="titleSort">Apollo en Dafne</field>
+<field name="composer">Hendrik Anders</field>
+<field name="composerSort">Anders, Hendrik</field>
+<field name="year">1697</field>
+<field name="date">1697</field>
+<field name="librettist">Cornelis Sweerts</field>
+<field name="librettistSort">Sweerts, Cornelis"</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apollo+en+Dafne+Hendrik+Anders&amp;search_field=search</field>
+</doc>
+</add>

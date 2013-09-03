@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101497</field>
+<field name="genre">Operas</field>
+<field name="title">Claudia</field>
+<field name="titleSort">Claudia</field>
+<field name="composer">Giovanni Avolio</field>
+<field name="composerSort">Avolio, Giovanni</field>
+<field name="year">1902</field>
+<field name="date">1902</field><field name="theater">Teatro della Concordia</field>
+<field name="city">Istanbul</field>
+
+<field name="country">Turkey</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudia+Giovanni+Avolio&amp;search_field=search</field>
+</doc>
+</add>

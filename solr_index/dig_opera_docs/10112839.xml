@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112839</field>
+<field name="genre">Operas</field>
+<field name="title">Il Nicomede in Bitinia</field>
+<field name="titleSort">Nicomede in Bitinia</field>
+<field name="composer">Carlo Grossi</field>
+<field name="composerSort">Grossi, Carlo</field>
+<field name="year">1677</field>
+<field name="date">1677</field>
+<field name="librettist">Giovanni Matteo Gianini</field>
+<field name="librettistSort">Gianini, Giovanni Matteo</field>
+<field name="theater">Teatro Zane a San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Nicomede+in+Bitinia+Carlo+Grossi&amp;search_field=search</field>
+</doc>
+</add>

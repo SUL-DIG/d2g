@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118198</field>
+<field name="genre">Operas</field>
+<field name="title">Elizabeth and Leicester</field>
+<field name="titleSort">Elizabeth and Leicester</field>
+<field name="composer">Edwin S. Lindsey</field>
+<field name="composerSort">Lindsey, Edwin S.</field>
+<field name="year">1936</field>
+<field name="date">1936</field><field name="theater">University of Chattanooga</field>
+<field name="city">Chattanooga</field>
+<field name="region">Tennessee</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elizabeth+and+Leicester+Edwin+S.+Lindsey&amp;search_field=search</field>
+</doc>
+</add>

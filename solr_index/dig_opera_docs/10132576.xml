@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132576</field>
+<field name="genre">Operas</field>
+<field name="title">Euryanthe</field>
+<field name="titleSort">Euryanthe</field>
+<field name="composer">Carl Maria von Weber</field>
+<field name="composerSort">Weber, Carl Maria von</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Helmina von Chezy</field>
+<field name="librettistSort">Chezy, Helmina von</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Euryanthe+Carl+Maria+von+Weber&amp;search_field=search</field>
+</doc>
+</add>

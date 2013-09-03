@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109619</field>
+<field name="genre">Operas</field>
+<field name="title">Galvina</field>
+<field name="titleSort">Galvina</field>
+<field name="composer">Luigi Ferrari-Trecate</field>
+<field name="composerSort">Ferrari-Trecate, Luigi</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Giovacchino Forzano</field>
+<field name="librettistSort">Forzano, Giovacchino</field>
+<field name="theater">Teatro Finzi</field>
+<field name="city">Alessandria</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galvina+Luigi+Ferrari-Trecate&amp;search_field=search</field>
+</doc>
+</add>

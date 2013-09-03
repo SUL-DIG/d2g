@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118083</field>
+<field name="genre">Operas</field>
+<field name="title">Il castello di Vallbruna</field>
+<field name="titleSort">castello di Vallbruna</field>
+<field name="composer">Germano Liberati-Tagliaferri</field>
+<field name="composerSort">Liberati-Tagliaferri, Germano</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Pietro Dall'Argine</field>
+<field name="librettistSort">Dall'Argine, Pietro</field>
+<field name="theater">Casa Sanvitale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+castello+di+Vallbruna+Germano+Liberati-Tagliaferri&amp;search_field=search</field>
+</doc>
+</add>

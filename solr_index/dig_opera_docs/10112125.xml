@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112125</field>
+<field name="genre">Operas</field>
+<field name="title">Das Kirchlein am See</field>
+<field name="titleSort">Kirchlein am See</field>
+<field name="composer">Paul Gläser</field>
+<field name="composerSort">Gläser, Paul</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Georg Günther</field>
+<field name="librettistSort">Günther, Georg</field>
+<field name="theater">Landestheater</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Kirchlein+am+See+Paul+Gläser&amp;search_field=search</field>
+</doc>
+</add>

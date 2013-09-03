@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102812</field>
+<field name="genre">Operas</field>
+<field name="title">Estrella de Soria</field>
+<field name="titleSort">Estrella de Soria</field>
+<field name="composer">Franz Berwald</field>
+<field name="composerSort">Berwald, Franz</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Otto Prechtler</field>
+<field name="librettistSort">Prechtler, Otto</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Estrella+de+Soria+Franz+Berwald&amp;search_field=search</field>
+</doc>
+</add>

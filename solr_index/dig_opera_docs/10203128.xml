@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203128</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorium de Passione Domini</field>
+		<field name="titleSort">Oratorium de Passione Domini</field>
+		<field name="year">1762</field>
+		
+		
+		<field name="date">1762</field>
+		<field name="composer">Johann Georg Albrechtsberger</field>
+		<field name="composerSort">Albrechtsberger, Johann Georg</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Benedictine Abbey</field>
+		<field name="city">Melk</field>
+		<field name="region">Niederösterreich</field>
+		<field name="country">Austria</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorium+de+Passione+Domini+Johann+Georg+Albrechtsberger&amp;search_field=search</field>
+	</doc></add>

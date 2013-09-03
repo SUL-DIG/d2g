@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101958</field>
+<field name="genre">Operas</field>
+<field name="title">La Llar</field>
+<field name="titleSort">Llar</field>
+<field name="composer">Salvador Bartolí</field>
+<field name="composerSort">Bartolí, Salvador</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Victor Brosa y Sangerman</field>
+<field name="librettistSort">Brosa y Sangerman, Victor</field>
+<field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Llar+Salvador+Bartolí&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130237</field>
+<field name="genre">Operas</field>
+<field name="title">"Doris, oder Der königliche Sklave</field>
+<field name="titleSort">"Doris, oder Der königliche Sklave"</field>
+<field name="composer">Nicolaus Adam Strungk</field>
+<field name="composerSort">Strungk, Nicolaus Adam</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Johann Philipp Förtsch</field>
+<field name="librettistSort">Förtsch, Johann Philipp"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doris,+oder+Der+königliche+Sklave+Nicolaus+Adam+Strungk&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112685</field>
+<field name="genre">Operas</field>
+<field name="title">Eponine et Sabinus</field>
+<field name="titleSort">Eponine et Sabinus</field>
+<field name="composer">Antoine-Frédéric Gresnick</field>
+<field name="composerSort">Gresnick, Antoine-Frédéric</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Jean-Baptiste-Charles Vial</field>
+<field name="librettistSort">Vial, Jean-Baptiste-Charles</field>
+<field name="theater">Théâtre des Amis de la Patrie</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eponine+et+Sabinus+Antoine-Frédéric+Gresnick&amp;search_field=search</field>
+</doc>
+</add>

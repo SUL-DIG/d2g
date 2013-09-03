@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108335</field>
+<field name="genre">Operas</field>
+<field name="title">Lancha Favorita</field>
+<field name="titleSort">Lancha Favorita</field>
+<field name="composer">Filippe Duarte</field>
+<field name="composerSort">Duarte, Filippe</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Arturo Marinho da Silva</field>
+<field name="librettistSort">Silva, Arturo Marinho da</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lancha+Favorita+Filippe+Duarte&amp;search_field=search</field>
+</doc>
+</add>

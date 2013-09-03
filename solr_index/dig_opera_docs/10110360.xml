@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110360</field>
+<field name="genre">Operas</field>
+<field name="title">Germania</field>
+<field name="titleSort">Germania</field>
+<field name="composer">Alberto Franchetti</field>
+<field name="composerSort">Franchetti, Alberto</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Luigi Illica</field>
+<field name="librettistSort">Illica, Luigi</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Germania+Alberto+Franchetti&amp;search_field=search</field>
+</doc>
+</add>

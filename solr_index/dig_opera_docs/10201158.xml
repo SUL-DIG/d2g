@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201158</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Erlösung des menschlichen Geschlechts</field>
+		<field name="titleSort">Erlösung des menschlichen Geschlechts</field>
+		<field name="year">1679</field>
+		<field name="month">March</field>
+		<field name="day">30</field>
+		<field name="date">March 30, 1679</field>
+		<field name="composer">Leopold I Kaiser von Deutschland</field>
+		<field name="composerSort">Leopold I Kaiser von Deutschland, </field>
+		<field name="librettist">Johann Albrecht Ruedolf</field>
+		<field name="librettistSort">Ruedolf, Johann Albrecht</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Erlösung+des+menschlichen+Geschlechts+Leopold+I+Kaiser+von+Deutschland&amp;search_field=search</field>
+	</doc></add>

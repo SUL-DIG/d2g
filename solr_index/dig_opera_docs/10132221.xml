@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132221</field>
+<field name="genre">Operas</field>
+<field name="title">Kopernikus: rituel de mort</field>
+<field name="titleSort">Kopernikus: rituel de mort</field>
+<field name="composer">Claude Vivier</field>
+<field name="composerSort">Vivier, Claude</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Claude Vivier</field>
+<field name="librettistSort">Vivier, Claude</field>
+<field name="theater">Monument National</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kopernikus:+rituel+de+mort+Claude+Vivier&amp;search_field=search</field>
+</doc>
+</add>

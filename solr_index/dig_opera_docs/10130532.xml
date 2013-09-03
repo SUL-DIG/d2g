@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130532</field>
+<field name="genre">Operas</field>
+<field name="title">Le pied de mouton</field>
+<field name="titleSort">pied de mouton</field>
+<field name="composer">__ Taix</field>
+<field name="composerSort">Taix, __</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Alphonse-Louis-Dieudonné Martainville</field>
+<field name="librettistSort">Martainville, Alphonse-Louis-Dieudonné</field>
+<field name="librettist">César Ribié</field>
+<field name="librettistSort">Ribié, César</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pied+de+mouton+__+Taix&amp;search_field=search</field>
+</doc>
+</add>

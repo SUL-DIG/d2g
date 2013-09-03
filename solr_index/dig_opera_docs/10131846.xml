@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131846</field>
+<field name="genre">Operas</field>
+<field name="title">La fata dei Gbiaccidi</field>
+<field name="titleSort">fata dei Gbiaccidi</field>
+<field name="composer">Giuseppe Venturini</field>
+<field name="composerSort">Venturini, Giuseppe</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Romeo Carugatti</field>
+<field name="librettistSort">Carugatti, Romeo</field>
+<field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fata+dei+Gbiaccidi+Giuseppe+Venturini&amp;search_field=search</field>
+</doc>
+</add>

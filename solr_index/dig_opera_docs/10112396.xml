@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112396</field>
+<field name="genre">Operas</field>
+<field name="title">Das süsse Gift</field>
+<field name="titleSort">süsse Gift</field>
+<field name="composer">Albert Gorter</field>
+<field name="composerSort">Gorter, Albert</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Martin Frehsee</field>
+<field name="librettistSort">Frehsee, Martin</field>
+<field name="theater">Neues Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+süsse+Gift+Albert+Gorter&amp;search_field=search</field>
+</doc>
+</add>

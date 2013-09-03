@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101518</field>
+<field name="genre">Operas</field>
+<field name="title">Mirrors</field>
+<field name="titleSort">Mirrors</field>
+<field name="composer">Jeffrey Babock</field>
+<field name="composerSort">Babock, Jeffrey</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Carl Zytowski</field>
+<field name="librettistSort">Zytowski, Carl</field>
+<field name="theater">University of California</field>
+<field name="city">Santa Barbara</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirrors+Jeffrey+Babock&amp;search_field=search</field>
+</doc>
+</add>

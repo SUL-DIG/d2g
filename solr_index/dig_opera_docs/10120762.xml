@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120762</field>
+<field name="genre">Operas</field>
+<field name="title">Der Student von Prag</field>
+<field name="titleSort">Student von Prag</field>
+<field name="composer">Erich Mirsch-Riccius</field>
+<field name="composerSort">Mirsch-Riccius, Erich</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Heinrich Noeren</field>
+<field name="librettistSort">Noeren, Heinrich</field>
+<field name="librettist">Hanns Heinz Ewers</field>
+<field name="librettistSort">Ewers, Hanns Heinz</field>
+<field name="theater">Hessisches Staatstheater</field>
+<field name="city">Wiesbaden</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Student+von+Prag+Erich+Mirsch-Riccius&amp;search_field=search</field>
+</doc>
+</add>

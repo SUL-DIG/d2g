@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101461</field>
+<field name="genre">Operas</field>
+<field name="title">"Il trionfo dell'amore, ovvero Le nozze tra amici</field>
+<field name="titleSort">"trionfo dell'amore, ovvero Le nozze tra amici"</field>
+<field name="composer">Pietro Auletta</field>
+<field name="composerSort">Auletta, Pietro</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Carlo di Palma</field>
+<field name="librettistSort">Palma, Carlo di</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+dell'amore,+ovvero+Le+nozze+tra+amici+Pietro+Auletta&amp;search_field=search</field>
+</doc>
+</add>

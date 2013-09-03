@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113371</field>
+<field name="genre">Operas</field>
+<field name="title">Ohé!Phryné!</field>
+<field name="titleSort">Ohé!Phryné!</field>
+<field name="composer">Laurent Halet</field>
+<field name="composerSort">Halet, Laurent</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Daniel Jourda</field>
+<field name="librettistSort">Jourda, Daniel</field>
+<field name="theater">Bobino-Music-Hall</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ohé!Phryné!+Laurent+Halet&amp;search_field=search</field>
+</doc>
+</add>

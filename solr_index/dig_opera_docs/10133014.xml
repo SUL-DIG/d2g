@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133014</field>
+<field name="genre">Operas</field>
+<field name="title">Endgame</field>
+<field name="titleSort">Endgame</field>
+<field name="composer">Richard Winslow</field>
+<field name="composerSort">Winslow, Richard</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistSort">Beckett, Samuel</field>
+<field name="theater">University of Rhode Island</field>
+<field name="city">Kingston</field>
+<field name="region">Rhode Island</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Endgame+Richard+Winslow&amp;search_field=search</field>
+</doc>
+</add>

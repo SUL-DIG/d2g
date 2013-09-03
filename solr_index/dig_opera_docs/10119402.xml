@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119402</field>
+<field name="genre">Operas</field>
+<field name="title">Una tragedia fiorentina</field>
+<field name="titleSort">tragedia fiorentina</field>
+<field name="composer">Mario Mariotti</field>
+<field name="composerSort">Mariotti, Mario</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Guido Zuffetato</field>
+<field name="librettistSort">Zuffetato, Guido</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Teatro Costanzi</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+tragedia+fiorentina+Mario+Mariotti&amp;search_field=search</field>
+</doc>
+</add>

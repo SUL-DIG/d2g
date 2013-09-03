@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115423</field>
+<field name="genre">Operas</field>
+<field name="title">Las Rosas</field>
+<field name="titleSort">Rosas</field>
+<field name="composer">Ray Jordan</field>
+<field name="composerSort">Jordan, Ray</field>
+<field name="year">1975</field>
+<field name="date">1975</field><field name="theater">Avery Fisher Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Las+Rosas+Ray+Jordan&amp;search_field=search</field>
+</doc>
+</add>

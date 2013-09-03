@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132470</field>
+<field name="genre">Operas</field>
+<field name="title">Die verbotene Frau</field>
+<field name="titleSort">verbotene Frau</field>
+<field name="composer">Max Wallner</field>
+<field name="composerSort">Wallner, Max</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">[Felix Biedermann] Felix Dörmann</field>
+<field name="librettistSort">Dörmann, Felix [Felix Biedermann]</field>
+<field name="librettist">Karl Gerold</field>
+<field name="librettistSort">Gerold, Karl</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+verbotene+Frau+Max+Wallner&amp;search_field=search</field>
+</doc>
+</add>

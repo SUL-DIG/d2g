@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108260</field>
+<field name="genre">Operas</field>
+<field name="title">I vaticini di Tiresia Tebano</field>
+<field name="titleSort">vaticini di Tiresia Tebano</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Hradcin</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+vaticini+di+Tiresia+Tebano+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131583</field>
+<field name="genre">Operas</field>
+<field name="title">Saladino e Clotilda</field>
+<field name="titleSort">Saladino e Clotilda</field>
+<field name="composer">Nicola Vaccai</field>
+<field name="composerSort">Vaccai, Nicola</field>
+<field name="year">1828</field>
+<field name="date">1828</field><field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saladino+e+Clotilda+Nicola+Vaccai&amp;search_field=search</field>
+</doc>
+</add>

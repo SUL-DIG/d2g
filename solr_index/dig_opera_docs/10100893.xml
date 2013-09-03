@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100893</field>
+<field name="genre">Operas</field>
+<field name="title">Yerma</field>
+<field name="titleSort">Yerma</field>
+<field name="composer">Denis Aplvor</field>
+<field name="composerSort">Aplvor, Denis</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Montagu Slater</field>
+<field name="librettistSort">Slater, Montagu</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yerma+Denis+Aplvor&amp;search_field=search</field>
+</doc>
+</add>

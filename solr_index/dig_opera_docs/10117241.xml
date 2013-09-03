@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117241</field>
+<field name="genre">Operas</field>
+<field name="title">"Margarethe, oder Die Räuber</field>
+<field name="titleSort">"Margarethe, oder Die Räuber"</field>
+<field name="composer">Eduard von Lannoy</field>
+<field name="composerSort">Lannoy, Eduard von</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">__ Rieder</field>
+<field name="librettistSort">Rieder, __</field>
+<field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margarethe,+oder+Die+Räuber+Eduard+von+Lannoy&amp;search_field=search</field>
+</doc>
+</add>

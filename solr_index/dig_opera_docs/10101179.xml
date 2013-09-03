@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101179</field>
+<field name="genre">Operas</field>
+<field name="title">La cabine téléphonique</field>
+<field name="titleSort">cabine téléphonique</field>
+<field name="composer">[Louise Marie Simon] Claude Arrieu</field>
+<field name="composerSort">Arrieu, Claude [Louise Marie Simon]</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Maurice Vaucaire</field>
+<field name="librettistSort">Vaucaire, Maurice</field>
+<field name="theater">RTF Radio (Radio-Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cabine+téléphonique+Louise+Marie+Simon]+Claude+Arrieu&amp;search_field=search</field>
+</doc>
+</add>

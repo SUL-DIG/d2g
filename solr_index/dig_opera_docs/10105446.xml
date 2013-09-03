@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105446</field>
+<field name="genre">Operas</field>
+<field name="title">Nell Gwynne (Dorothy)</field>
+<field name="titleSort">Nell Gwynne (Dorothy)</field>
+<field name="composer">Alfred Cellier</field>
+<field name="composerSort">Cellier, Alfred</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="librettist">William Thomas Moncrieff</field>
+<field name="librettistSort">Moncrieff, William Thomas</field>
+<field name="theater">Prince's Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nell+Gwynne+Dorothy+Alfred+Cellier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201954</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Imola liberata dal contagio</field>
+		<field name="titleSort">Imola liberata dal contagio</field>
+		<field name="year">1732</field>
+		<field name="month">August</field>
+		<field name="day">9</field>
+		<field name="date">August 9, 1732</field>
+		<field name="composer">Gian Gasparo Loreta</field>
+		<field name="composerSort">Loreta, Gian Gasparo</field>
+		
+		
+		
+		<field name="city">Imola</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Imola+liberata+dal+contagio+Gian+Gasparo+Loreta&amp;search_field=search</field>
+	</doc></add>

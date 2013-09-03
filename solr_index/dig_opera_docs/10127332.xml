@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127332</field>
+<field name="genre">Operas</field>
+<field name="title">Samson et Dalila</field>
+<field name="titleSort">Samson et Dalila</field>
+<field name="composer">Camille Saint-Saëns</field>
+<field name="composerSort">Saint-Saëns, Camille</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Ferdinand Lemaire</field>
+<field name="librettistSort">Lemaire, Ferdinand</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samson+et+Dalila+Camille+Saint-Saëns&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114016</field>
+<field name="genre">Operas</field>
+<field name="title">Der junge Lord</field>
+<field name="titleSort">junge Lord</field>
+<field name="composer">Hans Werner Henze</field>
+<field name="composerSort">Henze, Hans Werner</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Ingeborg Bachmann</field>
+<field name="librettistSort">Bachmann, Ingeborg</field>
+<field name="librettist">Wilhelm Hauff</field>
+<field name="librettistSort">Hauff, Wilhelm</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+junge+Lord+Hans+Werner+Henze&amp;search_field=search</field>
+</doc>
+</add>

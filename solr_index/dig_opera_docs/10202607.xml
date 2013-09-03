@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202607</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Maria lebbrosa</field>
+		<field name="titleSort">Maria lebbrosa</field>
+		<field name="year">1739</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1739</field>
+		<field name="composer">Georg Reutter</field>
+		<field name="composerSort">Reutter, Georg</field>
+		
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Miriam</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Maria+lebbrosa+Georg+Reutter&amp;search_field=search</field>
+	</doc></add>

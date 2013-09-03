@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127930</field>
+<field name="genre">Operas</field>
+<field name="title">Escape from the Planet Sloth</field>
+<field name="titleSort">Escape from the Planet Sloth</field>
+<field name="composer">Nicholas Scarim</field>
+<field name="composerSort">Scarim, Nicholas</field>
+<field name="year">1985</field>
+<field name="date">1985</field><field name="theater">Music Downtown/Children's Musical Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Escape+from+the+Planet+Sloth+Nicholas+Scarim&amp;search_field=search</field>
+</doc>
+</add>

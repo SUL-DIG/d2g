@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115454</field>
+<field name="genre">Operas</field>
+<field name="title">Pietro il grande</field>
+<field name="titleSort">Pietro il grande</field>
+<field name="composer">Louis Julien</field>
+<field name="composerSort">Julien, Louis</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Desmond Ryan</field>
+<field name="librettistSort">Ryan, Desmond</field>
+<field name="librettist">Manfredo Maggioni</field>
+<field name="librettistSort">Maggioni, Manfredo</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pietro+il+grande+Louis+Julien&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110888</field>
+<field name="genre">Operas</field>
+<field name="title">L'Alvilda</field>
+<field name="titleSort">Alvilda</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">[Sebastiano Biancardi] Domenico Lalli</field>
+<field name="librettistSort">Lalli, Domenico [Sebastiano Biancardi]</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Alvilda+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

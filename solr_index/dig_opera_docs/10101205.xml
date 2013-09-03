@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101205</field>
+<field name="genre">Operas</field>
+<field name="title">Snezhnaya koroleva (The Snow Queen)</field>
+<field name="titleSort">Snezhnaya koroleva (The Snow Queen)</field>
+<field name="composer">Boris Vladimirovich Asaf'yev</field>
+<field name="composerSort">Asaf'yev, Boris Vladimirovich</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">S. M. Mart'yanov</field>
+<field name="librettistSort">Mart'yanov, S. M.</field>
+<field name="librettist">V. M. Mart'yanov</field>
+<field name="librettistSort">Mart'yanov, V. M.</field>
+<field name="theater">Private Performance</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snezhnaya+koroleva+The+Snow+Queen+Boris+Vladimirovich+Asaf'yev&amp;search_field=search</field>
+</doc>
+</add>

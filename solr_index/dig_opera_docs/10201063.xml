@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201063</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die durch Grossmuth und Glauben triumphierende Unschuld, oder Der siegende David</field>
+		<field name="titleSort">durch Grossmuth und Glauben triumphierende Unschuld, oder Der siegende David</field>
+		<field name="year">1717</field>
+		<field name="month">November</field>
+		<field name="day">2</field>
+		<field name="date">November 2, 1717</field>
+		<field name="composer">Reinhard Keiser</field>
+		<field name="composerSort">Keiser, Reinhard</field>
+		<field name="librettist">Johann Ulrich von König</field>
+		<field name="librettistSort">König, Johann Ulrich von</field>
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">David defeats the Philistines</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+durch+Grossmuth+und+Glauben+triumphierende+Unschuld,+oder+Der+siegende+David+Reinhard+Keiser&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104941</field>
+<field name="genre">Operas</field>
+<field name="title">I bagni d'Abano</field>
+<field name="titleSort">bagni d'Abano</field>
+<field name="composer">Giuseppe Antonio Capuzzi</field>
+<field name="composerSort">Capuzzi, Giuseppe Antonio</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Simeone Antonio Sografi</field>
+<field name="librettistSort">Sografi, Simeone Antonio</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+bagni+d'Abano+Giuseppe+Antonio+Capuzzi&amp;search_field=search</field>
+</doc>
+</add>

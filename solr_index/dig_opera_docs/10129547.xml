@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129547</field>
+<field name="genre">Operas</field>
+<field name="title">The American Maid</field>
+<field name="titleSort">American Maid</field>
+<field name="composer">John Philip Sousa</field>
+<field name="composerSort">Sousa, John Philip</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Leonard Liebling</field>
+<field name="librettistSort">Liebling, Leonard</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+American+Maid+John+Philip+Sousa&amp;search_field=search</field>
+</doc>
+</add>

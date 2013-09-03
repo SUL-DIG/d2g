@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128472</field>
+<field name="genre">Operas</field>
+<field name="title">Kasperl wird reich</field>
+<field name="titleSort">Kasperl wird reich</field>
+<field name="composer">Heino Schubert</field>
+<field name="composerSort">Schubert, Heino</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Hanna Pretorius</field>
+<field name="librettistSort">Pretorius, Hanna</field>
+
+<field name="city">Unterschondorf/Ammersee</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kasperl+wird+reich+Heino+Schubert&amp;search_field=search</field>
+</doc>
+</add>

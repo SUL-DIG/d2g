@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102473</field>
+<field name="genre">Operas</field>
+<field name="title">The Murder of Comrade Sharik</field>
+<field name="titleSort">Murder of Comrade Sharik</field>
+<field name="composer">William Bergsma</field>
+<field name="composerSort">Bergsma, William</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Mira Ginsberg</field>
+<field name="librettistSort">Ginsberg, Mira</field>
+<field name="librettist">Mikhail Afanas'yevich Bulgakov</field>
+<field name="librettistSort">Bulgakov, Mikhail Afanas'yevich</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Murder+of+Comrade+Sharik+William+Bergsma&amp;search_field=search</field>
+</doc>
+</add>

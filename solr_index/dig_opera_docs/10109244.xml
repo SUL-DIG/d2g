@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109244</field>
+<field name="genre">Operas</field>
+<field name="title">Die Strassensängerin</field>
+<field name="titleSort">Strassensängerin</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="librettist">[Fritz Friedmann-Frederich] Lo Portem</field>
+<field name="librettistSort">Portem, Lo [Fritz Friedmann-Frederich]</field>
+<field name="theater">Metropoltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Strassensängerin+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

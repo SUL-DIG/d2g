@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127844</field>
+<field name="genre">Operas</field>
+<field name="title">Flavia</field>
+<field name="titleSort">Flavia</field>
+<field name="composer">Adolfo Sauvinet</field>
+<field name="composerSort">Sauvinet, Adolfo</field>
+<field name="year">1889</field>
+<field name="date">1889</field><field name="theater">Teatro de Dona Maria</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flavia+Adolfo+Sauvinet&amp;search_field=search</field>
+</doc>
+</add>

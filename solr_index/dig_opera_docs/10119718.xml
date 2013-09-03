@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119718</field>
+<field name="genre">Operas</field>
+<field name="title">Dal detto al fatto corra un gran tratto</field>
+<field name="titleSort">Dal detto al fatto corra un gran tratto</field>
+<field name="composer">Renzo Massutto</field>
+<field name="composerSort">Massutto, Renzo</field>
+<field name="year">1891</field>
+<field name="date">1891</field><field name="theater">Teatro Sociale Cristoforo Colombo</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dal+detto+al+fatto+corra+un+gran+tratto+Renzo+Massutto&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117236</field>
+<field name="genre">Operas</field>
+<field name="title">"Corisandre, ou Les fous par enchantement</field>
+<field name="titleSort">"Corisandre, ou Les fous par enchantement"</field>
+<field name="composer">Honoré Langlé</field>
+<field name="composerSort">Langlé, Honoré</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Antoine François Lebailly</field>
+<field name="librettistSort">Lebailly, Antoine François</field>
+<field name="librettist">Louis-Marie Turreau de Garambouville</field>
+<field name="librettistSort">Turreau de Garambouville, Louis-Marie</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corisandre,+ou+Les+fous+par+enchantement+Honoré+Langlé&amp;search_field=search</field>
+</doc>
+</add>

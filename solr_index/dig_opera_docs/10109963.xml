@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109963</field>
+<field name="genre">Operas</field>
+<field name="title">Solovey i roza (The Nightingale and the Rose)</field>
+<field name="titleSort">Solovey i roza (The Nightingale and the Rose)</field>
+<field name="composer">Elena Firsova</field>
+<field name="composerSort">Firsova, Elena</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Elena Firsova</field>
+<field name="librettistSort">Firsova, Elena</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Almeida Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solovey+i+roza+The+Nightingale+and+the+Rose+Elena+Firsova&amp;search_field=search</field>
+</doc>
+</add>

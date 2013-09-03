@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126342</field>
+<field name="genre">Operas</field>
+<field name="title">Esvelia</field>
+<field name="titleSort">Esvelia</field>
+<field name="composer">Igino Robbiani</field>
+<field name="composerSort">Robbiani, Igino</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Francesco Saverio Kambo</field>
+<field name="librettistSort">Kambo, Francesco Saverio</field>
+<field name="theater">Teatro Costanzi</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esvelia+Igino+Robbiani&amp;search_field=search</field>
+</doc>
+</add>

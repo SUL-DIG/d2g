@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127459</field>
+<field name="genre">Operas</field>
+<field name="title">Portugalin nainen (The Portugese Women)</field>
+<field name="titleSort">Portugalin nainen (The Portugese Women)</field>
+<field name="composer">Erkki Salmenhaara</field>
+<field name="composerSort">Salmenhaara, Erkki</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Erkki Salmenhaara</field>
+<field name="librettistSort">Salmenhaara, Erkki</field>
+<field name="librettist">Robert Musil</field>
+<field name="librettistSort">Musil, Robert</field>
+<field name="theater">Sibelius Academy Opera Studio</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Portugalin+nainen+The+Portugese+Women+Erkki+Salmenhaara&amp;search_field=search</field>
+</doc>
+</add>

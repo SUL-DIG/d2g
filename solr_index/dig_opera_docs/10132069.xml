@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132069</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti generosi</field>
+<field name="titleSort">amanti generosi</field>
+<field name="composer">Benedetto Vinaccesi</field>
+<field name="composerSort">Vinaccesi, Benedetto</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Giovanni Pietro Candi</field>
+<field name="librettistSort">Candi, Giovanni Pietro</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+generosi+Benedetto+Vinaccesi&amp;search_field=search</field>
+</doc>
+</add>

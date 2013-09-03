@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200597</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christi Leid und Herrlichkeit</field>
+		<field name="titleSort">Christi Leid und Herrlichkeit</field>
+		<field name="year">1840</field>
+		<field name="month">April</field>
+		<field name="day">20</field>
+		<field name="date">April 20, 1840</field>
+		<field name="composer">Karl Eduard Hering</field>
+		<field name="composerSort">Hering, Karl Eduard</field>
+		
+		
+		
+		<field name="city">Bautzen</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christi+Leid+und+Herrlichkeit+Karl+Eduard+Hering&amp;search_field=search</field>
+	</doc></add>

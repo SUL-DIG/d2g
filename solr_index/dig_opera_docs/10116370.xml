@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116370</field>
+<field name="genre">Operas</field>
+<field name="title">Dulcitius</field>
+<field name="titleSort">Dulcitius</field>
+<field name="composer">Peter Paul Koprowski</field>
+<field name="composerSort">Koprowski, Peter Paul</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Rod Anderson</field>
+<field name="librettistSort">Anderson, Rod</field>
+<field name="theater">Canadian Opera Company</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dulcitius+Peter+Paul+Koprowski&amp;search_field=search</field>
+</doc>
+</add>

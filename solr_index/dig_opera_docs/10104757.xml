@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104757</field>
+<field name="genre">Operas</field>
+<field name="title">Thais and Talmaae</field>
+<field name="titleSort">Thais and Talmaae</field>
+<field name="composer">Colin Macleod Campbell</field>
+<field name="composerSort">Campbell, Colin Macleod</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">C. Harold Bourne</field>
+<field name="librettistSort">Bourne, C. Harold</field>
+
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thais+and+Talmaae+Colin+Macleod+Campbell&amp;search_field=search</field>
+</doc>
+</add>

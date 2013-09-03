@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119589</field>
+<field name="genre">Operas</field>
+<field name="title">Il bagno di Diana</field>
+<field name="titleSort">bagno di Diana</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Domenico Berardi</field>
+<field name="librettistSort">Berardi, Domenico</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bagno+di+Diana+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

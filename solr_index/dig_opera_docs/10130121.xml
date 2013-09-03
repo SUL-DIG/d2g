@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130121</field>
+<field name="genre">Operas</field>
+<field name="title">"Eine Frau, die Weiss, was sie will (Manon)</field>
+<field name="titleSort">"Frau, die Weiss, was sie will (Manon)"</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="librettist">[Louis-Jacques-Marie Collin du Bocage] Louis Verneuil</field>
+<field name="librettistSort">Verneuil, Louis [Louis-Jacques-Marie Collin du Bocage]</field>
+<field name="theater">Theater im Admiralspalast</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+Frau,+die+Weiss,+was+sie+will+Manon+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

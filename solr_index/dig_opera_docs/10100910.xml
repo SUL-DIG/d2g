@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100910</field>
+<field name="genre">Operas</field>
+<field name="title">Fra lo sdegne nasce amore</field>
+<field name="titleSort">Fra lo sdegne nasce amore</field>
+<field name="composer">Onofrio d'Aquino</field>
+<field name="composerSort">d'Aquino, Onofrio</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Domenico Antonio Di Fiore</field>
+<field name="librettistSort">Di Fiore, Domenico Antonio</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fra+lo+sdegne+nasce+amore+Onofrio+d'Aquino&amp;search_field=search</field>
+</doc>
+</add>

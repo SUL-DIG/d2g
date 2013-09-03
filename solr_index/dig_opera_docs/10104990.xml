@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104990</field>
+<field name="genre">Operas</field>
+<field name="title">Au temps de la gavotte</field>
+<field name="titleSort">Au temps de la gavotte</field>
+<field name="composer">Charles Carbonnier</field>
+<field name="composerSort">Carbonnier, Charles</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Charles Le Roy-Villars</field>
+<field name="librettistSort">Le Roy-Villars, Charles</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+temps+de+la+gavotte+Charles+Carbonnier&amp;search_field=search</field>
+</doc>
+</add>

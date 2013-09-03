@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124329</field>
+<field name="genre">Operas</field>
+<field name="title">Jean le Sot</field>
+<field name="titleSort">Jean le Sot</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">[Mme. Auguste Pilati] Théodore Julian</field>
+<field name="librettistSort">Julian, Théodore [Mme. Auguste Pilati]</field>
+<field name="librettist">Jean-Baptiste Vasseur</field>
+<field name="librettistSort">Vasseur, Jean-Baptiste</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+le+Sot+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

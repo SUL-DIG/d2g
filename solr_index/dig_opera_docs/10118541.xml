@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118541</field>
+<field name="genre">Operas</field>
+<field name="title">Malata</field>
+<field name="titleSort">Malata</field>
+<field name="composer">Antonio Lozzi</field>
+<field name="composerSort">Lozzi, Antonio</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Gian Franco Giovannini</field>
+<field name="librettistSort">Giovannini, Gian Franco</field>
+<field name="theater">Casa Lozzi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malata+Antonio+Lozzi&amp;search_field=search</field>
+</doc>
+</add>

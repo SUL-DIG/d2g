@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123064</field>
+<field name="genre">Operas</field>
+<field name="title">Il geloso</field>
+<field name="titleSort">geloso</field>
+<field name="composer">Antonio Palella</field>
+<field name="composerSort">Palella, Antonio</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Domenico Macchia</field>
+<field name="librettistSort">Macchia, Domenico</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+geloso+Antonio+Palella&amp;search_field=search</field>
+</doc>
+</add>

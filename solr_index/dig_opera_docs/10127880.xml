@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127880</field>
+<field name="genre">Operas</field>
+<field name="title">Floredana</field>
+<field name="titleSort">Floredana</field>
+<field name="composer">Alfredo Saybene</field>
+<field name="composerSort">Saybene, Alfredo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Carlo Frattini</field>
+<field name="librettistSort">Frattini, Carlo</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Busto Arsizio</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Floredana+Alfredo+Saybene&amp;search_field=search</field>
+</doc>
+</add>

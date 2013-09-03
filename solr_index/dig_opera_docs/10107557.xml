@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107557</field>
+<field name="genre">Operas</field>
+<field name="title">Le bon seigneur</field>
+<field name="titleSort">bon seigneur</field>
+<field name="composer">Robert Desbrosses</field>
+<field name="composerSort">Desbrosses, Robert</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">[François-Guillaume Fouques-Deshays] Desfontaines</field>
+<field name="librettistSort">Desfontaines, [François-Guillaume Fouques-Deshays]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bon+seigneur+Robert+Desbrosses&amp;search_field=search</field>
+</doc>
+</add>

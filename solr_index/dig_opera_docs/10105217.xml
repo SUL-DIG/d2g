@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105217</field>
+<field name="genre">Operas</field>
+<field name="title">L'impazzito</field>
+<field name="titleSort">impazzito</field>
+<field name="composer">Giovanni Battista Casali</field>
+<field name="composerSort">Casali, Giovanni Battista</field>
+<field name="year">1748</field>
+<field name="date">1748</field>
+<field name="librettist">Girolamo Aurelli</field>
+<field name="librettistSort">Aurelli, Girolamo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'impazzito+Giovanni+Battista+Casali&amp;search_field=search</field>
+</doc>
+</add>

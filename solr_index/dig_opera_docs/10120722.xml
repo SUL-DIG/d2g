@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120722</field>
+<field name="genre">Operas</field>
+<field name="title">The Smugglers of Badayez</field>
+<field name="titleSort">Smugglers of Badayez</field>
+<field name="composer">Giacomo Minkowsky</field>
+<field name="composerSort">Minkowsky, Giacomo</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Frederic M. Ranken</field>
+<field name="librettistSort">Ranken, Frederic M.</field>
+<field name="theater">Jacques Opera House</field>
+<field name="city">Waterford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Smugglers+of+Badayez+Giacomo+Minkowsky&amp;search_field=search</field>
+</doc>
+</add>

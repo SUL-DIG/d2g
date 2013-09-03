@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120795</field>
+<field name="genre">Operas</field>
+<field name="title">Lucas et Lucette</field>
+<field name="titleSort">Lucas et Lucette</field>
+<field name="composer">Edmond Jean Louis Missa</field>
+<field name="composerSort">Missa, Edmond Jean Louis</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Paul Gravollet</field>
+<field name="librettistSort">Gravollet, Paul</field>
+<field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucas+et+Lucette+Edmond+Jean+Louis+Missa&amp;search_field=search</field>
+</doc>
+</add>

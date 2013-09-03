@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129827</field>
+<field name="genre">Operas</field>
+<field name="title">Prinz Don Juan</field>
+<field name="titleSort">Prinz Don Juan</field>
+<field name="composer">Oskar Steiner</field>
+<field name="composerSort">Steiner, Oskar</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Friedrich Thelen</field>
+<field name="librettistSort">Thelen, Friedrich</field>
+<field name="theater">Raimundtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinz+Don+Juan+Oskar+Steiner&amp;search_field=search</field>
+</doc>
+</add>

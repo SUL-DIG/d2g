@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103632</field>
+<field name="genre">Operas</field>
+<field name="title">Sacrificio a Venere</field>
+<field name="titleSort">Sacrificio a Venere</field>
+<field name="composer">Giovanni Bononcini</field>
+<field name="composerSort">Bononcini, Giovanni</field>
+<field name="year">1714</field>
+<field name="date">1714</field>
+<field name="librettist">Paolo Antonio Rolli</field>
+<field name="librettistSort">Rolli, Paolo Antonio</field>
+<field name="theater">Piazza de' Santi Apostoli</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sacrificio+a+Venere+Giovanni+Bononcini&amp;search_field=search</field>
+</doc>
+</add>

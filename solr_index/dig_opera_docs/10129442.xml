@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129442</field>
+<field name="genre">Operas</field>
+<field name="title">"La testa di bronzo, ossia La capanna solitaria</field>
+<field name="titleSort">"testa di bronzo, ossia capanna solitaria"</field>
+<field name="composer">Carlo Soliva</field>
+<field name="composerSort">Soliva, Carlo</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+testa+di+bronzo,+ossia+La+capanna+solitaria+Carlo+Soliva&amp;search_field=search</field>
+</doc>
+</add>

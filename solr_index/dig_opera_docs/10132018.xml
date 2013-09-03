@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132018</field>
+<field name="genre">Operas</field>
+<field name="title">Amour defendu</field>
+<field name="titleSort">Amour defendu</field>
+<field name="composer">Georges Villain</field>
+<field name="composerSort">Villain, Georges</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Raoul Gastambide</field>
+<field name="librettistSort">Gastambide, Raoul</field>
+<field name="theater">Théâtre Grévin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amour+defendu+Georges+Villain&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120115</field>
+<field name="genre">Operas</field>
+<field name="title">Le jeune sage et le vieux fou</field>
+<field name="titleSort">jeune sage et le vieux fou</field>
+<field name="composer">Étienne-Nicolas Méhul</field>
+<field name="composerSort">Méhul, Étienne-Nicolas</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jeune+sage+et+le+vieux+fou+Étienne-Nicolas+Méhul&amp;search_field=search</field>
+</doc>
+</add>

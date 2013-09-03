@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102380</field>
+<field name="genre">Operas</field>
+<field name="title">Victory</field>
+<field name="titleSort">Victory</field>
+<field name="composer">Richard Rodney Bennett</field>
+<field name="composerSort">Bennett, Richard Rodney</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Beverley Cross</field>
+<field name="librettistSort">Cross, Beverley</field>
+<field name="librettist">Joseph Conrad</field>
+<field name="librettistSort">Conrad, Joseph</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Victory+Richard+Rodney+Bennett&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121879</field>
+<field name="genre">Operas</field>
+<field name="title">La fine del mondo</field>
+<field name="titleSort">fine del mondo</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Gino Negri</field>
+<field name="librettistSort">Negri, Gino</field>
+<field name="theater">RAI Television (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fine+del+mondo+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120801</field>
+<field name="genre">Operas</field>
+<field name="title">Les trois bossus</field>
+<field name="titleSort">trois bossus</field>
+<field name="composer">Edmond Jean Louis Missa</field>
+<field name="composerSort">Missa, Edmond Jean Louis</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Eugène Adénis</field>
+<field name="librettistSort">Adénis, Eugène</field>
+<field name="librettist">Édouard Adénis</field>
+<field name="librettistSort">Adénis, Édouard</field>
+<field name="theater">Athénée Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+trois+bossus+Edmond+Jean+Louis+Missa&amp;search_field=search</field>
+</doc>
+</add>

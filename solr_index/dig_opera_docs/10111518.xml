@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111518</field>
+<field name="genre">Operas</field>
+<field name="title">"L'orbo chi ci vede, ossi Il medico ciabattino</field>
+<field name="titleSort">"orbo chi ci vede, ossi Il medico ciabattino"</field>
+<field name="composer">Pietro Generali</field>
+<field name="composerSort">Generali, Pietro</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro del Corso</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orbo+chi+ci+vede,+ossi+Il+medico+ciabattino+Pietro+Generali&amp;search_field=search</field>
+</doc>
+</add>

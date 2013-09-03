@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132783</field>
+<field name="genre">Operas</field>
+<field name="title">Das Freimannskind</field>
+<field name="titleSort">Freimannskind</field>
+<field name="composer">Paul Weissleder</field>
+<field name="composerSort">Weissleder, Paul</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Paul Weissleder</field>
+<field name="librettistSort">Weissleder, Paul</field>
+<field name="theater">Neues Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Freimannskind+Paul+Weissleder&amp;search_field=search</field>
+</doc>
+</add>

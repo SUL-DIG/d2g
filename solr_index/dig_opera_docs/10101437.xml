@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101437</field>
+<field name="genre">Operas</field>
+<field name="title">Le puits qui parle</field>
+<field name="titleSort">puits qui parle</field>
+<field name="composer">Edmond Audran</field>
+<field name="composerSort">Audran, Edmond</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">[Alexandre Beaume] Beaumont</field>
+<field name="librettistSort">Beaumont, [Alexandre Beaume]</field>
+<field name="theater">Théâtre des Nouveautés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+puits+qui+parle+Edmond+Audran&amp;search_field=search</field>
+</doc>
+</add>

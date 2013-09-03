@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121839</field>
+<field name="genre">Operas</field>
+<field name="title">"L'héroine suisse, ou Amour et courage</field>
+<field name="titleSort">"héroine suisse, ou Amour et courage"</field>
+<field name="composer">Julien Navoigille</field>
+<field name="composerSort">Navoigille, Julien</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Jean-Guillaume-Auguste Cuvelier de Trie</field>
+<field name="librettistSort">Cuvelier de Trie, Jean-Guillaume-Auguste</field>
+<field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
+<field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
+<field name="theater">Théâtre de la Pantomime</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héroine+suisse,+ou+Amour+et+courage+Julien+Navoigille&amp;search_field=search</field>
+</doc>
+</add>

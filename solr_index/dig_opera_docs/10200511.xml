@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200511</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Canti per Europa</field>
+		<field name="titleSort">Canti per Europa</field>
+		<field name="year">1979</field>
+		
+		
+		<field name="date">1979</field>
+		<field name="composer">Theodor Grigoriu</field>
+		<field name="composerSort">Grigoriu, Theodor</field>
+		<field name="librettist">[Mihai Eminovici] Mihai Eminescu</field>
+		<field name="librettistSort">Eminescu, Mihai [Mihai Eminovici]</field>
+		<field name="librettist">Arthur Rimbaud</field>
+		<field name="librettistSort">Rimbaud, Arthur</field>
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Canti+per+Europa+Theodor+Grigoriu&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120780</field>
+<field name="genre">Operas</field>
+<field name="title">De occasie maakt den dief</field>
+<field name="titleSort">occasie maakt den dief</field>
+<field name="composer">Karel Miry</field>
+<field name="composerSort">Miry, Karel</field>
+<field name="year">1866</field>
+<field name="date">1866</field><field name="theater">Minard's Schouwburg</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+occasie+maakt+den+dief+Karel+Miry&amp;search_field=search</field>
+</doc>
+</add>

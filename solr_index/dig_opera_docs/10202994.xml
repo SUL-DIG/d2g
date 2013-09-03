@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202994</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Nonnen von Compiègne</field>
+		<field name="titleSort">Nonnen von Compiègne</field>
+		<field name="year">1909</field>
+		
+		
+		<field name="date">1909</field>
+		<field name="composer">Johann Gustav Eduard Stehle</field>
+		<field name="composerSort">Stehle, Johann Gustav Eduard</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Joan of Arc</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">30</field>
+		<field name="feastDate">May 30</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nonnen+von+Compiègne+Johann+Gustav+Eduard+Stehle&amp;search_field=search</field>
+	</doc></add>

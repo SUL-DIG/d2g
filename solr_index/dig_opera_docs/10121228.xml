@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121228</field>
+<field name="genre">Operas</field>
+<field name="title">Alexis der Deserteur aus Liebe</field>
+<field name="titleSort">Alexis der Deserteur aus Liebe</field>
+<field name="composer">Georg Wisner von Morgenstern</field>
+<field name="composerSort">Morgenstern, Georg Wisner von</field>
+<field name="year">1824</field>
+<field name="date">1824</field><field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexis+der+Deserteur+aus+Liebe+Georg+Wisner+von+Morgenstern&amp;search_field=search</field>
+</doc>
+</add>

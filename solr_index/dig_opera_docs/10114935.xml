@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114935</field>
+<field name="genre">Operas</field>
+<field name="title">Didone abbandonata</field>
+<field name="titleSort">Didone abbandonata</field>
+<field name="composer">Giacomo Insanguine</field>
+<field name="composerSort">Insanguine, Giacomo</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Didone+abbandonata+Giacomo+Insanguine&amp;search_field=search</field>
+</doc>
+</add>

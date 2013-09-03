@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202755</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il mistico Giobbe</field>
+		<field name="titleSort">mistico Giobbe</field>
+		<field name="year">1704</field>
+		<field name="month">March</field>
+		<field name="day">21</field>
+		<field name="date">March 21, 1704</field>
+		<field name="composer">Marc Antonio Ziani</field>
+		<field name="composerSort">Ziani, Marc Antonio</field>
+		<field name="librettist">Donato Cupeda</field>
+		<field name="librettistSort">Cupeda, Donato</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Job</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mistico+Giobbe+Marc+Antonio+Ziani&amp;search_field=search</field>
+	</doc></add>

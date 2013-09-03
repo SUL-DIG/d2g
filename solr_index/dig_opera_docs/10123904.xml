@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123904</field>
+<field name="genre">Operas</field>
+<field name="title">L'amour et la nature</field>
+<field name="titleSort">amour et la nature</field>
+<field name="composer">__ Pételard</field>
+<field name="composerSort">Pételard, __</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Nicolas Benoît Mathelin</field>
+<field name="librettistSort">Mathelin, Nicolas Benoît</field>
+<field name="theater">Théâtre des Délassements-Comiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amour+et+la+nature+__+Pételard&amp;search_field=search</field>
+</doc>
+</add>

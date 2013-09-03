@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129837</field>
+<field name="genre">Operas</field>
+<field name="title">Don Micco och Lesbina</field>
+<field name="titleSort">Don Micco och Lesbina</field>
+<field name="composer">Carl Stenborg</field>
+<field name="composerSort">Stenborg, Carl</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Pierre François Biancolelli</field>
+<field name="librettistSort">Biancolelli, Pierre François</field>
+<field name="librettist">Jean Antoine Romagnesi</field>
+<field name="librettistSort">Romagnesi, Jean Antoine</field>
+<field name="theater">Humlegеrdsteatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Micco+och+Lesbina+Carl+Stenborg&amp;search_field=search</field>
+</doc>
+</add>

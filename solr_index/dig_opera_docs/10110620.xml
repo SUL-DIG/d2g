@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110620</field>
+<field name="genre">Operas</field>
+<field name="title">I profughi di Parga</field>
+<field name="titleSort">profughi di Parga</field>
+<field name="composer">Angelo Frondoni</field>
+<field name="composerSort">Frondoni, Angelo</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Cesare Perrini</field>
+<field name="librettistSort">Perrini, Cesare</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+profughi+di+Parga+Angelo+Frondoni&amp;search_field=search</field>
+</doc>
+</add>

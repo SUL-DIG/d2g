@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103040</field>
+<field name="genre">Operas</field>
+<field name="title">Attalo ed Arsinoe</field>
+<field name="titleSort">Attalo ed Arsinoe</field>
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Attalo+ed+Arsinoe+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

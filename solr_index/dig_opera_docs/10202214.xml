@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202214</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Joas Rex Juda</field>
+		<field name="titleSort">Joas Rex Juda</field>
+		<field name="year">1790</field>
+		
+		
+		<field name="date">1790</field>
+		<field name="composer">Francesco Bianchi</field>
+		<field name="composerSort">Bianchi, Francesco</field>
+		
+		
+		<field name="theater">Ospedale dei Mendicanti</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joas+Rex+Juda+Francesco+Bianchi&amp;search_field=search</field>
+	</doc></add>

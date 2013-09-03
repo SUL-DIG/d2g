@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112143</field>
+<field name="genre">Operas</field>
+<field name="title">Schneewittchen</field>
+<field name="titleSort">Schneewittchen</field>
+<field name="composer">Friedrich Glier</field>
+<field name="composerSort">Glier, Friedrich</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Richard Seuss</field>
+<field name="librettistSort">Seuss, Richard</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+<field name="city">Oelsnitz im Erzgebirge</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+Friedrich+Glier&amp;search_field=search</field>
+</doc>
+</add>

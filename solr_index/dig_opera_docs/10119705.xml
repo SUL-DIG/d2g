@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119705</field>
+<field name="genre">Operas</field>
+<field name="title">Le jongleur de Notre Dame</field>
+<field name="titleSort">jongleur de Notre Dame</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Maurice Léna</field>
+<field name="librettistSort">Léna, Maurice</field>
+<field name="librettist">[Jacques-Anatole-François Thibault] Anatole France</field>
+<field name="librettistSort">France, Anatole [Jacques-Anatole-François Thibault]</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jongleur+de+Notre+Dame+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

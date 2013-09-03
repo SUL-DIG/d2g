@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130783</field>
+<field name="genre">Operas</field>
+<field name="title">Amore e capriccio</field>
+<field name="titleSort">Amore e capriccio</field>
+<field name="composer">Stefano Tempia</field>
+<field name="composerSort">Tempia, Stefano</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Luigi Rocca</field>
+<field name="librettistSort">Rocca, Luigi</field>
+<field name="theater">Circolo degli Artisti</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+capriccio+Stefano+Tempia&amp;search_field=search</field>
+</doc>
+</add>

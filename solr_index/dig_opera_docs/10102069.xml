@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102069</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Leicester</field>
+<field name="titleSort">conte di Leicester</field>
+<field name="composer">Antonio Baur</field>
+<field name="composerSort">Baur, Antonio</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Leicester+Antonio+Baur&amp;search_field=search</field>
+</doc>
+</add>

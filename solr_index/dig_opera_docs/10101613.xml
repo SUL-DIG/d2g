@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101613</field>
+<field name="genre">Operas</field>
+<field name="title">Flavio Rachio</field>
+<field name="titleSort">Flavio Rachio</field>
+<field name="composer">Luigi Badia</field>
+<field name="composerSort">Badia, Luigi</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Giovanni Battista Canovai</field>
+<field name="librettistSort">Canovai, Giovanni Battista</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flavio+Rachio+Luigi+Badia&amp;search_field=search</field>
+</doc>
+</add>

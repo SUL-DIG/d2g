@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201721</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La giustizia e la pace concordi</field>
+		<field name="titleSort">giustizia e la pace concordi</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Francesco Zannetti</field>
+		<field name="composerSort">Zannetti, Francesco</field>
+		<field name="librettist">Giuseppe Spiganti</field>
+		<field name="librettistSort">Spiganti, Giuseppe</field>
+		
+		
+		<field name="city">Perugia</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+giustizia+e+la+pace+concordi+Francesco+Zannetti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101074</field>
+<field name="genre">Operas</field>
+<field name="title">Squire Badger</field>
+<field name="titleSort">Squire Badger</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Thomas Augustine Arne</field>
+<field name="librettistSort">Arne, Thomas Augustine</field>
+<field name="librettist">Henry Fielding</field>
+<field name="librettistSort">Fielding, Henry</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Squire+Badger+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

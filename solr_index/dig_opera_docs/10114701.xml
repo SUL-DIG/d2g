@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114701</field>
+<field name="genre">Operas</field>
+<field name="title">The Leper King</field>
+<field name="titleSort">Leper King</field>
+<field name="composer">Alan Hovhaness</field>
+<field name="composerSort">Hovhaness, Alan</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Alan Hovhaness</field>
+<field name="librettistSort">Hovhaness, Alan</field>
+
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Leper+King+Alan+Hovhaness&amp;search_field=search</field>
+</doc>
+</add>

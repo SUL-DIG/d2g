@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104555</field>
+<field name="genre">Operas</field>
+<field name="title">Io che dal ciel cader farei la luna</field>
+<field name="titleSort">Io che dal ciel cader farei la luna</field>
+<field name="composer">Giulio Caccini</field>
+<field name="composerSort">Caccini, Giulio</field>
+<field name="year">1589</field>
+<field name="date">1589</field>
+<field name="librettist">Giovanni Battista Caccini</field>
+<field name="librettistSort">Caccini, Giovanni Battista</field>
+<field name="theater">Palazzo Vecchio</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Io+che+dal+ciel+cader+farei+la+luna+Giulio+Caccini&amp;search_field=search</field>
+</doc>
+</add>

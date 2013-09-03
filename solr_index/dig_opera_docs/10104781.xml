@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104781</field>
+<field name="genre">Operas</field>
+<field name="title">Antigona</field>
+<field name="titleSort">Antigona</field>
+<field name="composer">Alessandro Vincenzo Campobasso</field>
+<field name="composerSort">Campobasso, Alessandro Vincenzo</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Marco Coltellini</field>
+<field name="librettistSort">Coltellini, Marco</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigona+Alessandro+Vincenzo+Campobasso&amp;search_field=search</field>
+</doc>
+</add>

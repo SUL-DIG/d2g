@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107203</field>
+<field name="genre">Operas</field>
+<field name="title">La peau de l'ours</field>
+<field name="titleSort">peau de l'ours</field>
+<field name="composer">Samuel David</field>
+<field name="composerSort">David, Samuel</field>
+<field name="year">1858</field>
+<field name="date">1858</field><field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+peau+de+l'ours+Samuel+David&amp;search_field=search</field>
+</doc>
+</add>

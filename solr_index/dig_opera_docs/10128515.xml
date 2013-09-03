@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128515</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spielmann</field>
+<field name="titleSort">Spielmann</field>
+<field name="composer">August Schulz</field>
+<field name="composerSort">Schulz, August</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Paul Quensel</field>
+<field name="librettistSort">Quensel, Paul</field>
+<field name="librettist">Fritz Karstedt</field>
+<field name="librettistSort">Karstedt, Fritz</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spielmann+August+Schulz&amp;search_field=search</field>
+</doc>
+</add>

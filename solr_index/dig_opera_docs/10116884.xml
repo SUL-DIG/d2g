@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116884</field>
+<field name="genre">Operas</field>
+<field name="title">Mysterier</field>
+<field name="titleSort">Mysterier</field>
+<field name="composer">Johan Kvandal</field>
+<field name="composerSort">Kvandal, Johan</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Barthold Halle</field>
+<field name="librettistSort">Halle, Barthold</field>
+<field name="librettist">Knut Hamsun</field>
+<field name="librettistSort">Hamsun, Knut</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mysterier+Johan+Kvandal&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108296</field>
+<field name="genre">Operas</field>
+<field name="title">Les chevaliers de Malte</field>
+<field name="titleSort">chevaliers de Malte</field>
+<field name="composer">Jean-Jacques Dreuilh</field>
+<field name="composerSort">Dreuilh, Jean-Jacques</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Jean-Antoine-Marie Monperlier</field>
+<field name="librettistSort">Monperlier, Jean-Antoine-Marie</field>
+<field name="librettist">Hyacinthe Albertin</field>
+<field name="librettistSort">Albertin, Hyacinthe</field>
+<field name="theater">Théâtre des Célestins</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chevaliers+de+Malte+Jean-Jacques+Dreuilh&amp;search_field=search</field>
+</doc>
+</add>

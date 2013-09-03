@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106805</field>
+<field name="genre">Operas</field>
+<field name="title">The Bathing Girl</field>
+<field name="titleSort">Bathing Girl</field>
+<field name="composer">Robert Coverly</field>
+<field name="composerSort">Coverly, Robert</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Rupert Hughes</field>
+<field name="librettistSort">Hughes, Rupert</field>
+<field name="theater">Fifth Avenue Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bathing+Girl+Robert+Coverly&amp;search_field=search</field>
+</doc>
+</add>

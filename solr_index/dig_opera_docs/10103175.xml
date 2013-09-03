@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103175</field>
+<field name="genre">Operas</field>
+<field name="title">Le jeune oncle</field>
+<field name="titleSort">jeune oncle</field>
+<field name="composer">Felice Blangini</field>
+<field name="composerSort">Blangini, Felice</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Hippolyte Antoine Advenier-Fontenille</field>
+<field name="librettistSort">Advenier-Fontenille, Hippolyte Antoine</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jeune+oncle+Felice+Blangini&amp;search_field=search</field>
+</doc>
+</add>

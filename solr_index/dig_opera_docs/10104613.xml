@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104613</field>
+<field name="genre">Operas</field>
+<field name="title">Lo tutore innamorato</field>
+<field name="titleSort">tutore innamorato</field>
+<field name="composer">Nicolò Calandro</field>
+<field name="composerSort">Calandro, Nicolò</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">Pietro Trinchera</field>
+<field name="librettistSort">Trinchera, Pietro</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+tutore+innamorato+Nicolò+Calandro&amp;search_field=search</field>
+</doc>
+</add>

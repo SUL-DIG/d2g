@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128676</field>
+<field name="genre">Operas</field>
+<field name="title">Das Liebesgrab</field>
+<field name="titleSort">Liebesgrab</field>
+<field name="composer">Friedrich Schwindl</field>
+<field name="composerSort">Schwindl, Friedrich</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Wilhelm Gottlieb Becker</field>
+<field name="librettistSort">Becker, Wilhelm Gottlieb</field>
+
+<field name="city">Mulhouse</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Liebesgrab+Friedrich+Schwindl&amp;search_field=search</field>
+</doc>
+</add>

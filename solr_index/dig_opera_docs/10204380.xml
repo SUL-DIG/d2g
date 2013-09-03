@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204380</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Star of Bethlehem</field>
+		<field name="titleSort">Star of Bethlehem</field>
+		<field name="year">1889</field>
+		
+		
+		<field name="date">1889</field>
+		<field name="composer">Charles Darnton</field>
+		<field name="composerSort">Darnton, Charles</field>
+		<field name="librettist">Charles Darnton</field>
+		<field name="librettistSort">Darnton, Charles</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Star of Bethlehem</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Star+of+Bethlehem+Charles+Darnton&amp;search_field=search</field>
+	</doc></add>

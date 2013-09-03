@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132229</field>
+<field name="genre">Operas</field>
+<field name="title">Il gabbiano</field>
+<field name="titleSort">gabbiano</field>
+<field name="composer">Roman Vlad</field>
+<field name="composerSort">Vlad, Roman</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Roman Vlad</field>
+<field name="librettistSort">Vlad, Roman</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Teatro dei Rinnovati</field>
+<field name="city">Siena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gabbiano+Roman+Vlad&amp;search_field=search</field>
+</doc>
+</add>

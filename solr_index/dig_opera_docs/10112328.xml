@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112328</field>
+<field name="genre">Operas</field>
+<field name="title">Die Kriegsgefangene (Briseïs)</field>
+<field name="titleSort">Kriegsgefangene (Briseïs)</field>
+<field name="composer">Karl Goldmark</field>
+<field name="composerSort">Goldmark, Karl</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Alfred Formey] Emil Schlicht</field>
+<field name="librettistSort">Schlicht, Emil [Alfred Formey]</field>
+<field name="theater">Hofoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Kriegsgefangene+Briseïs+Karl+Goldmark&amp;search_field=search</field>
+</doc>
+</add>

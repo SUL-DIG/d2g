@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129928</field>
+<field name="genre">Operas</field>
+<field name="title">Costaso</field>
+<field name="titleSort">Costaso</field>
+<field name="composer">William Grant Still</field>
+<field name="composerSort">Still, William Grant</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Verna Arvey</field>
+<field name="librettistSort">Arvey, Verna</field>
+<field name="theater">John Muir High School</field>
+<field name="city">Pasadena</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Costaso+William+Grant+Still&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110566</field>
+<field name="genre">Operas</field>
+<field name="title">Das Spiel vom Wolfsegger-Schloss</field>
+<field name="titleSort">Spiel vom Wolfsegger-Schloss</field>
+<field name="composer">Reinhold Friedl</field>
+<field name="composerSort">Friedl, Reinhold</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Reinhold Friedl</field>
+<field name="librettistSort">Friedl, Reinhold</field>
+
+<field name="city">Wolfsegg am Hausruck</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Spiel+vom+Wolfsegger-Schloss+Reinhold+Friedl&amp;search_field=search</field>
+</doc>
+</add>

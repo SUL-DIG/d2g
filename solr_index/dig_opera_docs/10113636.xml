@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113636</field>
+<field name="genre">Operas</field>
+<field name="title">Wachsfigurenkabinett</field>
+<field name="titleSort">Wachsfigurenkabinett</field>
+<field name="composer">Karl Amadeus Hartmann</field>
+<field name="composerSort">Hartmann, Karl Amadeus</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Erich Bormann</field>
+<field name="librettistSort">Bormann, Erich</field>
+<field name="theater">Hochschule für Musik und Theater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wachsfigurenkabinett+Karl+Amadeus+Hartmann&amp;search_field=search</field>
+</doc>
+</add>

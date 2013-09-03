@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108330</field>
+<field name="genre">Operas</field>
+<field name="title">The Plague</field>
+<field name="titleSort">Plague</field>
+<field name="composer">Learmont Drysdale</field>
+<field name="composerSort">Drysdale, Learmont</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Ian Robertson</field>
+<field name="librettistSort">Robertson, Ian</field>
+<field name="theater">Royal Lyceum</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Plague+Learmont+Drysdale&amp;search_field=search</field>
+</doc>
+</add>

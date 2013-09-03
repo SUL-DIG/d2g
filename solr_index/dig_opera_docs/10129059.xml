@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129059</field>
+<field name="genre">Operas</field>
+<field name="title">Kicchomu shoten (The Assumption of Kicchomu)</field>
+<field name="titleSort">Kicchomu shoten (The Assumption of Kicchomu)</field>
+<field name="composer">Osamu Shimizu</field>
+<field name="composerSort">Shimizu, Osamu</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Hiroo Sakata</field>
+<field name="librettistSort">Sakata, Hiroo</field>
+<field name="theater">Kenmin Opera</field>
+<field name="city">Oita</field>
+<field name="region">Oita</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kicchomu+shoten+The+Assumption+of+Kicchomu+Osamu+Shimizu&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108439</field>
+<field name="genre">Operas</field>
+<field name="title">La chute des anges rebelles</field>
+<field name="titleSort">chute des anges rebelles</field>
+<field name="composer">Egidio Duni</field>
+<field name="composerSort">Duni, Egidio</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Jean Nicolas Servadoni</field>
+<field name="librettistSort">Servadoni, Jean Nicolas</field>
+<field name="theater">Salle des machines du château des Tuileries</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chute+des+anges+rebelles+Egidio+Duni&amp;search_field=search</field>
+</doc>
+</add>

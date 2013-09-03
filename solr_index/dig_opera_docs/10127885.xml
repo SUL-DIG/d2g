@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127885</field>
+<field name="genre">Operas</field>
+<field name="title">"My Kinsman, Major Molineux</field>
+<field name="titleSort">"My Kinsman, Major Molineux"</field>
+<field name="composer">Bruce Saylor</field>
+<field name="composerSort">Saylor, Bruce</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Cary Plotkin</field>
+<field name="librettistSort">Plotkin, Cary</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Winchester-Thurston Theater</field>
+<field name="city">Pittsburgh</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Kinsman,+Major+Molineux+Bruce+Saylor&amp;search_field=search</field>
+</doc>
+</add>

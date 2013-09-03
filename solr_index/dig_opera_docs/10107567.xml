@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107567</field>
+<field name="genre">Operas</field>
+<field name="title">"L'auteur а la mode, ou Le mari complaisant</field>
+<field name="titleSort">"auteur а la mode, ou Le mari complaisant"</field>
+<field name="composer">Prosper-Didier Deshayes</field>
+<field name="composerSort">Deshayes, Prosper-Didier</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">__ Durival</field>
+<field name="librettistSort">Durival, __</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'auteur+а+la+mode,+ou+Le+mari+complaisant+Prosper-Didier+Deshayes&amp;search_field=search</field>
+</doc>
+</add>

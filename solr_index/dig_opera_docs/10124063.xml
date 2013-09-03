@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124063</field>
+<field name="genre">Operas</field>
+<field name="title">Thémistocle</field>
+<field name="titleSort">Thémistocle</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Étienne Morel de Chédeville</field>
+<field name="librettistSort">Chédeville, Étienne Morel de</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thémistocle+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

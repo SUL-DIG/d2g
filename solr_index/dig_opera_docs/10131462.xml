@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131462</field>
+<field name="genre">Operas</field>
+<field name="title">The Bride Ship</field>
+<field name="titleSort">Bride Ship</field>
+<field name="composer">Robert Turner</field>
+<field name="composerSort">Turner, Robert</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">George Woodcock</field>
+<field name="librettistSort">Woodcock, George</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Vancouver</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bride+Ship+Robert+Turner&amp;search_field=search</field>
+</doc>
+</add>

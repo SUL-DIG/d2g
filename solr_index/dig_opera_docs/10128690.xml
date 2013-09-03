@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128690</field>
+<field name="genre">Operas</field>
+<field name="title">Lisidore et Monrose</field>
+<field name="titleSort">Lisidore et Monrose</field>
+<field name="composer">Étienne Scio</field>
+<field name="composerSort">Scio, Étienne</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Marie Monnet</field>
+<field name="librettistSort">Monnet, Marie</field>
+<field name="librettist">François-Thomas-Marie Baculard d'Arnaud</field>
+<field name="librettistSort">Baculard d'Arnaud, François-Thomas-Marie </field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lisidore+et+Monrose+Étienne+Scio&amp;search_field=search</field>
+</doc>
+</add>

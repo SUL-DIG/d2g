@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128346</field>
+<field name="genre">Operas</field>
+<field name="title">Les joujoux d'Allemagne</field>
+<field name="titleSort">joujoux d'Allemagne</field>
+<field name="composer">Georges Schmitt</field>
+<field name="composerSort">Schmitt, Georges</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+joujoux+d'Allemagne+Georges+Schmitt&amp;search_field=search</field>
+</doc>
+</add>

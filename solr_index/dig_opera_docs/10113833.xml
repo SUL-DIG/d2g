@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113833</field>
+<field name="genre">Operas</field>
+<field name="title">Paolo and Francesca</field>
+<field name="titleSort">Paolo and Francesca</field>
+<field name="composer">Claude M. Haydon</field>
+<field name="composerSort">Haydon, Claude M.</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Claude M. Haydon</field>
+<field name="librettistSort">Haydon, Claude M.</field>
+<field name="librettist">Dante AlighierilibrettistSortDante Alighieritheater</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paolo+and+Francesca+Claude+M.+Haydon&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100331</field>
+<field name="genre">Operas</field>
+<field name="title">Die Schmuggler-Susi</field>
+<field name="titleSort">Schmuggler-Susi</field>
+<field name="composer">Viktor Albert</field>
+<field name="composerSort">Albert, Viktor</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Louis Windhopp</field>
+<field name="librettistSort">Windhopp, Louis</field>
+<field name="librettist">Benno Jacobson</field>
+<field name="librettistSort">Jacobson, Benno</field>
+<field name="theater">Centraltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schmuggler-Susi+Viktor+Albert&amp;search_field=search</field>
+</doc>
+</add>

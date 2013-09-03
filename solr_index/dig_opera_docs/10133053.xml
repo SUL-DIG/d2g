@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133053</field>
+<field name="genre">Operas</field>
+<field name="title">Zaira</field>
+<field name="titleSort">Zaira</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Lorenzo Da Ponte</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaira+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200479</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La caduta di Gerico</field>
+		<field name="titleSort">caduta di Gerico</field>
+		<field name="year">1844</field>
+		<field name="month">March</field>
+		<field name="day">31</field>
+		<field name="date">March 31, 1844</field>
+		<field name="composer">Eugenio Terziani</field>
+		<field name="composerSort">Terziani, Eugenio</field>
+		<field name="librettist">Camillo Giuliani</field>
+		<field name="librettistSort">Giuliani, Camillo</field>
+		
+		<field name="theater">Teatro Apollo</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Destruction of Jericho</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caduta+di+Gerico+Eugenio+Terziani&amp;search_field=search</field>
+	</doc></add>

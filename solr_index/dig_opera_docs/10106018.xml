@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106018</field>
+<field name="genre">Operas</field>
+<field name="title">Il ratto d'Elena</field>
+<field name="titleSort">ratto d'Elena</field>
+<field name="composer">Francesco Cirillo</field>
+<field name="composerSort">Cirillo, Francesco</field>
+<field name="year">1655</field>
+<field name="date">1655</field>
+<field name="librettist">Gennaro Paolella</field>
+<field name="librettistSort">Paolella, Gennaro</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ratto+d'Elena+Francesco+Cirillo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129276</field>
+<field name="genre">Operas</field>
+<field name="title">Re Nala</field>
+<field name="titleSort">Re Nala</field>
+<field name="composer">Antonio Smareglia</field>
+<field name="composerSort">Smareglia, Antonio</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Vincenzo Valle</field>
+<field name="librettistSort">Valle, Vincenzo</field>
+<field name="librettist">Angelo De Gubernatis</field>
+<field name="librettistSort">De Gubernatis, Angelo</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Re+Nala+Antonio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

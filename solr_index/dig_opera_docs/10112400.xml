@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112400</field>
+<field name="genre">Operas</field>
+<field name="title">Le faux lord</field>
+<field name="titleSort">faux lord</field>
+<field name="composer">François-Joseph Gossec</field>
+<field name="composerSort">Gossec, François-Joseph</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">René Parmentier</field>
+<field name="librettistSort">Parmentier, René</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+faux+lord+François-Joseph+Gossec&amp;search_field=search</field>
+</doc>
+</add>

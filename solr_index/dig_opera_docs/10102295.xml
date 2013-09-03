@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102295</field>
+<field name="genre">Operas</field>
+<field name="title">Meine Schwester und ich</field>
+<field name="titleSort">Meine Schwester und ich</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Robert Blum</field>
+<field name="librettistSort">Blum, Robert</field>
+<field name="theater">Komödienhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meine+Schwester+und+ich+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

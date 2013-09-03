@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201736</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il glorioso San Giuseppe sposo della Beata Vergine</field>
+		<field name="titleSort">glorioso San Giuseppe sposo della Beata Vergine</field>
+		<field name="year">1721</field>
+		
+		
+		<field name="date">1721</field>
+		<field name="composer">Francesco Corradini</field>
+		<field name="composerSort">Corradini, Francesco</field>
+		
+		
+		<field name="theater">Casa di signor Giuseppe Di Robero</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Joseph</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">19</field>
+		<field name="feastDate">March 19</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+glorioso+San+Giuseppe+sposo+della+Beata+Vergine+Francesco+Corradini&amp;search_field=search</field>
+	</doc></add>

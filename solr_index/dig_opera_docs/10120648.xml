@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120648</field>
+<field name="genre">Operas</field>
+<field name="title">Maximilien</field>
+<field name="titleSort">Maximilien</field>
+<field name="composer">Darius Milhaud</field>
+<field name="composerSort">Milhaud, Darius</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Rudolf Stephen Hoffman</field>
+<field name="librettistSort">Hoffman, Rudolf Stephen</field>
+<field name="librettist">Franz Werfel</field>
+<field name="librettistSort">Werfel, Franz</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maximilien+Darius+Milhaud&amp;search_field=search</field>
+</doc>
+</add>

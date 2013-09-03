@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126670</field>
+<field name="genre">Operas</field>
+<field name="title">Lycksalighetens ö (The Isle of Felicity)</field>
+<field name="titleSort">Lycksalighetens ö (The Isle of Felicity)</field>
+<field name="composer">Hilding Rosenberg</field>
+<field name="composerSort">Rosenberg, Hilding</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Per Daniel Amadeus Atterbom</field>
+<field name="librettistSort">Atterbom, Per Daniel Amadeus</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lycksalighetens+ö+The+Isle+of+Felicity+Hilding+Rosenberg&amp;search_field=search</field>
+</doc>
+</add>

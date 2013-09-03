@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203083</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio della passione</field>
+		<field name="titleSort">Oratorio della passione</field>
+		<field name="year">1685</field>
+		
+		
+		<field name="date">1685</field>
+		<field name="composer">Giacomo Antonio Perti</field>
+		<field name="composerSort">Perti, Giacomo Antonio</field>
+		<field name="librettist">Giacomo Antonio Bergamori</field>
+		<field name="librettistSort">Bergamori, Giacomo Antonio</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+della+passione+Giacomo+Antonio+Perti&amp;search_field=search</field>
+	</doc></add>

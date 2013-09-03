@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203203</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Passion</field>
+		<field name="titleSort">Passion</field>
+		
+		
+		
+		
+		<field name="composer">Friedrich Seitz</field>
+		<field name="composerSort">Seitz, Friedrich</field>
+		<field name="librettist">Jacob Obweger</field>
+		<field name="librettistSort">Obweger, Jacob</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Passion+Friedrich+Seitz&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124076</field>
+<field name="genre">Operas</field>
+<field name="title">Don't We All?</field>
+<field name="titleSort">Don't We All?</field>
+<field name="composer">Burril Philips</field>
+<field name="composerSort">Philips, Burril</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Alberta Phillips</field>
+<field name="librettistSort">Phillips, Alberta</field>
+<field name="theater">Eastman School of Music</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don't+We+All?+Burril+Philips&amp;search_field=search</field>
+</doc>
+</add>

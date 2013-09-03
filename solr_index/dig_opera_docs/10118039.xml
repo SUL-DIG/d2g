@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118039</field>
+<field name="genre">Operas</field>
+<field name="title">Punchinello</field>
+<field name="titleSort">Punchinello</field>
+<field name="composer">William Charles Levey</field>
+<field name="composerSort">Levey, William Charles</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="theater">"Her Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Punchinello+William+Charles+Levey&amp;search_field=search</field>
+</doc>
+</add>

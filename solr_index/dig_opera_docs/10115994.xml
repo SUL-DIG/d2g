@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115994</field>
+<field name="genre">Operas</field>
+<field name="title">Marionetten</field>
+<field name="titleSort">Marionetten</field>
+<field name="composer">Robert Alfred Kirchner</field>
+<field name="composerSort">Kirchner, Robert Alfred</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Rudolf Gahlbeck</field>
+<field name="librettistSort">Gahlbeck, Rudolf</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marionetten+Robert+Alfred+Kirchner&amp;search_field=search</field>
+</doc>
+</add>

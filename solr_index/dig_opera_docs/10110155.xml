@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110155</field>
+<field name="genre">Operas</field>
+<field name="title">Jacques Rigaud</field>
+<field name="titleSort">Jacques Rigaud</field>
+<field name="composer">Charles-Gabriel Foignet</field>
+<field name="composerSort">Foignet, Charles-Gabriel</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">[Antoine-Jean Bourlin] Dumaniant</field>
+<field name="librettistSort">Dumaniant, [Antoine-Jean Bourlin]</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacques+Rigaud+Charles-Gabriel+Foignet&amp;search_field=search</field>
+</doc>
+</add>

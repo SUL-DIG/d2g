@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202095</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Israeliten in der Wüste</field>
+		<field name="titleSort">Israeliten in der Wüste</field>
+		<field name="year">1769</field>
+		<field name="month">November</field>
+		<field name="day">1</field>
+		<field name="date">November 1, 1769</field>
+		<field name="composer">Carl Philipp Emanuel Bach</field>
+		<field name="composerSort">Bach, Carl Philipp</field>
+		<field name="librettist">Daniel Schiebeler</field>
+		<field name="librettistSort">Schiebeler, Daniel</field>
+		
+		<field name="theater">Lazareths-Kirche</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Israel in the Wilderness</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Israeliten+in+der+Wüste+Carl+Philipp+Emanuel+Bach&amp;search_field=search</field>
+	</doc></add>

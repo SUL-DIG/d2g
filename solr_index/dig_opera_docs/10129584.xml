@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129584</field>
+<field name="genre">Operas</field>
+<field name="title">"Ines und Pedro, oder Die Johannisnacht</field>
+<field name="titleSort">"Ines und Pedro, oder Die Johannisnacht"</field>
+<field name="composer">János Spech</field>
+<field name="composerSort">Spech, János</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Sándor Kisfaludy</field>
+<field name="librettistSort">Kisfaludy, Sándor</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ines+und+Pedro,+oder+Die+Johannisnacht+János+Spech&amp;search_field=search</field>
+</doc>
+</add>

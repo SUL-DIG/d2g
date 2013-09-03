@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113555</field>
+<field name="genre">Operas</field>
+<field name="title">Iwai-uta ga nagareru yoru ni</field>
+<field name="titleSort">Iwai-uta ga nagareru yoru ni</field>
+<field name="composer">Kazuko Hara</field>
+<field name="composerSort">Hara, Kazuko</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Kazuko Hara</field>
+<field name="librettistSort">Hara, Kazuko</field>
+<field name="librettist">[Togawa Yujiro] Itaru Kikumura</field>
+<field name="librettistSort">Kikumura, Itaru [Togawa Yujiro]</field>
+<field name="theater">Sunshine Theater</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iwai-uta+ga+nagareru+yoru+ni+Kazuko+Hara&amp;search_field=search</field>
+</doc>
+</add>

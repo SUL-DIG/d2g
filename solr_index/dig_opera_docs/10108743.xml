@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108743</field>
+<field name="genre">Operas</field>
+<field name="title">Die Verlobung in San Domingo</field>
+<field name="titleSort">Verlobung in San Domingo</field>
+<field name="composer">Werner Egk</field>
+<field name="composerSort">Egk, Werner</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Werner Egk</field>
+<field name="librettistSort">Egk, Werner</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistSort">Kleist, Heinrich von</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Verlobung+in+San+Domingo+Werner+Egk&amp;search_field=search</field>
+</doc>
+</add>

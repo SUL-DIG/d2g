@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105515</field>
+<field name="genre">Operas</field>
+<field name="title">La p'tite Garde chasse</field>
+<field name="titleSort">p'tite Garde chasse</field>
+<field name="composer">Paul Chabot</field>
+<field name="composerSort">Chabot, Paul</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">__ Popelin</field>
+<field name="librettistSort">Popelin, __</field>
+<field name="theater">Théâtre du Casino</field>
+<field name="city">Royan</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+p'tite+Garde+chasse+Paul+Chabot&amp;search_field=search</field>
+</doc>
+</add>

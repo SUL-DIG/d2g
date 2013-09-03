@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126593</field>
+<field name="genre">Operas</field>
+<field name="title">The Two Sisters</field>
+<field name="titleSort">Two Sisters</field>
+<field name="composer">Cyril Rootham</field>
+<field name="composerSort">Rootham, Cyril</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Michael Fausset</field>
+<field name="librettistSort">Fausset, Michael</field>
+
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Two+Sisters+Cyril+Rootham&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130116</field>
+<field name="genre">Operas</field>
+<field name="title">Columbine</field>
+<field name="titleSort">Columbine</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Arthur Pserhofer</field>
+<field name="librettistSort">Pserhofer, Arthur</field>
+<field name="librettist">Erich Korn</field>
+<field name="librettistSort">Korn, Erich</field>
+<field name="theater">Theater des Westens</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Columbine+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

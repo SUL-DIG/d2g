@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116562</field>
+<field name="genre">Operas</field>
+<field name="title">The University Greys</field>
+<field name="titleSort">University Greys</field>
+<field name="composer">Arthur Kreutz</field>
+<field name="composerSort">Kreutz, Arthur</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Zoë Lunde Schiller</field>
+<field name="librettistSort">Schiller, Zoë Lunde</field>
+<field name="librettist">Maud Morrow Brown</field>
+<field name="librettistSort">Brown, Maud Morrow</field>
+<field name="theater">University of Mississippi</field>
+<field name="city">Clinton</field>
+<field name="region">Mississippi</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+University+Greys+Arthur+Kreutz&amp;search_field=search</field>
+</doc>
+</add>

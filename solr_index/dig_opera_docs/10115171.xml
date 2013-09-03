@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115171</field>
+<field name="genre">Operas</field>
+<field name="title">Van der Alster bis zum Bosporus</field>
+<field name="titleSort">Van der Alster bis zum Bosporus</field>
+<field name="composer">Karl Jansson</field>
+<field name="composerSort">Jansson, Karl</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Alfred Müller-Förster</field>
+<field name="librettistSort">Müller-Förster, Alfred</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Van+der+Alster+bis+zum+Bosporus+Karl+Jansson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110212</field>
+<field name="genre">Operas</field>
+<field name="title">The Fairy Oak</field>
+<field name="titleSort">Fairy Oak</field>
+<field name="composer">Henry Forbes</field>
+<field name="composerSort">Forbes, Henry</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Henry Coe Coape</field>
+<field name="librettistSort">Coape, Henry Coe</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fairy+Oak+Henry+Forbes&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104381</field>
+<field name="genre">Operas</field>
+<field name="title">Csárdás</field>
+<field name="titleSort">Csárdás</field>
+<field name="composer">Dénes Buday</field>
+<field name="composerSort">Buday, Dénes</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">László Szilágyi</field>
+<field name="librettistSort">Szilágyi, László</field>
+<field name="theater">Budai Színkör</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Csárdás+Dénes+Buday&amp;search_field=search</field>
+</doc>
+</add>

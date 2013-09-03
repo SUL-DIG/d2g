@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114169</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit Faust</field>
+<field name="titleSort">petit Faust</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Adolphe Jaime</field>
+<field name="librettistSort">Jaime, Adolphe</field>
+<field name="librettist">Hector-Jonathan Crémieux</field>
+<field name="librettistSort">Crémieux, Hector-Jonathan</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+Faust+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

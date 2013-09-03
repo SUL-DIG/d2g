@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118873</field>
+<field name="genre">Operas</field>
+<field name="title">La regina dello Jazz</field>
+<field name="titleSort">regina dello Jazz</field>
+<field name="composer">Luigi Maggio</field>
+<field name="composerSort">Maggio, Luigi</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">[Luigi Maggio] Giulio Gisma</field>
+<field name="librettistSort">Gisma, Giulio [Luigi Maggio]</field>
+<field name="theater">Politeama Greco</field>
+<field name="city">Lecce</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+regina+dello+Jazz+Luigi+Maggio&amp;search_field=search</field>
+</doc>
+</add>

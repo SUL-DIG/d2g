@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105165</field>
+<field name="genre">Operas</field>
+<field name="title">La tempestа</field>
+<field name="titleSort">tempestа</field>
+<field name="composer">Luigi Caruso</field>
+<field name="composerSort">Caruso, Luigi</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tempestа+Luigi+Caruso&amp;search_field=search</field>
+</doc>
+</add>

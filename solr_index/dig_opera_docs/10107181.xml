@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107181</field>
+<field name="genre">Operas</field>
+<field name="title">"Le Sicilien, ou L'amour peintre</field>
+<field name="titleSort">"Sicilien, ou L'amour peintre"</field>
+<field name="composer">Antoine Dauvergne</field>
+<field name="composerSort">Dauvergne, Antoine</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Francis Le Vasseur</field>
+<field name="librettistSort">Le Vasseur, Francis</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Théâtre des Petits Appartemens</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Sicilien,+ou+L'amour+peintre+Antoine+Dauvergne&amp;search_field=search</field>
+</doc>
+</add>

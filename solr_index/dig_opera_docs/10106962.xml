@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106962</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Main-leste</field>
+<field name="titleSort">Mam'zelle Main-leste</field>
+<field name="composer">Charles Cuvillier</field>
+<field name="composerSort">Cuvillier, Charles</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Miguel Zamacoïs</field>
+<field name="librettistSort">Zamacoïs, Miguel</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Main-leste+Charles+Cuvillier&amp;search_field=search</field>
+</doc>
+</add>

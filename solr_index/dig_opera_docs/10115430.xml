@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115430</field>
+<field name="genre">Operas</field>
+<field name="title">Stevan Decanski</field>
+<field name="titleSort">Stevan Decanski</field>
+<field name="composer">Enriko Josif</field>
+<field name="composerSort">Josif, Enriko</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Stevan Decanski</field>
+<field name="librettistSort">Decanski, Stevan</field>
+<field name="librettist">Grigorije Camblak</field>
+<field name="librettistSort">Camblak, Grigorije</field>
+<field name="theater">Narodno Pozorista</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stevan+Decanski+Enriko+Josif&amp;search_field=search</field>
+</doc>
+</add>

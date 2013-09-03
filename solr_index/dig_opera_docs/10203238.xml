@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203238</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Cristo</field>
+		<field name="titleSort">passione di Cristo</field>
+		<field name="year">1876</field>
+		
+		
+		<field name="date">1876</field>
+		<field name="composer">Giovanni Cesare Pascucci</field>
+		<field name="composerSort">Pascucci, Giovanni Cesare</field>
+		<field name="librettist">Cesare Cantu</field>
+		<field name="librettistSort">Cantu, Cesare</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Cristo+Giovanni+Cesare+Pascucci&amp;search_field=search</field>
+	</doc></add>

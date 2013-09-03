@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103915</field>
+<field name="genre">Operas</field>
+<field name="title">Estafette</field>
+<field name="titleSort">Estafette</field>
+<field name="composer">Victor Bovery</field>
+<field name="composerSort">Bovery, Victor</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Eugène Viteau</field>
+<field name="librettistSort">Viteau, Eugène</field>
+<field name="theater">Théâtre des Batignolles et Montmartre</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Estafette+Victor+Bovery&amp;search_field=search</field>
+</doc>
+</add>

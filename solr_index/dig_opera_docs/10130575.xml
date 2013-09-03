@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130575</field>
+<field name="genre">Operas</field>
+<field name="title">Adolfo e Virginia</field>
+<field name="titleSort">Adolfo e Virginia</field>
+<field name="composer">Giuseppe Tamburini</field>
+<field name="composerSort">Tamburini, Giuseppe</field>
+<field name="year">1835</field>
+<field name="date">1835</field><field name="theater">Teatro della Fortuna</field>
+<field name="city">Fano</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adolfo+e+Virginia+Giuseppe+Tamburini&amp;search_field=search</field>
+</doc>
+</add>

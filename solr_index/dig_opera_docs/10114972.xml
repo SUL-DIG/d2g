@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114972</field>
+<field name="genre">Operas</field>
+<field name="title">Aojishi (Blue Lion)</field>
+<field name="titleSort">Aojishi (Blue Lion)</field>
+<field name="composer">Kan Ishii</field>
+<field name="composerSort">Ishii, Kan</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Kazuhiko Hoshino</field>
+<field name="librettistSort">Hoshino, Kazuhiko</field>
+<field name="theater">City Hall</field>
+<field name="city">Komagane</field>
+<field name="region">Nagano</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aojishi+Blue+Lion+Kan+Ishii&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123001</field>
+<field name="genre">Operas</field>
+<field name="title">Elfrida</field>
+<field name="titleSort">Elfrida</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Raniero de' Calzabigi</field>
+<field name="librettistSort">Calzabigi, Raniero de'</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfrida+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

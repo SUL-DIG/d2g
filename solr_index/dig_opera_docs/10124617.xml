@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124617</field>
+<field name="genre">Operas</field>
+<field name="title">Die Knusperhexe</field>
+<field name="titleSort">Knusperhexe</field>
+<field name="composer">Ede Poldini</field>
+<field name="composerSort">Poldini, Ede</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Antal Váradi</field>
+<field name="librettistSort">Váradi, Antal</field>
+<field name="librettist">Max Kalbeck</field>
+<field name="librettistSort">Kalbeck, Max</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Knusperhexe+Ede+Poldini&amp;search_field=search</field>
+</doc>
+</add>

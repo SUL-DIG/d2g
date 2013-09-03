@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133191</field>
+<field name="genre">Operas</field>
+<field name="title">Das Fest der Lazaronen</field>
+<field name="titleSort">Fest der Lazaronen</field>
+<field name="composer">Paul Wranitzky</field>
+<field name="composerSort">Wranitzky, Paul</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Joachim Perinet</field>
+<field name="librettistSort">Perinet, Joachim</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fest+der+Lazaronen+Paul+Wranitzky&amp;search_field=search</field>
+</doc>
+</add>

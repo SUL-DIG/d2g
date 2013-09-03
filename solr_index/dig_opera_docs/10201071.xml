@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201071</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Easter Morn</field>
+		<field name="titleSort">Easter Morn</field>
+		<field name="year">1892</field>
+		
+		
+		<field name="date">1892</field>
+		<field name="composer">Arundel Orchard</field>
+		<field name="composerSort">Orchard, Arundel</field>
+		<field name="librettist">Charles Karlyle</field>
+		<field name="librettistSort">Karlyle, Charles</field>
+		
+		
+		
+		
+		
+		<field name="subject">Mary Magdalen does not recognize Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Easter+Morn+Arundel+Orchard&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127663</field>
+<field name="genre">Operas</field>
+<field name="title">Valeria</field>
+<field name="titleSort">Valeria</field>
+<field name="composer">Salvatore Sarmiento</field>
+<field name="composerSort">Sarmiento, Salvatore</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Leopoldo Tarantini</field>
+<field name="librettistSort">Tarantini, Leopoldo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valeria+Salvatore+Sarmiento&amp;search_field=search</field>
+</doc>
+</add>

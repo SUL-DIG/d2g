@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101863</field>
+<field name="genre">Operas</field>
+<field name="title">"Nisida, die Perle von Procida</field>
+<field name="titleSort">"Nisida, die Perle von Procida"</field>
+<field name="composer">Carlo Emanuele Barbieri</field>
+<field name="composerSort">Barbieri, Carlo Emanuele</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Johann Krüger</field>
+<field name="librettistSort">Krüger, Johann</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nisida,+die+Perle+von+Procida+Carlo+Emanuele+Barbieri&amp;search_field=search</field>
+</doc>
+</add>

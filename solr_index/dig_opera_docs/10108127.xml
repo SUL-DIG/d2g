@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108127</field>
+<field name="genre">Operas</field>
+<field name="title">"Linnée, ou La mine de Suède</field>
+<field name="titleSort">"Linnée, ou La mine de Suède"</field>
+<field name="composer">Victor-Charles-Paul Dourlen</field>
+<field name="composerSort">Dourlen, Victor-Charles-Paul</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Jean-Élie-Bédéno Dejaure</field>
+<field name="librettistSort">Dejaure, Jean-Élie-Bédéno</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Linnée,+ou+La+mine+de+Suède+Victor-Charles-Paul+Dourlen&amp;search_field=search</field>
+</doc>
+</add>

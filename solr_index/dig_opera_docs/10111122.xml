@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111122</field>
+<field name="genre">Operas</field>
+<field name="title">Le magasin d'antiquités</field>
+<field name="titleSort">magasin d'antiquités</field>
+<field name="composer">E. Gascard</field>
+<field name="composerSort">Gascard, E.</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">__ Béju</field>
+<field name="librettistSort">Béju, __</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Saintes</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+magasin+d'antiquités+E.+Gascard&amp;search_field=search</field>
+</doc>
+</add>

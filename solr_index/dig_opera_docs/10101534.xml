@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101534</field>
+<field name="genre">Operas</field>
+<field name="title">The System</field>
+<field name="titleSort">System</field>
+<field name="composer">Jan Bach</field>
+<field name="composerSort">Bach, Jan</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Jan Bach</field>
+<field name="librettistSort">Bach, Jan</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">"Kaufmann Auditorium, 92nd Street Y"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+System+Jan+Bach&amp;search_field=search</field>
+</doc>
+</add>

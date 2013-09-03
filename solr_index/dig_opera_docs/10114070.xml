@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114070</field>
+<field name="genre">Operas</field>
+<field name="title">Mark Me Twain</field>
+<field name="titleSort">Mark Me Twain</field>
+<field name="composer">Bern Herbolsheimer</field>
+<field name="composerSort">Herbolsheimer, Bern</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Phil Shallat</field>
+<field name="librettistSort">Shallat, Phil</field>
+<field name="theater">Pioneer Center</field>
+<field name="city">Reno</field>
+<field name="region">Nevada</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mark+Me+Twain+Bern+Herbolsheimer&amp;search_field=search</field>
+</doc>
+</add>

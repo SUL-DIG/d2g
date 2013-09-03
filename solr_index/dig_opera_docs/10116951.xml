@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116951</field>
+<field name="genre">Operas</field>
+<field name="title">Follow Me Where?</field>
+<field name="titleSort">Follow Me Where?</field>
+<field name="composer">Lionel Lackey</field>
+<field name="composerSort">Lackey, Lionel</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Lionel Lackey</field>
+<field name="librettistSort">Lackey, Lionel</field>
+<field name="theater">University of Wisconsin</field>
+<field name="city">Madison</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Follow+Me+Where?+Lionel+Lackey&amp;search_field=search</field>
+</doc>
+</add>

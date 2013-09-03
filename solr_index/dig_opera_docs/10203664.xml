@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203664</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Rut</field>
+		<field name="titleSort">Rut</field>
+		<field name="year">1833</field>
+		<field name="month">September</field>
+		<field name="day">15</field>
+		<field name="date">September 15, 1833</field>
+		<field name="composer">Pietro Raimondi</field>
+		<field name="composerSort">Raimondi, Pietro</field>
+		<field name="librettist">Francesco Paolo Berenga</field>
+		<field name="librettistSort">Berenga, Francesco Paolo</field>
+		
+		
+		<field name="city">Lanciano</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">Ruth and Naomi</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rut+Pietro+Raimondi&amp;search_field=search</field>
+	</doc></add>

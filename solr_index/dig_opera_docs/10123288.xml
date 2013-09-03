@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123288</field>
+<field name="genre">Operas</field>
+<field name="title">Apolonov hram (Venerin hram)</field>
+<field name="titleSort">Apolonov hram (Venerin hram)</field>
+<field name="composer">Viktor Parma</field>
+<field name="composerSort">Parma, Viktor</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Bratislav Emil Lvovsky</field>
+<field name="librettistSort">Lvovsky, Bratislav Emil</field>
+<field name="librettist">R. Felden</field>
+<field name="librettistSort">Felden, R.</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apolonov+hram+Venerin+hram+Viktor+Parma&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123636</field>
+<field name="genre">Operas</field>
+<field name="title">Dolly</field>
+<field name="titleSort">Dolly</field>
+<field name="composer">Josef Peltzer</field>
+<field name="composerSort">Peltzer, Josef</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">John Bannister</field>
+<field name="librettistSort">Bannister, John</field>
+<field name="theater">Her Majesty's Theatre</field>
+<field name="city">Carlisle</field>
+<field name="region">Cumberland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolly+Josef+Peltzer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129586</field>
+<field name="genre">Operas</field>
+<field name="title">Lady of the Castle</field>
+<field name="titleSort">Lady of the Castle</field>
+<field name="composer">Mira Josefowicz Spektor</field>
+<field name="composerSort">Spektor, Mira Josefowicz</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Mira Josefowicz Spektor</field>
+<field name="librettistSort">Spektor, Mira Josefowicz</field>
+<field name="librettist">Leah Goldberg</field>
+<field name="librettistSort">Goldberg, Leah</field>
+<field name="theater">Theater for the New City</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+of+the+Castle+Mira+Josefowicz+Spektor&amp;search_field=search</field>
+</doc>
+</add>

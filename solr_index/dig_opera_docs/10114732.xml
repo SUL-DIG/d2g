@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114732</field>
+<field name="genre">Operas</field>
+<field name="title">Al'piyskaya ballada</field>
+<field name="titleSort">Al'piyskaya ballada</field>
+<field name="composer">Vitaly Serhiyovych Hubarenko</field>
+<field name="composerSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Maryna Cherkashyna-Hubarenko</field>
+<field name="librettistSort">Cherkashyna-Hubarenko, Maryna</field>
+<field name="librettist">N. Bïkov</field>
+<field name="librettistSort">Bïkov, N.</field>
+<field name="theater">Kotlyarevs'ky Institute</field>
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Al'piyskaya+ballada+Vitaly+Serhiyovych+Hubarenko&amp;search_field=search</field>
+</doc>
+</add>

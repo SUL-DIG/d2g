@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126480</field>
+<field name="genre">Operas</field>
+<field name="title">Les fétards</field>
+<field name="titleSort">fétards</field>
+<field name="composer">Victor Roger</field>
+<field name="composerSort">Roger, Victor</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Maurice Hennequin</field>
+<field name="librettistSort">Hennequin, Maurice</field>
+<field name="librettist">Antony Mars</field>
+<field name="librettistSort">Mars, Antony</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fétards+Victor+Roger&amp;search_field=search</field>
+</doc>
+</add>

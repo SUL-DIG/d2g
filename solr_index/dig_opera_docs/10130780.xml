@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130780</field>
+<field name="genre">Operas</field>
+<field name="title">Nicolás Bravo</field>
+<field name="titleSort">Nicolás Bravo</field>
+<field name="composer">Rafael Tello</field>
+<field name="composerSort">Tello, Rafael</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Ignacio Mariscal</field>
+<field name="librettistSort">Mariscal, Ignacio</field>
+<field name="theater">Teatro Arbeu</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicolás+Bravo+Rafael+Tello&amp;search_field=search</field>
+</doc>
+</add>

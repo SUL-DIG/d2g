@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116157</field>
+<field name="genre">Operas</field>
+<field name="title">Dunja</field>
+<field name="titleSort">Dunja</field>
+<field name="composer">Iwan Knorr</field>
+<field name="composerSort">Knorr, Iwan</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Iwan Knorr</field>
+<field name="librettistSort">Knorr, Iwan</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Koblenz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dunja+Iwan+Knorr&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113925</field>
+<field name="genre">Operas</field>
+<field name="title">Kapitan Ahlström</field>
+<field name="titleSort">Kapitan Ahlström</field>
+<field name="composer">Joseph Hellmesberger</field>
+<field name="composerSort">Hellmesberger, Joseph</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Albert Hoffmann</field>
+<field name="librettistSort">Hoffmann, Albert</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kapitan+Ahlström+Joseph+Hellmesberger&amp;search_field=search</field>
+</doc>
+</add>

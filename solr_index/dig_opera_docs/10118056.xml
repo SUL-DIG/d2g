@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118056</field>
+<field name="genre">Operas</field>
+<field name="title">The Tower</field>
+<field name="titleSort">Tower</field>
+<field name="composer">Marvin David Levy</field>
+<field name="composerSort">Levy, Marvin David</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Townsend Brewster</field>
+<field name="librettistSort">Brewster, Townsend</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tower+Marvin+David+Levy&amp;search_field=search</field>
+</doc>
+</add>

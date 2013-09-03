@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132494</field>
+<field name="genre">Operas</field>
+<field name="title">John Maynard</field>
+<field name="titleSort">John Maynard</field>
+<field name="composer">Otto Walter</field>
+<field name="composerSort">Walter, Otto</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Hans Herbert</field>
+<field name="librettistSort">Herbert, Hans</field>
+<field name="librettist">Jean de La Fontaine</field>
+<field name="librettistSort">La Fontaine, Jean de</field>
+<field name="theater">RWR Radio (Sendergruppe Rot- Weiss- Rot)</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+Maynard+Otto+Walter&amp;search_field=search</field>
+</doc>
+</add>

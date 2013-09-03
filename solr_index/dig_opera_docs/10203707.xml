@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203707</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrificio d'Abramo</field>
+		<field name="titleSort">sacrificio d'Abramo</field>
+		<field name="year">1756</field>
+		
+		
+		<field name="date">1756</field>
+		<field name="composer">Angelo del Seaglies</field>
+		<field name="composerSort">Seaglies, Angelo del</field>
+		
+		
+		
+		<field name="city">Jesi</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrificio+d'Abramo+Angelo+del+Seaglies&amp;search_field=search</field>
+	</doc></add>

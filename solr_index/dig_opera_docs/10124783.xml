@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124783</field>
+<field name="genre">Operas</field>
+<field name="title">Mourette</field>
+<field name="titleSort">Mourette</field>
+<field name="composer">Charles Pons</field>
+<field name="composerSort">Pons, Charles</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Paul de Choudens</field>
+<field name="librettistSort">Choudens, Paul de</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mourette+Charles+Pons&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132840</field>
+<field name="genre">Operas</field>
+<field name="title">Formynderne (The Totalitarians)</field>
+<field name="titleSort">Formynderne (The Totalitarians)</field>
+<field name="composer">Sven-Erik Werner</field>
+<field name="composerSort">Werner, Sven-Erik</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Villy Sørensen</field>
+<field name="librettistSort">Sørensen, Villy</field>
+<field name="theater">DR Television (Danmarks Radio)</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Formynderne+The+Totalitarians+Sven-Erik+Werner&amp;search_field=search</field>
+</doc>
+</add>

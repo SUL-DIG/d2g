@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115562</field>
+<field name="genre">Operas</field>
+<field name="title">Zsuzsi kisasszony (Miss Springtime)</field>
+<field name="titleSort">Zsuzsi kisasszony (Miss Springtime)</field>
+<field name="composer">Imre Kálmán</field>
+<field name="composerSort">Kálmán, Imre</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="librettist">Miksa Bródy</field>
+<field name="librettistSort">Bródy, Miksa</field>
+<field name="theater">Vigszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zsuzsi+kisasszony+Miss+Springtime+Imre+Kálmán&amp;search_field=search</field>
+</doc>
+</add>

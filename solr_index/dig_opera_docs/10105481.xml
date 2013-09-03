@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105481</field>
+<field name="genre">Operas</field>
+<field name="title">Baal</field>
+<field name="titleSort">Baal</field>
+<field name="composer">Friedrich Cerha</field>
+<field name="composerSort">Cerha, Friedrich</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Friedrich Cerha</field>
+<field name="librettistSort">Cerha, Friedrich</field>
+<field name="librettist">Bertolt Brecht</field>
+<field name="librettistSort">Brecht, Bertolt</field>
+<field name="theater">Kleines Festspielhaus</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baal+Friedrich+Cerha&amp;search_field=search</field>
+</doc>
+</add>

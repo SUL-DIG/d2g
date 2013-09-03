@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132440</field>
+<field name="genre">Operas</field>
+<field name="title">The Black Rider</field>
+<field name="titleSort">Black Rider</field>
+<field name="composer">Tom Waits</field>
+<field name="composerSort">Waits, Tom</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">William Seward Burroughs</field>
+<field name="librettistSort">Burroughs, William Seward</field>
+<field name="theater">Thalia-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Black+Rider+Tom+Waits&amp;search_field=search</field>
+</doc>
+</add>

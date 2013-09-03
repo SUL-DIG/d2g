@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103685</field>
+<field name="genre">Operas</field>
+<field name="title">Os tamanqueiros</field>
+<field name="titleSort">tamanqueiros</field>
+<field name="composer">João José Borges</field>
+<field name="composerSort">Borges, João José</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">António Feliciano de Castilho</field>
+<field name="librettistSort">Castilho, António Feliciano de</field>
+
+<field name="city">Coimbra</field>
+<field name="region">Coimbra</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Os+tamanqueiros+João+José+Borges&amp;search_field=search</field>
+</doc>
+</add>

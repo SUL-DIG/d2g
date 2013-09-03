@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113740</field>
+<field name="genre">Operas</field>
+<field name="title">Marfa</field>
+<field name="titleSort">Marfa</field>
+<field name="composer">Johann Hasslinger von Hassingen</field>
+<field name="composerSort">Hassingen, Johann Hasslinger von</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Emmanuel de Coëtlogon</field>
+<field name="librettistSort">Coëtlogon, Emmanuel de</field>
+<field name="librettist">Salomon Hermann Mosenthal</field>
+<field name="librettistSort">Mosenthal, Salomon Hermann</field>
+<field name="theater">Hofoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marfa+Johann+Hasslinger+von+Hassingen&amp;search_field=search</field>
+</doc>
+</add>

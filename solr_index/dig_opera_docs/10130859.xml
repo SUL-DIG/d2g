@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130859</field>
+<field name="genre">Operas</field>
+<field name="title">La perla dell'Atelier</field>
+<field name="titleSort">perla dell'Atelier</field>
+<field name="composer">Lidia Testore</field>
+<field name="composerSort">Testore, Lidia</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Carlo Bonapace</field>
+<field name="librettistSort">Bonapace, Carlo</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+perla+dell'Atelier+Lidia+Testore&amp;search_field=search</field>
+</doc>
+</add>

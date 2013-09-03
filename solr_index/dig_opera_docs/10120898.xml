@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120898</field>
+<field name="genre">Operas</field>
+<field name="title">Oreste</field>
+<field name="titleSort">Oreste</field>
+<field name="composer">Giuseppe Moneta</field>
+<field name="composerSort">Moneta, Giuseppe</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Francesco Gonella</field>
+<field name="librettistSort">Gonella, Francesco</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oreste+Giuseppe+Moneta&amp;search_field=search</field>
+</doc>
+</add>

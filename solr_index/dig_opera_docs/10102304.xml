@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102304</field>
+<field name="genre">Operas</field>
+<field name="title">Der Silberhof</field>
+<field name="titleSort">Silberhof</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Ralph Benatzky</field>
+<field name="librettistSort">Benatzky, Ralph</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Silberhof+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

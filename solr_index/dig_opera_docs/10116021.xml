@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116021</field>
+<field name="genre">Operas</field>
+<field name="title">Jacobowsky und der Oberst</field>
+<field name="titleSort">Jacobowsky und der Oberst</field>
+<field name="composer">Giselher Klebe</field>
+<field name="composerSort">Klebe, Giselher</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Giselher Klebe</field>
+<field name="librettistSort">Klebe, Giselher</field>
+<field name="librettist">Franz Werfel</field>
+<field name="librettistSort">Werfel, Franz</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacobowsky+und+der+Oberst+Giselher+Klebe&amp;search_field=search</field>
+</doc>
+</add>

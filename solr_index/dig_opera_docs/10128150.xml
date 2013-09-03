@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128150</field>
+<field name="genre">Operas</field>
+<field name="title">Die Thurmschwalbe</field>
+<field name="titleSort">Thurmschwalbe</field>
+<field name="composer">Karl Schaumann</field>
+<field name="composerSort">Schaumann, Karl</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Hans Neu</field>
+<field name="librettistSort">Neu, Hans</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Altona</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Thurmschwalbe+Karl+Schaumann&amp;search_field=search</field>
+</doc>
+</add>

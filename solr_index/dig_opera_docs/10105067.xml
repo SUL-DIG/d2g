@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105067</field>
+<field name="genre">Operas</field>
+<field name="title">La fede trionfante</field>
+<field name="titleSort">fede trionfante</field>
+<field name="composer">Gaetano Carospero</field>
+<field name="composerSort">Carospero, Gaetano</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="city">Caltagirone</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fede+trionfante+Gaetano+Carospero&amp;search_field=search</field>
+</doc>
+</add>

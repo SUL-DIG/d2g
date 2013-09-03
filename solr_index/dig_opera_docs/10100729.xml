@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100729</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo di Arsace</field>
+<field name="titleSort">trionfo di Arsace</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Francesco Ballani</field>
+<field name="librettistSort">Ballani, Francesco</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Arsace+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106270</field>
+<field name="genre">Operas</field>
+<field name="title">Die Karamasows</field>
+<field name="titleSort">Karamasows</field>
+<field name="composer">Paul Coenen</field>
+<field name="composerSort">Coenen, Paul</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Paul Coenen</field>
+<field name="librettistSort">Coenen, Paul</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Karamasows+Paul+Coenen&amp;search_field=search</field>
+</doc>
+</add>

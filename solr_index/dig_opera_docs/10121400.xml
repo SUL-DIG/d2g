@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121400</field>
+<field name="genre">Operas</field>
+<field name="title">Agnes Bernauer</field>
+<field name="titleSort">Agnes Bernauer</field>
+<field name="composer">Felix Mottl</field>
+<field name="composerSort">Mottl, Felix</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Felix Mottl</field>
+<field name="librettistSort">Mottl, Felix</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnes+Bernauer+Felix+Mottl&amp;search_field=search</field>
+</doc>
+</add>

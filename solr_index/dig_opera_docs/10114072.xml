@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114072</field>
+<field name="genre">Operas</field>
+<field name="title">Lukrezia Borgia</field>
+<field name="titleSort">Lukrezia Borgia</field>
+<field name="composer">Walter Herbst</field>
+<field name="composerSort">Herbst, Walter</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Walter Herbst</field>
+<field name="librettistSort">Herbst, Walter</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Stralsund</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lukrezia+Borgia+Walter+Herbst&amp;search_field=search</field>
+</doc>
+</add>

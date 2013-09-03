@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103570</field>
+<field name="genre">Operas</field>
+<field name="title">La pietа di Numa</field>
+<field name="titleSort">pietа di Numa</field>
+<field name="composer">Giuseppe Bonno</field>
+<field name="composerSort">Bonno, Giuseppe</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Giovanni Claudio Pasquini</field>
+<field name="librettistSort">Pasquini, Giovanni Claudio</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pietа+di+Numa+Giuseppe+Bonno&amp;search_field=search</field>
+</doc>
+</add>

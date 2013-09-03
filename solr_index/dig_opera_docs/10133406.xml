@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133406</field>
+<field name="genre">Operas</field>
+<field name="title">La sura palmira sposa</field>
+<field name="titleSort">sura palmira sposa</field>
+<field name="composer">Ladislao Zavertal</field>
+<field name="composerSort">Zavertal, Ladislao</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">[Carlo Righetti] Cletto Arrighi</field>
+<field name="librettistSort">Arrighi, Cletto [Carlo Righetti]</field>
+<field name="theater">Teatro Milanese</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sura+palmira+sposa+Ladislao+Zavertal&amp;search_field=search</field>
+</doc>
+</add>

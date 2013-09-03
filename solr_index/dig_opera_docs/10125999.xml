@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125999</field>
+<field name="genre">Operas</field>
+<field name="title">Der Gondoliere des Dogen</field>
+<field name="titleSort">Gondoliere des Dogen</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Poul Knudsen</field>
+<field name="librettistSort">Knudsen, Poul</field>
+<field name="theater">Württembergisches Staatstheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Gondoliere+des+Dogen+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

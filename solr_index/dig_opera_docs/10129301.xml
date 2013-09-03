@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129301</field>
+<field name="genre">Operas</field>
+<field name="title">The Tempest</field>
+<field name="titleSort">Tempest</field>
+<field name="composer">John Christopher Smith</field>
+<field name="composerSort">Smith, John Christopher</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">David Garrick</field>
+<field name="librettistSort">Garrick, David</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tempest+John+Christopher+Smith&amp;search_field=search</field>
+</doc>
+</add>

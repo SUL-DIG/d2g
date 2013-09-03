@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132942</field>
+<field name="genre">Operas</field>
+<field name="title">Der Diktator</field>
+<field name="titleSort">Diktator</field>
+<field name="composer">Friedrich Wildgans</field>
+<field name="composerSort">Wildgans, Friedrich</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Gustav Herrmann</field>
+<field name="librettistSort">Herrmann, Gustav"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Diktator+Friedrich+Wildgans&amp;search_field=search</field>
+</doc>
+</add>

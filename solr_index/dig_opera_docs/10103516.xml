@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103516</field>
+<field name="genre">Operas</field>
+<field name="title">Abradate e Dircea</field>
+<field name="titleSort">Abradate e Dircea</field>
+<field name="composer">Paolo Bonfichi</field>
+<field name="composerSort">Bonfichi, Paolo</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abradate+e+Dircea+Paolo+Bonfichi&amp;search_field=search</field>
+</doc>
+</add>

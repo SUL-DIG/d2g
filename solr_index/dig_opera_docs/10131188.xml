@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131188</field>
+<field name="genre">Operas</field>
+<field name="title">"Siroe, re di Persia</field>
+<field name="titleSort">"Siroe, re di Persia"</field>
+<field name="composer">Antonio Tozzi</field>
+<field name="composerSort">Tozzi, Antonio</field>
+
+
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siroe,+re+di+Persia+Antonio+Tozzi&amp;search_field=search</field>
+</doc>
+</add>

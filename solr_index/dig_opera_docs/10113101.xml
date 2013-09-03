@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113101</field>
+<field name="genre">Operas</field>
+<field name="title">Le barbier du roi</field>
+<field name="titleSort">barbier du roi</field>
+<field name="composer">Léopold Guigou</field>
+<field name="composerSort">Guigou, Léopold</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">J. Caccia</field>
+<field name="librettistSort">Caccia, J.</field>
+<field name="theater">Théâtre du Gymnase</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+barbier+du+roi+Léopold+Guigou&amp;search_field=search</field>
+</doc>
+</add>

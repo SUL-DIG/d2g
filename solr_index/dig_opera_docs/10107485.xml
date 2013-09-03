@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107485</field>
+<field name="genre">Operas</field>
+<field name="title">Stéfano</field>
+<field name="titleSort">Stéfano</field>
+<field name="composer">Marc Delmas</field>
+<field name="composerSort">Delmas, Marc</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Maxime Boucheron</field>
+<field name="librettistSort">Boucheron, Maxime</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Saint-Quentin</field>
+<field name="region">Aisne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stéfano+Marc+Delmas&amp;search_field=search</field>
+</doc>
+</add>

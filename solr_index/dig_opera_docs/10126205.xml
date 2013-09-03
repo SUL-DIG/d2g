@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126205</field>
+<field name="genre">Operas</field>
+<field name="title">Servilya</field>
+<field name="titleSort">Servilya</field>
+<field name="composer">Nikolay Andreyevich Rimsky-Korsakov</field>
+<field name="composerSort">Rimsky-Korsakov, Nikolay Andreyevich</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Nikolay Andreyevich Rimsky-Korsakov</field>
+<field name="librettistSort">Rimsky-Korsakov, Nikolay Andreyevich</field>
+<field name="librettist">Lev Andreyevich Mey</field>
+<field name="librettistSort">Mey, Lev Andreyevich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Servilya+Nikolay+Andreyevich+Rimsky-Korsakov&amp;search_field=search</field>
+</doc>
+</add>

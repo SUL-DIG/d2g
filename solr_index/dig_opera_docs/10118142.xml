@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118142</field>
+<field name="genre">Operas</field>
+<field name="title">Il figlio della schiava</field>
+<field name="titleSort">figlio della schiava</field>
+<field name="composer">Giuseppe Lillo</field>
+<field name="composerSort">Lillo, Giuseppe</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Giuseppe Sesto Giannini</field>
+<field name="librettistSort">Giannini, Giuseppe Sesto</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figlio+della+schiava+Giuseppe+Lillo&amp;search_field=search</field>
+</doc>
+</add>

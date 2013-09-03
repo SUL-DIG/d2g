@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204297</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sig des Leydens Christi über die Sinnligkeit</field>
+		<field name="titleSort">Sig des Leydens Christi über die Sinnligkeit</field>
+		<field name="year">1682</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1682</field>
+		<field name="composer">Leopold I Kaiser von Deutschland</field>
+		<field name="composerSort">Leopold I Kaiser von Deutschland, </field>
+		<field name="librettist">Johann Albrecht Ruedolf</field>
+		<field name="librettistSort">Ruedolf, Johann Albrecht</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sig+des+Leydens+Christi+über+die+Sinnligkeit+Leopold+I+Kaiser+von+Deutschland&amp;search_field=search</field>
+	</doc></add>

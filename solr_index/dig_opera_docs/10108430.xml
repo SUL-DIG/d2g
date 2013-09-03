@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108430</field>
+<field name="genre">Operas</field>
+<field name="title">Happy Families</field>
+<field name="titleSort">Happy Families</field>
+<field name="composer">Thomas Frederick Dunhill</field>
+<field name="composerSort">Dunhill, Thomas Frederick</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Rose Fyleman</field>
+<field name="librettistSort">Fyleman, Rose</field>
+<field name="theater">Guildford Repertory Company</field>
+<field name="city">Guildford</field>
+<field name="region">Surrey</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Happy+Families+Thomas+Frederick+Dunhill&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100853</field>
+<field name="genre">Operas</field>
+<field name="title">Der Fürst und sein Volk</field>
+<field name="titleSort">Fürst und sein Volk</field>
+<field name="composer">Ferdinand d'Antoine</field>
+<field name="composerSort">d'Antoine, Ferdinand</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Georg Carl Claudius</field>
+<field name="librettistSort">Claudius, Georg Carl</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Fürst+und+sein+Volk+Ferdinand+d'Antoine&amp;search_field=search</field>
+</doc>
+</add>

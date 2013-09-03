@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200601</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Christian Pilgrim</field>
+		<field name="titleSort">Christian Pilgrim</field>
+		<field name="year">1887</field>
+		
+		
+		<field name="date">1887</field>
+		<field name="composer">Charles Edward Kettle</field>
+		<field name="composerSort">Kettle, Charles Edward</field>
+		
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Christian+Pilgrim+Charles+Edward+Kettle&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204718</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'uccisione de Abele</field>
+		<field name="titleSort">uccisione de Abele</field>
+		<field name="year">1757</field>
+		
+		
+		<field name="date">1757</field>
+		<field name="composer">Domenico Francesco Vannucci</field>
+		<field name="composerSort">Vannucci, Domenico Francesco</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Congregazione degli Angeli Custodi</field>
+		<field name="city">Lucca</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'uccisione+de+Abele+Domenico+Francesco+Vannucci&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126431</field>
+<field name="genre">Operas</field>
+<field name="title">Isménor</field>
+<field name="titleSort">Isménor</field>
+<field name="composer">Jean-Joseph Rodolphe</field>
+<field name="composerSort">Rodolphe, Jean-Joseph</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">[François-Guillaume Fouques-Deshays] Desfontaines</field>
+<field name="librettistSort">Desfontaines, [François-Guillaume Fouques-Deshays]</field>
+<field name="theater">Château de Versailles</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isménor+Jean-Joseph+Rodolphe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112202</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo di Clelia</field>
+<field name="titleSort">trionfo di Clelia</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Clelia+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

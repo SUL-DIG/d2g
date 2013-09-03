@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125474</field>
+<field name="genre">Operas</field>
+<field name="title">La donna colonello</field>
+<field name="titleSort">donna colonello</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1822</field>
+<field name="date">1822</field><field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+colonello+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

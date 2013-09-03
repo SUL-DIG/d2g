@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131267</field>
+<field name="genre">Operas</field>
+<field name="title">Stamboul</field>
+<field name="titleSort">Stamboul</field>
+<field name="composer">Édouard Trémisot</field>
+<field name="composerSort">Trémisot, Édouard</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Édouard Trémisot</field>
+<field name="librettistSort">Trémisot, Édouard</field>
+<field name="librettist">[Frédéric Charles Bargone] Claude Farrère</field>
+<field name="librettistSort">Farrère, Claude [Frédéric Charles Bargone]</field>
+<field name="theater">Koninklijke Opera</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stamboul+Édouard+Trémisot&amp;search_field=search</field>
+</doc>
+</add>

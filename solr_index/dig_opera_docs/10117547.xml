@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117547</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux nuits</field>
+<field name="titleSort">deux nuits</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">André-Jacques Coffin-Rony</field>
+<field name="librettistSort">Coffin-Rony, André-Jacques</field>
+<field name="librettist">Louis-François-Guillaume Béraud</field>
+<field name="librettistSort">Béraud, Louis-François-Guillaume</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+nuits+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

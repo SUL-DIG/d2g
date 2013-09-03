@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102469</field>
+<field name="genre">Operas</field>
+<field name="title">Billedet og Busten</field>
+<field name="titleSort">Billedet og Busten</field>
+<field name="composer">Andreas Peter Berggreen</field>
+<field name="composerSort">Berggreen, Andreas Peter</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Adam Oehlenschläger</field>
+<field name="librettistSort">Oehlenschläger, Adam</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Billedet+og+Busten+Andreas+Peter+Berggreen&amp;search_field=search</field>
+</doc>
+</add>

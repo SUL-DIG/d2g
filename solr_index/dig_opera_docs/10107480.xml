@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107480</field>
+<field name="genre">Operas</field>
+<field name="title">Iriam</field>
+<field name="titleSort">Iriam</field>
+<field name="composer">Marc Delmas</field>
+<field name="composerSort">Delmas, Marc</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">[Paul de Choudens] Paul Bérel</field>
+<field name="librettistSort">Bérel, Paul [Paul de Choudens]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iriam+Marc+Delmas&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110984</field>
+<field name="genre">Operas</field>
+<field name="title">Chatterton</field>
+<field name="titleSort">Chatterton</field>
+<field name="composer">Erennio Gammieri</field>
+<field name="composerSort">Gammieri, Erennio</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Leone Emanuele Bardare</field>
+<field name="librettistSort">Bardare, Leone Emanuele</field>
+<field name="librettist">Michele Pinto</field>
+<field name="librettistSort">Pinto, Michele</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chatterton+Erennio+Gammieri&amp;search_field=search</field>
+</doc>
+</add>

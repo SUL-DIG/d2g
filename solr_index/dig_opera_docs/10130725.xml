@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130725</field>
+<field name="genre">Operas</field>
+<field name="title">Mandragora</field>
+<field name="titleSort">Mandragora</field>
+<field name="composer">Pyotr Il'yich Tchaikovsky</field>
+<field name="composerSort">Tchaikovsky, Pyotr Il'yich</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Sergey Aleksandrovich Rachinsky</field>
+<field name="librettistSort">Rachinsky, Sergey Aleksandrovich</field>
+
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mandragora+Pyotr+Il'yich+Tchaikovsky&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107770</field>
+<field name="genre">Operas</field>
+<field name="title">"The Waterman, or The First of August</field>
+<field name="titleSort">"Waterman, or First of August"</field>
+<field name="composer">Charles Dibdin</field>
+<field name="composerSort">Dibdin, Charles</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Charles Dibdin</field>
+<field name="librettistSort">Dibdin, Charles</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Waterman,+or+The+First+of+August+Charles+Dibdin&amp;search_field=search</field>
+</doc>
+</add>

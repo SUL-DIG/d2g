@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100837</field>
+<field name="genre">Operas</field>
+<field name="title">I tre pretendenti</field>
+<field name="titleSort">tre pretendenti</field>
+<field name="composer">Secondini Anselmi</field>
+<field name="composerSort">Anselmi, Secondini</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="city">Lodi</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+pretendenti+Secondini+Anselmi&amp;search_field=search</field>
+</doc>
+</add>

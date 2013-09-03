@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100416</field>
+<field name="genre">Operas</field>
+<field name="title">Jeljena</field>
+<field name="titleSort">Jeljena</field>
+<field name="composer">Max Albrecht</field>
+<field name="composerSort">Albrecht, Max</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Hermann Boehringer</field>
+<field name="librettistSort">Boehringer, Hermann</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Teplice</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeljena+Max+Albrecht&amp;search_field=search</field>
+</doc>
+</add>

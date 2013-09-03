@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127160</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto amante</field>
+<field name="titleSort">finto amante</field>
+<field name="composer">Giovanni Marco Rutini</field>
+<field name="composerSort">Rutini, Giovanni Marco</field>
+<field name="year">1776</field>
+<field name="date">1776</field><field name="theater">Teatro dei Rivegliati</field>
+<field name="city">Pistoia</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+amante+Giovanni+Marco+Rutini&amp;search_field=search</field>
+</doc>
+</add>

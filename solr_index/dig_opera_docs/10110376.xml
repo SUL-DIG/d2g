@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110376</field>
+<field name="genre">Operas</field>
+<field name="title">Arsace</field>
+<field name="titleSort">Arsace</field>
+<field name="composer">Carlo de Franchi</field>
+<field name="composerSort">Franchi, Carlo de</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="librettist">Thomas Corneille</field>
+<field name="librettistSort">Corneille, Thomas</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsace+Carlo+de+Franchi&amp;search_field=search</field>
+</doc>
+</add>

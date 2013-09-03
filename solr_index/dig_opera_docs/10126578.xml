@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126578</field>
+<field name="genre">Operas</field>
+<field name="title">La comtesse d'Albany</field>
+<field name="titleSort">comtesse d'Albany</field>
+<field name="composer">Jean-Baptiste Rongé</field>
+<field name="composerSort">Rongé, Jean-Baptiste</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Hyacinthe Kirsch</field>
+<field name="librettistSort">Kirsch, Hyacinthe</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+comtesse+d'Albany+Jean-Baptiste+Rongé&amp;search_field=search</field>
+</doc>
+</add>

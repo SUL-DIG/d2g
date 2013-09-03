@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118667</field>
+<field name="genre">Operas</field>
+<field name="title">Los cadetes de la reina</field>
+<field name="titleSort">cadetes de la reina</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Julián Moyrón</field>
+<field name="librettistSort">Moyrón, Julián</field>
+<field name="theater">Teatro Circo de Price</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+cadetes+de+la+reina+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110140</field>
+<field name="genre">Operas</field>
+<field name="title">El último mosquetero</field>
+<field name="titleSort">último mosquetero</field>
+<field name="composer">Luis Foglietti</field>
+<field name="composerSort">Foglietti, Luis</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Ramón Asensio Mas</field>
+<field name="librettistSort">Asensio Mas, Ramón</field>
+<field name="librettist">José Juan Cadenas Muсoz</field>
+<field name="librettistSort">Cadenas Muсoz, José Juan</field>
+<field name="theater">Teatro Reina Victoria</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+último+mosquetero+Luis+Foglietti&amp;search_field=search</field>
+</doc>
+</add>

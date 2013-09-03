@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201312</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il figlio prodigo</field>
+		<field name="titleSort">figlio prodigo</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Bartolomeo Cavaliere Nucci</field>
+		<field name="composerSort">Nucci, Bartolomeo Cavaliere</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figlio+prodigo+Bartolomeo+Cavaliere+Nucci&amp;search_field=search</field>
+	</doc></add>

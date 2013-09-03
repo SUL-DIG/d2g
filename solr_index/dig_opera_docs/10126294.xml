@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126294</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando furioso</field>
+<field name="titleSort">Orlando furioso</field>
+<field name="composer">Giovanni Alberto Ristori</field>
+<field name="composerSort">Ristori, Giovanni Alberto</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+furioso+Giovanni+Alberto+Ristori&amp;search_field=search</field>
+</doc>
+</add>

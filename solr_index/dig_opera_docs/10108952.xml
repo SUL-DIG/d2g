@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108952</field>
+<field name="genre">Operas</field>
+<field name="title">Sarolta</field>
+<field name="titleSort">Sarolta</field>
+<field name="composer">Ferenc Erkel</field>
+<field name="composerSort">Erkel, Ferenc</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">József Czanyuga</field>
+<field name="librettistSort">Czanyuga, József</field>
+<field name="theater">Nemzeti Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sarolta+Ferenc+Erkel&amp;search_field=search</field>
+</doc>
+</add>

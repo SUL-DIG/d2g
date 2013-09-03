@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114175</field>
+<field name="genre">Operas</field>
+<field name="title">Trombolino</field>
+<field name="titleSort">Trombolino</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Charles de Saint-Piat</field>
+<field name="librettistSort">Saint-Piat, Charles de</field>
+<field name="librettist">Paul Renard</field>
+<field name="librettistSort">Renard, Paul</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trombolino+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

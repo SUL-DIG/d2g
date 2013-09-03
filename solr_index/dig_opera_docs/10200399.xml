@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200399</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Bethsabeae</field>
+		<field name="titleSort">Bethsabeae</field>
+		<field name="year">1679</field>
+		
+		
+		<field name="date">1679</field>
+		<field name="composer">Antonio Foggia</field>
+		<field name="composerSort">Foggia, Antonio</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Bathsheba</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bethsabeae+Antonio+Foggia&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100537</field>
+<field name="genre">Operas</field>
+<field name="title">Mildea</field>
+<field name="titleSort">Mildea</field>
+<field name="composer">Paul Hastings Allen</field>
+<field name="composerSort">Allen, Paul Hastings</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Luigi Capuana</field>
+<field name="librettistSort">Capuana, Luigi</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mildea+Paul+Hastings+Allen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130003</field>
+<field name="genre">Operas</field>
+<field name="title">Mädi</field>
+<field name="titleSort">Mädi</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Berliner Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mädi+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

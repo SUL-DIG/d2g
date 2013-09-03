@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118055</field>
+<field name="genre">Operas</field>
+<field name="title">Sotoba Komachi</field>
+<field name="titleSort">Sotoba Komachi</field>
+<field name="composer">Marvin David Levy</field>
+<field name="composerSort">Levy, Marvin David</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Sam Houston Brock</field>
+<field name="librettistSort">Brock, Sam Houston</field>
+<field name="librettist">Kan'ami Kigotsugu</field>
+<field name="librettistSort">Kigotsugu, Kan'ami</field>
+<field name="theater">"Kaufmann Auditorium, 92nd Street Y"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sotoba+Komachi+Marvin+David+Levy&amp;search_field=search</field>
+</doc>
+</add>

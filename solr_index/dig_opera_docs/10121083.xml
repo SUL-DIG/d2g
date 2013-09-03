@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121083</field>
+<field name="genre">Operas</field>
+<field name="title">Temistocle</field>
+<field name="titleSort">Temistocle</field>
+<field name="composer">Carlo Monza</field>
+<field name="composerSort">Monza, Carlo</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Temistocle+Carlo+Monza&amp;search_field=search</field>
+</doc>
+</add>

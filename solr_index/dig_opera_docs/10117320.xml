@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117320</field>
+<field name="genre">Operas</field>
+<field name="title">Jack and the Beanstalk</field>
+<field name="titleSort">Jack and the Beanstalk</field>
+<field name="composer">Henry Lasker</field>
+<field name="composerSort">Lasker, Henry</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Boston Opera Group</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jack+and+the+Beanstalk+Henry+Lasker&amp;search_field=search</field>
+</doc>
+</add>

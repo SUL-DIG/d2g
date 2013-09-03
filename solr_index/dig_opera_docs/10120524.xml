@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120524</field>
+<field name="genre">Operas</field>
+<field name="title">L'origine di Jaromeriz in Moravia</field>
+<field name="titleSort">origine di Jaromeriz in Moravia</field>
+<field name="composer">Frantisek Antonín Mica</field>
+<field name="composerSort">Mica, Frantisek Antonín</field>
+<field name="year">1730</field>
+<field name="date">1730</field>
+<field name="librettist">[Francesco Antonio Blinoni] Nicodeno Blinoni</field>
+<field name="librettistSort">Blinoni, Nicodeno [Francesco Antonio Blinoni]</field>
+<field name="librettist">Anton Ferdinand Dubravius</field>
+<field name="librettistSort">Dubravius, Anton Ferdinand</field>
+<field name="theater">Schloss Questenberg</field>
+<field name="city">Jaromerice</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'origine+di+Jaromeriz+in+Moravia+Frantisek+Antonín+Mica&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104075</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spion</field>
+<field name="titleSort">Spion</field>
+<field name="composer">Rudolf Brenner</field>
+<field name="composerSort">Brenner, Rudolf</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Rudolf Brenner</field>
+<field name="librettistSort">Brenner, Rudolf</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Krefeld</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spion+Rudolf+Brenner&amp;search_field=search</field>
+</doc>
+</add>

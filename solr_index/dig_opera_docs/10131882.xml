@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131882</field>
+<field name="genre">Operas</field>
+<field name="title">La traviata</field>
+<field name="titleSort">traviata</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="librettist">Alexandre Dumas (fils)</field>
+<field name="librettistSort">Dumas (fils), Alexandre</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+traviata+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108566</field>
+<field name="genre">Operas</field>
+<field name="title">Roma salvata</field>
+<field name="titleSort">Roma salvata</field>
+<field name="composer">Josef Dussek</field>
+<field name="composerSort">Dussek, Josef</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Girolamo Canestrari</field>
+<field name="librettistSort">Canestrari, Girolamo</field>
+<field name="theater">Teatro Vendramin in San Luca</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roma+salvata+Josef+Dussek&amp;search_field=search</field>
+</doc>
+</add>

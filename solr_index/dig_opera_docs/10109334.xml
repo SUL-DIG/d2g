@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109334</field>
+<field name="genre">Operas</field>
+<field name="title">Le double intrigue</field>
+<field name="titleSort">double intrigue</field>
+<field name="composer">Lucien Farjall</field>
+<field name="composerSort">Farjall, Lucien</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">[Mme. Charles Boeswilwald] André Valdès</field>
+<field name="librettistSort">Valdès, André [Mme. Charles Boeswilwald]</field>
+
+<field name="city">Le Val-André</field>
+<field name="region">Côtes-du-Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+double+intrigue+Lucien+Farjall&amp;search_field=search</field>
+</doc>
+</add>

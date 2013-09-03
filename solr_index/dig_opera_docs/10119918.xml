@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119918</field>
+<field name="genre">Operas</field>
+<field name="title">Bluette</field>
+<field name="titleSort">Bluette</field>
+<field name="composer">Louis Mayeur</field>
+<field name="composerSort">Mayeur, Louis</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Henri Gillet</field>
+<field name="librettistSort">Gillet, Henri</field>
+<field name="librettist">Arthur Porte</field>
+<field name="librettistSort">Porte, Arthur</field>
+<field name="theater">Koninklijke Schouwburg</field>
+<field name="city">The Hague</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bluette+Louis+Mayeur&amp;search_field=search</field>
+</doc>
+</add>

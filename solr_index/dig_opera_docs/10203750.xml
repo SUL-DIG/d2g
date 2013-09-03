@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203750</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sagrifizio di Ieft</field>
+		<field name="titleSort">sagrifizio di Ieft</field>
+		<field name="year">1693</field>
+		
+		
+		<field name="date">1693</field>
+		<field name="composer">Giovanni Lorenzo Cattani</field>
+		<field name="composerSort">Cattani, Giovanni Lorenzo</field>
+		
+		
+		<field name="theater">Congregazione dell'Oratorio di San Firenze</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sagrifizio+di+Ieft+Giovanni+Lorenzo+Cattani&amp;search_field=search</field>
+	</doc></add>

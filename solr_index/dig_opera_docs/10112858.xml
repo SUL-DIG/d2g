@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112858</field>
+<field name="genre">Operas</field>
+<field name="title">Das unsichtbare Königreich</field>
+<field name="titleSort">unsichtbare Königreich</field>
+<field name="composer">Max-Ludwig Grube</field>
+<field name="composerSort">Grube, Max-Ludwig</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Max-Ludwig Grube</field>
+<field name="librettistSort">Grube, Max-Ludwig</field>
+<field name="librettist">Richard von Volkmann-Leander</field>
+<field name="librettistSort">Volkmann-Leander, Richard von</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Heilbronn</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+unsichtbare+Königreich+Max-Ludwig+Grube&amp;search_field=search</field>
+</doc>
+</add>

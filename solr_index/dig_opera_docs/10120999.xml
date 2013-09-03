@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120999</field>
+<field name="genre">Operas</field>
+<field name="title">Robinson</field>
+<field name="titleSort">Robinson</field>
+<field name="composer">Jean-Baptiste-Édouard Montaubry</field>
+<field name="composerSort">Montaubry, Jean-Baptiste-Édouard</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Félix-Auguste Duvert</field>
+<field name="librettistSort">Duvert, Félix-Auguste</field>
+<field name="librettist">Augustin-Théodore de Lauzanne de Vaux Rouxel</field>
+<field name="librettistSort">Lauzanne de Vaux Rouxel, Augustin-Théodore de</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robinson+Jean-Baptiste-Édouard+Montaubry&amp;search_field=search</field>
+</doc>
+</add>

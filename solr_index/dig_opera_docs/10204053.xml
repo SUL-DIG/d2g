@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204053</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Maria di Soria</field>
+		<field name="titleSort">Santa Maria di Soria</field>
+		<field name="year">1694</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1694</field>
+		<field name="composer">Bernardo Pasquini</field>
+		<field name="composerSort">Pasquini, Bernardo</field>
+		
+		
+		<field name="theater">Cappella di Principe Borghese</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary of Egypt</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">1</field>
+		<field name="feastDate">April 1</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Maria+di+Soria+Bernardo+Pasquini&amp;search_field=search</field>
+	</doc></add>

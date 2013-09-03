@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112890</field>
+<field name="genre">Operas</field>
+<field name="title">Der Boxerkönig</field>
+<field name="titleSort">Boxerkönig</field>
+<field name="composer">Richard Grünfeld</field>
+<field name="composerSort">Grünfeld, Richard</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">C. W. Wengraf</field>
+<field name="librettistSort">Wengraf, C. W.</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Boxerkönig+Richard+Grünfeld&amp;search_field=search</field>
+</doc>
+</add>

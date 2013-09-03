@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133240</field>
+<field name="genre">Operas</field>
+<field name="title">O ypopsifios vouleftis</field>
+<field name="titleSort">O ypopsifios vouleftis</field>
+<field name="composer">Spyridon Xyndas</field>
+<field name="composerSort">Xyndas, Spyridon</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Ioannis Rinopoulos</field>
+<field name="librettistSort">Rinopoulos, Ioannis</field>
+<field name="theater">Teatro San Giacomo</field>
+<field name="city">Corfu</field>
+<field name="region">Kérkira</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+ypopsifios+vouleftis+Spyridon+Xyndas&amp;search_field=search</field>
+</doc>
+</add>

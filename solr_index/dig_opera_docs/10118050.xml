@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118050</field>
+<field name="genre">Operas</field>
+<field name="title">La conférence des oiseaux</field>
+<field name="titleSort">conférence des oiseaux</field>
+<field name="composer">Michaël Levinas</field>
+<field name="composerSort">Levinas, Michaël</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Jean-Claude Carrière</field>
+<field name="librettistSort">Carrière, Jean-Claude</field>
+<field name="librettist">Farid Al-Din Attar</field>
+<field name="librettistSort">Attar, Farid Al-Din</field>
+<field name="theater">Grande Halle de la Villette</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conférence+des+oiseaux+Michaël+Levinas&amp;search_field=search</field>
+</doc>
+</add>

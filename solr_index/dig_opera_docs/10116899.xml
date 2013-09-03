@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116899</field>
+<field name="genre">Operas</field>
+<field name="title">Un sapeur а la clef</field>
+<field name="titleSort">sapeur а la clef</field>
+<field name="composer">Henri Labit</field>
+<field name="composerSort">Labit, Henri</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Charles Barthélemy</field>
+<field name="librettistSort">Barthélemy, Charles</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+sapeur+а+la+clef+Henri+Labit&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113114</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Turlupin</field>
+<field name="titleSort">Madame Turlupin</field>
+<field name="composer">Ernest Guiraud</field>
+<field name="composerSort">Guiraud, Ernest</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">[Pierre-Étienne Piestre] Eugène Cormon</field>
+<field name="librettistSort">Cormon, Eugène [Pierre-Étienne Piestre]</field>
+<field name="librettist">Charles Grandvallet</field>
+<field name="librettistSort">Grandvallet, Charles</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Turlupin+Ernest+Guiraud&amp;search_field=search</field>
+</doc>
+</add>

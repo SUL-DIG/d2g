@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101464</field>
+<field name="genre">Operas</field>
+<field name="title">Sous le masque</field>
+<field name="titleSort">Sous le masque</field>
+<field name="composer">Georges Auric</field>
+<field name="composerSort">Auric, Georges</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Louis Laloy</field>
+<field name="librettistSort">Laloy, Louis"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sous+le+masque+Georges+Auric&amp;search_field=search</field>
+</doc>
+</add>

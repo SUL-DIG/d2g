@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115699</field>
+<field name="genre">Operas</field>
+<field name="title">Le dernier roi de Juda</field>
+<field name="titleSort">dernier roi de Juda</field>
+<field name="composer">Jean-Georges Kastner</field>
+<field name="composerSort">Kastner, Jean-Georges</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Maurice Bourges</field>
+<field name="librettistSort">Bourges, Maurice</field>
+<field name="theater">Conservatoire Nationale</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+dernier+roi+de+Juda+Jean-Georges+Kastner&amp;search_field=search</field>
+</doc>
+</add>

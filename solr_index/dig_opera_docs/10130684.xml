@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130684</field>
+<field name="genre">Operas</field>
+<field name="title">"Passion, Poison, and Petrification</field>
+<field name="titleSort">"Passion, Poison, and Petrification"</field>
+<field name="composer">Bruce Jeffrey Taub</field>
+<field name="composerSort">Taub, Bruce Jeffrey</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Bruce Jeffrey Taub</field>
+<field name="librettistSort">Taub, Bruce Jeffrey</field>
+<field name="librettist">George Bernard Shaw</field>
+<field name="librettistSort">Shaw, George Bernard</field>
+<field name="theater">Carnegie Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion,+Poison,+and+Petrification+Bruce+Jeffrey+Taub&amp;search_field=search</field>
+</doc>
+</add>

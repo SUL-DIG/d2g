@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201359</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il fonte delle grazie</field>
+		<field name="titleSort">fonte delle grazie</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Domenico Sarri</field>
+		<field name="composerSort">Sarri, Domenico</field>
+		
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fonte+delle+grazie+Domenico+Sarri&amp;search_field=search</field>
+	</doc></add>

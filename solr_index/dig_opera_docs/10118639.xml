@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118639</field>
+<field name="genre">Operas</field>
+<field name="title">Les caprices de Margot</field>
+<field name="titleSort">caprices de Margot</field>
+<field name="composer">Alexandre Luigini</field>
+<field name="composerSort">Luigini, Alexandre</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">[Jules Coste-Labaume] L. Leclair</field>
+<field name="librettistSort">Leclair, L. [Jules Coste-Labaume]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+caprices+de+Margot+Alexandre+Luigini&amp;search_field=search</field>
+</doc>
+</add>

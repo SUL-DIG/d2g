@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107476</field>
+<field name="genre">Operas</field>
+<field name="title">Der grosse Julius</field>
+<field name="titleSort">grosse Julius</field>
+<field name="composer">Arthur Delmar</field>
+<field name="composerSort">Delmar, Arthur</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Armin Petersen</field>
+<field name="librettistSort">Petersen, Armin</field>
+<field name="librettist">Peter Lux</field>
+<field name="librettistSort">Lux, Peter</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+grosse+Julius+Arthur+Delmar&amp;search_field=search</field>
+</doc>
+</add>

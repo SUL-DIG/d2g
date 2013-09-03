@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105065</field>
+<field name="genre">Operas</field>
+<field name="title">Le trébuchet</field>
+<field name="titleSort">trébuchet</field>
+<field name="composer">Camille Caron</field>
+<field name="composerSort">Caron, Camille</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">[Charles-Joseph de Ricault] Charles d'Héricault</field>
+<field name="librettistSort">d'Héricault, Charles [Charles-Joseph de Ricault]</field>
+<field name="librettist">__ Santellier</field>
+<field name="librettistSort">Santellier, __</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+trébuchet+Camille+Caron&amp;search_field=search</field>
+</doc>
+</add>

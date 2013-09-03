@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129179</field>
+<field name="genre">Operas</field>
+<field name="title">I moschettieri</field>
+<field name="titleSort">moschettieri</field>
+<field name="composer">Giuseppe Sinico</field>
+<field name="composerSort">Sinico, Giuseppe</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Michele Buono</field>
+<field name="librettistSort">Buono, Michele</field>
+<field name="librettist">Riccardo Paderni</field>
+<field name="librettistSort">Paderni, Riccardo</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+moschettieri+Giuseppe+Sinico&amp;search_field=search</field>
+</doc>
+</add>

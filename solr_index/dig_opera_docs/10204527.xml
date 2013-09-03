@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204527</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tod des Agamemnon</field>
+		<field name="titleSort">Tod des Agamemnon</field>
+		<field name="year">1965</field>
+		
+		
+		<field name="date">1965</field>
+		<field name="composer">Robert Blum</field>
+		<field name="composerSort">Blum, Robert</field>
+		<field name="librettist">Robert Blum</field>
+		<field name="librettistSort">Blum, Robert</field>
+		
+		
+		
+		
+		
+		<field name="subject">Agamemnon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+des+Agamemnon+Robert+Blum&amp;search_field=search</field>
+	</doc></add>

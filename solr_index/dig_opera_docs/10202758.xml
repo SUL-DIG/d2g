@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202758</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die mit Busse und Glauben ihren leidenden Jesus bis zum Grabe begleitende Seele</field>
+		<field name="titleSort">mit Busse und Glauben ihren leidenden Jesus bis zum Grabe begleitende Seele</field>
+		<field name="year">1737</field>
+		
+		
+		<field name="date">1737</field>
+		<field name="composer">Gottfried Heinrich Stölzel</field>
+		<field name="composerSort">Stölzel, Gottfried Heinrich</field>
+		
+		
+		<field name="theater">Schlosskirche Friedenstein</field>
+		<field name="city">Gotha</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+mit+Busse+und+Glauben+ihren+leidenden+Jesus+bis+zum+Grabe+begleitende+Seele+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
+	</doc></add>

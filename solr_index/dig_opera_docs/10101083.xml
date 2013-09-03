@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101083</field>
+<field name="genre">Operas</field>
+<field name="title">The Petrified Princess</field>
+<field name="titleSort">Petrified Princess</field>
+<field name="composer">Richard Arnell</field>
+<field name="composerSort">Arnell, Richard</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Bryan Guinness</field>
+<field name="librettistSort">Guinness, Bryan</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Petrified+Princess+Richard+Arnell&amp;search_field=search</field>
+</doc>
+</add>

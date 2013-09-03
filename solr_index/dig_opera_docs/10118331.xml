@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118331</field>
+<field name="genre">Operas</field>
+<field name="title">Cetrdesetprva</field>
+<field name="titleSort">Cetrdesetprva</field>
+<field name="composer">Mihovil Logar</field>
+<field name="composerSort">Logar, Mihovil</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Momir Nikolic</field>
+<field name="librettistSort">Nikolic, Momir</field>
+<field name="librettist">Oskar Davico</field>
+<field name="librettistSort">Davico, Oskar</field>
+
+<field name="city">Sarajevo</field>
+
+<field name="country">Bosnia-Hercegovina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cetrdesetprva+Mihovil+Logar&amp;search_field=search</field>
+</doc>
+</add>

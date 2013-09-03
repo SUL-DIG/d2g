@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111603</field>
+<field name="genre">Operas</field>
+<field name="title">Tom Jones</field>
+<field name="titleSort">Tom Jones</field>
+<field name="composer">Edward German</field>
+<field name="composerSort">German, Edward</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Alexander Mattock Thompson</field>
+<field name="librettistSort">Thompson, Alexander Mattock</field>
+<field name="librettist">Robert Courtneidge</field>
+<field name="librettistSort">Courtneidge, Robert</field>
+<field name="theater">Prince's Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tom+Jones+Edward+German&amp;search_field=search</field>
+</doc>
+</add>

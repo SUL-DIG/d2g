@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116576</field>
+<field name="genre">Operas</field>
+<field name="title">"Fridolin, oder Der Gang nach dem Eisenhammer</field>
+<field name="titleSort">"Fridolin, oder Der Gang nach dem Eisenhammer"</field>
+<field name="composer">Conradin Kreutzer</field>
+<field name="composerSort">Kreutzer, Conradin</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Johann Anton Friedrich Reil</field>
+<field name="librettistSort">Reil, Johann Anton Friedrich</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fridolin,+oder+Der+Gang+nach+dem+Eisenhammer+Conradin+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

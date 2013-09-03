@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131310</field>
+<field name="genre">Operas</field>
+<field name="title">Tutto per inganno</field>
+<field name="titleSort">Tutto per inganno</field>
+<field name="composer">Vittorio Trento</field>
+<field name="composerSort">Trento, Vittorio</field>
+<field name="year">1815</field>
+<field name="date">1815</field><field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tutto+per+inganno+Vittorio+Trento&amp;search_field=search</field>
+</doc>
+</add>

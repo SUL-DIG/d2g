@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105343</field>
+<field name="genre">Operas</field>
+<field name="title">I due possidenti</field>
+<field name="titleSort">due possidenti</field>
+<field name="composer">Adolfo Cavagnaro</field>
+<field name="composerSort">Cavagnaro, Adolfo</field>
+<field name="year">1881</field>
+<field name="date">1881</field><field name="theater">Circolo Filarmonico</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+possidenti+Adolfo+Cavagnaro&amp;search_field=search</field>
+</doc>
+</add>

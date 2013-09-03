@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129331</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bretteldiva</field>
+<field name="titleSort">Bretteldiva</field>
+<field name="composer">Josef Snaga</field>
+<field name="composerSort">Snaga, Josef</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="librettist">Alexander Engel</field>
+<field name="librettistSort">Engel, Alexander</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bretteldiva+Josef+Snaga&amp;search_field=search</field>
+</doc>
+</add>

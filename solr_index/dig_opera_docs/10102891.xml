@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102891</field>
+<field name="genre">Operas</field>
+<field name="title">Eurione</field>
+<field name="titleSort">Eurione</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">[Antonio Papi] Cleofante Doriano</field>
+<field name="librettistSort">Doriano, Cleofante [Antonio Papi]</field>
+<field name="theater">Nuovo Teatro dei Quattro Signori</field>
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eurione+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

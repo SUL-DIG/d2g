@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107788</field>
+<field name="genre">Operas</field>
+<field name="title">Der Luftballon</field>
+<field name="titleSort">Luftballon</field>
+<field name="composer">Christian Ludwig Dieter</field>
+<field name="composerSort">Dieter, Christian Ludwig</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Kleines Schauspielhaus auf der Planie</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Luftballon+Christian+Ludwig+Dieter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128662</field>
+<field name="genre">Operas</field>
+<field name="title">Die Stufen des menschlichen Alters</field>
+<field name="titleSort">Stufen des menschlichen Alters</field>
+<field name="composer">Anton Schweitzer</field>
+<field name="composerSort">Schweitzer, Anton</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Stufen+des+menschlichen+Alters+Anton+Schweitzer&amp;search_field=search</field>
+</doc>
+</add>

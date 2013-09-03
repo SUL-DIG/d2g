@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106627</field>
+<field name="genre">Operas</field>
+<field name="title">Blimunda</field>
+<field name="titleSort">Blimunda</field>
+<field name="composer">Azio Corghi</field>
+<field name="composerSort">Corghi, Azio</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">José Saramago</field>
+<field name="librettistSort">Saramago, José</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blimunda+Azio+Corghi&amp;search_field=search</field>
+</doc>
+</add>

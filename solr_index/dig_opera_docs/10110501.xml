@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110501</field>
+<field name="genre">Operas</field>
+<field name="title">Rassvet (Dawn)</field>
+<field name="titleSort">Rassvet (Dawn)</field>
+<field name="composer">Daniil Grigor'yevich Frenkel</field>
+<field name="composerSort">Frenkel, Daniil Grigor'yevich</field>
+<field name="year">1934</field>
+<field name="date">1934</field><field name="theater">Opernaya Studiya Konservatorii</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rassvet+Dawn+Daniil+Grigor'yevich+Frenkel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121947</field>
+<field name="genre">Operas</field>
+<field name="title">Mazeppa</field>
+<field name="titleSort">Mazeppa</field>
+<field name="composer">Émile Nérini</field>
+<field name="composerSort">Nérini, Émile</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Gabriel Montoya</field>
+<field name="librettistSort">Montoya, Gabriel</field>
+<field name="librettist">Émile Nérini</field>
+<field name="librettistSort">Nérini, Émile</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mazeppa+Émile+Nérini&amp;search_field=search</field>
+</doc>
+</add>

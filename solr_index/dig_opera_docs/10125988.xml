@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125988</field>
+<field name="genre">Operas</field>
+<field name="title">"Zaffarana, die Märchenerzählerin</field>
+<field name="titleSort">"Zaffarana, die Märchenerzählerin"</field>
+<field name="composer">Josef Reykens</field>
+<field name="composerSort">Reykens, Josef</field>
+<field name="year">1878</field>
+<field name="date">1878</field><field name="theater">Woltersdorf-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaffarana,+die+Märchenerzählerin+Josef+Reykens&amp;search_field=search</field>
+</doc>
+</add>

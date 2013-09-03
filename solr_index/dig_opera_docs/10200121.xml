@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200121</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Agar fugiens</field>
+		<field name="titleSort">Agar fugiens</field>
+		<field name="year">1785</field>
+		
+		
+		<field name="date">1785</field>
+		<field name="composer">Francesco Bianchi</field>
+		<field name="composerSort">Bianchi, Francesco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Hagar and Ishmael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agar+fugiens+Francesco+Bianchi&amp;search_field=search</field>
+	</doc></add>

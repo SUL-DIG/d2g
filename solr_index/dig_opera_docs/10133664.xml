@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133664</field>
+<field name="genre">Operas</field>
+<field name="title">Die weisse Rose</field>
+<field name="titleSort">weisse Rose</field>
+<field name="composer">Udo Zimmermann</field>
+<field name="composerSort">Zimmermann, Udo</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Ingo Zimmermann</field>
+<field name="librettistSort">Zimmermann, Ingo</field>
+<field name="theater">Staatsoper Studio</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+weisse+Rose+Udo+Zimmermann&amp;search_field=search</field>
+</doc>
+</add>

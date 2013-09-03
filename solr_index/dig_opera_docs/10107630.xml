@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107630</field>
+<field name="genre">Operas</field>
+<field name="title">Christophe et Pierre-Luc</field>
+<field name="titleSort">Christophe et Pierre-Luc</field>
+<field name="composer">Jean-Étienne Despréaux</field>
+<field name="composerSort">Despréaux, Jean-Étienne</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Jean-Étienne Déspreaux</field>
+<field name="librettistSort">Déspreaux, Jean-Étienne</field>
+<field name="theater">Théâtre du Trianon</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christophe+et+Pierre-Luc+Jean-Étienne+Despréaux&amp;search_field=search</field>
+</doc>
+</add>

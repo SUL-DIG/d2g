@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124993</field>
+<field name="genre">Operas</field>
+<field name="title">Mosca cieca</field>
+<field name="titleSort">Mosca cieca</field>
+<field name="composer">S. Porzio</field>
+<field name="composerSort">Porzio, S.</field>
+<field name="year">1902</field>
+<field name="date">1902</field><field name="theater">Liceo Musicale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosca+cieca+S.+Porzio&amp;search_field=search</field>
+</doc>
+</add>

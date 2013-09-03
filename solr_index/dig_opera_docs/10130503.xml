@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130503</field>
+<field name="genre">Operas</field>
+<field name="title">Raggio di luna</field>
+<field name="titleSort">Raggio di luna</field>
+<field name="composer">Silvio Tagliapietra</field>
+<field name="composerSort">Tagliapietra, Silvio</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Teatro Mabellini</field>
+<field name="city">Pistoia</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raggio+di+luna+Silvio+Tagliapietra&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200211</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Apotheosis of This Earth</field>
+		<field name="titleSort">Apotheosis of This Earth</field>
+		<field name="year">1972</field>
+		
+		
+		<field name="date">1972</field>
+		<field name="composer">Karel Husa</field>
+		<field name="composerSort">Husa, Karel</field>
+		
+		
+		<field name="theater">Louisville Symphony</field>
+		<field name="city">Louisville</field>
+		<field name="region">Kentucky</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apotheosis+of+This+Earth+Karel+Husa&amp;search_field=search</field>
+	</doc></add>

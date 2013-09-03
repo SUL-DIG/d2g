@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101130</field>
+<field name="genre">Operas</field>
+<field name="title">Throw Physic to the Dogs!</field>
+<field name="titleSort">Throw Physic to the Dogs!</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Harriet Lee</field>
+<field name="librettistSort">Lee, Harriet</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Throw+Physic+to+the+Dogs!+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

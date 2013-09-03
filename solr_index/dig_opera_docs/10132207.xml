@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132207</field>
+<field name="genre">Operas</field>
+<field name="title">Euda d'Uriac</field>
+<field name="titleSort">Euda d'Uriac</field>
+<field name="composer">Amadeo Vives</field>
+<field name="composerSort">Vives, Amadeo</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Angel Guimerá</field>
+<field name="librettistSort">Guimerá, Angel</field>
+<field name="theater">Teatre das Novedades</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Euda+d'Uriac+Amadeo+Vives&amp;search_field=search</field>
+</doc>
+</add>

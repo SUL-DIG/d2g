@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115655</field>
+<field name="genre">Operas</field>
+<field name="title">Rukkilille suvi (The Summer of the Cornflower)</field>
+<field name="titleSort">Rukkilille suvi (The Summer of the Cornflower)</field>
+<field name="composer">Eugen Kapp</field>
+<field name="composerSort">Kapp, Eugen</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Mihkel Veske</field>
+<field name="librettistSort">Veske, Mihkel</field>
+
+<field name="city">Haapsalu</field>
+<field name="region">Läänemaa</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rukkilille+suvi+The+Summer+of+the+Cornflower+Eugen+Kapp&amp;search_field=search</field>
+</doc>
+</add>

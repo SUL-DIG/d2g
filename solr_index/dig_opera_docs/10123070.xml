@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123070</field>
+<field name="genre">Operas</field>
+<field name="title">La mort de Don Juan</field>
+<field name="titleSort">mort de Don Juan</field>
+<field name="composer">Roman Palester</field>
+<field name="composerSort">Palester, Roman</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Oscar-Vladislas de Lubisez Milosz</field>
+<field name="librettistSort">Milosz, Oscar-Vladislas de Lubisez</field>
+<field name="theater">Belgian Radio (Radio Télévision Belge)</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mort+de+Don+Juan+Roman+Palester&amp;search_field=search</field>
+</doc>
+</add>

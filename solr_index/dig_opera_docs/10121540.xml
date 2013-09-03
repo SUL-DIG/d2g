@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121540</field>
+<field name="genre">Operas</field>
+<field name="title">La soeur de Calino</field>
+<field name="titleSort">soeur de Calino</field>
+<field name="composer">J. Muller</field>
+<field name="composerSort">Muller, J.</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Auguste Jouhaud</field>
+<field name="librettistSort">Jouhaud, Auguste</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+soeur+de+Calino+J.+Muller&amp;search_field=search</field>
+</doc>
+</add>

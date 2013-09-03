@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129237</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geisterbraut</field>
+<field name="titleSort">Geisterbraut</field>
+<field name="composer">Frantisek Jan Skroup</field>
+<field name="composerSort">Skroup, Frantisek Jan</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Ferdinand Ernst</field>
+<field name="librettistSort">Ernst, Ferdinand</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geisterbraut+Frantisek+Jan+Skroup&amp;search_field=search</field>
+</doc>
+</add>

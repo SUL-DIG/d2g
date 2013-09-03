@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117796</field>
+<field name="genre">Operas</field>
+<field name="title">Oculi</field>
+<field name="titleSort">Oculi</field>
+<field name="composer">Gaston Lemaire</field>
+<field name="composerSort">Lemaire, Gaston</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">__ Dorwer</field>
+<field name="librettistSort">Dorwer, __</field>
+<field name="librettist">Mlle. Durdilly</field>
+<field name="librettistSort">Durdilly, Mlle.</field>
+<field name="theater">Concert de la Pépinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oculi+Gaston+Lemaire&amp;search_field=search</field>
+</doc>
+</add>

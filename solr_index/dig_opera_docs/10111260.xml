@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111260</field>
+<field name="genre">Operas</field>
+<field name="title">Le dédit</field>
+<field name="titleSort">dédit</field>
+<field name="composer">Jacques-André Gaultier</field>
+<field name="composerSort">Gaultier, Jacques-André</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">__ Montigny</field>
+<field name="librettistSort">Montigny, __</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+dédit+Jacques-André+Gaultier&amp;search_field=search</field>
+</doc>
+</add>

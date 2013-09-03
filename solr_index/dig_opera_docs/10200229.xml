@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200229</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Ark</field>
+		<field name="titleSort">Ark</field>
+		<field name="year">1822</field>
+		
+		
+		<field name="date">1822</field>
+		<field name="composer">William Lisle Bowles</field>
+		<field name="composerSort">Bowles, William Lisle</field>
+		<field name="librettist">William Lisle Bowles</field>
+		<field name="librettistSort">Bowles, William Lisle</field>
+		
+		
+		
+		
+		
+		<field name="subject">Noah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ark+William+Lisle+Bowles&amp;search_field=search</field>
+	</doc></add>

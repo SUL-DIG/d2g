@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120637</field>
+<field name="genre">Operas</field>
+<field name="title">Westward Ho!</field>
+<field name="titleSort">Westward Ho!</field>
+<field name="composer">Philip Napier Miles</field>
+<field name="composerSort">Miles, Philip Napier</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Edward Frederic Benson</field>
+<field name="librettistSort">Benson, Edward Frederic</field>
+<field name="librettist">Charles Kingsley</field>
+<field name="librettistSort">Kingsley, Charles</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Westward+Ho!+Philip+Napier+Miles&amp;search_field=search</field>
+</doc>
+</add>

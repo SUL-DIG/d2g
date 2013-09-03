@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125553</field>
+<field name="genre">Operas</field>
+<field name="title">Hans von Wildenstein</field>
+<field name="titleSort">Hans von Wildenstein</field>
+<field name="composer">Franz Ramsauer</field>
+<field name="composerSort">Ramsauer, Franz</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Georg Kanzler</field>
+<field name="librettistSort">Kanzler, Georg</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+von+Wildenstein+Franz+Ramsauer&amp;search_field=search</field>
+</doc>
+</add>

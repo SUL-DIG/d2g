@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112273</field>
+<field name="genre">Operas</field>
+<field name="title">Der Gefangene von Bologna</field>
+<field name="titleSort">Gefangene von Bologna</field>
+<field name="composer">Walter von Goethe</field>
+<field name="composerSort">Goethe, Walter von</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">[Adele Schopenhauer] A. van der Venne</field>
+<field name="librettistSort">Venne, A. van der [Adele Schopenhauer]</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Gefangene+von+Bologna+Walter+von+Goethe&amp;search_field=search</field>
+</doc>
+</add>

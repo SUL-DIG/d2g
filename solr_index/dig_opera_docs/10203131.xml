@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203131</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorium germanicum de Passione Domini</field>
+		<field name="titleSort">Oratorium germanicum de Passione Domini</field>
+		<field name="year">1731</field>
+		
+		
+		<field name="date">1731</field>
+		<field name="composer">Joseph Johann Fux</field>
+		<field name="composerSort">Fux, Joseph Johann</field>
+		
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorium+germanicum+de+Passione+Domini+Joseph+Johann+Fux&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124692</field>
+<field name="genre">Operas</field>
+<field name="title">Giulio Cesare nell'Egitto</field>
+<field name="titleSort">Giulio Cesare nell'Egitto</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Antonio Ottoboni</field>
+<field name="librettistSort">Ottoboni, Antonio</field>
+<field name="librettist">Giacomo Francesco Bussani</field>
+<field name="librettistSort">Bussani, Giacomo Francesco</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulio+Cesare+nell'Egitto+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

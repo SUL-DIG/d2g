@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103829</field>
+<field name="genre">Operas</field>
+<field name="title">Root!</field>
+<field name="titleSort">Root!</field>
+<field name="composer">Will Gay Bottje</field>
+<field name="composerSort">Bottje, Will Gay</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">James Maloon</field>
+<field name="librettistSort">Maloon, James</field>
+<field name="theater">University of Southern Illinois</field>
+<field name="city">Carbondale</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Root!+Will+Gay+Bottje&amp;search_field=search</field>
+</doc>
+</add>

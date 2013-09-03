@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203767</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saint Peter</field>
+		<field name="titleSort">Saint Peter</field>
+		<field name="year">1964</field>
+		
+		
+		<field name="date">1964</field>
+		<field name="composer">Daniel Jones</field>
+		<field name="composerSort">Jones, Daniel</field>
+		<field name="librettist">Thomas Herbert Parry-Williams</field>
+		<field name="librettistSort">Parry-Williams, Thomas Herb</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saint+Peter+Daniel+Jones&amp;search_field=search</field>
+	</doc></add>

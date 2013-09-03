@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120849</field>
+<field name="genre">Operas</field>
+<field name="title">Vernost' (Loyalty)</field>
+<field name="titleSort">Vernost' (Loyalty)</field>
+<field name="composer">Kirill Valdimirovich Molchanov</field>
+<field name="composerSort">Molchanov, Kirill Valdimirovich</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Kirill Valdimirovich Molchanov</field>
+<field name="librettistSort">Molchanov, Kirill Valdimirovich</field>
+<field name="librettist">Viktor Astaf'yev</field>
+<field name="librettistSort">Astaf'yev, Viktor</field>
+<field name="theater">Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta imeni A. V.
+Lunacharskogo</field>
+<field name="city">Jekaterinburg</field>
+<field name="region">Sverdlovsk Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vernost'+Loyalty+Kirill+Valdimirovich+Molchanov&amp;search_field=search</field>
+</doc>
+</add>

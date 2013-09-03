@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120803</field>
+<field name="genre">Operas</field>
+<field name="title">Examination</field>
+<field name="titleSort">Examination</field>
+<field name="composer">Robert Mitchell</field>
+<field name="composerSort">Mitchell, Robert</field>
+<field name="year">1980</field>
+<field name="date">1980</field><field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Examination+Robert+Mitchell&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107176</field>
+<field name="genre">Operas</field>
+<field name="title">Enée et Lavinie</field>
+<field name="titleSort">Enée et Lavinie</field>
+<field name="composer">Antoine Dauvergne</field>
+<field name="composerSort">Dauvergne, Antoine</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Bernard le Bovier de Fontenelle</field>
+<field name="librettistSort">Fontenelle, Bernard le Bovier de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enée+et+Lavinie+Antoine+Dauvergne&amp;search_field=search</field>
+</doc>
+</add>

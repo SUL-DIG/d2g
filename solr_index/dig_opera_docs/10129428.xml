@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129428</field>
+<field name="genre">Operas</field>
+<field name="title">"Oui, ou Le double rendez-vous</field>
+<field name="titleSort">"Oui, ou Le double rendez-vous"</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Jean-François-Thomas Goulard</field>
+<field name="librettistSort">Goulard, Jean-François-Thomas</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oui,+ou+Le+double+rendez-vous+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

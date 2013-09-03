@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107852</field>
+<field name="genre">Operas</field>
+<field name="title">Il tutore e la pupilla</field>
+<field name="titleSort">tutore e la pupilla</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+<field name="year">1773</field>
+<field name="date">1773</field><field name="theater">Jánsky Vrch</field>
+<field name="city">Javorník</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tutore+e+la+pupilla+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

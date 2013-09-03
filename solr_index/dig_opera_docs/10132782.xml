@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132782</field>
+<field name="genre">Operas</field>
+<field name="title">Die Tochter der Heide</field>
+<field name="titleSort">Tochter der Heide</field>
+<field name="composer">Franz Weissleder</field>
+<field name="composerSort">Weissleder, Franz</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Heinrich Bohrmann-Riegen</field>
+<field name="librettistSort">Bohrmann-Riegen, Heinrich</field>
+
+<field name="city">Chemnitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Tochter+der+Heide+Franz+Weissleder&amp;search_field=search</field>
+</doc>
+</add>

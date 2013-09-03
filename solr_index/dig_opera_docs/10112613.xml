@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112613</field>
+<field name="genre">Operas</field>
+<field name="title">I fratelli nemici</field>
+<field name="titleSort">fratelli nemici</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">Friedrich II König von PreussenlibrettistSortFriedrich II König von
+Preussen</field>
+<field name="librettist">Giovanni Pietro Tagliazucchi</field>
+<field name="librettistSort">Tagliazucchi, Giovanni Pietro</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+fratelli+nemici+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

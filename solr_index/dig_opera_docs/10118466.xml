@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118466</field>
+<field name="genre">Operas</field>
+<field name="title">Die beiden Schützen</field>
+<field name="titleSort">beiden Schützen</field>
+<field name="composer">Albert Lortzing</field>
+<field name="composerSort">Lortzing, Albert</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Albert Lortzing</field>
+<field name="librettistSort">Lortzing, Albert</field>
+<field name="librettist">Gustav Cords</field>
+<field name="librettistSort">Cords, Gustav</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+beiden+Schützen+Albert+Lortzing&amp;search_field=search</field>
+</doc>
+</add>

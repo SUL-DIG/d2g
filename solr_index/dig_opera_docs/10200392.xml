@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200392</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Bersabea, overo Il pentimento di Davide</field>
+		<field name="titleSort">Bersabea, overo Il pentimento di Davide</field>
+		<field name="year">1729</field>
+		<field name="month">March</field>
+		<field name="day">12</field>
+		<field name="date">March 12, 1729</field>
+		<field name="composer">Georg Reutter</field>
+		<field name="composerSort">Reutter, Georg</field>
+		<field name="librettist">Giovanni Battista Catena</field>
+		<field name="librettistSort">Catena, Giovanni Battista</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David and Bathsheba</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bersabea,+overo+Il+pentimento+di+Davide+Georg+Reutter&amp;search_field=search</field>
+	</doc></add>

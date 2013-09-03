@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200029</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abigail</field>
+		<field name="titleSort">Abigail</field>
+		<field name="year">1788</field>
+		<field name="month">September</field>
+		<field name="day">15</field>
+		<field name="date">September 15, 1788</field>
+		<field name="composer">Jacopo Scolart</field>
+		<field name="composerSort">Scolart, Jacopo</field>
+		
+		
+		<field name="theater">Teatro Pubblico</field>
+		<field name="city">Cingoli</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abigail, wife of Nabal</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abigail+Jacopo+Scolart&amp;search_field=search</field>
+	</doc></add>

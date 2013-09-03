@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107097</field>
+<field name="genre">Operas</field>
+<field name="title">Bohdan Khmel'nyts'ky</field>
+<field name="titleSort">Bohdan Khmel'nyts'ky</field>
+<field name="composer">Kostyanteyn Fedorovych Dan'kevych</field>
+<field name="composerSort">Dan'kevych, Kostyanteyn Fedorovych</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Wanda Wasiliewski</field>
+<field name="librettistSort">Wasiliewski, Wanda</field>
+<field name="librettist">Oleksandr Korniychuk</field>
+<field name="librettistSort">Korniychuk, Oleksandr</field>
+<field name="theater">Derzhavnyy Akademichnyy Teatr Opery ta Baletu imeni T. H. Shevchenka</field>
+<field name="city">Kiev</field>
+<field name="region">Kyïvs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bohdan+Khmel'nyts'ky+Kostyanteyn+Fedorovych+Dan'kevych&amp;search_field=search</field>
+</doc>
+</add>

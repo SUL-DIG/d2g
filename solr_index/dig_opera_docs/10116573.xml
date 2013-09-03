@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116573</field>
+<field name="genre">Operas</field>
+<field name="title">Der Edelknecht</field>
+<field name="titleSort">Edelknecht</field>
+<field name="composer">Conradin Kreutzer</field>
+<field name="composerSort">Kreutzer, Conradin</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Charlotte Birch-Pfeiffer</field>
+<field name="librettistSort">Birch-Pfeiffer, Charlotte</field>
+<field name="theater">Königliches Theater</field>
+<field name="city">Wiesbaden</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Edelknecht+Conradin+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

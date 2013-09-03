@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115918</field>
+<field name="genre">Operas</field>
+<field name="title">Sing Out Sweet Land</field>
+<field name="titleSort">Sing Out Sweet Land</field>
+<field name="composer">Walter Kerr</field>
+<field name="composerSort">Kerr, Walter</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Walter Kerr</field>
+<field name="librettistSort">Kerr, Walter</field>
+<field name="theater">Occidental College</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sing+Out+Sweet+Land+Walter+Kerr&amp;search_field=search</field>
+</doc>
+</add>

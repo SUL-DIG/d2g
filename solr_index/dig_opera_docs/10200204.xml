@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200204</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Apocalypse</field>
+		<field name="titleSort">Apocalypse</field>
+		<field name="year">1954</field>
+		
+		
+		<field name="date">1954</field>
+		<field name="composer">Eugene Goossens</field>
+		<field name="composerSort">Goossens, Eugene</field>
+		<field name="librettist">Eugene Goosens</field>
+		<field name="librettistSort">Goosens, Eugene</field>
+		<field name="librettist">Frank Moore</field>
+		<field name="librettistSort">Moore, Frank</field>
+		
+		<field name="city">Melbourne</field>
+		<field name="region">Victoria</field>
+		<field name="country">Australia</field>
+		<field name="subject">The Apocalypse</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Apocalypse+Eugene+Goossens&amp;search_field=search</field>
+	</doc></add>

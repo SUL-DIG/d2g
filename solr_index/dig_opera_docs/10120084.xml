@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120084</field>
+<field name="genre">Operas</field>
+<field name="title">Nadia d'Algérnon</field>
+<field name="titleSort">Nadia d'Algérnon</field>
+<field name="composer">Francesco Medina</field>
+<field name="composerSort">Medina, Francesco</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Giulio Macchi</field>
+<field name="librettistSort">Macchi, Giulio</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nadia+d'Algérnon+Francesco+Medina&amp;search_field=search</field>
+</doc>
+</add>

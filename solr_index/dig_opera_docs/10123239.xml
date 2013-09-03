@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123239</field>
+<field name="genre">Operas</field>
+<field name="title">Rinaldo und Alcina (Der Insel der Verführung)</field>
+<field name="titleSort">Rinaldo und Alcina (Der Insel der Verführung)</field>
+<field name="composer">Maria Theresia von Paradis</field>
+<field name="composerSort">Paradis, Maria Theresia von</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Ludwig von Baczko</field>
+<field name="librettistSort">Baczko, Ludwig von</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Nostitzsches Nationaltheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinaldo+und+Alcina+Der+Insel+der+Verführung+Maria+Theresia+von+Paradis&amp;search_field=search</field>
+</doc>
+</add>

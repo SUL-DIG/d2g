@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127991</field>
+<field name="genre">Operas</field>
+<field name="title">Olimpia vendicata</field>
+<field name="titleSort">Olimpia vendicata</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1685</field>
+<field name="date">1685</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Palazzo Reale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olimpia+vendicata+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

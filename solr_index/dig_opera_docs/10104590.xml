@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104590</field>
+<field name="genre">Operas</field>
+<field name="title">Papа Martin</field>
+<field name="titleSort">Papа Martin</field>
+<field name="composer">Antonio Cagnoni</field>
+<field name="composerSort">Cagnoni, Antonio</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Nazionale</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Papа+Martin+Antonio+Cagnoni&amp;search_field=search</field>
+</doc>
+</add>

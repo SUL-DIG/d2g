@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108787</field>
+<field name="genre">Operas</field>
+<field name="title">Palast Hotel Thanatos</field>
+<field name="titleSort">Palast Hotel Thanatos</field>
+<field name="composer">Dieter Einfeldt</field>
+<field name="composerSort">Einfeldt, Dieter</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Bernd Wilhelm Wessling</field>
+<field name="librettistSort">Wessling, Bernd Wilhelm</field>
+<field name="librettist">André Marois</field>
+<field name="librettistSort">Marois, André</field>
+<field name="theater">Niedersächsische Staatstheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palast+Hotel+Thanatos+Dieter+Einfeldt&amp;search_field=search</field>
+</doc>
+</add>

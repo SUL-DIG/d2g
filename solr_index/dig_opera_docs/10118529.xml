@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118529</field>
+<field name="genre">Operas</field>
+<field name="title">Alda</field>
+<field name="titleSort">Alda</field>
+<field name="composer">Carlo Lovati-Cazzulani</field>
+<field name="composerSort">Lovati-Cazzulani, Carlo</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Alghero</field>
+<field name="region">Sardegna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alda+Carlo+Lovati-Cazzulani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127292</field>
+<field name="genre">Operas</field>
+<field name="title">Chacun а son plan</field>
+<field name="titleSort">Chacun а son plan</field>
+<field name="composer">Louis Joseph Saint-Amans</field>
+<field name="composerSort">Saint-Amans, Louis Joseph</field>
+<field name="year">1802</field>
+<field name="date">1802</field><field name="theater">Salle de la Porte-Saint-Martin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chacun+а+son+plan+Louis+Joseph+Saint-Amans&amp;search_field=search</field>
+</doc>
+</add>

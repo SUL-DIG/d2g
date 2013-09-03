@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133599</field>
+<field name="genre">Operas</field>
+<field name="title">"L'incostanza trionfante, overo Il Theseo</field>
+<field name="titleSort">"incostanza trionfante, overo Il Theseo"</field>
+<field name="composer">Pietro Andrea Ziani</field>
+<field name="composerSort">Ziani, Pietro Andrea</field>
+<field name="year">1658</field>
+<field name="date">1658</field>
+<field name="librettist">Francesco Maria Piccioli</field>
+<field name="librettistSort">Piccioli, Francesco Maria</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'incostanza+trionfante,+overo+Il+Theseo+Pietro+Andrea+Ziani&amp;search_field=search</field>
+</doc>
+</add>

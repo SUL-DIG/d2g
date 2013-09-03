@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110836</field>
+<field name="genre">Operas</field>
+<field name="title">Burkas</field>
+<field name="titleSort">Burkas</field>
+<field name="composer">__ Galey</field>
+<field name="composerSort">Galey, __</field>
+<field name="year">1883</field>
+<field name="date">1883</field><field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Burkas+__+Galey&amp;search_field=search</field>
+</doc>
+</add>

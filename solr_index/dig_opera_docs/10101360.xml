@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101360</field>
+<field name="genre">Operas</field>
+<field name="title">Les diamants de la couronne</field>
+<field name="titleSort">diamants de la couronne</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+diamants+de+la+couronne+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

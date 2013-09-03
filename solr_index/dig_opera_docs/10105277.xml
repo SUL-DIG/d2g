@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105277</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'avvenimenti d'Orinda</field>
+<field name="titleSort">avvenimenti d'Orinda</field>
+<field name="composer">Daniele da Castrovillari</field>
+<field name="composerSort">Castrovillari, Daniele da</field>
+<field name="year">1660</field>
+<field name="date">1660</field>
+<field name="librettist">Pietro Angelo Zaguci</field>
+<field name="librettistSort">Zaguci, Pietro Angelo</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'avvenimenti+d'Orinda+Daniele+da+Castrovillari&amp;search_field=search</field>
+</doc>
+</add>

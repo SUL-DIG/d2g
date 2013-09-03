@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121276</field>
+<field name="genre">Operas</field>
+<field name="title">Gli eroi del secolo</field>
+<field name="titleSort">eroi del secolo</field>
+<field name="composer">Gioacchino Morra</field>
+<field name="composerSort">Morra, Gioacchino</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Armando Visconti</field>
+<field name="librettistSort">Visconti, Armando</field>
+<field name="theater">Teatro Umberto</field>
+<field name="city">Messina</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+eroi+del+secolo+Gioacchino+Morra&amp;search_field=search</field>
+</doc>
+</add>

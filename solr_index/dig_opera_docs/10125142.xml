@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125142</field>
+<field name="genre">Operas</field>
+<field name="title">Semyon Kotko</field>
+<field name="titleSort">Semyon Kotko</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Valentin Petrovich Katayev</field>
+<field name="librettistSort">Katayev, Valentin Petrovich</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Stanislavskogo i Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Semyon+Kotko+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

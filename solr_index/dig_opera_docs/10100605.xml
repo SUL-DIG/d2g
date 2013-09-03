@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100605</field>
+<field name="genre">Operas</field>
+<field name="title">Bianca de' Rossi</field>
+<field name="titleSort">Bianca de' Rossi</field>
+<field name="composer">Roberto Amadei</field>
+<field name="composerSort">Amadei, Roberto</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Filippo Barattani</field>
+<field name="librettistSort">Barattani, Filippo</field>
+<field name="theater">Teatro Comunale Piccinni</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+de'+Rossi+Roberto+Amadei&amp;search_field=search</field>
+</doc>
+</add>

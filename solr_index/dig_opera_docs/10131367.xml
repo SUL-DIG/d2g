@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131367</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare in Egitto</field>
+<field name="titleSort">Cesare in Egitto</field>
+<field name="composer">Giacomo Tritto</field>
+<field name="composerSort">Tritto, Giacomo</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Giovanni Schmidt</field>
+<field name="librettistSort">Schmidt, Giovanni</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+in+Egitto+Giacomo+Tritto&amp;search_field=search</field>
+</doc>
+</add>

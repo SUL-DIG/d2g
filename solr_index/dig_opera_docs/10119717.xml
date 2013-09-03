@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119717</field>
+<field name="genre">Operas</field>
+<field name="title">Le caprice</field>
+<field name="titleSort">caprice</field>
+<field name="composer">Fernand Masson</field>
+<field name="composerSort">Masson, Fernand</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Georges Andrique</field>
+<field name="librettistSort">Andrique, Georges</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Calais</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+caprice+Fernand+Masson&amp;search_field=search</field>
+</doc>
+</add>

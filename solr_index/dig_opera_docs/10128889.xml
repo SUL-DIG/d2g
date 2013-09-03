@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128889</field>
+<field name="genre">Operas</field>
+<field name="title">Die Braut der Firma</field>
+<field name="titleSort">Braut der Firma</field>
+<field name="composer">Rudolf Senger</field>
+<field name="composerSort">Senger, Rudolf</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Rudolf Senger</field>
+<field name="librettistSort">Senger, Rudolf</field>
+<field name="librettist">Leonhard Haskel</field>
+<field name="librettistSort">Haskel, Leonhard</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Braut+der+Firma+Rudolf+Senger&amp;search_field=search</field>
+</doc>
+</add>

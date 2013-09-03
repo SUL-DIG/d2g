@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100410</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo d'amore</field>
+<field name="titleSort">trionfo d'amore</field>
+<field name="composer">Tomaso Albinoni</field>
+<field name="composerSort">Albinoni, Tomaso</field>
+<field name="year">1722</field>
+<field name="date">1722</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+d'amore+Tomaso+Albinoni&amp;search_field=search</field>
+</doc>
+</add>

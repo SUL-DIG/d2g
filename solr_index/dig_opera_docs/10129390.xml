@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129390</field>
+<field name="genre">Operas</field>
+<field name="title">"Mel'nik - koldun, obmanshchik i svat</field>
+<field name="titleSort">"Mel'nik - koldun, obmanshchik i svat"</field>
+<field name="composer">Mikhail Matveyevich Sokolovsky</field>
+<field name="composerSort">Sokolovsky, Mikhail Matveyevich</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Aleksandr Onesimovich Ablesimov</field>
+<field name="librettistSort">Ablesimov, Aleksandr Onesimovich</field>
+<field name="theater">Theater on the Znamenka</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mel'nik+-+koldun,+obmanshchik+i+svat+Mikhail+Matveyevich+Sokolovsky&amp;search_field=search</field>
+</doc>
+</add>

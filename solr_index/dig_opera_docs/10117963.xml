@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117963</field>
+<field name="genre">Operas</field>
+<field name="title">Le mégère apprivoisée</field>
+<field name="titleSort">mégère apprivoisée</field>
+<field name="composer">Frédéric Le Rey</field>
+<field name="composerSort">Rey, Frédéric Le</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Émile Deshays</field>
+<field name="librettistSort">Deshays, Émile</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mégère+apprivoisée+Frédéric+Le+Rey&amp;search_field=search</field>
+</doc>
+</add>

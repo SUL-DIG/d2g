@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106874</field>
+<field name="genre">Operas</field>
+<field name="title">Fritz</field>
+<field name="titleSort">Fritz</field>
+<field name="composer">Auguste de Croisilles</field>
+<field name="composerSort">Croisilles, Auguste de</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Ferdinand Delasalle</field>
+<field name="librettistSort">Delasalle, Ferdinand</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Caen</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fritz+Auguste+de+Croisilles&amp;search_field=search</field>
+</doc>
+</add>

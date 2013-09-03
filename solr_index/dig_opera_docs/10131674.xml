@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131674</field>
+<field name="genre">Operas</field>
+<field name="title">La Esmeralda</field>
+<field name="titleSort">Esmeralda</field>
+<field name="composer">José Valero</field>
+<field name="composerSort">Valero, José</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatro Liceo</field>
+<field name="city">Valencia</field>
+<field name="region">Valencia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Esmeralda+José+Valero&amp;search_field=search</field>
+</doc>
+</add>

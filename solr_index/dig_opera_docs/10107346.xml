@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107346</field>
+<field name="genre">Operas</field>
+<field name="title">Titi</field>
+<field name="titleSort">Titi</field>
+<field name="composer">Théo Dejoncker</field>
+<field name="composerSort">Dejoncker, Théo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Arie van den Heuvel</field>
+<field name="librettistSort">Heuvel, Arie van den</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Titi+Théo+Dejoncker&amp;search_field=search</field>
+</doc>
+</add>

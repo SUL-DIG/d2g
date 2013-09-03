@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104078</field>
+<field name="genre">Operas</field>
+<field name="title">La salinara</field>
+<field name="titleSort">salinara</field>
+<field name="composer">Domenico Brescia</field>
+<field name="composerSort">Brescia, Domenico</field>
+<field name="year">1900</field>
+<field name="date">1900</field><field name="theater">Teatro Municipal</field>
+<field name="city">Santiago</field>
+
+<field name="country">Chile</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+salinara+Domenico+Brescia&amp;search_field=search</field>
+</doc>
+</add>

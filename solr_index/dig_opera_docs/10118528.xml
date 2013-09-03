@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118528</field>
+<field name="genre">Operas</field>
+<field name="title">La dama d'un giorno</field>
+<field name="titleSort">dama d'un giorno</field>
+<field name="composer">Gaetano Lovari</field>
+<field name="composerSort">Lovari, Gaetano</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dama+d'un+giorno+Gaetano+Lovari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100552</field>
+<field name="genre">Operas</field>
+<field name="title">Ameriikka</field>
+<field name="titleSort">Ameriikka</field>
+<field name="composer">Atso Almila</field>
+<field name="composerSort">Almila, Atso</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Antti Tuuri</field>
+<field name="librettistSort">Tuuri, Antti</field>
+<field name="theater">Ilmajoki Music Festival</field>
+<field name="city">Ilmajoki</field>
+<field name="region">Etelä-Pohjanmaa</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ameriikka+Atso+Almila&amp;search_field=search</field>
+</doc>
+</add>

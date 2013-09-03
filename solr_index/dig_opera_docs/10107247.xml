@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107247</field>
+<field name="genre">Operas</field>
+<field name="title">La chute de la maison Usher</field>
+<field name="titleSort">chute de la maison Usher</field>
+<field name="composer">Claude Debussy</field>
+<field name="composerSort">Debussy, Claude</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Claude Debussy</field>
+<field name="librettistSort">Debussy, Claude</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">Yale University</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chute+de+la+maison+Usher+Claude+Debussy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113994</field>
+<field name="genre">Operas</field>
+<field name="title">Au temps passé</field>
+<field name="titleSort">Au temps passé</field>
+<field name="composer">Louis Charles Henry</field>
+<field name="composerSort">Henry, Louis Charles</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">__ Mariton</field>
+<field name="librettistSort">Mariton, __</field>
+<field name="librettist">__ Lagaillarde</field>
+<field name="librettistSort">Lagaillarde, __</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Asnières</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+temps+passé+Louis+Charles+Henry&amp;search_field=search</field>
+</doc>
+</add>

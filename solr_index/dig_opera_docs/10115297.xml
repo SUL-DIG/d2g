@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115297</field>
+<field name="genre">Operas</field>
+<field name="title">200 Ans</field>
+<field name="titleSort">200 Ans</field>
+<field name="composer">Tom Johnson</field>
+<field name="composerSort">Johnson, Tom</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Tom Johnson</field>
+<field name="librettistSort">Johnson, Tom</field>
+<field name="theater">Palais des Papes</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=200+Ans+Tom+Johnson&amp;search_field=search</field>
+</doc>
+</add>

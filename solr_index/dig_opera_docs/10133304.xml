@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133304</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hexe von Boissy</field>
+<field name="titleSort">Hexe von Boissy</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Carl Costa</field>
+<field name="librettistSort">Costa, Carl</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hexe+von+Boissy+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

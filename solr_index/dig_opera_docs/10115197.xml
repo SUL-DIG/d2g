@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115197</field>
+<field name="genre">Operas</field>
+<field name="title">Der zerbrochene Krug</field>
+<field name="titleSort">zerbrochene Krug</field>
+<field name="composer">[György Kohner] Georg Jarno</field>
+<field name="composerSort">Jarno, [György Kohner] Georg</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Heinrich Lee</field>
+<field name="librettistSort">Lee, Heinrich</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistSort">Kleist, Heinrich von</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+zerbrochene+Krug+György+Kohner]+Georg+Jarno&amp;search_field=search</field>
+</doc>
+</add>

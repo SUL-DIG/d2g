@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100912</field>
+<field name="genre">Operas</field>
+<field name="title">Lidia</field>
+<field name="titleSort">Lidia</field>
+<field name="composer">Dante Aragno</field>
+<field name="composerSort">Aragno, Dante</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Ettore Zunino</field>
+<field name="librettistSort">Zunino, Ettore</field>
+<field name="theater">Teatro Cavour</field>
+<field name="city">Porto Maurizio</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lidia+Dante+Aragno&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116745</field>
+<field name="genre">Operas</field>
+<field name="title">Der glückliche Zufall</field>
+<field name="titleSort">glückliche Zufall</field>
+<field name="composer">Friedrich August Kummer</field>
+<field name="composerSort">Kummer, Friedrich August</field>
+<field name="year">1831</field>
+<field name="date">1831</field><field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+glückliche+Zufall+Friedrich+August+Kummer&amp;search_field=search</field>
+</doc>
+</add>

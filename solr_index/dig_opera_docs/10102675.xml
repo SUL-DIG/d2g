@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102675</field>
+<field name="genre">Operas</field>
+<field name="title">Musik im Mai</field>
+<field name="titleSort">Musik im Mai</field>
+<field name="composer">Emil Berté</field>
+<field name="composerSort">Berté, Emil</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Heinz Merley</field>
+<field name="librettistSort">Merley, Heinz</field>
+<field name="librettist">Kurt Breuer</field>
+<field name="librettistSort">Breuer, Kurt</field>
+<field name="theater">Raimundtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musik+im+Mai+Emil+Berté&amp;search_field=search</field>
+</doc>
+</add>

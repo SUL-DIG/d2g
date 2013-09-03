@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126628</field>
+<field name="genre">Operas</field>
+<field name="title">La fille а Beaupiquet</field>
+<field name="titleSort">fille а Beaupiquet</field>
+<field name="composer">Georges Rose</field>
+<field name="composerSort">Rose, Georges</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Edmond Soudant</field>
+<field name="librettistSort">Soudant, Edmond</field>
+<field name="librettist">Léo Guérineau</field>
+<field name="librettistSort">Guérineau, Léo</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Angers</field>
+<field name="region">Maine-et-Loire</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+а+Beaupiquet+Georges+Rose&amp;search_field=search</field>
+</doc>
+</add>

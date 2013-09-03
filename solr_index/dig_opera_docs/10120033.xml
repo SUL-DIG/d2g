@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120033</field>
+<field name="genre">Operas</field>
+<field name="title">Alberico da Romano</field>
+<field name="titleSort">Alberico da Romano</field>
+<field name="composer">Alberto Mazzucato</field>
+<field name="composerSort">Mazzucato, Alberto</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Cesare Berti</field>
+<field name="librettistSort">Berti, Cesare</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alberico+da+Romano+Alberto+Mazzucato&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104017</field>
+<field name="genre">Operas</field>
+<field name="title">Hero und Leander</field>
+<field name="titleSort">Hero und Leander</field>
+<field name="composer">Jan Brandts Buys</field>
+<field name="composerSort">Buys, Jan Brandts</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Franz Grillparzer</field>
+<field name="librettistSort">Grillparzer, Franz"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+und+Leander+Jan+Brandts+Buys&amp;search_field=search</field>
+</doc>
+</add>

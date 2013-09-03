@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117000</field>
+<field name="genre">Operas</field>
+<field name="title">The Question of Abraham</field>
+<field name="titleSort">Question of Abraham</field>
+<field name="composer">Ezra Laderman</field>
+<field name="composerSort">Laderman, Ezra</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Joseph Darion</field>
+<field name="librettistSort">Darion, Joseph</field>
+<field name="theater">CBS Television (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Question+of+Abraham+Ezra+Laderman&amp;search_field=search</field>
+</doc>
+</add>

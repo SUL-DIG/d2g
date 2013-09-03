@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200792</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Daniello</field>
+		<field name="titleSort">Daniello</field>
+		<field name="year">1731</field>
+		<field name="month">February</field>
+		<field name="day">15</field>
+		<field name="date">February 15, 1731</field>
+		<field name="composer">Johann Adolf Hasse</field>
+		<field name="composerSort">Hasse, Johann Adolf</field>
+		<field name="librettist">Apostolo Zeno</field>
+		<field name="librettistSort">Zeno, Apostolo</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Daniel</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">July 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniello+Johann+Adolf+Hasse&amp;search_field=search</field>
+	</doc></add>

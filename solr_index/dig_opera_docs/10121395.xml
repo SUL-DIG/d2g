@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121395</field>
+<field name="genre">Operas</field>
+<field name="title">The Brute</field>
+<field name="titleSort">Brute</field>
+<field name="composer">Lawrence Moss</field>
+<field name="composerSort">Moss, Lawrence</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Eric Bentley</field>
+<field name="librettistSort">Bentley, Eric</field>
+<field name="theater">Yale University</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Brute+Lawrence+Moss&amp;search_field=search</field>
+</doc>
+</add>

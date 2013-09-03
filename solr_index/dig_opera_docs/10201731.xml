@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201731</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le glorie di Sant' Anna</field>
+		<field name="titleSort">glorie di Sant' Anna</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Giovanni Lorenzo Gregori</field>
+		<field name="composerSort">Gregori, Giovanni Lorenzo</field>
+		<field name="librettist">Giovanni Lorenzo Gregori</field>
+		<field name="librettistSort">Gregori, Giovanni Lorenzo</field>
+		
+		
+		<field name="city">Lucca</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Anne</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">July 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+glorie+di+Sant'+Anna+Giovanni+Lorenzo+Gregori&amp;search_field=search</field>
+	</doc></add>

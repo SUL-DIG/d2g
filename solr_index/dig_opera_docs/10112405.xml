@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112405</field>
+<field name="genre">Operas</field>
+<field name="title">Philémon et Baucis</field>
+<field name="titleSort">Philémon et Baucis</field>
+<field name="composer">François-Joseph Gossec</field>
+<field name="composerSort">Gossec, François-Joseph</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">__ Chabanon de Maugris</field>
+<field name="librettistSort">Chabanon de Maugris, __</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Philémon+et+Baucis+François-Joseph+Gossec&amp;search_field=search</field>
+</doc>
+</add>

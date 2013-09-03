@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113610</field>
+<field name="genre">Operas</field>
+<field name="title">The Woman who Laughed at Faery</field>
+<field name="titleSort">Woman who Laughed at Faery</field>
+<field name="composer">Fritz Hart</field>
+<field name="composerSort">Hart, Fritz</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Fritz Hart</field>
+<field name="librettistSort">Hart, Fritz</field>
+<field name="theater">Playhouse</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Woman+who+Laughed+at+Faery+Fritz+Hart&amp;search_field=search</field>
+</doc>
+</add>

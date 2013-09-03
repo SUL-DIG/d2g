@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118240</field>
+<field name="genre">Operas</field>
+<field name="title">Les templiers</field>
+<field name="titleSort">templiers</field>
+<field name="composer">Henry Litolff</field>
+<field name="composerSort">Litolff, Henry</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Jules Adénis</field>
+<field name="librettistSort">Adénis, Jules</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+templiers+Henry+Litolff&amp;search_field=search</field>
+</doc>
+</add>

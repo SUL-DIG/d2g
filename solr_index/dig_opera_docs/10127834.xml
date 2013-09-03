@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127834</field>
+<field name="genre">Operas</field>
+<field name="title">Le marchand de Vénise</field>
+<field name="titleSort">marchand de Vénise</field>
+<field name="composer">Henri de Saussine</field>
+<field name="composerSort">Saussine, Henri de</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Henri de Saussine</field>
+<field name="librettistSort">Saussine, Henri de</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Salle Mars</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+marchand+de+Vénise+Henri+de+Saussine&amp;search_field=search</field>
+</doc>
+</add>

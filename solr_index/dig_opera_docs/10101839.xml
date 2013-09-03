@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101839</field>
+<field name="genre">Operas</field>
+<field name="title">Une nuit а Séville</field>
+<field name="titleSort">nuit а Séville</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">[Alexandre Beaume] Beaumont</field>
+<field name="librettistSort">Beaumont, [Alexandre Beaume]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+nuit+а+Séville+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131923</field>
+<field name="genre">Operas</field>
+<field name="title">"Kto brat, kto sestra, ili Obman za obmanom</field>
+<field name="titleSort">"Kto brat, kto sestra, ili Obman za obmanom"</field>
+<field name="composer">Aleksey Nikolayevich Verstovsky</field>
+<field name="composerSort">Verstovsky, Aleksey Nikolayevich</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Aleksandr Sergeyevich Griboyedov</field>
+<field name="librettistSort">Griboyedov, Aleksandr Sergeyevich</field>
+<field name="librettist">Pyotr Vyazemsky</field>
+<field name="librettistSort">Vyazemsky, Pyotr</field>
+<field name="theater">Theater on the Mokhavaya</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kto+brat,+kto+sestra,+ili+Obman+za+obmanom+Aleksey+Nikolayevich+Verstovsky&amp;search_field=search</field>
+</doc>
+</add>

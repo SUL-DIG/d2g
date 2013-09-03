@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108780</field>
+<field name="genre">Operas</field>
+<field name="title">Dantons Tod</field>
+<field name="titleSort">Dantons Tod</field>
+<field name="composer">Gottfried von Einem</field>
+<field name="composerSort">Einem, Gottfried von</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="librettist">Boris Blacher</field>
+<field name="librettistSort">Blacher, Boris</field>
+<field name="librettist">Gottfried von Einem</field>
+<field name="librettistSort">Einem, Gottfried von</field>
+<field name="theater">Grosses Festspielhaus</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dantons+Tod+Gottfried+von+Einem&amp;search_field=search</field>
+</doc>
+</add>

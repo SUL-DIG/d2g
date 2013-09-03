@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116620</field>
+<field name="genre">Operas</field>
+<field name="title">Paul et Virginie</field>
+<field name="titleSort">Paul et Virginie</field>
+<field name="composer">Rodolphe Kreutzer</field>
+<field name="composerSort">Kreutzer, Rodolphe</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Edmond-Guillaume-François de Favières</field>
+<field name="librettistSort">Favières, Edmond-Guillaume-François de</field>
+<field name="librettist">Jacques-Henri Bernardin de Saint-Pierre</field>
+<field name="librettistSort">Bernardin de Saint-Pierre, Jacques-Henri</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paul+et+Virginie+Rodolphe+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

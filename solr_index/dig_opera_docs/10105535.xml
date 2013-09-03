@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105535</field>
+<field name="genre">Operas</field>
+<field name="title">L'idiota</field>
+<field name="titleSort">idiota</field>
+<field name="composer">Luciano Chailly</field>
+<field name="composerSort">Chailly, Luciano</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Gilberto Loverso</field>
+<field name="librettistSort">Loverso, Gilberto</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'idiota+Luciano+Chailly&amp;search_field=search</field>
+</doc>
+</add>

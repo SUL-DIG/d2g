@@ -1,0 +1,15 @@
+<%# max_length below matches length of first paragraph
+    of from_the_curator description. Need to adjust if first
+    paragraph is edited and length changes. %>
+<script language="JavaScript">
+	$(document).ready(function(){
+			$(".truncate").truncate({max_length: 1500,  less: '&laquo; <%=t('d2g.show.less')%>', more: '<%=t('d2g.show.more')%> &raquo;'});
+	});
+</script>
+
+<%# List of section names in application_helper %>
+<%# Section names should match what's used in locale_about.yml %>
+<% about_sections.each do |section| %>
+  <h2 id="<%= section %>"><%= t("d2g.#{section}_heading") %></h2>
+  <%= t("d2g.#{section}_text_html") %>
+<% end %>

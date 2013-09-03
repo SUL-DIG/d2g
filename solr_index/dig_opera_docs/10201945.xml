@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201945</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der im Weingebirge Engaddi verlassene Bräutigam</field>
+		<field name="titleSort">im Weingebirge Engaddi verlassene Bräutigam</field>
+		<field name="year">1747</field>
+		
+		
+		<field name="date">1747</field>
+		<field name="composer">Anton Maurin Teubner</field>
+		<field name="composerSort">Teubner, Anton Maurin</field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">David flees from Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+im+Weingebirge+Engaddi+verlassene+Bräutigam+Anton+Maurin+Teubner&amp;search_field=search</field>
+	</doc></add>

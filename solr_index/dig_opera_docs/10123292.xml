@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123292</field>
+<field name="genre">Operas</field>
+<field name="title">Stara pesem (The Old Song)</field>
+<field name="titleSort">Stara pesem (The Old Song)</field>
+<field name="composer">Viktor Parma</field>
+<field name="composerSort">Parma, Viktor</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Guido Menasci</field>
+<field name="librettistSort">Menasci, Guido</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stara+pesem+The+Old+Song+Viktor+Parma&amp;search_field=search</field>
+</doc>
+</add>

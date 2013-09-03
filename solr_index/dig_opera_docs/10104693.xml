@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104693</field>
+<field name="genre">Operas</field>
+<field name="title">Ricimero</field>
+<field name="titleSort">Ricimero</field>
+<field name="composer">Giacinto Calderara</field>
+<field name="composerSort">Calderara, Giacinto</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Francesco Silvani</field>
+<field name="librettistSort">Silvani, Francesco</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ricimero+Giacinto+Calderara&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132446</field>
+<field name="genre">Operas</field>
+<field name="title">Senora Mata Florida</field>
+<field name="titleSort">Senora Mata Florida</field>
+<field name="composer">Ludolf Waldmann</field>
+<field name="composerSort">Waldmann, Ludolf</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Ludolf Waldmann</field>
+<field name="librettistSort">Waldmann, Ludolf</field>
+<field name="theater">Woltersdorf-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Senora+Mata+Florida+Ludolf+Waldmann&amp;search_field=search</field>
+</doc>
+</add>

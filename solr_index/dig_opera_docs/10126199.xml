@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126199</field>
+<field name="genre">Operas</field>
+<field name="title">Mlada</field>
+<field name="titleSort">Mlada</field>
+<field name="composer">Nikolay Andreyevich Rimsky-Korsakov</field>
+<field name="composerSort">Rimsky-Korsakov, Nikolay Andreyevich</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Nikolay Andreyevich Rimsky-Korsakov</field>
+<field name="librettistSort">Rimsky-Korsakov, Nikolay Andreyevich</field>
+<field name="librettist">Viktor Aleksandrovich Krïlov</field>
+<field name="librettistSort">Krïlov, Viktor Aleksandrovich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mlada+Nikolay+Andreyevich+Rimsky-Korsakov&amp;search_field=search</field>
+</doc>
+</add>

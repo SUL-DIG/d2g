@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116820</field>
+<field name="genre">Operas</field>
+<field name="title">Kdyz tancí rüze (When the Roses Dance)</field>
+<field name="titleSort">Kdyz tancí rüze (When the Roses Dance)</field>
+<field name="composer">Karel Kupka</field>
+<field name="composerSort">Kupka, Karel</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Karel Kupka</field>
+<field name="librettistSort">Kupka, Karel</field>
+<field name="librettist">[Dimitur Talev Petrov] Dimitur Talev</field>
+<field name="librettistSort">Talev, Dimitur [DimiturPetrov]</field>
+<field name="theater">Státní divadlo Zdenka Nejedlého</field>
+<field name="city">Ostrava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kdyz+tancí+rüze+When+the+Roses+Dance+Karel+Kupka&amp;search_field=search</field>
+</doc>
+</add>

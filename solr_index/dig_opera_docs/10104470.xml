@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104470</field>
+<field name="genre">Operas</field>
+<field name="title">Ceremony of Strangers</field>
+<field name="titleSort">Ceremony of Strangers</field>
+<field name="composer">Cardon Burnham</field>
+<field name="composerSort">Burnham, Cardon</field>
+<field name="year">1972</field>
+<field name="date">1972</field><field name="theater">Minot State College</field>
+<field name="city">Minot</field>
+<field name="region">North Dakota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ceremony+of+Strangers+Cardon+Burnham&amp;search_field=search</field>
+</doc>
+</add>

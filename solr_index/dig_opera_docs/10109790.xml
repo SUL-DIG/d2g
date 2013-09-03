@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109790</field>
+<field name="genre">Operas</field>
+<field name="title">Il disertore</field>
+<field name="titleSort">disertore</field>
+<field name="composer">Vincenzo Fiodo</field>
+<field name="composerSort">Fiodo, Vincenzo</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Michele Angelo Prunetti</field>
+<field name="librettistSort">Prunetti, Michele Angelo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+disertore+Vincenzo+Fiodo&amp;search_field=search</field>
+</doc>
+</add>

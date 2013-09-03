@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112876</field>
+<field name="genre">Operas</field>
+<field name="title">Musik um Susi</field>
+<field name="titleSort">Musik um Susi</field>
+<field name="composer">Bernhard Grün</field>
+<field name="composerSort">Grün, Bernhard</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Paul Frank</field>
+<field name="librettistSort">Frank, Paul</field>
+<field name="librettist">Peter Herz</field>
+<field name="librettistSort">Herz, Peter</field>
+<field name="theater">Komische Oper (an der Weidendammer Brücke)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musik+um+Susi+Bernhard+Grün&amp;search_field=search</field>
+</doc>
+</add>

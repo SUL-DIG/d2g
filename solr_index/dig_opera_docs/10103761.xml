@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103761</field>
+<field name="genre">Operas</field>
+<field name="title">La leçon d'amour</field>
+<field name="titleSort">leçon d'amour</field>
+<field name="composer">Hippolyte Borssat</field>
+<field name="composerSort">Borssat, Hippolyte</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Julien Deschamps</field>
+<field name="librettistSort">Deschamps, Julien</field>
+<field name="librettist">Michel Bordet</field>
+<field name="librettistSort">Bordet, Michel</field>
+<field name="theater">Théâtre-Parisien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+leçon+d'amour+Hippolyte+Borssat&amp;search_field=search</field>
+</doc>
+</add>

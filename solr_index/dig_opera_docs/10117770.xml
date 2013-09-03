@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117770</field>
+<field name="genre">Operas</field>
+<field name="title">Die schlaue Susanne</field>
+<field name="titleSort">schlaue Susanne</field>
+<field name="composer">Franz Lehner</field>
+<field name="composerSort">Lehner, Franz</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Franz Lehner</field>
+<field name="librettistSort">Lehner, Franz</field>
+<field name="librettist">Lope de Vega</field>
+<field name="librettistSort">Vega, Lope de</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schlaue+Susanne+Franz+Lehner&amp;search_field=search</field>
+</doc>
+</add>

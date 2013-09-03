@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120372</field>
+<field name="genre">Operas</field>
+<field name="title">Laurette</field>
+<field name="titleSort">Laurette</field>
+<field name="composer">Nicolas-Jean Méreaux</field>
+<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">__ Danzel de Malzéville</field>
+<field name="librettistSort">Danzel de Malzéville, __</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laurette+Nicolas-Jean+Méreaux&amp;search_field=search</field>
+</doc>
+</add>

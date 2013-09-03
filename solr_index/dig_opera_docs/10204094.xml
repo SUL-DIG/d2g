@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204094</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santi Bibiana e Demetria, vergini e martiri</field>
+		<field name="titleSort">Santi Bibiana e Demetria, vergini e martiri</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Girolamo Bezzi</field>
+		<field name="composerSort">Bezzi, Girolamo</field>
+		<field name="librettist">Giuseppe Giudici</field>
+		<field name="librettistSort">Giudici, Giuseppe</field>
+		
+		<field name="theater">Oratorio di San Girolamo della Caritа</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saints Bibiana and Demetria</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">12</field>
+		<field name="feastDate">February 12</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santi+Bibiana+e+Demetria,+vergini+e+martiri+Girolamo+Bezzi&amp;search_field=search</field>
+	</doc></add>

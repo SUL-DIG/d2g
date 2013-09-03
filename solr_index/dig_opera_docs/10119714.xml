@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119714</field>
+<field name="genre">Operas</field>
+<field name="title">Thaïs</field>
+<field name="titleSort">Thaïs</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="librettist">[Jacques-Anatole-François Thibault] Anatole France</field>
+<field name="librettistSort">France, Anatole [Jacques-Anatole-François Thibault]</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thaïs+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

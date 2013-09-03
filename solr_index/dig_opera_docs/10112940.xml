@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112940</field>
+<field name="genre">Operas</field>
+<field name="title">La Côtelette</field>
+<field name="titleSort">Côtelette</field>
+<field name="composer">Louis Guéteville</field>
+<field name="composerSort">Guéteville, Louis</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Georges Touzé</field>
+<field name="librettistSort">Touzé, Georges</field>
+<field name="librettist">Émile Deforges</field>
+<field name="librettistSort">Deforges, Émile</field>
+<field name="theater">Concert de la Pépinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Côtelette+Louis+Guéteville&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204396</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La strage degli innocenti</field>
+		<field name="titleSort">strage degli innocenti</field>
+		<field name="year">1900</field>
+		<field name="month">March</field>
+		<field name="day">18</field>
+		<field name="date">March 18, 1900</field>
+		<field name="composer">Lorenzo Perosi</field>
+		<field name="composerSort">Perosi, Lorenzo</field>
+		
+		
+		<field name="theater">Salone Perosi</field>
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Slaughter of the Innocents</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+strage+degli+innocenti+Lorenzo+Perosi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106168</field>
+<field name="genre">Operas</field>
+<field name="title">Il pazzo glorioso</field>
+<field name="titleSort">pazzo glorioso</field>
+<field name="composer">Gioacchino Cocchi</field>
+<field name="composerSort">Cocchi, Gioacchino</field>
+<field name="year">1753</field>
+<field name="date">1753</field>
+<field name="librettist">Antonio Villani</field>
+<field name="librettistSort">Villani, Antonio</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pazzo+glorioso+Gioacchino+Cocchi&amp;search_field=search</field>
+</doc>
+</add>

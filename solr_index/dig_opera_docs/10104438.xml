@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104438</field>
+<field name="genre">Operas</field>
+<field name="title">Nausikaa</field>
+<field name="titleSort">Nausikaa</field>
+<field name="composer">August Bungert</field>
+<field name="composerSort">Bungert, August</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">August Bungert</field>
+<field name="librettistSort">Bungert, August</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nausikaa+August+Bungert&amp;search_field=search</field>
+</doc>
+</add>

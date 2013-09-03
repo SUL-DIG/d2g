@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125327</field>
+<field name="genre">Operas</field>
+<field name="title">Johanna d'Arc</field>
+<field name="titleSort">Johanna d'Arc</field>
+<field name="composer">Johann Vesque von Püttlingen</field>
+<field name="composerSort">Püttlingen, Johann Vesque von</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Otto Prechtler</field>
+<field name="librettistSort">Prechtler, Otto</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johanna+d'Arc+Johann+Vesque+von+Püttlingen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103388</field>
+<field name="genre">Operas</field>
+<field name="title">Die Zauberrute</field>
+<field name="titleSort">Zauberrute</field>
+<field name="composer">Karl Hermann Böhmer</field>
+<field name="composerSort">Böhmer, Karl Hermann</field>
+
+
+<field name="librettist">Leopold Bartsch</field>
+<field name="librettistSort">Bartsch, Leopold</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Zauberrute+Karl+Hermann+Böhmer&amp;search_field=search</field>
+</doc>
+</add>

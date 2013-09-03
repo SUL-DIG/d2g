@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112521</field>
+<field name="genre">Operas</field>
+<field name="title">Irrlicht</field>
+<field name="titleSort">Irrlicht</field>
+<field name="composer">Carl Grammann</field>
+<field name="composerSort">Grammann, Carl</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Kurt Gencke</field>
+<field name="librettistSort">Gencke, Kurt</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Irrlicht+Carl+Grammann&amp;search_field=search</field>
+</doc>
+</add>

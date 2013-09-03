@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100172</field>
+<field name="genre">Operas</field>
+<field name="title">Zrinyi</field>
+<field name="titleSort">Zrinyi</field>
+<field name="composer">August von Adelburg</field>
+<field name="composerSort">Adelburg, August von</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">August von Adelburg</field>
+<field name="librettistSort">Adelburg, August von</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zrinyi+August+von+Adelburg&amp;search_field=search</field>
+</doc>
+</add>

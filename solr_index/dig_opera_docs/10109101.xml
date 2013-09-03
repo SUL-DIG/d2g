@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109101</field>
+<field name="genre">Operas</field>
+<field name="title">Donauliebchen</field>
+<field name="titleSort">Donauliebchen</field>
+<field name="composer">Edmund Eysler</field>
+<field name="composerSort">Eysler, Edmund</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Julius Brammer</field>
+<field name="librettistSort">Brammer, Julius</field>
+<field name="librettist">Emil Marboth</field>
+<field name="librettistSort">Marboth, Emil</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donauliebchen+Edmund+Eysler&amp;search_field=search</field>
+</doc>
+</add>

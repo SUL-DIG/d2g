@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123564</field>
+<field name="genre">Operas</field>
+<field name="title">Els Pireneus</field>
+<field name="titleSort">Els Pireneus</field>
+<field name="composer">Carlos Pedrell</field>
+<field name="composerSort">Pedrell, Carlos</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Victor Balaguer</field>
+<field name="librettistSort">Balaguer, Victor</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Els+Pireneus+Carlos+Pedrell&amp;search_field=search</field>
+</doc>
+</add>

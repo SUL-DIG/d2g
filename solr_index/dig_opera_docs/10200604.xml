@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200604</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christmas Oratorio</field>
+		<field name="titleSort">Christmas Oratorio</field>
+		<field name="year">1998</field>
+		
+		
+		<field name="date">1998</field>
+		<field name="composer">György Orbán</field>
+		<field name="composerSort">Orbán, György</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christmas+Oratorio+György+Orbán&amp;search_field=search</field>
+	</doc></add>

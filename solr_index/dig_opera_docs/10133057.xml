@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133057</field>
+<field name="genre">Operas</field>
+<field name="title">Meister Grobian</field>
+<field name="titleSort">Meister Grobian</field>
+<field name="composer">Arnold Winternitz</field>
+<field name="composerSort">Winternitz, Arnold</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Richard Klutmann</field>
+<field name="librettistSort">Klutmann, Richard</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meister+Grobian+Arnold+Winternitz&amp;search_field=search</field>
+</doc>
+</add>

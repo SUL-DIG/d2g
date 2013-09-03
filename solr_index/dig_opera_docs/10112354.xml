@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112354</field>
+<field name="genre">Operas</field>
+<field name="title">Joana de Flandres</field>
+<field name="titleSort">Joana de Flandres</field>
+<field name="composer">Carlos Gomes</field>
+<field name="composerSort">Gomes, Carlos</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Henrique Lopes de Mendonça</field>
+<field name="librettistSort">Mendonça, Henrique Lopes de</field>
+<field name="theater">Teatro Lírico Fluminense</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joana+de+Flandres+Carlos+Gomes&amp;search_field=search</field>
+</doc>
+</add>

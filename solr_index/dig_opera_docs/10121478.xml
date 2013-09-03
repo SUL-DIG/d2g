@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121478</field>
+<field name="genre">Operas</field>
+<field name="title">Persida</field>
+<field name="titleSort">Persida</field>
+<field name="composer">Ivan Mikvic</field>
+<field name="composerSort">Mikvic, Ivan</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Stepan Sirota</field>
+<field name="librettistSort">Sirota, Stepan</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Persida+Ivan+Mikvic&amp;search_field=search</field>
+</doc>
+</add>

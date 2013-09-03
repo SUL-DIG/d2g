@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125398</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca da Rimini</field>
+<field name="titleSort">Francesca da Rimini</field>
+<field name="composer">Sergey Rachmaninov</field>
+<field name="composerSort">Rachmaninov, Sergey</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Modest Il'yich Tchaikovsky</field>
+<field name="librettistSort">Tchaikovsky, Modest Il'yich</field>
+<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterBol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Sergey+Rachmaninov&amp;search_field=search</field>
+</doc>
+</add>

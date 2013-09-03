@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124120</field>
+<field name="genre">Operas</field>
+<field name="title">Le terme du voyage</field>
+<field name="titleSort">terme du voyage</field>
+<field name="composer">Louis Alexandre Piccinni</field>
+<field name="composerSort">Piccinni, Louis Alexandre</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Louis Philipon de La Madeleine</field>
+<field name="librettistSort">Philipon de La Madeleine, Louis</field>
+<field name="librettist">P.-A.-S. Petit (aîné)</field>
+<field name="librettistSort">Petit (aîné), P.-A.-S.</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+terme+du+voyage+Louis+Alexandre+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

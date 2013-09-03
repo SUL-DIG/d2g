@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125889</field>
+<field name="genre">Operas</field>
+<field name="title">Alcesti</field>
+<field name="titleSort">Alcesti</field>
+<field name="composer">Elsa Respighi</field>
+<field name="composerSort">Respighi, Elsa</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Claudio Guastalla</field>
+<field name="librettistSort">Guastalla, Claudio"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alcesti+Elsa+Respighi&amp;search_field=search</field>
+</doc>
+</add>

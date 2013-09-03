@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111429</field>
+<field name="genre">Operas</field>
+<field name="title">Die indische Witwe</field>
+<field name="titleSort">indische Witwe</field>
+<field name="composer">Gustaf Geiringer</field>
+<field name="composerSort">Geiringer, Gustaf</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Camillo Walzel] F. Zell</field>
+<field name="librettistSort">Zell, F. [Camillo Walzel]</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+indische+Witwe+Gustaf+Geiringer&amp;search_field=search</field>
+</doc>
+</add>

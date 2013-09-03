@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124914</field>
+<field name="genre">Operas</field>
+<field name="title">La principessa d'Amalfi</field>
+<field name="titleSort">principessa d'Amalfi</field>
+<field name="composer">Bernardo Porta</field>
+<field name="composerSort">Porta, Bernardo</field>
+<field name="year">1780</field>
+<field name="date">1780</field><field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+principessa+d'Amalfi+Bernardo+Porta&amp;search_field=search</field>
+</doc>
+</add>

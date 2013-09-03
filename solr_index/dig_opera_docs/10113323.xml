@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113323</field>
+<field name="genre">Operas</field>
+<field name="title">Shining Brow</field>
+<field name="titleSort">Shining Brow</field>
+<field name="composer">Daron Hagen</field>
+<field name="composerSort">Hagen, Daron</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Paul Muldoon</field>
+<field name="librettistSort">Muldoon, Paul</field>
+<field name="theater">Madison Opera</field>
+<field name="city">Madison</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shining+Brow+Daron+Hagen&amp;search_field=search</field>
+</doc>
+</add>

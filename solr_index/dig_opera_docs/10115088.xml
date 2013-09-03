@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115088</field>
+<field name="genre">Operas</field>
+<field name="title">Le Poilu</field>
+<field name="titleSort">Poilu</field>
+<field name="composer">Maurice Jacquet</field>
+<field name="composerSort">Jacquet, Maurice</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Maurice Hennequin</field>
+<field name="librettistSort">Hennequin, Maurice</field>
+<field name="librettist">Pierre Veber</field>
+<field name="librettistSort">Veber, Pierre</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Poilu+Maurice+Jacquet&amp;search_field=search</field>
+</doc>
+</add>

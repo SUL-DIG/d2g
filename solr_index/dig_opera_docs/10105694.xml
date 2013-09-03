@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105694</field>
+<field name="genre">Operas</field>
+<field name="title">Kassandra</field>
+<field name="titleSort">Kassandra</field>
+<field name="composer">Hans Chemin-Petit (jr.)</field>
+<field name="composerSort">Chemin-Petit (jr.), Hans</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Hans Chemin-Petit (jr.)</field>
+<field name="librettistSort">Chemin-Petit (jr.), Hans</field>
+<field name="theater">SFB Radio (Sender Freies Berlin Rundfunk)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kassandra+Hans+Chemin-Petit+jr.&amp;search_field=search</field>
+</doc>
+</add>

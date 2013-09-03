@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111458</field>
+<field name="genre">Operas</field>
+<field name="title">Cleopatra (Drei Jahrtausende)</field>
+<field name="titleSort">Cleopatra (Drei Jahrtausende)</field>
+<field name="composer">Richard Genée</field>
+<field name="composerSort">Genée, Richard</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Josef Steinher</field>
+<field name="librettistSort">Steinher, Josef</field>
+<field name="theater">Komische Oper am Schottentor</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleopatra+Drei+Jahrtausende+Richard+Genée&amp;search_field=search</field>
+</doc>
+</add>

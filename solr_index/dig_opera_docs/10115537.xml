@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115537</field>
+<field name="genre">Operas</field>
+<field name="title">Die Opera buffa</field>
+<field name="titleSort">Opera buffa</field>
+<field name="composer">Georg Ernst Gottlieb Kallenbach</field>
+<field name="composerSort">Kallenbach, Georg Ernst Gottlieb</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Christoph Friedrich Bretzner</field>
+<field name="librettistSort">Bretzner, Christoph Friedrich</field>
+<field name="theater">Schauspielhaus</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Opera+buffa+Georg+Ernst+Gottlieb+Kallenbach&amp;search_field=search</field>
+</doc>
+</add>

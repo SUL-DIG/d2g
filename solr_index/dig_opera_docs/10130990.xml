@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130990</field>
+<field name="genre">Operas</field>
+<field name="title">Anush</field>
+<field name="titleSort">Anush</field>
+<field name="composer">Armen Tigran Tigranyan</field>
+<field name="composerSort">Tigranyan, Armen Tigran</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Armen Tigran Tigranyan</field>
+<field name="librettistSort">Tigranyan, Armen Tigran</field>
+<field name="librettist">Hovhannes T'umanyan</field>
+<field name="librettistSort">T'umanyan, Hovhannes</field>
+<field name="theater">People's City Hall</field>
+<field name="city">Kumajri</field>
+
+<field name="country">Armenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anush+Armen+Tigran+Tigranyan&amp;search_field=search</field>
+</doc>
+</add>

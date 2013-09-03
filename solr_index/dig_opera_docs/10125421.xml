@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125421</field>
+<field name="genre">Operas</field>
+<field name="title">Le Béarnais</field>
+<field name="titleSort">Béarnais</field>
+<field name="composer">Jean-Théodore Radoux</field>
+<field name="composerSort">Radoux, Jean-Théodore</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">A. Pellier-Quensy</field>
+<field name="librettistSort">Pellier-Quensy, A.</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Béarnais+Jean-Théodore+Radoux&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104487</field>
+<field name="genre">Operas</field>
+<field name="title">The Press Gang (The Enraged Apprentice)</field>
+<field name="titleSort">Press Gang (Enraged Apprentice)</field>
+<field name="composer">Alan Bush</field>
+<field name="composerSort">Bush, Alan</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+<field name="theater">Saint Christopher School</field>
+<field name="city">Letchworth</field>
+<field name="region">Hertfordshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Press+Gang+The+Enraged+Apprentice+Alan+Bush&amp;search_field=search</field>
+</doc>
+</add>

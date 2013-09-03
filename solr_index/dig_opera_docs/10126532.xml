@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126532</field>
+<field name="genre">Operas</field>
+<field name="title">Zulma</field>
+<field name="titleSort">Zulma</field>
+<field name="composer">Romano Romani</field>
+<field name="composerSort">Romani, Romano</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Alfredo Lenzoni</field>
+<field name="librettistSort">Lenzoni, Alfredo</field>
+<field name="theater">Teatro Leopoldo</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zulma+Romano+Romani&amp;search_field=search</field>
+</doc>
+</add>

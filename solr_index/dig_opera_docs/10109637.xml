@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109637</field>
+<field name="genre">Operas</field>
+<field name="title">Salvatore Guiliano</field>
+<field name="titleSort">Salvatore Guiliano</field>
+<field name="composer">Lorenzo Ferrero</field>
+<field name="composerSort">Ferrero, Lorenzo</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Giuseppe Di Leva</field>
+<field name="librettistSort">Di Leva, Giuseppe</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salvatore+Guiliano+Lorenzo+Ferrero&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100315</field>
+<field name="genre">Operas</field>
+<field name="title">Liebesketten</field>
+<field name="titleSort">Liebesketten</field>
+<field name="composer">Eugen d'Albert</field>
+<field name="composerSort">d'Albert, Eugen</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="librettist">Angel Guimerá</field>
+<field name="librettistSort">Guimerá, Angel</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebesketten+Eugen+d'Albert&amp;search_field=search</field>
+</doc>
+</add>

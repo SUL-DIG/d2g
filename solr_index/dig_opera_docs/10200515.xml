@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200515</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Cantico d'Isaiah profeta</field>
+		<field name="titleSort">Cantico d'Isaiah profeta</field>
+		<field name="year">1829</field>
+		
+		
+		<field name="date">1829</field>
+		<field name="composer">Niccolò Antonio Zingarelli</field>
+		<field name="composerSort">Zingarelli, Niccolò Antonio</field>
+		
+		
+		<field name="theater">Birmingham Triennial Festival</field>
+		<field name="city">Birmingham</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Isaiah</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">July 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cantico+d'Isaiah+profeta+Niccolò+Antonio+Zingarelli&amp;search_field=search</field>
+	</doc></add>

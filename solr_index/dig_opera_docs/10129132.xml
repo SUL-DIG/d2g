@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129132</field>
+<field name="genre">Operas</field>
+<field name="title">Myriane</field>
+<field name="titleSort">Myriane</field>
+<field name="composer">Charles Silver</field>
+<field name="composerSort">Silver, Charles</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="librettist">[Paul de Choudens] Paul Bérel</field>
+<field name="librettistSort">Bérel, Paul [Paul de Choudens]</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myriane+Charles+Silver&amp;search_field=search</field>
+</doc>
+</add>

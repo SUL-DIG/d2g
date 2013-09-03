@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100779</field>
+<field name="genre">Operas</field>
+<field name="title">Il matrimonio per inganno</field>
+<field name="titleSort">matrimonio per inganno</field>
+<field name="composer">Pasquale Anfossi</field>
+<field name="composerSort">Anfossi, Pasquale</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+per+inganno+Pasquale+Anfossi&amp;search_field=search</field>
+</doc>
+</add>

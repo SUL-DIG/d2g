@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131560</field>
+<field name="genre">Operas</field>
+<field name="title">L'isola disabitata</field>
+<field name="titleSort">isola disabitata</field>
+<field name="composer">Francesco Antonio Uttini</field>
+<field name="composerSort">Uttini, Francesco Antonio</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Slott-Teatern</field>
+<field name="city">Drottningholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'isola+disabitata+Francesco+Antonio+Uttini&amp;search_field=search</field>
+</doc>
+</add>

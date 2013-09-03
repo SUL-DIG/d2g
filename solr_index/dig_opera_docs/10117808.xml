@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117808</field>
+<field name="genre">Operas</field>
+<field name="title">Les chevaliers errants</field>
+<field name="titleSort">chevaliers errants</field>
+<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
+<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chevaliers+errants+Jean+Frédéric+Auguste+Lemière+de+Corvey&amp;search_field=search</field>
+</doc>
+</add>

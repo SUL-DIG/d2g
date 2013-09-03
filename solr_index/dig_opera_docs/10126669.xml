@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126669</field>
+<field name="genre">Operas</field>
+<field name="title">Kaspers fettisdag (Punch's Shrove Tuesday)</field>
+<field name="titleSort">Kaspers fettisdag (Punch's Shrove Tuesday)</field>
+<field name="composer">Hilding Rosenberg</field>
+<field name="composerSort">Rosenberg, Hilding</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">August Strindberg</field>
+<field name="librettistSort">Strindberg, August</field>
+<field name="theater">SR Radio (Sveriges Radio)</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaspers+fettisdag+Punch's+Shrove+Tuesday+Hilding+Rosenberg&amp;search_field=search</field>
+</doc>
+</add>

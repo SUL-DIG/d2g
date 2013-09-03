@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104870</field>
+<field name="genre">Operas</field>
+<field name="title">La notte di Natale</field>
+<field name="titleSort">notte di Natale</field>
+<field name="composer">Fortunato Cantoni</field>
+<field name="composerSort">Cantoni, Fortunato</field>
+<field name="year">1900</field>
+<field name="date">1900</field><field name="theater">Théâtre Saint-Gabriel</field>
+<field name="city">Ajaccio</field>
+<field name="region">Corsica</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+notte+di+Natale+Fortunato+Cantoni&amp;search_field=search</field>
+</doc>
+</add>

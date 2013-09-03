@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107205</field>
+<field name="genre">Operas</field>
+<field name="title">"Lesta, ili Dneprovskaya rusalka</field>
+<field name="titleSort">"Lesta, ili Dneprovskaya rusalka"</field>
+<field name="composer">Stepan Ivanovich Davïdov</field>
+<field name="composerSort">Davïdov, Stepan Ivanovich</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Nikolay Stepanovich Krasnopol'sky</field>
+<field name="librettistSort">Krasnopol'sky, Nikolay Stepanovich</field>
+<field name="theater">Bol'shoy Kamennïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lesta,+ili+Dneprovskaya+rusalka+Stepan+Ivanovich+Davïdov&amp;search_field=search</field>
+</doc>
+</add>

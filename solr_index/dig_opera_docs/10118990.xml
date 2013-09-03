@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118990</field>
+<field name="genre">Operas</field>
+<field name="title">Ester d'Engaddi</field>
+<field name="titleSort">Ester d'Engaddi</field>
+<field name="composer">Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Francesco</field>
+<field name="year">1845</field>
+<field name="date">1845</field><field name="theater">Teatro Apollo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+d'Engaddi+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

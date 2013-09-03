@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130031</field>
+<field name="genre">Operas</field>
+<field name="title">Wenn die kleinen Veilchen blühen</field>
+<field name="titleSort">Wenn die kleinen Veilchen blühen</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="theater">Princess Theater</field>
+<field name="city">The Hague</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wenn+die+kleinen+Veilchen+blühen+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

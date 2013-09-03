@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102250</field>
+<field name="genre">Operas</field>
+<field name="title">Sanga Boero</field>
+<field name="titleSort">Sanga Boero</field>
+<field name="composer">Ciro Bello</field>
+<field name="composerSort">Bello, Ciro</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Agostino Lopiano-Pomar] Marlago</field>
+<field name="librettistSort">Marlago, [Agostino Lopiano-Pomar]</field>
+
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sanga+Boero+Ciro+Bello&amp;search_field=search</field>
+</doc>
+</add>

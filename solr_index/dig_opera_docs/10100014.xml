@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100014</field>
+<field name="genre">Operas</field>
+<field name="title">La stella del canada</field>
+<field name="titleSort">stella del canada</field>
+<field name="composer">Gennaro Abbate</field>
+<field name="composerSort">Abbate, Gennaro</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Teatro Marrucino</field>
+<field name="city">Chieti</field>
+<field name="region">Abruzzi</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+stella+del+canada+Gennaro+Abbate&amp;search_field=search</field>
+</doc>
+</add>

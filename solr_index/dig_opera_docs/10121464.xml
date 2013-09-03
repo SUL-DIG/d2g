@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121464</field>
+<field name="genre">Operas</field>
+<field name="title">Il biricchino</field>
+<field name="titleSort">biricchino</field>
+<field name="composer">Leopoldo Mugnone</field>
+<field name="composerSort">Mugnone, Leopoldo</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Malibran</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+biricchino+Leopoldo+Mugnone&amp;search_field=search</field>
+</doc>
+</add>

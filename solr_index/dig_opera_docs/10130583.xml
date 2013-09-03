@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130583</field>
+<field name="genre">Operas</field>
+<field name="title">Marylka</field>
+<field name="titleSort">Marylka</field>
+<field name="composer">Giulio Tanara</field>
+<field name="composerSort">Tanara, Giulio</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Vincenzo Valle</field>
+<field name="librettistSort">Valle, Vincenzo</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marylka+Giulio+Tanara&amp;search_field=search</field>
+</doc>
+</add>

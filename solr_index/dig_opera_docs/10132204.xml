@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132204</field>
+<field name="genre">Operas</field>
+<field name="title">Balada de carnaval</field>
+<field name="titleSort">Balada de carnaval</field>
+<field name="composer">Amadeo Vives</field>
+<field name="composerSort">Vives, Amadeo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Luis Fernández Ardavín</field>
+<field name="librettistSort">Fernández Ardavín, Luis</field>
+<field name="librettist">Joaquín Montero</field>
+<field name="librettistSort">Montero, Joaquín</field>
+<field name="theater">Gran Teatro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balada+de+carnaval+Amadeo+Vives&amp;search_field=search</field>
+</doc>
+</add>

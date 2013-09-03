@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110058</field>
+<field name="genre">Operas</field>
+<field name="title">Le 14 Juillet</field>
+<field name="titleSort">14 Juillet</field>
+<field name="composer">Próspero Fleuriet</field>
+<field name="composerSort">Fleuriet, Próspero</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Ludovic d'Harbourg</field>
+<field name="librettistSort">d'Harbourg, Ludovic</field>
+<field name="theater">Teatro de la Victoria</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+14+Juillet+Próspero+Fleuriet&amp;search_field=search</field>
+</doc>
+</add>

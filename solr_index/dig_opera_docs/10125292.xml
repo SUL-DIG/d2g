@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125292</field>
+<field name="genre">Operas</field>
+<field name="title">Il contrabbandiere</field>
+<field name="titleSort">contrabbandiere</field>
+<field name="composer">Cesare Pugni</field>
+<field name="composerSort">Pugni, Cesare</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro della Canobbiana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+contrabbandiere+Cesare+Pugni&amp;search_field=search</field>
+</doc>
+</add>

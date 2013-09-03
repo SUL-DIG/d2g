@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105696</field>
+<field name="genre">Operas</field>
+<field name="title">Die Komödiantin</field>
+<field name="titleSort">Komödiantin</field>
+<field name="composer">Hans Chemin-Petit (jr.)</field>
+<field name="composerSort">Chemin-Petit (jr.), Hans</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Hans Chemin-Petit (jr.)</field>
+<field name="librettistSort">Chemin-Petit (jr.), Hans</field>
+<field name="librettist">Heinz Coubier</field>
+<field name="librettistSort">Coubier, Heinz</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Komödiantin+Hans+Chemin-Petit+jr.&amp;search_field=search</field>
+</doc>
+</add>

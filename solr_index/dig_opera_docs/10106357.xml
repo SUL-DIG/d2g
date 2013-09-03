@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106357</field>
+<field name="genre">Operas</field>
+<field name="title">El caballero Ledesma</field>
+<field name="titleSort">caballero Ledesma</field>
+<field name="composer">Eric Colon</field>
+<field name="composerSort">Colon, Eric</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Ali Lasser</field>
+<field name="librettistSort">Lasser, Ali</field>
+<field name="librettist">Alonso Andrea de Ledesma</field>
+<field name="librettistSort">Ledesma, Alonso Andrea de</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Caracas</field>
+
+<field name="country">Venezuela</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+caballero+Ledesma+Eric+Colon&amp;search_field=search</field>
+</doc>
+</add>

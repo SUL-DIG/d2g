@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121638</field>
+<field name="genre">Operas</field>
+<field name="title">La fille de Pedro</field>
+<field name="titleSort">fille de Pedro</field>
+<field name="composer">L. Mullot</field>
+<field name="composerSort">Mullot, L.</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Bernard Wolff</field>
+<field name="librettistSort">Wolff, Bernard</field>
+<field name="librettist">Paul Wolff</field>
+<field name="librettistSort">Wolff, Paul</field>
+
+<field name="city">Soissons</field>
+<field name="region">Aisne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+de+Pedro+L.+Mullot&amp;search_field=search</field>
+</doc>
+</add>

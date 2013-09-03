@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130471</field>
+<field name="genre">Operas</field>
+<field name="title">A sziámi herceg</field>
+<field name="titleSort">sziámi herceg</field>
+<field name="composer">Jenö Sztojanovits</field>
+<field name="composerSort">Sztojanovits, Jenö</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Pál Péter</field>
+<field name="librettistSort">Péter, Pál</field>
+<field name="theater">Fovárosi Nyári Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+sziámi+herceg+Jenö+Sztojanovits&amp;search_field=search</field>
+</doc>
+</add>

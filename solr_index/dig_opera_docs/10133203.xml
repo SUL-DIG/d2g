@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133203</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend</field>
+<field name="titleSort">Legend</field>
+<field name="composer">Morris Wright</field>
+<field name="composerSort">Wright, Morris</field>
+<field name="year">1965</field>
+<field name="date">1965</field><field name="theater">Ball State University</field>
+<field name="city">Muncie</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+Morris+Wright&amp;search_field=search</field>
+</doc>
+</add>

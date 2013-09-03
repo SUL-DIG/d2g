@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104500</field>
+<field name="genre">Operas</field>
+<field name="title">Toison d'or</field>
+<field name="titleSort">Toison d'or</field>
+<field name="composer">Jules Busschop</field>
+<field name="composerSort">Busschop, Jules</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Jules Busschop</field>
+<field name="librettistSort">Busschop, Jules</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Bruges</field>
+<field name="region">West Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toison+d'or+Jules+Busschop&amp;search_field=search</field>
+</doc>
+</add>

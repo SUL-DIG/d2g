@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100493</field>
+<field name="genre">Operas</field>
+<field name="title">L'oeillet blanc</field>
+<field name="titleSort">oeillet blanc</field>
+<field name="composer">Théo Alexys</field>
+<field name="composerSort">Alexys, Théo</field>
+
+
+<field name="librettist">Luc Olivier</field>
+<field name="librettistSort">Olivier, Luc</field>
+<field name="librettist">Marcelle Claude</field>
+<field name="librettistSort">Claude, Marcelle</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oeillet+blanc+Théo+Alexys&amp;search_field=search</field>
+</doc>
+</add>

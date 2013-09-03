@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107422</field>
+<field name="genre">Operas</field>
+<field name="title">L'omelette а la Follembыche</field>
+<field name="titleSort">omelette а la Follembыche</field>
+<field name="composer">Léo Delibes</field>
+<field name="composerSort">Delibes, Léo</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Eugène Labiche</field>
+<field name="librettistSort">Labiche, Eugène</field>
+<field name="librettist">[Marc-Antoine-Amédée Michel] Marc-Michel</field>
+<field name="librettistSort">Marc-Michel, [Marc-Antoine-Amédée Michel]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'omelette+а+la+Follembыche+Léo+Delibes&amp;search_field=search</field>
+</doc>
+</add>

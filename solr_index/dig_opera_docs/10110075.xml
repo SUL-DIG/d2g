@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110075</field>
+<field name="genre">Operas</field>
+<field name="title">L'union de l'Amour et des arts</field>
+<field name="titleSort">union de l'Amour et des arts</field>
+<field name="composer">Étienne Joseph Floquet</field>
+<field name="composerSort">Floquet, Étienne Joseph</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Pierre-René Lemonnier</field>
+<field name="librettistSort">Lemonnier, Pierre-René</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'union+de+l'Amour+et+des+arts+Étienne+Joseph+Floquet&amp;search_field=search</field>
+</doc>
+</add>

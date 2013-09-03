@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111385</field>
+<field name="genre">Operas</field>
+<field name="title">Perseo ed Andromeda</field>
+<field name="titleSort">Perseo ed Andromeda</field>
+<field name="composer">Giuseppe Gazzaniga</field>
+<field name="composerSort">Gazzaniga, Giuseppe</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Vittorio Amadeo Cigna-Santi</field>
+<field name="librettistSort">Cigna-Santi, Vittorio Amadeo</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perseo+ed+Andromeda+Giuseppe+Gazzaniga&amp;search_field=search</field>
+</doc>
+</add>

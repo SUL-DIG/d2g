@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108733</field>
+<field name="genre">Operas</field>
+<field name="title">Cymbelin</field>
+<field name="titleSort">Cymbelin</field>
+<field name="composer">Arne Eggen</field>
+<field name="composerSort">Eggen, Arne</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Arne Eggen</field>
+<field name="librettistSort">Eggen, Arne</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Nationaltheatret</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cymbelin+Arne+Eggen&amp;search_field=search</field>
+</doc>
+</add>

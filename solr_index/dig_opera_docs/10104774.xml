@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104774</field>
+<field name="genre">Operas</field>
+<field name="title">L'oeil de feu</field>
+<field name="titleSort">oeil de feu</field>
+<field name="composer">Achille de Campisiano</field>
+<field name="composerSort">Campisiano, Achille de</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Albert Pouillon</field>
+<field name="librettistSort">Pouillon, Albert</field>
+<field name="librettist">René Gry</field>
+<field name="librettistSort">Gry, René</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oeil+de+feu+Achille+de+Campisiano&amp;search_field=search</field>
+</doc>
+</add>

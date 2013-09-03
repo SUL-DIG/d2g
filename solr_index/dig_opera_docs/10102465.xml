@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102465</field>
+<field name="genre">Operas</field>
+<field name="title">Claudine</field>
+<field name="titleSort">Claudine</field>
+<field name="composer">Rodolphe Berger</field>
+<field name="composerSort">Berger, Rodolphe</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">[Henry Gauthier-Villars] Willy</field>
+<field name="librettistSort">Willy, [Henry Gauthier-Villars]</field>
+<field name="librettist">Sidonie Gabrielle Colette</field>
+<field name="librettistSort">Colette, Sidonie Gabrielle</field>
+<field name="theater">Théâtre du Moulin-Rouge</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudine+Rodolphe+Berger&amp;search_field=search</field>
+</doc>
+</add>

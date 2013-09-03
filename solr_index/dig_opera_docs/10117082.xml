@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117082</field>
+<field name="genre">Operas</field>
+<field name="title">Ode a la louange du rou</field>
+<field name="titleSort">Ode a la louange du rou</field>
+<field name="composer">Michel-Richard de Lalande</field>
+<field name="composerSort">Lalande, Michel-Richard de</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Charles-Claude Genest</field>
+<field name="librettistSort">Genest, Charles-Claude</field>
+
+<field name="city">Sceaux</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ode+a+la+louange+du+rou+Michel-Richard+de+Lalande&amp;search_field=search</field>
+</doc>
+</add>

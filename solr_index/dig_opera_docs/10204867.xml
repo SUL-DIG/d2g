@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204867</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le voeu а Notre-Dame-de-Bonne-Nouvelle</field>
+		<field name="titleSort">voeu а Notre-Dame-de-Bonne-Nouvelle</field>
+		<field name="year">1908</field>
+		
+		
+		<field name="date">1908</field>
+		<field name="composer">Charles-Augustin Collin</field>
+		<field name="composerSort">Collin, Charles-Augustin</field>
+		<field name="librettist">Louis Tiercelin</field>
+		<field name="librettistSort">Tiercelin, Louis</field>
+		
+		<field name="theater">Église de Notre-Dame de Bonne-Nouvelle</field>
+		<field name="city">Rennes</field>
+		<field name="region">Ille-et-Vilaine</field>
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+voeu+а+Notre-Dame-de-Bonne-Nouvelle+Charles-Augustin+Collin&amp;search_field=search</field>
+	</doc></add>

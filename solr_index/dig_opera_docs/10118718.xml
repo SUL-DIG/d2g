@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118718</field>
+<field name="genre">Operas</field>
+<field name="title">Starosta Boris</field>
+<field name="titleSort">Starosta Boris</field>
+<field name="composer">Aleksey Fyodorovich L'vov</field>
+<field name="composerSort">L'vov, Aleksey Fyodorovich</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Nikolay Ivanovich Kulikov</field>
+<field name="librettistSort">Kulikov, Nikolay Ivanovich</field>
+<field name="theater">Alexandrinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Starosta+Boris+Aleksey+Fyodorovich+L'vov&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116174</field>
+<field name="genre">Operas</field>
+<field name="title">Sapozhki (Little Boots)</field>
+<field name="titleSort">Sapozhki (Little Boots)</field>
+<field name="composer">Vladimir Aleksandrovich Kobekin</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Vladimir Aleksandrovich Kobekin</field>
+<field name="librettistSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="librettist">Vasily Makarovich Shukshin</field>
+<field name="librettistSort">Shukshin, Vasily Makarovich</field>
+<field name="theater">Sverdlovsk Television</field>
+<field name="city">Jekaterinburg</field>
+<field name="region">Sverdlovsk Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sapozhki+Little+Boots+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
+</doc>
+</add>

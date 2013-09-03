@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129915</field>
+<field name="genre">Operas</field>
+<field name="title">Feinde ringsum</field>
+<field name="titleSort">Feinde ringsum</field>
+<field name="composer">Johann Gottfried Adolf Stierlin</field>
+<field name="composerSort">Stierlin, Johann Gottfried Adolf</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Alois Buschmann</field>
+<field name="librettistSort">Buschmann, Alois</field>
+<field name="theater">Theater des Konservatoriums</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feinde+ringsum+Johann+Gottfried+Adolf+Stierlin&amp;search_field=search</field>
+</doc>
+</add>

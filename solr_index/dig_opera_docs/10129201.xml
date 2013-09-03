@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129201</field>
+<field name="genre">Operas</field>
+<field name="title">I mille talleri</field>
+<field name="titleSort">mille talleri</field>
+<field name="composer">Luigi Siri</field>
+<field name="composerSort">Siri, Luigi</field>
+<field name="year">1831</field>
+<field name="date">1831</field><field name="theater">Accademia di San Severino</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+mille+talleri+Luigi+Siri&amp;search_field=search</field>
+</doc>
+</add>

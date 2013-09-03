@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105544</field>
+<field name="genre">Operas</field>
+<field name="title">Position 7</field>
+<field name="titleSort">Position 7</field>
+<field name="composer">Kenneth Chalmers</field>
+<field name="composerSort">Chalmers, Kenneth</field>
+<field name="year">1991</field>
+<field name="date">1991</field><field name="theater">Opera Theatre Company</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Position+7+Kenneth+Chalmers&amp;search_field=search</field>
+</doc>
+</add>

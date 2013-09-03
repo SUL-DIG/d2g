@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121078</field>
+<field name="genre">Operas</field>
+<field name="title">Ifigenia in Tauride</field>
+<field name="titleSort">Ifigenia in Tauride</field>
+<field name="composer">Carlo Monza</field>
+<field name="composerSort">Monza, Carlo</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Marco Coltellini</field>
+<field name="librettistSort">Coltellini, Marco</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ifigenia+in+Tauride+Carlo+Monza&amp;search_field=search</field>
+</doc>
+</add>

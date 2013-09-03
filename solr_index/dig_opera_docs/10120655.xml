@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120655</field>
+<field name="genre">Operas</field>
+<field name="title">Il mendico del 1741</field>
+<field name="titleSort">mendico del 1741</field>
+<field name="composer">Gaetano Mililotti</field>
+<field name="composerSort">Mililotti, Gaetano</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Giuseppe Maria Mililotti</field>
+<field name="librettistSort">Mililotti, Giuseppe Maria</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mendico+del+1741+Gaetano+Mililotti&amp;search_field=search</field>
+</doc>
+</add>

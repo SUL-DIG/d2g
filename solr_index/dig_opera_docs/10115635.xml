@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115635</field>
+<field name="genre">Operas</field>
+<field name="title">Myrsky (The Tempest)</field>
+<field name="titleSort">Myrsky (The Tempest)</field>
+<field name="composer">Tuulikki Kankaanpää</field>
+<field name="composerSort">Kankaanpää, Tuulikki</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Tuulikki Kankaanpää</field>
+<field name="librettistSort">Kankaanpää, Tuulikki</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Matinkylän Monitoimitalo</field>
+<field name="city">Espoo</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myrsky+The+Tempest+Tuulikki+Kankaanpää&amp;search_field=search</field>
+</doc>
+</add>

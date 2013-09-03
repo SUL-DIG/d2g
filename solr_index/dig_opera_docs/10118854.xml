@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118854</field>
+<field name="genre">Operas</field>
+<field name="title">Amelia</field>
+<field name="titleSort">Amelia</field>
+<field name="composer">Domenico Maestrini</field>
+<field name="composerSort">Maestrini, Domenico</field>
+<field name="year">1837</field>
+<field name="date">1837</field><field name="theater">Teatro della Piazza Vecchia</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amelia+Domenico+Maestrini&amp;search_field=search</field>
+</doc>
+</add>

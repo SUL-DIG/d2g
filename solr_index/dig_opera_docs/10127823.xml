@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127823</field>
+<field name="genre">Operas</field>
+<field name="title">Les caprices de Marianne</field>
+<field name="titleSort">caprices de Marianne</field>
+<field name="composer">Henri Sauguet</field>
+<field name="composerSort">Sauguet, Henri</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Jean-Pierre Grédy</field>
+<field name="librettistSort">Grédy, Jean-Pierre</field>
+<field name="librettist">Alfred de Musset</field>
+<field name="librettistSort">Musset, Alfred de</field>
+<field name="theater">Théâtre de l'Archevêche</field>
+<field name="city">Aix-en-Provence</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+caprices+de+Marianne+Henri+Sauguet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122172</field>
+<field name="genre">Operas</field>
+<field name="title">Der Alpenhirt</field>
+<field name="titleSort">Alpenhirt</field>
+<field name="composer">Christian Friedrich Nohr</field>
+<field name="composerSort">Nohr, Christian Friedrich</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Ludwig Bechstein</field>
+<field name="librettistSort">Bechstein, Ludwig</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Alpenhirt+Christian+Friedrich+Nohr&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113863</field>
+<field name="genre">Operas</field>
+<field name="title">Shadows in the Sun</field>
+<field name="titleSort">Shadows in the Sun</field>
+<field name="composer">Anthony Hedges</field>
+<field name="composerSort">Hedges, Anthony</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Jim Hawkins</field>
+<field name="librettistSort">Hawkins, Jim</field>
+<field name="theater">Hull University</field>
+<field name="city">Kingston on Hull</field>
+<field name="region">Humberside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shadows+in+the+Sun+Anthony+Hedges&amp;search_field=search</field>
+</doc>
+</add>

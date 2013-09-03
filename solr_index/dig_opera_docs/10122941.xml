@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122941</field>
+<field name="genre">Operas</field>
+<field name="title">Caligula delirante</field>
+<field name="titleSort">Caligula delirante</field>
+<field name="composer">Giovanni Maria Pagliardi</field>
+<field name="composerSort">Pagliardi, Giovanni Maria</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Domenico Gisberti</field>
+<field name="librettistSort">Gisberti, Domenico</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caligula+delirante+Giovanni+Maria+Pagliardi&amp;search_field=search</field>
+</doc>
+</add>

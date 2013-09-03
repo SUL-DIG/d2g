@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202489</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Lenore</field>
+		<field name="titleSort">Lenore</field>
+		<field name="year">1829</field>
+		<field name="month">December</field>
+		<field name="day">25</field>
+		<field name="date">December 25, 1829</field>
+		<field name="composer">Stephan Alexander Aliticz</field>
+		<field name="composerSort">Aliticz, Stephan Alexander</field>
+		<field name="librettist">Gottfried August Bürger</field>
+		<field name="librettistSort">Bürger, Gottfried August</field>
+		
+		
+		<field name="city">Bratislava</field>
+		
+		<field name="country">Slovakia</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lenore+Stephan+Alexander+Aliticz&amp;search_field=search</field>
+	</doc></add>

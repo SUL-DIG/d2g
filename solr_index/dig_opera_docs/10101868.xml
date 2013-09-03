@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101868</field>
+<field name="genre">Operas</field>
+<field name="title">L'amor comico</field>
+<field name="titleSort">amor comico</field>
+<field name="composer">Luigi Barbieri</field>
+<field name="composerSort">Barbieri, Luigi</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Ferdinando Casorri</field>
+<field name="librettistSort">Casorri, Ferdinando</field>
+<field name="theater">Teatro della Piazza Vecchia</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amor+comico+Luigi+Barbieri&amp;search_field=search</field>
+</doc>
+</add>

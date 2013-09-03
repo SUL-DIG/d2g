@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204392</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le stimate di San Francesco</field>
+		<field name="titleSort">stimate di San Francesco</field>
+		
+		
+		
+		
+		<field name="composer">Pietro Andrea Ziani</field>
+		<field name="composerSort">Ziani, Pietro Andrea</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+stimate+di+San+Francesco+Pietro+Andrea+Ziani&amp;search_field=search</field>
+	</doc></add>

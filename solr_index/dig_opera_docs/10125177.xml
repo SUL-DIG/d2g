@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125177</field>
+<field name="genre">Operas</field>
+<field name="title">Il schiavo di sua moglie</field>
+<field name="titleSort">schiavo di sua moglie</field>
+<field name="composer">Francesco Provenzale</field>
+<field name="composerSort">Provenzale, Francesco</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Andrea Perruccio e Fardella</field>
+<field name="librettistSort">Perruccio e Fardella, Andrea</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+schiavo+di+sua+moglie+Francesco+Provenzale&amp;search_field=search</field>
+</doc>
+</add>

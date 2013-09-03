@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201795</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Halotti beszéd (Burial Prayer)</field>
+		<field name="titleSort">Halotti beszéd (Burial Prayer)</field>
+		<field name="year">1975</field>
+		<field name="month">February</field>
+		<field name="day">21</field>
+		<field name="date">February 21, 1975</field>
+		<field name="composer">Zsolt Durkó</field>
+		<field name="composerSort">Durkó, Zsolt</field>
+		
+		
+		<field name="theater">Chorus and Symphony Orchestra of Hungarian Radio and Television</field>
+		<field name="city">Budapest</field>
+		
+		<field name="country">Hungary</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halotti+beszéd+(Burial+Prayer)+Zsolt+Durkó&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127261</field>
+<field name="genre">Operas</field>
+<field name="title">Tamerlano</field>
+<field name="titleSort">Tamerlano</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Agostin Piovene</field>
+<field name="librettistSort">Piovene, Agostin</field>
+<field name="librettist">Jacques Pradon</field>
+<field name="librettistSort">Pradon, Jacques</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tamerlano+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

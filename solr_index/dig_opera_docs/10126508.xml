@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126508</field>
+<field name="genre">Operas</field>
+<field name="title">Karussell der Liebe</field>
+<field name="titleSort">Karussell der Liebe</field>
+<field name="composer">Marc Roland</field>
+<field name="composerSort">Roland, Marc</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Johann Brandis</field>
+<field name="librettistSort">Brandis, Johann</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karussell+der+Liebe+Marc+Roland&amp;search_field=search</field>
+</doc>
+</add>

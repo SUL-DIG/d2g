@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132815</field>
+<field name="genre">Operas</field>
+<field name="title">The Affair</field>
+<field name="titleSort">Affair</field>
+<field name="composer">Felix Werder</field>
+<field name="composerSort">Werder, Felix</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Leonard Radic</field>
+<field name="librettistSort">Radic, Leonard</field>
+<field name="theater">Opera House</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Affair+Felix+Werder&amp;search_field=search</field>
+</doc>
+</add>

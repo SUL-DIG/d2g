@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113370</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Pantalon</field>
+<field name="titleSort">Mam'zelle Pantalon</field>
+<field name="composer">Laurent Halet</field>
+<field name="composerSort">Halet, Laurent</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Eugène Joullot</field>
+<field name="librettistSort">Joullot, Eugène</field>
+<field name="librettist">Georges Arnould</field>
+<field name="librettistSort">Arnould, Georges</field>
+<field name="theater">Concert-Parisiana</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Pantalon+Laurent+Halet&amp;search_field=search</field>
+</doc>
+</add>

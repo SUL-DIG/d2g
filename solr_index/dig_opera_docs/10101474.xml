@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101474</field>
+<field name="genre">Operas</field>
+<field name="title">Catalogo Voce</field>
+<field name="titleSort">Catalogo Voce</field>
+<field name="composer">Larry Austin</field>
+<field name="composerSort">Austin, Larry</field>
+<field name="year">1979</field>
+<field name="date">1979</field><field name="theater">Experimental Intermedia Foundation</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Catalogo+Voce+Larry+Austin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101715</field>
+<field name="genre">Operas</field>
+<field name="title">Dracoula</field>
+<field name="titleSort">Dracoula</field>
+<field name="composer">Claude Ballif</field>
+<field name="composerSort">Ballif, Claude</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Viorel Stefan</field>
+<field name="librettistSort">Stefan, Viorel</field>
+<field name="librettist">Bram Stoker</field>
+<field name="librettistSort">Stoker, Bram</field>
+<field name="theater">Festival Estival</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dracoula+Claude+Ballif&amp;search_field=search</field>
+</doc>
+</add>

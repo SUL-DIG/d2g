@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111344</field>
+<field name="genre">Operas</field>
+<field name="title">Satanaz junior</field>
+<field name="titleSort">Satanaz junior</field>
+<field name="composer">Francisco de Freitas Gazul</field>
+<field name="composerSort">Gazul, Francisco de Freitas</field>
+<field name="year">1870</field>
+<field name="date">1870</field><field name="theater">Teatro Novo da Rua dos Condes</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Satanaz+junior+Francisco+de+Freitas+Gazul&amp;search_field=search</field>
+</doc>
+</add>

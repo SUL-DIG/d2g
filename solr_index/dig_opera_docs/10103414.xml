@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103414</field>
+<field name="genre">Operas</field>
+<field name="title">Un tour de soubrette</field>
+<field name="titleSort">tour de soubrette</field>
+<field name="composer">Adrien Boieldieu</field>
+<field name="composerSort">Boieldieu, Adrien</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Nicolas Gersin</field>
+<field name="librettistSort">Gersin, Nicolas</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+tour+de+soubrette+Adrien+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

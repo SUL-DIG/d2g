@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128928</field>
+<field name="genre">Operas</field>
+<field name="title">La princesse</field>
+<field name="titleSort">princesse</field>
+<field name="composer">Gaston Serpette</field>
+<field name="composerSort">Serpette, Gaston</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Raoul Toché</field>
+<field name="librettistSort">Toché, Raoul</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+princesse+Gaston+Serpette&amp;search_field=search</field>
+</doc>
+</add>

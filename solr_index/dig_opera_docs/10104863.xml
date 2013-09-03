@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104863</field>
+<field name="genre">Operas</field>
+<field name="title">Vercingétorix</field>
+<field name="titleSort">Vercingétorix</field>
+<field name="composer">Joseph Canteloube</field>
+<field name="composerSort">Canteloube, Joseph</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Étienne Clémental</field>
+<field name="librettistSort">Clémental, Étienne</field>
+<field name="librettist">Joseph Henri Louwyck</field>
+<field name="librettistSort">Louwyck, Joseph Henri</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vercingétorix+Joseph+Canteloube&amp;search_field=search</field>
+</doc>
+</add>

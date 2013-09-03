@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104620</field>
+<field name="genre">Operas</field>
+<field name="title">Amor non ha legge</field>
+<field name="titleSort">Amor non ha legge</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">[Francesco Antonio Blinoni] Nicodeno Blinoni</field>
+<field name="librettistSort">Blinoni, Nicodeno [Francesco Antonio Blinoni]</field>
+<field name="theater">Schloss Questenberg</field>
+<field name="city">Jaromerice</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+non+ha+legge+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105670</field>
+<field name="genre">Operas</field>
+<field name="title">Die Seekadetten</field>
+<field name="titleSort">Seekadetten</field>
+<field name="composer">Hippolyte-André Chelard</field>
+<field name="composerSort">Chelard, Hippolyte-André</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Philipp Karl Christian Sondershausen</field>
+<field name="librettistSort">Sondershausen, Philipp Karl Christian</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Seekadetten+Hippolyte-André+Chelard&amp;search_field=search</field>
+</doc>
+</add>

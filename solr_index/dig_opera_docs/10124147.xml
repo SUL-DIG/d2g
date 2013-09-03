@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124147</field>
+<field name="genre">Operas</field>
+<field name="title">Le beffe giovevoli</field>
+<field name="titleSort">beffe giovevoli</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+beffe+giovevoli+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

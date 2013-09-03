@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107439</field>
+<field name="genre">Operas</field>
+<field name="title">Quentin Metsys</field>
+<field name="titleSort">Quentin Metsys</field>
+<field name="composer">Eva Dell'Acqua</field>
+<field name="composerSort">Dell'Acqua, Eva</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Private Performance</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quentin+Metsys+Eva+Dell'Acqua&amp;search_field=search</field>
+</doc>
+</add>

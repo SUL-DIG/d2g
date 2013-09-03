@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113765</field>
+<field name="genre">Operas</field>
+<field name="title">La colombe égarée (Die verirrte Taube)</field>
+<field name="titleSort">colombe égarée (Die verirrte Taube)</field>
+<field name="composer">Hans Haug</field>
+<field name="composerSort">Haug, Hans</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Daniel Anet</field>
+<field name="librettistSort">Anet, Daniel</field>
+<field name="theater">Radio Basle</field>
+<field name="city">Basle</field>
+<field name="region">Basel-Land</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+colombe+égarée+Die+verirrte+Taube+Hans+Haug&amp;search_field=search</field>
+</doc>
+</add>

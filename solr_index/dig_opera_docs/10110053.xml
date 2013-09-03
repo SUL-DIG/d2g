@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110053</field>
+<field name="genre">Operas</field>
+<field name="title">Fatma</field>
+<field name="titleSort">Fatma</field>
+<field name="composer">Ange Flégier</field>
+<field name="composerSort">Flégier, Ange</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Roussel de Voisin</field>
+<field name="librettistSort">Voisin, Roussel de</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fatma+Ange+Flégier&amp;search_field=search</field>
+</doc>
+</add>

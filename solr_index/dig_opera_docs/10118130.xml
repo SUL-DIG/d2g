@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118130</field>
+<field name="genre">Operas</field>
+<field name="title">Raffaello da Urbino e la fornarina</field>
+<field name="titleSort">Raffaello da Urbino e la fornarina</field>
+<field name="composer">Alfonso de Liguoro</field>
+<field name="composerSort">Liguoro, Alfonso de</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Giuseppe Checcherini</field>
+<field name="librettistSort">Checcherini, Giuseppe</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raffaello+da+Urbino+e+la+fornarina+Alfonso+de+Liguoro&amp;search_field=search</field>
+</doc>
+</add>

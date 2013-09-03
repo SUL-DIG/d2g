@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204804</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Vers le soleil couchant</field>
+		<field name="titleSort">Vers le soleil couchant</field>
+		<field name="year">1996</field>
+		<field name="month">June</field>
+		<field name="day">1</field>
+		<field name="date">June 1, 1996</field>
+		<field name="composer">Laurent Mettraux</field>
+		<field name="composerSort">Mettraux, Laurent</field>
+		
+		
+		<field name="theater">Collège Sainte-Croix</field>
+		<field name="city">Fribourg</field>
+		<field name="region">Fribourg</field>
+		<field name="country">Switzerland</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vers+le+soleil+couchant+Laurent+Mettraux&amp;search_field=search</field>
+	</doc></add>

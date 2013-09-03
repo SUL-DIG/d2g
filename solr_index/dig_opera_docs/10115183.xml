@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115183</field>
+<field name="genre">Operas</field>
+<field name="title">Barbara Radziwillowna</field>
+<field name="titleSort">Barbara Radziwillowna</field>
+<field name="composer">Henryk Jarecki</field>
+<field name="composerSort">Jarecki, Henryk</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Adolf Kiczman</field>
+<field name="librettistSort">Kiczman, Adolf</field>
+<field name="librettist">Dominik Magnuszewski</field>
+<field name="librettistSort">Magnuszewski, Dominik</field>
+<field name="theater">Hrabiego Fryderyka Skarbka</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barbara+Radziwillowna+Henryk+Jarecki&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100018</field>
+<field name="genre">Operas</field>
+<field name="title">Der Hausmeister</field>
+<field name="titleSort">Hausmeister</field>
+<field name="composer">Johann Christian Abeille</field>
+<field name="composerSort">Abeille, Johann Christian</field>
+<field name="year">1805</field>
+<field name="date">1805</field><field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Hausmeister+Johann+Christian+Abeille&amp;search_field=search</field>
+</doc>
+</add>

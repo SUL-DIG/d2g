@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107350</field>
+<field name="genre">Operas</field>
+<field name="title">The Canterbury Pilgrims</field>
+<field name="titleSort">Canterbury Pilgrims</field>
+<field name="composer">Reginald De Koven</field>
+<field name="composerSort">Koven, Reginald De</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Percy MacKaye</field>
+<field name="librettistSort">MacKaye, Percy</field>
+<field name="theater">Metropolitan Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Canterbury+Pilgrims+Reginald+De+Koven&amp;search_field=search</field>
+</doc>
+</add>

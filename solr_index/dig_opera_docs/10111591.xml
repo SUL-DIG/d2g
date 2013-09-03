@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111591</field>
+<field name="genre">Operas</field>
+<field name="title">Liebeswogen (Das Seegespenst)</field>
+<field name="titleSort">Liebeswogen (Das Seegespenst)</field>
+<field name="composer">Theodor Gerlach</field>
+<field name="composerSort">Gerlach, Theodor</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Theodor Gerlach</field>
+<field name="librettistSort">Gerlach, Theodor</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebeswogen+Das+Seegespenst+Theodor+Gerlach&amp;search_field=search</field>
+</doc>
+</add>

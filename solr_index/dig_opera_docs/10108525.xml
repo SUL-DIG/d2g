@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108525</field>
+<field name="genre">Operas</field>
+<field name="title">"La fête des mariages, ou Le tirage de la milice</field>
+<field name="titleSort">"fête des mariages, ou Le tirage de la milice"</field>
+<field name="composer">Charles-François-Honoré Duquesnoy</field>
+<field name="composerSort">Duquesnoy, Charles-François-Honoré</field>
+<field name="year">1798</field>
+<field name="date">1798</field><field name="theater">Deutsches Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+des+mariages,+ou+Le+tirage+de+la+milice+Charles-François-Honoré+Duquesnoy&amp;search_field=search</field>
+</doc>
+</add>

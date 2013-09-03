@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120606</field>
+<field name="genre">Operas</field>
+<field name="title">L'Innocente</field>
+<field name="titleSort">Innocente</field>
+<field name="composer">Francisco Mignone</field>
+<field name="composerSort">Mignone, Francisco</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Concepción Espina y Tagle</field>
+<field name="librettistSort">Espina y Tagle, Concepción</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Innocente+Francisco+Mignone&amp;search_field=search</field>
+</doc>
+</add>

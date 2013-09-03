@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123908</field>
+<field name="genre">Operas</field>
+<field name="title">Die Franzosen in Tirol</field>
+<field name="titleSort">Franzosen in Tirol</field>
+<field name="composer">Adolf Peter</field>
+<field name="composerSort">Peter, Adolf</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Raimund von Leon</field>
+<field name="librettistSort">Leon, Raimund von</field>
+
+<field name="city">Bolzano</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Franzosen+in+Tirol+Adolf+Peter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101456</field>
+<field name="genre">Operas</field>
+<field name="title">L'impostore</field>
+<field name="titleSort">impostore</field>
+<field name="composer">Pietro Auletta</field>
+<field name="composerSort">Auletta, Pietro</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Carlo Fabbozzi</field>
+<field name="librettistSort">Fabbozzi, Carlo</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'impostore+Pietro+Auletta&amp;search_field=search</field>
+</doc>
+</add>

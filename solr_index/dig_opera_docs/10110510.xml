@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110510</field>
+<field name="genre">Operas</field>
+<field name="title">Ermelinda</field>
+<field name="titleSort">Ermelinda</field>
+<field name="composer">Domenico Freschi</field>
+<field name="composerSort">Freschi, Domenico</field>
+<field name="year">1682</field>
+<field name="date">1682</field>
+<field name="librettist">Francesco Maria Piccioli</field>
+<field name="librettistSort">Piccioli, Francesco Maria</field>
+<field name="theater">Villa Contarini</field>
+<field name="city">Piazzola sul Brenta</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ermelinda+Domenico+Freschi&amp;search_field=search</field>
+</doc>
+</add>

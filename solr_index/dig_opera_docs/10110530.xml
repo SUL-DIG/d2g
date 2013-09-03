@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110530</field>
+<field name="genre">Operas</field>
+<field name="title">Elfriede</field>
+<field name="titleSort">Elfriede</field>
+<field name="composer">Julius Freudenthal</field>
+<field name="composerSort">Freudenthal, Julius</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Karl Schultes</field>
+<field name="librettistSort">Schultes, Karl</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfriede+Julius+Freudenthal&amp;search_field=search</field>
+</doc>
+</add>

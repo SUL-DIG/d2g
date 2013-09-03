@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103928</field>
+<field name="genre">Operas</field>
+<field name="title">Peleus and Thetis</field>
+<field name="titleSort">Peleus and Thetis</field>
+<field name="composer">William Boyce</field>
+<field name="composerSort">Boyce, William</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">"George Granville, Lord Lansdowne"</field>
+<field name="librettistSort">Lansdowne, George Granville, Lord</field>
+
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peleus+and+Thetis+William+Boyce&amp;search_field=search</field>
+</doc>
+</add>

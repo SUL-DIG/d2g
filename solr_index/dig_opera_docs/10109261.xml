@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109261</field>
+<field name="genre">Operas</field>
+<field name="title">Oro ed amore</field>
+<field name="titleSort">Oro ed amore</field>
+<field name="composer">Giovanni Falorni</field>
+<field name="composerSort">Falorni, Giovanni</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Settimo Pacchiano</field>
+<field name="librettistSort">Pacchiano, Settimo</field>
+
+<field name="city">Pontedera</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oro+ed+amore+Giovanni+Falorni&amp;search_field=search</field>
+</doc>
+</add>

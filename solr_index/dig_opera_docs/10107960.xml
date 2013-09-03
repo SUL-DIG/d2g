@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107960</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca di Foix</field>
+<field name="titleSort">Francesca di Foix</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Domenico Gilardoni</field>
+<field name="librettistSort">Gilardoni, Domenico</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+di+Foix+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

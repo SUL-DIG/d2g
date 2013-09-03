@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103267</field>
+<field name="genre">Operas</field>
+<field name="title">V studni (In the Well)</field>
+<field name="titleSort">V studni (In the Well)</field>
+<field name="composer">Vilém Blodek</field>
+<field name="composerSort">Blodek, Vilém</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Karel Sabina</field>
+<field name="librettistSort">Sabina, Karel</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+studni+In+the+Well+Vilém+Blodek&amp;search_field=search</field>
+</doc>
+</add>

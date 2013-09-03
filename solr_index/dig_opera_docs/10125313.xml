@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125313</field>
+<field name="genre">Operas</field>
+<field name="title">"Vologeso, re de' Patri</field>
+<field name="titleSort">"Vologeso, re de' Patri"</field>
+<field name="composer">Pietro Pulli</field>
+<field name="composerSort">Pulli, Pietro</field>
+<field name="year">1741</field>
+<field name="date">1741</field>
+<field name="librettist">Guido Eustachio Luccarelli</field>
+<field name="librettistSort">Luccarelli, Guido Eustachio</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Pubblico</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vologeso,+re+de'+Patri+Pietro+Pulli&amp;search_field=search</field>
+</doc>
+</add>

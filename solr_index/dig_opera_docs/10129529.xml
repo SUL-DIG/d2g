@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129529</field>
+<field name="genre">Operas</field>
+<field name="title">No me olvides</field>
+<field name="titleSort">No me olvides</field>
+<field name="composer">Pablo Sorozábal</field>
+<field name="composerSort">Sorozábal, Pablo</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Federico Romero Sarachaga</field>
+<field name="librettistSort">Romero Sarachaga, Federico</field>
+<field name="librettist">Guillermo Fernández Shaw</field>
+<field name="librettistSort">Fernández Shaw, Guillermo</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=No+me+olvides+Pablo+Sorozábal&amp;search_field=search</field>
+</doc>
+</add>

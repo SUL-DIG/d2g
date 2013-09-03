@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203414</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Pilgerfahrt nach dem gelobten Lande</field>
+		<field name="titleSort">Pilgerfahrt nach dem gelobten Lande</field>
+		<field name="year">1881</field>
+		<field name="month">May</field>
+		
+		<field name="date">May 1881</field>
+		<field name="composer">Edmund Kretschmer</field>
+		<field name="composerSort">Kretschmer, Edmund</field>
+		<field name="librettist">Hermann Waldow</field>
+		<field name="librettistSort">Waldow, Hermann</field>
+		
+		
+		<field name="city">Frauenfeld</field>
+		<field name="region">Thurgau</field>
+		<field name="country">Switzerland</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Pilgerfahrt+nach+dem+gelobten+Lande+Edmund+Kretschmer&amp;search_field=search</field>
+	</doc></add>

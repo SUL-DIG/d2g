@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133766</field>
+<field name="genre">Operas</field>
+<field name="title">Die Contrebandisten</field>
+<field name="titleSort">Contrebandisten</field>
+<field name="composer">Wilhelm Zsak</field>
+<field name="composerSort">Zsak, Wilhelm</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="city">Lodz</field>
+<field name="region">Lódzkie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Contrebandisten+Wilhelm+Zsak&amp;search_field=search</field>
+</doc>
+</add>

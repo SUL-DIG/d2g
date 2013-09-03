@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131249</field>
+<field name="genre">Operas</field>
+<field name="title">"Il diavolo, ossia Il conte di San Germano</field>
+<field name="titleSort">"diavolo, ossia conte di San Germano"</field>
+<field name="composer">Antonio Traversari</field>
+<field name="composerSort">Traversari, Antonio</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Novara</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+diavolo,+ossia+Il+conte+di+San+Germano+Antonio+Traversari&amp;search_field=search</field>
+</doc>
+</add>

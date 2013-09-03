@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113777</field>
+<field name="genre">Operas</field>
+<field name="title">Der unsterbliche Kranke</field>
+<field name="titleSort">unsterbliche Kranke</field>
+<field name="composer">Hans Haug</field>
+<field name="composerSort">Haug, Hans</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Bernhard Diebold</field>
+<field name="librettistSort">Diebold, Bernhard</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+unsterbliche+Kranke+Hans+Haug&amp;search_field=search</field>
+</doc>
+</add>

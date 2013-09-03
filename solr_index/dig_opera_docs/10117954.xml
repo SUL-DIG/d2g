@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117954</field>
+<field name="genre">Operas</field>
+<field name="title">Le rêveur éveillé</field>
+<field name="titleSort">rêveur éveillé</field>
+<field name="composer">Étienne Alexandre Le Prévost</field>
+<field name="composerSort">Prévost, Étienne Alexandre Le</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Cécile Duval</field>
+<field name="librettistSort">Duval, Cécile</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rêveur+éveillé+Étienne+Alexandre+Le+Prévost&amp;search_field=search</field>
+</doc>
+</add>

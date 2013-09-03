@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121266</field>
+<field name="genre">Operas</field>
+<field name="title">Le mari sans le savoir</field>
+<field name="titleSort">mari sans le savoir</field>
+<field name="composer">Charles Auguste de Morny</field>
+<field name="composerSort">Morny, Charles Auguste de</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Léon Halévy</field>
+<field name="librettistSort">Halévy, Léon</field>
+<field name="librettist">[Ludovic Halévy] Jules Servières</field>
+<field name="librettistSort">Halévy, Ludovic, [Jules Servières]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mari+sans+le+savoir+Charles+Auguste+de+Morny&amp;search_field=search</field>
+</doc>
+</add>

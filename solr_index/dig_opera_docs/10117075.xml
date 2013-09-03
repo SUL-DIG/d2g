@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117075</field>
+<field name="genre">Operas</field>
+<field name="title">Le concert d'Esculape</field>
+<field name="titleSort">concert d'Esculape</field>
+<field name="composer">Michel-Richard de Lalande</field>
+<field name="composerSort">Lalande, Michel-Richard de</field>
+<field name="year">1683</field>
+<field name="date">1683</field>
+<field name="librettist">Antoine Morel</field>
+<field name="librettistSort">Morel, Antoine</field>
+
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+concert+d'Esculape+Michel-Richard+de+Lalande&amp;search_field=search</field>
+</doc>
+</add>

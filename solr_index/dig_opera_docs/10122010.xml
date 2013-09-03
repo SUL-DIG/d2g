@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122010</field>
+<field name="genre">Operas</field>
+<field name="title">Die Blinde</field>
+<field name="titleSort">Blinde</field>
+<field name="composer">Valentin Neuville</field>
+<field name="composerSort">Neuville, Valentin</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Otto Taubman</field>
+<field name="librettistSort">Taubman, Otto</field>
+<field name="librettist">Valentin Neuville</field>
+<field name="librettistSort">Neuville, Valentin</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Blinde+Valentin+Neuville&amp;search_field=search</field>
+</doc>
+</add>

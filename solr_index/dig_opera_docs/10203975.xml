@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203975</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Antanasia</field>
+		<field name="titleSort">Sant' Antanasia</field>
+		<field name="year">1722</field>
+		
+		
+		<field name="date">1722</field>
+		<field name="composer">Francesco Brusa</field>
+		<field name="composerSort">Brusa, Francesco</field>
+		<field name="librettist">Giovanni Battista Gambarucci</field>
+		<field name="librettistSort">Gambarucci, Giovanni Battis</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Antanasia</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Antanasia+Francesco+Brusa&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204697</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Triumph of Faith (Die Kraft des Glaubens)</field>
+		<field name="titleSort">Triumph of Faith (Die Kraft des Glaubens)</field>
+		<field name="year">1837</field>
+		
+		
+		<field name="date">1837</field>
+		<field name="composer">August Ferdinand Häser</field>
+		<field name="composerSort">Häser, August Ferdinand</field>
+		<field name="librettist">William Ball</field>
+		<field name="librettistSort">Ball, William</field>
+		<field name="librettist">Gustav Moltke</field>
+		<field name="librettistSort">Moltke, Gustav</field>
+		<field name="theater">Birmingham Triennial Festival</field>
+		<field name="city">Birmingham</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Triumph+of+Faith+(Die+Kraft+des+Glaubens)+August+Ferdinand+Häser&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100811</field>
+<field name="genre">Operas</field>
+<field name="title">Vele rosse</field>
+<field name="titleSort">Vele rosse</field>
+<field name="composer">Arturo de Angelis</field>
+<field name="composerSort">Angelis, Arturo de</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Antonio Beltramelli</field>
+<field name="librettistSort">Beltramelli, Antonio</field>
+<field name="librettist">Pasquale de Luca</field>
+<field name="librettistSort">Luca, Pasquale de</field>
+<field name="theater">Teatro Diana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vele+rosse+Arturo+de+Angelis&amp;search_field=search</field>
+</doc>
+</add>

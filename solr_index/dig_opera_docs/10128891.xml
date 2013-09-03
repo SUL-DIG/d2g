@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128891</field>
+<field name="genre">Operas</field>
+<field name="title">Sausewind</field>
+<field name="titleSort">Sausewind</field>
+<field name="composer">Rudolf Senger</field>
+<field name="composerSort">Senger, Rudolf</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Thess von Tann</field>
+<field name="librettistSort">Tann, Thess von</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Mecklenburgisches Landestheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sausewind+Rudolf+Senger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128884</field>
+<field name="genre">Operas</field>
+<field name="title">Gil Blas</field>
+<field name="titleSort">Gil Blas</field>
+<field name="composer">Théophile Semet</field>
+<field name="composerSort">Semet, Théophile</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gil+Blas+Théophile+Semet&amp;search_field=search</field>
+</doc>
+</add>

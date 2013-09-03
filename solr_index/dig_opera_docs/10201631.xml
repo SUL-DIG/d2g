@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201631</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giosuè</field>
+		<field name="titleSort">Giosuè</field>
+		<field name="year">1688</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1688</field>
+		<field name="composer">Giovanni Bononcini</field>
+		<field name="composerSort">Bononcini, Giovanni</field>
+		<field name="librettist">Tommaso Stanzani</field>
+		<field name="librettistSort">Stanzani, Tommaso</field>
+		
+		<field name="theater">Oratorio Filippino della Madonna di Galliera</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joshua</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giosuè+Giovanni+Bononcini&amp;search_field=search</field>
+	</doc></add>

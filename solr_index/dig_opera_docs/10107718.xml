@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107718</field>
+<field name="genre">Operas</field>
+<field name="title">Svietnik (The Candelabra)</field>
+<field name="titleSort">Svietnik (The Candelabra)</field>
+<field name="composer">Igor Dibák</field>
+<field name="composerSort">Dibák, Igor</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Igor Dibák</field>
+<field name="librettistSort">Dibák, Igor</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Slovenské Narodné Divadlo</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svietnik+The+Candelabra+Igor+Dibák&amp;search_field=search</field>
+</doc>
+</add>

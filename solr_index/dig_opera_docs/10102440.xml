@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102440</field>
+<field name="genre">Operas</field>
+<field name="title">Babar the Elephant</field>
+<field name="titleSort">Babar the Elephant</field>
+<field name="composer">Nicolay Berezowsky</field>
+<field name="composerSort">Berezowsky, Nicolay</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Heyward Randal</field>
+<field name="librettistSort">Randal, Heyward</field>
+<field name="librettist">Jean de Brunhof</field>
+<field name="librettistSort">Brunhof, Jean de</field>
+<field name="theater">Little Orchestra Society</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Babar+the+Elephant+Nicolay+Berezowsky&amp;search_field=search</field>
+</doc>
+</add>

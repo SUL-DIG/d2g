@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130887</field>
+<field name="genre">Operas</field>
+<field name="title">Hannibal</field>
+<field name="titleSort">Hannibal</field>
+<field name="composer">Paul Thieme</field>
+<field name="composerSort">Thieme, Paul</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Siri Normann</field>
+<field name="librettistSort">Normann, Siri</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hannibal+Paul+Thieme&amp;search_field=search</field>
+</doc>
+</add>

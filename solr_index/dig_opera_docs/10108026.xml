@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108026</field>
+<field name="genre">Operas</field>
+<field name="title">Stone Soup</field>
+<field name="titleSort">Stone Soup</field>
+<field name="composer">Daniel Dorff</field>
+<field name="composerSort">Dorff, Daniel</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Frank McQuilkin</field>
+<field name="librettistSort">McQuilkin, Frank</field>
+<field name="theater">Scenic Hills Elementary School</field>
+<field name="city">Springfield</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stone+Soup+Daniel+Dorff&amp;search_field=search</field>
+</doc>
+</add>

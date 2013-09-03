@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114380</field>
+<field name="genre">Operas</field>
+<field name="title">The Rajah's Diamond</field>
+<field name="titleSort">Rajah's Diamond</field>
+<field name="composer">Alun Hoddinott</field>
+<field name="composerSort">Hoddinott, Alun</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Myfanwy Piper</field>
+<field name="librettistSort">Piper, Myfanwy</field>
+<field name="librettist">Robert Louis Stevenson</field>
+<field name="librettistSort">Stevenson, Robert Louis</field>
+<field name="theater">BBC Wales Television (British Broadcasting Corporation)</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rajah's+Diamond+Alun+Hoddinott&amp;search_field=search</field>
+</doc>
+</add>

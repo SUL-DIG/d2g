@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131103</field>
+<field name="genre">Operas</field>
+<field name="title">La púrpura de la rosa</field>
+<field name="titleSort">púrpura de la rosa</field>
+<field name="composer">Tomás de Torrejón y Velasco</field>
+<field name="composerSort">Velasco, Tomás de Torrejón y</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Pedro Calderón de la Barca</field>
+<field name="librettistSort">Calderón de la Barca, Pedro</field>
+<field name="theater">Palácio del Viceré</field>
+<field name="city">Lima</field>
+
+<field name="country">Peru</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+púrpura+de+la+rosa+Tomás+de+Torrejón+y+Velasco&amp;search_field=search</field>
+</doc>
+</add>

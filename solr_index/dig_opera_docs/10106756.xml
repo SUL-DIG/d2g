@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106756</field>
+<field name="genre">Operas</field>
+<field name="title">Valieri</field>
+<field name="titleSort">Valieri</field>
+<field name="composer">Vicente Costa y Nogueras</field>
+<field name="composerSort">Nogueras, Vicente Costa y</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valieri+Vicente+Costa+y+Nogueras&amp;search_field=search</field>
+</doc>
+</add>

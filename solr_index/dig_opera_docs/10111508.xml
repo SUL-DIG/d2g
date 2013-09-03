@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111508</field>
+<field name="genre">Operas</field>
+<field name="title">Idomeneo</field>
+<field name="titleSort">Idomeneo</field>
+<field name="composer">Pietro Generali</field>
+<field name="composerSort">Generali, Pietro</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Filippe Hilbrath Romano</field>
+<field name="librettistSort">Romano, Filippe Hilbrath</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idomeneo+Pietro+Generali&amp;search_field=search</field>
+</doc>
+</add>

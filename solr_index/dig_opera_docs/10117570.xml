@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117570</field>
+<field name="genre">Operas</field>
+<field name="title">"Vincent de Paule, ou L'illustre galérian</field>
+<field name="titleSort">"Vincent de Paule, ou L'illustre galérian"</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Henri Lemaire</field>
+<field name="librettistSort">Lemaire, Henri</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vincent+de+Paule,+ou+L'illustre+galérian+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

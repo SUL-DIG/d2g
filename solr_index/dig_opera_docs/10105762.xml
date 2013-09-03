@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105762</field>
+<field name="genre">Operas</field>
+<field name="title">Fenicia</field>
+<field name="titleSort">Fenicia</field>
+<field name="composer">Francesco Chiaromonte</field>
+<field name="composerSort">Chiaromonte, Francesco</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Giovanni Emanuele Bidera</field>
+<field name="librettistSort">Bidera, Giovanni Emanuele</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fenicia+Francesco+Chiaromonte&amp;search_field=search</field>
+</doc>
+</add>

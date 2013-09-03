@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201403</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I frutti dell'albero della croce</field>
+		<field name="titleSort">frutti dell'albero della croce</field>
+		<field name="year">1691</field>
+		<field name="month">April</field>
+		<field name="day">13</field>
+		<field name="date">April 13, 1691</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Nicolò Minato</field>
+		<field name="librettistSort">Minato, Nicolò</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+frutti+dell'albero+della+croce+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

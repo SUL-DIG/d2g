@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127929</field>
+<field name="genre">Operas</field>
+<field name="title">Trappole d'amore</field>
+<field name="titleSort">Trappole d'amore</field>
+<field name="composer">Oronzo Mario Scarano</field>
+<field name="composerSort">Scarano, Oronzo Mario</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Angelo Riccionisi</field>
+<field name="librettistSort">Riccionisi, Angelo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trappole+d'amore+Oronzo+Mario+Scarano&amp;search_field=search</field>
+</doc>
+</add>

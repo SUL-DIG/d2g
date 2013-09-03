@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108624</field>
+<field name="genre">Operas</field>
+<field name="title">Tikhiy Don (Quiet Flows the Don)</field>
+<field name="titleSort">Tikhiy Don (Quiet Flows the Don)</field>
+<field name="composer">Ivan Ivanovich Dzerzhinsky</field>
+<field name="composerSort">Dzerzhinsky, Ivan Ivanovich</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Leonid Ivanovich Dzerzhinsky</field>
+<field name="librettistSort">Dzerzhinsky, Leonid Ivanovich</field>
+<field name="librettist">Mikhail Aleksandrovich Sholokhov</field>
+<field name="librettistSort">Sholokhov, Mikhail Aleksandrovich</field>
+<field name="theater">Malïy Opernïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tikhiy+Don+Quiet+Flows+the+Don+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118062</field>
+<field name="genre">Operas</field>
+<field name="title">Der lustige Kakadu</field>
+<field name="titleSort">lustige Kakadu</field>
+<field name="composer">Heinz Lewin</field>
+<field name="composerSort">Lewin, Heinz</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Wilhelm Jacoby</field>
+<field name="librettistSort">Jacoby, Wilhelm</field>
+<field name="librettist">Arthur Lippschitz</field>
+<field name="librettistSort">Lippschitz, Arthur</field>
+<field name="theater">Wilhelm-Theater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lustige+Kakadu+Heinz+Lewin&amp;search_field=search</field>
+</doc>
+</add>

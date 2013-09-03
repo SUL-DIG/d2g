@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118045</field>
+<field name="genre">Operas</field>
+<field name="title">Thanksgiving</field>
+<field name="titleSort">Thanksgiving</field>
+<field name="composer">Paul Alan Levi</field>
+<field name="composerSort">Levi, Paul Alan</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Toni Mergentime Levi</field>
+<field name="librettistSort">Levi, Toni Mergentime</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thanksgiving+Paul+Alan+Levi&amp;search_field=search</field>
+</doc>
+</add>

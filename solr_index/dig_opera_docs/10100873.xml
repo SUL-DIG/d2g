@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100873</field>
+<field name="genre">Operas</field>
+<field name="title">Almansor</field>
+<field name="titleSort">Almansor</field>
+<field name="composer">Tito Antonini</field>
+<field name="composerSort">Antonini, Tito</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Gaetano Mezzacapo</field>
+<field name="librettistSort">Mezzacapo, Gaetano</field>
+<field name="theater">Teatro Costanzi</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almansor+Tito+Antonini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106772</field>
+<field name="genre">Operas</field>
+<field name="title">Fede</field>
+<field name="titleSort">Fede</field>
+<field name="composer">Salvatore Costanzo</field>
+<field name="composerSort">Costanzo, Salvatore</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Agostino Agherbino</field>
+<field name="librettistSort">Agherbino, Agostino</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Putignano</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fede+Salvatore+Costanzo&amp;search_field=search</field>
+</doc>
+</add>

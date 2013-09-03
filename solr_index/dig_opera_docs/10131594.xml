@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131594</field>
+<field name="genre">Operas</field>
+<field name="title">Kocour Mikes (Mikes the Tomcat)</field>
+<field name="titleSort">Kocour Mikes (Mikes the Tomcat)</field>
+<field name="composer">Milos Vacek</field>
+<field name="composerSort">Vacek, Milos</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Nada Mauerová</field>
+<field name="librettistSort">Mauerová, Nada</field>
+<field name="librettist">Josef Lada</field>
+<field name="librettistSort">Lada, Josef</field>
+<field name="theater">Janáckova Opera</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kocour+Mikes+Mikes+the+Tomcat+Milos+Vacek&amp;search_field=search</field>
+</doc>
+</add>

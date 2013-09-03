@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107377</field>
+<field name="genre">Operas</field>
+<field name="title">Le poirier de misère</field>
+<field name="titleSort">poirier de misère</field>
+<field name="composer">Marcel Delannoy</field>
+<field name="composerSort">Delannoy, Marcel</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Jean Limozin</field>
+<field name="librettistSort">Limozin, Jean</field>
+<field name="librettist">André de La Tourrasse</field>
+<field name="librettistSort">La Tourrasse, André de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+poirier+de+misère+Marcel+Delannoy&amp;search_field=search</field>
+</doc>
+</add>

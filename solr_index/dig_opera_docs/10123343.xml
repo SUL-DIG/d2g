@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123343</field>
+<field name="genre">Operas</field>
+<field name="title">The Black Squire</field>
+<field name="titleSort">Black Squire</field>
+<field name="composer">[Joseph Williams] Florian Pascal</field>
+<field name="composerSort">Pascal, [Joseph Williams] Florian</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Henry Pottinger Stephens</field>
+<field name="librettistSort">Stephens, Henry Pottinger</field>
+
+<field name="city">Torquay</field>
+<field name="region">Devonshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Black+Squire+Joseph+Williams]+Florian+Pascal&amp;search_field=search</field>
+</doc>
+</add>

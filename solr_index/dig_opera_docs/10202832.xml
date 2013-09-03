@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202832</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La morte di Zaccaria</field>
+		<field name="titleSort">morte di Zaccaria</field>
+		<field name="year">1873</field>
+		
+		
+		<field name="date">1873</field>
+		<field name="composer">Gaetano Fede</field>
+		<field name="composerSort">Fede, Gaetano</field>
+		<field name="librettist">Giovanni Battista Vizzini</field>
+		<field name="librettistSort">Vizzini, Giovanni Battista</field>
+		
+		<field name="theater">Duomo di Santa Maria La Nuova</field>
+		<field name="city">Chiaramonte Gulfi</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+di+Zaccaria+Gaetano+Fede&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108009</field>
+<field name="genre">Operas</field>
+<field name="title">Ilka és a huszártoborzó</field>
+<field name="titleSort">Ilka és a huszártoborzó</field>
+<field name="composer">Franz Doppler</field>
+<field name="composerSort">Doppler, Franz</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">János Janotyckh von Adlerstein</field>
+<field name="librettistSort">Adlerstein, János Janotyckh von</field>
+<field name="librettist">József Szerdahelyi</field>
+<field name="librettistSort">Szerdahelyi, József</field>
+<field name="theater">Nemzeti Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ilka+és+a+huszártoborzó+Franz+Doppler&amp;search_field=search</field>
+</doc>
+</add>

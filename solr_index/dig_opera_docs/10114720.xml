@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114720</field>
+<field name="genre">Operas</field>
+<field name="title">La belle Lina</field>
+<field name="titleSort">belle Lina</field>
+<field name="composer">Charles Hubans</field>
+<field name="composerSort">Hubans, Charles</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Paul Avenel</field>
+<field name="librettistSort">Avenel, Paul</field>
+<field name="librettist">Paul Mahalin</field>
+<field name="librettistSort">Mahalin, Paul</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+Lina+Charles+Hubans&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117481</field>
+<field name="genre">Operas</field>
+<field name="title">Une matinée а Cayenne</field>
+<field name="titleSort">matinée а Cayenne</field>
+<field name="composer">Ferdinand Lavainne</field>
+<field name="composerSort">Lavainne, Ferdinand</field>
+<field name="year">1836</field>
+<field name="date">1836</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+matinée+а+Cayenne+Ferdinand+Lavainne&amp;search_field=search</field>
+</doc>
+</add>

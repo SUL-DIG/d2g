@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204641</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della grazia</field>
+		<field name="titleSort">trionfo della grazia</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Pietro Giuseppe Sandoni</field>
+		<field name="composerSort">Sandoni, Pietro Giuseppe</field>
+		<field name="librettist">Elia Vaiani de' Borghi</field>
+		<field name="librettistSort">Vaiani de' Borghi, Elia</field>
+		
+		
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+grazia+Pietro+Giuseppe+Sandoni&amp;search_field=search</field>
+	</doc></add>

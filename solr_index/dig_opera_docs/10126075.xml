@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126075</field>
+<field name="genre">Operas</field>
+<field name="title">Un matrimonio per equivoco</field>
+<field name="titleSort">matrimonio per equivoco</field>
+<field name="composer">Luigi Riccomanni</field>
+<field name="composerSort">Riccomanni, Luigi</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Luigi Riccomanni</field>
+<field name="librettistSort">Riccomanni, Luigi</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+matrimonio+per+equivoco+Luigi+Riccomanni&amp;search_field=search</field>
+</doc>
+</add>

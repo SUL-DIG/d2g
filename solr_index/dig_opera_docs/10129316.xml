@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129316</field>
+<field name="genre">Operas</field>
+<field name="title">Dvojnik (The Double)</field>
+<field name="titleSort">Dvojnik (The Double)</field>
+<field name="composer">Jirí Smutný</field>
+<field name="composerSort">Smutný, Jirí</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Jirí Smutný</field>
+<field name="librettistSort">Smutný, Jirí</field>
+<field name="librettist">Berthold Cerník</field>
+<field name="librettistSort">Cerník, Berthold</field>
+<field name="theater">Musiktheater im Revier</field>
+<field name="city">Gelsenkirchen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dvojnik+The+Double+Jirí+Smutný&amp;search_field=search</field>
+</doc>
+</add>

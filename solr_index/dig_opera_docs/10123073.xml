@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123073</field>
+<field name="genre">Operas</field>
+<field name="title">Daisi (Twilight)</field>
+<field name="titleSort">Daisi (Twilight)</field>
+<field name="composer">Zakhary Petrovich Paliashvili</field>
+<field name="composerSort">Paliashvili, Zakhary Petrovich</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Valerian Levanovich Guniya</field>
+<field name="librettistSort">Guniya, Valerian Levanovich</field>
+<field name="librettist">Shota Rustaveli</field>
+<field name="librettistSort">Rustaveli, Shota</field>
+<field name="theater">Kazyonnïy Teatr</field>
+<field name="city">Tbilisi</field>
+
+<field name="country">Georgia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daisi+Twilight+Zakhary+Petrovich+Paliashvili&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126995</field>
+<field name="genre">Operas</field>
+<field name="title">"Sofi trippone, ossia I Desiderii</field>
+<field name="titleSort">"Sofi trippone, ossia I Desiderii"</field>
+<field name="composer">Francesco Ruggi (1)</field>
+<field name="composerSort">Ruggi (1), Francesco</field>
+<field name="year">1804</field>
+<field name="date">1804</field><field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sofi+trippone,+ossia+I+Desiderii+Francesco+Ruggi+-1&amp;search_field=search</field>
+</doc>
+</add>

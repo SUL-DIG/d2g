@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124572</field>
+<field name="genre">Operas</field>
+<field name="title">Les charmeurs</field>
+<field name="titleSort">charmeurs</field>
+<field name="composer">Ferdinand Poise</field>
+<field name="composerSort">Poise, Ferdinand</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+charmeurs+Ferdinand+Poise&amp;search_field=search</field>
+</doc>
+</add>

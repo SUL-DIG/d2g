@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123915</field>
+<field name="genre">Operas</field>
+<field name="title">"The Goldiggers, or Matrimony Mania</field>
+<field name="titleSort">"Goldiggers, or Matrimony Mania"</field>
+<field name="composer">Walter Wadham Peters</field>
+<field name="composerSort">Peters, Walter Wadham</field>
+<field name="year">1902</field>
+<field name="date">1902</field><field name="theater">Duchess Theatre</field>
+<field name="city">Balham</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Goldiggers,+or+Matrimony+Mania+Walter+Wadham+Peters&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121725</field>
+<field name="genre">Operas</field>
+<field name="title">"To Wait, to Mourn</field>
+<field name="titleSort">"To Wait, to Mourn"</field>
+<field name="composer">Edmund Naiera</field>
+<field name="composerSort">Naiera, Edmund</field>
+<field name="year">1977</field>
+<field name="date">1977</field><field name="theater">Saint Stephen's Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Wait,+to+Mourn+Edmund+Naiera&amp;search_field=search</field>
+</doc>
+</add>

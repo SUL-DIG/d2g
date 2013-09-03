@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108652</field>
+<field name="genre">Operas</field>
+<field name="title">Die Stumme von Gerona</field>
+<field name="titleSort">Stumme von Gerona</field>
+<field name="composer">Anton Eberhardt</field>
+<field name="composerSort">Eberhardt, Anton</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Gustav Weinberg</field>
+<field name="librettistSort">Weinberg, Gustav</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Koblenz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Stumme+von+Gerona+Anton+Eberhardt&amp;search_field=search</field>
+</doc>
+</add>

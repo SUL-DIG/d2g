@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128271</field>
+<field name="genre">Operas</field>
+<field name="title">Zenidba cara Dusana</field>
+<field name="titleSort">Zenidba cara Dusana</field>
+<field name="composer">__ Schlesinger</field>
+<field name="composerSort">Schlesinger, __</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">__ Nicolau</field>
+<field name="librettistSort">Nicolau, __</field>
+
+<field name="city">Kragujevac</field>
+<field name="region">Sumadijski Okrug</field>
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zenidba+cara+Dusana+__+Schlesinger&amp;search_field=search</field>
+</doc>
+</add>

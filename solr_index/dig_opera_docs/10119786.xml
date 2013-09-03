@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119786</field>
+<field name="genre">Operas</field>
+<field name="title">Le retour du siècle d'or</field>
+<field name="titleSort">retour du siècle d'or</field>
+<field name="composer">Johann Mattheson</field>
+<field name="composerSort">Mattheson, Johann</field>
+<field name="year">1705</field>
+<field name="date">1705</field>
+<field name="librettist">Gräfin Löwenhaupt</field>
+<field name="librettistSort">Löwenhaupt, Gräfin</field>
+
+<field name="city">Nehmten</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+retour+du+siècle+d'or+Johann+Mattheson&amp;search_field=search</field>
+</doc>
+</add>

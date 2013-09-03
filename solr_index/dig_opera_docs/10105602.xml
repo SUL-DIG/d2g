@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105602</field>
+<field name="genre">Operas</field>
+<field name="title">Margarita la Tornera</field>
+<field name="titleSort">Margarita la Tornera</field>
+<field name="composer">Ruperto Chapí y Llorente</field>
+<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Carlos Fernández Shaw</field>
+<field name="librettistSort">Fernández Shaw, Carlos</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margarita+la+Tornera+Ruperto+Chapí+y+Llorente&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104362</field>
+<field name="genre">Operas</field>
+<field name="title">Il giuoco del barone</field>
+<field name="titleSort">giuoco del barone</field>
+<field name="composer">Valentino Bucchi</field>
+<field name="composerSort">Bucchi, Valentino</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Alessandro Parronchi</field>
+<field name="librettistSort">Parronchi, Alessandro</field>
+<field name="theater">Teatro Sperimentale</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giuoco+del+barone+Valentino+Bucchi&amp;search_field=search</field>
+</doc>
+</add>

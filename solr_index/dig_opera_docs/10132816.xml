@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132816</field>
+<field name="genre">Operas</field>
+<field name="title">Agamemnon</field>
+<field name="titleSort">Agamemnon</field>
+<field name="composer">Felix Werder</field>
+<field name="composerSort">Werder, Felix</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Felix Werder</field>
+<field name="librettistSort">Werder, Felix</field>
+<field name="theater">Grant Street Theatre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agamemnon+Felix+Werder&amp;search_field=search</field>
+</doc>
+</add>

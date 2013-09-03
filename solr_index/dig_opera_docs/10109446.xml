@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109446</field>
+<field name="genre">Operas</field>
+<field name="title">Ipermnestra</field>
+<field name="titleSort">Ipermnestra</field>
+<field name="composer">[Rocco Fedele] Ivan Fedele</field>
+<field name="composerSort">Fedele, [Rocco Fedele] Ivan</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Giuliano Corti</field>
+<field name="librettistSort">Corti, Giuliano</field>
+<field name="theater">Aterforum</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ipermnestra+Rocco+Fedele]+Ivan+Fedele&amp;search_field=search</field>
+</doc>
+</add>

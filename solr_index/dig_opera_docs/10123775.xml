@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123775</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti alla prova</field>
+<field name="titleSort">amanti alla prova</field>
+<field name="composer">Michele Perla</field>
+<field name="composerSort">Perla, Michele</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+
+<field name="city">Castellammare di Stabia</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+alla+prova+Michele+Perla&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123378</field>
+<field name="genre">Operas</field>
+<field name="title">Pompadurï (The Pompadours)</field>
+<field name="titleSort">Pompadurï (The Pompadours)</field>
+<field name="composer">Andrey Filippovich Pashchenko</field>
+<field name="composerSort">Pashchenko, Andrey Filippovich</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Vsevolod Petrovych Rozhdestvensky</field>
+<field name="librettistSort">Rozhdestvensky, Vsevolod Petrovych</field>
+<field name="librettist">Aleksandr Viktorovich Ivanovsky</field>
+<field name="librettistSort">Ivanovsky, Aleksandr Viktorovich</field>
+<field name="theater">Malïy Opernïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pompadurï+The+Pompadours+Andrey+Filippovich+Pashchenko&amp;search_field=search</field>
+</doc>
+</add>

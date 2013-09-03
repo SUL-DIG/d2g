@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105105</field>
+<field name="genre">Operas</field>
+<field name="title">L'homme entre deux âges</field>
+<field name="titleSort">homme entre deux âges</field>
+<field name="composer">Henri Cartier</field>
+<field name="composerSort">Cartier, Henri</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Émile Abraham</field>
+<field name="librettistSort">Abraham, Émile</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'homme+entre+deux+âges+Henri+Cartier&amp;search_field=search</field>
+</doc>
+</add>

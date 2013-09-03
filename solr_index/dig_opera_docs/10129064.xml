@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129064</field>
+<field name="genre">Operas</field>
+<field name="title">Shuzenji monogatari (The Tale of Shuzenji)</field>
+<field name="titleSort">Shuzenji monogatari (The Tale of Shuzenji)</field>
+<field name="composer">Osamu Shimizu</field>
+<field name="composerSort">Shimizu, Osamu</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Kido Okamoto</field>
+<field name="librettistSort">Okamoto, Kido</field>
+<field name="theater">Asahi Hall</field>
+<field name="city">Osaka</field>
+<field name="region">Osaka</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shuzenji+monogatari+The+Tale+of+Shuzenji+Osamu+Shimizu&amp;search_field=search</field>
+</doc>
+</add>

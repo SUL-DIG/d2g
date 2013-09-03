@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129867</field>
+<field name="genre">Operas</field>
+<field name="title">Die Liebe für den Kaiser</field>
+<field name="titleSort">Liebe für den Kaiser</field>
+<field name="composer">Johann Georg Steudle</field>
+<field name="composerSort">Steudle, Johann Georg</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Christian Jacob Wagenseil</field>
+<field name="librettistSort">Wagenseil, Christian Jacob</field>
+
+<field name="city">Kaufbeuren</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Liebe+für+den+Kaiser+Johann+Georg+Steudle&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116155</field>
+<field name="genre">Operas</field>
+<field name="title">Severnïy veter (The North Wind)</field>
+<field name="titleSort">Severnïy veter (The North Wind)</field>
+<field name="composer">Lev Konstantinovich Knipper</field>
+<field name="composerSort">Knipper, Lev Konstantinovich</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Lev Konstantinovich Knipper</field>
+<field name="librettistSort">Knipper, Lev Konstantinovich</field>
+<field name="librettist">Vladimir Mikhaylovich Kirshon</field>
+<field name="librettistSort">Kirshon, Vladimir Mikhaylovich</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Severnïy+veter+The+North+Wind+Lev+Konstantinovich+Knipper&amp;search_field=search</field>
+</doc>
+</add>

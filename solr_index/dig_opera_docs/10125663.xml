@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125663</field>
+<field name="genre">Operas</field>
+<field name="title">"La faillite réparée, ou L'école des fils</field>
+<field name="titleSort">"faillite réparée, ou L'école des fils"</field>
+<field name="composer">B. Louis Raymond</field>
+<field name="composerSort">Raymond, B. Louis</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">B. Louis Raymond</field>
+<field name="librettistSort">Raymond, B. Louis</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+faillite+réparée,+ou+L'école+des+fils+B.+Louis+Raymond&amp;search_field=search</field>
+</doc>
+</add>

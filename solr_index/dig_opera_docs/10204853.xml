@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204853</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vittima d'amore, ossia La morte di Cristo</field>
+		<field name="titleSort">vittima d'amore, ossia morte di Cristo</field>
+		<field name="year">1690</field>
+		
+		
+		<field name="date">1690</field>
+		<field name="composer">Antonio Giannettini</field>
+		<field name="composerSort">Giannettini, Antonio</field>
+		<field name="librettist">Francesco Torti</field>
+		<field name="librettistSort">Torti, Francesco</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Death of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittima+d'amore,+ossia+La+morte+di+Cristo+Antonio+Giannettini&amp;search_field=search</field>
+	</doc></add>

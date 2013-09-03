@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117346</field>
+<field name="genre">Operas</field>
+<field name="title">Die Soubrette</field>
+<field name="titleSort">Soubrette</field>
+<field name="composer">Béla Laszky</field>
+<field name="composerSort">Laszky, Béla</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Leo Heller</field>
+<field name="librettistSort">Heller, Leo</field>
+<field name="theater">Intimes-Theater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Soubrette+Béla+Laszky&amp;search_field=search</field>
+</doc>
+</add>

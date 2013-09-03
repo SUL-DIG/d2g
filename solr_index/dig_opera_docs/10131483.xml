@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131483</field>
+<field name="genre">Operas</field>
+<field name="title">Saulle</field>
+<field name="titleSort">Saulle</field>
+<field name="composer">Carolina Uccelli</field>
+<field name="composerSort">Uccelli, Carolina</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Carolina Uccelli</field>
+<field name="librettistSort">Uccelli, Carolina</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulle+Carolina+Uccelli&amp;search_field=search</field>
+</doc>
+</add>

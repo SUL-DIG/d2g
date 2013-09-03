@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126057</field>
+<field name="genre">Operas</field>
+<field name="title">Il nuovo Figaro</field>
+<field name="titleSort">nuovo Figaro</field>
+<field name="composer">Luigi Ricci</field>
+<field name="composerSort">Ricci, Luigi</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Nuovo Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nuovo+Figaro+Luigi+Ricci&amp;search_field=search</field>
+</doc>
+</add>

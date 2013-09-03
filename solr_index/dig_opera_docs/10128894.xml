@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128894</field>
+<field name="genre">Operas</field>
+<field name="title">La nave rossa</field>
+<field name="titleSort">nave rossa</field>
+<field name="composer">Armando Seppilli</field>
+<field name="composerSort">Seppilli, Armando</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Antonio Beltramelli</field>
+<field name="librettistSort">Beltramelli, Antonio</field>
+<field name="librettist">Luigi Orsini</field>
+<field name="librettistSort">Orsini, Luigi</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nave+rossa+Armando+Seppilli&amp;search_field=search</field>
+</doc>
+</add>

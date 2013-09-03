@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102352</field>
+<field name="genre">Operas</field>
+<field name="title">The Bride of Song</field>
+<field name="titleSort">Bride of Song</field>
+<field name="composer">Julius Benedict</field>
+<field name="composerSort">Benedict, Julius</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bride+of+Song+Julius+Benedict&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204597</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I trionfi della caritа</field>
+		<field name="titleSort">trionfi della caritа</field>
+		<field name="year">1710</field>
+		
+		
+		<field name="date">1710</field>
+		<field name="composer">Paolo Pollarolo</field>
+		<field name="composerSort">Pollarolo, Paolo</field>
+		
+		
+		
+		<field name="city">Brescia</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+trionfi+della+caritа+Paolo+Pollarolo&amp;search_field=search</field>
+	</doc></add>

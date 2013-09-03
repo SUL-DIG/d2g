@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101339</field>
+<field name="genre">Operas</field>
+<field name="title">Altzec</field>
+<field name="titleSort">Altzec</field>
+<field name="composer">Georgi Atanasov</field>
+<field name="composerSort">Atanasov, Georgi</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Petur Karapetrov</field>
+<field name="librettistSort">Karapetrov, Petur</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Altzec+Georgi+Atanasov&amp;search_field=search</field>
+</doc>
+</add>

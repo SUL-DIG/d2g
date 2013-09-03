@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106553</field>
+<field name="genre">Operas</field>
+<field name="title">Il Destino</field>
+<field name="titleSort">Destino</field>
+<field name="composer">Antonio Coppola</field>
+<field name="composerSort">Coppola, Antonio</field>
+<field name="year">1825</field>
+<field name="date">1825</field><field name="theater">Teatro Comunale</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Destino+Antonio+Coppola&amp;search_field=search</field>
+</doc>
+</add>

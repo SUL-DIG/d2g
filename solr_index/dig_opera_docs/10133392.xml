@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133392</field>
+<field name="genre">Operas</field>
+<field name="title">Txanton Piperri</field>
+<field name="titleSort">Txanton Piperri</field>
+<field name="composer">Buenaventura Zapiráin Uribe</field>
+<field name="composerSort">Uribe, Buenaventura Zapiráin</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Toribio Alzaga</field>
+<field name="librettistSort">Alzaga, Toribio</field>
+<field name="theater">Centro Católico</field>
+<field name="city">Donostia-San Sebastián</field>
+<field name="region">Euskal Herriko</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Txanton+Piperri+Buenaventura+Zapiráin+Uribe&amp;search_field=search</field>
+</doc>
+</add>

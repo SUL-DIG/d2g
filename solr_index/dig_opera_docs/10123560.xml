@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123560</field>
+<field name="genre">Operas</field>
+<field name="title">I presagi della sorte</field>
+<field name="titleSort">presagi della sorte</field>
+<field name="composer">Giovanni Battista Pederzuoli</field>
+<field name="composerSort">Pederzuoli, Giovanni Battista</field>
+<field name="year">1677</field>
+<field name="date">1677</field><field name="theater">"Hofburg, Tanzsaal"</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+presagi+della+sorte+Giovanni+Battista+Pederzuoli&amp;search_field=search</field>
+</doc>
+</add>

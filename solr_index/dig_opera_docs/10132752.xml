@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132752</field>
+<field name="genre">Operas</field>
+<field name="title">Viola</field>
+<field name="titleSort">Viola</field>
+<field name="composer">Karel Weis</field>
+<field name="composerSort">Weis, Karel</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Friedrich Adler</field>
+<field name="librettistSort">Adler, Friedrich</field>
+<field name="librettist">Richard Schubert</field>
+<field name="librettistSort">Schubert, Richard</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viola+Karel+Weis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123066</field>
+<field name="genre">Operas</field>
+<field name="title">Le (due) amiche rivali</field>
+<field name="titleSort">amiche rivali</field>
+<field name="composer">Giuseppe Paliani</field>
+<field name="composerSort">Paliani, Giuseppe</field>
+<field name="year">1807</field>
+<field name="date">1807</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+due+amiche+rivali+Giuseppe+Paliani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200463</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Buch mit sieben Siegeln</field>
+		<field name="titleSort">Buch mit sieben Siegeln</field>
+		<field name="year">1938</field>
+		<field name="month">July</field>
+		<field name="day">15</field>
+		<field name="date">July 15, 1938</field>
+		<field name="composer">Franz Schmidt</field>
+		<field name="composerSort">Schmidt, Franz</field>
+		<field name="librettist">Franz Schmidt</field>
+		<field name="librettistSort">Schmidt, Franz</field>
+		
+		<field name="theater">Gesellschaft der Musikfreunde</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Book of the Seven Seals</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Buch+mit+sieben+Siegeln+Franz+Schmidt&amp;search_field=search</field>
+	</doc></add>

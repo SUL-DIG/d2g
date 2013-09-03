@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133747</field>
+<field name="genre">Operas</field>
+<field name="title">Il re pastore</field>
+<field name="titleSort">re pastore</field>
+<field name="composer">Giuseppe Zonca</field>
+<field name="composerSort">Zonca, Giuseppe</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+re+pastore+Giuseppe+Zonca&amp;search_field=search</field>
+</doc>
+</add>

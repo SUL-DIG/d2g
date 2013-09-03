@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203008</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Nuestra Seсora de los Dolores</field>
+		<field name="titleSort">Nuestra Seсora de los Dolores</field>
+		
+		
+		
+		
+		<field name="composer">Salvador Figueras</field>
+		<field name="composerSort">Figueras, Salvador</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Our Lady of Sorrows (Mater Dolorosa)</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nuestra+Seсora+de+los+Dolores+Salvador+Figueras&amp;search_field=search</field>
+	</doc></add>

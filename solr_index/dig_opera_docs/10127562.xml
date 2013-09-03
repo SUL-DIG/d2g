@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127562</field>
+<field name="genre">Operas</field>
+<field name="title">La messagiera</field>
+<field name="titleSort">messagiera</field>
+<field name="composer">Francesc Sánchez Gavagnach</field>
+<field name="composerSort">Gavagnach, Francesc Sánchez</field>
+<field name="year">1889</field>
+<field name="date">1889</field><field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+messagiera+Francesc+Sánchez+Gavagnach&amp;search_field=search</field>
+</doc>
+</add>

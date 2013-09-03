@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202138</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jefte</field>
+		<field name="titleSort">Jefte</field>
+		
+		
+		
+		
+		<field name="composer">Angelo Passeri</field>
+		<field name="composerSort">Passeri, Angelo</field>
+		<field name="librettist">Antonio Scarpelli</field>
+		<field name="librettistSort">Scarpelli, Antonio</field>
+		
+		<field name="theater">Oratorio di San Girolamo della Caritа</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jefte+Angelo+Passeri&amp;search_field=search</field>
+	</doc></add>

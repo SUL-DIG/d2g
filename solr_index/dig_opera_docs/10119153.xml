@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119153</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro riconosciuto</field>
+<field name="titleSort">Ciro riconosciuto</field>
+<field name="composer">Hieronymus Mango</field>
+<field name="composerSort">Mango, Hieronymus</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Eichstätt</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+riconosciuto+Hieronymus+Mango&amp;search_field=search</field>
+</doc>
+</add>

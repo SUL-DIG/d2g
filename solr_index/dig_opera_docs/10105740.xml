@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105740</field>
+<field name="genre">Operas</field>
+<field name="title">La guardia al morto</field>
+<field name="titleSort">guardia al morto</field>
+<field name="composer">Carlo Chiappani</field>
+<field name="composerSort">Chiappani, Carlo</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Giuseppe Cavalieri</field>
+<field name="librettistSort">Cavalieri, Giuseppe</field>
+<field name="theater">Teatro Palestra</field>
+<field name="city">Trento</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guardia+al+morto+Carlo+Chiappani&amp;search_field=search</field>
+</doc>
+</add>

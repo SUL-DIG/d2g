@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203809</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Samson vindicatus</field>
+		<field name="titleSort">Samson vindicatus</field>
+		<field name="year">1695</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1695</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Samson</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samson+vindicatus+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

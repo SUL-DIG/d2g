@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118859</field>
+<field name="genre">Operas</field>
+<field name="title">Raffaello Sanzio</field>
+<field name="titleSort">Raffaello Sanzio</field>
+<field name="composer">Napoleone Maffezzoli</field>
+<field name="composerSort">Maffezzoli, Napoleone</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Giuseppe Ughetti</field>
+<field name="librettistSort">Ughetti, Giuseppe</field>
+<field name="theater">Teatro Zizinia</field>
+<field name="city">Alexandria</field>
+
+<field name="country">Egypt</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raffaello+Sanzio+Napoleone+Maffezzoli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132258</field>
+<field name="genre">Operas</field>
+<field name="title">Albert der Dritte von Bayern</field>
+<field name="titleSort">Albert der Dritte von Bayern</field>
+<field name="composer">Georg Joseph Vogler</field>
+<field name="composerSort">Vogler, Georg Joseph</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Karl Theodor von Traitteur</field>
+<field name="librettistSort">Traitteur, Karl Theodor von</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Albert+der+Dritte+von+Bayern+Georg+Joseph+Vogler&amp;search_field=search</field>
+</doc>
+</add>

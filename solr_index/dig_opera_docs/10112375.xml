@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112375</field>
+<field name="genre">Operas</field>
+<field name="title">Judith</field>
+<field name="titleSort">Judith</field>
+<field name="composer">Eugene Goossens</field>
+<field name="composerSort">Goossens, Eugene</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Arnold Bennett</field>
+<field name="librettistSort">Bennett, Arnold</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Eugene+Goossens&amp;search_field=search</field>
+</doc>
+</add>

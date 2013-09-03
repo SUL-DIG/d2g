@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100175</field>
+<field name="genre">Operas</field>
+<field name="title">The Outcasts of Poker Flat</field>
+<field name="titleSort">Outcasts of Poker Flat</field>
+<field name="composer">Samuel Adler</field>
+<field name="composerSort">Adler, Samuel</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Judah Stampfer</field>
+<field name="librettistSort">Stampfer, Judah</field>
+<field name="librettist">Bret Harte</field>
+<field name="librettistSort">Harte, Bret</field>
+<field name="theater">North Texas State University</field>
+<field name="city">Denton</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Outcasts+of+Poker+Flat+Samuel+Adler&amp;search_field=search</field>
+</doc>
+</add>

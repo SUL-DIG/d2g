@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104975</field>
+<field name="genre">Operas</field>
+<field name="title">Il sacrifizio d'Epito</field>
+<field name="titleSort">sacrifizio d'Epito</field>
+<field name="composer">Michele Carafa</field>
+<field name="composerSort">Carafa, Michele</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">[Giovanni Kreglianovich-Albinoni] Dalmiro Tindario</field>
+<field name="librettistSort">Tindario, Dalmiro [Giovanni Kreglianovich-Albinoni]</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrifizio+d'Epito+Michele+Carafa&amp;search_field=search</field>
+</doc>
+</add>

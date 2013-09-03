@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116867</field>
+<field name="genre">Operas</field>
+<field name="title">Casanova</field>
+<field name="titleSort">Casanova</field>
+<field name="composer">Arthur Kusterer</field>
+<field name="composerSort">Kusterer, Arthur</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Anton Rudolph</field>
+<field name="librettistSort">Rudolph, Anton</field>
+<field name="theater">Württembergisches Landestheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casanova+Arthur+Kusterer&amp;search_field=search</field>
+</doc>
+</add>

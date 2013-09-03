@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117065</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi de carreau</field>
+<field name="titleSort">roi de carreau</field>
+<field name="composer">Théodore de Lajarte</field>
+<field name="composerSort">Lajarte, Théodore de</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Eugène Leterrier</field>
+<field name="librettistSort">Leterrier, Eugène</field>
+<field name="librettist">Albert Vanloo</field>
+<field name="librettistSort">Vanloo, Albert</field>
+<field name="theater">Théâtre des Nouveautés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+de+carreau+Théodore+de+Lajarte&amp;search_field=search</field>
+</doc>
+</add>

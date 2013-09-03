@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110460</field>
+<field name="genre">Operas</field>
+<field name="title">Allah</field>
+<field name="titleSort">Allah</field>
+<field name="composer">Lawrence Freeman</field>
+<field name="composerSort">Freeman, Lawrence</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="librettist">Lawrence Freeman</field>
+<field name="librettistSort">Freeman, Lawrence</field>
+<field name="librettist">Henry Rider Haggard</field>
+<field name="librettistSort">Haggard, Henry Rider"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Allah+Lawrence+Freeman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113620</field>
+<field name="genre">Operas</field>
+<field name="title">Natalie</field>
+<field name="titleSort">Natalie</field>
+<field name="composer">Heinrich Hartl</field>
+<field name="composerSort">Hartl, Heinrich</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Emanuel Züngel</field>
+<field name="librettistSort">Züngel, Emanuel</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Natalie+Heinrich+Hartl&amp;search_field=search</field>
+</doc>
+</add>

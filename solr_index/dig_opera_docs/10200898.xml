@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200898</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">De inopia copia</field>
+		<field name="titleSort">De inopia copia</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Pietro Paolo Bencini</field>
+		<field name="composerSort">Bencini, Pietro Paolo</field>
+		<field name="librettist">Filippo Capistrelli</field>
+		<field name="librettistSort">Capistrelli, Filippo</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+inopia+copia+Pietro+Paolo+Bencini&amp;search_field=search</field>
+	</doc></add>

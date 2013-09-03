@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110479</field>
+<field name="genre">Operas</field>
+<field name="title">Frithjof</field>
+<field name="titleSort">Frithjof</field>
+<field name="composer">Eleanor Everest Freer</field>
+<field name="composerSort">Freer, Eleanor Everest</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Clement Burbank Shaw</field>
+<field name="librettistSort">Shaw, Clement Burbank</field>
+<field name="librettist">Esaias Tegnér</field>
+<field name="librettistSort">Tegnér, Esaias</field>
+<field name="theater">Illinois Women's Athletic Club</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frithjof+Eleanor+Everest+Freer&amp;search_field=search</field>
+</doc>
+</add>

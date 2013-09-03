@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121531</field>
+<field name="genre">Operas</field>
+<field name="title">Esmeralda</field>
+<field name="titleSort">Esmeralda</field>
+<field name="composer">Friedrich Müller (2)</field>
+<field name="composerSort">Müller (2), Friedrich</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Friedrich Müller</field>
+<field name="librettistSort">Müller, Friedrich</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esmeralda+Friedrich+Müller+-2&amp;search_field=search</field>
+</doc>
+</add>

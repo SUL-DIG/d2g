@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128851</field>
+<field name="genre">Operas</field>
+<field name="title">Die zehn Küsse</field>
+<field name="titleSort">zehn Küsse</field>
+<field name="composer">Bernhard Sekles</field>
+<field name="composerSort">Sekles, Bernhard</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Karl Jaroschek</field>
+<field name="librettistSort">Jaroschek, Karl</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+zehn+Küsse+Bernhard+Sekles&amp;search_field=search</field>
+</doc>
+</add>

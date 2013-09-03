@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128596</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux consultations</field>
+<field name="titleSort">deux consultations</field>
+<field name="composer">François Marie Louis Schwab</field>
+<field name="composerSort">Schwab, François Marie Louis</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Antoinette Gransard</field>
+<field name="librettistSort">Gransard, Antoinette</field>
+<field name="theater">Lycée</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+consultations+François+Marie+Louis+Schwab&amp;search_field=search</field>
+</doc>
+</add>

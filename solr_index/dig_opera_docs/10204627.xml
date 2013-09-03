@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204627</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della fede</field>
+		<field name="titleSort">trionfo della fede</field>
+		<field name="year">1672</field>
+		<field name="month">March</field>
+		<field name="day">17</field>
+		<field name="date">March 17, 1672</field>
+		<field name="composer">Francesco Pratichista</field>
+		<field name="composerSort">Pratichista, Francesco</field>
+		<field name="librettist">Luca Tesini</field>
+		<field name="librettistSort">Tesini, Luca</field>
+		
+		<field name="theater">Accademia dei Unanimi</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+fede+Francesco+Pratichista&amp;search_field=search</field>
+	</doc></add>

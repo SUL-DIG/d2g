@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101317</field>
+<field name="genre">Operas</field>
+<field name="title">Le fallaci apparenze</field>
+<field name="titleSort">fallaci apparenze</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+fallaci+apparenze+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

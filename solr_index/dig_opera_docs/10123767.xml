@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123767</field>
+<field name="genre">Operas</field>
+<field name="title">La buona figliuola</field>
+<field name="titleSort">buona figliuola</field>
+<field name="composer">Salvatore Perillo</field>
+<field name="composerSort">Perillo, Salvatore</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">[Carlo Goldoni] Polisseno Fegeio</field>
+<field name="librettistSort">Fegeio, Polisseno [Carlo Goldoni]</field>
+<field name="librettist">Samuel Richardson</field>
+<field name="librettistSort">Richardson, Samuel</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+buona+figliuola+Salvatore+Perillo&amp;search_field=search</field>
+</doc>
+</add>

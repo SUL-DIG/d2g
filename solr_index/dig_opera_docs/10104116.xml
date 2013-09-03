@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104116</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rosenmädchen</field>
+<field name="titleSort">Rosenmädchen</field>
+<field name="composer">Bernhard Breuer</field>
+<field name="composerSort">Breuer, Bernhard</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rosenmädchen+Bernhard+Breuer&amp;search_field=search</field>
+</doc>
+</add>

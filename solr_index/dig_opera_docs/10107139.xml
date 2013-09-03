@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107139</field>
+<field name="genre">Operas</field>
+<field name="title">La charmeuse</field>
+<field name="titleSort">charmeuse</field>
+<field name="composer">Alfred Dard</field>
+<field name="composerSort">Dard, Alfred</field>
+<field name="year">1860</field>
+<field name="date">1860</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Saint-Étienne</field>
+<field name="region">Loire</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+charmeuse+Alfred+Dard&amp;search_field=search</field>
+</doc>
+</add>

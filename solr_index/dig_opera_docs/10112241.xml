@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112241</field>
+<field name="genre">Operas</field>
+<field name="title">Die Alpenhütte</field>
+<field name="titleSort">Alpenhütte</field>
+<field name="composer">Karl Heinrich Eduard Göbel</field>
+<field name="composerSort">Göbel, Karl Heinrich Eduard</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Alpenhütte+Karl+Heinrich+Eduard+Göbel&amp;search_field=search</field>
+</doc>
+</add>

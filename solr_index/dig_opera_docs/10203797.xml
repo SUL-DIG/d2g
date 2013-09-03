@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203797</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Salvator (The Saviour)</field>
+		<field name="titleSort">Salvator (The Saviour)</field>
+		<field name="year">1907</field>
+		
+		
+		<field name="date">1907</field>
+		<field name="composer">Roberta Geddes Harvey</field>
+		<field name="composerSort">Harvey, Roberta Geddes</field>
+		
+		
+		<field name="theater">Saint George's Anglican Church</field>
+		<field name="city">Guelph</field>
+		<field name="region">Ontario</field>
+		<field name="country">Canada</field>
+		<field name="subject">Christ the Redeemer</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salvator+(The+Saviour)+Roberta+Geddes+Harvey&amp;search_field=search</field>
+	</doc></add>

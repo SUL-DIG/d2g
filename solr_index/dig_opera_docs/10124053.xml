@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124053</field>
+<field name="genre">Operas</field>
+<field name="title">Le jardinier de Sidon</field>
+<field name="titleSort">jardinier de Sidon</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Roger Timothée Regnard de Pleinchesne</field>
+<field name="librettistSort">Pleinchesne, Roger Timothée Regnard de</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardinier+de+Sidon+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

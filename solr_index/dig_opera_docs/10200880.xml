@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200880</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davide prevaricante è poi pentito</field>
+		<field name="titleSort">Davide prevaricante è poi pentito</field>
+		<field name="year">1683</field>
+		
+		
+		<field name="date">1683</field>
+		<field name="composer">Carlo Caprioli</field>
+		<field name="composerSort">Caprioli, Carlo</field>
+		<field name="librettist">Lelio Orsini</field>
+		<field name="librettistSort">Orsini, Lelio</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davide+prevaricante+è+poi+pentito+Carlo+Caprioli&amp;search_field=search</field>
+	</doc></add>

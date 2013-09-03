@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132937</field>
+<field name="genre">Operas</field>
+<field name="title">"Il giorno di salute, ovvero Demetrio in Athene</field>
+<field name="titleSort">"giorno di salute, ovvero Demetrio in Athene"</field>
+<field name="composer">Johann Hugo von Wilderer</field>
+<field name="composerSort">Wilderer, Johann Hugo von</field>
+<field name="year">1697</field>
+<field name="date">1697</field>
+<field name="librettist">__ Demanstein</field>
+<field name="librettistSort">Demanstein, __</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giorno+di+salute,+ovvero+Demetrio+in+Athene+Johann+Hugo+von+Wilderer&amp;search_field=search</field>
+</doc>
+</add>

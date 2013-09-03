@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121852</field>
+<field name="genre">Operas</field>
+<field name="title">Die keusche Barbara</field>
+<field name="titleSort">keusche Barbara</field>
+<field name="composer">Oskar Nedbal</field>
+<field name="composerSort">Nedbal, Oskar</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Rudolf Bernauer</field>
+<field name="librettistSort">Bernauer, Rudolf</field>
+<field name="librettist">Leopold Jacobson</field>
+<field name="librettistSort">Jacobson, Leopold</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+keusche+Barbara+Oskar+Nedbal&amp;search_field=search</field>
+</doc>
+</add>

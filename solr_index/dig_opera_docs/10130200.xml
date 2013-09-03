@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130200</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux réservistes</field>
+<field name="titleSort">deux réservistes</field>
+<field name="composer">Georges Ernest Street</field>
+<field name="composerSort">Street, Georges Ernest</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Albert Carré</field>
+<field name="librettistSort">Carré, Albert</field>
+<field name="librettist">Paul Meyan</field>
+<field name="librettistSort">Meyan, Paul</field>
+<field name="theater">Théâtre Moderne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+réservistes+Georges+Ernest+Street&amp;search_field=search</field>
+</doc>
+</add>

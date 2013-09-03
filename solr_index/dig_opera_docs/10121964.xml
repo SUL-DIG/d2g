@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121964</field>
+<field name="genre">Operas</field>
+<field name="title">Aranypáva</field>
+<field name="titleSort">Aranypáva</field>
+<field name="composer">Béla Neszmélyi</field>
+<field name="composerSort">Neszmélyi, Béla</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="librettist">László Békeffy</field>
+<field name="librettistSort">Békeffy, László</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aranypáva+Béla+Neszmélyi&amp;search_field=search</field>
+</doc>
+</add>

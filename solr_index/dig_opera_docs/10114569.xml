@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114569</field>
+<field name="genre">Operas</field>
+<field name="title">Don Chisciotte</field>
+<field name="titleSort">Don Chisciotte</field>
+<field name="composer">Ignaz Holzbauer</field>
+<field name="composerSort">Holzbauer, Ignaz</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Schwetzingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Chisciotte+Ignaz+Holzbauer&amp;search_field=search</field>
+</doc>
+</add>

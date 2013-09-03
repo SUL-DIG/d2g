@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106094</field>
+<field name="genre">Operas</field>
+<field name="title">Columbia's Girl</field>
+<field name="titleSort">Columbia's Girl</field>
+<field name="composer">Jules Clémandh</field>
+<field name="composerSort">Clémandh, Jules</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Jean Graveleau</field>
+<field name="librettistSort">Graveleau, Jean</field>
+<field name="theater">Théâtre Fémina</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Columbia's+Girl+Jules+Clémandh&amp;search_field=search</field>
+</doc>
+</add>

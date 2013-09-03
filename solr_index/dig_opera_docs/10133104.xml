@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133104</field>
+<field name="genre">Operas</field>
+<field name="title">Das Gärtnermädchen</field>
+<field name="titleSort">Gärtnermädchen</field>
+<field name="composer">Ernst Wilhelm Wolf</field>
+<field name="composerSort">Wolf, Ernst Wilhelm</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Johann Karl August Musäus</field>
+<field name="librettistSort">Musäus, Johann Karl August</field>
+<field name="theater">Wilhelmsburg Schlosstheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Gärtnermädchen+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
+</doc>
+</add>

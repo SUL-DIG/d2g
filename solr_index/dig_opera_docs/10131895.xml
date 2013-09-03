@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131895</field>
+<field name="genre">Operas</field>
+<field name="title">"Le jardin d'amour, ou Les noces d'Alexis</field>
+<field name="titleSort">"jardin d'amour, ou Les noces d'Alexis"</field>
+<field name="composer">Pierre Emmanuel Verheyen</field>
+<field name="composerSort">Verheyen, Pierre Emmanuel</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardin+d'amour,+ou+Les+noces+d'Alexis+Pierre+Emmanuel+Verheyen&amp;search_field=search</field>
+</doc>
+</add>

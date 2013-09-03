@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125755</field>
+<field name="genre">Operas</field>
+<field name="title">Godefroid de Montfort</field>
+<field name="titleSort">Godefroid de Montfort</field>
+<field name="composer">Anton Reicha</field>
+<field name="composerSort">Reicha, Anton</field>
+<field name="year">1795</field>
+<field name="date">1795</field><field name="theater">Private Performance</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Godefroid+de+Montfort+Anton+Reicha&amp;search_field=search</field>
+</doc>
+</add>

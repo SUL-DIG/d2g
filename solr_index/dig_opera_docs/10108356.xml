@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108356</field>
+<field name="genre">Operas</field>
+<field name="title">À Cocotteville-plage</field>
+<field name="titleSort">À Cocotteville-plage</field>
+<field name="composer">Antoine Dubost</field>
+<field name="composerSort">Dubost, Antoine</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Antoine Queyriaux</field>
+<field name="librettistSort">Queyriaux, Antoine</field>
+<field name="theater">Bobino-Music-Hall</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+Cocotteville-plage+Antoine+Dubost&amp;search_field=search</field>
+</doc>
+</add>

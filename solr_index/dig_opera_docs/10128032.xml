@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128032</field>
+<field name="genre">Operas</field>
+<field name="title">Il concilio degli dei</field>
+<field name="titleSort">concilio degli dei</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Pre Maria Riccio</field>
+<field name="librettistSort">Riccio, Pre Maria"</field>
+
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+concilio+degli+dei+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109257</field>
+<field name="genre">Operas</field>
+<field name="title">Der Weltenbummler</field>
+<field name="titleSort">Weltenbummler</field>
+<field name="composer">Richard Fall</field>
+<field name="composerSort">Fall, Richard</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="librettist">Carl Lindau</field>
+<field name="librettistSort">Lindau, Carl</field>
+<field name="theater">Montis Operettentheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Weltenbummler+Richard+Fall&amp;search_field=search</field>
+</doc>
+</add>

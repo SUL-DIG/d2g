@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130774</field>
+<field name="genre">Operas</field>
+<field name="title">Das blaue Barret</field>
+<field name="titleSort">blaue Barret</field>
+<field name="composer">Friedrich Wilhelm Telle</field>
+<field name="composerSort">Telle, Friedrich Wilhelm</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+blaue+Barret+Friedrich+Wilhelm+Telle&amp;search_field=search</field>
+</doc>
+</add>

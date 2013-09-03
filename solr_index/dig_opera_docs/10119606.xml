@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119606</field>
+<field name="genre">Operas</field>
+<field name="title">Er marchese der Grillo</field>
+<field name="titleSort">marchese der Grillo</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Domenico Berardi</field>
+<field name="librettistSort">Berardi, Domenico</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Er+marchese+der+Grillo+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120512</field>
+<field name="genre">Operas</field>
+<field name="title">Guillaume de Nassau</field>
+<field name="titleSort">Guillaume de Nassau</field>
+<field name="composer">Charles Mézeray</field>
+<field name="composerSort">Mézeray, Charles</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Charles Durand</field>
+<field name="librettistSort">Durand, Charles</field>
+<field name="theater">Koninklijke Schouwburg</field>
+<field name="city">The Hague</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guillaume+de+Nassau+Charles+Mézeray&amp;search_field=search</field>
+</doc>
+</add>

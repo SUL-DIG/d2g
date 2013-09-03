@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114200</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit Lulli</field>
+<field name="titleSort">petit Lulli</field>
+<field name="composer">Charles Léon Hess</field>
+<field name="composerSort">Hess, Charles Léon</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">[Louis Sallot] Louis Leloir</field>
+<field name="librettistSort">Leloir, Louis [Louis Sallot]</field>
+<field name="librettist">Paul Gravollet</field>
+<field name="librettistSort">Gravollet, Paul</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Valenciennes</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+Lulli+Charles+Léon+Hess&amp;search_field=search</field>
+</doc>
+</add>

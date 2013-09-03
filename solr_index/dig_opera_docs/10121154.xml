@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121154</field>
+<field name="genre">Operas</field>
+<field name="title">Comala</field>
+<field name="titleSort">Comala</field>
+<field name="composer">Pietro Morandi</field>
+<field name="composerSort">Morandi, Pietro</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Raniero de' Calzabigi</field>
+<field name="librettistSort">Calzabigi, Raniero de'</field>
+
+<field name="city">Senigallia</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Comala+Pietro+Morandi&amp;search_field=search</field>
+</doc>
+</add>

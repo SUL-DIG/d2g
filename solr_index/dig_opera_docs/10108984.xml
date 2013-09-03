@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108984</field>
+<field name="genre">Operas</field>
+<field name="title">La veillée des touristes</field>
+<field name="titleSort">veillée des touristes</field>
+<field name="composer">Alexis Ermel</field>
+<field name="composerSort">Ermel, Alexis</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Louis Batardy</field>
+<field name="librettistSort">Batardy, Louis</field>
+
+<field name="city">Ixelles</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+veillée+des+touristes+Alexis+Ermel&amp;search_field=search</field>
+</doc>
+</add>

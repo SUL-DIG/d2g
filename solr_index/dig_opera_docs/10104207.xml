@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104207</field>
+<field name="genre">Operas</field>
+<field name="title">Manfred</field>
+<field name="titleSort">Manfred</field>
+<field name="composer">Hans von Bronsart</field>
+<field name="composerSort">Bronsart, Hans von</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Hans von Bronsart</field>
+<field name="librettistSort">Bronsart, Hans von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manfred+Hans+von+Bronsart&amp;search_field=search</field>
+</doc>
+</add>

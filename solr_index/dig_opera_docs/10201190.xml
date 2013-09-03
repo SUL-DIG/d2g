@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201190</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ester</field>
+		<field name="titleSort">Ester</field>
+		<field name="year">1723</field>
+		<field name="month">February</field>
+		<field name="day">25</field>
+		<field name="date">February 25, 1723</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Francesco Fozio</field>
+		<field name="librettistSort">Fozio, Francesco</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108395</field>
+<field name="genre">Operas</field>
+<field name="title">Captain Lovelock</field>
+<field name="titleSort">Captain Lovelock</field>
+<field name="composer">John Duke</field>
+<field name="composerSort">Duke, John</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Ludvig Holberg</field>
+<field name="librettistSort">Holberg, Ludvig</field>
+<field name="theater">Oscar Seagle Colony</field>
+<field name="city">Schroon Lake</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Captain+Lovelock+John+Duke&amp;search_field=search</field>
+</doc>
+</add>

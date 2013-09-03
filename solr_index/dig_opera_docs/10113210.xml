@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113210</field>
+<field name="genre">Operas</field>
+<field name="title">Kaisertochter (Eginhard und Emma)</field>
+<field name="titleSort">Kaisertochter (Eginhard und Emma)</field>
+<field name="composer">Willem van Haan</field>
+<field name="composerSort">Haan, Willem van</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Wilhelm Jacobi</field>
+<field name="librettistSort">Jacobi, Wilhelm</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaisertochter+Eginhard+und+Emma+Willem+van+Haan&amp;search_field=search</field>
+</doc>
+</add>

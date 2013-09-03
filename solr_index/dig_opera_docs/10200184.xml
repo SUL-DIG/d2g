@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200184</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Anima Christi</field>
+		<field name="titleSort">Anima Christi</field>
+		<field name="year">1989</field>
+		
+		
+		<field name="date">1989</field>
+		<field name="composer">Vic Nees</field>
+		<field name="composerSort">Nees, Vic</field>
+		<field name="librettist">Albert Boone</field>
+		<field name="librettistSort">Boone, Albert</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anima+Christi+Vic+Nees&amp;search_field=search</field>
+	</doc></add>

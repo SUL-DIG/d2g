@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124289</field>
+<field name="genre">Operas</field>
+<field name="title">L'acqua cheta</field>
+<field name="titleSort">acqua cheta</field>
+<field name="composer">Giuseppe Pietri</field>
+<field name="composerSort">Pietri, Giuseppe</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Augusto Novelli</field>
+<field name="librettistSort">Novelli, Augusto</field>
+<field name="librettist">Angelo Nessi</field>
+<field name="librettistSort">Nessi, Angelo</field>
+<field name="theater">Teatro Drammatico Nazionale</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'acqua+cheta+Giuseppe+Pietri&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100688</field>
+<field name="genre">Operas</field>
+<field name="title">Abenteuer des Casanova</field>
+<field name="titleSort">Abenteuer des Casanova</field>
+<field name="composer">Volkmar Andreae</field>
+<field name="composerSort">Andreae, Volkmar</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Ferdinand Lion</field>
+<field name="librettistSort">Lion, Ferdinand</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abenteuer+des+Casanova+Volkmar+Andreae&amp;search_field=search</field>
+</doc>
+</add>

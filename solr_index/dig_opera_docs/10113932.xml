@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113932</field>
+<field name="genre">Operas</field>
+<field name="title">Der Triumph des Weibes</field>
+<field name="titleSort">Triumph des Weibes</field>
+<field name="composer">Joseph Hellmesberger</field>
+<field name="composerSort">Hellmesberger, Joseph</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="theater">Danzers Orpheum Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Triumph+des+Weibes+Joseph+Hellmesberger&amp;search_field=search</field>
+</doc>
+</add>

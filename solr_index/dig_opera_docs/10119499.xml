@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119499</field>
+<field name="genre">Operas</field>
+<field name="title">¡Buena noche!</field>
+<field name="titleSort">Buena noche!</field>
+<field name="composer">Manuel Martínez Faixá</field>
+<field name="composerSort">Faixá, Manuel Martínez</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Luis Llaneza</field>
+<field name="librettistSort">Llaneza, Luis</field>
+<field name="theater">Teatro El Paraiso</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=¡Buena+noche!+Manuel+Martínez+Faixá&amp;search_field=search</field>
+</doc>
+</add>

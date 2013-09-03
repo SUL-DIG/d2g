@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110608</field>
+<field name="genre">Operas</field>
+<field name="title">Der Elektriker</field>
+<field name="titleSort">Elektriker</field>
+<field name="composer">Carl Joseph Fromm</field>
+<field name="composerSort">Fromm, Carl Joseph</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Ignaz Schnitzer</field>
+<field name="librettistSort">Schnitzer, Ignaz</field>
+<field name="librettist">Siegmund Schlesinger</field>
+<field name="librettistSort">Schlesinger, Siegmund</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Elektriker+Carl+Joseph+Fromm&amp;search_field=search</field>
+</doc>
+</add>

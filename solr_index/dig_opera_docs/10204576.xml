@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204576</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La traslazione di San Doimo</field>
+		<field name="titleSort">traslazione di San Doimo</field>
+		<field name="year">1770</field>
+		
+		
+		<field name="date">1770</field>
+		<field name="composer">Julije Bajamonti</field>
+		<field name="composerSort">Bajamonti, Julije</field>
+		
+		
+		
+		<field name="city">Dubrovnik</field>
+		<field name="region">Dubrovnik-Neretva</field>
+		<field name="country">Croatia</field>
+		<field name="subject">Saint Domnio</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">11</field>
+		<field name="feastDate">April 11</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+traslazione+di+San+Doimo+Julije+Bajamonti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119007</field>
+<field name="genre">Operas</field>
+<field name="title">Il figliuol prodigo</field>
+<field name="titleSort">figliuol prodigo</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Castellano di Pierozo Castellani</field>
+<field name="librettistSort">Castellani, Castellano di Pierozo</field>
+<field name="theater">RAI Radio (Radio Audizioni Italiane)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figliuol+prodigo+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101483</field>
+<field name="genre">Operas</field>
+<field name="title">J'ai pris la Bastille</field>
+<field name="titleSort">J'ai pris la Bastille</field>
+<field name="composer">Ange-Marie Auzende</field>
+<field name="composerSort">Auzende, Ange-Marie</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Lucien Augé de Lassus</field>
+<field name="librettistSort">Augé de Lassus, Lucien</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=J'ai+pris+la+Bastille+Ange-Marie+Auzende&amp;search_field=search</field>
+</doc>
+</add>

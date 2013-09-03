@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113659</field>
+<field name="genre">Operas</field>
+<field name="title">Skveta partie</field>
+<field name="titleSort">Skveta partie</field>
+<field name="composer">__ Hasler</field>
+<field name="composerSort">Hasler, __</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Emil Staré</field>
+<field name="librettistSort">Staré, Emil</field>
+
+<field name="city">Smichov</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skveta+partie+__+Hasler&amp;search_field=search</field>
+</doc>
+</add>

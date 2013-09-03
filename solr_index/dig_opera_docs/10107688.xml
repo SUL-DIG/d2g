@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107688</field>
+<field name="genre">Operas</field>
+<field name="title">Uilenspiegel</field>
+<field name="titleSort">Uilenspiegel</field>
+<field name="composer">Jean De Winter</field>
+<field name="composerSort">Winter, Jean De</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Frédéric Lints</field>
+<field name="librettistSort">Lints, Frédéric</field>
+<field name="theater">Schouwburg</field>
+<field name="city">Leuven</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uilenspiegel+Jean+De+Winter&amp;search_field=search</field>
+</doc>
+</add>

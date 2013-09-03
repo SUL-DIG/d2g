@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114877</field>
+<field name="genre">Operas</field>
+<field name="title">Leonore</field>
+<field name="titleSort">Leonore</field>
+<field name="composer">Anselm Hüttenbrenner</field>
+<field name="composerSort">Hüttenbrenner, Anselm</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Gottfried von Leitner</field>
+<field name="librettistSort">Leitner, Gottfried von</field>
+<field name="librettist">Gottfried August Bürger</field>
+<field name="librettistSort">Bürger, Gottfried August</field>
+<field name="theater">Franzenstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonore+Anselm+Hüttenbrenner&amp;search_field=search</field>
+</doc>
+</add>

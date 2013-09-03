@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128208</field>
+<field name="genre">Operas</field>
+<field name="title">Der königliche Printz Regnerus</field>
+<field name="titleSort">königliche Printz Regnerus</field>
+<field name="composer">Johann Christian Schieferdecker</field>
+<field name="composerSort">Schieferdecker, Johann Christian</field>
+<field name="year">1701</field>
+<field name="date">1701</field><field name="theater">Neu-Augustusburg Schlosstheater</field>
+<field name="city">Weissenfels</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+königliche+Printz+Regnerus+Johann+Christian+Schieferdecker&amp;search_field=search</field>
+</doc>
+</add>

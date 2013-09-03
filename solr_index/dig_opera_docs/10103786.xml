@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103786</field>
+<field name="genre">Operas</field>
+<field name="title">O duque de Vizeu</field>
+<field name="titleSort">duque de Vizeu</field>
+<field name="composer">Ettore Bosio</field>
+<field name="composerSort">Bosio, Ettore</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Pacheco Neto</field>
+<field name="librettistSort">Neto, Pacheco</field>
+<field name="theater">Teatro da Paz</field>
+<field name="city">Belém</field>
+<field name="region">Pará</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+duque+de+Vizeu+Ettore+Bosio&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132890</field>
+<field name="genre">Operas</field>
+<field name="title">La hija del duca</field>
+<field name="titleSort">hija del duca</field>
+<field name="composer">John Jesse White</field>
+<field name="composerSort">White, John Jesse</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="city">Lima</field>
+
+<field name="country">Peru</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+hija+del+duca+John+Jesse+White&amp;search_field=search</field>
+</doc>
+</add>

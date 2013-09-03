@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101586</field>
+<field name="genre">Operas</field>
+<field name="title">Aber Otto</field>
+<field name="titleSort">Aber Otto</field>
+<field name="composer">Egon Baderle</field>
+<field name="composerSort">Baderle, Egon</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">[Joseph Hostasch] Julius Horst</field>
+<field name="librettistSort">Horst, Julius [Joseph Hostasch]</field>
+<field name="librettist">Erwin W. Spahn</field>
+<field name="librettistSort">Spahn, Erwin W.</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aber+Otto+Egon+Baderle&amp;search_field=search</field>
+</doc>
+</add>

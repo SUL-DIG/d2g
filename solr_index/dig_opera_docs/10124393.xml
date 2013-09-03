@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124393</field>
+<field name="genre">Operas</field>
+<field name="title">Zhitie i stradanie greshnogo Sofroniya</field>
+<field name="titleSort">Zhitie i stradanie greshnogo Sofroniya</field>
+<field name="composer">Simeon Pironkov</field>
+<field name="composerSort">Pironkov, Simeon</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Simeon Pironkov</field>
+<field name="librettistSort">Pironkov, Simeon</field>
+<field name="theater">Zala Bulgaria Concert Hall</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zhitie+i+stradanie+greshnogo+Sofroniya+Simeon+Pironkov&amp;search_field=search</field>
+</doc>
+</add>

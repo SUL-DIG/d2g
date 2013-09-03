@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122327</field>
+<field name="genre">Operas</field>
+<field name="title">Kynast</field>
+<field name="titleSort">Kynast</field>
+<field name="composer">Alfred Oelschlegel</field>
+<field name="composerSort">Oelschlegel, Alfred</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">F. Strahl</field>
+<field name="librettistSort">Strahl, F.</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kynast+Alfred+Oelschlegel&amp;search_field=search</field>
+</doc>
+</add>

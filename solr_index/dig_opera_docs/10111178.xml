@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111178</field>
+<field name="genre">Operas</field>
+<field name="title">"Taican, re della Cina</field>
+<field name="titleSort">"Taican, re della Cina"</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1707</field>
+<field name="date">1707</field>
+<field name="librettist">Urbano Rizzi</field>
+<field name="librettistSort">Rizzi, Urbano</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Taican,+re+della+Cina+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

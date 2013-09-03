@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129942</field>
+<field name="genre">Operas</field>
+<field name="title">Der Herzog von Reichstadt</field>
+<field name="titleSort">Herzog von Reichstadt</field>
+<field name="composer">Petar Stojanovic</field>
+<field name="composerSort">Stojanovic, Petar</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herzog+von+Reichstadt+Petar+Stojanovic&amp;search_field=search</field>
+</doc>
+</add>

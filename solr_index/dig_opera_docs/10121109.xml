@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121109</field>
+<field name="genre">Operas</field>
+<field name="title">The Ballad of Baby Doe</field>
+<field name="titleSort">Ballad of Baby Doe</field>
+<field name="composer">Douglas Moore</field>
+<field name="composerSort">Moore, Douglas</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Douglas Moore</field>
+<field name="librettistSort">Moore, Douglas</field>
+<field name="librettist">John Latouche</field>
+<field name="librettistSort">Latouche, John</field>
+<field name="theater">Opera House</field>
+<field name="city">Central City</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ballad+of+Baby+Doe+Douglas+Moore&amp;search_field=search</field>
+</doc>
+</add>

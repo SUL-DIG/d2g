@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118692</field>
+<field name="genre">Operas</field>
+<field name="title">Berengario d'Ivrea</field>
+<field name="titleSort">Berengario d'Ivrea</field>
+<field name="composer">Vincenzo Lutti</field>
+<field name="composerSort">Lutti, Vincenzo</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Antonio Gazzoletti</field>
+<field name="librettistSort">Gazzoletti, Antonio</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Berengario+d'Ivrea+Vincenzo+Lutti&amp;search_field=search</field>
+</doc>
+</add>

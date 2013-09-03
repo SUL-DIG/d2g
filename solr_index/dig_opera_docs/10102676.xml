@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102676</field>
+<field name="genre">Operas</field>
+<field name="title">Bureau Malicorne</field>
+<field name="titleSort">Bureau Malicorne</field>
+<field name="composer">Heinrich Berté</field>
+<field name="composerSort">Berté, Heinrich</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Friedrich Wilhelm Schmiedell</field>
+<field name="librettistSort">Schmiedell, Friedrich Wilhelm</field>
+<field name="theater">Sommertheater</field>
+<field name="city">Baden bei Wien</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bureau+Malicorne+Heinrich+Berté&amp;search_field=search</field>
+</doc>
+</add>

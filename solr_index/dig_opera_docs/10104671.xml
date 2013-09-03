@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104671</field>
+<field name="genre">Operas</field>
+<field name="title">Il nome più glorioso</field>
+<field name="titleSort">nome più glorioso</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1709</field>
+<field name="date">1709</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nome+più+glorioso+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

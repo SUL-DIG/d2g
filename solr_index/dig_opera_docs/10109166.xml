@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109166</field>
+<field name="genre">Operas</field>
+<field name="title">"Lara, ossia Il cavaliere verde</field>
+<field name="titleSort">"Lara, ossia Il cavaliere verde"</field>
+<field name="composer">Paolo Fabrizi</field>
+<field name="composerSort">Fabrizi, Paolo</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Leopoldo Tarantini</field>
+<field name="librettistSort">Tarantini, Leopoldo</field>
+<field name="theater">Teatro de' Nobili</field>
+<field name="city">Spoleto</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lara,+ossia+Il+cavaliere+verde+Paolo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

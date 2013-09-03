@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120077</field>
+<field name="genre">Operas</field>
+<field name="title">Sunday Eyes</field>
+<field name="titleSort">Sunday Eyes</field>
+<field name="composer">Ken Medema</field>
+<field name="composerSort">Medema, Ken</field>
+<field name="year">1983</field>
+<field name="date">1983</field><field name="theater">Grand Canyon College</field>
+<field name="city">Phoenix</field>
+<field name="region">Arizona</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sunday+Eyes+Ken+Medema&amp;search_field=search</field>
+</doc>
+</add>

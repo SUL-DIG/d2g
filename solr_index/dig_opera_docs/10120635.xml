@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120635</field>
+<field name="genre">Operas</field>
+<field name="title">Good Friday</field>
+<field name="titleSort">Good Friday</field>
+<field name="composer">Philip Napier Miles</field>
+<field name="composerSort">Miles, Philip Napier</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">John Masefield</field>
+<field name="librettistSort">Masefield, John</field>
+
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Good+Friday+Philip+Napier+Miles&amp;search_field=search</field>
+</doc>
+</add>

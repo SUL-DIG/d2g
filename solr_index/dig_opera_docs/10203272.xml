@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203272</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Gesù Cristo</field>
+		<field name="titleSort">passione di Gesù Cristo</field>
+		<field name="year">1787</field>
+		
+		
+		<field name="date">1787</field>
+		<field name="composer">Federico Torelli</field>
+		<field name="composerSort">Torelli, Federico</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Gesù+Cristo+Federico+Torelli&amp;search_field=search</field>
+	</doc></add>

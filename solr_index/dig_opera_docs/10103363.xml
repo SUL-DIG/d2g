@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103363</field>
+<field name="genre">Operas</field>
+<field name="title">V pushchakh Poles'ya</field>
+<field name="titleSort">V pushchakh Poles'ya</field>
+<field name="composer">Anatoly Vasil'yevich Bogatïryov</field>
+<field name="composerSort">Bogatïryov, Anatoly Vasil'yevich</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Yevgeny Romanovich</field>
+<field name="librettistSort">Romanovich, Yevgeny</field>
+<field name="librettist">Yakub Kolas</field>
+<field name="librettistSort">Kolas, Yakub</field>
+<field name="theater">Belorusskiy Teatr Operï i Baleta</field>
+<field name="city">Minsk</field>
+<field name="region">Minsk Oblast</field>
+<field name="country">Belarus</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+pushchakh+Poles'ya+Anatoly+Vasil'yevich+Bogatïryov&amp;search_field=search</field>
+</doc>
+</add>

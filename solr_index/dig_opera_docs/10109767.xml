@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109767</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zauberfisch</field>
+<field name="titleSort">Zauberfisch</field>
+<field name="composer">Fidelio Friedrich Finke</field>
+<field name="composerSort">Finke, Fidelio Friedrich</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Wilhelm Hübner</field>
+<field name="librettistSort">Hübner, Wilhelm</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zauberfisch+Fidelio+Friedrich+Finke&amp;search_field=search</field>
+</doc>
+</add>

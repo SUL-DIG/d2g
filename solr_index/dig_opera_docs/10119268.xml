@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119268</field>
+<field name="genre">Operas</field>
+<field name="title">Descends donc d'ton caché</field>
+<field name="titleSort">Descends donc d'ton caché</field>
+<field name="composer">Paul Marcelles</field>
+<field name="composerSort">Marcelles, Paul</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Gaston Guérin</field>
+<field name="librettistSort">Guérin, Gaston</field>
+<field name="librettist">[Victor Nicolaïe] Charles Clairville</field>
+<field name="librettistSort">Clairville, Charles [Victor Nicolaïe]</field>
+<field name="theater">Tréteau de Tabarin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Descends+donc+d'ton+caché+Paul+Marcelles&amp;search_field=search</field>
+</doc>
+</add>

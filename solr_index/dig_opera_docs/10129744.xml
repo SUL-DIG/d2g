@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129744</field>
+<field name="genre">Operas</field>
+<field name="title">Stary mysliwy (The Old Huntsman)</field>
+<field name="titleSort">Stary mysliwy (The Old Huntsman)</field>
+<field name="composer">Jan Stefani</field>
+<field name="composerSort">Stefani, Jan</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Wojciech Pekalski</field>
+<field name="librettistSort">Pekalski, Wojciech</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stary+mysliwy+The+Old+Huntsman+Jan+Stefani&amp;search_field=search</field>
+</doc>
+</add>

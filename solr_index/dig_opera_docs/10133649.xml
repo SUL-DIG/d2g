@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133649</field>
+<field name="genre">Operas</field>
+<field name="title">Das Verlöbnis</field>
+<field name="titleSort">Verlöbnis</field>
+<field name="composer">Winfried Zillig</field>
+<field name="composerSort">Zillig, Winfried</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Richard Billinger</field>
+<field name="librettistSort">Billinger, Richard</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Verlöbnis+Winfried+Zillig&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203545</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Raising of Lazarus</field>
+		<field name="titleSort">Raising of Lazarus</field>
+		<field name="year">1971</field>
+		<field name="month">September</field>
+		<field name="day">30</field>
+		<field name="date">September 30, 1971</field>
+		<field name="composer">John Joubert</field>
+		<field name="composerSort">Joubert, John</field>
+		<field name="librettist">Stephen Tunnicliffe</field>
+		<field name="librettistSort">Tunnicliffe, Stephen</field>
+		
+		<field name="theater">Birmingham Triennial Festival</field>
+		<field name="city">Birmingham</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Raising+of+Lazarus+John+Joubert&amp;search_field=search</field>
+	</doc></add>

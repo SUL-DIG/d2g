@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118858</field>
+<field name="genre">Operas</field>
+<field name="title">Daniela</field>
+<field name="titleSort">Daniela</field>
+<field name="composer">Napoleone Maffezzoli</field>
+<field name="composerSort">Maffezzoli, Napoleone</field>
+<field name="year">1918</field>
+<field name="date">1918</field><field name="theater">Teatro Municipale</field>
+<field name="city">Lima</field>
+
+<field name="country">Peru</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniela+Napoleone+Maffezzoli&amp;search_field=search</field>
+</doc>
+</add>

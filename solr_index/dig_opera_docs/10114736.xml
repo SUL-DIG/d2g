@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114736</field>
+<field name="genre">Operas</field>
+<field name="title">Svat mymovoli (The Reluctant Matchmaker)</field>
+<field name="titleSort">Svat mymovoli (The Reluctant Matchmaker)</field>
+<field name="composer">Vitaly Serhiyovych Hubarenko</field>
+<field name="composerSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Maryna Cherkashyna-Hubarenko</field>
+<field name="librettistSort">Cherkashyna-Hubarenko, Maryna</field>
+<field name="librettist">Hryhoriy Kvitka-Osnovyanenko</field>
+<field name="librettistSort">Kvitka-Osnovyanenko, Hryhoriy</field>
+
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svat+mymovoli+The+Reluctant+Matchmaker+Vitaly+Serhiyovych+Hubarenko&amp;search_field=search</field>
+</doc>
+</add>

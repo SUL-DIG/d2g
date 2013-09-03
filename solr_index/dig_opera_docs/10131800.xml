@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131800</field>
+<field name="genre">Operas</field>
+<field name="title">"Hugh the Drover, or Love in the Stocks</field>
+<field name="titleSort">"Hugh the Drover, or Love in the Stocks"</field>
+<field name="composer">Ralph Vaughan Williams</field>
+<field name="composerSort">Williams, Ralph Vaughan</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Harold Hannyngton Child</field>
+<field name="librettistSort">Child, Harold Hannyngton</field>
+<field name="theater">"His Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hugh+the+Drover,+or+Love+in+the+Stocks+Ralph+Vaughan+Williams&amp;search_field=search</field>
+</doc>
+</add>

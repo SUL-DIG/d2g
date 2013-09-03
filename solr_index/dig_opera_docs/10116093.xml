@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116093</field>
+<field name="genre">Operas</field>
+<field name="title">Der kleine José</field>
+<field name="titleSort">kleine José</field>
+<field name="composer">Johann Baptist Klerr</field>
+<field name="composerSort">Klerr, Johann Baptist</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">[Hippolyte Kneissler] Erik Nessl</field>
+<field name="librettistSort">Nessl, Erik [Hippolyte Kneissler]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+José+Johann+Baptist+Klerr&amp;search_field=search</field>
+</doc>
+</add>

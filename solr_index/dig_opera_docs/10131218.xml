@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131218</field>
+<field name="genre">Operas</field>
+<field name="title">Ippolito ed Aricia</field>
+<field name="titleSort">Ippolito ed Aricia</field>
+<field name="composer">Tommaso Traetta</field>
+<field name="composerSort">Traetta, Tommaso</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Carlo Innocenzo Frugoni</field>
+<field name="librettistSort">Frugoni, Carlo Innocenzo</field>
+<field name="librettist">Simon-Joseph Pellegrin</field>
+<field name="librettistSort">Pellegrin, Simon-Joseph</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ippolito+ed+Aricia+Tommaso+Traetta&amp;search_field=search</field>
+</doc>
+</add>

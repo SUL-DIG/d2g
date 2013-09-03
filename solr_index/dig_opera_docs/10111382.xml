@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111382</field>
+<field name="genre">Operas</field>
+<field name="title">Il matrimonio per inganno</field>
+<field name="titleSort">matrimonio per inganno</field>
+<field name="composer">Giuseppe Gazzaniga</field>
+<field name="composerSort">Gazzaniga, Giuseppe</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+per+inganno+Giuseppe+Gazzaniga&amp;search_field=search</field>
+</doc>
+</add>

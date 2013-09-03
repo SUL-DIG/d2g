@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114319</field>
+<field name="genre">Operas</field>
+<field name="title">Peterl der Schusterbub</field>
+<field name="titleSort">Peterl der Schusterbub</field>
+<field name="composer">O. Hilse</field>
+<field name="composerSort">Hilse, O.</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Thilo Schmidt</field>
+<field name="librettistSort">Schmidt, Thilo</field>
+<field name="librettist">Heinrich Hilmar</field>
+<field name="librettistSort">Hilmar, Heinrich</field>
+<field name="theater">Battenberg-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peterl+der+Schusterbub+O.+Hilse&amp;search_field=search</field>
+</doc>
+</add>

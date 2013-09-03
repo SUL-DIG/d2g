@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117532</field>
+<field name="genre">Operas</field>
+<field name="title">Urgella</field>
+<field name="titleSort">Urgella</field>
+<field name="composer">Raffaelo Lazzari</field>
+<field name="composerSort">Lazzari, Raffaelo</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Alfonso Lazzari</field>
+<field name="librettistSort">Lazzari, Alfonso</field>
+
+<field name="city">Trento</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urgella+Raffaelo+Lazzari&amp;search_field=search</field>
+</doc>
+</add>

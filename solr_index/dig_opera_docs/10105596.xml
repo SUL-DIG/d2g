@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105596</field>
+<field name="genre">Operas</field>
+<field name="title">Curro Vargas</field>
+<field name="titleSort">Curro Vargas</field>
+<field name="composer">Ruperto Chapí y Llorente</field>
+<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Joaquín Dicenta</field>
+<field name="librettistSort">Dicenta, Joaquín</field>
+<field name="librettist">Manuel Paso</field>
+<field name="librettistSort">Paso, Manuel</field>
+<field name="theater">Teatro Parish</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Curro+Vargas+Ruperto+Chapí+y+Llorente&amp;search_field=search</field>
+</doc>
+</add>

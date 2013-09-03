@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120887</field>
+<field name="genre">Operas</field>
+<field name="title">Vénus et Adonis</field>
+<field name="titleSort">Vénus et Adonis</field>
+<field name="composer">Jean-Joseph Cassanéa de Mondonville</field>
+<field name="composerSort">Mondonville, Jean-Joseph Cassanéa de</field>
+<field name="year">1752</field>
+<field name="date">1752</field>
+<field name="librettist">Jean-Baptiste Collet de Messine</field>
+<field name="librettistSort">Collet de Messine, Jean-Baptiste</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vénus+et+Adonis+Jean-Joseph+Cassanéa+de+Mondonville&amp;search_field=search</field>
+</doc>
+</add>

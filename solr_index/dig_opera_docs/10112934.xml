@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112934</field>
+<field name="genre">Operas</field>
+<field name="title">En avant!Marche!Alt!!!</field>
+<field name="titleSort">En avant!Marche!Alt!!!</field>
+<field name="composer">Fulgenzio Guerrieri</field>
+<field name="composerSort">Guerrieri, Fulgenzio</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">__ Andressi</field>
+<field name="librettistSort">Andressi, __</field>
+<field name="theater">Teatro Andreani</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+avant!Marche!Alt!!!+Fulgenzio+Guerrieri&amp;search_field=search</field>
+</doc>
+</add>

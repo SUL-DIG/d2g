@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128258</field>
+<field name="genre">Operas</field>
+<field name="title">Biancafiore</field>
+<field name="titleSort">Biancafiore</field>
+<field name="composer">Alfredo Luis Schiuma</field>
+<field name="composerSort">Schiuma, Alfredo Luis</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Giuseppe Agenor Magno</field>
+<field name="librettistSort">Magno, Giuseppe Agenor</field>
+<field name="theater">Politeama Argentino</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Biancafiore+Alfredo+Luis+Schiuma&amp;search_field=search</field>
+</doc>
+</add>

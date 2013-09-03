@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131850</field>
+<field name="genre">Operas</field>
+<field name="title">Valeria</field>
+<field name="titleSort">Valeria</field>
+<field name="composer">Edoardo Vera</field>
+<field name="composerSort">Vera, Edoardo</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valeria+Edoardo+Vera&amp;search_field=search</field>
+</doc>
+</add>

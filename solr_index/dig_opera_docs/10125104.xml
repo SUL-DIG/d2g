@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125104</field>
+<field name="genre">Operas</field>
+<field name="title">The Belgian Doll</field>
+<field name="titleSort">Belgian Doll</field>
+<field name="composer">William Presser</field>
+<field name="composerSort">Presser, William</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">William Presser</field>
+<field name="librettistSort">Presser, William</field>
+<field name="theater">Florida State University</field>
+<field name="city">Talahassee</field>
+<field name="region">Florida</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Belgian+Doll+William+Presser&amp;search_field=search</field>
+</doc>
+</add>

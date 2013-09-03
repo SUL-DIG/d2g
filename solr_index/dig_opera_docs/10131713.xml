@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131713</field>
+<field name="genre">Operas</field>
+<field name="title">Rosita</field>
+<field name="titleSort">Rosita</field>
+<field name="composer">Henri Varlet</field>
+<field name="composerSort">Varlet, Henri</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Augustin de Pons</field>
+<field name="librettistSort">Pons, Augustin de</field>
+<field name="theater">Cercle de l'Union Artistique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosita+Henri+Varlet&amp;search_field=search</field>
+</doc>
+</add>

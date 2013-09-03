@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101615</field>
+<field name="genre">Operas</field>
+<field name="title">Bianca Capello</field>
+<field name="titleSort">Bianca Capello</field>
+<field name="composer">Alessandro Badiali</field>
+<field name="composerSort">Badiali, Alessandro</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Pellegrino Rosetti</field>
+<field name="librettistSort">Rosetti, Pellegrino</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+Capello+Alessandro+Badiali&amp;search_field=search</field>
+</doc>
+</add>

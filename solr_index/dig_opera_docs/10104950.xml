@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104950</field>
+<field name="genre">Operas</field>
+<field name="title">"Abufar, ossia La famiglia araba</field>
+<field name="titleSort">"Abufar, ossia La famiglia araba"</field>
+<field name="composer">Michele Carafa</field>
+<field name="composerSort">Carafa, Michele</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abufar,+ossia+La+famiglia+araba+Michele+Carafa&amp;search_field=search</field>
+</doc>
+</add>

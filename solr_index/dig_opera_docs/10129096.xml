@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129096</field>
+<field name="genre">Operas</field>
+<field name="title">The Lady of the Lake</field>
+<field name="titleSort">Lady of the Lake</field>
+<field name="composer">Elie Siegmeister</field>
+<field name="composerSort">Siegmeister, Elie</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Edward Mabley</field>
+<field name="librettistSort">Mabley, Edward</field>
+<field name="librettist">Bernard Malamud</field>
+<field name="librettistSort">Malamud, Bernard</field>
+<field name="theater">"Kaufmann Auditorium, 92nd Street Y"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lady+of+the+Lake+Elie+Siegmeister&amp;search_field=search</field>
+</doc>
+</add>

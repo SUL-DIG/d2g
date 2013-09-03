@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119916</field>
+<field name="genre">Operas</field>
+<field name="title">"Hello, World!</field>
+<field name="titleSort">"Hello, World!"</field>
+<field name="composer">William Mayer</field>
+<field name="composerSort">Mayer, William</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Susan Otto</field>
+<field name="librettistSort">Otto, Susan</field>
+<field name="theater">Little Orchestra Society</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hello,+World!+William+Mayer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104860</field>
+<field name="genre">Operas</field>
+<field name="title">Le vieux de la montagne</field>
+<field name="titleSort">vieux de la montagne</field>
+<field name="composer">Gustave Canoby</field>
+<field name="composerSort">Canoby, Gustave</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Georges de Dubor</field>
+<field name="librettistSort">Dubor, Georges de</field>
+<field name="librettist">Charles Fuster</field>
+<field name="librettistSort">Fuster, Charles</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vieux+de+la+montagne+Gustave+Canoby&amp;search_field=search</field>
+</doc>
+</add>

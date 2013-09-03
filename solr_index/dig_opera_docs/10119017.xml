@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119017</field>
+<field name="genre">Operas</field>
+<field name="title">El mondo novo</field>
+<field name="titleSort">mondo novo</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+mondo+novo+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

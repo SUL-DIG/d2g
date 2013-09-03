@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116146</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schinderhannes</field>
+<field name="titleSort">Schinderhannes</field>
+<field name="composer">Gustav Kneip</field>
+<field name="composerSort">Kneip, Gustav</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Willi Schäferdiek</field>
+<field name="librettistSort">Schäferdiek, Willi</field>
+<field name="theater">Badisches Landesbühne</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schinderhannes+Gustav+Kneip&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201441</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Garden of Olivet</field>
+		<field name="titleSort">Garden of Olivet</field>
+		<field name="year">1887</field>
+		<field name="month">October</field>
+		<field name="day">12</field>
+		<field name="date">October 12, 1887</field>
+		<field name="composer">Giovanni Bottesini</field>
+		<field name="composerSort">Bottesini, Giovanni</field>
+		<field name="librettist">Joseph Bennett</field>
+		<field name="librettistSort">Bennett, Joseph</field>
+		
+		<field name="theater">Norfolk and Norwich Triennial Musical Festival</field>
+		<field name="city">Norwich</field>
+		<field name="region">Norfolk</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Agony in the Garden</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Garden+of+Olivet+Giovanni+Bottesini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132302</field>
+<field name="genre">Operas</field>
+<field name="title">Der Freikorporal</field>
+<field name="titleSort">Freikorporal</field>
+<field name="composer">Georg Vollerthun</field>
+<field name="composerSort">Vollerthun, Georg</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="librettist">Gustav Freytag</field>
+<field name="librettistSort">Freytag, Gustav</field>
+<field name="theater">Städtische Opernhaus</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Freikorporal+Georg+Vollerthun&amp;search_field=search</field>
+</doc>
+</add>

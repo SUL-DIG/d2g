@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119484</field>
+<field name="genre">Operas</field>
+<field name="title">Pesnolyubie (Beloved Songs)</field>
+<field name="titleSort">Pesnolyubie (Beloved Songs)</field>
+<field name="composer">Vincent Martín y Soler</field>
+<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Aleksandr Vasileyevich Khrapovitsky</field>
+<field name="librettistSort">Khrapovitsky, Aleksandr Vasileyevich</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pesnolyubie+Beloved+Songs+Vincent+Martín+y+Soler&amp;search_field=search</field>
+</doc>
+</add>

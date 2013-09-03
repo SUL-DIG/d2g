@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105599</field>
+<field name="genre">Operas</field>
+<field name="title">La hija de Jefte</field>
+<field name="titleSort">hija de Jefte</field>
+<field name="composer">Ruperto Chapí y Llorente</field>
+<field name="composerSort">Llorente, Ruperto Chapí y</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">José Jurado de la Parra</field>
+<field name="librettistSort">Jurado de la Parra, José</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+hija+de+Jefte+Ruperto+Chapí+y+Llorente&amp;search_field=search</field>
+</doc>
+</add>

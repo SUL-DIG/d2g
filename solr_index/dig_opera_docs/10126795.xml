@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126795</field>
+<field name="genre">Operas</field>
+<field name="title">"Ciro in Babilonia, ossia La caduta di Baldassare</field>
+<field name="titleSort">"Ciro in Babilonia, ossia La caduta di Baldassare"</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Francesco Aventi</field>
+<field name="librettistSort">Aventi, Francesco</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+in+Babilonia,+ossia+La+caduta+di+Baldassare+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

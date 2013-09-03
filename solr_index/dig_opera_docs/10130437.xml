@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130437</field>
+<field name="genre">Operas</field>
+<field name="title">A biarritzi Vénusz</field>
+<field name="titleSort">biarritzi Vénusz</field>
+<field name="composer">Dezsö Szenkár</field>
+<field name="composerSort">Szenkár, Dezsö</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Andor Kardos</field>
+<field name="librettistSort">Kardos, Andor</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+biarritzi+Vénusz+Dezsö+Szenkár&amp;search_field=search</field>
+</doc>
+</add>

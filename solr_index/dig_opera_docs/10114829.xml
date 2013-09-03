@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114829</field>
+<field name="genre">Operas</field>
+<field name="title">Quo vadis domine</field>
+<field name="titleSort">Quo vadis domine</field>
+<field name="composer">Henry Humphreys</field>
+<field name="composerSort">Humphreys, Henry</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Henry Humphreys</field>
+<field name="librettistSort">Humphreys, Henry</field>
+<field name="librettist">Henryk Sienkiewicz</field>
+<field name="librettistSort">Sienkiewicz, Henryk</field>
+<field name="theater">Saint William's Church</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quo+vadis+domine+Henry+Humphreys&amp;search_field=search</field>
+</doc>
+</add>

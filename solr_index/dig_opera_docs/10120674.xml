@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120674</field>
+<field name="genre">Operas</field>
+<field name="title">The Imaginary Invalid</field>
+<field name="titleSort">Imaginary Invalid</field>
+<field name="composer">Lewis Miller</field>
+<field name="composerSort">Miller, Lewis</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Patrick Goeser</field>
+<field name="librettistSort">Goeser, Patrick</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Fort Hays State College</field>
+<field name="city">Fort Hays</field>
+<field name="region">Kansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Imaginary+Invalid+Lewis+Miller&amp;search_field=search</field>
+</doc>
+</add>

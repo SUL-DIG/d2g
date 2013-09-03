@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107600</field>
+<field name="genre">Operas</field>
+<field name="title">Endymion</field>
+<field name="titleSort">Endymion</field>
+<field name="composer">Henry Desmarets</field>
+<field name="composerSort">Desmarets, Henry</field>
+<field name="year">1686</field>
+<field name="date">1686</field><field name="theater">Théâtre des Grandes Écuries</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Endymion+Henry+Desmarets&amp;search_field=search</field>
+</doc>
+</add>

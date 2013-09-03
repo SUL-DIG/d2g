@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102682</field>
+<field name="genre">Operas</field>
+<field name="title">Kulissengeheimnisse</field>
+<field name="titleSort">Kulissengeheimnisse</field>
+<field name="composer">Heinrich Berté</field>
+<field name="composerSort">Berté, Heinrich</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">Édouard Adénis</field>
+<field name="librettistSort">Adénis, Édouard</field>
+<field name="theater">Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kulissengeheimnisse+Heinrich+Berté&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102760</field>
+<field name="genre">Operas</field>
+<field name="title">Il Cajetto</field>
+<field name="titleSort">Cajetto</field>
+<field name="composer">Ferdinando Bertoni</field>
+<field name="composerSort">Bertoni, Ferdinando</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Antonio Gori</field>
+<field name="librettistSort">Gori, Antonio</field>
+<field name="theater">Palazzo Labia</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Cajetto+Ferdinando+Bertoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204132</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Antonio di Padova</field>
+		<field name="titleSort">Sant' Antonio di Padova</field>
+		<field name="year">1684</field>
+		
+		
+		<field name="date">1684</field>
+		<field name="composer">Leopold I Kaiser von Deutschland</field>
+		<field name="composerSort">Leopold I Kaiser von Deutschland, </field>
+		
+		
+		
+		<field name="city">Linz</field>
+		<field name="region">Oberösterreich</field>
+		<field name="country">Austria</field>
+		<field name="subject">Saint Antony of Padua</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">13</field>
+		<field name="feastDate">June 13</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Antonio+di+Padova+Leopold+I+Kaiser+von+Deutschland&amp;search_field=search</field>
+	</doc></add>

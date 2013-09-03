@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201642</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuditta</field>
+		<field name="titleSort">Giuditta</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Floriano Arresti</field>
+		<field name="composerSort">Arresti, Floriano</field>
+		
+		
+		<field name="theater">Arciconfraternita di Santa Maria della Morte</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuditta+Floriano+Arresti&amp;search_field=search</field>
+	</doc></add>

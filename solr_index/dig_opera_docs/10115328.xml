@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115328</field>
+<field name="genre">Operas</field>
+<field name="title">Caio Mario</field>
+<field name="titleSort">Caio Mario</field>
+<field name="composer">Niccolò Jommelli</field>
+<field name="composerSort">Jommelli, Niccolò</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Gaetano Roccaforte</field>
+<field name="librettistSort">Roccaforte, Gaetano</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caio+Mario+Niccolò+Jommelli&amp;search_field=search</field>
+</doc>
+</add>

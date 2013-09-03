@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105224</field>
+<field name="genre">Operas</field>
+<field name="title">La coupe d'or</field>
+<field name="titleSort">coupe d'or</field>
+<field name="composer">André Casanova</field>
+<field name="composerSort">Casanova, André</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Jean Moal</field>
+<field name="librettistSort">Moal, Jean</field>
+<field name="librettist">Ludwig Tieck</field>
+<field name="librettistSort">Tieck, Ludwig</field>
+<field name="theater">ORTF Television (Office de Radiodiffusion Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+coupe+d'or+André+Casanova&amp;search_field=search</field>
+</doc>
+</add>

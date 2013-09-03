@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204072</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Rita</field>
+		<field name="titleSort">Santa Rita</field>
+		<field name="year">1779</field>
+		
+		
+		<field name="date">1779</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Rita of Cascia</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">May 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Rita+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

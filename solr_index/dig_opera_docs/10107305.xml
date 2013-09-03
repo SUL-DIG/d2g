@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107305</field>
+<field name="genre">Operas</field>
+<field name="title">Lea</field>
+<field name="titleSort">Lea</field>
+<field name="composer">Carlo De Giannetti</field>
+<field name="composerSort">Giannetti, Carlo De</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Emilio Zanardini</field>
+<field name="librettistSort">Zanardini, Emilio</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lea+Carlo+De+Giannetti&amp;search_field=search</field>
+</doc>
+</add>

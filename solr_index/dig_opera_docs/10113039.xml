@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113039</field>
+<field name="genre">Operas</field>
+<field name="title">I viaggiatori ridicoli tornati in Italia</field>
+<field name="titleSort">viaggiatori ridicoli tornati in Italia</field>
+<field name="composer">Pietro Alessandro Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Alessandro</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+viaggiatori+ridicoli+tornati+in+Italia+Pietro+Alessandro+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

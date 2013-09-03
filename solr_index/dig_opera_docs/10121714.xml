@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121714</field>
+<field name="genre">Operas</field>
+<field name="title">Love's Labor's Lost</field>
+<field name="titleSort">Love's Labor's Lost</field>
+<field name="composer">Nicolas Nabokov</field>
+<field name="composerSort">Nabokov, Nicolas</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Wystan Hugh Auden</field>
+<field name="librettistSort">Auden, Wystan Hugh</field>
+<field name="librettist">Chester Kallman</field>
+<field name="librettistSort">Kallman, Chester</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love's+Labor's+Lost+Nicolas+Nabokov&amp;search_field=search</field>
+</doc>
+</add>

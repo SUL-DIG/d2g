@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107067</field>
+<field name="genre">Operas</field>
+<field name="title">Eglé</field>
+<field name="titleSort">Eglé</field>
+<field name="composer">Martin Pierre Dalvimare</field>
+<field name="composerSort">Dalvimare, Martin Pierre</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Martin Pierre Dalvimare</field>
+<field name="librettistSort">Dalvimare, Martin Pierre</field>
+
+<field name="city">Dreux</field>
+<field name="region">Eure-et-Loir</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eglé+Martin+Pierre+Dalvimare&amp;search_field=search</field>
+</doc>
+</add>

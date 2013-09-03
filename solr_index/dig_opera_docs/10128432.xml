@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128432</field>
+<field name="genre">Operas</field>
+<field name="title">Ilja Muromez</field>
+<field name="titleSort">Ilja Muromez</field>
+<field name="composer">Johann Schramek</field>
+<field name="composerSort">Schramek, Johann</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ilja+Muromez+Johann+Schramek&amp;search_field=search</field>
+</doc>
+</add>

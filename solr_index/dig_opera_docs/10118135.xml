@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118135</field>
+<field name="genre">Operas</field>
+<field name="title">Alisia di Rieux</field>
+<field name="titleSort">Alisia di Rieux</field>
+<field name="composer">Giuseppe Lillo</field>
+<field name="composerSort">Lillo, Giuseppe</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alisia+di+Rieux+Giuseppe+Lillo&amp;search_field=search</field>
+</doc>
+</add>

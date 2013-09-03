@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109036</field>
+<field name="genre">Operas</field>
+<field name="title">El recluta</field>
+<field name="titleSort">recluta</field>
+<field name="composer">Ulrich José Espri</field>
+<field name="composerSort">Espri, Ulrich José</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Theodor Llorente</field>
+<field name="librettistSort">Llorente, Theodor</field>
+
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+recluta+Ulrich+José+Espri&amp;search_field=search</field>
+</doc>
+</add>

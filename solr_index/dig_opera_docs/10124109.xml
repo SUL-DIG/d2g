@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124109</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux voisins</field>
+<field name="titleSort">deux voisins</field>
+<field name="composer">Louis Alexandre Piccinni</field>
+<field name="composerSort">Piccinni, Louis Alexandre</field>
+<field name="year">1804</field>
+<field name="date">1804</field><field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+voisins+Louis+Alexandre+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

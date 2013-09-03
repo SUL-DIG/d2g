@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200168</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Amoris crucifixi...triumphus</field>
+		<field name="titleSort">Amoris crucifixi...triumphus</field>
+		<field name="year">1739</field>
+		<field name="month">March</field>
+		<field name="day">21</field>
+		<field name="date">March 21, 1739</field>
+		<field name="composer">Franz Xaver Richter</field>
+		<field name="composerSort">Richter, Franz Xaver</field>
+		<field name="librettist">Joseph Franz von Gondola</field>
+		<field name="librettistSort">Gondola, Joseph Franz von</field>
+		
+		<field name="theater">Benedictine Abbey</field>
+		<field name="city">Ettal</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amoris+crucifixi...triumphus+Franz+Xaver+Richter&amp;search_field=search</field>
+	</doc></add>

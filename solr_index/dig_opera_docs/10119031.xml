@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119031</field>
+<field name="genre">Operas</field>
+<field name="title">Battono alla porta</field>
+<field name="titleSort">Battono alla porta</field>
+<field name="composer">Riccardo Malipiero</field>
+<field name="composerSort">Malipiero, Riccardo</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Dino Buzzati</field>
+<field name="librettistSort">Buzzati, Dino</field>
+<field name="theater">RAI Television (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Battono+alla+porta+Riccardo+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

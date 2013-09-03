@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124370</field>
+<field name="genre">Operas</field>
+<field name="title">I fanciulli redenti</field>
+<field name="titleSort">fanciulli redenti</field>
+<field name="composer">Francesco Pinto</field>
+<field name="composerSort">Pinto, Francesco</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Ettore Boldrini</field>
+<field name="librettistSort">Boldrini, Ettore</field>
+
+<field name="city">Marmirolo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+fanciulli+redenti+Francesco+Pinto&amp;search_field=search</field>
+</doc>
+</add>

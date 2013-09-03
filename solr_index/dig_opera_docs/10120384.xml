@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120384</field>
+<field name="genre">Operas</field>
+<field name="title">Helena</field>
+<field name="titleSort">Helena</field>
+<field name="composer">Aarre Merikanto</field>
+<field name="composerSort">Merikanto, Aarre</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Jalmari Finne</field>
+<field name="librettistSort">Finne, Jalmari</field>
+<field name="theater">Hotel Seurahuone</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helena+Aarre+Merikanto&amp;search_field=search</field>
+</doc>
+</add>

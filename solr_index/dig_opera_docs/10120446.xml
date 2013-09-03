@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120446</field>
+<field name="genre">Operas</field>
+<field name="title">Rosamunde</field>
+<field name="titleSort">Rosamunde</field>
+<field name="composer">Richard Metzdorff</field>
+<field name="composerSort">Metzdorff, Richard</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Wilhelm Fellechner</field>
+<field name="librettistSort">Fellechner, Wilhelm</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosamunde+Richard+Metzdorff&amp;search_field=search</field>
+</doc>
+</add>

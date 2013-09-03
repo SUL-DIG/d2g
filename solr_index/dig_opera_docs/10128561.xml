@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128561</field>
+<field name="genre">Operas</field>
+<field name="title">"Tiridate, ovvero L'amor tirannico</field>
+<field name="titleSort">"Tiridate, ovvero L'amor tirannico"</field>
+<field name="composer">Georg Caspar Schürmann</field>
+<field name="composerSort">Schürmann, Georg Caspar</field>
+<field name="year">1718</field>
+<field name="date">1718</field>
+<field name="librettist">[Sebastiano Biancardi] Domenico Lalli</field>
+<field name="librettistSort">Lalli, Domenico [Sebastiano Biancardi]</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tiridate,+ovvero+L'amor+tirannico+Georg+Caspar+Schürmann&amp;search_field=search</field>
+</doc>
+</add>

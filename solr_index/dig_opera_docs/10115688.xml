@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115688</field>
+<field name="genre">Operas</field>
+<field name="title">La strada</field>
+<field name="titleSort">strada</field>
+<field name="composer">Václav Kaslík</field>
+<field name="composerSort">Kaslík, Václav</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Václav Kaslík</field>
+<field name="librettistSort">Kaslík, Václav</field>
+<field name="librettist">Federico Fellini</field>
+<field name="librettistSort">Fellini, Federico</field>
+<field name="theater">Smetanovo Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+strada+Václav+Kaslík&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117573</field>
+<field name="genre">Operas</field>
+<field name="title">Cinq ans d'entracte</field>
+<field name="titleSort">Cinq ans d'entracte</field>
+<field name="composer">Aimé Leborne</field>
+<field name="composerSort">Leborne, Aimé</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Auguste Féréol</field>
+<field name="librettistSort">Féréol, Auguste</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cinq+ans+d'entracte+Aimé+Leborne&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112513</field>
+<field name="genre">Operas</field>
+<field name="title">La nuit de noces de Beauflanchet</field>
+<field name="titleSort">nuit de noces de Beauflanchet</field>
+<field name="composer">Alphonse Gramet</field>
+<field name="composerSort">Gramet, Alphonse</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Georges Touzé</field>
+<field name="librettistSort">Touzé, Georges</field>
+<field name="librettist">Marguerite Prudhomme</field>
+<field name="librettistSort">Prudhomme, Marguerite</field>
+<field name="theater">Bijou-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuit+de+noces+de+Beauflanchet+Alphonse+Gramet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105095</field>
+<field name="genre">Operas</field>
+<field name="title">Margaret in Fairyland</field>
+<field name="titleSort">Margaret in Fairyland</field>
+<field name="composer">Peter Carroll</field>
+<field name="composerSort">Carroll, Peter</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Tim O'Kelly</field>
+<field name="librettistSort">O'Kelly, Tim</field>
+<field name="theater">Children's Opera</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margaret+in+Fairyland+Peter+Carroll&amp;search_field=search</field>
+</doc>
+</add>

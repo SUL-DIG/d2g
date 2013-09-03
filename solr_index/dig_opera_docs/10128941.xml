@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128941</field>
+<field name="genre">Operas</field>
+<field name="title">La duchessa di Guisa</field>
+<field name="titleSort">duchessa di Guisa</field>
+<field name="composer">Paolo Serrao</field>
+<field name="composerSort">Serrao, Paolo</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+duchessa+di+Guisa+Paolo+Serrao&amp;search_field=search</field>
+</doc>
+</add>

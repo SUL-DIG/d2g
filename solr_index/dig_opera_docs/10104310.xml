@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104310</field>
+<field name="genre">Operas</field>
+<field name="title">Coradin</field>
+<field name="titleSort">Coradin</field>
+<field name="composer">Antonio Bartolomeo Bruni</field>
+<field name="composerSort">Bruni, Antonio Bartolomeo</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">__ Magnitot</field>
+<field name="librettistSort">Magnitot, __</field>
+<field name="librettist">__ Tacusset</field>
+<field name="librettistSort">Tacusset, __</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coradin+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
+</doc>
+</add>

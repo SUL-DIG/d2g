@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100606</field>
+<field name="genre">Operas</field>
+<field name="title">È lui o è lei</field>
+<field name="titleSort">È lui o è lei</field>
+<field name="composer">Roberto Amadei</field>
+<field name="composerSort">Amadei, Roberto</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Giovanni Bartoli</field>
+<field name="librettistSort">Bartoli, Giovanni</field>
+
+<field name="city">Loreto</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=È+lui+o+è+lei+Roberto+Amadei&amp;search_field=search</field>
+</doc>
+</add>

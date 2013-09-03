@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113442</field>
+<field name="genre">Operas</field>
+<field name="title">Malvina</field>
+<field name="titleSort">Malvina</field>
+<field name="composer">Eduard Hamel</field>
+<field name="composerSort">Hamel, Eduard</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Adolf Steppes</field>
+<field name="librettistSort">Steppes, Adolf</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Private Performance</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malvina+Eduard+Hamel&amp;search_field=search</field>
+</doc>
+</add>

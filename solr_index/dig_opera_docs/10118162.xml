@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118162</field>
+<field name="genre">Operas</field>
+<field name="title">Casanova</field>
+<field name="titleSort">Casanova</field>
+<field name="composer">Paul Lincke</field>
+<field name="composerSort">Lincke, Paul</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Jacques Gluck</field>
+<field name="librettistSort">Gluck, Jacques</field>
+<field name="librettist">Willi Sternberg</field>
+<field name="librettistSort">Sternberg, Willi</field>
+<field name="theater">Altes Theater</field>
+<field name="city">Chemnitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casanova+Paul+Lincke&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204172</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saul</field>
+		<field name="titleSort">Saul</field>
+		<field name="year">1833</field>
+		
+		
+		<field name="date">1833</field>
+		<field name="composer">Lauro Rossi</field>
+		<field name="composerSort">Rossi, Lauro</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+Lauro+Rossi&amp;search_field=search</field>
+	</doc></add>

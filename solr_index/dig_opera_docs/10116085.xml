@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116085</field>
+<field name="genre">Operas</field>
+<field name="title">Der Käfig</field>
+<field name="titleSort">Käfig</field>
+<field name="composer">Franz Xaver Kleinheinz</field>
+<field name="composerSort">Kleinheinz, Franz Xaver</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Käfig+Franz+Xaver+Kleinheinz&amp;search_field=search</field>
+</doc>
+</add>

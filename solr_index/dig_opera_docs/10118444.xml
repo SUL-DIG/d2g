@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118444</field>
+<field name="genre">Operas</field>
+<field name="title">Liebesnacht</field>
+<field name="titleSort">Liebesnacht</field>
+<field name="composer">Peter Lordmann</field>
+<field name="composerSort">Lordmann, Peter</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Peter Lordmann</field>
+<field name="librettistSort">Lordmann, Peter</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebesnacht+Peter+Lordmann&amp;search_field=search</field>
+</doc>
+</add>

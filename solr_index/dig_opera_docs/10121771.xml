@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121771</field>
+<field name="genre">Operas</field>
+<field name="title">Anch'io sono l'America</field>
+<field name="titleSort">Anch'io sono l'America</field>
+<field name="composer">Mario Nascimbene</field>
+<field name="composerSort">Nascimbene, Mario</field>
+<field name="year">1969</field>
+<field name="date">1969</field><field name="theater">Teatro Sociale</field>
+<field name="city">Lecco</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anch'io+sono+l'America+Mario+Nascimbene&amp;search_field=search</field>
+</doc>
+</add>

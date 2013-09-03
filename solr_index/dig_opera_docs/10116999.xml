@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116999</field>
+<field name="genre">Operas</field>
+<field name="title">Marilyn</field>
+<field name="titleSort">Marilyn</field>
+<field name="composer">Ezra Laderman</field>
+<field name="composerSort">Laderman, Ezra</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Norman Rosten</field>
+<field name="librettistSort">Rosten, Norman</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marilyn+Ezra+Laderman&amp;search_field=search</field>
+</doc>
+</add>

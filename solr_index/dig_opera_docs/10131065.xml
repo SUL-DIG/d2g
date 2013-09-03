@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131065</field>
+<field name="genre">Operas</field>
+<field name="title">L'élixir du Révérend Père Gaucher</field>
+<field name="titleSort">élixir du Révérend Père Gaucher</field>
+<field name="composer">Henri Tomasi</field>
+<field name="composerSort">Tomasi, Henri</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Léon Bancal</field>
+<field name="librettistSort">Bancal, Léon</field>
+<field name="librettist">Alphonse Daudet</field>
+<field name="librettistSort">Daudet, Alphonse</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'élixir+du+Révérend+Père+Gaucher+Henri+Tomasi&amp;search_field=search</field>
+</doc>
+</add>

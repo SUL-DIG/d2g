@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116113</field>
+<field name="genre">Operas</field>
+<field name="title">Pilenai</field>
+<field name="titleSort">Pilenai</field>
+<field name="composer">Vytautas Klova</field>
+<field name="composerSort">Klova, Vytautas</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Jonas Mackonis</field>
+<field name="librettistSort">Mackonis, Jonas</field>
+<field name="theater">Litovsky Teatr Operï i Baleta</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pilenai+Vytautas+Klova&amp;search_field=search</field>
+</doc>
+</add>

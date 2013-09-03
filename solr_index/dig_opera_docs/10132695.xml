@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132695</field>
+<field name="genre">Operas</field>
+<field name="title">Drei arme Teufel</field>
+<field name="titleSort">Drei arme Teufel</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Rudolf Oesterreicher</field>
+<field name="librettistSort">Oesterreicher, Rudolf</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+arme+Teufel+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

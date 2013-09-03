@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132690</field>
+<field name="genre">Operas</field>
+<field name="title">Der Adjutant</field>
+<field name="titleSort">Adjutant</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Adolf Rupprecht</field>
+<field name="librettistSort">Rupprecht, Adolf</field>
+
+<field name="city">Baden bei Wien</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Adjutant+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

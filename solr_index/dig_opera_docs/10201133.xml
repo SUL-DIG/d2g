@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201133</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'enfance du Christ</field>
+		<field name="titleSort">enfance du Christ</field>
+		<field name="year">1854</field>
+		<field name="month">December</field>
+		<field name="day">12</field>
+		<field name="date">December 12, 1854</field>
+		<field name="composer">Hector Berlioz</field>
+		<field name="composerSort">Berlioz, Hector</field>
+		<field name="librettist">Hector Berlioz</field>
+		<field name="librettistSort">Berlioz, Hector</field>
+		
+		<field name="theater">Salle Herz</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enfance+du+Christ+Hector+Berlioz&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126618</field>
+<field name="genre">Operas</field>
+<field name="title">Auvergnant par amour</field>
+<field name="titleSort">Auvergnant par amour</field>
+<field name="composer">Georges Rose</field>
+<field name="composerSort">Rose, Georges</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Constant Saclé</field>
+<field name="librettistSort">Saclé, Constant</field>
+<field name="theater">Concert de l'Époque</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auvergnant+par+amour+Georges+Rose&amp;search_field=search</field>
+</doc>
+</add>

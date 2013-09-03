@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202656</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di San Terenziano</field>
+		<field name="titleSort">martirio di San Terenziano</field>
+		<field name="year">1718</field>
+		
+		
+		<field name="date">1718</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Giuseppe Piselli</field>
+		<field name="librettistSort">Piselli, Giuseppe</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Terentian</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">1</field>
+		<field name="feastDate">September 1</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+San+Terenziano+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

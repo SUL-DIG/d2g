@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123401</field>
+<field name="genre">Operas</field>
+<field name="title">"L'Idalma, overo Chi la dura la vince</field>
+<field name="titleSort">"Idalma, overo Chi la dura la vince"</field>
+<field name="composer">Bernardo Pasquini</field>
+<field name="composerSort">Pasquini, Bernardo</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Giuseppe Domenico de Totis</field>
+<field name="librettistSort">Totis, Giuseppe Domenico de</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Idalma,+overo+Chi+la+dura+la+vince+Bernardo+Pasquini&amp;search_field=search</field>
+</doc>
+</add>

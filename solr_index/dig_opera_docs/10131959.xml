@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131959</field>
+<field name="genre">Operas</field>
+<field name="title">Uno scherzo per gelosia</field>
+<field name="titleSort">Uno scherzo per gelosia</field>
+<field name="composer">Giuseppe Vicaro</field>
+<field name="composerSort">Vicaro, Giuseppe</field>
+<field name="year">1880</field>
+<field name="date">1880</field><field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Uno+scherzo+per+gelosia+Giuseppe+Vicaro&amp;search_field=search</field>
+</doc>
+</add>

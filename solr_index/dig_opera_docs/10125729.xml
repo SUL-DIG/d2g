@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125729</field>
+<field name="genre">Operas</field>
+<field name="title">Les petits crevés</field>
+<field name="titleSort">petits crevés</field>
+<field name="composer">Willy Redstone</field>
+<field name="composerSort">Redstone, Willy</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">[Georges Thenon] Rip</field>
+<field name="librettistSort">Rip, [Georges Thenon]</field>
+<field name="librettist">Jacques Bousquet</field>
+<field name="librettistSort">Bousquet, Jacques</field>
+<field name="theater">Théâtre des Capucines</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+petits+crevés+Willy+Redstone&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133331</field>
+<field name="genre">Operas</field>
+<field name="title">Zlatka</field>
+<field name="titleSort">Zlatka</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">August Harambasic</field>
+<field name="librettistSort">Harambasic, August</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zlatka+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

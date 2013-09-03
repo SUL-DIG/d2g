@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106361</field>
+<field name="genre">Operas</field>
+<field name="title">Pelope e Ippodamia</field>
+<field name="titleSort">Pelope e Ippodamia</field>
+<field name="composer">Giovanni Paolo Colonna</field>
+<field name="composerSort">Colonna, Giovanni Paolo</field>
+<field name="year">1678</field>
+<field name="date">1678</field>
+<field name="librettist">Antonio Maria Campezzi</field>
+<field name="librettistSort">Campezzi, Antonio Maria</field>
+<field name="theater">Casa Guidetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pelope+e+Ippodamia+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+</doc>
+</add>

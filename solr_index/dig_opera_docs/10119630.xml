@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119630</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spiegelritter</field>
+<field name="titleSort">Spiegelritter</field>
+<field name="composer">Vincenc Masek</field>
+<field name="composerSort">Masek, Vincenc</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Nostitzsches Nationaltheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spiegelritter+Vincenc+Masek&amp;search_field=search</field>
+</doc>
+</add>

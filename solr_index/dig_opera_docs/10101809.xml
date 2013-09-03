@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101809</field>
+<field name="genre">Operas</field>
+<field name="title">Un congrès de modistes</field>
+<field name="titleSort">congrès de modistes</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">[Paul-Aimé Chapelle] Laurencin</field>
+<field name="librettistSort">Laurencin, [Paul-Aimé Chapelle]</field>
+<field name="librettist">[Marc-Antoine-Amédée Michel] Marc-Michel</field>
+<field name="librettistSort">Marc-Michel, [Marc-Antoine-Amédée Michel]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+congrès+de+modistes+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

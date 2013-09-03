@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120592</field>
+<field name="genre">Operas</field>
+<field name="title">Command Performance</field>
+<field name="titleSort">Command Performance</field>
+<field name="composer">Robert Middleton</field>
+<field name="composerSort">Middleton, Robert</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Harold Wendell Smith</field>
+<field name="librettistSort">Smith, Harold Wendell</field>
+<field name="theater">Boston Opera Group</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Command+Performance+Robert+Middleton&amp;search_field=search</field>
+</doc>
+</add>

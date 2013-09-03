@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121403</field>
+<field name="genre">Operas</field>
+<field name="title">Sogno di un giorno</field>
+<field name="titleSort">Sogno di un giorno</field>
+<field name="composer">Pietro de Moucheron</field>
+<field name="composerSort">Moucheron, Pietro de</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Fausto Maruschi</field>
+<field name="librettistSort">Maruschi, Fausto</field>
+<field name="theater">Sala Umberto</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sogno+di+un+giorno+Pietro+de+Moucheron&amp;search_field=search</field>
+</doc>
+</add>

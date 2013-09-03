@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118327</field>
+<field name="genre">Operas</field>
+<field name="title">Robinson Crusoe</field>
+<field name="titleSort">Robinson Crusoe</field>
+<field name="composer">Hans Loewenfeld</field>
+<field name="composerSort">Loewenfeld, Hans</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Adolf Philippi</field>
+<field name="librettistSort">Philippi, Adolf</field>
+<field name="librettist">Wilhelm Hock</field>
+<field name="librettistSort">Hock, Wilhelm</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robinson+Crusoe+Hans+Loewenfeld&amp;search_field=search</field>
+</doc>
+</add>

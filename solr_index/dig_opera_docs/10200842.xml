@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200842</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David penitente</field>
+		<field name="titleSort">David penitente</field>
+		<field name="year">1677</field>
+		
+		
+		<field name="date">1677</field>
+		<field name="composer">Bonaventura Aliotti</field>
+		<field name="composerSort">Aliotti, Bonaventura</field>
+		
+		
+		<field name="theater">Confraternita della Morte</field>
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+penitente+Bonaventura+Aliotti&amp;search_field=search</field>
+	</doc></add>

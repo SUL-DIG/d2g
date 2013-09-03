@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118034</field>
+<field name="genre">Operas</field>
+<field name="title">"Britain's Happiness, a Musical Interlude</field>
+<field name="titleSort">"Britain's Happiness, a Musical Interlude"</field>
+<field name="composer">Richard Leveridge</field>
+<field name="composerSort">Leveridge, Richard</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Peter Anthony Motteux</field>
+<field name="librettistSort">Motteux, Peter Anthony</field>
+<field name="theater">"Theatre Royal, Lincoln's Inn Fields"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Britain's+Happiness,+a+Musical+Interlude+Richard+Leveridge&amp;search_field=search</field>
+</doc>
+</add>

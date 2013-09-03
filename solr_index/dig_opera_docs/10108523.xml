@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108523</field>
+<field name="genre">Operas</field>
+<field name="title">"Almanzor, ou Le triomphe de la gloire</field>
+<field name="titleSort">"Almanzor, ou Le triomphe de la gloire"</field>
+<field name="composer">Charles-François-Honoré Duquesnoy</field>
+<field name="composerSort">Duquesnoy, Charles-François-Honoré</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">__ d'Aumale de Corsenville</field>
+<field name="librettistSort">d'Aumale de Corsenville, __</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almanzor,+ou+Le+triomphe+de+la+gloire+Charles-François-Honoré+Duquesnoy&amp;search_field=search</field>
+</doc>
+</add>

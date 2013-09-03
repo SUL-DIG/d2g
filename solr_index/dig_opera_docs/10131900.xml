@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131900</field>
+<field name="genre">Operas</field>
+<field name="title">Sir Jack O'Lantern</field>
+<field name="titleSort">Sir Jack O'Lantern</field>
+<field name="composer">Henry Vernon</field>
+<field name="composerSort">Vernon, Henry</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Arthur Henry Ward</field>
+<field name="librettistSort">Ward, Arthur Henry</field>
+<field name="theater">Bijou Theatre and Assembly Rooms</field>
+<field name="city">Neath</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sir+Jack+O'Lantern+Henry+Vernon&amp;search_field=search</field>
+</doc>
+</add>

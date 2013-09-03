@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115867</field>
+<field name="genre">Operas</field>
+<field name="title">Rumpelstilzchen</field>
+<field name="titleSort">Rumpelstilzchen</field>
+<field name="composer">Hajo Kelling</field>
+<field name="composerSort">Kelling, Hajo</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Grete Mühlinghaus</field>
+<field name="librettistSort">Mühlinghaus, Grete</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Röntgen-Gymnasiums</field>
+<field name="city">Lennep</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstilzchen+Hajo+Kelling&amp;search_field=search</field>
+</doc>
+</add>

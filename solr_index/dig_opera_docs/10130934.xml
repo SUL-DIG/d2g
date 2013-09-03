@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130934</field>
+<field name="genre">Operas</field>
+<field name="title">Solomon and Balkis</field>
+<field name="titleSort">Solomon and Balkis</field>
+<field name="composer">Randall Thompson</field>
+<field name="composerSort">Thompson, Randall</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Randall Thompson</field>
+<field name="librettistSort">Thompson, Randall</field>
+<field name="librettist">Rudyard Kipling</field>
+<field name="librettistSort">Kipling, Rudyard</field>
+<field name="theater">CBS Radio (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solomon+and+Balkis+Randall+Thompson&amp;search_field=search</field>
+</doc>
+</add>

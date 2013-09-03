@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121002</field>
+<field name="genre">Operas</field>
+<field name="title">Jephté</field>
+<field name="titleSort">Jephté</field>
+<field name="composer">Michel Pignolet de Montclair</field>
+<field name="composerSort">Montclair, Michel Pignolet de</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Simon-Joseph Pellegrin</field>
+<field name="librettistSort">Pellegrin, Simon-Joseph</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jephté+Michel+Pignolet+de+Montclair&amp;search_field=search</field>
+</doc>
+</add>

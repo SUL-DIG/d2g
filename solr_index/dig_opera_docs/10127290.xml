@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127290</field>
+<field name="genre">Operas</field>
+<field name="title">Aspasie</field>
+<field name="titleSort">Aspasie</field>
+<field name="composer">Louis Joseph Saint-Amans</field>
+<field name="composerSort">Saint-Amans, Louis Joseph</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aspasie+Louis+Joseph+Saint-Amans&amp;search_field=search</field>
+</doc>
+</add>

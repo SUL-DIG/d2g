@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129121</field>
+<field name="genre">Operas</field>
+<field name="title">Edalide e Cambise</field>
+<field name="titleSort">Edalide e Cambise</field>
+<field name="composer">João Cordeiro da Silva</field>
+<field name="composerSort">Silva, João Cordeiro da</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Gaetano Martinelli</field>
+<field name="librettistSort">Martinelli, Gaetano</field>
+<field name="theater">Palácio de Ajuda</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edalide+e+Cambise+João+Cordeiro+da+Silva&amp;search_field=search</field>
+</doc>
+</add>

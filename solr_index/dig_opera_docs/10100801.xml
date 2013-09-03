@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100801</field>
+<field name="genre">Operas</field>
+<field name="title">L'Innocente</field>
+<field name="titleSort">Innocente</field>
+<field name="composer">Andrea d'Angeli</field>
+<field name="composerSort">d'Angeli, Andrea</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Andrea d'Angeli</field>
+<field name="librettistSort">d'Angeli, Andrea</field>
+<field name="theater">Teatro Carlo Alberto</field>
+<field name="city">Novi Ligure</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Innocente+Andrea+d'Angeli&amp;search_field=search</field>
+</doc>
+</add>

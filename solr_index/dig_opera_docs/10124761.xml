@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124761</field>
+<field name="genre">Operas</field>
+<field name="title">La contrainte</field>
+<field name="titleSort">contrainte</field>
+<field name="composer">Eugène Poncin</field>
+<field name="composerSort">Poncin, Eugène</field>
+<field name="year">1881</field>
+<field name="date">1881</field><field name="theater">Concert de la Pépinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contrainte+Eugène+Poncin&amp;search_field=search</field>
+</doc>
+</add>

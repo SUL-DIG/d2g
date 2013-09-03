@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128514</field>
+<field name="genre">Operas</field>
+<field name="title">Schwarzer Peter</field>
+<field name="titleSort">Schwarzer Peter</field>
+<field name="composer">Norbert Schultze</field>
+<field name="composerSort">Schultze, Norbert</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Walter Lieck</field>
+<field name="librettistSort">Lieck, Walter</field>
+<field name="librettist">Heinrich Traulsen</field>
+<field name="librettistSort">Traulsen, Heinrich</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schwarzer+Peter+Norbert+Schultze&amp;search_field=search</field>
+</doc>
+</add>

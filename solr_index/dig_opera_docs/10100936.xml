@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100936</field>
+<field name="genre">Operas</field>
+<field name="title">Helena</field>
+<field name="titleSort">Helena</field>
+<field name="composer">João Gomes de Araújo</field>
+<field name="composerSort">Araújo, João Gomes de</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Bento de Camargo</field>
+<field name="librettistSort">Camargo, Bento de</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">São Paulo</field>
+<field name="region">São Paulo</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helena+João+Gomes+de+Araújo&amp;search_field=search</field>
+</doc>
+</add>

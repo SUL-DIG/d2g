@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126361</field>
+<field name="genre">Operas</field>
+<field name="title">On demande une institutrice</field>
+<field name="titleSort">On demande une institutrice</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Eugène de Richemont</field>
+<field name="librettistSort">Richemont, Eugène de</field>
+<field name="theater">Théâtre du Luxembourg</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=On+demande+une+institutrice+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

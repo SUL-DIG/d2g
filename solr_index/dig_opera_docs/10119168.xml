@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119168</field>
+<field name="genre">Operas</field>
+<field name="title">Malia</field>
+<field name="titleSort">Malia</field>
+<field name="composer">Alfredo Manini</field>
+<field name="composerSort">Manini, Alfredo</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">[Carlo Dossi] Alberto Pisani</field>
+<field name="librettistSort">Pisani, Alberto [Carlo Dossi]</field>
+<field name="theater">Teatro Goldoni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malia+Alfredo+Manini&amp;search_field=search</field>
+</doc>
+</add>

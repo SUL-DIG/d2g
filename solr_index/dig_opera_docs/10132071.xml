@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132071</field>
+<field name="genre">Operas</field>
+<field name="title">L'innocenza giustificata</field>
+<field name="titleSort">innocenza giustificata</field>
+<field name="composer">Benedetto Vinaccesi</field>
+<field name="composerSort">Vinaccesi, Benedetto</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Francesco Silvani</field>
+<field name="librettistSort">Silvani, Francesco</field>
+<field name="theater">Teatro Vendramin di San Salvatore</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'innocenza+giustificata+Benedetto+Vinaccesi&amp;search_field=search</field>
+</doc>
+</add>

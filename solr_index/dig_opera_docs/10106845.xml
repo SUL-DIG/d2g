@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106845</field>
+<field name="genre">Operas</field>
+<field name="title">"Saute, marquis!</field>
+<field name="titleSort">"Saute, marquis!"</field>
+<field name="composer">Paul Cressonois</field>
+<field name="composerSort">Cressonois, Paul</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Jules Truffier</field>
+<field name="librettistSort">Truffier, Jules</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saute,+marquis!+Paul+Cressonois&amp;search_field=search</field>
+</doc>
+</add>

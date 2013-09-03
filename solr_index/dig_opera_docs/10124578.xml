@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124578</field>
+<field name="genre">Operas</field>
+<field name="title">La surprise de l'amour</field>
+<field name="titleSort">surprise de l'amour</field>
+<field name="composer">Ferdinand Poise</field>
+<field name="composerSort">Poise, Ferdinand</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Charles Pierre Monselet</field>
+<field name="librettistSort">Monselet, Charles Pierre</field>
+<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+surprise+de+l'amour+Ferdinand+Poise&amp;search_field=search</field>
+</doc>
+</add>

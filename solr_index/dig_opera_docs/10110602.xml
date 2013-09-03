@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110602</field>
+<field name="genre">Operas</field>
+<field name="title">Goburge dans l'isle des falots</field>
+<field name="titleSort">Goburge dans l'isle des falots</field>
+<field name="composer">__ Froment</field>
+<field name="composerSort">Froment, __</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">François Marie Mayeur de Saint-Paul</field>
+<field name="librettistSort">Mayeur de Saint-Paul, François Marie</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goburge+dans+l'isle+des+falots+__+Froment&amp;search_field=search</field>
+</doc>
+</add>

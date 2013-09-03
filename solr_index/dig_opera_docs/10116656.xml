@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116656</field>
+<field name="genre">Operas</field>
+<field name="title">Herkules unter den Amazonen</field>
+<field name="titleSort">Herkules unter den Amazonen</field>
+<field name="composer">Johann Philipp Krieger</field>
+<field name="composerSort">Krieger, Johann Philipp</field>
+<field name="year">1693</field>
+<field name="date">1693</field>
+<field name="librettist">Friedrich Christian Bressand</field>
+<field name="librettistSort">Bressand, Friedrich Christian</field>
+<field name="theater">Neu-Augustusburg Schlosstheater</field>
+<field name="city">Weissenfels</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Herkules+unter+den+Amazonen+Johann+Philipp+Krieger&amp;search_field=search</field>
+</doc>
+</add>

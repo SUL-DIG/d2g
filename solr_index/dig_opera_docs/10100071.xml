@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100071</field>
+<field name="genre">Operas</field>
+<field name="title">Il marchese di Castelverde</field>
+<field name="titleSort">marchese di Castelverde</field>
+<field name="composer">Agostino Accorimboni</field>
+<field name="composerSort">Accorimboni, Agostino</field>
+<field name="year">1779</field>
+<field name="date">1779</field><field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+marchese+di+Castelverde+Agostino+Accorimboni&amp;search_field=search</field>
+</doc>
+</add>

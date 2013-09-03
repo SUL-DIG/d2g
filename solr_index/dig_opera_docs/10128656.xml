@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128656</field>
+<field name="genre">Operas</field>
+<field name="title">Die Dorfgala</field>
+<field name="titleSort">Dorfgala</field>
+<field name="composer">Anton Schweitzer</field>
+<field name="composerSort">Schweitzer, Anton</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Friedrich Wilhelm Gotter</field>
+<field name="librettistSort">Gotter, Friedrich Wilhelm</field>
+<field name="theater">Wilhelmsburg Schlosstheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Dorfgala+Anton+Schweitzer&amp;search_field=search</field>
+</doc>
+</add>

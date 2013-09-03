@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102149</field>
+<field name="genre">Operas</field>
+<field name="title">The Magic Mirror</field>
+<field name="titleSort">Magic Mirror</field>
+<field name="composer">Wheeler Beckett</field>
+<field name="composerSort">Beckett, Wheeler</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Constance D'Arcy Mackay</field>
+<field name="librettistSort">Mackay, Constance D'Arcy</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Mosque Theater</field>
+<field name="city">Newark</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Magic+Mirror+Wheeler+Beckett&amp;search_field=search</field>
+</doc>
+</add>

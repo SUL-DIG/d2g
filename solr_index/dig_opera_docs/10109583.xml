@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109583</field>
+<field name="genre">Operas</field>
+<field name="title">Il pastor regio</field>
+<field name="titleSort">pastor regio</field>
+<field name="composer">Benedetto Ferrari</field>
+<field name="composerSort">Ferrari, Benedetto</field>
+<field name="year">1640</field>
+<field name="date">1640</field>
+<field name="librettist">Benedetto Ferrari</field>
+<field name="librettistSort">Ferrari, Benedetto</field>
+<field name="theater">Teatro di San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pastor+regio+Benedetto+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

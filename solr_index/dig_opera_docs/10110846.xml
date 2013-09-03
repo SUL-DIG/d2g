@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110846</field>
+<field name="genre">Operas</field>
+<field name="title">"Der kleine Page, oder Das Stadtgefängis</field>
+<field name="titleSort">"kleine Page, oder Das Stadtgefängis"</field>
+<field name="composer">Wenzel Robert Gallenberg</field>
+<field name="composerSort">Gallenberg, Wenzel Robert</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Joseph von Seyfried</field>
+<field name="librettistSort">Seyfried, Joseph von</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+Page,+oder+Das+Stadtgefängis+Wenzel+Robert+Gallenberg&amp;search_field=search</field>
+</doc>
+</add>

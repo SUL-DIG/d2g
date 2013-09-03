@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130267</field>
+<field name="genre">Operas</field>
+<field name="title">Manto la fée</field>
+<field name="titleSort">Manto la fée</field>
+<field name="composer">Jean-Baptiste Stuck</field>
+<field name="composerSort">Stuck, Jean-Baptiste</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">__ Mennesson</field>
+<field name="librettistSort">Mennesson, __</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manto+la+fée+Jean-Baptiste+Stuck&amp;search_field=search</field>
+</doc>
+</add>

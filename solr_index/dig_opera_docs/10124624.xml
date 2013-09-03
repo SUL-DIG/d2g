@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124624</field>
+<field name="genre">Operas</field>
+<field name="title">The Troublemaker</field>
+<field name="titleSort">Troublemaker</field>
+<field name="composer">Tibor Polgar</field>
+<field name="composerSort">Polgar, Tibor</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Jenö Mohacsi</field>
+<field name="librettistSort">Mohacsi, Jenö"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Troublemaker+Tibor+Polgar&amp;search_field=search</field>
+</doc>
+</add>

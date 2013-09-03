@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116877</field>
+<field name="genre">Operas</field>
+<field name="title">Muumiooppera (Moomin Opera)</field>
+<field name="titleSort">Muumiooppera (Moomin Opera)</field>
+<field name="composer">Ilkka Kuusisto</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Tove Jansson</field>
+<field name="librettistSort">Jansson, Tove</field>
+<field name="librettist">Esko Elstelä</field>
+<field name="librettistSort">Elstelä, Esko</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Muumiooppera+Moomin+Opera+Ilkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

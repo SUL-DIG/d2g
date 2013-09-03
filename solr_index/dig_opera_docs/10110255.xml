@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110255</field>
+<field name="genre">Operas</field>
+<field name="title">Silvano da Montedoro</field>
+<field name="titleSort">Silvano da Montedoro</field>
+<field name="composer">Augusto Forni</field>
+<field name="composerSort">Forni, Augusto</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="city">Medicina</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvano+da+Montedoro+Augusto+Forni&amp;search_field=search</field>
+</doc>
+</add>

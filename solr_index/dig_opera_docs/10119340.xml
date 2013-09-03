@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119340</field>
+<field name="genre">Operas</field>
+<field name="title">Dal sogno alla vita</field>
+<field name="titleSort">Dal sogno alla vita</field>
+<field name="composer">Virginia Mariani</field>
+<field name="composerSort">Mariani, Virginia</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">[Felice Pozza] Fulvio Fulgonio</field>
+<field name="librettistSort">Fulgonio, Fulvio [Felice Pozza]</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Vercelli</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dal+sogno+alla+vita+Virginia+Mariani&amp;search_field=search</field>
+</doc>
+</add>

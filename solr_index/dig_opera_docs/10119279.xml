@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119279</field>
+<field name="genre">Operas</field>
+<field name="title">La morte di Adone</field>
+<field name="titleSort">morte di Adone</field>
+<field name="composer">Benedetto Marcello</field>
+<field name="composerSort">Marcello, Benedetto</field>
+<field name="year">1729</field>
+<field name="date">1729</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+di+Adone+Benedetto+Marcello&amp;search_field=search</field>
+</doc>
+</add>

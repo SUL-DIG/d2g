@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112771</field>
+<field name="genre">Operas</field>
+<field name="title">Die Königin von 24 Jahren</field>
+<field name="titleSort">Königin von 24 Jahren</field>
+<field name="composer">Johann Grill</field>
+<field name="composerSort">Grill, Johann</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Carl Wilhelm Koch</field>
+<field name="librettistSort">Koch, Carl Wilhelm</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Königin+von+24+Jahren+Johann+Grill&amp;search_field=search</field>
+</doc>
+</add>

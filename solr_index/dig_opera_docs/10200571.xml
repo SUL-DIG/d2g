@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200571</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le chatiment</field>
+		<field name="titleSort">chatiment</field>
+		<field name="year">1902</field>
+		
+		
+		<field name="date">1902</field>
+		<field name="composer">Léon Skilmans</field>
+		<field name="composerSort">Skilmans, Léon</field>
+		<field name="librettist">L. Dussoubz</field>
+		<field name="librettistSort">Dussoubz, L.</field>
+		
+		
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chatiment+Léon+Skilmans&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125605</field>
+<field name="genre">Operas</field>
+<field name="title">I Mimi (Giuocco di maschera)</field>
+<field name="titleSort">Mimi (Giuocco di maschera)</field>
+<field name="composer">Gaetano Rapisarda</field>
+<field name="composerSort">Rapisarda, Gaetano</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Augusto Algiator</field>
+<field name="librettistSort">Algiator, Augusto</field>
+<field name="theater">Teatro Massimo</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Mimi+Giuocco+di+maschera+Gaetano+Rapisarda&amp;search_field=search</field>
+</doc>
+</add>

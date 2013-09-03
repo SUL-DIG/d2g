@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125861</field>
+<field name="genre">Operas</field>
+<field name="title">O diabrete</field>
+<field name="titleSort">diabrete</field>
+<field name="composer">Francisco Alves Rente</field>
+<field name="composerSort">Rente, Francisco Alves</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Manuel Maria Rodrigues</field>
+<field name="librettistSort">Rodrigues, Manuel Maria</field>
+
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+diabrete+Francisco+Alves+Rente&amp;search_field=search</field>
+</doc>
+</add>

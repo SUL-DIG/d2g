@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105031</field>
+<field name="genre">Operas</field>
+<field name="title">Bice del Balzo</field>
+<field name="titleSort">Bice del Balzo</field>
+<field name="composer">Oreste Carlini</field>
+<field name="composerSort">Carlini, Oreste</field>
+<field name="year">1853</field>
+<field name="date">1853</field><field name="theater">Teatro Petrarca</field>
+<field name="city">Arezzo</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bice+del+Balzo+Oreste+Carlini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103791</field>
+<field name="genre">Operas</field>
+<field name="title">La crociata degli innocenti</field>
+<field name="titleSort">crociata degli innocenti</field>
+<field name="composer">Renzo Bossi</field>
+<field name="composerSort">Bossi, Renzo</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Eligio Possenti</field>
+<field name="librettistSort">Possenti, Eligio</field>
+<field name="librettist">Gabriele d'Annunzio</field>
+<field name="librettistSort">d'Annunzio, Gabriele</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+crociata+degli+innocenti+Renzo+Bossi&amp;search_field=search</field>
+</doc>
+</add>

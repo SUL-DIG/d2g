@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113572</field>
+<field name="genre">Operas</field>
+<field name="title">Una noche en Loreto</field>
+<field name="titleSort">noche en Loreto</field>
+<field name="composer">Francisco Hargreaves</field>
+<field name="composerSort">Hargreaves, Francisco</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Angel Menchaca</field>
+<field name="librettistSort">Menchaca, Angel</field>
+<field name="theater">Teatro Onrubia</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+noche+en+Loreto+Francisco+Hargreaves&amp;search_field=search</field>
+</doc>
+</add>

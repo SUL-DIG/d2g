@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102526</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo d'Imeneo</field>
+<field name="titleSort">trionfo d'Imeneo</field>
+<field name="composer">Giuseppe Antonio Bernabei</field>
+<field name="composerSort">Bernabei, Giuseppe Antonio</field>
+<field name="year">1688</field>
+<field name="date">1688</field>
+<field name="librettist">Luigi Orlandi</field>
+<field name="librettistSort">Orlandi, Luigi</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+d'Imeneo+Giuseppe+Antonio+Bernabei&amp;search_field=search</field>
+</doc>
+</add>

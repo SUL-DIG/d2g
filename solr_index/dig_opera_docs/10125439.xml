@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125439</field>
+<field name="genre">Operas</field>
+<field name="title">Strasidlo ve mlejne</field>
+<field name="titleSort">Strasidlo ve mlejne</field>
+<field name="composer">Karel Frantisek Rafael</field>
+<field name="composerSort">Rafael, Karel Frantisek</field>
+<field name="year">1814</field>
+<field name="date">1814</field><field name="theater">Reduta Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Strasidlo+ve+mlejne+Karel+Frantisek+Rafael&amp;search_field=search</field>
+</doc>
+</add>

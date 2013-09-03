@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203962</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Sansone</field>
+		<field name="titleSort">Sansone</field>
+		<field name="year">1677</field>
+		
+		
+		<field name="date">1677</field>
+		<field name="composer">Giovanni Paolo Colonna</field>
+		<field name="composerSort">Colonna, Giovanni Paolo</field>
+		<field name="librettist">Benedetto Giuseppe Balbi</field>
+		<field name="librettistSort">Balbi, Benedetto Giuseppe</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Samson</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Sansone+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+	</doc></add>

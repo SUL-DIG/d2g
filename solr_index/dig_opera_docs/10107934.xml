@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107934</field>
+<field name="genre">Operas</field>
+<field name="title">"Alina, regina di Golconda</field>
+<field name="titleSort">"Alina, regina di Golconda"</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alina,+regina+di+Golconda+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

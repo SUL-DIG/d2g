@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125621</field>
+<field name="genre">Operas</field>
+<field name="title">"La schiava circassa, ossia Imene e virtù</field>
+<field name="titleSort">"schiava circassa, ossia Imene e virtù"</field>
+<field name="composer">Joseph Rastrelli</field>
+<field name="composerSort">Rastrelli, Joseph</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Enrico Celani</field>
+<field name="librettistSort">Celani, Enrico</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+schiava+circassa,+ossia+Imene+e+virtù+Joseph+Rastrelli&amp;search_field=search</field>
+</doc>
+</add>

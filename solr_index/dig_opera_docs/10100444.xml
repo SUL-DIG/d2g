@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100444</field>
+<field name="genre">Operas</field>
+<field name="title">Levsha (Lefty)</field>
+<field name="titleSort">Levsha (Lefty)</field>
+<field name="composer">Anatoly Nikolayevich Aleksandrov</field>
+<field name="composerSort">Aleksandrov, Anatoly Nikolayevich</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Roksana Sats-Karpova</field>
+<field name="librettistSort">Sats-Karpova, Roksana</field>
+<field name="librettist">Nikolay Semyonovich Leskov</field>
+<field name="librettistSort">Leskov, Nikolay Semyonovich</field>
+<field name="theater">Detskiy Muzïkal'nïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Levsha+Lefty+Anatoly+Nikolayevich+Aleksandrov&amp;search_field=search</field>
+</doc>
+</add>

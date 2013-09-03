@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106637</field>
+<field name="genre">Operas</field>
+<field name="title">Der Barbier von Bagdad</field>
+<field name="titleSort">Barbier von Bagdad</field>
+<field name="composer">Peter Cornelius</field>
+<field name="composerSort">Cornelius, Peter</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Peter Cornelius</field>
+<field name="librettistSort">Cornelius, Peter</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Barbier+von+Bagdad+Peter+Cornelius&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114283</field>
+<field name="genre">Operas</field>
+<field name="title">Une aventure d'Arlequin</field>
+<field name="titleSort">aventure d'Arlequin</field>
+<field name="composer">Paul Hillemacher</field>
+<field name="composerSort">Hillemacher, Paul</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Louis Judicis</field>
+<field name="librettistSort">Judicis, Louis</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+aventure+d'Arlequin+Paul+Hillemacher&amp;search_field=search</field>
+</doc>
+</add>

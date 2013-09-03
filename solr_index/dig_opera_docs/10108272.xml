@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108272</field>
+<field name="genre">Operas</field>
+<field name="title">The Blind Girl of Castel-Cuillé</field>
+<field name="titleSort">Blind Girl of Castel-Cuillé</field>
+<field name="composer">Earl Ross Drake</field>
+<field name="composerSort">Drake, Earl Ross</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Henry Wadsworth Longfellow</field>
+<field name="librettistSort">Longfellow, Henry Wadsworth</field>
+<field name="librettist">Jacques Jasmin</field>
+<field name="librettistSort">Jasmin, Jacques</field>
+<field name="theater">Globe Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blind+Girl+of+Castel-Cuillé+Earl+Ross+Drake&amp;search_field=search</field>
+</doc>
+</add>

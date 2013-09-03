@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101900</field>
+<field name="genre">Operas</field>
+<field name="title">Fair Rosamond</field>
+<field name="titleSort">Fair Rosamond</field>
+<field name="composer">John Barnett</field>
+<field name="composerSort">Barnett, John</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Charles Zachary Barnett</field>
+<field name="librettistSort">Barnett, Charles Zachary</field>
+<field name="librettist">Mrs. F. S. Shannon</field>
+<field name="librettistSort">Shannon, Mrs. F. S.</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fair+Rosamond+John+Barnett&amp;search_field=search</field>
+</doc>
+</add>

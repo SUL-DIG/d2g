@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130493</field>
+<field name="genre">Operas</field>
+<field name="title">Il credulo deluso</field>
+<field name="titleSort">credulo deluso</field>
+<field name="composer">Giovanni Tadolini</field>
+<field name="composerSort">Tadolini, Giovanni</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Cesare Sterbini</field>
+<field name="librettistSort">Sterbini, Cesare</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+credulo+deluso+Giovanni+Tadolini&amp;search_field=search</field>
+</doc>
+</add>

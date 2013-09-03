@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101250</field>
+<field name="genre">Operas</field>
+<field name="title">Thrymskvioa (The Lay of Thrym)</field>
+<field name="titleSort">Thrymskvioa (The Lay of Thrym)</field>
+<field name="composer">Jón Ásgeirsson</field>
+<field name="composerSort">Ásgeirsson, Jón</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Elder Edda</field>
+<field name="librettistSort">Edda, Elder</field>
+<field name="theater">National Theater</field>
+<field name="city">Reykjavik</field>
+
+<field name="country">Iceland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thrymskvioa+The+Lay+of+Thrym+Jón+Ásgeirsson&amp;search_field=search</field>
+</doc>
+</add>

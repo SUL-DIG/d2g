@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131220</field>
+<field name="genre">Operas</field>
+<field name="title">Lucio Vero</field>
+<field name="titleSort">Lucio Vero</field>
+<field name="composer">Tommaso Traetta</field>
+<field name="composerSort">Traetta, Tommaso</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Vero+Tommaso+Traetta&amp;search_field=search</field>
+</doc>
+</add>

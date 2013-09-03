@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100246</field>
+<field name="genre">Operas</field>
+<field name="title">Salibene und Rosimene</field>
+<field name="titleSort">Salibene und Rosimene</field>
+<field name="composer">Johann Paul Agricola</field>
+<field name="composerSort">Agricola, Johann Paul</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="librettist">Christian Schlegel</field>
+<field name="librettistSort">Schlegel, Christian</field>
+
+<field name="city">Neuburg an der Donau</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salibene+und+Rosimene+Johann+Paul+Agricola&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126385</field>
+<field name="genre">Operas</field>
+<field name="title">The Princess Beggar</field>
+<field name="titleSort">Princess Beggar</field>
+<field name="composer">Alfred George Robyn</field>
+<field name="composerSort">Robyn, Alfred George</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Edward Paulton</field>
+<field name="librettistSort">Paulton, Edward</field>
+
+<field name="city">Utica</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Princess+Beggar+Alfred+George+Robyn&amp;search_field=search</field>
+</doc>
+</add>

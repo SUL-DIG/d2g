@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102338</field>
+<field name="genre">Operas</field>
+<field name="title">Quid Pro Quo</field>
+<field name="titleSort">Quid Pro Quo</field>
+<field name="composer">Wilfred Bendall</field>
+<field name="composerSort">Bendall, Wilfred</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Cunningham V. Bridgman</field>
+<field name="librettistSort">Bridgman, Cunningham V.</field>
+<field name="librettist">Rutland Barrington</field>
+<field name="librettistSort">Barrett, Edward</field>
+<field name="theater">Opera Comique Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quid+Pro+Quo+Wilfred+Bendall&amp;search_field=search</field>
+</doc>
+</add>

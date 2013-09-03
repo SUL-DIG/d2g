@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108598</field>
+<field name="genre">Operas</field>
+<field name="title">De Zoete in val</field>
+<field name="titleSort">Zoete in val</field>
+<field name="composer">Florimond van Duyse</field>
+<field name="composerSort">Duyse, Florimond van</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Karel Versnaeyen</field>
+<field name="librettistSort">Versnaeyen, Karel</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Zoete+in+val+Florimond+van+Duyse&amp;search_field=search</field>
+</doc>
+</add>

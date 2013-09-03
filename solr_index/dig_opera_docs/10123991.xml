@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123991</field>
+<field name="genre">Operas</field>
+<field name="title">La maladetta</field>
+<field name="titleSort">maladetta</field>
+<field name="composer">Giovanni Petrucci</field>
+<field name="composerSort">Petrucci, Giovanni</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Lodovico Correggiari</field>
+<field name="librettistSort">Correggiari, Lodovico</field>
+
+<field name="city">Barletta</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maladetta+Giovanni+Petrucci&amp;search_field=search</field>
+</doc>
+</add>

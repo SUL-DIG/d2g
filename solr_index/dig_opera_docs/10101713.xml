@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101713</field>
+<field name="genre">Operas</field>
+<field name="title">Idylle au Maroc</field>
+<field name="titleSort">Idylle au Maroc</field>
+<field name="composer">Louis Balleron</field>
+<field name="composerSort">Balleron, Louis</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">__ Néri</field>
+<field name="librettistSort">Néri, __</field>
+
+<field name="city">Brézolles</field>
+<field name="region">Eure-et-Loir</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idylle+au+Maroc+Louis+Balleron&amp;search_field=search</field>
+</doc>
+</add>

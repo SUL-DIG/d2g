@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114700</field>
+<field name="genre">Operas</field>
+<field name="title">Etchmiadzin</field>
+<field name="titleSort">Etchmiadzin</field>
+<field name="composer">Alan Hovhaness</field>
+<field name="composerSort">Hovhaness, Alan</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Alan Hovhaness</field>
+<field name="librettistSort">Hovhaness, Alan</field>
+<field name="theater">Saint Vartan's Cathedral</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Etchmiadzin+Alan+Hovhaness&amp;search_field=search</field>
+</doc>
+</add>

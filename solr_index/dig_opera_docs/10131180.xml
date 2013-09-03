@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131180</field>
+<field name="genre">Operas</field>
+<field name="title">I due ragazzi savoiardi</field>
+<field name="titleSort">due ragazzi savoiardi</field>
+<field name="composer">Antonio Tozzi</field>
+<field name="composerSort">Tozzi, Antonio</field>
+<field name="year">1794</field>
+<field name="date">1794</field><field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+ragazzi+savoiardi+Antonio+Tozzi&amp;search_field=search</field>
+</doc>
+</add>

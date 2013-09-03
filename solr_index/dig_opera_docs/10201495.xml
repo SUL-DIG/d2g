@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201495</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Gerusalemme distrutta</field>
+		<field name="titleSort">Gerusalemme distrutta</field>
+		<field name="year">1794</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1794</field>
+		<field name="composer">Niccolò Antonio Zingarelli</field>
+		<field name="composerSort">Zingarelli, Niccolò Antonio</field>
+		<field name="librettist">Simeone Antonio Sografi</field>
+		<field name="librettistSort">Sografi, Simeone Antonio</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Gerusalemme+distrutta+Niccolò+Antonio+Zingarelli&amp;search_field=search</field>
+	</doc></add>

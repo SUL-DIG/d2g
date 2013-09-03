@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126716</field>
+<field name="genre">Operas</field>
+<field name="title">La leggenda del ritorno</field>
+<field name="titleSort">leggenda del ritorno</field>
+<field name="composer">Renzo Rossellini</field>
+<field name="composerSort">Rossellini, Renzo</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Diego Fabbri</field>
+<field name="librettistSort">Fabbri, Diego</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+leggenda+del+ritorno+Renzo+Rossellini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125250</field>
+<field name="genre">Operas</field>
+<field name="title">La fausse Agnès</field>
+<field name="titleSort">fausse Agnès</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">[François-Henri-Joseph Blaze] Castil-Blaze</field>
+<field name="librettistSort">Castil-Blaze, [François-Henri-Joseph Blaze]</field>
+<field name="librettist">[Philippe Néricault] Destouches</field>
+<field name="librettistSort">Destouches, [Philippe Néricault]</field>
+<field name="theater">Théâtre du Gymnase</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fausse+Agnès+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

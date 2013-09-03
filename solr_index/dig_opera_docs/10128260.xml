@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128260</field>
+<field name="genre">Operas</field>
+<field name="title">Tabaré</field>
+<field name="titleSort">Tabaré</field>
+<field name="composer">Alfredo Luis Schiuma</field>
+<field name="composerSort">Schiuma, Alfredo Luis</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Jorge Servetti Reeves</field>
+<field name="librettistSort">Servetti Reeves, Jorge</field>
+<field name="librettist">Juan Zorrilla de San Martín</field>
+<field name="librettistSort">Zorrilla de San Martín, Juan</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tabaré+Alfredo+Luis+Schiuma&amp;search_field=search</field>
+</doc>
+</add>

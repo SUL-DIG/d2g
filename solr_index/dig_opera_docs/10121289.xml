@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121289</field>
+<field name="genre">Operas</field>
+<field name="title">La scuola delle mogli</field>
+<field name="titleSort">scuola delle mogli</field>
+<field name="composer">Virgilio Mortari</field>
+<field name="composerSort">Mortari, Virgilio</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Cesare Vico Lodovici</field>
+<field name="librettistSort">Lodovici, Cesare Vico</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+scuola+delle+mogli+Virgilio+Mortari&amp;search_field=search</field>
+</doc>
+</add>

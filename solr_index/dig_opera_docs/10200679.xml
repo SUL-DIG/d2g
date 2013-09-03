@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200679</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El congregante Mariano</field>
+		<field name="titleSort">congregante Mariano</field>
+		<field name="year">1900</field>
+		
+		
+		<field name="date">1900</field>
+		<field name="composer">Miguel Rue y Rubio</field>
+		<field name="composerSort">Rue y Rubio, Miguel</field>
+		
+		
+		
+		<field name="city">Gerona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+congregante+Mariano+Miguel+Rue+y+Rubio&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110535</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kyffhäuserberg</field>
+<field name="titleSort">Kyffhäuserberg</field>
+<field name="composer">Michael Frey</field>
+<field name="composerSort">Frey, Michael</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kyffhäuserberg+Michael+Frey&amp;search_field=search</field>
+</doc>
+</add>

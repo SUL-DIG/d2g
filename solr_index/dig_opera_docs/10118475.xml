@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118475</field>
+<field name="genre">Operas</field>
+<field name="title">Der Weihnachtsabend</field>
+<field name="titleSort">Weihnachtsabend</field>
+<field name="composer">Albert Lortzing</field>
+<field name="composerSort">Lortzing, Albert</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Albert Lortzing</field>
+<field name="librettistSort">Lortzing, Albert</field>
+<field name="theater">Komödienhaus</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Weihnachtsabend+Albert+Lortzing&amp;search_field=search</field>
+</doc>
+</add>

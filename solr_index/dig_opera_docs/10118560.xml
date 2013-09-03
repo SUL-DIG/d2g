@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118560</field>
+<field name="genre">Operas</field>
+<field name="title">Les défauts d'Oscar</field>
+<field name="titleSort">défauts d'Oscar</field>
+<field name="composer">Victor Luc</field>
+<field name="composerSort">Luc, Victor</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Théodore Aillaud</field>
+<field name="librettistSort">Aillaud, Théodore</field>
+<field name="librettist">__ Motivien</field>
+<field name="librettistSort">Motivien, __</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+défauts+d'Oscar+Victor+Luc&amp;search_field=search</field>
+</doc>
+</add>

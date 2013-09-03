@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124999</field>
+<field name="genre">Operas</field>
+<field name="title">L'ange de Rothesay</field>
+<field name="titleSort">ange de Rothesay</field>
+<field name="composer">Henri Hippolyte Potier</field>
+<field name="composerSort">Potier, Henri Hippolyte</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Alexandre Ducros</field>
+<field name="librettistSort">Ducros, Alexandre</field>
+<field name="librettist">[__ Serré] H. Esser</field>
+<field name="librettistSort">Esser, H. [__ Serré]</field>
+<field name="theater">Théâtre International de l'Exposition Universelle</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ange+de+Rothesay+Henri+Hippolyte+Potier&amp;search_field=search</field>
+</doc>
+</add>

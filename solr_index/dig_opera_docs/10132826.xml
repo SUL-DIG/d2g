@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132826</field>
+<field name="genre">Operas</field>
+<field name="title">Animalen (The Animal Congress)</field>
+<field name="titleSort">Animalen (The Animal Congress)</field>
+<field name="composer">Lars Johan Werle</field>
+<field name="composerSort">Werle, Lars Johan</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Tage Danielsson</field>
+<field name="librettistSort">Danielsson, Tage</field>
+<field name="theater">Stora Teatern</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Animalen+The+Animal+Congress+Lars+Johan+Werle&amp;search_field=search</field>
+</doc>
+</add>

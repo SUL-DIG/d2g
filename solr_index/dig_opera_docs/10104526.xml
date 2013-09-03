@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104526</field>
+<field name="genre">Operas</field>
+<field name="title">Lawrence Hargrave Flying Alone</field>
+<field name="titleSort">Lawrence Hargrave Flying Alone</field>
+<field name="composer">Nigel Butterley</field>
+<field name="composerSort">Butterley, Nigel</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">James McDonald</field>
+<field name="librettistSort">McDonald, James</field>
+<field name="theater">South Wales Conservatorium of Music</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lawrence+Hargrave+Flying+Alone+Nigel+Butterley&amp;search_field=search</field>
+</doc>
+</add>

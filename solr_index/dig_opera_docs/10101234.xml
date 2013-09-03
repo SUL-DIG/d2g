@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101234</field>
+<field name="genre">Operas</field>
+<field name="title">Ninon am Scheideweg</field>
+<field name="titleSort">Ninon am Scheideweg</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="theater">Theater am Zoo</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ninon+am+Scheideweg+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

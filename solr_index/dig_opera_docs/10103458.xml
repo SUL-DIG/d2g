@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103458</field>
+<field name="genre">Operas</field>
+<field name="title">Greatshot</field>
+<field name="titleSort">Greatshot</field>
+<field name="composer">William Bolcom</field>
+<field name="composerSort">Bolcom, William</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Arnold Weinstein</field>
+<field name="librettistSort">Weinstein, Arnold</field>
+<field name="theater">Yale University</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Greatshot+William+Bolcom&amp;search_field=search</field>
+</doc>
+</add>

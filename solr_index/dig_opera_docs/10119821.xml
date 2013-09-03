@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119821</field>
+<field name="genre">Operas</field>
+<field name="title">"Fanfreluch, oder Das Hündchen der Herzogin</field>
+<field name="titleSort">"Fanfreluch, oder Das Hündchen der Herzogin"</field>
+<field name="composer">Wilhelm Mauke</field>
+<field name="composerSort">Mauke, Wilhelm</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Georg Schaumberg</field>
+<field name="librettistSort">Schaumberg, Georg</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fanfreluch,+oder+Das+Hündchen+der+Herzogin+Wilhelm+Mauke&amp;search_field=search</field>
+</doc>
+</add>

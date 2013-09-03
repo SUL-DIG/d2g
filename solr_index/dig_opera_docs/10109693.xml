@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109693</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi aveugle</field>
+<field name="titleSort">roi aveugle</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Hugues Le Roux</field>
+<field name="librettistSort">Le Roux, Hugues</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+aveugle+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

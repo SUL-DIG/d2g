@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114259</field>
+<field name="genre">Operas</field>
+<field name="title">Pico y Canente</field>
+<field name="titleSort">Pico y Canente</field>
+<field name="composer">Juan Hidalgo</field>
+<field name="composerSort">Hidalgo, Juan</field>
+<field name="year">1656</field>
+<field name="date">1656</field>
+<field name="librettist">Luis de Ulloa</field>
+<field name="librettistSort">Ulloa, Luis de</field>
+<field name="theater">Coliseo del Buen Retiro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pico+y+Canente+Juan+Hidalgo&amp;search_field=search</field>
+</doc>
+</add>

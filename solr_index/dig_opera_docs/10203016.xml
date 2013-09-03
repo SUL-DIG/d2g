@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203016</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nuvoletta d'Elia</field>
+		<field name="titleSort">nuvoletta d'Elia</field>
+		<field name="year">1746</field>
+		
+		
+		<field name="date">1746</field>
+		<field name="composer">Giuseppe Avossa</field>
+		<field name="composerSort">Avossa, Giuseppe</field>
+		
+		
+		
+		<field name="city">Ancona</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Elijah and the Prophets of Ba'al</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuvoletta+d'Elia+Giuseppe+Avossa&amp;search_field=search</field>
+	</doc></add>

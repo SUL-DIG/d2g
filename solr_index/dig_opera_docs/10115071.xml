@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115071</field>
+<field name="genre">Operas</field>
+<field name="title">A tengerszem tundére (The Nautical Fairy)</field>
+<field name="titleSort">tengerszem tundére (The Nautical Fairy)</field>
+<field name="composer">Victor Jacobi</field>
+<field name="composerSort">Jacobi, Victor</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Jenö Heltai</field>
+<field name="librettistSort">Heltai, Jenö</field>
+<field name="librettist">Zoltán Thury</field>
+<field name="librettistSort">Thury, Zoltán</field>
+<field name="theater">Magyar Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+tengerszem+tundére+The+Nautical+Fairy+Victor+Jacobi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106110</field>
+<field name="genre">Operas</field>
+<field name="title">La pellegrina</field>
+<field name="titleSort">pellegrina</field>
+<field name="composer">Filippo Clementi</field>
+<field name="composerSort">Clementi, Filippo</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Filippo Clementi</field>
+<field name="librettistSort">Clementi, Filippo</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pellegrina+Filippo+Clementi&amp;search_field=search</field>
+</doc>
+</add>

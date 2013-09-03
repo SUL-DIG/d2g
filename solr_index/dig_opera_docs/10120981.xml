@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120981</field>
+<field name="genre">Operas</field>
+<field name="title">Rose et Colas</field>
+<field name="titleSort">Rose et Colas</field>
+<field name="composer">Pierre-Alexandre Monsigny</field>
+<field name="composerSort">Monsigny, Pierre-Alexandre</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="librettist">[François-Guillaume Fouques-Deshays] Desfontaines</field>
+<field name="librettistSort">Desfontaines, [François-Guillaume Fouques-Deshays]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rose+et+Colas+Pierre-Alexandre+Monsigny&amp;search_field=search</field>
+</doc>
+</add>

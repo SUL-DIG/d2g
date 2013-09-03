@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123766</field>
+<field name="genre">Operas</field>
+<field name="title">Berenice</field>
+<field name="titleSort">Berenice</field>
+<field name="composer">Salvatore Perillo</field>
+<field name="composerSort">Perillo, Salvatore</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Bartolomeo Vitturi</field>
+<field name="librettistSort">Vitturi, Bartolomeo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Berenice+Salvatore+Perillo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110311</field>
+<field name="genre">Operas</field>
+<field name="title">Marcel &amp; Cie.</field>
+<field name="titleSort">Marcel &amp; Cie.</field>
+<field name="composer">Léon Fossey</field>
+<field name="composerSort">Fossey, Léon</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Désiré Courterigne</field>
+<field name="librettistSort">Courterigne, Désiré</field>
+<field name="librettist">Henri Avocat</field>
+<field name="librettistSort">Avocat, Henri</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcel&amp;+Cie.+Léon+Fossey&amp;search_field=search</field>
+</doc>
+</add>

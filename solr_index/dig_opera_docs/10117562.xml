@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117562</field>
+<field name="genre">Operas</field>
+<field name="title">"La petit poucet, ou L'orphelin de forêt</field>
+<field name="titleSort">"petit poucet, ou L'orphelin de forêt"</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
+<field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
+<field name="librettist">Jean-Guillaume-Auguste Cuvelier de Trie</field>
+<field name="librettistSort">Cuvelier de Trie, Jean-Guillaume-Auguste</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+petit+poucet,+ou+L'orphelin+de+forêt+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

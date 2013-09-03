@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114583</field>
+<field name="genre">Operas</field>
+<field name="title">Les aventures du roi Pausole</field>
+<field name="titleSort">aventures du roi Pausole</field>
+<field name="composer">Arthur Honegger</field>
+<field name="composerSort">Honegger, Arthur</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Albert Willemetz</field>
+<field name="librettistSort">Willemetz, Albert</field>
+<field name="librettist">[Pierre Louis] Pierre Louяs</field>
+<field name="librettistSort">Louяs, Pierre [Pierre Louis]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+aventures+du+roi+Pausole+Arthur+Honegger&amp;search_field=search</field>
+</doc>
+</add>

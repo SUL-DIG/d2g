@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123634</field>
+<field name="genre">Operas</field>
+<field name="title">Il morto vivo</field>
+<field name="titleSort">morto vivo</field>
+<field name="composer">Giovanni Peloso</field>
+<field name="composerSort">Peloso, Giovanni</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">E. Forti</field>
+<field name="librettistSort">Forti, E.</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Latisana</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+morto+vivo+Giovanni+Peloso&amp;search_field=search</field>
+</doc>
+</add>

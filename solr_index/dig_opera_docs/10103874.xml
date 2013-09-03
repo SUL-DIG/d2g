@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103874</field>
+<field name="genre">Operas</field>
+<field name="title">Les amours déguisés</field>
+<field name="titleSort">amours déguisés</field>
+<field name="composer">Thomas-Louis Bourgeois</field>
+<field name="composerSort">Bourgeois, Thomas-Louis</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Louis Fuzelier</field>
+<field name="librettistSort">Fuzelier, Louis</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+amours+déguisés+Thomas-Louis+Bourgeois&amp;search_field=search</field>
+</doc>
+</add>

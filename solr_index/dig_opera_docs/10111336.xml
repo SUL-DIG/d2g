@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111336</field>
+<field name="genre">Operas</field>
+<field name="title">A mocidade de Figaro</field>
+<field name="titleSort">mocidade de Figaro</field>
+<field name="composer">Francisco de Freitas Gazul</field>
+<field name="composerSort">Gazul, Francisco de Freitas</field>
+<field name="year">1885</field>
+<field name="date">1885</field><field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+mocidade+de+Figaro+Francisco+de+Freitas+Gazul&amp;search_field=search</field>
+</doc>
+</add>

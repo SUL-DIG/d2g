@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123586</field>
+<field name="genre">Operas</field>
+<field name="title">Mazeppa</field>
+<field name="titleSort">Mazeppa</field>
+<field name="composer">Carlo Pedrotti</field>
+<field name="composerSort">Pedrotti, Carlo</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Achille de Lauzières</field>
+<field name="librettistSort">Lauzières, Achille de</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mazeppa+Carlo+Pedrotti&amp;search_field=search</field>
+</doc>
+</add>

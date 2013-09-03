@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125051</field>
+<field name="genre">Operas</field>
+<field name="title">Papа Tonio</field>
+<field name="titleSort">Papа Tonio</field>
+<field name="composer">Luigi Pratesi</field>
+<field name="composerSort">Pratesi, Luigi</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Alfredo Toccafondi</field>
+<field name="librettistSort">Toccafondi, Alfredo</field>
+<field name="theater">Casa Taddei</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Papа+Tonio+Luigi+Pratesi&amp;search_field=search</field>
+</doc>
+</add>

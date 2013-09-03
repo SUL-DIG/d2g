@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201911</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Humilium et superborum exitus</field>
+		<field name="titleSort">Humilium et superborum exitus</field>
+		<field name="year">1698</field>
+		
+		
+		<field name="date">1698</field>
+		<field name="composer">Mercurio Faccioli</field>
+		<field name="composerSort">Faccioli, Mercurio</field>
+		<field name="librettist">Filippo Capistrelli</field>
+		<field name="librettistSort">Capistrelli, Filippo</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Humilium+et+superborum+exitus+Mercurio+Faccioli&amp;search_field=search</field>
+	</doc></add>

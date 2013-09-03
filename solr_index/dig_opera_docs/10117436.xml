@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117436</field>
+<field name="genre">Operas</field>
+<field name="title">Ile</field>
+<field name="titleSort">Ile</field>
+<field name="composer">Beatrice Laufer</field>
+<field name="composerSort">Laufer, Beatrice</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Eugene O'Neill</field>
+<field name="librettistSort">O'Neill, Eugene</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ile+Beatrice+Laufer&amp;search_field=search</field>
+</doc>
+</add>

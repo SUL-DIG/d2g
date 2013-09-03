@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124332</field>
+<field name="genre">Operas</field>
+<field name="title">Mademoiselle de Fontanges</field>
+<field name="titleSort">Mademoiselle de Fontanges</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="librettist">Prosper Léstard</field>
+<field name="librettistSort">Léstard, Prosper</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mademoiselle+de+Fontanges+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

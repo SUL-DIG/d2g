@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103148</field>
+<field name="genre">Operas</field>
+<field name="title">Bitter Calm</field>
+<field name="titleSort">Bitter Calm</field>
+<field name="composer">Christopher Blake</field>
+<field name="composerSort">Blake, Christopher</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Stuart Hoar</field>
+<field name="librettistSort">Hoar, Stuart</field>
+<field name="theater">Saint James's Theatre</field>
+<field name="city">Wellington</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bitter+Calm+Christopher+Blake&amp;search_field=search</field>
+</doc>
+</add>

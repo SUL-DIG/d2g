@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119136</field>
+<field name="genre">Operas</field>
+<field name="title">Gualtiero di Monsenis</field>
+<field name="titleSort">Gualtiero di Monsenis</field>
+<field name="composer">Nicolau Manent</field>
+<field name="composerSort">Manent, Nicolau</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Joan Cortada</field>
+<field name="librettistSort">Cortada, Joan</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gualtiero+di+Monsenis+Nicolau+Manent&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124272</field>
+<field name="genre">Operas</field>
+<field name="title">La coupe enchantée</field>
+<field name="titleSort">coupe enchantée</field>
+<field name="composer">Gabriel Pierné</field>
+<field name="composerSort">Pierné, Gabriel</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Emmanuel Matrat</field>
+<field name="librettistSort">Matrat, Emmanuel</field>
+<field name="theater">Théâtre du Casino</field>
+<field name="city">Royan</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+coupe+enchantée+Gabriel+Pierné&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111282</field>
+<field name="genre">Operas</field>
+<field name="title">Schahabaham II</field>
+<field name="titleSort">Schahabaham II</field>
+<field name="composer">Eugène Gautier</field>
+<field name="composerSort">Gautier, Eugène</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schahabaham+II+Eugène+Gautier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201418</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fuite d'Egypte</field>
+		<field name="titleSort">fuite d'Egypte</field>
+		<field name="year">1835</field>
+		
+		
+		<field name="date">1835</field>
+		<field name="composer">Ferdinand Lavainne</field>
+		<field name="composerSort">Lavainne, Ferdinand</field>
+		<field name="librettist">Alexandre Couvez</field>
+		<field name="librettistSort">Couvez, Alexandre</field>
+		
+		
+		<field name="city">Lille</field>
+		<field name="region">Nord</field>
+		<field name="country">France</field>
+		<field name="subject">The Flight to Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fuite+d'Egypte+Ferdinand+Lavainne&amp;search_field=search</field>
+	</doc></add>

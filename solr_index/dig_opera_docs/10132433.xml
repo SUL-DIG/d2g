@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132433</field>
+<field name="genre">Operas</field>
+<field name="title">Moschopulos</field>
+<field name="titleSort">Moschopulos</field>
+<field name="composer">Rudolf Wagner-Régency</field>
+<field name="composerSort">Wagner-Régency, Rudolf</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Rudolf Wagner-Régency</field>
+<field name="librettistSort">Wagner-Régency, Rudolf</field>
+<field name="librettist">Franz Pocci</field>
+<field name="librettistSort">Pocci, Franz</field>
+<field name="theater">Jugendstil Theater</field>
+<field name="city">Gera</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moschopulos+Rudolf+Wagner-Régency&amp;search_field=search</field>
+</doc>
+</add>

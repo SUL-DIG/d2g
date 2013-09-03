@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116858</field>
+<field name="genre">Operas</field>
+<field name="title">Der grossmütige Scipio Africanus</field>
+<field name="titleSort">grossmütige Scipio Africanus</field>
+<field name="composer">Johann Sigismund Kusser</field>
+<field name="composerSort">Kusser, Johann Sigismund</field>
+<field name="year">1694</field>
+<field name="date">1694</field>
+<field name="librettist">Gottlieb Fiedler</field>
+<field name="librettistSort">Fiedler, Gottlieb</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+grossmütige+Scipio+Africanus+Johann+Sigismund+Kusser&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106665</field>
+<field name="genre">Operas</field>
+<field name="title">Dar el ser el hijo al padre</field>
+<field name="titleSort">Dar el ser el hijo al padre</field>
+<field name="composer">Francesco Corradini</field>
+<field name="composerSort">Corradini, Francesco</field>
+<field name="year">1736</field>
+<field name="date">1736</field><field name="theater">Teatro del Principe</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dar+el+ser+el+hijo+al+padre+Francesco+Corradini&amp;search_field=search</field>
+</doc>
+</add>

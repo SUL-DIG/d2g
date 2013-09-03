@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201820</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die heilige Weynacht</field>
+		<field name="titleSort">heilige Weynacht</field>
+		<field name="year">1734</field>
+		
+		
+		<field name="date">1734</field>
+		<field name="composer">Johann Sebastian Bach</field>
+		<field name="composerSort">Bach, Johann Sebastian</field>
+		<field name="librettist">[Christian Friedrich Henrici] Picander</field>
+		<field name="librettistSort">Picander, [Christian Friedrich Henrici]</field>
+		
+		<field name="theater">Nikolaikirche</field>
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heilige+Weynacht+Johann+Sebastian+Bach&amp;search_field=search</field>
+	</doc></add>

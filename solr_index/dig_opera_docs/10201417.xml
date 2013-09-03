@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201417</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fuga trionfale</field>
+		<field name="titleSort">fuga trionfale</field>
+		<field name="year">1690</field>
+		
+		
+		<field name="date">1690</field>
+		<field name="composer">Antonio Francesco Martinenghi</field>
+		<field name="composerSort">Martinenghi, Antonio Francesco</field>
+		
+		
+		
+		<field name="city">Pavia</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fuga+trionfale+Antonio+Francesco+Martinenghi&amp;search_field=search</field>
+	</doc></add>

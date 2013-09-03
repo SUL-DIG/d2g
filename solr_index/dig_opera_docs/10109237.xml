@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109237</field>
+<field name="genre">Operas</field>
+<field name="title">Der Rebell (Der liebe Augustin)</field>
+<field name="titleSort">Rebell (liebe Augustin)</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Rudolf Bernauer</field>
+<field name="librettistSort">Bernauer, Rudolf</field>
+<field name="librettist">[Ernst Friedrich Wilhelm Juraschek] Ernst Welisch</field>
+<field name="librettistSort">Welisch, Ernst [Ernst Friedrich Wilhelm Juraschek]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Rebell+Der+liebe+Augustin+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

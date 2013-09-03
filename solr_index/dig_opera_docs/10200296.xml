@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200296</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Auferstehung Jesu</field>
+		<field name="titleSort">Auferstehung Jesu</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Georg Joseph Vogler</field>
+		<field name="composerSort">Vogler, Georg Joseph</field>
+		<field name="librettist">Friedrich Wilhelm Zachariä</field>
+		<field name="librettistSort">Zachariä, Friedrich Wilhelm</field>
+		
+		
+		<field name="city">Darmstadt</field>
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Auferstehung+Jesu+Georg+Joseph+Vogler&amp;search_field=search</field>
+	</doc></add>

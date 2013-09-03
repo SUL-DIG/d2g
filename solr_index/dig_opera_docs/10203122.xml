@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203122</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio sagro ad onor della Vergine</field>
+		<field name="titleSort">Oratorio sagro ad onor della Vergine</field>
+		<field name="year">1753</field>
+		<field name="month">April</field>
+		<field name="day">13</field>
+		<field name="date">April 13, 1753</field>
+		<field name="composer">Salvatore Perillo</field>
+		<field name="composerSort">Perillo, Salvatore</field>
+		<field name="librettist">Ignazio Mancini</field>
+		<field name="librettistSort">Mancini, Ignazio</field>
+		
+		<field name="theater">Chiesa di San Deffendente</field>
+		<field name="city">Bergamo</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+sagro+ad+onor+della+Vergine+Salvatore+Perillo&amp;search_field=search</field>
+	</doc></add>

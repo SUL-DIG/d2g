@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105546</field>
+<field name="genre">Operas</field>
+<field name="title">La Sevillane</field>
+<field name="titleSort">Sevillane</field>
+<field name="composer">Cécile Chaminade</field>
+<field name="composerSort">Chaminade, Cécile</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Édouard Guinaud</field>
+<field name="librettistSort">Guinaud, Édouard</field>
+<field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Sevillane+Cécile+Chaminade&amp;search_field=search</field>
+</doc>
+</add>

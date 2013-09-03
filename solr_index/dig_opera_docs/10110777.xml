@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110777</field>
+<field name="genre">Operas</field>
+<field name="title">"La Flora, o vero Il natal de' fiori</field>
+<field name="titleSort">"Flora, o vero Il natal de' fiori"</field>
+<field name="composer">Marco da Gagliano</field>
+<field name="composerSort">Gagliano, Marco da</field>
+<field name="year">1628</field>
+<field name="date">1628</field>
+<field name="librettist">Andrea Salvadori</field>
+<field name="librettistSort">Salvadori, Andrea</field>
+<field name="theater">Palazzo Uffizi</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Flora,+o+vero+Il+natal+de'+fiori+Marco+da+Gagliano&amp;search_field=search</field>
+</doc>
+</add>

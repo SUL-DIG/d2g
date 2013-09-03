@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116494</field>
+<field name="genre">Operas</field>
+<field name="title">Marianka</field>
+<field name="titleSort">Marianka</field>
+<field name="composer">Michael Krausz</field>
+<field name="composerSort">Krausz, Michael</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Imre Földes</field>
+<field name="librettistSort">Földes, Imre</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marianka+Michael+Krausz&amp;search_field=search</field>
+</doc>
+</add>

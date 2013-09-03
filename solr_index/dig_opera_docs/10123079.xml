@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123079</field>
+<field name="genre">Operas</field>
+<field name="title">Dal '700 al 2000</field>
+<field name="titleSort">Dal '700 al 2000</field>
+<field name="composer">Giannina Pallastrelli</field>
+<field name="composerSort">Pallastrelli, Giannina</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Giannina Pallastrelli</field>
+<field name="librettistSort">Pallastrelli, Giannina</field>
+<field name="theater">Politeama Piacentino</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dal+'700+al+2000+Giannina+Pallastrelli&amp;search_field=search</field>
+</doc>
+</add>

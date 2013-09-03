@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127619</field>
+<field name="genre">Operas</field>
+<field name="title">Il concilio de' pianeti</field>
+<field name="titleSort">concilio de' pianeti</field>
+<field name="composer">Lorenz Santorini</field>
+<field name="composerSort">Santorini, Lorenz</field>
+<field name="year">1721</field>
+<field name="date">1721</field><field name="theater">Hoftheater</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+concilio+de'+pianeti+Lorenz+Santorini&amp;search_field=search</field>
+</doc>
+</add>

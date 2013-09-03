@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203435</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Poenitentia in Davide gloriosa</field>
+		<field name="titleSort">Poenitentia in Davide gloriosa</field>
+		<field name="year">1694</field>
+		
+		
+		<field name="date">1694</field>
+		<field name="composer">Giovanni Antonio Costa</field>
+		<field name="composerSort">Costa, Giovanni Antonio</field>
+		<field name="librettist">[Gian Andrea Spinola] Giovanni Aleandro Pisani</field>
+		<field name="librettistSort">Pisani, Giovanni Aleandro [Gian Andrea Spinola]</field>
+		
+		
+		<field name="city">Genoa</field>
+		<field name="region">Liguria</field>
+		<field name="country">Italy</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Poenitentia+in+Davide+gloriosa+Giovanni+Antonio+Costa&amp;search_field=search</field>
+	</doc></add>

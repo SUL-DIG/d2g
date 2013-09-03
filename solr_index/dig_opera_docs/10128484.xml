@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128484</field>
+<field name="genre">Operas</field>
+<field name="title">Wer ist der Erbe ?</field>
+<field name="titleSort">Wer ist der Erbe ?</field>
+<field name="composer">Louis Schubert</field>
+<field name="composerSort">Schubert, Louis</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Gustav Räder</field>
+<field name="librettistSort">Räder, Gustav</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wer+ist+der+Erbe+?+Louis+Schubert&amp;search_field=search</field>
+</doc>
+</add>

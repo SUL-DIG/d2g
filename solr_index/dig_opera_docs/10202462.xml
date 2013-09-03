@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202462</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Legend of St. Dorothea</field>
+		<field name="titleSort">Legend of St. Dorothea</field>
+		<field name="year">1876</field>
+		
+		
+		<field name="date">1876</field>
+		<field name="composer">Charlotte Sainton-Dolby</field>
+		<field name="composerSort">Sainton-Dolby, Charlotte</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Dorothy</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">February 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+St.+Dorothea+Charlotte+Sainton-Dolby&amp;search_field=search</field>
+	</doc></add>

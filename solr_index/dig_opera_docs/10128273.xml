@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128273</field>
+<field name="genre">Operas</field>
+<field name="title">Un modèle</field>
+<field name="titleSort">modèle</field>
+<field name="composer">Léon Schlesinger</field>
+<field name="composerSort">Schlesinger, Léon</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">André Degrave</field>
+<field name="librettistSort">Degrave, André</field>
+<field name="librettist">Marcel Lérouge</field>
+<field name="librettistSort">Lérouge, Marcel</field>
+<field name="theater">Casino</field>
+<field name="city">Blankenberge</field>
+<field name="region">West Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+modèle+Léon+Schlesinger&amp;search_field=search</field>
+</doc>
+</add>

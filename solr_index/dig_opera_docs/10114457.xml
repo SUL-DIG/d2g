@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114457</field>
+<field name="genre">Operas</field>
+<field name="title">The Children of Don</field>
+<field name="titleSort">Children of Don</field>
+<field name="composer">Joseph Holbrooke</field>
+<field name="composerSort">Holbrooke, Joseph</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">[Howard de Walden] Thomas Evelyn Ellis</field>
+<field name="librettistSort">Ellis, Thomas Evelyn [Howard de Walden]</field>
+<field name="theater">London Opera House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Children+of+Don+Joseph+Holbrooke&amp;search_field=search</field>
+</doc>
+</add>

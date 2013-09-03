@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118603</field>
+<field name="genre">Operas</field>
+<field name="title">Les ruines de Mont-Cassin</field>
+<field name="titleSort">ruines de Mont-Cassin</field>
+<field name="composer">Charles Luce-Varlet</field>
+<field name="composerSort">Luce-Varlet, Charles</field>
+<field name="year">1838</field>
+<field name="date">1838</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Douai</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+ruines+de+Mont-Cassin+Charles+Luce-Varlet&amp;search_field=search</field>
+</doc>
+</add>

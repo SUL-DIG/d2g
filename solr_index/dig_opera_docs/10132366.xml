@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132366</field>
+<field name="genre">Operas</field>
+<field name="title">The Pupil of Da Vinci</field>
+<field name="titleSort">Pupil of Da Vinci</field>
+<field name="composer">Joseph Augustine Wade</field>
+<field name="composerSort">Wade, Joseph Augustine</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Mark Lemon</field>
+<field name="librettistSort">Lemon, Mark</field>
+<field name="theater">Saint James's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pupil+of+Da+Vinci+Joseph+Augustine+Wade&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119056</field>
+<field name="genre">Operas</field>
+<field name="title">Les Kermaylo</field>
+<field name="titleSort">Kermaylo</field>
+<field name="composer">Ernest Malteau</field>
+<field name="composerSort">Malteau, Ernest</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">[Paul de Haen] Paul de Néha</field>
+<field name="librettistSort">Néha, Paul de [Paul de Haen]</field>
+<field name="librettist">F. de La Chesneraye</field>
+<field name="librettistSort">La Chesneraye, F. de</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Kermaylo+Ernest+Malteau&amp;search_field=search</field>
+</doc>
+</add>

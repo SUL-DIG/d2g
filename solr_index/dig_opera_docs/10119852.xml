@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119852</field>
+<field name="genre">Operas</field>
+<field name="title">Aloise</field>
+<field name="titleSort">Aloise</field>
+<field name="composer">Ludwig Maurer</field>
+<field name="composerSort">Maurer, Ludwig</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Franz Ignaz von Holbein</field>
+<field name="librettistSort">Holbein, Franz Ignaz von</field>
+<field name="librettist">[Gustav von Heeringen] Ernst Wodomerius</field>
+<field name="librettistSort">Wodomerius, Ernst [Gustav von Heeringen]</field>
+<field name="theater">Königliches Hoftheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aloise+Ludwig+Maurer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110182</field>
+<field name="genre">Operas</field>
+<field name="title">Novogorodskiy bogatïr' Boyeslavich</field>
+<field name="titleSort">Novogorodskiy bogatïr' Boyeslavich</field>
+<field name="composer">Yevstigney Ipat'yevich Fomin</field>
+<field name="composerSort">Fomin, Yevstigney Ipat'yevich</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">"Catharine II, Tsarina of Russia"</field>
+<field name="librettistSort">Catharine II, Tsarina of Russia</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Novogorodskiy+bogatïr'+Boyeslavich+Yevstigney+Ipat'yevich+Fomin&amp;search_field=search</field>
+</doc>
+</add>

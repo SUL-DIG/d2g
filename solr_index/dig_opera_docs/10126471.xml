@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126471</field>
+<field name="genre">Operas</field>
+<field name="title">Nascita e apoteosi di Horo</field>
+<field name="titleSort">Nascita e apoteosi di Horo</field>
+<field name="composer">Miguel Roger</field>
+<field name="composerSort">Roger, Miguel</field>
+<field name="year">1992</field>
+<field name="date">1992</field><field name="theater">Teatre Municipal</field>
+<field name="city">Badelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nascita+e+apoteosi+di+Horo+Miguel+Roger&amp;search_field=search</field>
+</doc>
+</add>

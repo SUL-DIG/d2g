@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128817</field>
+<field name="genre">Operas</field>
+<field name="title">Nevesta husitská (The Hussite Bride)</field>
+<field name="titleSort">Nevesta husitská (The Hussite Bride)</field>
+<field name="composer">Karel Richard Sebor</field>
+<field name="composerSort">Sebor, Karel Richard</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Eduard Rüffer</field>
+<field name="librettistSort">Rüffer, Eduard</field>
+<field name="theater">Novomestské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nevesta+husitská+The+Hussite+Bride+Karel+Richard+Sebor&amp;search_field=search</field>
+</doc>
+</add>

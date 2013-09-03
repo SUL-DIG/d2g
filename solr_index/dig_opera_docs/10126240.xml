@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126240</field>
+<field name="genre">Operas</field>
+<field name="title">La smorfiosa</field>
+<field name="titleSort">smorfiosa</field>
+<field name="composer">Rinaldo di Capua</field>
+<field name="composerSort">Capua, Rinaldo di</field>
+<field name="year">1756</field>
+<field name="date">1756</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+smorfiosa+Rinaldo+di+Capua&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119293</field>
+<field name="genre">Operas</field>
+<field name="title">Il cantore di Venezia</field>
+<field name="titleSort">cantore di Venezia</field>
+<field name="composer">Virginio de Marchi</field>
+<field name="composerSort">Marchi, Virginio de</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Giulio Carcano</field>
+<field name="librettistSort">Carcano, Giulio</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cantore+di+Venezia+Virginio+de+Marchi&amp;search_field=search</field>
+</doc>
+</add>

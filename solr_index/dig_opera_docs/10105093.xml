@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105093</field>
+<field name="genre">Operas</field>
+<field name="title">La firma del rey</field>
+<field name="titleSort">firma del rey</field>
+<field name="composer">Miguel Carreras y González</field>
+<field name="composerSort">González, Miguel Carreras y</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Mariano Carreras y González</field>
+<field name="librettistSort">Carreras y González, Mariano</field>
+<field name="theater">Teatro Jovellanos</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+firma+del+rey+Miguel+Carreras+y+González&amp;search_field=search</field>
+</doc>
+</add>

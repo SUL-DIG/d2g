@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130827</field>
+<field name="genre">Operas</field>
+<field name="title">Le muphti</field>
+<field name="titleSort">muphti</field>
+<field name="composer">Claude Terrasse</field>
+<field name="composerSort">Terrasse, Claude</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Paul Milliet</field>
+<field name="librettistSort">Milliet, Paul</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+muphti+Claude+Terrasse&amp;search_field=search</field>
+</doc>
+</add>

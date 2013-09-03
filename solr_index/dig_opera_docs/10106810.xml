@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106810</field>
+<field name="genre">Operas</field>
+<field name="title">The Building of Bamba</field>
+<field name="titleSort">Building of Bamba</field>
+<field name="composer">Henry Cowell</field>
+<field name="composerSort">Cowell, Henry</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">John Osborne Varian</field>
+<field name="librettistSort">Varian, John Osborne</field>
+<field name="theater">Halcyon Sanatorium</field>
+<field name="city">Pismo Beach</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Building+of+Bamba+Henry+Cowell&amp;search_field=search</field>
+</doc>
+</add>

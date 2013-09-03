@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131328</field>
+<field name="genre">Operas</field>
+<field name="title">La fête de Flore</field>
+<field name="titleSort">fête de Flore</field>
+<field name="composer">Jean-Claude Trial</field>
+<field name="composerSort">Trial, Jean-Claude</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Jean-Paul-André Razins de Saint-Marc</field>
+<field name="librettistSort">Razins de Saint-Marc, Jean-Paul-André</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+de+Flore+Jean-Claude+Trial&amp;search_field=search</field>
+</doc>
+</add>

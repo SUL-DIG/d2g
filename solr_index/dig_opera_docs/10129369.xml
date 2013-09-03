@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129369</field>
+<field name="genre">Operas</field>
+<field name="title">Capriolo</field>
+<field name="titleSort">Capriolo</field>
+<field name="composer">Alfredo Soffredini</field>
+<field name="composerSort">Soffredini, Alfredo</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Alfredo Soffredini</field>
+<field name="librettistSort">Soffredini, Alfredo</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Thiene</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Capriolo+Alfredo+Soffredini&amp;search_field=search</field>
+</doc>
+</add>

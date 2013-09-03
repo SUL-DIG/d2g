@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109649</field>
+<field name="genre">Operas</field>
+<field name="title">Luigi Rolla</field>
+<field name="titleSort">Luigi Rolla</field>
+<field name="composer">Nicola Ferri</field>
+<field name="composerSort">Ferri, Nicola</field>
+<field name="year">1848</field>
+<field name="date">1848</field><field name="theater">Private Performance</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luigi+Rolla+Nicola+Ferri&amp;search_field=search</field>
+</doc>
+</add>

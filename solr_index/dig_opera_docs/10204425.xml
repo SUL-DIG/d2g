@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204425</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Susanna</field>
+		<field name="titleSort">Susanna</field>
+		<field name="year">1783</field>
+		<field name="month">November</field>
+		
+		<field name="date">November 1783</field>
+		<field name="composer">Pietro Martinez</field>
+		<field name="composerSort">Martinez, Pietro</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Susanna and the Elders</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Susanna+Pietro+Martinez&amp;search_field=search</field>
+	</doc></add>

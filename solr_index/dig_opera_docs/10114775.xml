@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114775</field>
+<field name="genre">Operas</field>
+<field name="title">Dans l'ombre de la cathédrale</field>
+<field name="titleSort">Dans l'ombre de la cathédrale</field>
+<field name="composer">Georges Hüe</field>
+<field name="composerSort">Hüe, Georges</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Maurice Léna</field>
+<field name="librettistSort">Léna, Maurice</field>
+<field name="librettist">Henry Ferrare</field>
+<field name="librettistSort">Ferrare, Henry</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dans+l'ombre+de+la+cathédrale+Georges+Hüe&amp;search_field=search</field>
+</doc>
+</add>

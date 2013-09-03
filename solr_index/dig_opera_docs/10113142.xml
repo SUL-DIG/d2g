@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113142</field>
+<field name="genre">Operas</field>
+<field name="title">Wolf Cub Village</field>
+<field name="titleSort">Wolf Cub Village</field>
+<field name="composer">Guo Wenjing</field>
+<field name="composerSort">Wenjing, Guo</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Zeng LilibrettistSortZeng Li</field>
+<field name="librettist">Lu XunlibrettistSortLu XuntheaterWestergasfabriek</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wolf+Cub+Village+Guo+Wenjing&amp;search_field=search</field>
+</doc>
+</add>

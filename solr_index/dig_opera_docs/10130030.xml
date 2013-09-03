@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130030</field>
+<field name="genre">Operas</field>
+<field name="title">Der verlorene Walzer</field>
+<field name="titleSort">verlorene Walzer</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Paul Knepler</field>
+<field name="librettistSort">Knepler, Paul</field>
+<field name="librettist">Ignaz Michael Welleminsky</field>
+<field name="librettistSort">Welleminsky, Ignaz Michael</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+verlorene+Walzer+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

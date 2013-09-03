@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100339</field>
+<field name="genre">Operas</field>
+<field name="title">Barbaja</field>
+<field name="titleSort">Barbaja</field>
+<field name="composer">Nino Alberti</field>
+<field name="composerSort">Alberti, Nino</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Nino Alberti</field>
+<field name="librettistSort">Alberti, Nino</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barbaja+Nino+Alberti&amp;search_field=search</field>
+</doc>
+</add>

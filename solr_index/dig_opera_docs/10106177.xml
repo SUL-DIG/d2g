@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106177</field>
+<field name="genre">Operas</field>
+<field name="title">Il tempio della gloria</field>
+<field name="titleSort">tempio della gloria</field>
+<field name="composer">Gioacchino Cocchi</field>
+<field name="composerSort">Cocchi, Gioacchino</field>
+<field name="year">1759</field>
+<field name="date">1759</field><field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tempio+della+gloria+Gioacchino+Cocchi&amp;search_field=search</field>
+</doc>
+</add>

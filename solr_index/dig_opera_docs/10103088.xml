@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103088</field>
+<field name="genre">Operas</field>
+<field name="title">"Maid Marian, or The Huntress of Arlingford</field>
+<field name="titleSort">"Maid Marian, or The Huntress of Arlingford"</field>
+<field name="composer">Henry Bishop</field>
+<field name="composerSort">Bishop, Henry</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">James Robinson Planché</field>
+<field name="librettistSort">Planché, James Robinson</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maid+Marian,+or+The+Huntress+of+Arlingford+Henry+Bishop&amp;search_field=search</field>
+</doc>
+</add>

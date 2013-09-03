@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100549</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della virtù</field>
+<field name="titleSort">trionfo della virtù</field>
+<field name="composer">Francisco António de Almeida</field>
+<field name="composerSort">Almeida, Francisco António de</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Lucas Giovine</field>
+<field name="librettistSort">Giovine, Lucas</field>
+<field name="theater">Palácio de Mota</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+virtù+Francisco+António+de+Almeida&amp;search_field=search</field>
+</doc>
+</add>

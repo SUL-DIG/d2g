@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101057</field>
+<field name="genre">Operas</field>
+<field name="title">The Judgment of Paris</field>
+<field name="titleSort">Judgment of Paris</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">William Congreve</field>
+<field name="librettistSort">Congreve, William</field>
+<field name="theater">Cliveden House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Judgment+of+Paris+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

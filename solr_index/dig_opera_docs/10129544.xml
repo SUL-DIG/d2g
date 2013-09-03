@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129544</field>
+<field name="genre">Operas</field>
+<field name="title">Il est fou!</field>
+<field name="titleSort">Il est fou!</field>
+<field name="composer">Théodore Sourilas</field>
+<field name="composerSort">Sourilas, Théodore</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Paul Bru-Thiellay</field>
+<field name="librettistSort">Bru-Thiellay, Paul</field>
+<field name="theater">Café-concert de Bataclan</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+est+fou!+Théodore+Sourilas&amp;search_field=search</field>
+</doc>
+</add>

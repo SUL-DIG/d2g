@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113338</field>
+<field name="genre">Operas</field>
+<field name="title">Mozart</field>
+<field name="titleSort">Mozart</field>
+<field name="composer">Reynaldo Hahn</field>
+<field name="composerSort">Hahn, Reynaldo</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Sacha Guitry</field>
+<field name="librettistSort">Guitry, Sacha</field>
+<field name="theater">Théâtre Édouard VII</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mozart+Reynaldo+Hahn&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115874</field>
+<field name="genre">Operas</field>
+<field name="title">Julia</field>
+<field name="titleSort">Julia</field>
+<field name="composer">Rudolf Kelterborn</field>
+<field name="composerSort">Kelterborn, Rudolf</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Rudolf Kelterborn (2)</field>
+<field name="librettistSort">Kelterborn (2), Rudolf</field>
+<field name="librettist">David Freeman</field>
+<field name="librettistSort">Freeman, David</field>
+<field name="theater">Opera Factory</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julia+Rudolf+Kelterborn&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116716</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Spielmann und ein Astronom</field>
+<field name="titleSort">Spielmann und ein Astronom</field>
+<field name="composer">Erwin Kuckertz</field>
+<field name="composerSort">Kuckertz, Erwin</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Erwin Kuckertz</field>
+<field name="librettistSort">Kuckertz, Erwin</field>
+<field name="librettist">Heinz Hackenbroich</field>
+<field name="librettistSort">Hackenbroich, Heinz</field>
+
+<field name="city">Düren</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Spielmann+und+ein+Astronom+Erwin+Kuckertz&amp;search_field=search</field>
+</doc>
+</add>

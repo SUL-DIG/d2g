@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122215</field>
+<field name="genre">Operas</field>
+<field name="title">A graça de Deus</field>
+<field name="titleSort">graça de Deus</field>
+<field name="composer">Francisco de Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="year">1852</field>
+<field name="date">1852</field><field name="theater">Teatro San Januário</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+graça+de+Deus+Francisco+de+Sá+Noronha&amp;search_field=search</field>
+</doc>
+</add>

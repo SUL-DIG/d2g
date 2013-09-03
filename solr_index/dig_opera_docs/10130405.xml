@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130405</field>
+<field name="genre">Operas</field>
+<field name="title">Apollos Wettgesang</field>
+<field name="titleSort">Apollos Wettgesang</field>
+<field name="composer">Wilhelm Sutor</field>
+<field name="composerSort">Sutor, Wilhelm</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Franz Karl Hiemer</field>
+<field name="librettistSort">Hiemer, Franz Karl</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apollos+Wettgesang+Wilhelm+Sutor&amp;search_field=search</field>
+</doc>
+</add>

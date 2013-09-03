@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121287</field>
+<field name="genre">Operas</field>
+<field name="title">Prima di colazione</field>
+<field name="titleSort">Prima di colazione</field>
+<field name="composer">Virgilio Mortari</field>
+<field name="composerSort">Mortari, Virgilio</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Eugene O'Neill</field>
+<field name="librettistSort">O'Neill, Eugene</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prima+di+colazione+Virgilio+Mortari&amp;search_field=search</field>
+</doc>
+</add>

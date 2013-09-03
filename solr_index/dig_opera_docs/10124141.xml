@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124141</field>
+<field name="genre">Operas</field>
+<field name="title">"L'astratto, ovvero Il giocator fortunato</field>
+<field name="titleSort">"astratto, ovvero Il giocator fortunato"</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'astratto,+ovvero+Il+giocator+fortunato+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

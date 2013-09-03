@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102197</field>
+<field name="genre">Operas</field>
+<field name="title">Iduna</field>
+<field name="titleSort">Iduna</field>
+<field name="composer">John Arthur Henry Behrend</field>
+<field name="composerSort">Behrend, John Arthur Henry</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Hugh Conway</field>
+<field name="librettistSort">Conway, Hugh</field>
+<field name="theater">Comedy Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iduna+John+Arthur+Henry+Behrend&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110858</field>
+<field name="genre">Operas</field>
+<field name="title">Decius and Paulina</field>
+<field name="titleSort">Decius and Paulina</field>
+<field name="composer">John Ernest Galliard</field>
+<field name="composerSort">Galliard, John Ernest</field>
+<field name="year">1718</field>
+<field name="date">1718</field>
+<field name="librettist">Lewis Theobald</field>
+<field name="librettistSort">Theobald, Lewis</field>
+<field name="theater">"Theatre Royal, Lincoln's Inn Fields"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Decius+and+Paulina+John+Ernest+Galliard&amp;search_field=search</field>
+</doc>
+</add>

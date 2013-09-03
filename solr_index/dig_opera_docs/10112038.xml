@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112038</field>
+<field name="genre">Operas</field>
+<field name="title">Marcella</field>
+<field name="titleSort">Marcella</field>
+<field name="composer">Umberto Giordano</field>
+<field name="composerSort">Giordano, Umberto</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">[Olindo Guerrini] Lorenzo Stecchetti</field>
+<field name="librettistSort">Stecchetti, Lorenzo [Olindo Guerrini]</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcella+Umberto+Giordano&amp;search_field=search</field>
+</doc>
+</add>

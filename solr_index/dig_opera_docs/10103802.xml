@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103802</field>
+<field name="genre">Operas</field>
+<field name="title">"Actäa, das Mädchen von Corinth</field>
+<field name="titleSort">"Actäa, das Mädchen von Corinth"</field>
+<field name="composer">Jean Joseph Bott</field>
+<field name="composerSort">Bott, Jean Joseph</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">[Julius Levy] Julius Rodenberg</field>
+<field name="librettistSort">Rodenberg, Julius [Julius Levy]</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Actäa,+das+Mädchen+von+Corinth+Jean+Joseph+Bott&amp;search_field=search</field>
+</doc>
+</add>

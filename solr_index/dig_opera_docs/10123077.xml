@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123077</field>
+<field name="genre">Operas</field>
+<field name="title">Royal-trompette</field>
+<field name="titleSort">Royal-trompette</field>
+<field name="composer">Georges Palicot</field>
+<field name="composerSort">Palicot, Georges</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Lucien Gothi</field>
+<field name="librettistSort">Gothi, Lucien</field>
+<field name="theater">Théâtre Grévin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Royal-trompette+Georges+Palicot&amp;search_field=search</field>
+</doc>
+</add>

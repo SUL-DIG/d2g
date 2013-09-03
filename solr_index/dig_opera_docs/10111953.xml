@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111953</field>
+<field name="genre">Operas</field>
+<field name="title">The Libretto</field>
+<field name="titleSort">Libretto</field>
+<field name="composer">Don Gillis</field>
+<field name="composerSort">Gillis, Don</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Don Gillis</field>
+<field name="librettistSort">Gillis, Don</field>
+<field name="theater">National Opera Convention</field>
+<field name="city">Dallas</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Libretto+Don+Gillis&amp;search_field=search</field>
+</doc>
+</add>

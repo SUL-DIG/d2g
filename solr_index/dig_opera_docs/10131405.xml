@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131405</field>
+<field name="genre">Operas</field>
+<field name="title">Lo specchio dei gelosi</field>
+<field name="titleSort">specchio dei gelosi</field>
+<field name="composer">Giacomo Tritto</field>
+<field name="composerSort">Tritto, Giacomo</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+specchio+dei+gelosi+Giacomo+Tritto&amp;search_field=search</field>
+</doc>
+</add>

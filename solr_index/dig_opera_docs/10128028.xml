@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128028</field>
+<field name="genre">Operas</field>
+<field name="title">Ambleto</field>
+<field name="titleSort">Ambleto</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1715</field>
+<field name="date">1715</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ambleto+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

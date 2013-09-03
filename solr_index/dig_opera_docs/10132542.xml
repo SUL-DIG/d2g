@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132542</field>
+<field name="genre">Operas</field>
+<field name="title">Let My People Go</field>
+<field name="titleSort">Let My People Go</field>
+<field name="composer">Raymond Warren</field>
+<field name="composerSort">Warren, Raymond</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Raymond Warren</field>
+<field name="librettistSort">Warren, Raymond</field>
+<field name="theater">Metropolitan Cathedral</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Let+My+People+Go+Raymond+Warren&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128234</field>
+<field name="genre">Operas</field>
+<field name="title">Die Giftmischerin</field>
+<field name="titleSort">Giftmischerin</field>
+<field name="composer">Louis Schindelmeisser</field>
+<field name="composerSort">Schindelmeisser, Louis</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Friedrich Genée</field>
+<field name="librettistSort">Genée, Friedrich</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Giftmischerin+Louis+Schindelmeisser&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117052</field>
+<field name="genre">Operas</field>
+<field name="title">The Partisans</field>
+<field name="titleSort">Partisans</field>
+<field name="composer">Bruce Laird</field>
+<field name="composerSort">Laird, Bruce</field>
+<field name="year">1969</field>
+<field name="date">1969</field><field name="theater">Opera Society</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Partisans+Bruce+Laird&amp;search_field=search</field>
+</doc>
+</add>

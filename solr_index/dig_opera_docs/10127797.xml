@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127797</field>
+<field name="genre">Operas</field>
+<field name="title">Orithia</field>
+<field name="titleSort">Orithia</field>
+<field name="composer">Gasparo Sartorio</field>
+<field name="composerSort">Sartorio, Gasparo</field>
+<field name="year">1650</field>
+<field name="date">1650</field>
+<field name="librettist">Maiolino Bisaccioni</field>
+<field name="librettistSort">Bisaccioni, Maiolino</field>
+<field name="theater">Teatro di Santi Apostoli</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orithia+Gasparo+Sartorio&amp;search_field=search</field>
+</doc>
+</add>

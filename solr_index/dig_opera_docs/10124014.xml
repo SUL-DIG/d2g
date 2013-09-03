@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124014</field>
+<field name="genre">Operas</field>
+<field name="title">Der ungetreue Peter</field>
+<field name="titleSort">ungetreue Peter</field>
+<field name="composer">Johann Pfeifer</field>
+<field name="composerSort">Pfeifer, Johann</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Willi Stuhlfeld</field>
+<field name="librettistSort">Stuhlfeld, Willi</field>
+<field name="librettist">Arthur Lokesch</field>
+<field name="librettistSort">Lokesch, Arthur</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+ungetreue+Peter+Johann+Pfeifer&amp;search_field=search</field>
+</doc>
+</add>

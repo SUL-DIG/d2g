@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125997</field>
+<field name="genre">Operas</field>
+<field name="title">Emmerich Fortunat</field>
+<field name="titleSort">Emmerich Fortunat</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Eduard Dubsky</field>
+<field name="librettistSort">Dubsky, Eduard</field>
+<field name="librettist">Emil Nikolaus von Reznicek</field>
+<field name="librettistSort">Reznicek, Emil Nikolaus von</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emmerich+Fortunat+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

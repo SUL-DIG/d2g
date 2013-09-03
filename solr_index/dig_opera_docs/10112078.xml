@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112078</field>
+<field name="genre">Operas</field>
+<field name="title">Undine</field>
+<field name="titleSort">Undine</field>
+<field name="composer">Christian Friedrich Johann Girschner</field>
+<field name="composerSort">Girschner, Christian Friedrich Johann</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Friedrich de La Motte-Fouqué</field>
+<field name="librettistSort">La Motte-Fouqué, Friedrich de</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Undine+Christian+Friedrich+Johann+Girschner&amp;search_field=search</field>
+</doc>
+</add>

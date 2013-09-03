@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116125</field>
+<field name="genre">Operas</field>
+<field name="title">Die Maler</field>
+<field name="titleSort">Maler</field>
+<field name="composer">Friedrich Knapp</field>
+<field name="composerSort">Knapp, Friedrich</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Friedrich Ludwig Finkh</field>
+<field name="librettistSort">Finkh, Friedrich Ludwig</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Maler+Friedrich+Knapp&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109688</field>
+<field name="genre">Operas</field>
+<field name="title">Gismonda</field>
+<field name="titleSort">Gismonda</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+<field name="theater">Auditorium Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gismonda+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

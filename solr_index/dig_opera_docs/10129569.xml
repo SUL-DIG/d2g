@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129569</field>
+<field name="genre">Operas</field>
+<field name="title">L'orfana</field>
+<field name="titleSort">orfana</field>
+<field name="composer">Gustavo Spagli</field>
+<field name="composerSort">Spagli, Gustavo</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Luigi Chiti</field>
+<field name="librettistSort">Chiti, Luigi</field>
+<field name="theater">Teatro Annivati</field>
+<field name="city">Montaione</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orfana+Gustavo+Spagli&amp;search_field=search</field>
+</doc>
+</add>

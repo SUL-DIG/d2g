@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105270</field>
+<field name="genre">Operas</field>
+<field name="title">Paron Giovanni</field>
+<field name="titleSort">Paron Giovanni</field>
+<field name="composer">Antonio Castracane</field>
+<field name="composerSort">Castracane, Antonio</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Alessandro Rossi</field>
+<field name="librettistSort">Rossi, Alessandro</field>
+<field name="theater">Teatro Nuovo Fenice</field>
+<field name="city">Osimo</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paron+Giovanni+Antonio+Castracane&amp;search_field=search</field>
+</doc>
+</add>

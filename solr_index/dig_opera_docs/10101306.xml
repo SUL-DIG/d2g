@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101306</field>
+<field name="genre">Operas</field>
+<field name="title">I capricci in amore</field>
+<field name="titleSort">capricci in amore</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1787</field>
+<field name="date">1787</field><field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+capricci+in+amore+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

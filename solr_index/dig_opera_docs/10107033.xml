@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107033</field>
+<field name="genre">Operas</field>
+<field name="title">Ludro</field>
+<field name="titleSort">Ludro</field>
+<field name="composer">Gaetano Dalla Baratta</field>
+<field name="composerSort">Dalla Baratta, Gaetano</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Lucca Gregori</field>
+<field name="librettistSort">Gregori, Lucca</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Rijeka</field>
+<field name="region">Primorje-Gorski</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ludro+Gaetano+Dalla+Baratta&amp;search_field=search</field>
+</doc>
+</add>

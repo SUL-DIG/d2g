@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118025</field>
+<field name="genre">Operas</field>
+<field name="title">Chez les Montagnards écossais</field>
+<field name="titleSort">Chez les Montagnards écossais</field>
+<field name="composer">Auguste Léveillé</field>
+<field name="composerSort">Léveillé, Auguste</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Julien Deschamps</field>
+<field name="librettistSort">Deschamps, Julien</field>
+<field name="librettist">Jules Rémi</field>
+<field name="librettistSort">Rémi, Jules</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chez+les+Montagnards+écossais+Auguste+Léveillé&amp;search_field=search</field>
+</doc>
+</add>

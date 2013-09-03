@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115422</field>
+<field name="genre">Operas</field>
+<field name="title">Rip Van Winkle</field>
+<field name="titleSort">Rip Van Winkle</field>
+<field name="composer">Jules Jordan</field>
+<field name="composerSort">Jordan, Jules</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Jules Jordan</field>
+<field name="librettistSort">Jordan, Jules</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Opera House</field>
+<field name="city">Providence</field>
+<field name="region">Rhode Island</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Van+Winkle+Jules+Jordan&amp;search_field=search</field>
+</doc>
+</add>

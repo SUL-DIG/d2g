@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114382</field>
+<field name="genre">Operas</field>
+<field name="title">What the Old Man does is Always Right</field>
+<field name="titleSort">What the Old Man does is Always Right</field>
+<field name="composer">Alun Hoddinott</field>
+<field name="composerSort">Hoddinott, Alun</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Myfanwy Piper</field>
+<field name="librettistSort">Piper, Myfanwy</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Fishguard County Secondary School</field>
+<field name="city">Fishguard</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=What+the+Old+Man+does+is+Always+Right+Alun+Hoddinott&amp;search_field=search</field>
+</doc>
+</add>

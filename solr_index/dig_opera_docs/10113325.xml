@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113325</field>
+<field name="genre">Operas</field>
+<field name="title">Hinko</field>
+<field name="titleSort">Hinko</field>
+<field name="composer">Johann Baptist Hagen</field>
+<field name="composerSort">Hagen, Johann Baptist</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">F. Horinke</field>
+<field name="librettistSort">Horinke, F.</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hinko+Johann+Baptist+Hagen&amp;search_field=search</field>
+</doc>
+</add>

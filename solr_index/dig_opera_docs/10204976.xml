@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204976</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Zurückkunft des verlorenen Sohnes</field>
+		<field name="titleSort">Zurückkunft des verlorenen Sohnes</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Friedrich Hartmann Graf</field>
+		<field name="composerSort">Graf, Friedrich Hartmann</field>
+		
+		
+		<field name="theater">Fürstbischöfliche Hofkapelle</field>
+		<field name="city">Augsburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Zurückkunft+des+verlorenen+Sohnes+Friedrich+Hartmann+Graf&amp;search_field=search</field>
+	</doc></add>

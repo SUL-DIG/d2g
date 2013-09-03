@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114131</field>
+<field name="genre">Operas</field>
+<field name="title">Wuthering Heights</field>
+<field name="titleSort">Wuthering Heights</field>
+<field name="composer">Bernard Herrmann</field>
+<field name="composerSort">Herrmann, Bernard</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Lucille Fletcher</field>
+<field name="librettistSort">Fletcher, Lucille</field>
+<field name="librettist">Emily Brontë</field>
+<field name="librettistSort">Brontë, Emily</field>
+<field name="theater">Civic Auditorium</field>
+<field name="city">Portland</field>
+<field name="region">Oregon</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wuthering+Heights+Bernard+Herrmann&amp;search_field=search</field>
+</doc>
+</add>

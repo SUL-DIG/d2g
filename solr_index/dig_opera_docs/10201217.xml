@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201217</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther</field>
+		<field name="titleSort">Esther</field>
+		<field name="year">1792</field>
+		
+		
+		<field name="date">1792</field>
+		<field name="composer">Vincenzo Manfredini</field>
+		<field name="composerSort">Manfredini, Vincenzo</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther+Vincenzo+Manfredini&amp;search_field=search</field>
+	</doc></add>

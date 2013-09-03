@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116288</field>
+<field name="genre">Operas</field>
+<field name="title">Grand Café</field>
+<field name="titleSort">Grand Café</field>
+<field name="composer">Károly Komjáti</field>
+<field name="composerSort">Komjáti, Károly</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Rezso Török</field>
+<field name="librettistSort">Török, Rezso</field>
+<field name="librettist">Andor Kellér</field>
+<field name="librettistSort">Kellér, Andor</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grand+Café+Károly+Komjáti&amp;search_field=search</field>
+</doc>
+</add>

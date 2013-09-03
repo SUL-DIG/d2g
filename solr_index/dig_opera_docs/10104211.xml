@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104211</field>
+<field name="genre">Operas</field>
+<field name="title">Die Sühne</field>
+<field name="titleSort">Sühne</field>
+<field name="composer">Ingeborg von Bronsart</field>
+<field name="composerSort">Bronsart, Ingeborg von</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Ingeborg von Bronsart</field>
+<field name="librettistSort">Bronsart, Ingeborg von</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Sühne+Ingeborg+von+Bronsart&amp;search_field=search</field>
+</doc>
+</add>

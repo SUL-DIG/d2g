@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203201</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Passion</field>
+		<field name="titleSort">Passion</field>
+		<field name="year">1896</field>
+		
+		
+		<field name="date">1896</field>
+		<field name="composer">Heinrich von Herzogenburg</field>
+		<field name="composerSort">Herzogenburg, Heinrich von</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Passion+Heinrich+von+Herzogenburg&amp;search_field=search</field>
+	</doc></add>

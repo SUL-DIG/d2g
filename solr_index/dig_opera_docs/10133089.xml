@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133089</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Gespenster-Souper</field>
+<field name="titleSort">Gespenster-Souper</field>
+<field name="composer">Georg Woehlert</field>
+<field name="composerSort">Woehlert, Georg</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Gustav Fischer-Ohmann</field>
+<field name="librettistSort">Fischer-Ohmann, Gustav</field>
+<field name="theater">Sommertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Gespenster-Souper+Georg+Woehlert&amp;search_field=search</field>
+</doc>
+</add>

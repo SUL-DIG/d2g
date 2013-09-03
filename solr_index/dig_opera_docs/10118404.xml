@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118404</field>
+<field name="genre">Operas</field>
+<field name="title">À la Jamaïque</field>
+<field name="titleSort">À la Jamaïque</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="theater">Théâtre de la Porte-Saint-Martin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+la+Jamaïque+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

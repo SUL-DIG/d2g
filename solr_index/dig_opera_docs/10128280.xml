@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128280</field>
+<field name="genre">Operas</field>
+<field name="title">Student und Bauer</field>
+<field name="titleSort">Student und Bauer</field>
+<field name="composer">August Gotthold Schliebner</field>
+<field name="composerSort">Schliebner, August Gotthold</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="city">Stralsund</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Student+und+Bauer+August+Gotthold+Schliebner&amp;search_field=search</field>
+</doc>
+</add>

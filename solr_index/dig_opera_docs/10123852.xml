@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123852</field>
+<field name="genre">Operas</field>
+<field name="title">Dionisio Siracusano</field>
+<field name="titleSort">Dionisio Siracusano</field>
+<field name="composer">Giacomo Antonio Perti</field>
+<field name="composerSort">Perti, Giacomo Antonio</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dionisio+Siracusano+Giacomo+Antonio+Perti&amp;search_field=search</field>
+</doc>
+</add>

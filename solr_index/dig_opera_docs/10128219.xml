@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128219</field>
+<field name="genre">Operas</field>
+<field name="title">Das Urianische Schloss</field>
+<field name="titleSort">Urianische Schloss</field>
+<field name="composer">Emanuel Schikaneder</field>
+<field name="composerSort">Schikaneder, Emanuel</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Urianische+Schloss+Emanuel+Schikaneder&amp;search_field=search</field>
+</doc>
+</add>

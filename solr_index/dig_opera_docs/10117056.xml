@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117056</field>
+<field name="genre">Operas</field>
+<field name="title">Le duel du commandeur</field>
+<field name="titleSort">duel du commandeur</field>
+<field name="composer">Théodore de Lajarte</field>
+<field name="composerSort">Lajarte, Théodore de</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Henry Boisseaux</field>
+<field name="librettistSort">Boisseaux, Henry</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+duel+du+commandeur+Théodore+de+Lajarte&amp;search_field=search</field>
+</doc>
+</add>

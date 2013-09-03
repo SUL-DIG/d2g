@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114952</field>
+<field name="genre">Operas</field>
+<field name="title">Teharski plemici (The Noblemen of Teharje)</field>
+<field name="titleSort">Teharski plemici (The Noblemen of Teharje)</field>
+<field name="composer">Benjamin Ipavec</field>
+<field name="composerSort">Ipavec, Benjamin</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Anton Funtek</field>
+<field name="librettistSort">Funtek, Anton</field>
+<field name="librettist">Ferdo Kocevar</field>
+<field name="librettistSort">Kocevar, Ferdo</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teharski+plemici+The+Noblemen+of+Teharje+Benjamin+Ipavec&amp;search_field=search</field>
+</doc>
+</add>

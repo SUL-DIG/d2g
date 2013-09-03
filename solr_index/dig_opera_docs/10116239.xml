@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116239</field>
+<field name="genre">Operas</field>
+<field name="title">Tivoli</field>
+<field name="titleSort">Tivoli</field>
+<field name="composer">Kеre Kolberg</field>
+<field name="composerSort">Kolberg, Kеre</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Per Egil Fosser</field>
+<field name="librettistSort">Fosser, Per Egil</field>
+<field name="librettist">Dylan Thomas</field>
+<field name="librettistSort">Thomas, Dylan</field>
+<field name="theater">NRK Television (Norsk Rikskringkasting)</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tivoli+Kеre+Kolberg&amp;search_field=search</field>
+</doc>
+</add>

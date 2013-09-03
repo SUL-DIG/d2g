@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200769</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Cure of Saul</field>
+		<field name="titleSort">Cure of Saul</field>
+		
+		
+		
+		
+		<field name="composer">George Berg</field>
+		<field name="composerSort">Berg, George</field>
+		<field name="librettist">John Brown</field>
+		<field name="librettistSort">Brown, John</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saul calmed by David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cure+of+Saul+George+Berg&amp;search_field=search</field>
+	</doc></add>

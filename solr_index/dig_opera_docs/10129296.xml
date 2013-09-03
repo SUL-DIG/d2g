@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129296</field>
+<field name="genre">Operas</field>
+<field name="title">De Gelofte</field>
+<field name="titleSort">Gelofte</field>
+<field name="composer">Willem Smits</field>
+<field name="composerSort">Smits, Willem</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">F. J. de Wit</field>
+<field name="librettistSort">Wit, F. J. de</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Gelofte+Willem+Smits&amp;search_field=search</field>
+</doc>
+</add>

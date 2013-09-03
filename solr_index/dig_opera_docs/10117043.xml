@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117043</field>
+<field name="genre">Operas</field>
+<field name="title">"Pierrot et Folie, ou Pierrot а coté</field>
+<field name="titleSort">"Pierrot et Folie, ou Pierrot а coté"</field>
+<field name="composer">Alexandre Lagye</field>
+<field name="composerSort">Lagye, Alexandre</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Henri Liesse</field>
+<field name="librettistSort">Liesse, Henri</field>
+<field name="theater">Café-concert de l'Alcazar</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pierrot+et+Folie,+ou+Pierrot+а+coté+Alexandre+Lagye&amp;search_field=search</field>
+</doc>
+</add>

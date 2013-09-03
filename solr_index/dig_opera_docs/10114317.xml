@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114317</field>
+<field name="genre">Operas</field>
+<field name="title">Qui? ou la vierge des quatre z'arts</field>
+<field name="titleSort">Qui? ou la vierge des quatre z'arts</field>
+<field name="composer">Louis Hillier</field>
+<field name="composerSort">Hillier, Louis</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Léo Diensis</field>
+<field name="librettistSort">Diensis, Léo</field>
+<field name="theater">Théâtre de la Gaîté-Rochechouart</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Qui?+ou+la+vierge+des+quatre+z'arts+Louis+Hillier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131073</field>
+<field name="genre">Operas</field>
+<field name="title">"Ulysse, ou Le beau périple</field>
+<field name="titleSort">"Ulysse, ou Le beau périple"</field>
+<field name="composer">Henri Tomasi</field>
+<field name="composerSort">Tomasi, Henri</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Henri Tomasi</field>
+<field name="librettistSort">Tomasi, Henri</field>
+<field name="librettist">Jean Giono</field>
+<field name="librettistSort">Giono, Jean</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Mulhouse</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulysse,+ou+Le+beau+périple+Henri+Tomasi&amp;search_field=search</field>
+</doc>
+</add>

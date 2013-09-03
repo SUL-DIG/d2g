@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102090</field>
+<field name="genre">Operas</field>
+<field name="title">Le premier pas</field>
+<field name="titleSort">premier pas</field>
+<field name="composer">Gustave Bazin</field>
+<field name="composerSort">Bazin, Gustave</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">__ Levasseur</field>
+<field name="librettistSort">Levasseur, __</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Reims</field>
+<field name="region">Marne</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+premier+pas+Gustave+Bazin&amp;search_field=search</field>
+</doc>
+</add>

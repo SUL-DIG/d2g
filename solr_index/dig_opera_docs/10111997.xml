@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111997</field>
+<field name="genre">Operas</field>
+<field name="title">Ines de Castro</field>
+<field name="titleSort">Ines de Castro</field>
+<field name="composer">Giuseppe Giordani</field>
+<field name="composerSort">Giordani, Giuseppe</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Cosimo Giotti</field>
+<field name="librettistSort">Giotti, Cosimo</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ines+de+Castro+Giuseppe+Giordani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204642</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della grazia, overo La conversione di Maddalena</field>
+		<field name="titleSort">trionfo della grazia, overo La conversione di Maddalena</field>
+		<field name="year">1707</field>
+		
+		
+		<field name="date">1707</field>
+		<field name="composer">Antonio Maria Bononcini</field>
+		<field name="composerSort">Bononcini, Antonio Maria</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+grazia,+overo+La+conversione+di+Maddalena+Antonio+Maria+Bononcini&amp;search_field=search</field>
+	</doc></add>

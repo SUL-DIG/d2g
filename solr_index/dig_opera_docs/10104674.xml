@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104674</field>
+<field name="genre">Operas</field>
+<field name="title">Ornospade</field>
+<field name="titleSort">Ornospade</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ornospade+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119388</field>
+<field name="genre">Operas</field>
+<field name="title">La signora Paulatim</field>
+<field name="titleSort">signora Paulatim</field>
+<field name="composer">Gino Marinuzzi</field>
+<field name="composerSort">Marinuzzi, Gino</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Italo Alighiero Chiusano</field>
+<field name="librettistSort">Chiusano, Italo Alighiero</field>
+<field name="librettist">Italo Calvino</field>
+<field name="librettistSort">Calvino, Italo</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+signora+Paulatim+Gino+Marinuzzi&amp;search_field=search</field>
+</doc>
+</add>

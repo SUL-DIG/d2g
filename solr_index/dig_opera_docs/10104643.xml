@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104643</field>
+<field name="genre">Operas</field>
+<field name="title">Dorina e Grullo</field>
+<field name="titleSort">Dorina e Grullo</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Girolamo Gigli</field>
+<field name="librettistSort">Gigli, Girolamo</field>
+<field name="theater">Palazzo Bonelli</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorina+e+Grullo+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

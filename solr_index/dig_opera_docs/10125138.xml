@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125138</field>
+<field name="genre">Operas</field>
+<field name="title">Maddalena</field>
+<field name="titleSort">Maddalena</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Magda Gustavovna Liven-Orlova</field>
+<field name="librettistSort">Liven-Orlova, Magda Gustavovna</field>
+<field name="theater">BBC Television (British Broadcasting Corporation)</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maddalena+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202357</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Jüngling von Nain</field>
+		<field name="titleSort">Jüngling von Nain</field>
+		<field name="year">1830</field>
+		
+		
+		<field name="date">1830</field>
+		<field name="composer">Peter Lindpainter</field>
+		<field name="composerSort">Lindpainter, Peter</field>
+		<field name="librettist">Karl Grüneisen</field>
+		<field name="librettistSort">Grüneisen, Karl</field>
+		
+		
+		<field name="city">Stuttgart</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ and the Widow of Nain</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Jüngling+von+Nain+Peter+Lindpainter&amp;search_field=search</field>
+	</doc></add>

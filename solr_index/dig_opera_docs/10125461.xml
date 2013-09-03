@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125461</field>
+<field name="genre">Operas</field>
+<field name="title">Amuratte II</field>
+<field name="titleSort">Amuratte II</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Filippo Tarducci</field>
+<field name="librettistSort">Tarducci, Filippo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amuratte+II+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

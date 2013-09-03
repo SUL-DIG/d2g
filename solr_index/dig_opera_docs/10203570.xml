@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203570</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La regina Ester</field>
+		<field name="titleSort">regina Ester</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Giuseppe Giacomo Saratelli</field>
+		<field name="composerSort">Saratelli, Giuseppe Giacomo</field>
+		
+		
+		
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Ahasuerus makes Esther his Queen</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+regina+Ester+Giuseppe+Giacomo+Saratelli&amp;search_field=search</field>
+	</doc></add>

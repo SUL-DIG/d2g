@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100313</field>
+<field name="genre">Operas</field>
+<field name="title">Izeяl</field>
+<field name="titleSort">Izeяl</field>
+<field name="composer">Eugen d'Albert</field>
+<field name="composerSort">d'Albert, Eugen</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Izeяl+Eugen+d'Albert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119270</field>
+<field name="genre">Operas</field>
+<field name="title">Le voile d'amour</field>
+<field name="titleSort">voile d'amour</field>
+<field name="composer">Paul Marcelles</field>
+<field name="composerSort">Marcelles, Paul</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Gaston Guérin</field>
+<field name="librettistSort">Guérin, Gaston</field>
+<field name="librettist">Fernand Nozière</field>
+<field name="librettistSort">Nozière, Fernand</field>
+<field name="theater">"Salle des fêtes du ""Journal"""</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+voile+d'amour+Paul+Marcelles&amp;search_field=search</field>
+</doc>
+</add>

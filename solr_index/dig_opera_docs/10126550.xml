@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126550</field>
+<field name="genre">Operas</field>
+<field name="title">Blossom Time</field>
+<field name="titleSort">Blossom Time</field>
+<field name="composer">Sigmund Romberg</field>
+<field name="composerSort">Romberg, Sigmund</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Dorothy Donnelly</field>
+<field name="librettistSort">Donnelly, Dorothy</field>
+<field name="theater">Ambassador Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blossom+Time+Sigmund+Romberg&amp;search_field=search</field>
+</doc>
+</add>

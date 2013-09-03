@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114873</field>
+<field name="genre">Operas</field>
+<field name="title">"Armella, oder Die beiden Viceköniginnen</field>
+<field name="titleSort">"Armella, oder Die beiden Viceköniginnen"</field>
+<field name="composer">Anselm Hüttenbrenner</field>
+<field name="composerSort">Hüttenbrenner, Anselm</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Ignaz Carl Kollmann</field>
+<field name="librettistSort">Kollmann, Ignaz Carl</field>
+<field name="theater">Franzenstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armella,+oder+Die+beiden+Viceköniginnen+Anselm+Hüttenbrenner&amp;search_field=search</field>
+</doc>
+</add>

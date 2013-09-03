@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124366</field>
+<field name="genre">Operas</field>
+<field name="title">Mattia Corvino</field>
+<field name="titleSort">Mattia Corvino</field>
+<field name="composer">Ciro Pinsuti</field>
+<field name="composerSort">Pinsuti, Ciro</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Carlo d'Ormeville</field>
+<field name="librettistSort">d'Ormeville, Carlo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mattia+Corvino+Ciro+Pinsuti&amp;search_field=search</field>
+</doc>
+</add>

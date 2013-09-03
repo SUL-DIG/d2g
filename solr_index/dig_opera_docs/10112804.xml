@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112804</field>
+<field name="genre">Operas</field>
+<field name="title">"Memmon, ou La sagesse humaine</field>
+<field name="titleSort">"Memmon, ou La sagesse humaine"</field>
+<field name="composer">Charles Grisart</field>
+<field name="composerSort">Grisart, Charles</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Édouard Cadol</field>
+<field name="librettistSort">Cadol, Édouard</field>
+<field name="librettist">Henri Bocage</field>
+<field name="librettistSort">Bocage, Henri</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Memmon,+ou+La+sagesse+humaine+Charles+Grisart&amp;search_field=search</field>
+</doc>
+</add>

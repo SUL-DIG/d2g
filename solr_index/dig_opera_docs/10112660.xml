@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112660</field>
+<field name="genre">Operas</field>
+<field name="title">Le gondolier de Vénise</field>
+<field name="titleSort">gondolier de Vénise</field>
+<field name="composer">Jacques Grégoir</field>
+<field name="composerSort">Grégoir, Jacques</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Louis Hymans</field>
+<field name="librettistSort">Hymans, Louis</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+gondolier+de+Vénise+Jacques+Grégoir&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102447</field>
+<field name="genre">Operas</field>
+<field name="title">Evropská turistika (European Tourism)</field>
+<field name="titleSort">Evropská turistika (European Tourism)</field>
+<field name="composer">Josef Berg</field>
+<field name="composerSort">Berg, Josef</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Josef Berg</field>
+<field name="librettistSort">Berg, Josef</field>
+<field name="theater">Rudolfinum</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Evropská+turistika+European+Tourism+Josef+Berg&amp;search_field=search</field>
+</doc>
+</add>

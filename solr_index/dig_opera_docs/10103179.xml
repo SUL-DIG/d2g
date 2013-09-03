@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103179</field>
+<field name="genre">Operas</field>
+<field name="title">Un premier pas</field>
+<field name="titleSort">premier pas</field>
+<field name="composer">Felice Blangini</field>
+<field name="composerSort">Blangini, Felice</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Édouard Mennechet</field>
+<field name="librettistSort">Mennechet, Édouard</field>
+<field name="librettist">Jean-François Roger</field>
+<field name="librettistSort">Roger, Jean-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+premier+pas+Felice+Blangini&amp;search_field=search</field>
+</doc>
+</add>

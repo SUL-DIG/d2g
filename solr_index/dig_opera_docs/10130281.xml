@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130281</field>
+<field name="genre">Operas</field>
+<field name="title">Café Éros</field>
+<field name="titleSort">Café Éros</field>
+<field name="composer">Hubert Stuppner</field>
+<field name="composerSort">Stuppner, Hubert</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Charles Baudelaire</field>
+<field name="librettistSort">Baudelaire, Charles</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">Kammertheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Café+Éros+Hubert+Stuppner&amp;search_field=search</field>
+</doc>
+</add>

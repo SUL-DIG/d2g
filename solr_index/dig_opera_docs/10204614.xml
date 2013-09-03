@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204614</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della castitа</field>
+		<field name="titleSort">trionfo della castitа</field>
+		<field name="year">1688</field>
+		
+		
+		<field name="date">1688</field>
+		<field name="composer">Carlo Pallavicino</field>
+		<field name="composerSort">Pallavicino, Carlo</field>
+		<field name="librettist">Giovanni Matteo Giannini</field>
+		<field name="librettistSort">Giannini, Giovanni Matteo</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+castitа+Carlo+Pallavicino&amp;search_field=search</field>
+	</doc></add>

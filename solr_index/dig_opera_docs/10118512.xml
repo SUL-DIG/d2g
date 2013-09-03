@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118512</field>
+<field name="genre">Operas</field>
+<field name="title">Teuzzone</field>
+<field name="titleSort">Teuzzone</field>
+<field name="composer">Antonio Lotti</field>
+<field name="composerSort">Lotti, Antonio</field>
+<field name="year">1707</field>
+<field name="date">1707</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teuzzone+Antonio+Lotti&amp;search_field=search</field>
+</doc>
+</add>

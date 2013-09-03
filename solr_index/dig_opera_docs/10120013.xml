@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120013</field>
+<field name="genre">Operas</field>
+<field name="title">"Nicolò de' Lapi, ossia Il tradimento</field>
+<field name="titleSort">"Nicolò de' Lapi, ossia Il tradimento"</field>
+<field name="composer">Antonio Mazzolani</field>
+<field name="composerSort">Mazzolani, Antonio</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Gherardo Prosperi</field>
+<field name="librettistSort">Prosperi, Gherardo</field>
+<field name="theater">Teatro Pantera</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicolò+de'+Lapi,+ossia+Il+tradimento+Antonio+Mazzolani&amp;search_field=search</field>
+</doc>
+</add>

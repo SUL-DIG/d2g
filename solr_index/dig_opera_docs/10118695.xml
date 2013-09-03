@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118695</field>
+<field name="genre">Operas</field>
+<field name="title">Like a Window</field>
+<field name="titleSort">Like a Window</field>
+<field name="composer">Elisabeth Lutyens</field>
+<field name="composerSort">Lutyens, Elisabeth</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Vincent van Gogh</field>
+<field name="librettistSort">Gogh, Vincent van</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Like+a+Window+Elisabeth+Lutyens&amp;search_field=search</field>
+</doc>
+</add>

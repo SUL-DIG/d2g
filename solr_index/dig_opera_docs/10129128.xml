@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129128</field>
+<field name="genre">Operas</field>
+<field name="title">La belle au bois dormant</field>
+<field name="titleSort">belle au bois dormant</field>
+<field name="composer">Charles Silver</field>
+<field name="composerSort">Silver, Charles</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="librettist">Paul Collin</field>
+<field name="librettistSort">Collin, Paul</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+au+bois+dormant+Charles+Silver&amp;search_field=search</field>
+</doc>
+</add>

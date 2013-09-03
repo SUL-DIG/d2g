@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107186</field>
+<field name="genre">Operas</field>
+<field name="title">"Cécilia, ou Les trois tuteurs</field>
+<field name="titleSort">"Cécilia, ou Les trois tuteurs"</field>
+<field name="composer">Jean-Baptiste Davaux</field>
+<field name="composerSort">Davaux, Jean-Baptiste</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Charles-Jean Descombles</field>
+<field name="librettistSort">Descombles, Charles-Jean</field>
+<field name="librettist">Fanny Burney</field>
+<field name="librettistSort">Burney, Fanny</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cécilia,+ou+Les+trois+tuteurs+Jean-Baptiste+Davaux&amp;search_field=search</field>
+</doc>
+</add>

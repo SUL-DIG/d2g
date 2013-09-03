@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110868</field>
+<field name="genre">Operas</field>
+<field name="title">Trilby</field>
+<field name="titleSort">Trilby</field>
+<field name="composer">Arnaldo Galliera</field>
+<field name="composerSort">Galliera, Arnaldo</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Carlo Minetti</field>
+<field name="librettistSort">Minetti, Carlo</field>
+<field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trilby+Arnaldo+Galliera&amp;search_field=search</field>
+</doc>
+</add>

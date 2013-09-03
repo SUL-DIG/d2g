@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101777</field>
+<field name="genre">Operas</field>
+<field name="title">L'orfanella</field>
+<field name="titleSort">orfanella</field>
+<field name="composer">Paolo Baraldi</field>
+<field name="composerSort">Baraldi, Paolo</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orfanella+Paolo+Baraldi&amp;search_field=search</field>
+</doc>
+</add>

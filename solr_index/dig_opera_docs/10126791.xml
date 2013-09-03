@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126791</field>
+<field name="genre">Operas</field>
+<field name="title">Aureliano in Palmira</field>
+<field name="titleSort">Aureliano in Palmira</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Gian Francesco Romanelli</field>
+<field name="librettistSort">Romanelli, Gian Francesco</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aureliano+in+Palmira+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

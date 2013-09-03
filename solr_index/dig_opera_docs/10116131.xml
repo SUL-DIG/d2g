@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116131</field>
+<field name="genre">Operas</field>
+<field name="title">Kentervil'skoye privedeniye (Canterville Ghost)</field>
+<field name="titleSort">Kentervil'skoye privedeniye (Canterville Ghost)</field>
+<field name="composer">Aleksandr Aronovich Knayfel'</field>
+<field name="composerSort">Knayfel', Aleksandr Aronovich</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Tat'iana Kramarova</field>
+<field name="librettistSort">Kramarova, Tat'iana</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">House of Composers</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kentervil'skoye+privedeniye+Canterville+Ghost+Aleksandr+Aronovich+Knayfel'&amp;search_field=search</field>
+</doc>
+</add>

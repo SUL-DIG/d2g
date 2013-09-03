@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203854</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Francesco di Sales</field>
+		<field name="titleSort">San Francesco di Sales</field>
+		
+		
+		
+		
+		<field name="composer">Michele Cotumacci</field>
+		<field name="composerSort">Cotumacci, Michele</field>
+		
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Francis of Sales</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">January 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francesco+di+Sales+Michele+Cotumacci&amp;search_field=search</field>
+	</doc></add>

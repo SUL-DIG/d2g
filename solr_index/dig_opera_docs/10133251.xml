@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133251</field>
+<field name="genre">Operas</field>
+<field name="title">Vybukh (Explosion)</field>
+<field name="titleSort">Vybukh (Explosion)</field>
+<field name="composer">Boris Karlovych Yanovs'ky</field>
+<field name="composerSort">Yanovs'ky, Boris Karlovych</field>
+<field name="year">1927</field>
+<field name="date">1927</field><field name="theater">Russkaya Gosudarstvennaya Opera</field>
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vybukh+Explosion+Boris+Karlovych+Yanovs'ky&amp;search_field=search</field>
+</doc>
+</add>

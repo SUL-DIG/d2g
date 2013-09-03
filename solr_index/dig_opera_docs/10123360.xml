@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123360</field>
+<field name="genre">Operas</field>
+<field name="title">Le gelosie di padron Grisogono</field>
+<field name="titleSort">gelosie di padron Grisogono</field>
+<field name="composer">Cesare Pascucci</field>
+<field name="composerSort">Pascucci, Cesare</field>
+<field name="year">1889</field>
+<field name="date">1889</field><field name="theater">Teatro Rossini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+gelosie+di+padron+Grisogono+Cesare+Pascucci&amp;search_field=search</field>
+</doc>
+</add>

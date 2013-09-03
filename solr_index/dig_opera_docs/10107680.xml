@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107680</field>
+<field name="genre">Operas</field>
+<field name="title">Les quiproquos espagnols</field>
+<field name="titleSort">quiproquos espagnols</field>
+<field name="composer">François Devienne</field>
+<field name="composerSort">Devienne, François</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Jean-Élie-Bédéno Dejaure</field>
+<field name="librettistSort">Dejaure, Jean-Élie-Bédéno</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+quiproquos+espagnols+François+Devienne&amp;search_field=search</field>
+</doc>
+</add>

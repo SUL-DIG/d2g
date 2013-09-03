@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101025</field>
+<field name="genre">Operas</field>
+<field name="title">The Boy with a Cart</field>
+<field name="titleSort">Boy with a Cart</field>
+<field name="composer">Ronald Arnatt</field>
+<field name="composerSort">Arnatt, Ronald</field>
+<field name="year">1968</field>
+<field name="date">1968</field><field name="theater">Mary Institute</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Boy+with+a+Cart+Ronald+Arnatt&amp;search_field=search</field>
+</doc>
+</add>

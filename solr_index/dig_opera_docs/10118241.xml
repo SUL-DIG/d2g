@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118241</field>
+<field name="genre">Operas</field>
+<field name="title">Bianca di Santafiora</field>
+<field name="titleSort">Bianca di Santafiora</field>
+<field name="composer">Giulio Litta</field>
+<field name="composerSort">Litta, Giulio</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Pietro Rotondi</field>
+<field name="librettistSort">Rotondi, Pietro</field>
+<field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+di+Santafiora+Giulio+Litta&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129845</field>
+<field name="genre">Operas</field>
+<field name="title">K'adj Nazar (Brave Nazar)</field>
+<field name="titleSort">K'adj Nazar (Brave Nazar)</field>
+<field name="composer">Haro Levon Step'anyan</field>
+<field name="composerSort">Step'anyan, Haro Levon</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Terenig Demirdjyan</field>
+<field name="librettistSort">Demirdjyan, Terenig</field>
+<field name="theater">Spendiaryani Anvan Operayi ev Baleti T'atron</field>
+<field name="city">Erevan</field>
+
+<field name="country">Armenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=K'adj+Nazar+Brave+Nazar+Haro+Levon+Step'anyan&amp;search_field=search</field>
+</doc>
+</add>

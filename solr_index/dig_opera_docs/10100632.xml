@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100632</field>
+<field name="genre">Operas</field>
+<field name="title">La giardiniera di corte</field>
+<field name="titleSort">giardiniera di corte</field>
+<field name="composer">Alberto Amelio</field>
+<field name="composerSort">Amelio, Alberto</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Sala Umberto</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+giardiniera+di+corte+Alberto+Amelio&amp;search_field=search</field>
+</doc>
+</add>

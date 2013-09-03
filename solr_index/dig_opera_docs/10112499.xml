@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112499</field>
+<field name="genre">Operas</field>
+<field name="title">Maria di Brabante</field>
+<field name="titleSort">Maria di Brabante</field>
+<field name="composer">Achille Graffigna</field>
+<field name="composerSort">Graffigna, Achille</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="theater">Teatro Mauroner</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+di+Brabante+Achille+Graffigna&amp;search_field=search</field>
+</doc>
+</add>

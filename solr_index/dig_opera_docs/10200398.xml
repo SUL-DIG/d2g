@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200398</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Bethsabea</field>
+		<field name="titleSort">Bethsabea</field>
+		<field name="year">1692</field>
+		<field name="month">March</field>
+		<field name="day">21</field>
+		<field name="date">March 21, 1692</field>
+		<field name="composer">Giovanni Lorenzo Lulier</field>
+		<field name="composerSort">Lulier, Giovanni Lorenzo</field>
+		<field name="librettist">Giovanni Francesco Rubini</field>
+		<field name="librettistSort">Rubini, Giovanni Francesco</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Bathsheba</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bethsabea+Giovanni+Lorenzo+Lulier&amp;search_field=search</field>
+	</doc></add>

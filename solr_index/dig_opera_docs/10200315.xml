@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200315</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Augustinus</field>
+		<field name="titleSort">Augustinus</field>
+		<field name="year">1755</field>
+		
+		
+		<field name="date">1755</field>
+		<field name="composer">Johann Ernst Eberlin</field>
+		<field name="composerSort">Eberlin, Johann Ernst</field>
+		<field name="librettist">Andreas Schachtner</field>
+		<field name="librettistSort">Schachtner, Andreas</field>
+		
+		
+		<field name="city">Salzburg</field>
+		<field name="region">Salzburg</field>
+		<field name="country">Austria</field>
+		<field name="subject">Saint Augustine</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">November 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Augustinus+Johann+Ernst+Eberlin&amp;search_field=search</field>
+	</doc></add>

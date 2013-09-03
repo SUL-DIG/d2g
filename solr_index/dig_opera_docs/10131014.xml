@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131014</field>
+<field name="genre">Operas</field>
+<field name="title">Robin Hood</field>
+<field name="titleSort">Robin Hood</field>
+<field name="composer">Michael Tippett</field>
+<field name="composerSort">Tippett, Michael</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">[Michael Tippett et al.] D. M. Pennyless</field>
+<field name="librettistSort">Pennyless, D. M. [Michael Tippett et al.]</field>
+
+<field name="city">Boosbeck</field>
+<field name="region">Cleveland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robin+Hood+Michael+Tippett&amp;search_field=search</field>
+</doc>
+</add>

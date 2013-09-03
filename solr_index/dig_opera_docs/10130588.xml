@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130588</field>
+<field name="genre">Operas</field>
+<field name="title">Granada</field>
+<field name="titleSort">Granada</field>
+<field name="composer">Aleksandur Tanev</field>
+<field name="composerSort">Tanev, Aleksandur</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Ivan Vason</field>
+<field name="librettistSort">Vason, Ivan</field>
+
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Granada+Aleksandur+Tanev&amp;search_field=search</field>
+</doc>
+</add>

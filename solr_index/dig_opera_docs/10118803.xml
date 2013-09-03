@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118803</field>
+<field name="genre">Operas</field>
+<field name="title">Humulus the Mute</field>
+<field name="titleSort">Humulus the Mute</field>
+<field name="composer">David K. Macintyre</field>
+<field name="composerSort">Macintyre, David K.</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Michael Benedict</field>
+<field name="librettistSort">Benedict, Michael</field>
+<field name="librettist">Jean Anouilh</field>
+<field name="librettistSort">Anouilh, Jean</field>
+<field name="theater">University of Victoria</field>
+<field name="city">Victoria</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Humulus+the+Mute+David+K.+Macintyre&amp;search_field=search</field>
+</doc>
+</add>

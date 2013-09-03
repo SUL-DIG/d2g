@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123463</field>
+<field name="genre">Operas</field>
+<field name="title">Kiss-Kiss</field>
+<field name="titleSort">Kiss-Kiss</field>
+<field name="composer">Lamberto Pavanelli</field>
+<field name="composerSort">Pavanelli, Lamberto</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Carlo Zangarini</field>
+<field name="librettistSort">Zangarini, Carlo</field>
+<field name="librettist">A. M. Tolber</field>
+<field name="librettistSort">Tolber, A. M.</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kiss-Kiss+Lamberto+Pavanelli&amp;search_field=search</field>
+</doc>
+</add>

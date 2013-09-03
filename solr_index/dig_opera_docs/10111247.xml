@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111247</field>
+<field name="genre">Operas</field>
+<field name="title">Olimpiade</field>
+<field name="titleSort">Olimpiade</field>
+<field name="composer">Luigi Gatti</field>
+<field name="composerSort">Gatti, Luigi</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Fürstbischöfliche Palast</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olimpiade+Luigi+Gatti&amp;search_field=search</field>
+</doc>
+</add>

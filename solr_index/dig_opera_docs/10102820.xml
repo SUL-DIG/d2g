@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102820</field>
+<field name="genre">Operas</field>
+<field name="title">Don Chisciotte della Mancia</field>
+<field name="titleSort">Don Chisciotte della Mancia</field>
+<field name="composer">Simone Besi</field>
+<field name="composerSort">Besi, Simone</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Lorenzo Coleschi</field>
+<field name="librettistSort">Coleschi, Lorenzo</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Sansepolcro</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Chisciotte+della+Mancia+Simone+Besi&amp;search_field=search</field>
+</doc>
+</add>

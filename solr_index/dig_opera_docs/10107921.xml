@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107921</field>
+<field name="genre">Operas</field>
+<field name="title">Folchetto</field>
+<field name="titleSort">Folchetto</field>
+<field name="composer">Stefano Donaudy</field>
+<field name="composerSort">Donaudy, Stefano</field>
+<field name="year">1892</field>
+<field name="date">1892</field><field name="theater">Private Performance</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Folchetto+Stefano+Donaudy&amp;search_field=search</field>
+</doc>
+</add>

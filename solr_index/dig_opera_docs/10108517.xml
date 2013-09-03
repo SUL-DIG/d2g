@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108517</field>
+<field name="genre">Operas</field>
+<field name="title">La passion</field>
+<field name="titleSort">passion</field>
+<field name="composer">Albert Dupuis</field>
+<field name="composerSort">Dupuis, Albert</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Jules Méry</field>
+<field name="librettistSort">Méry, Jules</field>
+<field name="librettist">Paul de Choudens</field>
+<field name="librettistSort">Choudens, Paul de</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passion+Albert+Dupuis&amp;search_field=search</field>
+</doc>
+</add>

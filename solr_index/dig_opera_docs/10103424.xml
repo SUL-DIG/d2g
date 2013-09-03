@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103424</field>
+<field name="genre">Operas</field>
+<field name="title">Daphnis et Chloé</field>
+<field name="titleSort">Daphnis et Chloé</field>
+<field name="composer">Joseph Bodin de Boismortier</field>
+<field name="composerSort">Boismortier, Joseph Bodin de</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Pierre Laujon</field>
+<field name="librettistSort">Laujon, Pierre</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphnis+et+Chloé+Joseph+Bodin+de+Boismortier&amp;search_field=search</field>
+</doc>
+</add>

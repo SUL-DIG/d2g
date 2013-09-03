@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110849</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare al Rubicone</field>
+<field name="titleSort">Cesare al Rubicone</field>
+<field name="composer">Amintore Galli</field>
+<field name="composerSort">Galli, Amintore</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Fedele Venturi</field>
+<field name="librettistSort">Venturi, Fedele</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Rimini</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+al+Rubicone+Amintore+Galli&amp;search_field=search</field>
+</doc>
+</add>

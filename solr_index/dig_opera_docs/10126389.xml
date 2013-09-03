@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126389</field>
+<field name="genre">Operas</field>
+<field name="title">La Casandra</field>
+<field name="titleSort">Casandra</field>
+<field name="composer">Mateo de la Roca</field>
+<field name="composerSort">Roca, Mateo de la</field>
+<field name="year">1737</field>
+<field name="date">1737</field><field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Casandra+Mateo+de+la+Roca&amp;search_field=search</field>
+</doc>
+</add>

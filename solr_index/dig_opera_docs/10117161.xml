@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117161</field>
+<field name="genre">Operas</field>
+<field name="title">Antigono</field>
+<field name="titleSort">Antigono</field>
+<field name="composer">Giovanni Battista Lampugnani</field>
+<field name="composerSort">Lampugnani, Giovanni Battista</field>
+<field name="year">1736</field>
+<field name="date">1736</field>
+<field name="librettist">Gaetano Marizoli</field>
+<field name="librettistSort">Marizoli, Gaetano</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigono+Giovanni+Battista+Lampugnani&amp;search_field=search</field>
+</doc>
+</add>

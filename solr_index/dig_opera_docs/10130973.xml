@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130973</field>
+<field name="genre">Operas</field>
+<field name="title">Judith</field>
+<field name="titleSort">Judith</field>
+<field name="composer">Pauline Thys</field>
+<field name="composerSort">Thys, Pauline</field>
+<field name="year">1883</field>
+<field name="date">1883</field><field name="theater">Salle Pleyel</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Pauline+Thys&amp;search_field=search</field>
+</doc>
+</add>

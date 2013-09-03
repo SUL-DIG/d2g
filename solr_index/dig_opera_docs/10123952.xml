@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123952</field>
+<field name="genre">Operas</field>
+<field name="title">Egle: Zalciu Karaliene</field>
+<field name="titleSort">Egle: Zalciu Karaliene</field>
+<field name="composer">Mikas Petrauskas</field>
+<field name="composerSort">Petrauskas, Mikas</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Aleksandras Fromas</field>
+<field name="librettistSort">Fromas, Aleksandras</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Egle:+Zalciu+Karaliene+Mikas+Petrauskas&amp;search_field=search</field>
+</doc>
+</add>

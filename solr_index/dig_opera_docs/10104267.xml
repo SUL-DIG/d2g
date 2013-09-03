@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104267</field>
+<field name="genre">Operas</field>
+<field name="title">"Angelo, tyran de Padoue</field>
+<field name="titleSort">"Angelo, tyran de Padoue"</field>
+<field name="composer">Alfred Bruneau</field>
+<field name="composerSort">Bruneau, Alfred</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Charles Méré</field>
+<field name="librettistSort">Méré, Charles</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelo,+tyran+de+Padoue+Alfred+Bruneau&amp;search_field=search</field>
+</doc>
+</add>

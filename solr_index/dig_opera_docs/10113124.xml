@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113124</field>
+<field name="genre">Operas</field>
+<field name="title">The Partisans</field>
+<field name="titleSort">Partisans</field>
+<field name="composer">Inglis Gundry</field>
+<field name="composerSort">Gundry, Inglis</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Inglis Gundry</field>
+<field name="librettistSort">Gundry, Inglis</field>
+<field name="theater">Saint Pancras Town Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Partisans+Inglis+Gundry&amp;search_field=search</field>
+</doc>
+</add>

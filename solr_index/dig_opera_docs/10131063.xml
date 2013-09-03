@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131063</field>
+<field name="genre">Operas</field>
+<field name="title">L'Atlantide</field>
+<field name="titleSort">Atlantide</field>
+<field name="composer">Henri Tomasi</field>
+<field name="composerSort">Tomasi, Henri</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Francis Didelot</field>
+<field name="librettistSort">Didelot, Francis</field>
+<field name="librettist">Pierre Benoît</field>
+<field name="librettistSort">Benoît, Pierre</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Mulhouse</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Atlantide+Henri+Tomasi&amp;search_field=search</field>
+</doc>
+</add>

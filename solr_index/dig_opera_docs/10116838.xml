@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116838</field>
+<field name="genre">Operas</field>
+<field name="title">Sad ostateczny (The Last Court)</field>
+<field name="titleSort">Sad ostateczny (The Last Court)</field>
+<field name="composer">Karol Kazimierz Kurpinski</field>
+<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Franciszek Salezy Dmochowski</field>
+<field name="librettistSort">Dmochowski, Franciszek Salezy</field>
+<field name="librettist">Edward Young</field>
+<field name="librettistSort">Young, Edward</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sad+ostateczny+The+Last+Court+Karol+Kazimierz+Kurpinski&amp;search_field=search</field>
+</doc>
+</add>

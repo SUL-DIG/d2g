@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107633</field>
+<field name="genre">Operas</field>
+<field name="title">"Syncopé, reine de mic-mac</field>
+<field name="titleSort">"Syncopé, reine de mic-mac"</field>
+<field name="composer">Jean-Étienne Despréaux</field>
+<field name="composerSort">Despréaux, Jean-Étienne</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Jean-Étienne Déspreaux</field>
+<field name="librettistSort">Déspreaux, Jean-Étienne</field>
+<field name="theater">Théâtre de Gabriel</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Syncopé,+reine+de+mic-mac+Jean-Étienne+Despréaux&amp;search_field=search</field>
+</doc>
+</add>

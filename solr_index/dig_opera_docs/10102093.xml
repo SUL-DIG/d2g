@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102093</field>
+<field name="genre">Operas</field>
+<field name="title">Twardowski na Krzemionkach</field>
+<field name="titleSort">Twardowski na Krzemionkach</field>
+<field name="composer">József Bazny</field>
+<field name="composerSort">Bazny, József</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Jan Nepomucen Kaminski</field>
+<field name="librettistSort">Kaminski, Jan Nepomucen</field>
+<field name="theater">Stadttheater</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Twardowski+na+Krzemionkach+József+Bazny&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125973</field>
+<field name="genre">Operas</field>
+<field name="title">Der Tod des Empedokles</field>
+<field name="titleSort">Tod des Empedokles</field>
+<field name="composer">Hermann Reutter</field>
+<field name="composerSort">Reutter, Hermann</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Friedrich Hölderin</field>
+<field name="librettistSort">Hölderin, Friedrich</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Schwetzingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+des+Empedokles+Hermann+Reutter&amp;search_field=search</field>
+</doc>
+</add>

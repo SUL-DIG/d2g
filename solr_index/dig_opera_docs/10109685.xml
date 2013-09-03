@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109685</field>
+<field name="genre">Operas</field>
+<field name="title">Carmosine</field>
+<field name="titleSort">Carmosine</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmosine+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

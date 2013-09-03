@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107128</field>
+<field name="genre">Operas</field>
+<field name="title">My-Chau Trong-Thuy</field>
+<field name="titleSort">My-Chau Trong-Thuy</field>
+<field name="composer">Nguyen Thien Dao</field>
+<field name="composerSort">Dao, Nguyen Thien</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Nguyen Thien Dao</field>
+<field name="librettistSort">Dao, Nguyen Thien</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My-Chau+Trong-Thuy+Nguyen+Thien+Dao&amp;search_field=search</field>
+</doc>
+</add>

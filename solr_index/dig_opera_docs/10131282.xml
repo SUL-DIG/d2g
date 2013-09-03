@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131282</field>
+<field name="genre">Operas</field>
+<field name="title">La donna giudice</field>
+<field name="titleSort">donna giudice</field>
+<field name="composer">Vittorio Trento</field>
+<field name="composerSort">Trento, Vittorio</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Luigi Buonavoglia</field>
+<field name="librettistSort">Buonavoglia, Luigi</field>
+<field name="theater">Théâtre de l'Amstelstraat</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+giudice+Vittorio+Trento&amp;search_field=search</field>
+</doc>
+</add>

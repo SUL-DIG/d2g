@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116273</field>
+<field name="genre">Operas</field>
+<field name="title">Das Schiff der schönen Frauen</field>
+<field name="titleSort">Schiff der schönen Frauen</field>
+<field name="composer">Walter Kollo</field>
+<field name="composerSort">Kollo, Walter</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="librettist">Egon Schott</field>
+<field name="librettistSort">Schott, Egon</field>
+<field name="theater">Apollo-Theater</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Schiff+der+schönen+Frauen+Walter+Kollo&amp;search_field=search</field>
+</doc>
+</add>

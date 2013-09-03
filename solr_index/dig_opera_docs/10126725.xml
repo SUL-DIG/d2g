@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126725</field>
+<field name="genre">Operas</field>
+<field name="title">Il ritratto di perla</field>
+<field name="titleSort">ritratto di perla</field>
+<field name="composer">Cesare Rossi</field>
+<field name="composerSort">Rossi, Cesare</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Casino dell'Unione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritratto+di+perla+Cesare+Rossi&amp;search_field=search</field>
+</doc>
+</add>

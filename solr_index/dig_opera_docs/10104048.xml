@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104048</field>
+<field name="genre">Operas</field>
+<field name="title">Hlapec Jernej in njegova pravica</field>
+<field name="titleSort">Hlapec Jernej in njegova pravica</field>
+<field name="composer">Matija Bravnicar</field>
+<field name="composerSort">Bravnicar, Matija</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Ferdo Delak</field>
+<field name="librettistSort">Delak, Ferdo</field>
+<field name="librettist">Ivan Cankar</field>
+<field name="librettistSort">Cankar, Ivan</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hlapec+Jernej+in+njegova+pravica+Matija+Bravnicar&amp;search_field=search</field>
+</doc>
+</add>

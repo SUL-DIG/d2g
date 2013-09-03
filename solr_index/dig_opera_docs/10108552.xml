@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108552</field>
+<field name="genre">Operas</field>
+<field name="title">Roméo et Juliette</field>
+<field name="titleSort">Roméo et Juliette</field>
+<field name="composer">Pascal Dusapin</field>
+<field name="composerSort">Dusapin, Pascal</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Olivier Cadiot</field>
+<field name="librettistSort">Cadiot, Olivier</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Radio France Festival</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roméo+et+Juliette+Pascal+Dusapin&amp;search_field=search</field>
+</doc>
+</add>

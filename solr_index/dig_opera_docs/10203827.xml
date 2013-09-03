@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203827</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Cipriano e Santa Giustina martiri</field>
+		<field name="titleSort">San Cipriano e Santa Giustina martiri</field>
+		<field name="year">1712</field>
+		<field name="month">March</field>
+		<field name="day">17</field>
+		<field name="date">March 17, 1712</field>
+		<field name="composer">Luca Antonio Predieri</field>
+		<field name="composerSort">Predieri, Luca Antonio</field>
+		
+		
+		<field name="theater">Arciconfraternita di Santa Maria della Vita</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saints Cyprian and Justina</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">September 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Cipriano+e+Santa+Giustina+martiri+Luca+Antonio+Predieri&amp;search_field=search</field>
+	</doc></add>

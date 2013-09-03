@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112357</field>
+<field name="genre">Operas</field>
+<field name="title">Salvator Rosa</field>
+<field name="titleSort">Salvator Rosa</field>
+<field name="composer">Carlos Gomes</field>
+<field name="composerSort">Gomes, Carlos</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="librettist">Eugène de Méricourt</field>
+<field name="librettistSort">Méricourt, Eugène de</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salvator+Rosa+Carlos+Gomes&amp;search_field=search</field>
+</doc>
+</add>

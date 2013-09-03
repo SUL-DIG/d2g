@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119650</field>
+<field name="genre">Operas</field>
+<field name="title">Kingdom Come</field>
+<field name="titleSort">Kingdom Come</field>
+<field name="composer">Wilton Mason</field>
+<field name="composerSort">Mason, Wilton</field>
+<field name="year">1953</field>
+<field name="date">1953</field><field name="theater">Appalachian State University</field>
+<field name="city">Boone</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kingdom+Come+Wilton+Mason&amp;search_field=search</field>
+</doc>
+</add>

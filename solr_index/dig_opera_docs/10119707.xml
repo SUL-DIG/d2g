@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119707</field>
+<field name="genre">Operas</field>
+<field name="title">Manon</field>
+<field name="titleSort">Manon</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Henri Meilhac</field>
+<field name="librettistSort">Meilhac, Henri</field>
+<field name="librettist">Philippe Gille</field>
+<field name="librettistSort">Gille, Philippe</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manon+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

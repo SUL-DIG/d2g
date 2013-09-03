@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107438</field>
+<field name="genre">Operas</field>
+<field name="title">Le prince noir</field>
+<field name="titleSort">prince noir</field>
+<field name="composer">Eva Dell'Acqua</field>
+<field name="composerSort">Dell'Acqua, Eva</field>
+<field name="year">1882</field>
+<field name="date">1882</field><field name="theater">Private Performance</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+prince+noir+Eva+Dell'Acqua&amp;search_field=search</field>
+</doc>
+</add>

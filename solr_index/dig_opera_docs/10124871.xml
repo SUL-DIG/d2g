@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124871</field>
+<field name="genre">Operas</field>
+<field name="title">Siface</field>
+<field name="titleSort">Siface</field>
+<field name="composer">Nicola Porpora</field>
+<field name="composerSort">Porpora, Nicola</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siface+Nicola+Porpora&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200435</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das beweinte Grab des Heilands</field>
+		<field name="titleSort">beweinte Grab des Heilands</field>
+		<field name="year">1745</field>
+		
+		
+		<field name="date">1745</field>
+		<field name="composer">Johann Georg Ernst Cajetan Lösel</field>
+		<field name="composerSort">Lösel, Johann Georg Ernst Cajetan </field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">The Holy Sepulcher</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+beweinte+Grab+des+Heilands+Johann+Georg+Ernst+Cajetan+Lösel&amp;search_field=search</field>
+	</doc></add>

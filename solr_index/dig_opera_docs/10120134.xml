@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120134</field>
+<field name="genre">Operas</field>
+<field name="title">Sennentuntschi</field>
+<field name="titleSort">Sennentuntschi</field>
+<field name="composer">Jost Meier</field>
+<field name="composerSort">Meier, Jost</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Martin Markun</field>
+<field name="librettistSort">Markun, Martin</field>
+<field name="librettist">Hansjörg Schneider</field>
+<field name="librettistSort">Schneider, Hansjörg</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Freiburg im Breisgau</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sennentuntschi+Jost+Meier&amp;search_field=search</field>
+</doc>
+</add>

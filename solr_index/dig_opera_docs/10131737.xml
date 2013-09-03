@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131737</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Bémol</field>
+<field name="titleSort">Mam'zelle Bémol</field>
+<field name="composer">Louis Varney</field>
+<field name="composerSort">Varney, Louis</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Alfred Delilia</field>
+<field name="librettistSort">Delilia, Alfred</field>
+<field name="theater">Théâtre Cluny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Bémol+Louis+Varney&amp;search_field=search</field>
+</doc>
+</add>

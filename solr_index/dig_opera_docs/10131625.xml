@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131625</field>
+<field name="genre">Operas</field>
+<field name="title">Lätäkkö (Puddle)</field>
+<field name="titleSort">Lätäkkö (Puddle)</field>
+<field name="composer">Ari Vakkilainen</field>
+<field name="composerSort">Vakkilainen, Ari</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Jussi Kylätasku</field>
+<field name="librettistSort">Kylätasku, Jussi</field>
+<field name="theater">"Avanti! Suvisoitto Festival, Fiskars Industrial Estate"</field>
+<field name="city">Porvoo</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lätäkkö+Puddle+Ari+Vakkilainen&amp;search_field=search</field>
+</doc>
+</add>

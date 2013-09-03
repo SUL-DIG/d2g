@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118176</field>
+<field name="genre">Operas</field>
+<field name="title">Konradin von Schwaben</field>
+<field name="titleSort">Konradin von Schwaben</field>
+<field name="composer">Gottfried von Linder</field>
+<field name="composerSort">Linder, Gottfried von</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Ernst Pasqué</field>
+<field name="librettistSort">Pasqué, Ernst</field>
+<field name="librettist">[Eugen Herzog von Württemberg] Grossfürstin Wjera</field>
+<field name="librettistSort">Wjera, Grossfürstin [Eugen Herzog von Württemberg]</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Konradin+von+Schwaben+Gottfried+von+Linder&amp;search_field=search</field>
+</doc>
+</add>

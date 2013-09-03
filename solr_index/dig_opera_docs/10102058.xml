@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102058</field>
+<field name="genre">Operas</field>
+<field name="title">I due vecchi ed un albero</field>
+<field name="titleSort">due vecchi ed un albero</field>
+<field name="composer">Edoardo Bauer</field>
+<field name="composerSort">Bauer, Edoardo</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Giacomo Bonfio</field>
+<field name="librettistSort">Bonfio, Giacomo</field>
+
+<field name="city">Bra</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+vecchi+ed+un+albero+Edoardo+Bauer&amp;search_field=search</field>
+</doc>
+</add>

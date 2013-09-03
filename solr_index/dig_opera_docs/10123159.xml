@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123159</field>
+<field name="genre">Operas</field>
+<field name="title">"Siroe, re di Persia</field>
+<field name="titleSort">"Siroe, re di Persia"</field>
+<field name="composer">Antonio Gaetano Pampani</field>
+<field name="composerSort">Pampani, Antonio Gaetano</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Bonacossi</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siroe,+re+di+Persia+Antonio+Gaetano+Pampani&amp;search_field=search</field>
+</doc>
+</add>

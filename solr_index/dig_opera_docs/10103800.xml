@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103800</field>
+<field name="genre">Operas</field>
+<field name="title">Frog-Hopping</field>
+<field name="titleSort">Frog-Hopping</field>
+<field name="composer">William Boswell</field>
+<field name="composerSort">Boswell, William</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Robert Solomon</field>
+<field name="librettistSort">Solomon, Robert</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frog-Hopping+William+Boswell&amp;search_field=search</field>
+</doc>
+</add>

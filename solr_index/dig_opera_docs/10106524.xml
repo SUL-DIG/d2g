@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106524</field>
+<field name="genre">Operas</field>
+<field name="title">The Pipe of Desire</field>
+<field name="titleSort">Pipe of Desire</field>
+<field name="composer">Frederick Shepherd Converse</field>
+<field name="composerSort">Converse, Frederick Shepherd</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">George Edward Barton</field>
+<field name="librettistSort">Barton, George Edward</field>
+<field name="theater">Jordan Hall</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pipe+of+Desire+Frederick+Shepherd+Converse&amp;search_field=search</field>
+</doc>
+</add>

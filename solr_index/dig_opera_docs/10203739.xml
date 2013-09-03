@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203739</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrifizio di Jefte</field>
+		<field name="titleSort">sacrifizio di Jefte</field>
+		
+		
+		
+		
+		<field name="composer">Simon Mayr</field>
+		<field name="composerSort">Mayr, Simon</field>
+		
+		
+		
+		<field name="city">Forli</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrifizio+di+Jefte+Simon+Mayr&amp;search_field=search</field>
+	</doc></add>

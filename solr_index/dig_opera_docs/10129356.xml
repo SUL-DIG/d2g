@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129356</field>
+<field name="genre">Operas</field>
+<field name="title">Hin ondes läros pan</field>
+<field name="titleSort">Hin ondes läros pan</field>
+<field name="composer">Johan August Söderman</field>
+<field name="composerSort">Söderman, Johan August</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Fritz Arlberg</field>
+<field name="librettistSort">Arlberg, Fritz</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Mindreteatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hin+ondes+läros+pan+Johan+August+Söderman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204405</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sultana tal-Vittorji (Queen of Victories)</field>
+		<field name="titleSort">Sultana tal-Vittorji (Queen of Victories)</field>
+		<field name="year">1986</field>
+		<field name="month">November</field>
+		<field name="day">5</field>
+		<field name="date">November 5, 1986</field>
+		<field name="composer">Carmelo Pace</field>
+		<field name="composerSort">Pace, Carmelo</field>
+		<field name="librettist">Vincenzo Maria Pellegrini</field>
+		<field name="librettistSort">Pellegrini, Vincenzo Maria</field>
+		
+		<field name="theater">Saint John's</field>
+		<field name="city">Valletta</field>
+		
+		<field name="country">Malta</field>
+		<field name="subject">Our Lady of Victory</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sultana+tal-Vittorji+(Queen+of+Victories)+Carmelo+Pace&amp;search_field=search</field>
+	</doc></add>

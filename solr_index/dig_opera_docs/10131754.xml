@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131754</field>
+<field name="genre">Operas</field>
+<field name="title">Une fin de bail</field>
+<field name="titleSort">fin de bail</field>
+<field name="composer">Pierre-Joseph-Alphonse Varney</field>
+<field name="composerSort">Varney, Pierre-Joseph-Alphonse</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Paul Dorcy</field>
+<field name="librettistSort">Dorcy, Paul</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+fin+de+bail+Pierre-Joseph-Alphonse+Varney&amp;search_field=search</field>
+</doc>
+</add>

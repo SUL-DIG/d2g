@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106705</field>
+<field name="genre">Operas</field>
+<field name="title">Almina</field>
+<field name="titleSort">Almina</field>
+<field name="composer">Francesco Cortesi</field>
+<field name="composerSort">Cortesi, Francesco</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Leopoldo Micciarelli</field>
+<field name="librettistSort">Micciarelli, Leopoldo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almina+Francesco+Cortesi&amp;search_field=search</field>
+</doc>
+</add>

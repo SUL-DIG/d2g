@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112624</field>
+<field name="genre">Operas</field>
+<field name="title">"Rodelinda, regina de' langobardi</field>
+<field name="titleSort">"Rodelinda, regina de' langobardi"</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1741</field>
+<field name="date">1741</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Comödiensaal auf dem Schlosse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rodelinda,+regina+de'+langobardi+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

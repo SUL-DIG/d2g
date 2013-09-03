@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104106</field>
+<field name="genre">Operas</field>
+<field name="title">El certamen de Cremona</field>
+<field name="titleSort">certamen de Cremona</field>
+<field name="composer">Tomás Bretón</field>
+<field name="composerSort">Bretón, Tomás</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Carlos Fernández Shaw</field>
+<field name="librettistSort">Fernández Shaw, Carlos</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+certamen+de+Cremona+Tomás+Bretón&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128504</field>
+<field name="genre">Operas</field>
+<field name="title">Marionetterne</field>
+<field name="titleSort">Marionetterne</field>
+<field name="composer">Svend Simon Schultz</field>
+<field name="composerSort">Schultz, Svend Simon</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Eyvind Falk-Rønne</field>
+<field name="librettistSort">Falk-Rønne, Eyvind</field>
+<field name="theater">DR Television (Danmarks Radio)</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marionetterne+Svend+Simon+Schultz&amp;search_field=search</field>
+</doc>
+</add>

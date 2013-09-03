@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104741</field>
+<field name="genre">Operas</field>
+<field name="title">I ravvedimenti di un ladro</field>
+<field name="titleSort">ravvedimenti di un ladro</field>
+<field name="composer">Luigi Cammarano</field>
+<field name="composerSort">Cammarano, Luigi</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+ravvedimenti+di+un+ladro+Luigi+Cammarano&amp;search_field=search</field>
+</doc>
+</add>

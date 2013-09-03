@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132187</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando finto pazzo</field>
+<field name="titleSort">Orlando finto pazzo</field>
+<field name="composer">Antonio Vivaldi</field>
+<field name="composerSort">Vivaldi, Antonio</field>
+<field name="year">1714</field>
+<field name="date">1714</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+finto+pazzo+Antonio+Vivaldi&amp;search_field=search</field>
+</doc>
+</add>

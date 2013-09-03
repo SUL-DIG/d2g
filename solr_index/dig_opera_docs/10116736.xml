@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116736</field>
+<field name="genre">Operas</field>
+<field name="title">Stallerhoff</field>
+<field name="titleSort">Stallerhoff</field>
+<field name="composer">Gerd Kühr</field>
+<field name="composerSort">Kühr, Gerd</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Franz Xavier Kroetz</field>
+<field name="librettistSort">Kroetz, Franz Xavier</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stallerhoff+Gerd+Kühr&amp;search_field=search</field>
+</doc>
+</add>

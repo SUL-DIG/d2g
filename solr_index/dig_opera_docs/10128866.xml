@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128866</field>
+<field name="genre">Operas</field>
+<field name="title">Il cinese rimpatriato</field>
+<field name="titleSort">cinese rimpatriato</field>
+<field name="composer">Giuseppe Sellitto</field>
+<field name="composerSort">Sellitto, Giuseppe</field>
+<field name="year">1748</field>
+<field name="date">1748</field><field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cinese+rimpatriato+Giuseppe+Sellitto&amp;search_field=search</field>
+</doc>
+</add>

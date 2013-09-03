@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104194</field>
+<field name="genre">Operas</field>
+<field name="title">Mascottchen</field>
+<field name="titleSort">Mascottchen</field>
+<field name="composer">Walter Bromme</field>
+<field name="composerSort">Bromme, Walter</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="librettist">Willy Steinberg</field>
+<field name="librettistSort">Steinberg, Willy</field>
+<field name="theater">Thalia-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mascottchen+Walter+Bromme&amp;search_field=search</field>
+</doc>
+</add>

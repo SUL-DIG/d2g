@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125462</field>
+<field name="genre">Operas</field>
+<field name="title">Argia</field>
+<field name="titleSort">Argia</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Giovanni Schmidt</field>
+<field name="librettistSort">Schmidt, Giovanni</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Argia+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113963</field>
+<field name="genre">Operas</field>
+<field name="title">The Cell</field>
+<field name="titleSort">Cell</field>
+<field name="composer">W. Newell Hendricks</field>
+<field name="composerSort">Hendricks, W. Newell</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Karen S. Henry</field>
+<field name="librettistSort">Henry, Karen S.</field>
+<field name="theater">Suffolk University</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cell+W.+Newell+Hendricks&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117171</field>
+<field name="genre">Operas</field>
+<field name="title">Enea in Italia</field>
+<field name="titleSort">Enea in Italia</field>
+<field name="composer">Giovanni Battista Lampugnani</field>
+<field name="composerSort">Lampugnani, Giovanni Battista</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Giacomo Francesco Bussani</field>
+<field name="librettistSort">Bussani, Giacomo Francesco</field>
+
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enea+in+Italia+Giovanni+Battista+Lampugnani&amp;search_field=search</field>
+</doc>
+</add>

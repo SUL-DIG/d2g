@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118490</field>
+<field name="genre">Operas</field>
+<field name="title">Tyll</field>
+<field name="titleSort">Tyll</field>
+<field name="composer">Mark Lothar</field>
+<field name="composerSort">Lothar, Mark</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Hugo von Königsgarten</field>
+<field name="librettistSort">Königsgarten, Hugo von</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tyll+Mark+Lothar&amp;search_field=search</field>
+</doc>
+</add>

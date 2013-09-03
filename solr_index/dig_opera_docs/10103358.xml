@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103358</field>
+<field name="genre">Operas</field>
+<field name="title">Attitude</field>
+<field name="titleSort">Attitude</field>
+<field name="composer">Philippe Boesmans</field>
+<field name="composerSort">Boesmans, Philippe</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Michèle Blondeel</field>
+<field name="librettistSort">Blondeel, Michèle</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Attitude+Philippe+Boesmans&amp;search_field=search</field>
+</doc>
+</add>

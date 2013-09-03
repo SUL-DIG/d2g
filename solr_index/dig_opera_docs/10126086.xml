@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126086</field>
+<field name="genre">Operas</field>
+<field name="title">L'orpheline du hameau</field>
+<field name="titleSort">orpheline du hameau</field>
+<field name="composer">R. Richard</field>
+<field name="composerSort">Richard, R.</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Jean-Edmé Paccard</field>
+<field name="librettistSort">Paccard, Jean-Edmé</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orpheline+du+hameau+R.+Richard&amp;search_field=search</field>
+</doc>
+</add>

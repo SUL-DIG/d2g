@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103797</field>
+<field name="genre">Operas</field>
+<field name="title">Volpino il calderaio</field>
+<field name="titleSort">Volpino il calderaio</field>
+<field name="composer">Renzo Bossi</field>
+<field name="composerSort">Bossi, Renzo</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Luigi Orsini</field>
+<field name="librettistSort">Orsini, Luigi</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volpino+il+calderaio+Renzo+Bossi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107800</field>
+<field name="genre">Operas</field>
+<field name="title">Mobilisons</field>
+<field name="titleSort">Mobilisons</field>
+<field name="composer">Joseph Dieudonné</field>
+<field name="composerSort">Dieudonné, Joseph</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">[Gérard Labrunie] Gérard de Nerval</field>
+<field name="librettistSort">Nerval, Gérard de [Gérard Labrunie]</field>
+<field name="theater">Grand-concert Parisien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mobilisons+Joseph+Dieudonné&amp;search_field=search</field>
+</doc>
+</add>

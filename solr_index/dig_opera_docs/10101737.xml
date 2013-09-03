@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101737</field>
+<field name="genre">Operas</field>
+<field name="title">Les gabelous</field>
+<field name="titleSort">gabelous</field>
+<field name="composer">Antoine Banès</field>
+<field name="composerSort">Banès, Antoine</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Albert Barré</field>
+<field name="librettistSort">Barré, Albert</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+gabelous+Antoine+Banès&amp;search_field=search</field>
+</doc>
+</add>

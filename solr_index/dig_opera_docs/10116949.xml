@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116949</field>
+<field name="genre">Operas</field>
+<field name="title">"Eugénie et Linval, ou Le mauvais fils</field>
+<field name="titleSort">"Eugénie et Linval, ou Le mauvais fils"</field>
+<field name="composer">Ludwig Wenzel Lachnith</field>
+<field name="composerSort">Lachnith, Ludwig Wenzel</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Alphonse-Marie-Denis Devismes de Saint-Alphonse</field>
+<field name="librettistSort">Devismes de Saint-Alphonse, Alphonse-Marie-Denis</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eugénie+et+Linval,+ou+Le+mauvais+fils+Ludwig+Wenzel+Lachnith&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132114</field>
+<field name="genre">Operas</field>
+<field name="title">Az aranyszoru bárány</field>
+<field name="titleSort">aranyszoru bárány</field>
+<field name="composer">Zsigmond Vincze</field>
+<field name="composerSort">Vincze, Zsigmond</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Ferenc Móra</field>
+<field name="librettistSort">Móra, Ferenc</field>
+
+<field name="city">Szeged</field>
+<field name="region">Csongrád</field>
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+aranyszoru+bárány+Zsigmond+Vincze&amp;search_field=search</field>
+</doc>
+</add>

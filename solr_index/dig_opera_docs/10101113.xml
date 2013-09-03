@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101113</field>
+<field name="genre">Operas</field>
+<field name="title">The Magnet</field>
+<field name="titleSort">Magnet</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Dorothea Dubois</field>
+<field name="librettistSort">Dubois, Dorothea</field>
+<field name="theater">Marleybone Gardens Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Magnet+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114572</field>
+<field name="genre">Operas</field>
+<field name="title">Ippolito ed Aricia</field>
+<field name="titleSort">Ippolito ed Aricia</field>
+<field name="composer">Ignaz Holzbauer</field>
+<field name="composerSort">Holzbauer, Ignaz</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Carlo Innocenzo Frugoni</field>
+<field name="librettistSort">Frugoni, Carlo Innocenzo</field>
+<field name="librettist">Simon-Joseph Pellegrin</field>
+<field name="librettistSort">Pellegrin, Simon-Joseph</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ippolito+ed+Aricia+Ignaz+Holzbauer&amp;search_field=search</field>
+</doc>
+</add>

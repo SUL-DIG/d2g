@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115755</field>
+<field name="genre">Operas</field>
+<field name="title">The Golden Touch</field>
+<field name="titleSort">Golden Touch</field>
+<field name="composer">Walter Kaufmann</field>
+<field name="composerSort">Kaufmann, Walter</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">James M. Sinclair</field>
+<field name="librettistSort">Sinclair, James M.</field>
+<field name="theater">Children's Theatre</field>
+<field name="city">Winnipeg</field>
+<field name="region">Manitoba</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golden+Touch+Walter+Kaufmann&amp;search_field=search</field>
+</doc>
+</add>

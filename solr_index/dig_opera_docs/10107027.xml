@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107027</field>
+<field name="genre">Operas</field>
+<field name="title">Il progetto di melodramma</field>
+<field name="titleSort">progetto di melodramma</field>
+<field name="composer">Giuseppe Dalbesio</field>
+<field name="composerSort">Dalbesio, Giuseppe</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Luigi Piazzi</field>
+<field name="librettistSort">Piazzi, Luigi</field>
+<field name="theater">Circolo degli Artisti</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+progetto+di+melodramma+Giuseppe+Dalbesio&amp;search_field=search</field>
+</doc>
+</add>

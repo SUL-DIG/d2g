@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120967</field>
+<field name="genre">Operas</field>
+<field name="title">Piquillo</field>
+<field name="titleSort">Piquillo</field>
+<field name="composer">Hippolyte Monpou</field>
+<field name="composerSort">Monpou, Hippolyte</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre</field>
+<field name="librettist">[Gérard Labrunie] Gérard de Nerval</field>
+<field name="librettistSort">Nerval, Gérard de [Gérard Labrunie]"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piquillo+Hippolyte+Monpou&amp;search_field=search</field>
+</doc>
+</add>

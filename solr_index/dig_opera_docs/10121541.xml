@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121541</field>
+<field name="genre">Operas</field>
+<field name="title">Le truc du pharmacien</field>
+<field name="titleSort">truc du pharmacien</field>
+<field name="composer">J. Muller</field>
+<field name="composerSort">Muller, J.</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Benjamin Lebreton</field>
+<field name="librettistSort">Lebreton, Benjamin</field>
+<field name="librettist">Albert Lambert</field>
+<field name="librettistSort">Lambert, Albert</field>
+<field name="theater">Bijou-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+truc+du+pharmacien+J.+Muller&amp;search_field=search</field>
+</doc>
+</add>

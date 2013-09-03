@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124786</field>
+<field name="genre">Operas</field>
+<field name="title">Il mio nipote</field>
+<field name="titleSort">mio nipote</field>
+<field name="composer">Egisto Napoleone Pontecchi</field>
+<field name="composerSort">Pontecchi, Egisto Napoleone</field>
+<field name="year">1873</field>
+<field name="date">1873</field><field name="theater">Seminario</field>
+<field name="city">Cortona</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mio+nipote+Egisto+Napoleone+Pontecchi&amp;search_field=search</field>
+</doc>
+</add>

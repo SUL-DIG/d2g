@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117058</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Pénélope</field>
+<field name="titleSort">Mam'zelle Pénélope</field>
+<field name="composer">Théodore de Lajarte</field>
+<field name="composerSort">Lajarte, Théodore de</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Henry Boisseaux</field>
+<field name="librettistSort">Boisseaux, Henry</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Pénélope+Théodore+de+Lajarte&amp;search_field=search</field>
+</doc>
+</add>

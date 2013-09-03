@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113842</field>
+<field name="genre">Operas</field>
+<field name="title">After the Wedding</field>
+<field name="titleSort">After the Wedding</field>
+<field name="composer">Michael Head</field>
+<field name="composerSort">Head, Michael</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+<field name="theater">Royal Academy of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=After+the+Wedding+Michael+Head&amp;search_field=search</field>
+</doc>
+</add>

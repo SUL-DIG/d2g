@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106065</field>
+<field name="genre">Operas</field>
+<field name="title">Westchester Limited</field>
+<field name="titleSort">Westchester Limited</field>
+<field name="composer">Garry E. Clark</field>
+<field name="composerSort">Clark, Garry E.</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Norman James</field>
+<field name="librettistSort">James, Norman</field>
+<field name="theater">Washington College</field>
+<field name="city">Chestertown</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Westchester+Limited+Garry+E.+Clark&amp;search_field=search</field>
+</doc>
+</add>

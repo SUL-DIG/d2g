@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112391</field>
+<field name="genre">Operas</field>
+<field name="title">The Strange Life of Ivan Osokin</field>
+<field name="titleSort">Strange Life of Ivan Osokin</field>
+<field name="composer">Peter Gordon</field>
+<field name="composerSort">Gordon, Peter</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Constance Congdon</field>
+<field name="librettistSort">Congdon, Constance</field>
+<field name="librettist">Petr Dem'ianovich Ouspensky</field>
+<field name="librettistSort">Ouspensky, Petr Dem'ianovich</field>
+<field name="theater">LaMaMa Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Strange+Life+of+Ivan+Osokin+Peter+Gordon&amp;search_field=search</field>
+</doc>
+</add>

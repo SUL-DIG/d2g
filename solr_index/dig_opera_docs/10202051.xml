@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202051</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco figura del Redentore</field>
+		<field name="titleSort">Isacco figura del Redentore</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Vincenzo Tobia Nicola Bellini</field>
+		<field name="composerSort">Bellini, Vincenzo Tobia Nicola</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Conservatorio di Sant' Onofrio a Capuana</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Vincenzo+Tobia+Nicola+Bellini&amp;search_field=search</field>
+	</doc></add>

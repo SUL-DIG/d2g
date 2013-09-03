@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110821</field>
+<field name="genre">Operas</field>
+<field name="title">Il testamento di zio Saverio</field>
+<field name="titleSort">testamento di zio Saverio</field>
+<field name="composer">Vincenzo Galassi</field>
+<field name="composerSort">Galassi, Vincenzo</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Circolo Nazionale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+testamento+di+zio+Saverio+Vincenzo+Galassi&amp;search_field=search</field>
+</doc>
+</add>

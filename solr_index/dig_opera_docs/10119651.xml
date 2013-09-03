@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119651</field>
+<field name="genre">Operas</field>
+<field name="title">L'evaso</field>
+<field name="titleSort">evaso</field>
+<field name="composer">Juan Bautista Massa</field>
+<field name="composerSort">Massa, Juan Bautista</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Elio Del Giglio</field>
+<field name="librettistSort">Del Giglio, Elio</field>
+
+<field name="city">Rosario</field>
+<field name="region">Santa Fe</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'evaso+Juan+Bautista+Massa&amp;search_field=search</field>
+</doc>
+</add>

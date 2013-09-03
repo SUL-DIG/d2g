@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106449</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Salto</field>
+<field name="titleSort">conte di Salto</field>
+<field name="composer">Giovanni Consolini</field>
+<field name="composerSort">Consolini, Giovanni</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Francesco Mottino</field>
+<field name="librettistSort">Mottino, Francesco</field>
+<field name="theater">Teatro Chiabrera</field>
+<field name="city">Savona</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Salto+Giovanni+Consolini&amp;search_field=search</field>
+</doc>
+</add>

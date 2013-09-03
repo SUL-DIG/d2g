@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110571</field>
+<field name="genre">Operas</field>
+<field name="title">Polskie misterium ludowe</field>
+<field name="titleSort">Polskie misterium ludowe</field>
+<field name="composer">Witold Friemann</field>
+<field name="composerSort">Friemann, Witold</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Maria Konopnicka</field>
+<field name="librettistSort">Konopnicka, Maria</field>
+
+<field name="city">Laski</field>
+<field name="region">Sieradz</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Polskie+misterium+ludowe+Witold+Friemann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100889</field>
+<field name="genre">Operas</field>
+<field name="title">Anacreon</field>
+<field name="titleSort">Anacreon</field>
+<field name="composer">David August von Apell</field>
+<field name="composerSort">Apell, David August von</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Christian Heinrich Bindseil</field>
+<field name="librettistSort">Bindseil, Christian Heinrich</field>
+
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anacreon+David+August+von+Apell&amp;search_field=search</field>
+</doc>
+</add>

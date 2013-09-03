@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110198</field>
+<field name="genre">Operas</field>
+<field name="title">Il cavaliere bizzarro</field>
+<field name="titleSort">cavaliere bizzarro</field>
+<field name="composer">Antonio Fontemaggi</field>
+<field name="composerSort">Fontemaggi, Antonio</field>
+<field name="year">1774</field>
+<field name="date">1774</field><field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cavaliere+bizzarro+Antonio+Fontemaggi&amp;search_field=search</field>
+</doc>
+</add>

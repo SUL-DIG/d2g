@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108437</field>
+<field name="genre">Operas</field>
+<field name="title">La buona figliuola (La Cecchina)</field>
+<field name="titleSort">buona figliuola (Cecchina)</field>
+<field name="composer">Egidio Duni</field>
+<field name="composerSort">Duni, Egidio</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">[Carlo Goldoni] Polisseno Fegeio</field>
+<field name="librettistSort">Fegeio, Polisseno [Carlo Goldoni]</field>
+<field name="librettist">Samuel Richardson</field>
+<field name="librettistSort">Richardson, Samuel</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+buona+figliuola+La+Cecchina+Egidio+Duni&amp;search_field=search</field>
+</doc>
+</add>

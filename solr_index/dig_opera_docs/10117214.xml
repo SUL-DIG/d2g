@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117214</field>
+<field name="genre">Operas</field>
+<field name="title">Middelalderlig (In the Middle Ages)</field>
+<field name="titleSort">Middelalderlig (In the Middle Ages)</field>
+<field name="composer">Peter Erasmus Lange-Müller</field>
+<field name="composerSort">Lange-Müller, Peter Erasmus</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Holger Drachmann</field>
+<field name="librettistSort">Drachmann, Holger</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Middelalderlig+In+the+Middle+Ages+Peter+Erasmus+Lange-Müller&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129582</field>
+<field name="genre">Operas</field>
+<field name="title">Das Waldmädchen von Arguillon</field>
+<field name="titleSort">Waldmädchen von Arguillon</field>
+<field name="composer">Wilhelm Spazek</field>
+<field name="composerSort">Spazek, Wilhelm</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Carl Erwin Jaritz</field>
+<field name="librettistSort">Jaritz, Carl Erwin</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Waldmädchen+von+Arguillon+Wilhelm+Spazek&amp;search_field=search</field>
+</doc>
+</add>

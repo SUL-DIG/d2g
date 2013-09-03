@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130888</field>
+<field name="genre">Operas</field>
+<field name="title">Almansor</field>
+<field name="titleSort">Almansor</field>
+<field name="composer">Albert Thierfelder</field>
+<field name="composerSort">Thierfelder, Albert</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Albert Thierfelder</field>
+<field name="librettistSort">Thierfelder, Albert</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Luisen-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almansor+Albert+Thierfelder&amp;search_field=search</field>
+</doc>
+</add>

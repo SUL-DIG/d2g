@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100919</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro riconosciuto</field>
+<field name="titleSort">Ciro riconosciuto</field>
+<field name="composer">Francesco Araia</field>
+<field name="composerSort">Araia, Francesco</field>
+<field name="year">1731</field>
+<field name="date">1731</field><field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+riconosciuto+Francesco+Araia&amp;search_field=search</field>
+</doc>
+</add>

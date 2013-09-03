@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105952</field>
+<field name="genre">Operas</field>
+<field name="title">Le astuzie femminili</field>
+<field name="titleSort">astuzie femminili</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+astuzie+femminili+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

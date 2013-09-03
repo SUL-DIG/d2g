@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130929</field>
+<field name="genre">Operas</field>
+<field name="title">Spécialité pour dames</field>
+<field name="titleSort">Spécialité pour dames</field>
+<field name="composer">Louis Thomas</field>
+<field name="composerSort">Thomas, Louis</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Victor Poupin</field>
+<field name="librettistSort">Poupin, Victor</field>
+<field name="theater">Théâtre du Luxembourg</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spécialité+pour+dames+Louis+Thomas&amp;search_field=search</field>
+</doc>
+</add>

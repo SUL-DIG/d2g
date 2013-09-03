@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125261</field>
+<field name="genre">Operas</field>
+<field name="title">"Oh, che bel-caso!</field>
+<field name="titleSort">"Oh, che bel-caso!"</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Giulio Domenico Camagna</field>
+<field name="librettistSort">Camagna, Giulio Domenico</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oh,+che+bel-caso!+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119285</field>
+<field name="genre">Operas</field>
+<field name="title">Gentile da Varano</field>
+<field name="titleSort">Gentile da Varano</field>
+<field name="composer">Filippo Marchetti</field>
+<field name="composerSort">Marchetti, Filippo</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Raffaele Marchetti</field>
+<field name="librettistSort">Marchetti, Raffaele</field>
+<field name="theater">Teatro Nazionale</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gentile+da+Varano+Filippo+Marchetti&amp;search_field=search</field>
+</doc>
+</add>

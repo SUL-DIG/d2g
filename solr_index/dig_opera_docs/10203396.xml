@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203396</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Pharisäer</field>
+		<field name="titleSort">Pharisäer</field>
+		<field name="year">1794</field>
+		
+		
+		<field name="date">1794</field>
+		<field name="composer">Friedrich Theophil Stark</field>
+		<field name="composerSort">Stark, Friedrich Theophil</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Nicodemus</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">31</field>
+		<field name="feastDate">August 31</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Pharisäer+Friedrich+Theophil+Stark&amp;search_field=search</field>
+	</doc></add>

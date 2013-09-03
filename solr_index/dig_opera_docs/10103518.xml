@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103518</field>
+<field name="genre">Operas</field>
+<field name="title">Tito Manlio</field>
+<field name="titleSort">Tito Manlio</field>
+<field name="composer">Gaetano Boni</field>
+<field name="composerSort">Boni, Gaetano</field>
+<field name="year">1720</field>
+<field name="date">1720</field>
+<field name="librettist">Matteo Noris</field>
+<field name="librettistSort">Noris, Matteo</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+Manlio+Gaetano+Boni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108034</field>
+<field name="genre">Operas</field>
+<field name="title">Gewitter bei Sonnenschein</field>
+<field name="titleSort">Gewitter bei Sonnenschein</field>
+<field name="composer">Heinrich Ludwig Egmont Dorn</field>
+<field name="composerSort">Dorn, Heinrich Ludwig Egmont</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gewitter+bei+Sonnenschein+Heinrich+Ludwig+Egmont+Dorn&amp;search_field=search</field>
+</doc>
+</add>

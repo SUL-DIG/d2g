@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111779</field>
+<field name="genre">Operas</field>
+<field name="title">When One Isn't There</field>
+<field name="titleSort">When One Isn't There</field>
+<field name="composer">Cecil Armstrong Gibbs</field>
+<field name="composerSort">Gibbs, Cecil Armstrong</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Charles Willmore Emlyn</field>
+<field name="librettistSort">Emlyn, Charles Willmore"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=When+One+Isn't+There+Cecil+Armstrong+Gibbs&amp;search_field=search</field>
+</doc>
+</add>

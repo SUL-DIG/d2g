@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132748</field>
+<field name="genre">Operas</field>
+<field name="title">Der Revisor</field>
+<field name="titleSort">Revisor</field>
+<field name="composer">Karel Weis</field>
+<field name="composerSort">Weis, Karel</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Karel Weis</field>
+<field name="librettistSort">Weis, Karel</field>
+<field name="librettist">Oskar Daniel Batek</field>
+<field name="librettistSort">Batek, Oskar Daniel</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Revisor+Karel+Weis&amp;search_field=search</field>
+</doc>
+</add>

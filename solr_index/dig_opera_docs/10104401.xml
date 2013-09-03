@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104401</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amici</field>
+<field name="titleSort">amici</field>
+<field name="composer">Giuseppe Maria Buini</field>
+<field name="composerSort">Buini, Giuseppe Maria</field>
+<field name="year">1734</field>
+<field name="date">1734</field>
+<field name="librettist">Pier Jacopo Martello</field>
+<field name="librettistSort">Martello, Pier Jacopo</field>
+
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amici+Giuseppe+Maria+Buini&amp;search_field=search</field>
+</doc>
+</add>

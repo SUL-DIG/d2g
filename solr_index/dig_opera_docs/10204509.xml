@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204509</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Tobia il giovine</field>
+		<field name="titleSort">Tobia il giovine</field>
+		
+		
+		
+		
+		<field name="composer">Jacomo Lucchesini</field>
+		<field name="composerSort">Lucchesini, Jacomo</field>
+		<field name="librettist">Francesco di Poggio</field>
+		<field name="librettistSort">Poggio, Francesco di</field>
+		
+		
+		<field name="city">Lucca</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Tobias</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tobia+il+giovine+Jacomo+Lucchesini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200776</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Daniel</field>
+		<field name="titleSort">Daniel</field>
+		
+		
+		
+		
+		<field name="composer">Maurits Leonard Hagemann</field>
+		<field name="composerSort">Hagemann, Maurits Leonard</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Daniel</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">July 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+Maurits+Leonard+Hagemann&amp;search_field=search</field>
+	</doc></add>

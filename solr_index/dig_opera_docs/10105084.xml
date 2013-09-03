@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105084</field>
+<field name="genre">Operas</field>
+<field name="title">"Déspo, i iroïs tou Souliou</field>
+<field name="titleSort">"Déspo, i iroïs tou Souliou"</field>
+<field name="composer">Pavlos Carrer</field>
+<field name="composerSort">Carrer, Pavlos</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Antonios Manoussos</field>
+<field name="librettistSort">Manoussos, Antonios</field>
+<field name="theater">Apollo Theatron</field>
+<field name="city">Patra</field>
+<field name="region">Akhaia</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Déspo,+i+iroïs+tou+Souliou+Pavlos+Carrer&amp;search_field=search</field>
+</doc>
+</add>

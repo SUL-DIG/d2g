@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107636</field>
+<field name="genre">Operas</field>
+<field name="title">Leonce und Lena</field>
+<field name="titleSort">Leonce und Lena</field>
+<field name="composer">Paul Dessau</field>
+<field name="composerSort">Dessau, Paul</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Thomas Körner</field>
+<field name="librettistSort">Körner, Thomas</field>
+<field name="librettist">Georg Büchner</field>
+<field name="librettistSort">Büchner, Georg</field>
+<field name="theater">Deutsche Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonce+und+Lena+Paul+Dessau&amp;search_field=search</field>
+</doc>
+</add>

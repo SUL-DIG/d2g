@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129965</field>
+<field name="genre">Operas</field>
+<field name="title">Der Arzt auf dem Marktplatz</field>
+<field name="titleSort">Arzt auf dem Marktplatz</field>
+<field name="composer">Siegfried Stolte</field>
+<field name="composerSort">Stolte, Siegfried</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Hanna Stolte</field>
+<field name="librettistSort">Stolte, Hanna</field>
+<field name="theater">Landestheater</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Arzt+auf+dem+Marktplatz+Siegfried+Stolte&amp;search_field=search</field>
+</doc>
+</add>

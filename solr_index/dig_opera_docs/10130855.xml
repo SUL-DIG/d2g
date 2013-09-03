@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130855</field>
+<field name="genre">Operas</field>
+<field name="title">Riccardo III</field>
+<field name="titleSort">Riccardo III</field>
+<field name="composer">Flavio Testi</field>
+<field name="composerSort">Testi, Flavio</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Flavio Testi</field>
+<field name="librettistSort">Testi, Flavio</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riccardo+III+Flavio+Testi&amp;search_field=search</field>
+</doc>
+</add>

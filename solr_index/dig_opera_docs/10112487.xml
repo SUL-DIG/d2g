@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112487</field>
+<field name="genre">Operas</field>
+<field name="title">Herkules</field>
+<field name="titleSort">Herkules</field>
+<field name="composer">Karl Graff</field>
+<field name="composerSort">Graff, Karl</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Wilhelm Lynker</field>
+<field name="librettistSort">Lynker, Wilhelm</field>
+<field name="librettist">Julius Braunhofer</field>
+<field name="librettistSort">Braunhofer, Julius</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Herkules+Karl+Graff&amp;search_field=search</field>
+</doc>
+</add>

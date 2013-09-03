@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113436</field>
+<field name="genre">Operas</field>
+<field name="title">Les ypocontes</field>
+<field name="titleSort">ypocontes</field>
+<field name="composer">Jean-Noël Hamal</field>
+<field name="composerSort">Hamal, Jean-Noël</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Simon Joseph de Harlez</field>
+<field name="librettistSort">Harlez, Simon Joseph de</field>
+<field name="theater">École des Jésuites</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+ypocontes+Jean-Noël+Hamal&amp;search_field=search</field>
+</doc>
+</add>

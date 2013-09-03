@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129481</field>
+<field name="genre">Operas</field>
+<field name="title">Samoye zavetnoye (Most Cherished Possession)</field>
+<field name="titleSort">Samoye zavetnoye (Most Cherished Possession)</field>
+<field name="composer">Vasily Pavlovich Solov'yov-Sedoy</field>
+<field name="composerSort">Solov'yov-Sedoy, Vasily Pavlovich</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Vladimir Zakharovich Mass</field>
+<field name="librettistSort">Mass, Vladimir Zakharovich</field>
+<field name="librettist">Mikhail Abramovich Chervinsky</field>
+<field name="librettistSort">Chervinsky, Mikhail Abramovich</field>
+<field name="theater">State Operetta Theater</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samoye+zavetnoye+Most+Cherished+Possession+Vasily+Pavlovich+Solov'yov-Sedoy&amp;search_field=search</field>
+</doc>
+</add>

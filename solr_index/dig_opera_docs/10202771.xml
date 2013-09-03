@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202771</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La mort d'Absalon</field>
+		<field name="titleSort">mort d'Absalon</field>
+		<field name="year">1782</field>
+		
+		
+		<field name="date">1782</field>
+		<field name="composer">Joseph Lenoble</field>
+		<field name="composerSort">Lenoble, Joseph</field>
+		<field name="librettist">Pierre-Louis Moline</field>
+		<field name="librettistSort">Moline, Pierre-Louis</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">David and Absalom</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mort+d'Absalon+Joseph+Lenoble&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105383</field>
+<field name="genre">Operas</field>
+<field name="title">La follia del Tango</field>
+<field name="titleSort">follia del Tango</field>
+<field name="composer">Alberto Cavarra</field>
+<field name="composerSort">Cavarra, Alberto</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Ernesto Gellona</field>
+<field name="librettistSort">Gellona, Ernesto</field>
+<field name="librettist">Umberto Segrè</field>
+<field name="librettistSort">Segrè, Umberto</field>
+<field name="theater">Teatro Drammatico Nazionale</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+follia+del+Tango+Alberto+Cavarra&amp;search_field=search</field>
+</doc>
+</add>

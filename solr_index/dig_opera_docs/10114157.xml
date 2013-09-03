@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114157</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Gavroche</field>
+<field name="titleSort">Mam'zelle Gavroche</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Edmond Gondinet</field>
+<field name="librettistSort">Gondinet, Edmond</field>
+<field name="librettist">Ernest Blum</field>
+<field name="librettistSort">Blum, Ernest</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Gavroche+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

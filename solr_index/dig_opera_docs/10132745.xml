@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132745</field>
+<field name="genre">Operas</field>
+<field name="title">Der Extrazug nach Nizza</field>
+<field name="titleSort">Extrazug nach Nizza</field>
+<field name="composer">Karel Weis</field>
+<field name="composerSort">Weis, Karel</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Arthur Lippschitz</field>
+<field name="librettistSort">Lippschitz, Arthur</field>
+<field name="librettist">Max Schönau</field>
+<field name="librettistSort">Schönau, Max</field>
+<field name="theater">Theater am Nollendorfplatz</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Extrazug+nach+Nizza+Karel+Weis&amp;search_field=search</field>
+</doc>
+</add>

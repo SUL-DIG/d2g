@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107586</field>
+<field name="genre">Operas</field>
+<field name="title">Mistero e processo di Giovanna d'Arco</field>
+<field name="titleSort">Mistero e processo di Giovanna d'Arco</field>
+<field name="composer">Roberto De Simone</field>
+<field name="composerSort">Simone, Roberto De</field>
+<field name="year">1989</field>
+<field name="date">1989</field><field name="theater">Teatro Verdi</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mistero+e+processo+di+Giovanna+d'Arco+Roberto+De+Simone&amp;search_field=search</field>
+</doc>
+</add>

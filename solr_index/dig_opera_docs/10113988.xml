@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113988</field>
+<field name="genre">Operas</field>
+<field name="title">Les suites d'une polka</field>
+<field name="titleSort">suites d'une polka</field>
+<field name="composer">Paul Henrion</field>
+<field name="composerSort">Henrion, Paul</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Léon Laroche</field>
+<field name="librettistSort">Laroche, Léon</field>
+<field name="librettist">René Gry</field>
+<field name="librettistSort">Gry, René</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+suites+d'une+polka+Paul+Henrion&amp;search_field=search</field>
+</doc>
+</add>

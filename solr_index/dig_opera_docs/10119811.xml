@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119811</field>
+<field name="genre">Operas</field>
+<field name="title">I fantasmi</field>
+<field name="titleSort">fantasmi</field>
+<field name="composer">Rodolfo Mattiozzi</field>
+<field name="composerSort">Mattiozzi, Rodolfo</field>
+<field name="year">1870</field>
+<field name="date">1870</field><field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+fantasmi+Rodolfo+Mattiozzi&amp;search_field=search</field>
+</doc>
+</add>

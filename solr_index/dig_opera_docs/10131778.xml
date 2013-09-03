@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131778</field>
+<field name="genre">Operas</field>
+<field name="title">La famille Vénus</field>
+<field name="titleSort">famille Vénus</field>
+<field name="composer">Léon Vasseur</field>
+<field name="composerSort">Vasseur, Léon</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">R. Bénédite-Jancourt</field>
+<field name="librettistSort">Bénédite-Jancourt, R.</field>
+<field name="librettist">[Victor Nicolaïe] Charles Clairville</field>
+<field name="librettistSort">Clairville, [Louis-François Nicolaïe]</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+famille+Vénus+Léon+Vasseur&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202484</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Lenin</field>
+		<field name="titleSort">Lenin</field>
+		<field name="year">1965</field>
+		
+		
+		<field name="date">1965</field>
+		<field name="composer">Al'bert Semenovich Leman</field>
+		<field name="composerSort">Leman, Al'bert Semenovich</field>
+		<field name="librettist">Vasily Mikhailovich Kubanev</field>
+		<field name="librettistSort">Kubanev, Vasily Mikhailovic</field>
+		
+		
+		
+		
+		
+		<field name="subject">Vladimir Ilyich Lenin</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lenin+Al'bert+Semenovich+Leman&amp;search_field=search</field>
+	</doc></add>

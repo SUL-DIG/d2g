@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106303</field>
+<field name="genre">Operas</field>
+<field name="title">Virgil's Dream</field>
+<field name="titleSort">Virgil's Dream</field>
+<field name="composer">Michael Colgrass</field>
+<field name="composerSort">Colgrass, Michael</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Michael Colgrass</field>
+<field name="librettistSort">Colgrass, Michael</field>
+<field name="theater">Brighton Festival</field>
+<field name="city">Brighton</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virgil's+Dream+Michael+Colgrass&amp;search_field=search</field>
+</doc>
+</add>

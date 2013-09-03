@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117838</field>
+<field name="genre">Operas</field>
+<field name="title">"Toute la Grèce, ou Ce que peut la liberté</field>
+<field name="titleSort">"Toute la Grèce, ou Ce que peut la liberté"</field>
+<field name="composer">Jean-Baptiste Lemoyne</field>
+<field name="composerSort">Lemoyne, Jean-Baptiste</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Louis-Abel Beffroy de Reigny</field>
+<field name="librettistSort">Beffroy de Reigny, Louis-Abel</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toute+la+Grèce,+ou+Ce+que+peut+la+liberté+Jean-Baptiste+Lemoyne&amp;search_field=search</field>
+</doc>
+</add>

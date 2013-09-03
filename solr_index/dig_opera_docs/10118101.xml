@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118101</field>
+<field name="genre">Operas</field>
+<field name="title">Hermann und Thusnelde</field>
+<field name="titleSort">Hermann und Thusnelde</field>
+<field name="composer">Aegidius Karl Lickl</field>
+<field name="composerSort">Lickl, Aegidius Karl</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hermann+und+Thusnelde+Aegidius+Karl+Lickl&amp;search_field=search</field>
+</doc>
+</add>

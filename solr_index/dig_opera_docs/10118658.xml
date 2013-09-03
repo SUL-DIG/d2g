@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118658</field>
+<field name="genre">Operas</field>
+<field name="title">Phaëton</field>
+<field name="titleSort">Phaëton</field>
+<field name="composer">Jean-Baptiste Lully</field>
+<field name="composerSort">Lully, Jean-Baptiste</field>
+<field name="year">1683</field>
+<field name="date">1683</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Château de Versailles</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phaëton+Jean-Baptiste+Lully&amp;search_field=search</field>
+</doc>
+</add>

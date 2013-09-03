@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128677</field>
+<field name="genre">Operas</field>
+<field name="title">Hero</field>
+<field name="titleSort">Hero</field>
+<field name="composer">Ludwig Schytte</field>
+<field name="composerSort">Schytte, Ludwig</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Paul Levin</field>
+<field name="librettistSort">Levin, Paul</field>
+
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+Ludwig+Schytte&amp;search_field=search</field>
+</doc>
+</add>

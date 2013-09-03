@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202732</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Micaiah</field>
+		<field name="titleSort">Micaiah</field>
+		<field name="year">1880</field>
+		
+		
+		<field name="date">1880</field>
+		<field name="composer">William Creser</field>
+		<field name="composerSort">Creser, William</field>
+		
+		
+		
+		<field name="city">Oxford</field>
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Micaiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Micaiah+William+Creser&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107387</field>
+<field name="genre">Operas</field>
+<field name="title">The Royal Ward</field>
+<field name="titleSort">Royal Ward</field>
+<field name="composer">[Isidore Cohen] Isidore De Lara</field>
+<field name="composerSort">Lara, [Isidore Cohen] Isidore De</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Henry Hersee</field>
+<field name="librettistSort">Hersee, Henry</field>
+<field name="theater">Gaiety Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Royal+Ward+Isidore+Cohen]+Isidore+De+Lara&amp;search_field=search</field>
+</doc>
+</add>

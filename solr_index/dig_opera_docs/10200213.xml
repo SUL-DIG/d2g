@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200213</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Applausi eterni dell'amore manifestato nell tempo</field>
+		<field name="titleSort">Applausi eterni dell'amore manifestato nell tempo</field>
+		<field name="year">1709</field>
+		
+		
+		<field name="date">1709</field>
+		<field name="composer">Pietro Baldassari</field>
+		<field name="composerSort">Baldassari, Pietro</field>
+		
+		
+		<field name="theater">Congregazione dell'Oratorio di San Filippo Neri</field>
+		<field name="city">Brescia</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Applausi+eterni+dell'amore+manifestato+nell+tempo+Pietro+Baldassari&amp;search_field=search</field>
+	</doc></add>

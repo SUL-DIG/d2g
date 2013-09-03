@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128007</field>
+<field name="genre">Operas</field>
+<field name="title">Serenata in honor of James II of England</field>
+<field name="titleSort">Serenata in honor of James II of England</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1688</field>
+<field name="date">1688</field><field name="theater">Palazzo Doria Pamphili</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serenata+in+honor+of+James+II+of+England+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

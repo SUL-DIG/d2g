@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120441</field>
+<field name="genre">Operas</field>
+<field name="title">Un jour d'orage</field>
+<field name="titleSort">jour d'orage</field>
+<field name="composer">Olivier Métra</field>
+<field name="composerSort">Métra, Olivier</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Jules de Marthold</field>
+<field name="librettistSort">Marthold, Jules de</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+jour+d'orage+Olivier+Métra&amp;search_field=search</field>
+</doc>
+</add>

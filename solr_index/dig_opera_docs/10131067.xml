@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131067</field>
+<field name="genre">Operas</field>
+<field name="title">François d'Assise (Le petit pauvre)</field>
+<field name="titleSort">François d'Assise (Le petit pauvre)</field>
+<field name="composer">Henri Tomasi</field>
+<field name="composerSort">Tomasi, Henri</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Alice Bonheur</field>
+<field name="librettistSort">Bonheur, Alice</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=François+d'Assise+Le+petit+pauvre+Henri+Tomasi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126752</field>
+<field name="genre">Operas</field>
+<field name="title">Cellini a Parigi</field>
+<field name="titleSort">Cellini a Parigi</field>
+<field name="composer">Lauro Rossi</field>
+<field name="composerSort">Rossi, Lauro</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="theater">Teatro d'Angennes</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cellini+a+Parigi+Lauro+Rossi&amp;search_field=search</field>
+</doc>
+</add>

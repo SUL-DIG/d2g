@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110881</field>
+<field name="genre">Operas</field>
+<field name="title">I quattro rustici</field>
+<field name="titleSort">quattro rustici</field>
+<field name="composer">Adolfa Gallori</field>
+<field name="composerSort">Gallori, Adolfa</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Fortunato Pontecchi</field>
+<field name="librettistSort">Pontecchi, Fortunato</field>
+<field name="theater">Teatro Goldoni</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+quattro+rustici+Adolfa+Gallori&amp;search_field=search</field>
+</doc>
+</add>

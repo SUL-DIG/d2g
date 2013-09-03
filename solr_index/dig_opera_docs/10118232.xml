@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118232</field>
+<field name="genre">Operas</field>
+<field name="title">La boîte de Pandore</field>
+<field name="titleSort">boîte de Pandore</field>
+<field name="composer">Henry Litolff</field>
+<field name="composerSort">Litolff, Henry</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Théodore Barrière</field>
+<field name="librettistSort">Barrière, Théodore</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+boîte+de+Pandore+Henry+Litolff&amp;search_field=search</field>
+</doc>
+</add>

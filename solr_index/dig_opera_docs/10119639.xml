@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119639</field>
+<field name="genre">Operas</field>
+<field name="title">La montecarina</field>
+<field name="titleSort">montecarina</field>
+<field name="composer">Giovanni Masi</field>
+<field name="composerSort">Masi, Giovanni</field>
+
+
+
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+montecarina+Giovanni+Masi&amp;search_field=search</field>
+</doc>
+</add>

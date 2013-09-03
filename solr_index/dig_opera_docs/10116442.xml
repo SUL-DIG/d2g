@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116442</field>
+<field name="genre">Operas</field>
+<field name="title">Lysistrate</field>
+<field name="titleSort">Lysistrate</field>
+<field name="composer">Arghyris Kounadis</field>
+<field name="composerSort">Kounadis, Arghyris</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Ludger Lütkehaus</field>
+<field name="librettistSort">Lütkehaus, Ludger</field>
+<field name="librettist">Arghyris Kounadis</field>
+<field name="librettistSort">Kounadis, Arghyris</field>
+<field name="theater">Bühnen der Hansastadt</field>
+<field name="city">Lübeck</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lysistrate+Arghyris+Kounadis&amp;search_field=search</field>
+</doc>
+</add>

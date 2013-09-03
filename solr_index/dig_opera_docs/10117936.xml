@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117936</field>
+<field name="genre">Operas</field>
+<field name="title">"Urbano, ossia Le avventure di una notte</field>
+<field name="titleSort">"Urbano, ossia Le avventure di una notte"</field>
+<field name="composer">Carlo Leoni</field>
+<field name="composerSort">Leoni, Carlo</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Olinto Fantucci</field>
+<field name="librettistSort">Fantucci, Olinto</field>
+
+<field name="city">Pienza</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urbano,+ossia+Le+avventure+di+una+notte+Carlo+Leoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202812</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La morte di Maria Estuarda, regina di Scotia</field>
+		<field name="titleSort">morte di Maria Estuarda, regina di Scotia</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Giovanni Battista Pioselli</field>
+		<field name="composerSort">Pioselli, Giovanni Battista</field>
+		<field name="librettist">Giovanni Battista Grappelli</field>
+		<field name="librettistSort">Grappelli, Giovanni Battist</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Mary, Queen of Scots</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+di+Maria+Estuarda,+regina+di+Scotia+Giovanni+Battista+Pioselli&amp;search_field=search</field>
+	</doc></add>

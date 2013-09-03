@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110040</field>
+<field name="genre">Operas</field>
+<field name="title">The Happy Prince</field>
+<field name="titleSort">Happy Prince</field>
+<field name="composer">William J. Fisher</field>
+<field name="composerSort">Fisher, William J.</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">John Gutman</field>
+<field name="librettistSort">Gutman, John</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">University of Iowa</field>
+<field name="city">Iowa City</field>
+<field name="region">Iowa</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Happy+Prince+William+J.+Fisher&amp;search_field=search</field>
+</doc>
+</add>

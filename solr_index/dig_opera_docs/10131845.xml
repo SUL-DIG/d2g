@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131845</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Lara</field>
+<field name="titleSort">conte di Lara</field>
+<field name="composer">Vincenzo Venturelli</field>
+<field name="composerSort">Venturelli, Vincenzo</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Rodolfo Paravicini</field>
+<field name="librettistSort">Paravicini, Rodolfo</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Lara+Vincenzo+Venturelli&amp;search_field=search</field>
+</doc>
+</add>

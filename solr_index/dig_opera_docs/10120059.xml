@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120059</field>
+<field name="genre">Operas</field>
+<field name="title">The Constant Cannibal Maiden</field>
+<field name="titleSort">Constant Cannibal Maiden</field>
+<field name="composer">James McKeel</field>
+<field name="composerSort">McKeel, James</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">James McKeel</field>
+<field name="librettistSort">McKeel, James</field>
+<field name="librettist">Wallace Irwin</field>
+<field name="librettistSort">Irwin, Wallace</field>
+<field name="theater">Southern Theater</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Constant+Cannibal+Maiden+James+McKeel&amp;search_field=search</field>
+</doc>
+</add>

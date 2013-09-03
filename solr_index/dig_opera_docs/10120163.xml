@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120163</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della continenza considerato</field>
+<field name="titleSort">trionfo della continenza considerato</field>
+<field name="composer">Alessandro Melani</field>
+<field name="composerSort">Melani, Alessandro</field>
+<field name="year">1677</field>
+<field name="date">1677</field>
+<field name="librettist">Giulio Montevecchio</field>
+<field name="librettistSort">Montevecchio, Giulio</field>
+<field name="theater">Teatro della Fortuna</field>
+<field name="city">Fano</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+continenza+considerato+Alessandro+Melani&amp;search_field=search</field>
+</doc>
+</add>

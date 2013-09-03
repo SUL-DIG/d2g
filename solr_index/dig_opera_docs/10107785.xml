@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107785</field>
+<field name="genre">Operas</field>
+<field name="title">Das Freyschiessen</field>
+<field name="titleSort">Freyschiessen</field>
+<field name="composer">Christian Ludwig Dieter</field>
+<field name="composerSort">Dieter, Christian Ludwig</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Johann August Weppen</field>
+<field name="librettistSort">Weppen, Johann August</field>
+<field name="theater">Kleines Schauspielhaus auf der Planie</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Freyschiessen+Christian+Ludwig+Dieter&amp;search_field=search</field>
+</doc>
+</add>

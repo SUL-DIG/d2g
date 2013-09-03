@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100807</field>
+<field name="genre">Operas</field>
+<field name="title">I due viaggiatori francesi</field>
+<field name="titleSort">due viaggiatori francesi</field>
+<field name="composer">Angelo d'Angelis</field>
+<field name="composerSort">d'Angelis, Angelo</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="city">Klagenfurt</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+viaggiatori+francesi+Angelo+d'Angelis&amp;search_field=search</field>
+</doc>
+</add>

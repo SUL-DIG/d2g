@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132500</field>
+<field name="genre">Operas</field>
+<field name="title">Else Klapperzehen</field>
+<field name="titleSort">Else Klapperzehen</field>
+<field name="composer">Hermann Wolfgang Waltershausen</field>
+<field name="composerSort">Waltershausen, Hermann Wolfgang</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Hermann Wolfgang Waltershausen</field>
+<field name="librettistSort">Waltershausen, Hermann Wolfgang</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Else+Klapperzehen+Hermann+Wolfgang+Waltershausen&amp;search_field=search</field>
+</doc>
+</add>

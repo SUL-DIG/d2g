@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116212</field>
+<field name="genre">Operas</field>
+<field name="title">Alkestis</field>
+<field name="titleSort">Alkestis</field>
+<field name="composer">Gustave Köckert</field>
+<field name="composerSort">Köckert, Gustave</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Berthe Vadier</field>
+<field name="librettistSort">Vadier, Berthe</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alkestis+Gustave+Köckert&amp;search_field=search</field>
+</doc>
+</add>

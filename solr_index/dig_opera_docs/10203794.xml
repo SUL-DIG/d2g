@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203794</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Salomons Tempelbau</field>
+		<field name="titleSort">Salomons Tempelbau</field>
+		<field name="year">1836</field>
+		
+		
+		<field name="date">1836</field>
+		<field name="composer">Friedrich Schneider</field>
+		<field name="composerSort">Schneider, Friedrich</field>
+		<field name="librettist">__ Gelske</field>
+		<field name="librettistSort">Gelske, __</field>
+		
+		
+		
+		
+		
+		<field name="subject">Solomon constructs the Temple</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salomons+Tempelbau+Friedrich+Schneider&amp;search_field=search</field>
+	</doc></add>

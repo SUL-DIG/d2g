@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105750</field>
+<field name="genre">Operas</field>
+<field name="title">La donna dottoressa</field>
+<field name="titleSort">donna dottoressa</field>
+<field name="composer">Pietro Chiarini</field>
+<field name="composerSort">Chiarini, Pietro</field>
+<field name="year">1754</field>
+<field name="date">1754</field><field name="theater">Teatro Nazari</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+dottoressa+Pietro+Chiarini&amp;search_field=search</field>
+</doc>
+</add>

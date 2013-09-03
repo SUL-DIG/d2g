@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103374</field>
+<field name="genre">Operas</field>
+<field name="title">A debricini biró</field>
+<field name="titleSort">debricini biró</field>
+<field name="composer">Gustav Böhm</field>
+<field name="composerSort">Böhm, Gustav</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">[József Eduárd Szathmáry] Ede Szigligeti</field>
+<field name="librettistSort">Szigligeti, Ede [József Eduárd Szathmáry]</field>
+<field name="librettist">Mór Jókai</field>
+<field name="librettistSort">Jókai, Mór</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+debricini+biró+Gustav+Böhm&amp;search_field=search</field>
+</doc>
+</add>

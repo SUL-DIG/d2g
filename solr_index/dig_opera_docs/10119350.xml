@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119350</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro in Efeso</field>
+<field name="titleSort">Alessandro in Efeso</field>
+<field name="composer">Gaetano Marinelli</field>
+<field name="composerSort">Marinelli, Gaetano</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Francesco Marconi</field>
+<field name="librettistSort">Marconi, Francesco</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+in+Efeso+Gaetano+Marinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114107</field>
+<field name="genre">Operas</field>
+<field name="title">L'auteur mort et vivant</field>
+<field name="titleSort">auteur mort et vivant</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">François-Antoine-Eugène de Planard</field>
+<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'auteur+mort+et+vivant+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103490</field>
+<field name="genre">Operas</field>
+<field name="title">Lida Wilson</field>
+<field name="titleSort">Lida Wilson</field>
+<field name="composer">Ferdinando Bonamici</field>
+<field name="composerSort">Bonamici, Ferdinando</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lida+Wilson+Ferdinando+Bonamici&amp;search_field=search</field>
+</doc>
+</add>

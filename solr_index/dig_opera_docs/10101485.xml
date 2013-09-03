@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101485</field>
+<field name="genre">Operas</field>
+<field name="title">La donna di spirito</field>
+<field name="titleSort">donna di spirito</field>
+<field name="composer">Giovanni Giacomo Avanzini</field>
+<field name="composerSort">Avanzini, Giovanni Giacomo</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+di+spirito+Giovanni+Giacomo+Avanzini&amp;search_field=search</field>
+</doc>
+</add>

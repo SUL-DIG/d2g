@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129540</field>
+<field name="genre">Operas</field>
+<field name="title">À Chatou</field>
+<field name="titleSort">À Chatou</field>
+<field name="composer">Louis Souquet</field>
+<field name="composerSort">Souquet, Louis</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Léon Dumay</field>
+<field name="librettistSort">Dumay, Léon</field>
+<field name="theater">Théâtre de la Tertulia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+Chatou+Louis+Souquet&amp;search_field=search</field>
+</doc>
+</add>

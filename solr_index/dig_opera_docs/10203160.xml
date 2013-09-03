@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203160</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pamantul mec</field>
+		<field name="titleSort">Pamantul mec</field>
+		<field name="year">1982</field>
+		
+		
+		<field name="date">1982</field>
+		<field name="composer">Teodor Zgureanu</field>
+		<field name="composerSort">Zgureanu, Teodor</field>
+		<field name="librettist">Alexandru Rosca</field>
+		<field name="librettistSort">Rosca, Alexandru</field>
+		<field name="librettist">Ioan Vieru</field>
+		<field name="librettistSort">Vieru, Ioan</field>
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pamantul+mec+Teodor+Zgureanu&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201318</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il figliuol prodigo</field>
+		<field name="titleSort">figliuol prodigo</field>
+		<field name="year">1707</field>
+		<field name="month">March</field>
+		<field name="day">27</field>
+		<field name="date">March 27, 1707</field>
+		<field name="composer">Carlo Francesco Cesarini</field>
+		<field name="composerSort">Cesarini, Carlo Francesco</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Oratorio dei Filippini di Santa Maria in Vallicella</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figliuol+prodigo+Carlo+Francesco+Cesarini&amp;search_field=search</field>
+	</doc></add>

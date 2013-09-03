@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125205</field>
+<field name="genre">Operas</field>
+<field name="title">"Il ciarlatano, ossia I finti savoiardi</field>
+<field name="titleSort">"ciarlatano, ossia I finti savoiardi"</field>
+<field name="composer">Domenico Puccini</field>
+<field name="composerSort">Puccini, Domenico</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Luigi Buonavoglia</field>
+<field name="librettistSort">Buonavoglia, Luigi</field>
+<field name="theater">Teatro Castiglioncelli</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ciarlatano,+ossia+I+finti+savoiardi+Domenico+Puccini&amp;search_field=search</field>
+</doc>
+</add>

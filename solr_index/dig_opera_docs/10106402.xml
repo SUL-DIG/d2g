@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106402</field>
+<field name="genre">Operas</field>
+<field name="title">The Little Duchess</field>
+<field name="titleSort">Little Duchess</field>
+<field name="composer">Frank Congden</field>
+<field name="composerSort">Congden, Frank</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Frank Marshall</field>
+<field name="librettistSort">Marshall, Frank</field>
+<field name="librettist">Frederick Mouillot</field>
+<field name="librettistSort">Mouillot, Frederick</field>
+
+<field name="city">Stockton-on-Tees</field>
+<field name="region">Cleveland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Little+Duchess+Frank+Congden&amp;search_field=search</field>
+</doc>
+</add>

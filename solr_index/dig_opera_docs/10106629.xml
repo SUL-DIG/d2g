@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106629</field>
+<field name="genre">Operas</field>
+<field name="title">Wasser und Blut</field>
+<field name="titleSort">Wasser und Blut</field>
+<field name="composer">Azio Corghi</field>
+<field name="composerSort">Corghi, Azio</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">José Saramago</field>
+<field name="librettistSort">Saramago, José</field>
+<field name="librettist">Azio Corghi</field>
+<field name="librettistSort">Corghi, Azio</field>
+<field name="theater">Lortzing-Theater</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wasser+und+Blut+Azio+Corghi&amp;search_field=search</field>
+</doc>
+</add>

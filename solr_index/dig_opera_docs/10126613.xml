@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126613</field>
+<field name="genre">Operas</field>
+<field name="title">The Robbers</field>
+<field name="titleSort">Robbers</field>
+<field name="composer">Ned Rorem</field>
+<field name="composerSort">Rorem, Ned</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Ned Rorem</field>
+<field name="librettistSort">Rorem, Ned</field>
+<field name="librettist">Marc Blitzstein</field>
+<field name="librettistSort">Blitzstein, Marc</field>
+<field name="theater">Mannes College of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Robbers+Ned+Rorem&amp;search_field=search</field>
+</doc>
+</add>

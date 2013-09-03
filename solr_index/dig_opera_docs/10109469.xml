@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109469</field>
+<field name="genre">Operas</field>
+<field name="title">Der Herr und der Hund</field>
+<field name="titleSort">Herr und der Hund</field>
+<field name="composer">Klaus Fehmel</field>
+<field name="composerSort">Fehmel, Klaus</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Klaus Fehmel</field>
+<field name="librettistSort">Fehmel, Klaus</field>
+<field name="theater">Theater der Freundschaft</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+und+der+Hund+Klaus+Fehmel&amp;search_field=search</field>
+</doc>
+</add>

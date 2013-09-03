@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100925</field>
+<field name="genre">Operas</field>
+<field name="title">Lo matremmonejo pe' mennetta</field>
+<field name="titleSort">matremmonejo pe' mennetta</field>
+<field name="composer">Francesco Araia</field>
+<field name="composerSort">Araia, Francesco</field>
+<field name="year">1729</field>
+<field name="date">1729</field>
+<field name="librettist">Tommaso Mariani</field>
+<field name="librettistSort">Mariani, Tommaso</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+matremmonejo+pe'+mennetta+Francesco+Araia&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123846</field>
+<field name="genre">Operas</field>
+<field name="title">Phanor et Angéla</field>
+<field name="titleSort">Phanor et Angéla</field>
+<field name="composer">Louis-Luc Loiseau de Persius</field>
+<field name="composerSort">Persius, Louis-Luc Loiseau de</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Louis-François Faur</field>
+<field name="librettistSort">Faur, Louis-François</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phanor+et+Angéla+Louis-Luc+Loiseau+de+Persius&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127213</field>
+<field name="genre">Operas</field>
+<field name="title">Il mondo abbatuto</field>
+<field name="titleSort">mondo abbatuto</field>
+<field name="composer">Nicola Sabini</field>
+<field name="composerSort">Sabini, Nicola</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Simone de Falco</field>
+<field name="librettistSort">Falco, Simone de</field>
+<field name="theater">Congregazione de Musici</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mondo+abbatuto+Nicola+Sabini&amp;search_field=search</field>
+</doc>
+</add>

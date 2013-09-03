@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131579</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Visconti</field>
+<field name="titleSort">Marco Visconti</field>
+<field name="composer">Nicola Vaccai</field>
+<field name="composerSort">Vaccai, Nicola</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Luigi Toccagni</field>
+<field name="librettistSort">Toccagni, Luigi</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Visconti+Nicola+Vaccai&amp;search_field=search</field>
+</doc>
+</add>

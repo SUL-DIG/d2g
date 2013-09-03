@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125896</field>
+<field name="genre">Operas</field>
+<field name="title">Maria egiziaca</field>
+<field name="titleSort">Maria egiziaca</field>
+<field name="composer">Ottorino Respighi</field>
+<field name="composerSort">Respighi, Ottorino</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Claudio Guastalla</field>
+<field name="librettistSort">Guastalla, Claudio</field>
+<field name="librettist">Domenico Cavalca</field>
+<field name="librettistSort">Cavalca, Domenico</field>
+<field name="theater">Carnegie Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+egiziaca+Ottorino+Respighi&amp;search_field=search</field>
+</doc>
+</add>

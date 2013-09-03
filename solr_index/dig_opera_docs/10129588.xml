@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129588</field>
+<field name="genre">Operas</field>
+<field name="title">The Little Tycoon</field>
+<field name="titleSort">Little Tycoon</field>
+<field name="composer">Willard Spenser</field>
+<field name="composerSort">Spenser, Willard</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Willard Spenser</field>
+<field name="librettistSort">Spenser, Willard</field>
+<field name="theater">Temple Theater</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Little+Tycoon+Willard+Spenser&amp;search_field=search</field>
+</doc>
+</add>

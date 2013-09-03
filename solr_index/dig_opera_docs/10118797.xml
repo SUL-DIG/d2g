@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118797</field>
+<field name="genre">Operas</field>
+<field name="title">O sol da Navarra</field>
+<field name="titleSort">sol da Navarra</field>
+<field name="composer">Augusto Machado</field>
+<field name="composerSort">Machado, Augusto</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Alfredo Athayde</field>
+<field name="librettistSort">Athayde, Alfredo</field>
+<field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+sol+da+Navarra+Augusto+Machado&amp;search_field=search</field>
+</doc>
+</add>

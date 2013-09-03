@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204565</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il transito di Giuseppe</field>
+		<field name="titleSort">transito di Giuseppe</field>
+		<field name="year">1680</field>
+		
+		
+		<field name="date">1680</field>
+		<field name="composer">Leopold I Kaiser von Deutschland</field>
+		<field name="composerSort">Leopold I Kaiser von Deutschland, </field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">The Flight to Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+transito+di+Giuseppe+Leopold+I+Kaiser+von+Deutschland&amp;search_field=search</field>
+	</doc></add>

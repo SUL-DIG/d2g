@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110476</field>
+<field name="genre">Operas</field>
+<field name="title">The Brownings go to Italy</field>
+<field name="titleSort">Brownings go to Italy</field>
+<field name="composer">Eleanor Everest Freer</field>
+<field name="composerSort">Freer, Eleanor Everest</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">George Arthur Hawkins-Ambler</field>
+<field name="librettistSort">Hawkins-Ambler, George Arthur</field>
+<field name="theater">Arts Club</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Brownings+go+to+Italy+Eleanor+Everest+Freer&amp;search_field=search</field>
+</doc>
+</add>

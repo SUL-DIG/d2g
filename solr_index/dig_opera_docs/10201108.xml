@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201108</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Elias y Eliseo</field>
+		<field name="titleSort">Elias y Eliseo</field>
+		
+		
+		
+		
+		<field name="composer">Josep Picaсol</field>
+		<field name="composerSort">Pica_ol, Josep</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Elijah chooses Elisha</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elias+y+Eliseo+Josep+Picaсol&amp;search_field=search</field>
+	</doc></add>

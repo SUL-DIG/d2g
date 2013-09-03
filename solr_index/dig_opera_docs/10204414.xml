@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204414</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La suora degli emigranti</field>
+		<field name="titleSort">suora degli emigranti</field>
+		<field name="year">1947</field>
+		
+		
+		<field name="date">1947</field>
+		<field name="composer">Renzo Rossellini</field>
+		<field name="composerSort">Rossellini, Renzo</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Frances Xavier Cabrini</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">December 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+suora+degli+emigranti+Renzo+Rossellini&amp;search_field=search</field>
+	</doc></add>

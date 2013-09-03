@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112104</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spiegel des grossen Kaisers</field>
+<field name="titleSort">Spiegel des grossen Kaisers</field>
+<field name="composer">Detlev Glanert</field>
+<field name="composerSort">Glanert, Detlev</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Detlev Glanert</field>
+<field name="librettistSort">Glanert, Detlev</field>
+<field name="librettist">Ulfert Becker</field>
+<field name="librettistSort">Becker, Ulfert</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spiegel+des+grossen+Kaisers+Detlev+Glanert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113162</field>
+<field name="genre">Operas</field>
+<field name="title">Marianela</field>
+<field name="titleSort">Marianela</field>
+<field name="composer">Benjamín Gutiérrez Sáenz</field>
+<field name="composerSort">Sáenz, Benjamín Gutiérrez</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Benito Pérez Galdós</field>
+<field name="librettistSort">Pérez Galdós, Benito</field>
+<field name="theater">Teatro Nacional</field>
+<field name="city">San Jose</field>
+
+<field name="country">Costa Rica</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marianela+Benjamín+Gutiérrez+Sáenz&amp;search_field=search</field>
+</doc>
+</add>

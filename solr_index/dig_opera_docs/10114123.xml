@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114123</field>
+<field name="genre">Operas</field>
+<field name="title">"Zampa, ou La fiançée de marbre</field>
+<field name="titleSort">"Zampa, ou La fiançée de marbre"</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zampa,+ou+La+fiançée+de+marbre+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

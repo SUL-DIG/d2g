@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106256</field>
+<field name="genre">Operas</field>
+<field name="title">Entre giestas</field>
+<field name="titleSort">Entre giestas</field>
+<field name="composer">Rui Coelho</field>
+<field name="composerSort">Coelho, Rui</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">[Carlos Afonso dos Santos] Carlos Selvagem</field>
+<field name="librettistSort">Selvagem, Carlos [Carlos Afonso dos Santos]</field>
+<field name="theater">Coliseu dos Recreios</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Entre+giestas+Rui+Coelho&amp;search_field=search</field>
+</doc>
+</add>

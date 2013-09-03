@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123688</field>
+<field name="genre">Operas</field>
+<field name="title">La gita in campagna</field>
+<field name="titleSort">gita in campagna</field>
+<field name="composer">Mario Peragallo</field>
+<field name="composerSort">Peragallo, Mario</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">[Alberto Pincherle] Alberto Moravia</field>
+<field name="librettistSort">Moravia, Alberto [Alberto Pincherle]</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gita+in+campagna+Mario+Peragallo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200174</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Angeli, chiesa militante, chiesa sofferinte</field>
+		<field name="titleSort">Angeli, chiesa militante, chiesa sofferinte</field>
+		<field name="year">1901</field>
+		<field name="month">April</field>
+		<field name="day">21</field>
+		<field name="date">April 21, 1901</field>
+		<field name="composer">Pierbattista da Falconara</field>
+		<field name="composerSort">Falconara, Pierbattista da</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angeli,+chiesa+militante,+chiesa+sofferinte+Pierbattista+da+Falconara&amp;search_field=search</field>
+	</doc></add>

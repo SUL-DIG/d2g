@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132799</field>
+<field name="genre">Operas</field>
+<field name="title">Koreanisches Märchen</field>
+<field name="titleSort">Koreanisches Märchen</field>
+<field name="composer">Waldemar Wendland</field>
+<field name="composerSort">Wendland, Waldemar</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Waldemar Wendland</field>
+<field name="librettistSort">Wendland, Waldemar</field>
+<field name="theater">Landestheater</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Koreanisches+Märchen+Waldemar+Wendland&amp;search_field=search</field>
+</doc>
+</add>

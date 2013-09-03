@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133072</field>
+<field name="genre">Operas</field>
+<field name="title">Paternoster</field>
+<field name="titleSort">Paternoster</field>
+<field name="composer">Zbigniew Wiszniewski</field>
+<field name="composerSort">Wiszniewski, Zbigniew</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Helmut Kajzar</field>
+<field name="librettistSort">Kajzar, Helmut</field>
+<field name="librettist">Zbigniew Wiszniewski</field>
+<field name="librettistSort">Wiszniewski, Zbigniew</field>
+<field name="theater">WDR Radio (Westdeutscher Rundfunk)</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paternoster+Zbigniew+Wiszniewski&amp;search_field=search</field>
+</doc>
+</add>

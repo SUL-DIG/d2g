@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116107</field>
+<field name="genre">Operas</field>
+<field name="title">Petko Samohvalko (Boastful Petko)</field>
+<field name="titleSort">Petko Samohvalko (Boastful Petko)</field>
+<field name="composer">Zhivka Klinkova</field>
+<field name="composerSort">Klinkova, Zhivka</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Nadja Trendafilova</field>
+<field name="librettistSort">Trendafilova, Nadja</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petko+Samohvalko+Boastful+Petko+Zhivka+Klinkova&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120003</field>
+<field name="genre">Operas</field>
+<field name="title">"La vigilanza delusa, ossia Amor le vince</field>
+<field name="titleSort">"vigilanza delusa, ossia Amor le vince"</field>
+<field name="composer">Giuseppe Mazza</field>
+<field name="composerSort">Mazza, Giuseppe</field>
+<field name="year">1826</field>
+<field name="date">1826</field><field name="theater">Teatro Pantera</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vigilanza+delusa,+ossia+Amor+le+vince+Giuseppe+Mazza&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130756</field>
+<field name="genre">Operas</field>
+<field name="title">"Emma und Eginhard, oder Die Last-tragende Liebe</field>
+<field name="titleSort">"Emma und Eginhard, oder Die Last-tragende Liebe"</field>
+<field name="composer">Georg Philipp Telemann</field>
+<field name="composerSort">Telemann, Georg Philipp</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Christian Gottlieb Wendt</field>
+<field name="librettistSort">Wendt, Christian Gottlieb</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emma+und+Eginhard,+oder+Die+Last-tragende+Liebe+Georg+Philipp+Telemann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100851</field>
+<field name="genre">Operas</field>
+<field name="title">Endymion</field>
+<field name="titleSort">Endymion</field>
+<field name="composer">John Antill</field>
+<field name="composerSort">Antill, John</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">John Keats</field>
+<field name="librettistSort">Keats, John</field>
+<field name="theater">Tivoli Theatre</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Endymion+John+Antill&amp;search_field=search</field>
+</doc>
+</add>

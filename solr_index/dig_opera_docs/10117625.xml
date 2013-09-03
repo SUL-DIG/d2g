@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117625</field>
+<field name="genre">Operas</field>
+<field name="title">Ninette</field>
+<field name="titleSort">Ninette</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">[Victor Nicolaïe] Charles Clairville</field>
+<field name="librettistSort">Clairville, Charles [Victor Nicolaïe]</field>
+<field name="librettist">Eugène Hubert</field>
+<field name="librettistSort">Hubert, Eugène</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ninette+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

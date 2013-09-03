@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204207</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Seasons</field>
+		<field name="titleSort">Seasons</field>
+		<field name="year">1740</field>
+		
+		
+		<field name="date">1740</field>
+		<field name="composer">John Christopher Smith</field>
+		<field name="composerSort">Smith, John Christopher</field>
+		<field name="librettist">John Lockman</field>
+		<field name="librettistSort">Lockman, John</field>
+		<field name="librettist">James Thomson</field>
+		<field name="librettistSort">Thomson, James</field>
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Seasons+John+Christopher+Smith&amp;search_field=search</field>
+	</doc></add>

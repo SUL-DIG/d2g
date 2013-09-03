@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102196</field>
+<field name="genre">Operas</field>
+<field name="title">Die lächerlichen Preziösen</field>
+<field name="titleSort">lächerlichen Preziösen</field>
+<field name="composer">Fritz Behrend</field>
+<field name="composerSort">Behrend, Fritz</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Fritz Behrend</field>
+<field name="librettistSort">Behrend, Fritz</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Städtische Opernhaus</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+lächerlichen+Preziösen+Fritz+Behrend&amp;search_field=search</field>
+</doc>
+</add>

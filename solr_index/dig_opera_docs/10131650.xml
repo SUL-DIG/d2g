@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131650</field>
+<field name="genre">Operas</field>
+<field name="title">Il capriccio drammatico</field>
+<field name="titleSort">capriccio drammatico</field>
+<field name="composer">Carlo Valentini</field>
+<field name="composerSort">Valentini, Carlo</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+
+<field name="city">Messina</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+capriccio+drammatico+Carlo+Valentini&amp;search_field=search</field>
+</doc>
+</add>

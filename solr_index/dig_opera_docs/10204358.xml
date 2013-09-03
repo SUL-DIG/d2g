@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204358</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sospetto di San Giuseppe</field>
+		<field name="titleSort">sospetto di San Giuseppe</field>
+		
+		
+		
+		
+		<field name="composer">Domenico Ricchezza</field>
+		<field name="composerSort">Ricchezza, Domenico</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Joseph</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">19</field>
+		<field name="feastDate">March 19</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sospetto+di+San+Giuseppe+Domenico+Ricchezza&amp;search_field=search</field>
+	</doc></add>

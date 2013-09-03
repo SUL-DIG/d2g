@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128116</field>
+<field name="genre">Operas</field>
+<field name="title">Monodrama</field>
+<field name="titleSort">Monodrama</field>
+<field name="composer">Boguslaw Schäffer</field>
+<field name="composerSort">Schäffer, Boguslaw</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">[George Seferiadis] George Seferis</field>
+<field name="librettistSort">Seferis, George [George Seferiadis]</field>
+<field name="librettist">Yannis Ritsos</field>
+<field name="librettistSort">Ritsos, Yannis"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monodrama+Boguslaw+Schäffer&amp;search_field=search</field>
+</doc>
+</add>

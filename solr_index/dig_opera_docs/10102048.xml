@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102048</field>
+<field name="genre">Operas</field>
+<field name="title">Teorema</field>
+<field name="titleSort">Teorema</field>
+<field name="composer">Giovanni Battistelli</field>
+<field name="composerSort">Battistelli, Giovanni</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Pier Paolo Pasolini</field>
+<field name="librettistSort">Pasolini, Pier Paolo</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teorema+Giovanni+Battistelli&amp;search_field=search</field>
+</doc>
+</add>

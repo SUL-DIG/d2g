@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129906</field>
+<field name="genre">Operas</field>
+<field name="title">Aschenbrödel</field>
+<field name="titleSort">Aschenbrödel</field>
+<field name="composer">Eduard Stiegmann</field>
+<field name="composerSort">Stiegmann, Eduard</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Carl August Görner</field>
+<field name="librettistSort">Görner, Carl August</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Komische Oper am Schottentor</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aschenbrödel+Eduard+Stiegmann&amp;search_field=search</field>
+</doc>
+</add>

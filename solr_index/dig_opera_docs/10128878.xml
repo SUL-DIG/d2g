@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128878</field>
+<field name="genre">Operas</field>
+<field name="title">Beauty and the Beast</field>
+<field name="titleSort">Beauty and the Beast</field>
+<field name="composer">David Selwyn</field>
+<field name="composerSort">Selwyn, David</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">David Selwyn</field>
+<field name="librettistSort">Selwyn, David</field>
+<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
+<field name="librettistSort">Leprince de Beaumont, Jeanne Marie</field>
+<field name="theater">Bristol Grammar School</field>
+<field name="city">Clifton</field>
+<field name="region">Bristol</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+David+Selwyn&amp;search_field=search</field>
+</doc>
+</add>

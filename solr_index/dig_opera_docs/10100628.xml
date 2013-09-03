@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100628</field>
+<field name="genre">Operas</field>
+<field name="title">"Orfeo, l'ennesimo</field>
+<field name="titleSort">"Orfeo, l'ennesimo"</field>
+<field name="composer">Claudio Ambrosini</field>
+<field name="composerSort">Ambrosini, Claudio</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Carlo d'Altilia</field>
+<field name="librettistSort">d'Altilia, Carlo</field>
+<field name="theater">Aterforum</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo,+l'ennesimo+Claudio+Ambrosini&amp;search_field=search</field>
+</doc>
+</add>

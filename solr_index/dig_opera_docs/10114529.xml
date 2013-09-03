@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114529</field>
+<field name="genre">Operas</field>
+<field name="title">Ruggiero</field>
+<field name="titleSort">Ruggiero</field>
+<field name="composer">Samuel Holmes</field>
+<field name="composerSort">Holmes, Samuel</field>
+<field name="year">1838</field>
+<field name="date">1838</field><field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruggiero+Samuel+Holmes&amp;search_field=search</field>
+</doc>
+</add>

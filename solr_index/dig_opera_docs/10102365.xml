@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102365</field>
+<field name="genre">Operas</field>
+<field name="title">Nitteti</field>
+<field name="titleSort">Nitteti</field>
+<field name="composer">Angelo Maria Benincori</field>
+<field name="composerSort">Benincori, Angelo Maria</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nitteti+Angelo+Maria+Benincori&amp;search_field=search</field>
+</doc>
+</add>

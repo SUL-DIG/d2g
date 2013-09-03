@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132971</field>
+<field name="genre">Operas</field>
+<field name="title">Oleander Red</field>
+<field name="titleSort">Oleander Red</field>
+<field name="composer">Ronald Ray Williams</field>
+<field name="composerSort">Williams, Ronald Ray</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Christian Hamilton</field>
+<field name="librettistSort">Hamilton, Christian</field>
+<field name="theater">College of Music</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oleander+Red+Ronald+Ray+Williams&amp;search_field=search</field>
+</doc>
+</add>

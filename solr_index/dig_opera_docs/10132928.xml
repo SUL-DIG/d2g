@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132928</field>
+<field name="genre">Operas</field>
+<field name="title">The Opening</field>
+<field name="titleSort">Opening</field>
+<field name="composer">Alec Wilder</field>
+<field name="composerSort">Wilder, Alec</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Arnold Sundgaard</field>
+<field name="librettistSort">Sundgaard, Arnold</field>
+<field name="theater">New England Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Opening+Alec+Wilder&amp;search_field=search</field>
+</doc>
+</add>

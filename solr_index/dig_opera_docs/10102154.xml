@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102154</field>
+<field name="genre">Operas</field>
+<field name="title">Night Blooming Cereus</field>
+<field name="titleSort">Night Blooming Cereus</field>
+<field name="composer">John Beckwith</field>
+<field name="composerSort">Beckwith, John</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">James Reaney</field>
+<field name="librettistSort">Reaney, James</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Night+Blooming+Cereus+John+Beckwith&amp;search_field=search</field>
+</doc>
+</add>

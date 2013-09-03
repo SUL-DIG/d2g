@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110172</field>
+<field name="genre">Operas</field>
+<field name="title">La noce de Lucette</field>
+<field name="titleSort">noce de Lucette</field>
+<field name="composer">François Foignet</field>
+<field name="composerSort">Foignet, François</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Marie Monnet</field>
+<field name="librettistSort">Monnet, Marie</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+noce+de+Lucette+François+Foignet&amp;search_field=search</field>
+</doc>
+</add>

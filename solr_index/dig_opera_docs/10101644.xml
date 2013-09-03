@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101644</field>
+<field name="genre">Operas</field>
+<field name="title">Dievo avinelis (Lamb of God)</field>
+<field name="titleSort">Dievo avinelis (Lamb of God)</field>
+<field name="composer">Feliksas Romualdas Bajoras</field>
+<field name="composerSort">Bajoras, Feliksas Romualdas</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Rimantas Savelis</field>
+<field name="librettistSort">Savelis, Rimantas</field>
+<field name="theater">Operos ir Baleto Teatras</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dievo+avinelis+Lamb+of+God+Feliksas+Romualdas+Bajoras&amp;search_field=search</field>
+</doc>
+</add>

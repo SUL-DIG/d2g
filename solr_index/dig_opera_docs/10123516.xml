@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123516</field>
+<field name="genre">Operas</field>
+<field name="title">La pace</field>
+<field name="titleSort">pace</field>
+<field name="composer">Stefano Pavesi</field>
+<field name="composerSort">Pavesi, Stefano</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro dagli Armeni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pace+Stefano+Pavesi&amp;search_field=search</field>
+</doc>
+</add>

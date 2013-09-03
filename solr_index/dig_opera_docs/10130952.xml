@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130952</field>
+<field name="genre">Operas</field>
+<field name="title">A Princess for a Prize</field>
+<field name="titleSort">Princess for a Prize</field>
+<field name="composer">Cedric Thorpe Davie</field>
+<field name="composerSort">Davie, Cedric Thorpe</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">William MacArthur</field>
+<field name="librettistSort">MacArthur, William</field>
+<field name="theater">BBC Scotland Radio (British Broadcasting Corporation)</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Princess+for+a+Prize+Cedric+Thorpe+Davie&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202728</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Messias</field>
+		<field name="titleSort">Messias</field>
+		<field name="year">1780</field>
+		
+		
+		<field name="date">1780</field>
+		<field name="composer">Andreas Romberg</field>
+		<field name="composerSort">Romberg, Andreas</field>
+		<field name="librettist">Friedrich Gottlieb Klopstock</field>
+		<field name="librettistSort">Klopstock, Friedrich Gottli</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Messiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Messias+Andreas+Romberg&amp;search_field=search</field>
+	</doc></add>

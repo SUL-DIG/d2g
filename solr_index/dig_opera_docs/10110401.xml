@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110401</field>
+<field name="genre">Operas</field>
+<field name="title">Attila</field>
+<field name="titleSort">Attila</field>
+<field name="composer">Johann Wolfgang Franck</field>
+<field name="composerSort">Franck, Johann Wolfgang</field>
+<field name="year">1682</field>
+<field name="date">1682</field>
+<field name="librettist">Lucas von Bostel</field>
+<field name="librettistSort">Bostel, Lucas von</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Attila+Johann+Wolfgang+Franck&amp;search_field=search</field>
+</doc>
+</add>

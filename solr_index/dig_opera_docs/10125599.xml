@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125599</field>
+<field name="genre">Operas</field>
+<field name="title">La culotte du roi Dagobert</field>
+<field name="titleSort">culotte du roi Dagobert</field>
+<field name="composer">Fernand Raphaël</field>
+<field name="composerSort">Raphaël, Fernand</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Léon Michel</field>
+<field name="librettistSort">Michel, Léon</field>
+<field name="theater">Théâtre de l'Arlequin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+culotte+du+roi+Dagobert+Fernand+Raphaël&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122045</field>
+<field name="genre">Operas</field>
+<field name="title">Il sogno di Scipione</field>
+<field name="titleSort">sogno di Scipione</field>
+<field name="composer">Christoph Nickelmann</field>
+<field name="composerSort">Nickelmann, Christoph</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Comödiensaal auf dem Schlosse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+di+Scipione+Christoph+Nickelmann&amp;search_field=search</field>
+</doc>
+</add>

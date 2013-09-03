@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203170</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le paradis perdu</field>
+		<field name="titleSort">paradis perdu</field>
+		<field name="year">1878</field>
+		
+		
+		<field name="date">1878</field>
+		<field name="composer">Théodore Dubois</field>
+		<field name="composerSort">Dubois, Théodore</field>
+		<field name="librettist">Édouard Blau</field>
+		<field name="librettistSort">Blau, Édouard</field>
+		<field name="librettist">John Milton</field>
+		<field name="librettistSort">Milton, John</field>
+		<field name="theater">Concerts-Colonne</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">The Expulsion from the Garden of Eden</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+paradis+perdu+Théodore+Dubois&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110977</field>
+<field name="genre">Operas</field>
+<field name="title">La fortuna</field>
+<field name="titleSort">fortuna</field>
+<field name="composer">Pietro Gambari</field>
+<field name="composerSort">Gambari, Pietro</field>
+<field name="year">1628</field>
+<field name="date">1628</field>
+<field name="city">Urbino</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fortuna+Pietro+Gambari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104852</field>
+<field name="genre">Operas</field>
+<field name="title">Saul</field>
+<field name="titleSort">Saul</field>
+<field name="composer">Francesco Cannetti (2)</field>
+<field name="composerSort">Cannetti (2), Francesco</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Giulio Pullè</field>
+<field name="librettistSort">Pullè, Giulio</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+Francesco+Cannetti+-2&amp;search_field=search</field>
+</doc>
+</add>

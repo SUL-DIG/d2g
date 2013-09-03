@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133171</field>
+<field name="genre">Operas</field>
+<field name="title">Die Alpenhirten</field>
+<field name="titleSort">Alpenhirten</field>
+<field name="composer">Friedrich Wollank</field>
+<field name="composerSort">Wollank, Friedrich</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Heinrich Wilhelm Loest</field>
+<field name="librettistSort">Loest, Heinrich Wilhelm</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Alpenhirten+Friedrich+Wollank&amp;search_field=search</field>
+</doc>
+</add>

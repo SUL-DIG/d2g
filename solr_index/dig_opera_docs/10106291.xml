@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106291</field>
+<field name="genre">Operas</field>
+<field name="title">Dream Lovers</field>
+<field name="titleSort">Dream Lovers</field>
+<field name="composer">Samuel Coleridge-Taylor</field>
+<field name="composerSort">Coleridge-Taylor, Samuel</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Paul Lawrence Dunbar</field>
+<field name="librettistSort">Dunbar, Paul Lawrence</field>
+<field name="theater">Public Hall</field>
+<field name="city">Croydon</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dream+Lovers+Samuel+Coleridge-Taylor&amp;search_field=search</field>
+</doc>
+</add>

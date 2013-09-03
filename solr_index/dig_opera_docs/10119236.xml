@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119236</field>
+<field name="genre">Operas</field>
+<field name="title">Succès parisiens. Une nuit de noces</field>
+<field name="titleSort">Succès parisiens. Une nuit de noces</field>
+<field name="composer">Gaston Maquis</field>
+<field name="composerSort">Maquis, Gaston</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Gaston Maquis</field>
+<field name="librettistSort">Maquis, Gaston</field>
+<field name="theater">Éden-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Succès+parisiens.+Une+nuit+de+noces+Gaston+Maquis&amp;search_field=search</field>
+</doc>
+</add>

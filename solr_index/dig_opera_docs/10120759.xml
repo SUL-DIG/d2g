@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120759</field>
+<field name="genre">Operas</field>
+<field name="title">Celeste</field>
+<field name="titleSort">Celeste</field>
+<field name="composer">Erich Mirsch-Riccius</field>
+<field name="composerSort">Mirsch-Riccius, Erich</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Ehrenfried Günther von Hünefeld</field>
+<field name="librettistSort">Hünefeld, Ehrenfried Günther von</field>
+<field name="theater">Berlin Shortwave Radio (Kurzwellensender Berlin)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Celeste+Erich+Mirsch-Riccius&amp;search_field=search</field>
+</doc>
+</add>

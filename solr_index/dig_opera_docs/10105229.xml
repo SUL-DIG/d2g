@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105229</field>
+<field name="genre">Operas</field>
+<field name="title">Salammbô</field>
+<field name="titleSort">Salammbô</field>
+<field name="composer">Franco Casavola</field>
+<field name="composerSort">Casavola, Franco</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Emidio Mucci</field>
+<field name="librettistSort">Mucci, Emidio</field>
+<field name="librettist">Gustave Flaubert</field>
+<field name="librettistSort">Flaubert, Gustave</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salammbô+Franco+Casavola&amp;search_field=search</field>
+</doc>
+</add>

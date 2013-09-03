@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118228</field>
+<field name="genre">Operas</field>
+<field name="title">The Wise and the Foolish</field>
+<field name="titleSort">Wise and the Foolish</field>
+<field name="composer">Kurt List</field>
+<field name="composerSort">List, Kurt</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Kurt List</field>
+<field name="librettistSort">List, Kurt</field>
+<field name="theater">"Kaufmann Auditorium, 92nd Street Y"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wise+and+the+Foolish+Kurt+List&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118456</field>
+<field name="genre">Operas</field>
+<field name="title">Stalten Mette (Haughty Mette)</field>
+<field name="titleSort">Stalten Mette (Haughty Mette)</field>
+<field name="composer">Bent Lorentzen</field>
+<field name="composerSort">Lorentzen, Bent</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Bent Lorentzen</field>
+<field name="librettistSort">Lorentzen, Bent</field>
+<field name="librettist">Peter Eszterhás</field>
+<field name="librettistSort">Eszterhás, Peter</field>
+<field name="theater">Statsgymnasium</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stalten+Mette+Haughty+Mette+Bent+Lorentzen&amp;search_field=search</field>
+</doc>
+</add>

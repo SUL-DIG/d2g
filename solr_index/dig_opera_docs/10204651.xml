@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204651</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della pietа per l'insegna del carmine nel genio disingannato</field>
+		<field name="titleSort">trionfo della pietа per l'insegna del carmine nel genio disingannato</field>
+		<field name="year">1731</field>
+		<field name="month">July</field>
+		<field name="day">11</field>
+		<field name="date">July 11, 1731</field>
+		<field name="composer">Antonio Petrini</field>
+		<field name="composerSort">Petrini, Antonio</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+pietа+per+l'insegna+del+carmine+nel+genio+disingannato+Antonio+Petrini&amp;search_field=search</field>
+	</doc></add>

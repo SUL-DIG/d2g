@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107425</field>
+<field name="genre">Operas</field>
+<field name="title">Six demoiselles а marier</field>
+<field name="titleSort">Six demoiselles а marier</field>
+<field name="composer">Léo Delibes</field>
+<field name="composerSort">Delibes, Léo</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Adolphe-Joseph Choler</field>
+<field name="librettistSort">Choler, Adolphe-Joseph</field>
+<field name="librettist">Ernest Jaime</field>
+<field name="librettistSort">Jaime, Ernest</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Six+demoiselles+а+marier+Léo+Delibes&amp;search_field=search</field>
+</doc>
+</add>

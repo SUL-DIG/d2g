@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204939</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Wreck of the Hesperus</field>
+		<field name="titleSort">Wreck of the Hesperus</field>
+		<field name="year">1892</field>
+		
+		
+		<field name="date">1892</field>
+		<field name="composer">Robert Henry Earnhaw</field>
+		<field name="composerSort">Earnhaw, Robert Henry</field>
+		<field name="librettist">Henry Wadsworth Longfellow</field>
+		<field name="librettistSort">Longfellow, Henry Wadsworth</field>
+		
+		
+		<field name="city">Dublin</field>
+		<field name="region">Leinster</field>
+		<field name="country">Ireland</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wreck+of+the+Hesperus+Robert+Henry+Earnhaw&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115308</field>
+<field name="genre">Operas</field>
+<field name="title">Schliemann</field>
+<field name="titleSort">Schliemann</field>
+<field name="composer">Betsy Jolas</field>
+<field name="composerSort">Jolas, Betsy</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Bruno Bayen</field>
+<field name="librettistSort">Bayen, Bruno</field>
+<field name="librettist">Betsy Jolas</field>
+<field name="librettistSort">Jolas, Betsy</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schliemann+Betsy+Jolas&amp;search_field=search</field>
+</doc>
+</add>

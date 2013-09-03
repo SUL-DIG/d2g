@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124631</field>
+<field name="genre">Operas</field>
+<field name="title">Amalasunta in Italia</field>
+<field name="titleSort">Amalasunta in Italia</field>
+<field name="composer">Giovanni Battista Policci</field>
+<field name="composerSort">Policci, Giovanni Battista</field>
+<field name="year">1681</field>
+<field name="date">1681</field>
+<field name="librettist">Alessandro Guidi</field>
+<field name="librettistSort">Guidi, Alessandro</field>
+<field name="theater">Teatro di Santa Caterina</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amalasunta+in+Italia+Giovanni+Battista+Policci&amp;search_field=search</field>
+</doc>
+</add>

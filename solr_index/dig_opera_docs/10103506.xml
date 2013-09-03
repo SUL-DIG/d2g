@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103506</field>
+<field name="genre">Operas</field>
+<field name="title">La nuit foudroyée</field>
+<field name="titleSort">nuit foudroyée</field>
+<field name="composer">Jacques Bondon</field>
+<field name="composerSort">Bondon, Jacques</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Yvonne Mauffret</field>
+<field name="librettistSort">Mauffret, Yvonne</field>
+<field name="theater">Opéra</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuit+foudroyée+Jacques+Bondon&amp;search_field=search</field>
+</doc>
+</add>

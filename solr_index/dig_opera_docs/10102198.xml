@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102198</field>
+<field name="genre">Operas</field>
+<field name="title">The Lay of Thryme</field>
+<field name="titleSort">Lay of Thryme</field>
+<field name="composer">Jack Behrens</field>
+<field name="composerSort">Behrens, Jack</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Keith Cockburn</field>
+<field name="librettistSort">Cockburn, Keith</field>
+<field name="theater">University of Saskatchewan</field>
+<field name="city">Saskatoon</field>
+<field name="region">Saskatchewan</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lay+of+Thryme+Jack+Behrens&amp;search_field=search</field>
+</doc>
+</add>

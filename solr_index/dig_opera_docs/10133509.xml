@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133509</field>
+<field name="genre">Operas</field>
+<field name="title">Zsiványkirály</field>
+<field name="titleSort">Zsiványkirály</field>
+<field name="composer">Béla Zerkovitz</field>
+<field name="composerSort">Zerkovitz, Béla</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="theater">Royal Orfeum</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zsiványkirály+Béla+Zerkovitz&amp;search_field=search</field>
+</doc>
+</add>

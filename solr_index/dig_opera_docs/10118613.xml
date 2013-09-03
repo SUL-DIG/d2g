@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118613</field>
+<field name="genre">Operas</field>
+<field name="title">Il Medoro</field>
+<field name="titleSort">Medoro</field>
+<field name="composer">Francesco Lucio</field>
+<field name="composerSort">Lucio, Francesco</field>
+<field name="year">1658</field>
+<field name="date">1658</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Medoro+Francesco+Lucio&amp;search_field=search</field>
+</doc>
+</add>

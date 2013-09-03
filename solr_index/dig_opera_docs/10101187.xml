@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101187</field>
+<field name="genre">Operas</field>
+<field name="title">Addio Garibaldi</field>
+<field name="titleSort">Addio Garibaldi</field>
+<field name="composer">Girolamo Arrigo</field>
+<field name="composerSort">Arrigo, Girolamo</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Girolamo Arrigo</field>
+<field name="librettistSort">Arrigo, Girolamo</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Addio+Garibaldi+Girolamo+Arrigo&amp;search_field=search</field>
+</doc>
+</add>

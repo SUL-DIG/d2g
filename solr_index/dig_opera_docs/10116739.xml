@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116739</field>
+<field name="genre">Operas</field>
+<field name="title">König Drosselbart</field>
+<field name="titleSort">König Drosselbart</field>
+<field name="composer">Gustav Kulenkampff</field>
+<field name="composerSort">Kulenkampff, Gustav</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">[Axel von Demandowski] Axel Delmar</field>
+<field name="librettistSort">Delmar, Axel [Axel von Demandowski]</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Drosselbart+Gustav+Kulenkampff&amp;search_field=search</field>
+</doc>
+</add>

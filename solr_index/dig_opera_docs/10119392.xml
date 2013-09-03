@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119392</field>
+<field name="genre">Operas</field>
+<field name="title">Gargantua</field>
+<field name="titleSort">Gargantua</field>
+<field name="composer">Antoine Mariotte</field>
+<field name="composerSort">Mariotte, Antoine</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">[Carle Lionel Dauriac] Armory</field>
+<field name="librettistSort">Armory, [Carle Lionel Dauriac]</field>
+<field name="librettist">Antoine Mariotte</field>
+<field name="librettistSort">Mariotte, Antoine</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gargantua+Antoine+Mariotte&amp;search_field=search</field>
+</doc>
+</add>

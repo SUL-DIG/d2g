@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115672</field>
+<field name="genre">Operas</field>
+<field name="title">Bukovyntsi (People of Bukovina)</field>
+<field name="titleSort">Bukovyntsi (People of Bukovina)</field>
+<field name="composer">Mark Karmins'ky</field>
+<field name="composerSort">Karmins'ky, Mark</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Ihor Leontiiovych Muratov</field>
+<field name="librettistSort">Muratov, Ihor Leontiiovych</field>
+<field name="theater">Derzhavnyy Akademichnyy Teatr Opery ta Baletu imeni M. V. Lysenka</field>
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bukovyntsi+People+of+Bukovina+Mark+Karmins'ky&amp;search_field=search</field>
+</doc>
+</add>

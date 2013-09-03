@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113603</field>
+<field name="genre">Operas</field>
+<field name="title">The Sorcerer's Drum</field>
+<field name="titleSort">Sorcerer's Drum</field>
+<field name="composer">Charles Hart</field>
+<field name="composerSort">Hart, Charles</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Daniel Webster Evans</field>
+<field name="librettistSort">Evans, Daniel Webster</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sorcerer's+Drum+Charles+Hart&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100944</field>
+<field name="genre">Operas</field>
+<field name="title">"Lucius, asinus aureus</field>
+<field name="titleSort">"Lucius, asinus aureus"</field>
+<field name="composer">Paolo Arcа</field>
+<field name="composerSort">Arcа, Paolo</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Lucius Apuleius</field>
+<field name="librettistSort">Apuleius, Lucius</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucius,+asinus+aureus+Paolo+Arcа&amp;search_field=search</field>
+</doc>
+</add>

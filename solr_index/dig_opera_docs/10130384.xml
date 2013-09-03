@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130384</field>
+<field name="genre">Operas</field>
+<field name="title">Phasma</field>
+<field name="titleSort">Phasma</field>
+<field name="composer">Franz Xaver Süssmayr</field>
+<field name="composerSort">Süssmayr, Franz Xaver</field>
+<field name="year">1801</field>
+<field name="date">1801</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phasma+Franz+Xaver+Süssmayr&amp;search_field=search</field>
+</doc>
+</add>

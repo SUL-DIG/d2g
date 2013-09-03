@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201015</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Les dithyrambes</field>
+		<field name="titleSort">dithyrambes</field>
+		<field name="year">1918</field>
+		<field name="month">June</field>
+		<field name="day">16</field>
+		<field name="date">June 16, 1918</field>
+		<field name="composer">Frank Martin</field>
+		<field name="composerSort">Martin, Frank</field>
+		<field name="librettist">Pierre Martin</field>
+		<field name="librettistSort">Martin, Pierre</field>
+		
+		
+		<field name="city">Lausanne</field>
+		<field name="region">Vaud</field>
+		<field name="country">Switzerland</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dithyrambes+Frank+Martin&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110012</field>
+<field name="genre">Operas</field>
+<field name="title">Il bottanico novellista</field>
+<field name="titleSort">bottanico novellista</field>
+<field name="composer">Domenico Fischietti</field>
+<field name="composerSort">Fischietti, Domenico</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Dolfin</field>
+<field name="city">Treviso</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bottanico+novellista+Domenico+Fischietti&amp;search_field=search</field>
+</doc>
+</add>

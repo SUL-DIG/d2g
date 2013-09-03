@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126155</field>
+<field name="genre">Operas</field>
+<field name="title">Zélie et Lindor</field>
+<field name="titleSort">Zélie et Lindor</field>
+<field name="composer">André Jean Rigade</field>
+<field name="composerSort">Rigade, André Jean</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Henri-François Pelletier</field>
+<field name="librettistSort">Pelletier, Henri-François</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zélie+et+Lindor+André+Jean+Rigade&amp;search_field=search</field>
+</doc>
+</add>

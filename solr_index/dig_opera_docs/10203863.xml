@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203863</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Gaetano</field>
+		<field name="titleSort">San Gaetano</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Matteo Capranica</field>
+		<field name="composerSort">Capranica, Matteo</field>
+		
+		
+		
+		<field name="city">Macerata</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Cajetan</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">7</field>
+		<field name="feastDate">August 7</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Gaetano+Matteo+Capranica&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200361</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Beato Joseph Oriol</field>
+		<field name="titleSort">Beato Joseph Oriol</field>
+		<field name="year">1807</field>
+		
+		
+		<field name="date">1807</field>
+		<field name="composer">Josep Cau</field>
+		<field name="composerSort">Cau, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Blessed Joseph Oriol</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">23</field>
+		<field name="feastDate">March 23</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beato+Joseph+Oriol+Josep+Cau&amp;search_field=search</field>
+	</doc></add>

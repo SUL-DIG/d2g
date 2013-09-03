@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111325</field>
+<field name="genre">Operas</field>
+<field name="title">Die Tugendfreundin</field>
+<field name="titleSort">Tugendfreundin</field>
+<field name="composer">[Otto Junker] Otto Gaze</field>
+<field name="composerSort">Gaze, [Otto Junker] Otto</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Hans Foerster</field>
+<field name="librettistSort">Foerster, Hans</field>
+<field name="theater">Kristallpalast-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Tugendfreundin+Otto+Junker]+Otto+Gaze&amp;search_field=search</field>
+</doc>
+</add>

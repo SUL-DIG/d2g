@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103244</field>
+<field name="genre">Operas</field>
+<field name="title">Idiots First</field>
+<field name="titleSort">Idiots First</field>
+<field name="composer">Marc Blitzstein</field>
+<field name="composerSort">Blitzstein, Marc</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Marc Blitzstein</field>
+<field name="librettistSort">Blitzstein, Marc</field>
+<field name="librettist">Bernard Malamud</field>
+<field name="librettistSort">Malamud, Bernard</field>
+<field name="theater">Monroe County Library</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idiots+First+Marc+Blitzstein&amp;search_field=search</field>
+</doc>
+</add>

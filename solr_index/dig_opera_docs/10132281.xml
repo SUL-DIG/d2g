@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132281</field>
+<field name="genre">Operas</field>
+<field name="title">Die Zaubersaite</field>
+<field name="titleSort">Zaubersaite</field>
+<field name="composer">Eugène Volborth</field>
+<field name="composerSort">Volborth, Eugène</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Vilma von Volborth</field>
+<field name="librettistSort">Volborth, Vilma von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Zaubersaite+Eugène+Volborth&amp;search_field=search</field>
+</doc>
+</add>

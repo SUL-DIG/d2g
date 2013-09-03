@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114686</field>
+<field name="genre">Operas</field>
+<field name="title">Wieland der Schmied</field>
+<field name="titleSort">Wieland der Schmied</field>
+<field name="composer">Kurt Hösel</field>
+<field name="composerSort">Hösel, Kurt</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Kurt Hösel</field>
+<field name="librettistSort">Hösel, Kurt</field>
+<field name="theater">Deutsches Oper</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wieland+der+Schmied+Kurt+Hösel&amp;search_field=search</field>
+</doc>
+</add>

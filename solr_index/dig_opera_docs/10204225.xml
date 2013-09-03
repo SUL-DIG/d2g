@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204225</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Seila figlia di Jefte</field>
+		<field name="titleSort">Seila figlia di Jefte</field>
+		<field name="year">1786</field>
+		
+		
+		<field name="date">1786</field>
+		<field name="composer">Jacopo Scolart</field>
+		<field name="composerSort">Scolart, Jacopo</field>
+		<field name="librettist">Inalbo Laerzio</field>
+		<field name="librettistSort">Laerzio, Inalbo</field>
+		
+		<field name="theater">Teatro Pubblico</field>
+		<field name="city">Cingoli</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seila+figlia+di+Jefte+Jacopo+Scolart&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132164</field>
+<field name="genre">Operas</field>
+<field name="title">La costanza trionfante degl'amori e de gl'odi</field>
+<field name="titleSort">costanza trionfante degl'amori e de gl'odi</field>
+<field name="composer">Antonio Vivaldi</field>
+<field name="composerSort">Vivaldi, Antonio</field>
+<field name="year">1716</field>
+<field name="date">1716</field>
+<field name="librettist">Antonio Marchi</field>
+<field name="librettistSort">Marchi, Antonio</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+trionfante+degl'amori+e+de+gl'odi+Antonio+Vivaldi&amp;search_field=search</field>
+</doc>
+</add>

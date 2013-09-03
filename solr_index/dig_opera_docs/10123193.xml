@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123193</field>
+<field name="genre">Operas</field>
+<field name="title">Aria da capo</field>
+<field name="titleSort">Aria da capo</field>
+<field name="composer">Raymond Pannell</field>
+<field name="composerSort">Pannell, Raymond</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Raymond Pannell</field>
+<field name="librettistSort">Pannell, Raymond</field>
+<field name="librettist">Edna St. Vincent Millay</field>
+<field name="librettistSort">Millay, Edna St. Vincent</field>
+<field name="theater">"Hart House Theatre, University of Toronto"</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aria+da+capo+Raymond+Pannell&amp;search_field=search</field>
+</doc>
+</add>

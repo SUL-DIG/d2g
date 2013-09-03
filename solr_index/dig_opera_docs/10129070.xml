@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129070</field>
+<field name="genre">Operas</field>
+<field name="title">Tarakanischche (The Cockroach)</field>
+<field name="titleSort">Tarakanischche (The Cockroach)</field>
+<field name="composer">Lyudmila Karpawna Shlel</field>
+<field name="composerSort">Shlel, Lyudmila Karpawna</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Kornei Chukovsky</field>
+<field name="librettistSort">Chukovsky, Kornei</field>
+<field name="theater">Belarusian Radio</field>
+<field name="city">Minsk</field>
+<field name="region">Minsk Oblast</field>
+<field name="country">Belarus</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tarakanischche+The+Cockroach+Lyudmila+Karpawna+Shlel&amp;search_field=search</field>
+</doc>
+</add>

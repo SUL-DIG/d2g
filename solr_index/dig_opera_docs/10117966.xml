@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117966</field>
+<field name="genre">Operas</field>
+<field name="title">Thi-Teu</field>
+<field name="titleSort">Thi-Teu</field>
+<field name="composer">Frédéric Le Rey</field>
+<field name="composerSort">Rey, Frédéric Le</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Édouard Noël</field>
+<field name="librettistSort">Noël, Édouard</field>
+<field name="librettist">Lucian d'Hève</field>
+<field name="librettistSort">d'Hève, Lucian"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thi-Teu+Frédéric+Le+Rey&amp;search_field=search</field>
+</doc>
+</add>

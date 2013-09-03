@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112773</field>
+<field name="genre">Operas</field>
+<field name="title">Graciosa</field>
+<field name="titleSort">Graciosa</field>
+<field name="composer">Laurent Grillet</field>
+<field name="composerSort">Grillet, Laurent</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Théodore Massiac</field>
+<field name="librettistSort">Massiac, Théodore</field>
+<field name="theater">Théâtre des Menus-Plaisirs</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Graciosa+Laurent+Grillet&amp;search_field=search</field>
+</doc>
+</add>

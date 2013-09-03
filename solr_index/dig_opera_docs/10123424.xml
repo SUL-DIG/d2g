@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123424</field>
+<field name="genre">Operas</field>
+<field name="title">Pour ces quelques arpents de neige</field>
+<field name="titleSort">Pour ces quelques arpents de neige</field>
+<field name="composer">Gilbert Patenaude</field>
+<field name="composerSort">Patenaude, Gilbert</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Thérèse Tousignant</field>
+<field name="librettistSort">Tousignant, Thérèse</field>
+<field name="theater">Théâtre d'Art lyrique de Laval</field>
+<field name="city">Quebec City</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pour+ces+quelques+arpents+de+neige+Gilbert+Patenaude&amp;search_field=search</field>
+</doc>
+</add>

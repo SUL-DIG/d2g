@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103335</field>
+<field name="genre">Operas</field>
+<field name="title">Hirtenlegende</field>
+<field name="titleSort">Hirtenlegende</field>
+<field name="composer">Eugen Bodart</field>
+<field name="composerSort">Bodart, Eugen</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Eugen Bodart</field>
+<field name="librettistSort">Bodart, Eugen</field>
+<field name="librettist">Lope de Vega</field>
+<field name="librettistSort">Vega, Lope de</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hirtenlegende+Eugen+Bodart&amp;search_field=search</field>
+</doc>
+</add>

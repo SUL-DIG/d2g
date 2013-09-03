@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108521</field>
+<field name="genre">Operas</field>
+<field name="title">"Felicie, eller Den romanska flickan</field>
+<field name="titleSort">"Felicie, eller Den romanska flickan"</field>
+<field name="composer">Édouard Du Puy</field>
+<field name="composerSort">Puy, Édouard Du</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Lars Hjortsberg</field>
+<field name="librettistSort">Hjortsberg, Lars</field>
+<field name="librettist">[Louis-Emmanuel Mercier] Dupaty</field>
+<field name="librettistSort">Dupaty, [Louis-Emmanuel Mercier]</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Felicie,+eller+Den+romanska+flickan+Édouard+Du+Puy&amp;search_field=search</field>
+</doc>
+</add>

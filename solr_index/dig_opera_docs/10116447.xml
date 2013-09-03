@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116447</field>
+<field name="genre">Operas</field>
+<field name="title">Das Rendez-vous</field>
+<field name="titleSort">Rendez-vous</field>
+<field name="composer">Andor Kovach</field>
+<field name="composerSort">Kovach, Andor</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Christine Arnothy</field>
+<field name="librettistSort">Arnothy, Christine</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Saarbrücken</field>
+<field name="region">Saarland</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Rendez-vous+Andor+Kovach&amp;search_field=search</field>
+</doc>
+</add>

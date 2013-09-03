@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101813</field>
+<field name="genre">Operas</field>
+<field name="title">Deux permissions de dix heures</field>
+<field name="titleSort">Deux permissions de dix heures</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Pol Mercier</field>
+<field name="librettistSort">Mercier, Pol</field>
+<field name="librettist">Henry Currat</field>
+<field name="librettistSort">Currat, Henry</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deux+permissions+de+dix+heures+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

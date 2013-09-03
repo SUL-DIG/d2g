@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113662</field>
+<field name="genre">Operas</field>
+<field name="title">Der violette Domino</field>
+<field name="titleSort">violette Domino</field>
+<field name="composer">Paul Haslinde</field>
+<field name="composerSort">Haslinde, Paul</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Paul Haslinde</field>
+<field name="librettistSort">Haslinde, Paul</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+violette+Domino+Paul+Haslinde&amp;search_field=search</field>
+</doc>
+</add>

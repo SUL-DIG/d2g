@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113095</field>
+<field name="genre">Operas</field>
+<field name="title">La fata Malerba</field>
+<field name="titleSort">fata Malerba</field>
+<field name="composer">Vittorio Gui</field>
+<field name="composerSort">Gui, Vittorio</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Fausto Salvatori</field>
+<field name="librettistSort">Salvatori, Fausto</field>
+<field name="theater">Teatro di Torino</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fata+Malerba+Vittorio+Gui&amp;search_field=search</field>
+</doc>
+</add>

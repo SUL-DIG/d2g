@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204216</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Sedecia, re di Gerusalemme</field>
+		<field name="titleSort">Sedecia, re di Gerusalemme</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		<field name="librettist">[Filippo Ortensio Fabbri] Alindo Scirtoniano</field>
+		<field name="librettistSort">Scirtoniano, Alindo [Filippo Ortensio Fabbri]</field>
+		
+		
+		<field name="city">Urbino</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Zedekiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Sedecia,+re+di+Gerusalemme+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

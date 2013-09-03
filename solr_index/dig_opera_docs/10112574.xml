@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112574</field>
+<field name="genre">Operas</field>
+<field name="title">Reklame</field>
+<field name="titleSort">Reklame</field>
+<field name="composer">Bruno Granichstädten</field>
+<field name="composerSort">Granichstädten, Bruno</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Bruno Granichstädten</field>
+<field name="librettistSort">Granichstädten, Bruno</field>
+<field name="librettist">Ernst Marischka</field>
+<field name="librettistSort">Marischka, Ernst</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reklame+Bruno+Granichstädten&amp;search_field=search</field>
+</doc>
+</add>

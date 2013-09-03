@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119034</field>
+<field name="genre">Operas</field>
+<field name="title">Boruta</field>
+<field name="titleSort">Boruta</field>
+<field name="composer">Witold Maliszewski</field>
+<field name="composerSort">Maliszewski, Witold</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Artur Oppman</field>
+<field name="librettistSort">Oppman, Artur</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boruta+Witold+Maliszewski&amp;search_field=search</field>
+</doc>
+</add>

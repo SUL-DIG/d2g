@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109715</field>
+<field name="genre">Operas</field>
+<field name="title">Prinz Dominik</field>
+<field name="titleSort">Prinz Dominik</field>
+<field name="composer">Otto Fiebach</field>
+<field name="composerSort">Fiebach, Otto</field>
+<field name="year">1885</field>
+<field name="date">1885</field><field name="theater">Stadttheater</field>
+<field name="city">Gdansk</field>
+<field name="region">Pomorskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinz+Dominik+Otto+Fiebach&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204444</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ein Tag aus dem Leben des Herrn</field>
+		<field name="titleSort">Tag aus dem Leben des Herrn</field>
+		<field name="year">1887</field>
+		<field name="month">October</field>
+		<field name="day">2</field>
+		<field name="date">October 2, 1887</field>
+		<field name="composer">Otto Dienel</field>
+		<field name="composerSort">Dienel, Otto</field>
+		<field name="librettist">Friedrich Zimmer</field>
+		<field name="librettistSort">Zimmer, Friedrich</field>
+		
+		
+		<field name="city">Boleslawiec</field>
+		<field name="region">Dolnoslaskie</field>
+		<field name="country">Poland</field>
+		<field name="subject">The Life of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Tag+aus+dem+Leben+des+Herrn+Otto+Dienel&amp;search_field=search</field>
+	</doc></add>

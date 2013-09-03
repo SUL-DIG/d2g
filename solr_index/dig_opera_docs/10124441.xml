@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124441</field>
+<field name="genre">Operas</field>
+<field name="title">Fra Gherardo</field>
+<field name="titleSort">Fra Gherardo</field>
+<field name="composer">Ildebrando Pizzetti</field>
+<field name="composerSort">Pizzetti, Ildebrando</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Ildebrando Pizzetti</field>
+<field name="librettistSort">Pizzetti, Ildebrando</field>
+<field name="librettist">Salimbene de PadualibrettistSortSalimbene de PaduatheaterTeatro alla
+Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fra+Gherardo+Ildebrando+Pizzetti&amp;search_field=search</field>
+</doc>
+</add>

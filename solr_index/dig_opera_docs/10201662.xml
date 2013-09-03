@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201662</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Giuditta</field>
+		<field name="titleSort">Giuditta</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Francesco Maria Ruspoli</field>
+		<field name="composerSort">Ruspoli, Francesco Maria</field>
+		<field name="librettist">Giacomo Buonaccorsi</field>
+		<field name="librettistSort">Buonaccorsi, Giacomo</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Giuditta+Francesco+Maria+Ruspoli&amp;search_field=search</field>
+	</doc></add>

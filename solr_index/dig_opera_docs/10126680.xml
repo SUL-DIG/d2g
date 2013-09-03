@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126680</field>
+<field name="genre">Operas</field>
+<field name="title">Das Spiel von Liebe und Zufall</field>
+<field name="titleSort">Spiel von Liebe und Zufall</field>
+<field name="composer">Gerhard Rosenfeld</field>
+<field name="composerSort">Rosenfeld, Gerhard</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Gerhard Hartmann</field>
+<field name="librettistSort">Hartmann, Gerhard</field>
+<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="theater">Schlosstheater im Neuen Palais</field>
+<field name="city">Potsdam</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Spiel+von+Liebe+und+Zufall+Gerhard+Rosenfeld&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107905</field>
+<field name="genre">Operas</field>
+<field name="title">Due moglie in una</field>
+<field name="titleSort">Due moglie in una</field>
+<field name="composer">Cesare Dominicetti</field>
+<field name="composerSort">Dominicetti, Cesare</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro degli Accademici Filodrammatici</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Due+moglie+in+una+Cesare+Dominicetti&amp;search_field=search</field>
+</doc>
+</add>

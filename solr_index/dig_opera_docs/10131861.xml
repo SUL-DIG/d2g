@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131861</field>
+<field name="genre">Operas</field>
+<field name="title">Un ballo in maschera</field>
+<field name="titleSort">ballo in maschera</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Antonio Somma</field>
+<field name="librettistSort">Somma, Antonio</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+ballo+in+maschera+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

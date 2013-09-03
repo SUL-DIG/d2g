@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133002</field>
+<field name="genre">Operas</field>
+<field name="title">Lebensregeln</field>
+<field name="titleSort">Lebensregeln</field>
+<field name="composer">Gerhard Wimberger</field>
+<field name="composerSort">Wimberger, Gerhard</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Oliver Hassancamp</field>
+<field name="librettistSort">Hassancamp, Oliver</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lebensregeln+Gerhard+Wimberger&amp;search_field=search</field>
+</doc>
+</add>

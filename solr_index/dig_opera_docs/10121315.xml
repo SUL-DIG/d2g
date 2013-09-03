@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121315</field>
+<field name="genre">Operas</field>
+<field name="title">De Kinderen der Zee</field>
+<field name="titleSort">Kinderen der Zee</field>
+<field name="composer">Lodewijk Mortelmans</field>
+<field name="composerSort">Mortelmans, Lodewijk</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Leo van Riel</field>
+<field name="librettistSort">Riel, Leo van</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Kinderen+der+Zee+Lodewijk+Mortelmans&amp;search_field=search</field>
+</doc>
+</add>

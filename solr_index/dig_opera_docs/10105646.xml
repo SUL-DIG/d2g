@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105646</field>
+<field name="genre">Operas</field>
+<field name="title">Alice in Wonderland</field>
+<field name="titleSort">Alice in Wonderland</field>
+<field name="composer">Robert Chauls</field>
+<field name="composerSort">Chauls, Robert</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Robert Chauls</field>
+<field name="librettistSort">Chauls, Robert</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistSort">Carroll, Lewis [Charles Lutwidge Dodgson]</field>
+<field name="theater">San Fernando Valley College</field>
+<field name="city">Van Nuys</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+in+Wonderland+Robert+Chauls&amp;search_field=search</field>
+</doc>
+</add>

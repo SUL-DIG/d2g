@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123685</field>
+<field name="genre">Operas</field>
+<field name="title">The Wedding</field>
+<field name="titleSort">Wedding</field>
+<field name="composer">Johann Christoph Pepusch</field>
+<field name="composerSort">Pepusch, Johann Christoph</field>
+<field name="year">1729</field>
+<field name="date">1729</field>
+<field name="librettist">Essex Hawker</field>
+<field name="librettistSort">Hawker, Essex</field>
+<field name="theater">"Theatre Royal, Lincoln's Inn Fields"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wedding+Johann+Christoph+Pepusch&amp;search_field=search</field>
+</doc>
+</add>

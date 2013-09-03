@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118376</field>
+<field name="genre">Operas</field>
+<field name="title">La sartina e l'usurajo</field>
+<field name="titleSort">sartina e l'usurajo</field>
+<field name="composer">Giuseppe Lombardini</field>
+<field name="composerSort">Lombardini, Giuseppe</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sartina+e+l'usurajo+Giuseppe+Lombardini&amp;search_field=search</field>
+</doc>
+</add>

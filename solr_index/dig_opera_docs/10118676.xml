@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118676</field>
+<field name="genre">Operas</field>
+<field name="title">Mussetta</field>
+<field name="titleSort">Mussetta</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Luís Pascual Frutos</field>
+<field name="librettistSort">Pascual Frutos, Luís</field>
+<field name="theater">Teatro Ideal Polstilo</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mussetta+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

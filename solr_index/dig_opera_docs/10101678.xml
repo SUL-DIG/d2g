@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101678</field>
+<field name="genre">Operas</field>
+<field name="title">Il conte di Marsico</field>
+<field name="titleSort">conte di Marsico</field>
+<field name="composer">Giuseppe Balducci</field>
+<field name="composerSort">Balducci, Giuseppe</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">B. Anacleto</field>
+<field name="librettistSort">Anacleto, B.</field>
+<field name="librettist">S. Vincenzo</field>
+<field name="librettistSort">Vincenzo, S.</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+conte+di+Marsico+Giuseppe+Balducci&amp;search_field=search</field>
+</doc>
+</add>

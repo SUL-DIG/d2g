@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117440</field>
+<field name="genre">Operas</field>
+<field name="title">Musicalisch Schawspiel</field>
+<field name="titleSort">Musicalisch Schawspiel</field>
+<field name="composer">Johan Lauremberg</field>
+<field name="composerSort">Lauremberg, Johan</field>
+<field name="year">1655</field>
+<field name="date">1655</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Musicalisch+Schawspiel+Johan+Lauremberg&amp;search_field=search</field>
+</doc>
+</add>

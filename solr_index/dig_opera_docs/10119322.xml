@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119322</field>
+<field name="genre">Operas</field>
+<field name="title">Il piccolo martire</field>
+<field name="titleSort">piccolo martire</field>
+<field name="composer">Giuseppe Marengo</field>
+<field name="composerSort">Marengo, Giuseppe</field>
+<field name="year">1903</field>
+<field name="date">1903</field><field name="theater">Teatro del Patronato Pio IX</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+piccolo+martire+Giuseppe+Marengo&amp;search_field=search</field>
+</doc>
+</add>

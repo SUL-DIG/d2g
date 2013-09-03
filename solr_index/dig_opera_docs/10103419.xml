@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103419</field>
+<field name="genre">Operas</field>
+<field name="title">La butte des moulins</field>
+<field name="titleSort">butte des moulins</field>
+<field name="composer">Louis Boieldieu</field>
+<field name="composerSort">Boieldieu, Louis</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">[Jules-Joseph-Gabriel de Lurieu] Joseph Gabriel</field>
+<field name="librettistSort">Gabriel, Joseph [Jules-Joseph-Gabriel de Lurieu]</field>
+<field name="librettist">[Philippe-Auguste-Alfred Pittaud de Forge] Alfred Deforges</field>
+<field name="librettistSort">Deforges, Alfred [Philippe-Auguste-Alfred Pittaud de Forge]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+butte+des+moulins+Louis+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

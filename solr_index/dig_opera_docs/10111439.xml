@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111439</field>
+<field name="genre">Operas</field>
+<field name="title">Der zerbrochene Krug</field>
+<field name="titleSort">zerbrochene Krug</field>
+<field name="composer">Fritz Geissler</field>
+<field name="composerSort">Geissler, Fritz</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Fritz Geissler</field>
+<field name="librettistSort">Geissler, Fritz</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistSort">Kleist, Heinrich von</field>
+<field name="theater">Opernhaus am Karl-Marx-Platz</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+zerbrochene+Krug+Fritz+Geissler&amp;search_field=search</field>
+</doc>
+</add>

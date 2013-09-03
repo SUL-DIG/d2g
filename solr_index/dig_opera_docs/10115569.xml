@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115569</field>
+<field name="genre">Operas</field>
+<field name="title">The Canterville Ghost</field>
+<field name="titleSort">Canterville Ghost</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">"Judson Hall, Bracken Storyland Theater"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Canterville+Ghost+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109909</field>
+<field name="genre">Operas</field>
+<field name="title">"X. Y. Z., ossia Il riconoscimento</field>
+<field name="titleSort">"X. Y. Z., ossia Il riconoscimento"</field>
+<field name="composer">Vincenzo Fioravanti</field>
+<field name="composerSort">Fioravanti, Vincenzo</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Carlo Zenobi Cafferecci</field>
+<field name="librettistSort">Zenobi Cafferecci, Carlo</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=X.+Y.+Z.,+ossia+Il+riconoscimento+Vincenzo+Fioravanti&amp;search_field=search</field>
+</doc>
+</add>

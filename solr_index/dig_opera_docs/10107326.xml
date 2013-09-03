@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107326</field>
+<field name="genre">Operas</field>
+<field name="title">Er lebe der König (Gloria al re)</field>
+<field name="titleSort">Er lebe der König (Gloria al re)</field>
+<field name="composer">Renato De Grandis</field>
+<field name="composerSort">Grandis, Renato De</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Renato De Grandis</field>
+<field name="librettistSort">De Grandis, Renato</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Er+lebe+der+König+Gloria+al+re+Renato+De+Grandis&amp;search_field=search</field>
+</doc>
+</add>

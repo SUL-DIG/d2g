@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123058</field>
+<field name="genre">Operas</field>
+<field name="title">Le passant</field>
+<field name="titleSort">passant</field>
+<field name="composer">Émile Paladilhe</field>
+<field name="composerSort">Paladilhe, Émile</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+passant+Émile+Paladilhe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132871</field>
+<field name="genre">Operas</field>
+<field name="title">Quartier auf Lebenszeit</field>
+<field name="titleSort">Quartier auf Lebenszeit</field>
+<field name="composer">Johann Wilhelm Wetterhahn</field>
+<field name="composerSort">Wetterhahn, Johann Wilhelm</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Friedrich Becker</field>
+<field name="librettistSort">Becker, Friedrich</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quartier+auf+Lebenszeit+Johann+Wilhelm+Wetterhahn&amp;search_field=search</field>
+</doc>
+</add>

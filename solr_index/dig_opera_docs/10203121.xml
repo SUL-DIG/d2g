@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203121</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio sacro al nacimiento temporal de Christo nuestro seсor</field>
+		<field name="titleSort">Oratorio sacro al nacimiento temporal de Christo nuestro seсor</field>
+		<field name="year">1732</field>
+		
+		
+		<field name="date">1732</field>
+		<field name="composer">Pedro Vidal</field>
+		<field name="composerSort">Vidal, Pedro</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Valencia</field>
+		<field name="region">Valencia</field>
+		<field name="country">Spain</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+sacro+al+nacimiento+temporal+de+Christo+nuestro+seсor+Pedro+Vidal&amp;search_field=search</field>
+	</doc></add>

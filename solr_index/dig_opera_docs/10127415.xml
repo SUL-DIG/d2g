@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127415</field>
+<field name="genre">Operas</field>
+<field name="title">Le cinesi</field>
+<field name="titleSort">cinesi</field>
+<field name="composer">Pietro Pompeo Sales</field>
+<field name="composerSort">Sales, Pietro Pompeo</field>
+<field name="year">1757</field>
+<field name="date">1757</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cinesi+Pietro+Pompeo+Sales&amp;search_field=search</field>
+</doc>
+</add>

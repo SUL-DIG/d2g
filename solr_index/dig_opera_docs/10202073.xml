@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202073</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco figura del Redentore</field>
+		<field name="titleSort">Isacco figura del Redentore</field>
+		<field name="year">1748</field>
+		
+		
+		<field name="date">1748</field>
+		<field name="composer">Johann Georg Schürer</field>
+		<field name="composerSort">Schürer, Johann Georg</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Johann+Georg+Schürer&amp;search_field=search</field>
+	</doc></add>

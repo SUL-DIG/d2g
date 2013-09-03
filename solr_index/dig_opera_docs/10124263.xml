@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124263</field>
+<field name="genre">Operas</field>
+<field name="title">Dilicata civerra</field>
+<field name="titleSort">Dilicata civerra</field>
+<field name="composer">Angelo Picucci</field>
+<field name="composerSort">Picucci, Angelo</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Francesco De Feo</field>
+<field name="librettistSort">De Feo, Francesco</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dilicata+civerra+Angelo+Picucci&amp;search_field=search</field>
+</doc>
+</add>

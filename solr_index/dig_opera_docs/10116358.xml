@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116358</field>
+<field name="genre">Operas</field>
+<field name="title">A suhanc</field>
+<field name="titleSort">suhanc</field>
+<field name="composer">Josef Konti</field>
+<field name="composerSort">Konti, Josef</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Ignác Nagy</field>
+<field name="librettistSort">Nagy, Ignác</field>
+<field name="theater">Népszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+suhanc+Josef+Konti&amp;search_field=search</field>
+</doc>
+</add>

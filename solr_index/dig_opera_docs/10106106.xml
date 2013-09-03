@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106106</field>
+<field name="genre">Operas</field>
+<field name="title">Las rosas magicas</field>
+<field name="titleSort">rosas magicas</field>
+<field name="composer">Manuel Clement y Cavedo</field>
+<field name="composerSort">Cavedo, Manuel Clement y</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Narciso de la Escozara</field>
+<field name="librettistSort">Escozara, Narciso de la</field>
+<field name="theater">Teatro del Circo</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Las+rosas+magicas+Manuel+Clement+y+Cavedo&amp;search_field=search</field>
+</doc>
+</add>

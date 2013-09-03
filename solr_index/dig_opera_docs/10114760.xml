@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114760</field>
+<field name="genre">Operas</field>
+<field name="title">Der Meereskönig</field>
+<field name="titleSort">Meereskönig</field>
+<field name="composer">Franz Huber</field>
+<field name="composerSort">Huber, Franz</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Augustin Benzinger</field>
+<field name="librettistSort">Benzinger, Augustin</field>
+
+<field name="city">Engelberg</field>
+<field name="region">Obwalden</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Meereskönig+Franz+Huber&amp;search_field=search</field>
+</doc>
+</add>

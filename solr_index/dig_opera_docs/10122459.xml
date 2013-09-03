@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122459</field>
+<field name="genre">Operas</field>
+<field name="title">Mar-ri-ia-a</field>
+<field name="titleSort">Mar-ri-ia-a</field>
+<field name="composer">Joseph Olive</field>
+<field name="composerSort">Olive, Joseph</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Joan Olive</field>
+<field name="librettistSort">Olive, Joan</field>
+<field name="theater">Carnegie Recital Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mar-ri-ia-a+Joseph+Olive&amp;search_field=search</field>
+</doc>
+</add>

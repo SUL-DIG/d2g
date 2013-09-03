@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112160</field>
+<field name="genre">Operas</field>
+<field name="title">Ruy Blas</field>
+<field name="titleSort">Ruy Blas</field>
+<field name="composer">William Howard Glover</field>
+<field name="composerSort">Glover, William Howard</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">William Howard Glover</field>
+<field name="librettistSort">Glover, William Howard</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruy+Blas+William+Howard+Glover&amp;search_field=search</field>
+</doc>
+</add>

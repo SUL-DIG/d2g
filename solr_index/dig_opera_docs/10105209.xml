@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105209</field>
+<field name="genre">Operas</field>
+<field name="title">Cotillon III</field>
+<field name="titleSort">Cotillon III</field>
+<field name="composer">Henri Casadesus</field>
+<field name="composerSort">Casadesus, Henri</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Gabriel Alphaud</field>
+<field name="librettistSort">Alphaud, Gabriel</field>
+<field name="librettist">Pierre Maudru</field>
+<field name="librettistSort">Maudru, Pierre</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cotillon+III+Henri+Casadesus&amp;search_field=search</field>
+</doc>
+</add>

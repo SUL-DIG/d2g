@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110136</field>
+<field name="genre">Operas</field>
+<field name="title">Jessika</field>
+<field name="titleSort">Jessika</field>
+<field name="composer">Josef Bohuslav Foerster</field>
+<field name="composerSort">Foerster, Josef Bohuslav</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jessika+Josef+Bohuslav+Foerster&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100738</field>
+<field name="genre">Operas</field>
+<field name="title">De materie</field>
+<field name="titleSort">materie</field>
+<field name="composer">Louis Andriessen</field>
+<field name="composerSort">Andriessen, Louis</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Willem Kloos</field>
+<field name="librettistSort">Kloos, Willem</field>
+<field name="librettist">Françoise Giroud</field>
+<field name="librettistSort">Giroud, Françoise</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+materie+Louis+Andriessen&amp;search_field=search</field>
+</doc>
+</add>

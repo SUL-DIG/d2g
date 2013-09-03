@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118115</field>
+<field name="genre">Operas</field>
+<field name="title">Das Hopfenmännchen</field>
+<field name="titleSort">Hopfenmännchen</field>
+<field name="composer">__ Lieb</field>
+<field name="composerSort">Lieb, __</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Franz Theodor Ludwig Dorsch</field>
+<field name="librettistSort">Dorsch, Franz Theodor Ludwig</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Ansbach</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Hopfenmännchen+__+Lieb&amp;search_field=search</field>
+</doc>
+</add>

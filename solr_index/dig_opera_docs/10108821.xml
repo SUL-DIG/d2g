@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108821</field>
+<field name="genre">Operas</field>
+<field name="title">The Mandarin</field>
+<field name="titleSort">Mandarin</field>
+<field name="composer">Jonathan Elkus</field>
+<field name="composerSort">Elkus, Jonathan</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Richard Franko Goldman</field>
+<field name="librettistSort">Goldman, Richard Franko</field>
+<field name="librettist">José Maria Eça de Queiroz</field>
+<field name="librettistSort">Queiroz, José Maria Eça de"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mandarin+Jonathan+Elkus&amp;search_field=search</field>
+</doc>
+</add>

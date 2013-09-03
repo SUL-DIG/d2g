@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125823</field>
+<field name="genre">Operas</field>
+<field name="title">Die Müllerin von Marly</field>
+<field name="titleSort">Müllerin von Marly</field>
+<field name="composer">Gustave Armand Henri Comte de Reiset</field>
+<field name="composerSort">Reiset, Gustave Armand Henri Comte de</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Gustave Armand Henri Comte de Reiset</field>
+<field name="librettistSort">Reiset, Gustave Armand Henri Comte de</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Müllerin+von+Marly+Gustave+Armand+Henri+Comte+de+Reiset&amp;search_field=search</field>
+</doc>
+</add>

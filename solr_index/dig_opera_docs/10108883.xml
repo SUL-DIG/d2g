@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108883</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bojarenbraut</field>
+<field name="titleSort">Bojarenbraut</field>
+<field name="composer">Willy Engel-Berger</field>
+<field name="composerSort">Engel-Berger, Willy</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Hans Kottow</field>
+<field name="librettistSort">Kottow, Hans</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bojarenbraut+Willy+Engel-Berger&amp;search_field=search</field>
+</doc>
+</add>

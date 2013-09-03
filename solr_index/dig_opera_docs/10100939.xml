@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100939</field>
+<field name="genre">Operas</field>
+<field name="title">Dom Casmurro</field>
+<field name="titleSort">Dom Casmurro</field>
+<field name="composer">João Gomes de Araújo (jr.)</field>
+<field name="composerSort">Araújo (jr.), João Gomes de</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Antonio Piccarolo</field>
+<field name="librettistSort">Piccarolo, Antonio</field>
+<field name="librettist">Machado de Assis</field>
+<field name="librettistSort">Assis, Machado de</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dom+Casmurro+João+Gomes+de+Araújo+jr.&amp;search_field=search</field>
+</doc>
+</add>

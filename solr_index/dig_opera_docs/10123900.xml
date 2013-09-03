@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123900</field>
+<field name="genre">Operas</field>
+<field name="title">Les folies amoureuses</field>
+<field name="titleSort">folies amoureuses</field>
+<field name="composer">Émile Pessard</field>
+<field name="composerSort">Pessard, Émile</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">André Lenéka</field>
+<field name="librettistSort">Lenéka, André</field>
+<field name="librettist">Emmanuel Matrat</field>
+<field name="librettistSort">Matrat, Emmanuel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+folies+amoureuses+Émile+Pessard&amp;search_field=search</field>
+</doc>
+</add>

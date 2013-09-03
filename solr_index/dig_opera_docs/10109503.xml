@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109503</field>
+<field name="genre">Operas</field>
+<field name="title">Mariana</field>
+<field name="titleSort">Mariana</field>
+<field name="composer">Vaclav Felix</field>
+<field name="composerSort">Felix, Vaclav</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Zbysek Malý</field>
+<field name="librettistSort">Malý, Zbysek</field>
+<field name="librettist">Jan Kozák</field>
+<field name="librettistSort">Kozák, Jan</field>
+
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mariana+Vaclav+Felix&amp;search_field=search</field>
+</doc>
+</add>

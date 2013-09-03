@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121460</field>
+<field name="genre">Operas</field>
+<field name="title">Shimmy</field>
+<field name="titleSort">Shimmy</field>
+<field name="composer">Umberto Mugnai</field>
+<field name="composerSort">Mugnai, Umberto</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">A. Gille</field>
+<field name="librettistSort">Gille, A.</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shimmy+Umberto+Mugnai&amp;search_field=search</field>
+</doc>
+</add>

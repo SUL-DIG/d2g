@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117157</field>
+<field name="genre">Operas</field>
+<field name="title">Alfonso</field>
+<field name="titleSort">Alfonso</field>
+<field name="composer">Giovanni Battista Lampugnani</field>
+<field name="composerSort">Lampugnani, Giovanni Battista</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">Paolo Antonio Rolli</field>
+<field name="librettistSort">Rolli, Paolo Antonio</field>
+<field name="librettist">Steffano Benedetto Pallavicino</field>
+<field name="librettistSort">Pallavicino, Steffano Benedetto</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfonso+Giovanni+Battista+Lampugnani&amp;search_field=search</field>
+</doc>
+</add>

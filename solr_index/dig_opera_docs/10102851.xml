@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102851</field>
+<field name="genre">Operas</field>
+<field name="title">Anna Blondel</field>
+<field name="titleSort">Anna Blondel</field>
+<field name="composer">Pietro Bianchedi</field>
+<field name="composerSort">Bianchedi, Pietro</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="city">Corinaldo</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna+Blondel+Pietro+Bianchedi&amp;search_field=search</field>
+</doc>
+</add>

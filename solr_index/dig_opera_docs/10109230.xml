@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109230</field>
+<field name="genre">Operas</field>
+<field name="title">Jung England</field>
+<field name="titleSort">Jung England</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Rudolf Bernauer</field>
+<field name="librettistSort">Bernauer, Rudolf</field>
+<field name="librettist">[Ernst Friedrich Wilhelm Juraschek] Ernst Welisch</field>
+<field name="librettistSort">Welisch, Ernst [Ernst Friedrich Wilhelm Juraschek]</field>
+<field name="theater">Montis Operettentheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jung+England+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

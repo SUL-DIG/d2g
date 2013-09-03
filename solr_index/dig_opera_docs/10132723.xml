@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132723</field>
+<field name="genre">Operas</field>
+<field name="title">The Golem</field>
+<field name="titleSort">Golem</field>
+<field name="composer">Lazar Weiner</field>
+<field name="composerSort">Weiner, Lazar</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Ray Smolover</field>
+<field name="librettistSort">Smolover, Ray</field>
+<field name="theater">Opera Theater of Westchester</field>
+<field name="city">White Plains</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golem+Lazar+Weiner&amp;search_field=search</field>
+</doc>
+</add>

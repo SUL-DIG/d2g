@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119081</field>
+<field name="genre">Operas</field>
+<field name="title">Le puits qui parle</field>
+<field name="titleSort">puits qui parle</field>
+<field name="composer">Arthur Mancini</field>
+<field name="composerSort">Mancini, Arthur</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Achille Eyraud</field>
+<field name="librettistSort">Eyraud, Achille</field>
+
+<field name="city">Caen</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+puits+qui+parle+Arthur+Mancini&amp;search_field=search</field>
+</doc>
+</add>

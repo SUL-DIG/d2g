@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128935</field>
+<field name="genre">Operas</field>
+<field name="title">Leonora</field>
+<field name="titleSort">Leonora</field>
+<field name="composer">Gian Raimondi Serponti-Mirasole</field>
+<field name="composerSort">Serponti-Mirasole, Gian Raimondi</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonora+Gian+Raimondi+Serponti-Mirasole&amp;search_field=search</field>
+</doc>
+</add>

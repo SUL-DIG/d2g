@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118764</field>
+<field name="genre">Operas</field>
+<field name="title">The Golden Girl</field>
+<field name="titleSort">Golden Girl</field>
+<field name="composer">Hamish MacCunn</field>
+<field name="composerSort">MacCunn, Hamish</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Basil Hood</field>
+<field name="librettistSort">Hood, Basil</field>
+<field name="theater">Prince of Wales Theatre</field>
+<field name="city">Birmingham</field>
+<field name="region">West Midlands</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golden+Girl+Hamish+MacCunn&amp;search_field=search</field>
+</doc>
+</add>

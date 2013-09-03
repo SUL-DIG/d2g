@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132756</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schatz</field>
+<field name="titleSort">Schatz</field>
+<field name="composer">Christian Gotthilf Weisflog</field>
+<field name="composerSort">Weisflog, Christian Gotthilf</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Christian Gotthilf Weisflog</field>
+<field name="librettistSort">Weisflog, Christian Gotthilf</field>
+
+<field name="city">Zagan</field>
+<field name="region">Lubuskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schatz+Christian+Gotthilf+Weisflog&amp;search_field=search</field>
+</doc>
+</add>

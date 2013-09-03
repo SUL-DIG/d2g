@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114536</field>
+<field name="genre">Operas</field>
+<field name="title">A Day in the Death of Stephen Voltov</field>
+<field name="titleSort">Day in the Death of Stephen Voltov</field>
+<field name="composer">David Holsinger</field>
+<field name="composerSort">Holsinger, David</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Lev Nikolayevich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Lev Nikolayevich</field>
+<field name="theater">Central Missouri State College</field>
+<field name="city">Warrensburg</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Day+in+the+Death+of+Stephen+Voltov+David+Holsinger&amp;search_field=search</field>
+</doc>
+</add>

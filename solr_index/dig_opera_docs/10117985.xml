@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117985</field>
+<field name="genre">Operas</field>
+<field name="title">L'Amour et l'Hymen</field>
+<field name="titleSort">Amour et l'Hymen</field>
+<field name="composer">C. François Lescot</field>
+<field name="composerSort">Lescot, C. François</field>
+<field name="year">1761</field>
+<field name="date">1761</field>
+<field name="librettist">C. François Lescot</field>
+<field name="librettistSort">Lescot, C. François</field>
+
+<field name="city">Auch</field>
+<field name="region">Gers</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amour+et+l'Hymen+C.+François+Lescot&amp;search_field=search</field>
+</doc>
+</add>

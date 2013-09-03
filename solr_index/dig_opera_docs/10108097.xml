@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108097</field>
+<field name="genre">Operas</field>
+<field name="title">Le guide de la cuisinière</field>
+<field name="titleSort">guide de la cuisinière</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Auguste Jouhaud</field>
+<field name="librettistSort">Jouhaud, Auguste</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+guide+de+la+cuisinière+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

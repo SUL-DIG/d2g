@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106358</field>
+<field name="genre">Operas</field>
+<field name="title">L'alloro trionfato</field>
+<field name="titleSort">alloro trionfato</field>
+<field name="composer">Giovanni Paolo Colonna</field>
+<field name="composerSort">Colonna, Giovanni Paolo</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Tommaso Stanzani</field>
+<field name="librettistSort">Stanzani, Tommaso</field>
+<field name="theater">Accademia dei Unanimi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'alloro+trionfato+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+</doc>
+</add>

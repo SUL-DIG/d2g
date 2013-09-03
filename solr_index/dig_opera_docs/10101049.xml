@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101049</field>
+<field name="genre">Operas</field>
+<field name="title">Elizia</field>
+<field name="titleSort">Elizia</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="librettist">Richard Rolt</field>
+<field name="librettistSort">Rolt, Richard</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elizia+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

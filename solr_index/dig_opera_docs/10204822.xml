@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204822</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vie</field>
+		<field name="titleSort">vie</field>
+		<field name="year">1848</field>
+		<field name="month">February</field>
+		<field name="day">6</field>
+		<field name="date">February 6, 1848</field>
+		<field name="composer">Édouard Grégoir</field>
+		<field name="composerSort">Grégoir, Édouard</field>
+		<field name="librettist">Louis Adolphe Schoonen</field>
+		<field name="librettistSort">Schoonen, Louis Adolphe</field>
+		
+		
+		<field name="city">Antwerp</field>
+		<field name="region">Antwerpen</field>
+		<field name="country">Belgium</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vie+Édouard+Grégoir&amp;search_field=search</field>
+	</doc></add>

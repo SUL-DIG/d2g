@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126441</field>
+<field name="genre">Operas</field>
+<field name="title">¡Ultreya!</field>
+<field name="titleSort">Ultreya!</field>
+<field name="composer">Eduardo Rodríguez-Losada Rebellón</field>
+<field name="composerSort">Rebellón, Eduardo Rodríguez-Losada</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Armando Cotarelo-Valledor</field>
+<field name="librettistSort">Cotarelo-Valledor, Armando</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=¡Ultreya!+Eduardo+Rodríguez-Losada+Rebellón&amp;search_field=search</field>
+</doc>
+</add>

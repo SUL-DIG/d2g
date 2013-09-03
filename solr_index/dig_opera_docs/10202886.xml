@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202886</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moyses ad Rubum</field>
+		<field name="titleSort">Moyses ad Rubum</field>
+		<field name="year">1785</field>
+		
+		
+		<field name="date">1785</field>
+		<field name="composer">Bonaventura Furlanetto</field>
+		<field name="composerSort">Furlanetto, Bonaventura</field>
+		
+		
+		<field name="theater">Ospedale della Pietа</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passage of the Red Sea</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moyses+ad+Rubum+Bonaventura+Furlanetto&amp;search_field=search</field>
+	</doc></add>

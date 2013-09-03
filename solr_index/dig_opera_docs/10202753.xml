@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202753</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il mistero ne' sogni, overo Ismaele esiliato</field>
+		<field name="titleSort">mistero ne' sogni, overo Ismaele esiliato</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Antonio Giacobbi</field>
+		<field name="composerSort">Giacobbi, Antonio</field>
+		<field name="librettist">Adriano Ballati</field>
+		<field name="librettistSort">Ballati, Adriano</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Hagar and Ishmael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mistero+ne'+sogni,+overo+Ismaele+esiliato+Antonio+Giacobbi&amp;search_field=search</field>
+	</doc></add>

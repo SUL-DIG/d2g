@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119530</field>
+<field name="genre">Operas</field>
+<field name="title">Julietta</field>
+<field name="titleSort">Julietta</field>
+<field name="composer">Bohuslav Martinu</field>
+<field name="composerSort">Martinu, Bohuslav</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Bohuslav Martinu</field>
+<field name="librettistSort">Martinu, Bohuslav</field>
+<field name="librettist">Georges Neveux</field>
+<field name="librettistSort">Neveux, Georges</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julietta+Bohuslav+Martinu&amp;search_field=search</field>
+</doc>
+</add>

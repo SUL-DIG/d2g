@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118868</field>
+<field name="genre">Operas</field>
+<field name="title">L'oratore da caffè</field>
+<field name="titleSort">oratore da caffè</field>
+<field name="composer">Paolo Maggi</field>
+<field name="composerSort">Maggi, Paolo</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Ernesto Leva</field>
+<field name="librettistSort">Leva, Ernesto</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Sondrio</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oratore+da+caffè+Paolo+Maggi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116028</field>
+<field name="genre">Operas</field>
+<field name="title">Ein wahrer Held</field>
+<field name="titleSort">wahrer Held</field>
+<field name="composer">Giselher Klebe</field>
+<field name="composerSort">Klebe, Giselher</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Giselher Klebe</field>
+<field name="librettistSort">Klebe, Giselher</field>
+<field name="librettist">John Millington Synge</field>
+<field name="librettistSort">Synge, John Millington</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+wahrer+Held+Giselher+Klebe&amp;search_field=search</field>
+</doc>
+</add>

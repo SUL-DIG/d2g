@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106376</field>
+<field name="genre">Operas</field>
+<field name="title">Leonard</field>
+<field name="titleSort">Leonard</field>
+<field name="composer">Florin Comisel</field>
+<field name="composerSort">Comisel, Florin</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Barbu Alexandru Emandi</field>
+<field name="librettistSort">Emandi, Barbu Alexandru</field>
+<field name="theater">Muzical Teatrul</field>
+<field name="city">Galati</field>
+<field name="region">Galati</field>
+<field name="country">Romania</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonard+Florin+Comisel&amp;search_field=search</field>
+</doc>
+</add>

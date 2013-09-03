@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130407</field>
+<field name="genre">Operas</field>
+<field name="title">Pauline</field>
+<field name="titleSort">Pauline</field>
+<field name="composer">Wilhelm Sutor</field>
+<field name="composerSort">Sutor, Wilhelm</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Friedrich Ritter</field>
+<field name="librettistSort">Ritter, Friedrich</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pauline+Wilhelm+Sutor&amp;search_field=search</field>
+</doc>
+</add>

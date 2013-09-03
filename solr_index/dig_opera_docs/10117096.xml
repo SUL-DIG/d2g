@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117096</field>
+<field name="genre">Operas</field>
+<field name="title">Ladyland</field>
+<field name="titleSort">Ladyland</field>
+<field name="composer">Frank Lambert</field>
+<field name="composerSort">Lambert, Frank</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Eustace Ponsonby</field>
+<field name="librettistSort">Ponsonby, Eustace</field>
+<field name="theater">Avenue Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ladyland+Frank+Lambert&amp;search_field=search</field>
+</doc>
+</add>

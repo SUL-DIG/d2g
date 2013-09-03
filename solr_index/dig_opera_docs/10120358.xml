@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120358</field>
+<field name="genre">Operas</field>
+<field name="title">Un p'tit bout de femme</field>
+<field name="titleSort">p'tit bout de femme</field>
+<field name="composer">René Mercier</field>
+<field name="composerSort">Mercier, René</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Daniel Norman</field>
+<field name="librettistSort">Norman, Daniel</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+p'tit+bout+de+femme+René+Mercier&amp;search_field=search</field>
+</doc>
+</add>

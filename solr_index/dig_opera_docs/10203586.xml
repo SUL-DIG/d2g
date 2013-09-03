@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203586</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Repentence of Niniveh</field>
+		<field name="titleSort">Repentence of Niniveh</field>
+		<field name="year">1890</field>
+		<field name="month">September</field>
+		<field name="day">11</field>
+		<field name="date">September 11, 1890</field>
+		<field name="composer">Frederick Bridge</field>
+		<field name="composerSort">Bridge, Frederick</field>
+		<field name="librettist">Joseph Bennett</field>
+		<field name="librettistSort">Bennett, Joseph</field>
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Worcester</field>
+		<field name="region">Hereford and Worcester</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Jonah in Nineveh</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Repentence+of+Niniveh+Frederick+Bridge&amp;search_field=search</field>
+	</doc></add>

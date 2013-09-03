@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115701</field>
+<field name="genre">Operas</field>
+<field name="title">La maschera</field>
+<field name="titleSort">maschera</field>
+<field name="composer">Jean-Georges Kastner</field>
+<field name="composerSort">Kastner, Jean-Georges</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Auguste Arnould</field>
+<field name="librettistSort">Arnould, Auguste</field>
+<field name="librettist">Jules de Wailly</field>
+<field name="librettistSort">Wailly, Jules de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maschera+Jean-Georges+Kastner&amp;search_field=search</field>
+</doc>
+</add>

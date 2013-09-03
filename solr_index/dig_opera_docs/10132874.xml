@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132874</field>
+<field name="genre">Operas</field>
+<field name="title">Die baskische Venus</field>
+<field name="titleSort">baskische Venus</field>
+<field name="composer">Hermann Hans Wetzler</field>
+<field name="composerSort">Wetzler, Hermann Hans</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Lini Wetzler</field>
+<field name="librettistSort">Wetzler, Lini</field>
+<field name="librettist">Prosper Mérimée</field>
+<field name="librettistSort">Mérimée, Prosper</field>
+<field name="theater">Neues Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+baskische+Venus+Hermann+Hans+Wetzler&amp;search_field=search</field>
+</doc>
+</add>

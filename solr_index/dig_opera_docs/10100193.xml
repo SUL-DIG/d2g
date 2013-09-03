@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100193</field>
+<field name="genre">Operas</field>
+<field name="title">The Amazing Adventures of Alvin Allegretto</field>
+<field name="titleSort">Amazing Adventures of Alvin Allegretto</field>
+<field name="composer">Bruce Adolphe</field>
+<field name="composerSort">Adolphe, Bruce</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Sarah Schlesinger</field>
+<field name="librettistSort">Schlesinger, Sarah</field>
+<field name="theater">Pace University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Amazing+Adventures+of+Alvin+Allegretto+Bruce+Adolphe&amp;search_field=search</field>
+</doc>
+</add>

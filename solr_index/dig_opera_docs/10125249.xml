@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125249</field>
+<field name="genre">Operas</field>
+<field name="title">Il duello per complimento</field>
+<field name="titleSort">duello per complimento</field>
+<field name="composer">Vincenzo Pucitta</field>
+<field name="composerSort">Pucitta, Vincenzo</field>
+<field name="year">1805</field>
+<field name="date">1805</field><field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+duello+per+complimento+Vincenzo+Pucitta&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118098</field>
+<field name="genre">Operas</field>
+<field name="title">Die steinerne Braut</field>
+<field name="titleSort">steinerne Braut</field>
+<field name="composer">Karl August von Lichtenstein</field>
+<field name="composerSort">Lichtenstein, Karl August von</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Karl August von Lichtenstein</field>
+<field name="librettistSort">Lichtenstein, Karl August von</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+steinerne+Braut+Karl+August+von+Lichtenstein&amp;search_field=search</field>
+</doc>
+</add>

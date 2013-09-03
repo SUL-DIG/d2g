@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105992</field>
+<field name="genre">Operas</field>
+<field name="title">Il pittor parigino (Il barone burlato)</field>
+<field name="titleSort">pittor parigino (barone burlato)</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pittor+parigino+Il+barone+burlato+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

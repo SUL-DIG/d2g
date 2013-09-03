@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118262</field>
+<field name="genre">Operas</field>
+<field name="title">Antigone</field>
+<field name="titleSort">Antigone</field>
+<field name="composer">Lino Liviabella</field>
+<field name="composerSort">Liviabella, Lino</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Emidio Mucci</field>
+<field name="librettistSort">Mucci, Emidio</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+Lino+Liviabella&amp;search_field=search</field>
+</doc>
+</add>

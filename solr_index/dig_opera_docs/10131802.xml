@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131802</field>
+<field name="genre">Operas</field>
+<field name="title">The Poisoned Kiss</field>
+<field name="titleSort">Poisoned Kiss</field>
+<field name="composer">Ralph Vaughan Williams</field>
+<field name="composerSort">Williams, Ralph Vaughan</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Evelyn Sharp</field>
+<field name="librettistSort">Sharp, Evelyn</field>
+<field name="librettist">Richard Garnett</field>
+<field name="librettistSort">Garnett, Richard</field>
+<field name="theater">Arts Theatre</field>
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Poisoned+Kiss+Ralph+Vaughan+Williams&amp;search_field=search</field>
+</doc>
+</add>

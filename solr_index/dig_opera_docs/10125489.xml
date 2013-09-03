@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125489</field>
+<field name="genre">Operas</field>
+<field name="title">Il No</field>
+<field name="titleSort">No</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1851</field>
+<field name="date">1851</field><field name="theater">Real Teatro Carolino</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+No+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

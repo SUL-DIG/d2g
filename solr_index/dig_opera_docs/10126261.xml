@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126261</field>
+<field name="genre">Operas</field>
+<field name="title">Le coq a chanté</field>
+<field name="titleSort">coq a chanté</field>
+<field name="composer">Jean Rioux</field>
+<field name="composerSort">Rioux, Jean</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Théâtre des Variétés-Casino</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+coq+a+chanté+Jean+Rioux&amp;search_field=search</field>
+</doc>
+</add>

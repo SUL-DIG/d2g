@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121172</field>
+<field name="genre">Operas</field>
+<field name="title">Athalie</field>
+<field name="titleSort">Athalie</field>
+<field name="composer">Jean-Baptiste Moreau</field>
+<field name="composerSort">Moreau, Jean-Baptiste</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Jean Racine</field>
+<field name="librettistSort">Racine, Jean</field>
+<field name="theater">École de Saint-Louis</field>
+<field name="city">Saint-Cyr-l'École</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Athalie+Jean-Baptiste+Moreau&amp;search_field=search</field>
+</doc>
+</add>

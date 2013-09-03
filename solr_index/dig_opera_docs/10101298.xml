@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101298</field>
+<field name="genre">Operas</field>
+<field name="title">Die Blinde</field>
+<field name="titleSort">Blinde</field>
+<field name="composer">Max Ast</field>
+<field name="composerSort">Ast, Max</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Ralph Benatzky</field>
+<field name="librettistSort">Benatzky, Ralph</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Blinde+Max+Ast&amp;search_field=search</field>
+</doc>
+</add>

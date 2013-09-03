@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131140</field>
+<field name="genre">Operas</field>
+<field name="title">Amulio e Numitore</field>
+<field name="titleSort">Amulio e Numitore</field>
+<field name="composer">Giuseppe Felice Tosi</field>
+<field name="composerSort">Tosi, Giuseppe Felice</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="librettist">Adriano Morselli</field>
+<field name="librettistSort">Morselli, Adriano</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amulio+e+Numitore+Giuseppe+Felice+Tosi&amp;search_field=search</field>
+</doc>
+</add>

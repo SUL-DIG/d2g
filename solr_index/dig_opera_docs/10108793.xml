@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108793</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Ordensritter</field>
+<field name="titleSort">drei Ordensritter</field>
+<field name="composer">Günther Eisel</field>
+<field name="composerSort">Eisel, Günther</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Günther Eisel</field>
+<field name="librettistSort">Eisel, Günther</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Ordensritter+Günther+Eisel&amp;search_field=search</field>
+</doc>
+</add>

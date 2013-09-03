@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108710</field>
+<field name="genre">Operas</field>
+<field name="title">The Belle of London Town</field>
+<field name="titleSort">Belle of London Town</field>
+<field name="composer">Julian Edwards</field>
+<field name="composerSort">Edwards, Julian</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Stanislaus Stange</field>
+<field name="librettistSort">Stange, Stanislaus</field>
+<field name="theater">Lincoln Square Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Belle+of+London+Town+Julian+Edwards&amp;search_field=search</field>
+</doc>
+</add>

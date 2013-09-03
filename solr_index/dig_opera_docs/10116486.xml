@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116486</field>
+<field name="genre">Operas</field>
+<field name="title">Die Nachtigall</field>
+<field name="titleSort">Nachtigall</field>
+<field name="composer">Leo Kraus</field>
+<field name="composerSort">Kraus, Leo</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Karl Georg Zwerenz</field>
+<field name="librettistSort">Zwerenz, Karl Georg</field>
+<field name="librettist">Victor Almar</field>
+<field name="librettistSort">Almar, Victor</field>
+<field name="theater">Vereinigte Deutsche Theater</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nachtigall+Leo+Kraus&amp;search_field=search</field>
+</doc>
+</add>

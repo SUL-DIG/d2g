@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110086</field>
+<field name="genre">Operas</field>
+<field name="title">Alice</field>
+<field name="titleSort">Alice</field>
+<field name="composer">Friedrich Flotow</field>
+<field name="composerSort">Flotow, Friedrich</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Honoré de Sussy</field>
+<field name="librettistSort">Sussy, Honoré de</field>
+<field name="librettist">Darnay de Laperrière</field>
+<field name="librettistSort">Laperrière, Darnay de</field>
+<field name="theater">Hôtel Castellane</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+Friedrich+Flotow&amp;search_field=search</field>
+</doc>
+</add>

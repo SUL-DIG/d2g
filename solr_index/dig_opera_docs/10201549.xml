@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201549</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gideon</field>
+		<field name="titleSort">Gideon</field>
+		<field name="year">1860</field>
+		
+		
+		<field name="date">1860</field>
+		<field name="composer">Charles Edward Horsley</field>
+		<field name="composerSort">Horsley, Charles Edward</field>
+		<field name="librettist">Archer Thompson Gurney</field>
+		<field name="librettistSort">Gurney, Archer Thompson</field>
+		
+		
+		<field name="city">Glasgow</field>
+		<field name="region">Scotland</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gideon+Charles+Edward+Horsley&amp;search_field=search</field>
+	</doc></add>

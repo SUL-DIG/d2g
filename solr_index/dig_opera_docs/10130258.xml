@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130258</field>
+<field name="genre">Operas</field>
+<field name="title">The Belle of Mayfair</field>
+<field name="titleSort">Belle of Mayfair</field>
+<field name="composer">[Thomas Augustine Barrett] Leslie Stuart</field>
+<field name="composerSort">Stuart, [Thomas Augustine Barrett] Leslie</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Basil Hood</field>
+<field name="librettistSort">Hood, Basil</field>
+<field name="librettist">Charles Brookfield</field>
+<field name="librettistSort">Brookfield, Charles</field>
+<field name="theater">Vaudeville Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Belle+of+Mayfair+Thomas+Augustine+Barrett]+Leslie+Stuart&amp;search_field=search</field>
+</doc>
+</add>

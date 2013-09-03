@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132434</field>
+<field name="genre">Operas</field>
+<field name="title">Der nackte König</field>
+<field name="titleSort">nackte König</field>
+<field name="composer">Rudolf Wagner-Régency</field>
+<field name="composerSort">Wagner-Régency, Rudolf</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Vera Braun</field>
+<field name="librettistSort">Braun, Vera</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Jugendstil Theater</field>
+<field name="city">Gera</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+nackte+König+Rudolf+Wagner-Régency&amp;search_field=search</field>
+</doc>
+</add>

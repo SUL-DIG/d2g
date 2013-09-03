@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124469</field>
+<field name="genre">Operas</field>
+<field name="title">Panurge</field>
+<field name="titleSort">Panurge</field>
+<field name="composer">Robert Planquette</field>
+<field name="composerSort">Planquette, Robert</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Henri Meilhac</field>
+<field name="librettistSort">Meilhac, Henri</field>
+<field name="librettist">Albert de Saint-Albin</field>
+<field name="librettistSort">Saint-Albin, Albert de</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Panurge+Robert+Planquette&amp;search_field=search</field>
+</doc>
+</add>

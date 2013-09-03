@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108648</field>
+<field name="genre">Operas</field>
+<field name="title">Selico und Berissa</field>
+<field name="titleSort">Selico und Berissa</field>
+<field name="composer">Heinrich Carl Ebell</field>
+<field name="composerSort">Ebell, Heinrich Carl</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Johann Friedrich August Kinderling</field>
+<field name="librettistSort">Kinderling, Johann Friedrich August</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Selico+und+Berissa+Heinrich+Carl+Ebell&amp;search_field=search</field>
+</doc>
+</add>

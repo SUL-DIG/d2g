@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131567</field>
+<field name="genre">Operas</field>
+<field name="title">Thetis och Pelée</field>
+<field name="titleSort">Thetis och Pelée</field>
+<field name="composer">Francesco Antonio Uttini</field>
+<field name="composerSort">Uttini, Francesco Antonio</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Johan Wellander</field>
+<field name="librettistSort">Wellander, Johan</field>
+<field name="librettist">Bernard le Bovier de Fontenelle</field>
+<field name="librettistSort">Fontenelle, Bernard le Bovier de</field>
+<field name="theater">Bollhuset</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thetis+och+Pelée+Francesco+Antonio+Uttini&amp;search_field=search</field>
+</doc>
+</add>

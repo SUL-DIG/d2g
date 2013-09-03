@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121881</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanni Sebastiano</field>
+<field name="titleSort">Giovanni Sebastiano</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Gino Negri</field>
+<field name="librettistSort">Negri, Gino</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanni+Sebastiano+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

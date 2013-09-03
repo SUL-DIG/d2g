@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101506</field>
+<field name="genre">Operas</field>
+<field name="title">The Great Wall (Meng Jianghu)</field>
+<field name="titleSort">Great Wall (Meng Jianghu)</field>
+<field name="composer">Aaron Avshalomov</field>
+<field name="composerSort">Avshalomov, Aaron</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Aaron Avshalomov</field>
+<field name="librettistSort">Avshalomov, Aaron</field>
+
+<field name="city">Shanghai</field>
+
+<field name="country">China</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Great+Wall+Meng+Jianghu+Aaron+Avshalomov&amp;search_field=search</field>
+</doc>
+</add>

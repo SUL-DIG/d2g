@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105058</field>
+<field name="genre">Operas</field>
+<field name="title">Hero und Leander</field>
+<field name="titleSort">Hero und Leander</field>
+<field name="composer">Paul Caro</field>
+<field name="composerSort">Caro, Paul</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Paul Caro</field>
+<field name="librettistSort">Caro, Paul</field>
+<field name="librettist">Franz Grillparzer</field>
+<field name="librettistSort">Grillparzer, Franz</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+und+Leander+Paul+Caro&amp;search_field=search</field>
+</doc>
+</add>

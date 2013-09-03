@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126854</field>
+<field name="genre">Operas</field>
+<field name="title">Der Marquis von Rivoli</field>
+<field name="titleSort">Marquis von Rivoli</field>
+<field name="composer">Louis Roth</field>
+<field name="composerSort">Roth, Louis</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="librettist">Benjamin Schier</field>
+<field name="librettistSort">Schier, Benjamin</field>
+
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Marquis+von+Rivoli+Louis+Roth&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112558</field>
+<field name="genre">Operas</field>
+<field name="title">Les fiançées de Rosa</field>
+<field name="titleSort">fiançées de Rosa</field>
+<field name="composer">Marie Grandval</field>
+<field name="composerSort">Grandval, Marie</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">[Adolphe-Joseph Choler] Clémence Valgrand</field>
+<field name="librettistSort">Valgrand, Clémence [Adolphe-Joseph Choler]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fiançées+de+Rosa+Marie+Grandval&amp;search_field=search</field>
+</doc>
+</add>

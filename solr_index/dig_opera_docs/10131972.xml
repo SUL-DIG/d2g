@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131972</field>
+<field name="genre">Operas</field>
+<field name="title">An fear a phós balbhán (The Silent Wife)</field>
+<field name="titleSort">fear a phós balbhán (The Silent Wife)</field>
+<field name="composer">Gerard Victory</field>
+<field name="composerSort">Victory, Gerard</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Tomás Mac Anna</field>
+<field name="librettistSort">Mac Anna, Tomás</field>
+<field name="librettist">François Rabelais</field>
+<field name="librettistSort">Rabelais, François</field>
+<field name="theater">Abbey Theatre</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+fear+a+phós+balbhán+The+Silent+Wife+Gerard+Victory&amp;search_field=search</field>
+</doc>
+</add>

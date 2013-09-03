@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130709</field>
+<field name="genre">Operas</field>
+<field name="title">The Bachelors</field>
+<field name="titleSort">Bachelors</field>
+<field name="composer">Alfred D. Taylor</field>
+<field name="composerSort">Taylor, Alfred D.</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Charles Henry Marriott Wharton</field>
+<field name="librettistSort">Wharton, Charles Henry Marriott</field>
+<field name="theater">Prince's Theatre</field>
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bachelors+Alfred+D.+Taylor&amp;search_field=search</field>
+</doc>
+</add>

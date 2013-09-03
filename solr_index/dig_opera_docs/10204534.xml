@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204534</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tod Jesu</field>
+		<field name="titleSort">Tod Jesu</field>
+		<field name="year">1755</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1755</field>
+		<field name="composer">Carl Heinrich Graun</field>
+		<field name="composerSort">Graun, Carl Heinrich</field>
+		<field name="librettist">Karl Wilhelm Ramler</field>
+		<field name="librettistSort">Ramler, Karl Wilhelm</field>
+		
+		<field name="theater">Musikausübende Gesellschaft, Dom-Kirche</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Death of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+Jesu+Carl+Heinrich+Graun&amp;search_field=search</field>
+	</doc></add>

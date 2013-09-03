@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126322</field>
+<field name="genre">Operas</field>
+<field name="title">Marie von Montalban</field>
+<field name="titleSort">Marie von Montalban</field>
+<field name="composer">Peter Ritter</field>
+<field name="composerSort">Ritter, Peter</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Karl Reger</field>
+<field name="librettistSort">Reger, Karl</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie+von+Montalban+Peter+Ritter&amp;search_field=search</field>
+</doc>
+</add>

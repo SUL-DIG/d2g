@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106464</field>
+<field name="genre">Operas</field>
+<field name="title">Pépita</field>
+<field name="titleSort">Pépita</field>
+<field name="composer">Henri Contesse</field>
+<field name="composerSort">Contesse, Henri</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">René Jeanne</field>
+<field name="librettistSort">Jeanne, René</field>
+<field name="librettist">Georges Dallix</field>
+<field name="librettistSort">Dallix, Georges</field>
+<field name="theater">Théâtre Sarah-Bernhardt</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pépita+Henri+Contesse&amp;search_field=search</field>
+</doc>
+</add>

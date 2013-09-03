@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113901</field>
+<field name="genre">Operas</field>
+<field name="title">Ginna die Zigeunerin</field>
+<field name="titleSort">Ginna die Zigeunerin</field>
+<field name="composer">Leo Held</field>
+<field name="composerSort">Held, Leo</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Marie von Becks</field>
+<field name="librettistSort">Becks, Marie von</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginna+die+Zigeunerin+Leo+Held&amp;search_field=search</field>
+</doc>
+</add>

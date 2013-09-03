@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112589</field>
+<field name="genre">Operas</field>
+<field name="title">I tre matrimoni</field>
+<field name="titleSort">tre matrimoni</field>
+<field name="composer">Giuseppe Grassi de Jannon</field>
+<field name="composerSort">Jannon, Giuseppe Grassi de</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Alessandro Langer</field>
+<field name="librettistSort">Langer, Alessandro</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+matrimoni+Giuseppe+Grassi+de+Jannon&amp;search_field=search</field>
+</doc>
+</add>

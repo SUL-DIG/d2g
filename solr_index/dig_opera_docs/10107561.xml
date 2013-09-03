@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107561</field>
+<field name="genre">Operas</field>
+<field name="title">Coup double</field>
+<field name="titleSort">Coup double</field>
+<field name="composer">Jules Deschaux</field>
+<field name="composerSort">Deschaux, Jules</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Antoine Queyriaux</field>
+<field name="librettistSort">Queyriaux, Antoine</field>
+<field name="librettist">Louis Fauriol</field>
+<field name="librettistSort">Fauriol, Louis</field>
+<field name="theater">Théâtre des Fantaisies-Saint-Martin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coup+double+Jules+Deschaux&amp;search_field=search</field>
+</doc>
+</add>

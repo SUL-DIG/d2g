@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130404</field>
+<field name="genre">Operas</field>
+<field name="title">The Young Kabbarli</field>
+<field name="titleSort">Young Kabbarli</field>
+<field name="composer">Margaret Sutherland</field>
+<field name="composerSort">Sutherland, Margaret</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Maie Casey</field>
+<field name="librettistSort">Casey, Maie</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Hobart</field>
+<field name="region">Tasmania</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Young+Kabbarli+Margaret+Sutherland&amp;search_field=search</field>
+</doc>
+</add>

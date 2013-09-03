@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114376</field>
+<field name="genre">Operas</field>
+<field name="title">Un service d'ami</field>
+<field name="titleSort">service d'ami</field>
+<field name="composer">Pierre Edmond Hocmelle</field>
+<field name="composerSort">Hocmelle, Pierre Edmond</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">[Jenny-Caroline Thircuir] Jenny Sabatier</field>
+<field name="librettistSort">Sabatier, Jenny [Jenny-Caroline Thircuir]</field>
+<field name="theater">Concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+service+d'ami+Pierre+Edmond+Hocmelle&amp;search_field=search</field>
+</doc>
+</add>

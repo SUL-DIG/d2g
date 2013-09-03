@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203045</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oktobra oratorija</field>
+		<field name="titleSort">Oktobra oratorija</field>
+		<field name="year">1967</field>
+		
+		
+		<field name="date">1967</field>
+		<field name="composer">Imants Kalnins</field>
+		<field name="composerSort">Kalnins, Imants</field>
+		<field name="librettist">Yevgeny Yevtushenko</field>
+		<field name="librettistSort">Yevtushenko, Yevgeny</field>
+		
+		<field name="theater">Latvian State Symphony Orchestra</field>
+		<field name="city">Riga</field>
+		
+		<field name="country">Latvia</field>
+		<field name="subject">The Bolshevik Revolution</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oktobra+oratorija+Imants+Kalnins&amp;search_field=search</field>
+	</doc></add>

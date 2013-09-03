@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117412</field>
+<field name="genre">Operas</field>
+<field name="title">Don Giovanni</field>
+<field name="titleSort">Don Giovanni</field>
+<field name="composer">Felice Lattuada</field>
+<field name="composerSort">Lattuada, Felice</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="librettist">José Zorrilla</field>
+<field name="librettistSort">Zorrilla, José</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Giovanni+Felice+Lattuada&amp;search_field=search</field>
+</doc>
+</add>

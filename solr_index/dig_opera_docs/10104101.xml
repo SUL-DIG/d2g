@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104101</field>
+<field name="genre">Operas</field>
+<field name="title">Eroii de la Rovine</field>
+<field name="titleSort">Eroii de la Rovine</field>
+<field name="composer">Nicolae Bretan</field>
+<field name="composerSort">Bretan, Nicolae</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Nicolae Bretan</field>
+<field name="librettistSort">Bretan, Nicolae</field>
+<field name="librettist">[Mihai Eminovici] Mihai Eminescu</field>
+<field name="librettistSort">Eminescu, Mihai [Mihai Eminovici]</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Cluj-Napoca</field>
+<field name="region">Cluj</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eroii+de+la+Rovine+Nicolae+Bretan&amp;search_field=search</field>
+</doc>
+</add>

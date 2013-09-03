@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115461</field>
+<field name="genre">Operas</field>
+<field name="title">'s Hannerl vom Dreimäderlhaus</field>
+<field name="titleSort">Hannerl vom Dreimäderlhaus</field>
+<field name="composer">Wilhelm August Jurek</field>
+<field name="composerSort">Jurek, Wilhelm August</field>
+<field name="year">1921</field>
+<field name="date">1921</field><field name="theater">Le Chat Noir</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q='s+Hannerl+vom+Dreimäderlhaus+Wilhelm+August+Jurek&amp;search_field=search</field>
+</doc>
+</add>

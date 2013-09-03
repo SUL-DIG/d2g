@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129461</field>
+<field name="genre">Operas</field>
+<field name="title">Pickwick</field>
+<field name="titleSort">Pickwick</field>
+<field name="composer">Edward Solomon</field>
+<field name="composerSort">Solomon, Edward</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Francis Cowley Burnand</field>
+<field name="librettistSort">Burnand, Francis Cowley</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Comedy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pickwick+Edward+Solomon&amp;search_field=search</field>
+</doc>
+</add>

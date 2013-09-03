@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106501</field>
+<field name="genre">Operas</field>
+<field name="title">I sattiri in Arcadia</field>
+<field name="titleSort">sattiri in Arcadia</field>
+<field name="composer">Francesco Bartolomeo Conti</field>
+<field name="composerSort">Conti, Francesco Bartolomeo</field>
+<field name="year">1714</field>
+<field name="date">1714</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+sattiri+in+Arcadia+Francesco+Bartolomeo+Conti&amp;search_field=search</field>
+</doc>
+</add>

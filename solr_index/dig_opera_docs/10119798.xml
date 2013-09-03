@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119798</field>
+<field name="genre">Operas</field>
+<field name="title">"Noch einem Löffel Gift, Liebling?</field>
+<field name="titleSort">"Noch einem Löffel Gift, Liebling?"</field>
+<field name="composer">Siegfried Matthus</field>
+<field name="composerSort">Matthus, Siegfried</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Peter Hacks</field>
+<field name="librettistSort">Hacks, Peter</field>
+<field name="librettist">Saul O'Hara</field>
+<field name="librettistSort">O'Hara, Saul</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noch+einem+Löffel+Gift,+Liebling?+Siegfried+Matthus&amp;search_field=search</field>
+</doc>
+</add>

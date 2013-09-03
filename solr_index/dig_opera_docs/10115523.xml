@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115523</field>
+<field name="genre">Operas</field>
+<field name="title">Paa Krigsfod</field>
+<field name="titleSort">Paa Krigsfod</field>
+<field name="composer">Viggo Kalhauge</field>
+<field name="composerSort">Kalhauge, Viggo</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">K. Christian Mundt-Nielsen</field>
+<field name="librettistSort">Mundt-Nielsen, K. Christian</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paa+Krigsfod+Viggo+Kalhauge&amp;search_field=search</field>
+</doc>
+</add>

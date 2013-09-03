@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106730</field>
+<field name="genre">Operas</field>
+<field name="title">O arrieiro</field>
+<field name="titleSort">arrieiro</field>
+<field name="composer">Guilherme Cossoul</field>
+<field name="composerSort">Cossoul, Guilherme</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Ernesto Vieira</field>
+<field name="librettistSort">Vieira, Ernesto</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+arrieiro+Guilherme+Cossoul&amp;search_field=search</field>
+</doc>
+</add>

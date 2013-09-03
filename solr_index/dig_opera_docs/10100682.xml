@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100682</field>
+<field name="genre">Operas</field>
+<field name="title">Kurze Thorheit ist die beste</field>
+<field name="titleSort">Kurze Thorheit ist die beste</field>
+<field name="composer">Johann André</field>
+<field name="composerSort">André, Johann</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Friedrich Ludwig Wilhelm Meyer</field>
+<field name="librettistSort">Meyer, Friedrich Ludwig Wilhelm</field>
+<field name="theater">Theater in der Behrenstrasse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kurze+Thorheit+ist+die+beste+Johann+André&amp;search_field=search</field>
+</doc>
+</add>

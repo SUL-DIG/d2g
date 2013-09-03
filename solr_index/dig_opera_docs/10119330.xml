@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119330</field>
+<field name="genre">Operas</field>
+<field name="title">"Sleepy Hollow, or The Headless Horseman</field>
+<field name="titleSort">"Sleepy Hollow, or The Headless Horseman"</field>
+<field name="composer">Max Maretzek</field>
+<field name="composerSort">Maretzek, Max</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Charles Gaynor</field>
+<field name="librettistSort">Gaynor, Charles</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Academy of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sleepy+Hollow,+or+The+Headless+Horseman+Max+Maretzek&amp;search_field=search</field>
+</doc>
+</add>

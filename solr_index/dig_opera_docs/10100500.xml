@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100500</field>
+<field name="genre">Operas</field>
+<field name="title">Il principe Zilah</field>
+<field name="titleSort">principe Zilah</field>
+<field name="composer">Franco Alfano</field>
+<field name="composerSort">Alfano, Franco</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Luigi Illica</field>
+<field name="librettistSort">Illica, Luigi</field>
+<field name="librettist">Jules Claretie</field>
+<field name="librettistSort">Claretie, Jules</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+Zilah+Franco+Alfano&amp;search_field=search</field>
+</doc>
+</add>

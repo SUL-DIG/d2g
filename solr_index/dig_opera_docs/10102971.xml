@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102971</field>
+<field name="genre">Operas</field>
+<field name="title">Das Milchmädchen und die beiden Jäger</field>
+<field name="titleSort">Milchmädchen und die beiden Jäger</field>
+<field name="composer">Gottlob Benedict Bierey</field>
+<field name="composerSort">Bierey, Gottlob Benedict</field>
+
+
+<field name="librettist">Christian Friedrich Schwann</field>
+<field name="librettistSort">Schwann, Christian Friedrich</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Milchmädchen+und+die+beiden+Jäger+Gottlob+Benedict+Bierey&amp;search_field=search</field>
+</doc>
+</add>

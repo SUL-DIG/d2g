@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111689</field>
+<field name="genre">Operas</field>
+<field name="title">Fior d'Alpe</field>
+<field name="titleSort">Fior d'Alpe</field>
+<field name="composer">Stanislao Giacomantonio</field>
+<field name="composerSort">Giacomantonio, Stanislao</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Filippo Lionetto</field>
+<field name="librettistSort">Lionetto, Filippo</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Cosenza</field>
+<field name="region">Calabria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fior+d'Alpe+Stanislao+Giacomantonio&amp;search_field=search</field>
+</doc>
+</add>

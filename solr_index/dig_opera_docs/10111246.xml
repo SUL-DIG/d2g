@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111246</field>
+<field name="genre">Operas</field>
+<field name="title">Nitteti</field>
+<field name="titleSort">Nitteti</field>
+<field name="composer">Luigi Gatti</field>
+<field name="composerSort">Gatti, Luigi</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Regio Ducal Teatro Nuovo</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nitteti+Luigi+Gatti&amp;search_field=search</field>
+</doc>
+</add>

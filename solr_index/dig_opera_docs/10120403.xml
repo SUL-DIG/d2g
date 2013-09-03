@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120403</field>
+<field name="genre">Operas</field>
+<field name="title">De zwarte Kapitän</field>
+<field name="titleSort">zwarte Kapitän</field>
+<field name="composer">Joseph Mertens</field>
+<field name="composerSort">Mertens, Joseph</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Gustave Lagye</field>
+<field name="librettistSort">Lagye, Gustave</field>
+<field name="librettist">Rosie Fausen</field>
+<field name="librettistSort">Fausen, Rosie</field>
+<field name="theater">Koninklijke Schouwburg</field>
+<field name="city">The Hague</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+zwarte+Kapitän+Joseph+Mertens&amp;search_field=search</field>
+</doc>
+</add>

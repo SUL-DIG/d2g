@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113047</field>
+<field name="genre">Operas</field>
+<field name="title">Amore assottiglia l'ingegno</field>
+<field name="titleSort">Amore assottiglia l'ingegno</field>
+<field name="composer">Pietro Carlo Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Carlo</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+assottiglia+l'ingegno+Pietro+Carlo+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

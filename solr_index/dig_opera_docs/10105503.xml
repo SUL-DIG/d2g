@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105503</field>
+<field name="genre">Operas</field>
+<field name="title">Il Cesare amante (La Cleopatra)</field>
+<field name="titleSort">Cesare amante (La Cleopatra)</field>
+<field name="composer">Antonio Cesti</field>
+<field name="composerSort">Cesti, Antonio</field>
+<field name="year">1651</field>
+<field name="date">1651</field>
+<field name="librettist">Dario Varotari</field>
+<field name="librettistSort">Varotari, Dario</field>
+<field name="librettist">Maiolino Bisaccioni</field>
+<field name="librettistSort">Bisaccioni, Maiolino</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Cesare+amante+La+Cleopatra+Antonio+Cesti&amp;search_field=search</field>
+</doc>
+</add>

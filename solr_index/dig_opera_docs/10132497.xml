@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132497</field>
+<field name="genre">Operas</field>
+<field name="title">Silphen</field>
+<field name="titleSort">Silphen</field>
+<field name="composer">Thomas Christian Walter</field>
+<field name="composerSort">Walter, Thomas Christian</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Charlotta Dorothea Biehl</field>
+<field name="librettistSort">Biehl, Charlotta Dorothea</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silphen+Thomas+Christian+Walter&amp;search_field=search</field>
+</doc>
+</add>

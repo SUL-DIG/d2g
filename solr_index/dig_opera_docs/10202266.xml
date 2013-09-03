@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202266</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jonathas</field>
+		<field name="titleSort">Jonathas</field>
+		<field name="year">1747</field>
+		
+		
+		<field name="date">1747</field>
+		<field name="composer">Andrea Bernasconi</field>
+		<field name="composerSort">Bernasconi, Andrea</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jonathan, son of Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonathas+Andrea+Bernasconi&amp;search_field=search</field>
+	</doc></add>

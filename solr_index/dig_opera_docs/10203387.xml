@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203387</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Pfade zur Gottheit</field>
+		<field name="titleSort">Pfade zur Gottheit</field>
+		<field name="year">1834</field>
+		<field name="month">June</field>
+		<field name="day">4</field>
+		<field name="date">June 4, 1834</field>
+		<field name="composer">Friedrich Wilhelm Liebau</field>
+		<field name="composerSort">Liebau, Friedrich Wilhelm</field>
+		<field name="librettist">J. W. Fügemann</field>
+		<field name="librettistSort">Fügemann, J. W.</field>
+		
+		
+		<field name="city">Quedlinburg</field>
+		<field name="region">Sachsen-Anhalt</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Pfade+zur+Gottheit+Friedrich+Wilhelm+Liebau&amp;search_field=search</field>
+	</doc></add>

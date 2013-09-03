@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202140</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jefte</field>
+		<field name="titleSort">Jefte</field>
+		<field name="year">1688</field>
+		
+		
+		<field name="date">1688</field>
+		<field name="composer">Antonio Quintavalle</field>
+		<field name="composerSort">Quintavalle, Antonio</field>
+		<field name="librettist">Pietro Giubilei</field>
+		<field name="librettistSort">Giubilei, Pietro</field>
+		
+		<field name="theater">Seminario Romano</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jefte+Antonio+Quintavalle&amp;search_field=search</field>
+	</doc></add>

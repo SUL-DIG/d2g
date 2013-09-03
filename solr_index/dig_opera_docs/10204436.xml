@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204436</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Svyatoy Dnepr (Holy Dnieper)</field>
+		<field name="titleSort">Svyatoy Dnepr (Holy Dnieper)</field>
+		<field name="year">1993</field>
+		
+		
+		<field name="date">1993</field>
+		<field name="composer">Valery Grigor'yevich Kikta</field>
+		<field name="composerSort">Kikta, Valery Grigor'yevich</field>
+		<field name="librettist">Sofya Maydanskaya</field>
+		<field name="librettistSort">Maydanskaya, Sofya</field>
+		
+		<field name="theater">Dnipro Choir</field>
+		<field name="city">Edmonton</field>
+		<field name="region">Alberta</field>
+		<field name="country">Canada</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svyatoy+Dnepr+(Holy+Dnieper)+Valery+Grigor'yevich+Kikta&amp;search_field=search</field>
+	</doc></add>

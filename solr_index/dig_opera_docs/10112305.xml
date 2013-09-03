@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112305</field>
+<field name="genre">Operas</field>
+<field name="title">Zierpuppen</field>
+<field name="titleSort">Zierpuppen</field>
+<field name="composer">Anselm Goetzl</field>
+<field name="composerSort">Goetzl, Anselm</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Richard Batka</field>
+<field name="librettistSort">Batka, Richard</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zierpuppen+Anselm+Goetzl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100270</field>
+<field name="genre">Operas</field>
+<field name="title">Das verborgene (geheime) Fenster</field>
+<field name="titleSort">verborgene (geheime) Fenster</field>
+<field name="composer">Engelbert Aigner</field>
+<field name="composerSort">Aigner, Engelbert</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">[Johann Heinrich Millenet] M. Tenelli</field>
+<field name="librettistSort">Tenelli, M. [Johann Heinrich Millenet]</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+verborgene+geheime+Fenster+Engelbert+Aigner&amp;search_field=search</field>
+</doc>
+</add>

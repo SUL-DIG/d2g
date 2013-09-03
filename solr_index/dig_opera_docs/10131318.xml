@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131318</field>
+<field name="genre">Operas</field>
+<field name="title">Caio Martio Coriolano</field>
+<field name="titleSort">Caio Martio Coriolano</field>
+<field name="composer">Daniel Gottlob Treu</field>
+<field name="composerSort">Treu, Daniel Gottlob</field>
+<field name="year">1726</field>
+<field name="date">1726</field><field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caio+Martio+Coriolano+Daniel+Gottlob+Treu&amp;search_field=search</field>
+</doc>
+</add>

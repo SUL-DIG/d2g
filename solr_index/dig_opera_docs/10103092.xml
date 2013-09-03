@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103092</field>
+<field name="genre">Operas</field>
+<field name="title">The Romance of a Day</field>
+<field name="titleSort">Romance of a Day</field>
+<field name="composer">Henry Bishop</field>
+<field name="composerSort">Bishop, Henry</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">James Robinson Planché</field>
+<field name="librettistSort">Planché, James Robinson</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Romance+of+a+Day+Henry+Bishop&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131763</field>
+<field name="genre">Operas</field>
+<field name="title">Skazaniye o grade velikom Kitezhe</field>
+<field name="titleSort">Skazaniye o grade velikom Kitezhe</field>
+<field name="composer">Sergey Nikiforovich Vasilenko</field>
+<field name="composerSort">Vasilenko, Sergey Nikiforovich</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Nikolay Aleksandrovich Manykin-Nevstruev</field>
+<field name="librettistSort">Manykin-Nevstruev, Nikolay Aleksandrovich</field>
+
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skazaniye+o+grade+velikom+Kitezhe+Sergey+Nikiforovich+Vasilenko&amp;search_field=search</field>
+</doc>
+</add>

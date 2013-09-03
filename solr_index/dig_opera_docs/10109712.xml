@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109712</field>
+<field name="genre">Operas</field>
+<field name="title">Bei frommen Hirten</field>
+<field name="titleSort">Bei frommen Hirten</field>
+<field name="composer">Otto Fiebach</field>
+<field name="composerSort">Fiebach, Otto</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Ernst Wichert</field>
+<field name="librettistSort">Wichert, Ernst</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bei+frommen+Hirten+Otto+Fiebach&amp;search_field=search</field>
+</doc>
+</add>

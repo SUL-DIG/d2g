@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109428</field>
+<field name="genre">Operas</field>
+<field name="title">Le chien de Montargis</field>
+<field name="titleSort">chien de Montargis</field>
+<field name="composer">Eugène Feautrier</field>
+<field name="composerSort">Feautrier, Eugène</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Paul Deschamps</field>
+<field name="librettistSort">Deschamps, Paul</field>
+
+<field name="city">Montargis</field>
+<field name="region">Loiret</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chien+de+Montargis+Eugène+Feautrier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131727</field>
+<field name="genre">Operas</field>
+<field name="title">La fée aux chèvres</field>
+<field name="titleSort">fée aux chèvres</field>
+<field name="composer">Louis Varney</field>
+<field name="composerSort">Varney, Louis</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="librettist">Albert Vanloo</field>
+<field name="librettistSort">Vanloo, Albert</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fée+aux+chèvres+Louis+Varney&amp;search_field=search</field>
+</doc>
+</add>

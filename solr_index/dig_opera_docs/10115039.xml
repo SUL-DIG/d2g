@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115039</field>
+<field name="genre">Operas</field>
+<field name="title">Wenn Frauen träumen</field>
+<field name="titleSort">Wenn Frauen träumen</field>
+<field name="composer">Edgar Istel</field>
+<field name="composerSort">Istel, Edgar</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Edgar Istel</field>
+<field name="librettistSort">Istel, Edgar</field>
+<field name="theater">Komische Oper (an der Weidendammer Brücke)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wenn+Frauen+träumen+Edgar+Istel&amp;search_field=search</field>
+</doc>
+</add>

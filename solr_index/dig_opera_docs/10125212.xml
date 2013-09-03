@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125212</field>
+<field name="genre">Operas</field>
+<field name="title">La confederazione dei Sabini con Roma</field>
+<field name="titleSort">confederazione dei Sabini con Roma</field>
+<field name="composer">Giacomo Puccini (1)</field>
+<field name="composerSort">Puccini (1), Giacomo</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">Pier Antonio Trenta</field>
+<field name="librettistSort">Trenta, Pier Antonio</field>
+<field name="librettist">Francesco Ubaldo de' Nobili</field>
+<field name="librettistSort">Nobili, Francesco Ubaldo de'</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+confederazione+dei+Sabini+con+Roma+Giacomo+Puccini+-1&amp;search_field=search</field>
+</doc>
+</add>

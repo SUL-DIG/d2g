@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128759</field>
+<field name="genre">Operas</field>
+<field name="title">Les compagnons de la Vertu</field>
+<field name="titleSort">compagnons de la Vertu</field>
+<field name="composer">Vincent Scotto</field>
+<field name="composerSort">Scotto, Vincent</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Géo Koger</field>
+<field name="librettistSort">Koger, Géo</field>
+<field name="librettist">Jean Guitton</field>
+<field name="librettistSort">Guitton, Jean</field>
+
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+compagnons+de+la+Vertu+Vincent+Scotto&amp;search_field=search</field>
+</doc>
+</add>

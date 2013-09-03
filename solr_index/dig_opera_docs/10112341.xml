@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112341</field>
+<field name="genre">Operas</field>
+<field name="title">Trakiiski idoli (Thracian Idols)</field>
+<field name="titleSort">Trakiiski idoli (Thracian Idols)</field>
+<field name="composer">Marin Goleminov</field>
+<field name="composerSort">Goleminov, Marin</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Stefan Dichev</field>
+<field name="librettistSort">Dichev, Stefan</field>
+<field name="theater">Narodna Opera</field>
+<field name="city">Stara Zagora</field>
+<field name="region">Haskovo Oblast</field>
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trakiiski+idoli+Thracian+Idols+Marin+Goleminov&amp;search_field=search</field>
+</doc>
+</add>

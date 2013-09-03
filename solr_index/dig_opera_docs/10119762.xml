@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119762</field>
+<field name="genre">Operas</field>
+<field name="title">Un telegramma</field>
+<field name="titleSort">telegramma</field>
+<field name="composer">Riccardo Matini</field>
+<field name="composerSort">Matini, Riccardo</field>
+<field name="year">1886</field>
+<field name="date">1886</field><field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+telegramma+Riccardo+Matini&amp;search_field=search</field>
+</doc>
+</add>

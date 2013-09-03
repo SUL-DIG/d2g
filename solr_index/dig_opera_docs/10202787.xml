@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202787</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La morte d'Abel</field>
+		<field name="titleSort">morte d'Abel</field>
+		<field name="year">1763</field>
+		<field name="month">February</field>
+		<field name="day">11</field>
+		<field name="date">February 11, 1763</field>
+		<field name="composer">Pietro Maria Crispi</field>
+		<field name="composerSort">Crispi, Pietro Maria</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Collegio Germanico Ungarico</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+d'Abel+Pietro+Maria+Crispi&amp;search_field=search</field>
+	</doc></add>

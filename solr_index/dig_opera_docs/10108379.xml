@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108379</field>
+<field name="genre">Operas</field>
+<field name="title">"Lundi, Monsieur, vous serez riche</field>
+<field name="titleSort">"Lundi, Monsieur, vous serez riche"</field>
+<field name="composer">Antoine Duhamel</field>
+<field name="composerSort">Duhamel, Antoine</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Remo Forlani</field>
+<field name="librettistSort">Forlani, Remo</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lundi,+Monsieur,+vous+serez+riche+Antoine+Duhamel&amp;search_field=search</field>
+</doc>
+</add>

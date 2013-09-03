@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113643</field>
+<field name="genre">Operas</field>
+<field name="title">Sayat'-Nova</field>
+<field name="titleSort">Sayat'-Nova</field>
+<field name="composer">Aleksandr Grigor Harut'yunyan</field>
+<field name="composerSort">Harut'yunyan, Aleksandr Grigor</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Hakob Sepuhi Khandjyan</field>
+<field name="librettistSort">Khandjyan, Hakob Sepuhi</field>
+<field name="theater">Spendiaryani Anvan Operayi ev Baleti T'atron</field>
+<field name="city">Erevan</field>
+
+<field name="country">Armenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sayat'-Nova+Aleksandr+Grigor+Harut'yunyan&amp;search_field=search</field>
+</doc>
+</add>

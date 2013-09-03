@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130590</field>
+<field name="genre">Operas</field>
+<field name="title">Metel' (The Snowstorm)</field>
+<field name="titleSort">Metel' (The Snowstorm)</field>
+<field name="composer">Aleksandr Sergeyevich Taneyev</field>
+<field name="composerSort">Taneyev, Aleksandr Sergeyevich</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Dmitry Nikolayevich Sertelev</field>
+<field name="librettistSort">Sertelev, Dmitry Nikolayevich</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metel'+The+Snowstorm+Aleksandr+Sergeyevich+Taneyev&amp;search_field=search</field>
+</doc>
+</add>

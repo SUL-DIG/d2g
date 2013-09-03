@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106127</field>
+<field name="genre">Operas</field>
+<field name="title">König Harlekin</field>
+<field name="titleSort">König Harlekin</field>
+<field name="composer">George Howard Clutsam</field>
+<field name="composerSort">Clutsam, George Howard</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="theater">Kurfürstenoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Harlekin+George+Howard+Clutsam&amp;search_field=search</field>
+</doc>
+</add>

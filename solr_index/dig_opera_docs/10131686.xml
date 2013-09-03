@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131686</field>
+<field name="genre">Operas</field>
+<field name="title">La nave</field>
+<field name="titleSort">nave</field>
+<field name="composer">Arturo Vanbianchi</field>
+<field name="composerSort">Vanbianchi, Arturo</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Giulio Macchi</field>
+<field name="librettistSort">Macchi, Giulio</field>
+<field name="theater">Politeama Genovese</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nave+Arturo+Vanbianchi&amp;search_field=search</field>
+</doc>
+</add>

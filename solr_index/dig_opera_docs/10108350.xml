@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108350</field>
+<field name="genre">Operas</field>
+<field name="title">Tom-Tom</field>
+<field name="titleSort">Tom-Tom</field>
+<field name="composer">Shirley Graham Du Bois</field>
+<field name="composerSort">Du Bois, Shirley Graham</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Shirley Graham Du Bois</field>
+<field name="librettistSort">Du Bois, Shirley Graham</field>
+<field name="theater">Municipal Stadium</field>
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tom-Tom+Shirley+Graham+Du+Bois&amp;search_field=search</field>
+</doc>
+</add>

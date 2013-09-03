@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109610</field>
+<field name="genre">Operas</field>
+<field name="title">Pietro Candiano IV</field>
+<field name="titleSort">Pietro Candiano IV</field>
+<field name="composer">Giovanni Battista Ferrari</field>
+<field name="composerSort">Ferrari, Giovanni Battista</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pietro+Candiano+IV+Giovanni+Battista+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

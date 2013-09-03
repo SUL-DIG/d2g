@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123266</field>
+<field name="genre">Operas</field>
+<field name="title">"Les loix et les rois, ou Le bonheur des peuples</field>
+<field name="titleSort">"loix et les rois, ou Le bonheur des peuples"</field>
+<field name="composer">Guillaume-Alexis Paris</field>
+<field name="composerSort">Paris, Guillaume-Alexis</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">[Louis Bruyas] Louis Bursay</field>
+<field name="librettistSort">Bursay, Louis [Louis Bruyas]</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+loix+et+les+rois,+ou+Le+bonheur+des+peuples+Guillaume-Alexis+Paris&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101024</field>
+<field name="genre">Operas</field>
+<field name="title">The Spectre Bridegroom</field>
+<field name="titleSort">Spectre Bridegroom</field>
+<field name="composer">William Dawson Armstrong</field>
+<field name="composerSort">Armstrong, William Dawson</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">14th Street Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Spectre+Bridegroom+William+Dawson+Armstrong&amp;search_field=search</field>
+</doc>
+</add>

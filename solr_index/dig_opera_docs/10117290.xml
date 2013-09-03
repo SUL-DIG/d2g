@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117290</field>
+<field name="genre">Operas</field>
+<field name="title">Il candellierifero</field>
+<field name="titleSort">candellierifero</field>
+<field name="composer">Paolino La Rocca</field>
+<field name="composerSort">Rocca, Paolino La</field>
+<field name="year">1799</field>
+<field name="date">1799</field><field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+candellierifero+Paolino+La+Rocca&amp;search_field=search</field>
+</doc>
+</add>

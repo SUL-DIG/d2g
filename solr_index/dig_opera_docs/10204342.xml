@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204342</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Solomon's Temple</field>
+		<field name="titleSort">Solomon's Temple</field>
+		<field name="year">1753</field>
+		<field name="month">May</field>
+		<field name="day">15</field>
+		<field name="date">May 15, 1753</field>
+		<field name="composer">Richard Broadway</field>
+		<field name="composerSort">Broadway, Richard</field>
+		<field name="librettist">James Eyre Weekes</field>
+		<field name="librettistSort">Weekes, James Eyre</field>
+		
+		<field name="theater">Fishamble Street Music Hall</field>
+		<field name="city">Dublin</field>
+		<field name="region">Leinster</field>
+		<field name="country">Ireland</field>
+		<field name="subject">Solomon constructs the Temple</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solomon's+Temple+Richard+Broadway&amp;search_field=search</field>
+	</doc></add>

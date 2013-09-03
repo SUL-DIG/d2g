@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123249</field>
+<field name="genre">Operas</field>
+<field name="title">Fanfulla</field>
+<field name="titleSort">Fanfulla</field>
+<field name="composer">Attilio Parelli</field>
+<field name="composerSort">Parelli, Attilio</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Alberto Colantuoni</field>
+<field name="librettistSort">Colantuoni, Alberto</field>
+<field name="theater">Teatro Comunale Giuseppe Verdi</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fanfulla+Attilio+Parelli&amp;search_field=search</field>
+</doc>
+</add>

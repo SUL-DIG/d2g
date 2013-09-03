@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114133</field>
+<field name="genre">Operas</field>
+<field name="title">Toussaint l'Overture</field>
+<field name="titleSort">Toussaint l'Overture</field>
+<field name="composer">Gottfried Herrmann</field>
+<field name="composerSort">Herrmann, Gottfried</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">__ Lemminger</field>
+<field name="librettistSort">Lemminger, __</field>
+<field name="librettist">Alphonse de Lamartine</field>
+<field name="librettistSort">Lamartine, Alphonse de</field>
+<field name="theater">Ebbesche Theater in der Beckergrube</field>
+<field name="city">Lübeck</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toussaint+l'Overture+Gottfried+Herrmann&amp;search_field=search</field>
+</doc>
+</add>

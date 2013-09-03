@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110875</field>
+<field name="genre">Operas</field>
+<field name="title">Il sindaco cavaliere</field>
+<field name="titleSort">sindaco cavaliere</field>
+<field name="composer">Giuseppe Gallignani</field>
+<field name="composerSort">Gallignani, Giuseppe</field>
+<field name="year">1870</field>
+<field name="date">1870</field><field name="theater">Privato teatro di conte Attendolo Bolognini</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sindaco+cavaliere+Giuseppe+Gallignani&amp;search_field=search</field>
+</doc>
+</add>

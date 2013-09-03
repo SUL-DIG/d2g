@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117398</field>
+<field name="genre">Operas</field>
+<field name="title">I finti sdegni</field>
+<field name="titleSort">finti sdegni</field>
+<field name="composer">Giuseppe Latilla</field>
+<field name="composerSort">Latilla, Giuseppe</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+finti+sdegni+Giuseppe+Latilla&amp;search_field=search</field>
+</doc>
+</add>

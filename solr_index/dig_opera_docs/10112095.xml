@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112095</field>
+<field name="genre">Operas</field>
+<field name="title">Mayerling</field>
+<field name="titleSort">Mayerling</field>
+<field name="composer">Barbara Giuranna</field>
+<field name="composerSort">Giuranna, Barbara</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Vittorio Viviani</field>
+<field name="librettistSort">Viviani, Vittorio</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mayerling+Barbara+Giuranna&amp;search_field=search</field>
+</doc>
+</add>

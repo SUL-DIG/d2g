@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105059</field>
+<field name="genre">Operas</field>
+<field name="title">Amor nato tra l'ombre</field>
+<field name="titleSort">Amor nato tra l'ombre</field>
+<field name="composer">Angelo Antonio Caroli</field>
+<field name="composerSort">Caroli, Angelo Antonio</field>
+<field name="year">1723</field>
+<field name="date">1723</field>
+<field name="librettist">Antonio Zaniboni</field>
+<field name="librettistSort">Zaniboni, Antonio</field>
+<field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+nato+tra+l'ombre+Angelo+Antonio+Caroli&amp;search_field=search</field>
+</doc>
+</add>

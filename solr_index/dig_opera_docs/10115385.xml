@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115385</field>
+<field name="genre">Operas</field>
+<field name="title">Der Goldchignon</field>
+<field name="titleSort">Goldchignon</field>
+<field name="composer">Émile Jonas</field>
+<field name="composerSort">Jonas, Émile</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">[Eugène-Pierre Basté] Eugène Grangé</field>
+<field name="librettistSort">Grangé, Eugène [Eugène-Pierre Basté]</field>
+<field name="librettist">Étienne Tréfeu</field>
+<field name="librettistSort">Tréfeu, Étienne</field>
+<field name="theater">Strampfertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Goldchignon+Émile+Jonas&amp;search_field=search</field>
+</doc>
+</add>

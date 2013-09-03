@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127178</field>
+<field name="genre">Operas</field>
+<field name="title">Stille water hebben diepe gronden</field>
+<field name="titleSort">Stille water hebben diepe gronden</field>
+<field name="composer">Gomaar Ryssens</field>
+<field name="composerSort">Ryssens, Gomaar</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Emmanuel Rosseels</field>
+<field name="librettistSort">Rosseels, Emmanuel</field>
+<field name="theater">Private Performance</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stille+water+hebben+diepe+gronden+Gomaar+Ryssens&amp;search_field=search</field>
+</doc>
+</add>

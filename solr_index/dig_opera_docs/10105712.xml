@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105712</field>
+<field name="genre">Operas</field>
+<field name="title">Démophon</field>
+<field name="titleSort">Démophon</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Démophon+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

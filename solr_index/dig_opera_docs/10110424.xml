@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110424</field>
+<field name="genre">Operas</field>
+<field name="title">I due ciarlatani in Spagna</field>
+<field name="titleSort">due ciarlatani in Spagna</field>
+<field name="composer">Ottavio Frangini</field>
+<field name="composerSort">Frangini, Ottavio</field>
+<field name="year">1878</field>
+<field name="date">1878</field><field name="theater">Teatro Rossini</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+ciarlatani+in+Spagna+Ottavio+Frangini&amp;search_field=search</field>
+</doc>
+</add>

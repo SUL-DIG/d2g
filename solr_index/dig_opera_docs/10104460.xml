@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104460</field>
+<field name="genre">Operas</field>
+<field name="title">Pred slunce východem (Before Sunrise)</field>
+<field name="titleSort">Pred slunce východem (Before Sunrise)</field>
+<field name="composer">Emil Frantisek Burian</field>
+<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Bedrich Belohlávek</field>
+<field name="librettistSort">Belohlávek, Bedrich</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pred+slunce+východem+Before+Sunrise+Emil+Frantisek+Burian&amp;search_field=search</field>
+</doc>
+</add>

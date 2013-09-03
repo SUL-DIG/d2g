@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130832</field>
+<field name="genre">Operas</field>
+<field name="title">La p'tite femme de Loth</field>
+<field name="titleSort">p'tite femme de Loth</field>
+<field name="composer">Claude Terrasse</field>
+<field name="composerSort">Terrasse, Claude</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Tristan Bernard</field>
+<field name="librettistSort">Bernard, Tristan</field>
+<field name="theater">Théâtre des Mathurins</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+p'tite+femme+de+Loth+Claude+Terrasse&amp;search_field=search</field>
+</doc>
+</add>

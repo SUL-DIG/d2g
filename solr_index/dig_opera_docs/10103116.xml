@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103116</field>
+<field name="genre">Operas</field>
+<field name="title">Don Procopio</field>
+<field name="titleSort">Don Procopio</field>
+<field name="composer">Georges Bizet</field>
+<field name="composerSort">Bizet, Georges</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Carlo Cambiaggio</field>
+<field name="librettistSort">Cambiaggio, Carlo</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Procopio+Georges+Bizet&amp;search_field=search</field>
+</doc>
+</add>

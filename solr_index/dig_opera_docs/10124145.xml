@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124145</field>
+<field name="genre">Operas</field>
+<field name="title">Le avventure di Ridolfo</field>
+<field name="titleSort">avventure di Ridolfo</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Lazzaro Mazzei</field>
+<field name="librettistSort">Mazzei, Lazzaro</field>
+<field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+avventure+di+Ridolfo+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

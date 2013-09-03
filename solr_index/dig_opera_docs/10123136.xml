@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123136</field>
+<field name="genre">Operas</field>
+<field name="title">Il ritorno di Astrea in terra</field>
+<field name="titleSort">ritorno di Astrea in terra</field>
+<field name="composer">José Palomino</field>
+<field name="composerSort">Palomino, José</field>
+<field name="year">1785</field>
+<field name="date">1785</field><field name="theater">Palácio Nuсez</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritorno+di+Astrea+in+terra+José+Palomino&amp;search_field=search</field>
+</doc>
+</add>

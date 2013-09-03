@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112458</field>
+<field name="genre">Operas</field>
+<field name="title">La nonne sanglante</field>
+<field name="titleSort">nonne sanglante</field>
+<field name="composer">Charles Gounod</field>
+<field name="composerSort">Gounod, Charles</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Germain Delavigne</field>
+<field name="librettistSort">Delavigne, Germain</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nonne+sanglante+Charles+Gounod&amp;search_field=search</field>
+</doc>
+</add>

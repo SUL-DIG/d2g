@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120220</field>
+<field name="genre">Operas</field>
+<field name="title">L'esclave</field>
+<field name="titleSort">esclave</field>
+<field name="composer">Edmond Membrée</field>
+<field name="composerSort">Membrée, Edmond</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Édouard Foussier</field>
+<field name="librettistSort">Foussier, Édouard</field>
+<field name="librettist">Édouard Got</field>
+<field name="librettistSort">Got, Édouard</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'esclave+Edmond+Membrée&amp;search_field=search</field>
+</doc>
+</add>

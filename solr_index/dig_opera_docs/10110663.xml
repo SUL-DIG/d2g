@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110663</field>
+<field name="genre">Operas</field>
+<field name="title">Das Wunderlicht des Nikolaus</field>
+<field name="titleSort">Wunderlicht des Nikolaus</field>
+<field name="composer">Heinrich Funk</field>
+<field name="composerSort">Funk, Heinrich</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Fritz John</field>
+<field name="librettistSort">John, Fritz</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Erfurt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wunderlicht+des+Nikolaus+Heinrich+Funk&amp;search_field=search</field>
+</doc>
+</add>

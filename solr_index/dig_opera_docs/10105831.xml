@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105831</field>
+<field name="genre">Operas</field>
+<field name="title">Graziella</field>
+<field name="titleSort">Graziella</field>
+<field name="composer">Antony Choudens</field>
+<field name="composerSort">Choudens, Antony</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Graziella+Antony+Choudens&amp;search_field=search</field>
+</doc>
+</add>

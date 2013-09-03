@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114644</field>
+<field name="genre">Operas</field>
+<field name="title">The Maid of Saxony</field>
+<field name="titleSort">Maid of Saxony</field>
+<field name="composer">Charles Edward Horn</field>
+<field name="composerSort">Horn, Charles Edward</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">George Pope Morris</field>
+<field name="librettistSort">Morris, George Pope</field>
+<field name="librettist">Maria Edgeworth</field>
+<field name="librettistSort">Edgeworth, Maria</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Maid+of+Saxony+Charles+Edward+Horn&amp;search_field=search</field>
+</doc>
+</add>

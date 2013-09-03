@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112551</field>
+<field name="genre">Operas</field>
+<field name="title">I giovani viveurs</field>
+<field name="titleSort">giovani viveurs</field>
+<field name="composer">Colombo Grandi</field>
+<field name="composerSort">Grandi, Colombo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Paride Grandi</field>
+<field name="librettistSort">Grandi, Paride</field>
+<field name="theater">Arena Garibaldi</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+giovani+viveurs+Colombo+Grandi&amp;search_field=search</field>
+</doc>
+</add>

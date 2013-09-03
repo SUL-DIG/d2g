@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132990</field>
+<field name="genre">Operas</field>
+<field name="title">Letters to Theo</field>
+<field name="titleSort">Letters to Theo</field>
+<field name="composer">James Wilson</field>
+<field name="composerSort">Wilson, James</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">James Wilson</field>
+<field name="librettistSort">Wilson, James</field>
+<field name="librettist">Vincent van Gogh</field>
+<field name="librettistSort">Gogh, Vincent van</field>
+<field name="theater">Saint Stephen's Church</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Letters+to+Theo+James+Wilson&amp;search_field=search</field>
+</doc>
+</add>

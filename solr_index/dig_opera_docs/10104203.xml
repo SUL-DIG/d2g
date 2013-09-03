@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104203</field>
+<field name="genre">Operas</field>
+<field name="title">Der Tod des grossen Pans</field>
+<field name="titleSort">Tod des grossen Pans</field>
+<field name="composer">Georg Bronner</field>
+<field name="composerSort">Bronner, Georg</field>
+<field name="year">1702</field>
+<field name="date">1702</field>
+<field name="librettist">Hinrich Hinsch</field>
+<field name="librettistSort">Hinsch, Hinrich</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+des+grossen+Pans+Georg+Bronner&amp;search_field=search</field>
+</doc>
+</add>

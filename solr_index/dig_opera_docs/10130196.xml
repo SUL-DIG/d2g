@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130196</field>
+<field name="genre">Operas</field>
+<field name="title">Solovey (Le rossignol)</field>
+<field name="titleSort">Solovey (Le rossignol)</field>
+<field name="composer">Igor Stravinsky</field>
+<field name="composerSort">Stravinsky, Igor</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Igor Stravinsky</field>
+<field name="librettistSort">Stravinsky, Igor</field>
+<field name="librettist">Stepan Nikolayevich Mitusov</field>
+<field name="librettistSort">Mitusov, Stepan Nikolayevich</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solovey+Le+rossignol+Igor+Stravinsky&amp;search_field=search</field>
+</doc>
+</add>

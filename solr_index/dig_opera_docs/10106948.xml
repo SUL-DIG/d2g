@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106948</field>
+<field name="genre">Operas</field>
+<field name="title">The Cask of Amontillado</field>
+<field name="titleSort">Cask of Amontillado</field>
+<field name="composer">Russell Currie</field>
+<field name="composerSort">Currie, Russell</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Carl Laanes</field>
+<field name="librettistSort">Laanes, Carl</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">Fordham University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cask+of+Amontillado+Russell+Currie&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116479</field>
+<field name="genre">Operas</field>
+<field name="title">Brundibár</field>
+<field name="titleSort">Brundibár</field>
+<field name="composer">Hans Krása</field>
+<field name="composerSort">Krása, Hans</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Karel Hoffmeister</field>
+<field name="librettistSort">Hoffmeister, Karel</field>
+<field name="theater">Theresienstadt Concentration Camp</field>
+<field name="city">Terezin</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brundibár+Hans+Krása&amp;search_field=search</field>
+</doc>
+</add>

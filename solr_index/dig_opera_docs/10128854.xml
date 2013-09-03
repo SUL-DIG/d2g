@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128854</field>
+<field name="genre">Operas</field>
+<field name="title">Chocorua</field>
+<field name="titleSort">Chocorua</field>
+<field name="composer">Robert Selig</field>
+<field name="composerSort">Selig, Robert</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Richard Moore</field>
+<field name="librettistSort">Moore, Richard</field>
+<field name="theater">Berkshire Music Festival</field>
+<field name="city">Lenox</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chocorua+Robert+Selig&amp;search_field=search</field>
+</doc>
+</add>

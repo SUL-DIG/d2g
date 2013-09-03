@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114523</field>
+<field name="genre">Operas</field>
+<field name="title">"East of the Sun, West of the Moon</field>
+<field name="titleSort">"East of the Sun, West of the Moon"</field>
+<field name="composer">David Hollister</field>
+<field name="composerSort">Hollister, David</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Kenneth Koch</field>
+<field name="librettistSort">Koch, Kenneth</field>
+<field name="librettist">Stephen Policoff</field>
+<field name="librettistSort">Policoff, Stephen</field>
+<field name="theater">Medicine Show Theater Ensemble</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=East+of+the+Sun,+West+of+the+Moon+David+Hollister&amp;search_field=search</field>
+</doc>
+</add>

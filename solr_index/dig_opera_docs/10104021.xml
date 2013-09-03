@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104021</field>
+<field name="genre">Operas</field>
+<field name="title">Traumland</field>
+<field name="titleSort">Traumland</field>
+<field name="composer">Jan Brandts Buys</field>
+<field name="composerSort">Buys, Jan Brandts</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Jan Brandts Buys</field>
+<field name="librettistSort">Brandts Buys, Jan</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Traumland+Jan+Brandts+Buys&amp;search_field=search</field>
+</doc>
+</add>

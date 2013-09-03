@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114238</field>
+<field name="genre">Operas</field>
+<field name="title">"The Spanish Castle, or Knight of Guadalquiver</field>
+<field name="titleSort">"Spanish Castle, or Knight of Guadalquiver"</field>
+<field name="composer">James Hewitt</field>
+<field name="composerSort">Hewitt, James</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">William Dunlap</field>
+<field name="librettistSort">Dunlap, William</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Spanish+Castle,+or+Knight+of+Guadalquiver+James+Hewitt&amp;search_field=search</field>
+</doc>
+</add>

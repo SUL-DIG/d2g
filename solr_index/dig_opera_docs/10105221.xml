@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105221</field>
+<field name="genre">Operas</field>
+<field name="title">Iginia d'Asti</field>
+<field name="titleSort">Iginia d'Asti</field>
+<field name="composer">Luigi Ferdinando Casamorata</field>
+<field name="composerSort">Casamorata, Luigi Ferdinando</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Girolamo Maria Marini</field>
+<field name="librettistSort">Marini, Girolamo Maria</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iginia+d'Asti+Luigi+Ferdinando+Casamorata&amp;search_field=search</field>
+</doc>
+</add>

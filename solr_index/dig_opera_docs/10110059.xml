@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110059</field>
+<field name="genre">Operas</field>
+<field name="title">Skripka Rotshil'da (Rothschild's Violin)</field>
+<field name="titleSort">Skripka Rotshil'da (Rothschild's Violin)</field>
+<field name="composer">Veniamin Iosifovich Fleyshman</field>
+<field name="composerSort">Fleyshman, Veniamin Iosifovich</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Veniamin Iosifovich Fleyshman</field>
+<field name="librettistSort">Fleyshman, Veniamin Iosifovich</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Experimental Chamber Opera</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skripka+Rotshil'da+Rothschild's+Violin+Veniamin+Iosifovich+Fleyshman&amp;search_field=search</field>
+</doc>
+</add>

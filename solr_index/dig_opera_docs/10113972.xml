@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113972</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rosenmädchen</field>
+<field name="titleSort">Rosenmädchen</field>
+<field name="composer">Karl Wilhelm Henning</field>
+<field name="composerSort">Henning, Karl Wilhelm</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="theater">Königstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rosenmädchen+Karl+Wilhelm+Henning&amp;search_field=search</field>
+</doc>
+</add>

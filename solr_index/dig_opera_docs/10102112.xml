@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102112</field>
+<field name="genre">Operas</field>
+<field name="title">The Sweetwater Affair</field>
+<field name="titleSort">Sweetwater Affair</field>
+<field name="composer">Robert Beadell</field>
+<field name="composerSort">Beadell, Robert</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Bruce Nicoll</field>
+<field name="librettistSort">Nicoll, Bruce</field>
+<field name="theater">University of Nebraska</field>
+<field name="city">Lincoln</field>
+<field name="region">Nebraska</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sweetwater+Affair+Robert+Beadell&amp;search_field=search</field>
+</doc>
+</add>

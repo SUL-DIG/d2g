@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124791</field>
+<field name="genre">Operas</field>
+<field name="title">Edoardo Stuart</field>
+<field name="titleSort">Edoardo Stuart</field>
+<field name="composer">Cipriano Pontoglio</field>
+<field name="composerSort">Pontoglio, Cipriano</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edoardo+Stuart+Cipriano+Pontoglio&amp;search_field=search</field>
+</doc>
+</add>

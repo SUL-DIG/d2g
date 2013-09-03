@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201049</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il doppio martire</field>
+		<field name="titleSort">doppio martire</field>
+		<field name="year">1706</field>
+		<field name="month">January</field>
+		<field name="day">20</field>
+		<field name="date">January 20, 1706</field>
+		<field name="composer">Giuseppe Antonio Vincenzo Aldrovandini</field>
+		<field name="composerSort">Aldrovandini, Giuseppe Antonio Vincenzo</field>
+		<field name="librettist">Mario Vangini</field>
+		<field name="librettistSort">Vangini, Mario</field>
+		
+		<field name="theater">Arciconfraternita de' Santi Sebastiano e Rocco</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+doppio+martire+Giuseppe+Antonio+Vincenzo+Aldrovandini&amp;search_field=search</field>
+	</doc></add>

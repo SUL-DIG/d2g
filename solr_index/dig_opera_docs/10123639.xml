@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123639</field>
+<field name="genre">Operas</field>
+<field name="title">Songs on a Shipwrecked Sofa</field>
+<field name="titleSort">Songs on a Shipwrecked Sofa</field>
+<field name="composer">Polly Pen</field>
+<field name="composerSort">Pen, Polly</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Polly Pen</field>
+<field name="librettistSort">Pen, Polly</field>
+<field name="theater">Vineyard Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Songs+on+a+Shipwrecked+Sofa+Polly+Pen&amp;search_field=search</field>
+</doc>
+</add>

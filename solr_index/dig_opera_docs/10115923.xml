@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115923</field>
+<field name="genre">Operas</field>
+<field name="title">Korol' na okhote (The King Goes Hunting)</field>
+<field name="titleSort">Korol' na okhote (The King Goes Hunting)</field>
+<field name="composer">Ivan or Mikhail Kerzelli</field>
+<field name="composerSort">Kerzelli, Ivan or Mikhail</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Vasily Alekseyevich Levshin</field>
+<field name="librettistSort">Levshin, Vasily Alekseyevich</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Korol'+na+okhote+The+King+Goes+Hunting+Ivan+or+Mikhail+Kerzelli&amp;search_field=search</field>
+</doc>
+</add>

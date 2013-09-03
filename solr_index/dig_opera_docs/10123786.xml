@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123786</field>
+<field name="genre">Operas</field>
+<field name="title">Le sansonnet</field>
+<field name="titleSort">sansonnet</field>
+<field name="composer">Amélie Péronnet</field>
+<field name="composerSort">Péronnet, Amélie</field>
+<field name="year">1881</field>
+<field name="date">1881</field><field name="theater">Théâtre du Casino</field>
+<field name="city">Royan</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sansonnet+Amélie+Péronnet&amp;search_field=search</field>
+</doc>
+</add>

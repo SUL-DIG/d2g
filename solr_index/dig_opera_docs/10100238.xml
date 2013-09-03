@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100238</field>
+<field name="genre">Operas</field>
+<field name="title">Amor e Psiche</field>
+<field name="titleSort">Amor e Psiche</field>
+<field name="composer">Johann Friedrich Agricola</field>
+<field name="composerSort">Agricola, Johann Friedrich</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Antonio Landi</field>
+<field name="librettistSort">Landi, Antonio</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+e+Psiche+Johann+Friedrich+Agricola&amp;search_field=search</field>
+</doc>
+</add>

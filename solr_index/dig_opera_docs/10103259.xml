@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103259</field>
+<field name="genre">Operas</field>
+<field name="title">Baldie (Liefdelied)</field>
+<field name="titleSort">Baldie (Liefdelied)</field>
+<field name="composer">Jan Blockx</field>
+<field name="composerSort">Blockx, Jan</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Nestor de Tière</field>
+<field name="librettistSort">Tière, Nestor de</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baldie+Liefdelied+Jan+Blockx&amp;search_field=search</field>
+</doc>
+</add>

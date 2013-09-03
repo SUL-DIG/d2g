@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133005</field>
+<field name="genre">Operas</field>
+<field name="title">Virginia</field>
+<field name="titleSort">Virginia</field>
+<field name="composer">Josef Wimmer</field>
+<field name="composerSort">Wimmer, Josef</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Siegfried Kapper</field>
+<field name="librettistSort">Kapper, Siegfried</field>
+
+<field name="city">Pécs</field>
+<field name="region">Baranya</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virginia+Josef+Wimmer&amp;search_field=search</field>
+</doc>
+</add>

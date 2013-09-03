@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114452</field>
+<field name="genre">Operas</field>
+<field name="title">Don Juan vender hjem fra krigen</field>
+<field name="titleSort">Don Juan vender hjem fra krigen</field>
+<field name="composer">Erik Højsgaard</field>
+<field name="composerSort">Højsgaard, Erik</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Ödön von Horváth</field>
+<field name="librettistSort">Horváth, Ödön von</field>
+<field name="theater">Musikteatret Undergrunden</field>
+<field name="city">Odense</field>
+<field name="region">Syddanmark</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Juan+vender+hjem+fra+krigen+Erik+Højsgaard&amp;search_field=search</field>
+</doc>
+</add>

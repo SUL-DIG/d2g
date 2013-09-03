@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104311</field>
+<field name="genre">Operas</field>
+<field name="title">L'esclave</field>
+<field name="titleSort">esclave</field>
+<field name="composer">Antonio Bartolomeo Bruni</field>
+<field name="composerSort">Bruni, Antonio Bartolomeo</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Étienne Gosse</field>
+<field name="librettistSort">Gosse, Étienne</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'esclave+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
+</doc>
+</add>

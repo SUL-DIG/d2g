@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100314</field>
+<field name="genre">Operas</field>
+<field name="title">Kain</field>
+<field name="titleSort">Kain</field>
+<field name="composer">Eugen d'Albert</field>
+<field name="composerSort">d'Albert, Eugen</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Heinrich Bulthaupt</field>
+<field name="librettistSort">Bulthaupt, Heinrich</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kain+Eugen+d'Albert&amp;search_field=search</field>
+</doc>
+</add>

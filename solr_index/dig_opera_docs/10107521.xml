@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107521</field>
+<field name="genre">Operas</field>
+<field name="title">L'écume des jours</field>
+<field name="titleSort">écume des jours</field>
+<field name="composer">Edison Denisov</field>
+<field name="composerSort">Denisov, Edison</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Edison Denisov</field>
+<field name="librettistSort">Denisov, Edison</field>
+<field name="librettist">Boris Vian</field>
+<field name="librettistSort">Vian, Boris</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'écume+des+jours+Edison+Denisov&amp;search_field=search</field>
+</doc>
+</add>

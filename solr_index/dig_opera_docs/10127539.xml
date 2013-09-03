@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127539</field>
+<field name="genre">Operas</field>
+<field name="title">La jeune fille а la fenêtre</field>
+<field name="titleSort">jeune fille а la fenêtre</field>
+<field name="composer">Eugène Samuel-Holman</field>
+<field name="composerSort">Samuel-Holman, Eugène</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Camille Lemonnier</field>
+<field name="librettistSort">Lemonnier, Camille</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jeune+fille+а+la+fenêtre+Eugène+Samuel-Holman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112339</field>
+<field name="genre">Operas</field>
+<field name="title">A Bullet for Billy the Kid</field>
+<field name="titleSort">Bullet for Billy the Kid</field>
+<field name="composer">William Goldstein</field>
+<field name="composerSort">Goldstein, William</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Marvin Shofer</field>
+<field name="librettistSort">Shofer, Marvin</field>
+<field name="theater">CBS Television (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Bullet+for+Billy+the+Kid+William+Goldstein&amp;search_field=search</field>
+</doc>
+</add>

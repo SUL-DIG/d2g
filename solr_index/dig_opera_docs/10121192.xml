@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121192</field>
+<field name="genre">Operas</field>
+<field name="title">Le jugement de Dieu</field>
+<field name="titleSort">jugement de Dieu</field>
+<field name="composer">Auguste François Morel</field>
+<field name="composerSort">Morel, Auguste François</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Adolphe Carcassonne</field>
+<field name="librettistSort">Carcassonne, Adolphe</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jugement+de+Dieu+Auguste+François+Morel&amp;search_field=search</field>
+</doc>
+</add>

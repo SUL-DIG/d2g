@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111790</field>
+<field name="genre">Operas</field>
+<field name="title">Belphégor</field>
+<field name="titleSort">Belphégor</field>
+<field name="composer">Casimir Gide</field>
+<field name="composerSort">Gide, Casimir</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Léon Halévy</field>
+<field name="librettistSort">Halévy, Léon</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belphégor+Casimir+Gide&amp;search_field=search</field>
+</doc>
+</add>

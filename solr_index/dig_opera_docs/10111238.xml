@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111238</field>
+<field name="genre">Operas</field>
+<field name="title">Asinus Rex</field>
+<field name="titleSort">Asinus Rex</field>
+<field name="composer">Heinrich Gattermeyer</field>
+<field name="composerSort">Gattermeyer, Heinrich</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Heinrich Gattermeyer</field>
+<field name="librettistSort">Gattermeyer, Heinrich</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Asinus+Rex+Heinrich+Gattermeyer&amp;search_field=search</field>
+</doc>
+</add>

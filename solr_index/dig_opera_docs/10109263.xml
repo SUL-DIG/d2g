@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109263</field>
+<field name="genre">Operas</field>
+<field name="title">La lingerie Ricoquais</field>
+<field name="titleSort">lingerie Ricoquais</field>
+<field name="composer">Edmond Famechon</field>
+<field name="composerSort">Famechon, Edmond</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Edmond Famechon</field>
+<field name="librettistSort">Famechon, Edmond</field>
+<field name="theater">Concert des Folies-Belleville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+lingerie+Ricoquais+Edmond+Famechon&amp;search_field=search</field>
+</doc>
+</add>

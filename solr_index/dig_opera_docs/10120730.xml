@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120730</field>
+<field name="genre">Operas</field>
+<field name="title">Bouquets de Mlle de G*** а sa mère</field>
+<field name="titleSort">Bouquets de Mlle de G*** а sa mère</field>
+<field name="composer">Charles-Louis Mion</field>
+<field name="composerSort">Mion, Charles-Louis</field>
+<field name="year">1735</field>
+<field name="date">1735</field>
+<field name="librettist">Paul Morand</field>
+<field name="librettistSort">Morand, Paul</field>
+<field name="theater">Théâtre des Grandes Écuries</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bouquets+de+Mlle+de+G***+а+sa+mère+Charles-Louis+Mion&amp;search_field=search</field>
+</doc>
+</add>

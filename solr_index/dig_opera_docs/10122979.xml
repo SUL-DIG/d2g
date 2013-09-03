@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122979</field>
+<field name="genre">Operas</field>
+<field name="title">Andromeda</field>
+<field name="titleSort">Andromeda</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Vittorio Amadeo Cigna-Santi</field>
+<field name="librettistSort">Cigna-Santi, Vittorio Amadeo</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromeda+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

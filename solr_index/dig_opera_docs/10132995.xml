@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132995</field>
+<field name="genre">Operas</field>
+<field name="title">Many Moons</field>
+<field name="titleSort">Many Moons</field>
+<field name="composer">John Wilson</field>
+<field name="composerSort">Wilson, John</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">John Wilson</field>
+<field name="librettistSort">Wilson, John</field>
+<field name="librettist">James Thurber</field>
+<field name="librettistSort">Thurber, James</field>
+<field name="theater">Theater Festival</field>
+<field name="city">Steamboat Springs</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Many+Moons+John+Wilson&amp;search_field=search</field>
+</doc>
+</add>

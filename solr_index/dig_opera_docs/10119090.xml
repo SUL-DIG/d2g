@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119090</field>
+<field name="genre">Operas</field>
+<field name="title">La costanza nell'honore</field>
+<field name="titleSort">costanza nell'honore</field>
+<field name="composer">Francesco Mancini</field>
+<field name="composerSort">Mancini, Francesco</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Francesco Passerini</field>
+<field name="librettistSort">Passerini, Francesco</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+nell'honore+Francesco+Mancini&amp;search_field=search</field>
+</doc>
+</add>

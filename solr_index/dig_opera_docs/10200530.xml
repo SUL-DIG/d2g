@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200530</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Captives of Babylon</field>
+		<field name="titleSort">Captives of Babylon</field>
+		<field name="year">1887</field>
+		
+		
+		<field name="date">1887</field>
+		<field name="composer">George Shinn</field>
+		<field name="composerSort">Shinn, George</field>
+		<field name="librettist">James Shepherd</field>
+		<field name="librettistSort">Shepherd, James</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Babylonian Captivity</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Captives+of+Babylon+George+Shinn&amp;search_field=search</field>
+	</doc></add>

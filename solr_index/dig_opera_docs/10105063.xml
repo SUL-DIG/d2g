@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105063</field>
+<field name="genre">Operas</field>
+<field name="title">Serenata per musica</field>
+<field name="titleSort">Serenata per musica</field>
+<field name="composer">Angelo Antonio Caroli</field>
+<field name="composerSort">Caroli, Angelo Antonio</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Giuseppe Manfredi</field>
+<field name="librettistSort">Manfredi, Giuseppe</field>
+<field name="theater">Collegio Ancarana</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serenata+per+musica+Angelo+Antonio+Caroli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130395</field>
+<field name="genre">Operas</field>
+<field name="title">Niobe</field>
+<field name="titleSort">Niobe</field>
+<field name="composer">Heinrich Sutermeister</field>
+<field name="composerSort">Sutermeister, Heinrich</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Peter Sutermeister</field>
+<field name="librettistSort">Sutermeister, Peter</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Niobe+Heinrich+Sutermeister&amp;search_field=search</field>
+</doc>
+</add>

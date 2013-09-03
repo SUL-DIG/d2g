@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133120</field>
+<field name="genre">Operas</field>
+<field name="title">Rosa und Reseda</field>
+<field name="titleSort">Rosa und Reseda</field>
+<field name="composer">Maximilian Wolf</field>
+<field name="composerSort">Wolf, Maximilian</field>
+<field name="year">1872</field>
+<field name="date">1872</field><field name="theater">Hermina-Theater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosa+und+Reseda+Maximilian+Wolf&amp;search_field=search</field>
+</doc>
+</add>

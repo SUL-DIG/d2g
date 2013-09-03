@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114428</field>
+<field name="genre">Operas</field>
+<field name="title">Donna Diana</field>
+<field name="titleSort">Donna Diana</field>
+<field name="composer">Heinrich Hofmann</field>
+<field name="composerSort">Hofmann, Heinrich</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Karl Wittkowsky</field>
+<field name="librettistSort">Wittkowsky, Karl</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Diana+Heinrich+Hofmann&amp;search_field=search</field>
+</doc>
+</add>

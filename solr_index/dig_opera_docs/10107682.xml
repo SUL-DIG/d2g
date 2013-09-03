@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107682</field>
+<field name="genre">Operas</field>
+<field name="title">Le valet de deux maîtres</field>
+<field name="titleSort">valet de deux maîtres</field>
+<field name="composer">François Devienne</field>
+<field name="composerSort">Devienne, François</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Jean-François Roger</field>
+<field name="librettistSort">Roger, Jean-François</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+valet+de+deux+maîtres+François+Devienne&amp;search_field=search</field>
+</doc>
+</add>

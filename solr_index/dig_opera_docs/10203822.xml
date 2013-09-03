@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203822</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Bernardo</field>
+		<field name="titleSort">San Bernardo</field>
+		<field name="year">1763</field>
+		
+		
+		<field name="date">1763</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Bernard</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">20</field>
+		<field name="feastDate">August 20</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Bernardo+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

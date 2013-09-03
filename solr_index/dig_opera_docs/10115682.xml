@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115682</field>
+<field name="genre">Operas</field>
+<field name="title">Der Dusle und das Babeli</field>
+<field name="titleSort">Dusle und das Babeli</field>
+<field name="composer">Karl Kaskel</field>
+<field name="composerSort">Kaskel, Karl</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Wilhelm Schriefer</field>
+<field name="librettistSort">Schriefer, Wilhelm</field>
+<field name="librettist">[Alexander Mitschke] Alexander M. Kolloden</field>
+<field name="librettistSort">Kolloden, Alexander M. [Alexander Mitschke]</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Dusle+und+das+Babeli+Karl+Kaskel&amp;search_field=search</field>
+</doc>
+</add>

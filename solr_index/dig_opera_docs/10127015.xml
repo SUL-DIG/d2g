@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127015</field>
+<field name="genre">Operas</field>
+<field name="title">L'appuntamento notturno</field>
+<field name="titleSort">appuntamento notturno</field>
+<field name="composer">Pietro Ruggieri</field>
+<field name="composerSort">Ruggieri, Pietro</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Francesco Gandini</field>
+<field name="librettistSort">Gandini, Francesco</field>
+<field name="theater">Teatro della Concordia</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'appuntamento+notturno+Pietro+Ruggieri&amp;search_field=search</field>
+</doc>
+</add>

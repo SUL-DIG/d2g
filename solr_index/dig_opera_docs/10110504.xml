@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110504</field>
+<field name="genre">Operas</field>
+<field name="title">Ugryum-reka (Grim River)</field>
+<field name="titleSort">Ugryum-reka (Grim River)</field>
+<field name="composer">Daniil Grigor'yevich Frenkel</field>
+<field name="composerSort">Frenkel, Daniil Grigor'yevich</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Vyacheslav Yakovlevych Shishkov</field>
+<field name="librettistSort">Shishkov, Vyacheslav Yakovlevych</field>
+<field name="librettist">Sergey Ostrovoy</field>
+<field name="librettistSort">Ostrovoy, Sergey</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ugryum-reka+Grim+River+Daniil+Grigor'yevich+Frenkel&amp;search_field=search</field>
+</doc>
+</add>

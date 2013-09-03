@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105525</field>
+<field name="genre">Operas</field>
+<field name="title">The Padrone</field>
+<field name="titleSort">Padrone</field>
+<field name="composer">George Whitefield Chadwick</field>
+<field name="composerSort">Chadwick, George Whitefield</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">David Kilburn Stevens</field>
+<field name="librettistSort">Stevens, David Kilburn</field>
+<field name="theater">Thomaston Opera House</field>
+<field name="city">Waterbury</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Padrone+George+Whitefield+Chadwick&amp;search_field=search</field>
+</doc>
+</add>

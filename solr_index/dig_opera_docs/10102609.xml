@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102609</field>
+<field name="genre">Operas</field>
+<field name="title">Le carrosse du Saint-Sacrement</field>
+<field name="titleSort">carrosse du Saint-Sacrement</field>
+<field name="composer">[Gerald Hugh Thrwhitt-Wilson] Lord Berners</field>
+<field name="composerSort">Berners, [Gerald Hugh Thrwhitt-Wilson] Lord</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Prosper Mérimée</field>
+<field name="librettistSort">Mérimée, Prosper</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+carrosse+du+Saint-Sacrement+Gerald+Hugh+Thrwhitt-Wilson]+Lord+Berners&amp;search_field=search</field>
+</doc>
+</add>

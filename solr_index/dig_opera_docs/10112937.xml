@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112937</field>
+<field name="genre">Operas</field>
+<field name="title">Enea</field>
+<field name="titleSort">Enea</field>
+<field name="composer">Guido Guerrini</field>
+<field name="composerSort">Guerrini, Guido</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Adolfo Angeli</field>
+<field name="librettistSort">Angeli, Adolfo</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enea+Guido+Guerrini&amp;search_field=search</field>
+</doc>
+</add>

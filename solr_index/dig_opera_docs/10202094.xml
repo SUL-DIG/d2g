@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202094</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Israeliten in der Gefangenschaft Manasses</field>
+		<field name="titleSort">Israeliten in der Gefangenschaft Manasses</field>
+		<field name="year">1774</field>
+		
+		
+		<field name="date">1774</field>
+		<field name="composer">Celestin Hochbrucker</field>
+		<field name="composerSort">Hochbrucker, Celestin</field>
+		
+		
+		
+		<field name="city">Freising</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">Manasseh</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Israeliten+in+der+Gefangenschaft+Manasses+Celestin+Hochbrucker&amp;search_field=search</field>
+	</doc></add>

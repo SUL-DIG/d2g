@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116900</field>
+<field name="genre">Operas</field>
+<field name="title">La sérénade</field>
+<field name="titleSort">sérénade</field>
+<field name="composer">Henri Labit</field>
+<field name="composerSort">Labit, Henri</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">__ Donon</field>
+<field name="librettistSort">Donon, __</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Tours</field>
+<field name="region">Indre-et-Loire</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sérénade+Henri+Labit&amp;search_field=search</field>
+</doc>
+</add>

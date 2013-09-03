@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204677</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Giuda Maccabeo</field>
+		<field name="titleSort">trionfo di Giuda Maccabeo</field>
+		<field name="year">1779</field>
+		
+		
+		<field name="date">1779</field>
+		<field name="composer">Francesco Zannetti</field>
+		<field name="composerSort">Zannetti, Francesco</field>
+		
+		
+		
+		<field name="city">Arezzo</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judas Maccabeus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Giuda+Maccabeo+Francesco+Zannetti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128286</field>
+<field name="genre">Operas</field>
+<field name="title">Matka (The Mother)</field>
+<field name="titleSort">Matka (The Mother)</field>
+<field name="composer">Annette Schlünz</field>
+<field name="composerSort">Schlünz, Annette</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Friedrich Huch</field>
+<field name="librettistSort">Huch, Friedrich</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Kellertheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matka+The+Mother+Annette+Schlünz&amp;search_field=search</field>
+</doc>
+</add>

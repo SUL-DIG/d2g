@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119194</field>
+<field name="genre">Operas</field>
+<field name="title">Il diavolo in giardino</field>
+<field name="titleSort">diavolo in giardino</field>
+<field name="composer">Franco Mannino</field>
+<field name="composerSort">Mannino, Franco</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Luchino Visconti</field>
+<field name="librettistSort">Visconti, Luchino</field>
+<field name="librettist">Filippo Sanjust</field>
+<field name="librettistSort">Sanjust, Filippo</field>
+<field name="theater">Teatro Massimo</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+diavolo+in+giardino+Franco+Mannino&amp;search_field=search</field>
+</doc>
+</add>

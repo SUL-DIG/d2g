@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117417</field>
+<field name="genre">Operas</field>
+<field name="title">"Metz und Anne, oder Wurst wider Wurst</field>
+<field name="titleSort">"Metz und Anne, oder Wurst wider Wurst"</field>
+<field name="composer">Anton Laube</field>
+<field name="composerSort">Laube, Anton</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="city">Stralsund</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metz+und+Anne,+oder+Wurst+wider+Wurst+Anton+Laube&amp;search_field=search</field>
+</doc>
+</add>

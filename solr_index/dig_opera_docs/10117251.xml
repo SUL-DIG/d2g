@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117251</field>
+<field name="genre">Operas</field>
+<field name="title">Les pêcheurs catalans</field>
+<field name="titleSort">pêcheurs catalans</field>
+<field name="composer">J. Lanusse</field>
+<field name="composerSort">Lanusse, J.</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Alexandre Bernos</field>
+<field name="librettistSort">Bernos, Alexandre</field>
+<field name="librettist">P. Carré</field>
+<field name="librettistSort">Carré, P.</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+pêcheurs+catalans+J.+Lanusse&amp;search_field=search</field>
+</doc>
+</add>

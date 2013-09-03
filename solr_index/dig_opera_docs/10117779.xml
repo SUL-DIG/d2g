@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117779</field>
+<field name="genre">Operas</field>
+<field name="title">"Jolly Roger, or the Admiral's Daughter</field>
+<field name="titleSort">"Jolly Roger, or the Admiral's Daughter"</field>
+<field name="composer">Walter Leigh</field>
+<field name="composerSort">Leigh, Walter</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Victor Clinton Clinton-Baddeley</field>
+<field name="librettistSort">Clinton-Baddeley, Victor Clinton</field>
+<field name="librettist">Scobie MacKenzie</field>
+<field name="librettistSort">MacKenzie, Scobie</field>
+<field name="theater">Savoy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jolly+Roger,+or+the+Admiral's+Daughter+Walter+Leigh&amp;search_field=search</field>
+</doc>
+</add>

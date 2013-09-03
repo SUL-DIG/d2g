@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200497</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Caino condonnato</field>
+		<field name="titleSort">Caino condonnato</field>
+		<field name="year">1664</field>
+		
+		
+		<field name="date">1664</field>
+		<field name="composer">Maurizio Cazzati</field>
+		<field name="composerSort">Cazzati, Maurizio</field>
+		<field name="librettist">Giovanni Francesco Savaro</field>
+		<field name="librettistSort">Savaro, Giovanni Francesco</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Caino+condonnato+Maurizio+Cazzati&amp;search_field=search</field>
+	</doc></add>

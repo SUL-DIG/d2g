@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204368</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La sposa de' sacri cantici</field>
+		<field name="titleSort">sposa de' sacri cantici</field>
+		<field name="year">1712</field>
+		<field name="month">August</field>
+		<field name="day">12</field>
+		<field name="date">August 12, 1712</field>
+		<field name="composer">Carlo Francesco Cesarini</field>
+		<field name="composerSort">Cesarini, Carlo Francesco</field>
+		<field name="librettist">Francesco Maria Gasparri</field>
+		<field name="librettistSort">Gasparri, Francesco Maria</field>
+		
+		<field name="theater">Collegio Clementino</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Psalms of David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sposa+de'+sacri+cantici+Carlo+Francesco+Cesarini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119462</field>
+<field name="genre">Operas</field>
+<field name="title">Les feux de la Saint-Jean</field>
+<field name="titleSort">feux de la Saint-Jean</field>
+<field name="composer">Paul Marthe</field>
+<field name="composerSort">Marthe, Paul</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Louis Fouquet</field>
+<field name="librettistSort">Fouquet, Louis</field>
+<field name="theater">Théâtre du Pavillon de la Comédie</field>
+<field name="city">Nancy</field>
+<field name="region">Meurthe-et-Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+feux+de+la+Saint-Jean+Paul+Marthe&amp;search_field=search</field>
+</doc>
+</add>

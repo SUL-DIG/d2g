@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101759</field>
+<field name="genre">Operas</field>
+<field name="title">Lyubov' i Silin (Love and Silin)</field>
+<field name="titleSort">Lyubov' i Silin (Love and Silin)</field>
+<field name="composer">Gennady Ivanovich Banshchikov</field>
+<field name="composerSort">Banshchikov, Gennady Ivanovich</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Solomon Volkov</field>
+<field name="librettistSort">Volkov, Solomon</field>
+<field name="librettist">[Aleksey Konstantinovich Tolstoy et al.] Kuzma Prutkov</field>
+<field name="librettistSort">Prutkov, Kuzma [Aleksey Konstantinovich Tolstoy et al.]</field>
+<field name="theater">Opernaya Studiya Konservatorii</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lyubov'+i+Silin+Love+and+Silin+Gennady+Ivanovich+Banshchikov&amp;search_field=search</field>
+</doc>
+</add>

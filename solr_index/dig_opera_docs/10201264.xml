@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201264</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Fasciculus myrrhae dilectus, oder das geliebte Mhyrrenbüschel</field>
+		<field name="titleSort">Fasciculus myrrhae dilectus, oder das geliebte Mhyrrenbüschel</field>
+		<field name="year">1729</field>
+		
+		
+		<field name="date">1729</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fasciculus+myrrhae+dilectus,+oder+das+geliebte+Mhyrrenbüschel+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

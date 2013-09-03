@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106120</field>
+<field name="genre">Operas</field>
+<field name="title">"The Enterprise, or Love and Pleasure</field>
+<field name="titleSort">"Enterprise, or Love and Pleasure"</field>
+<field name="composer">[Philip Antony Corri] Arthur Clifton</field>
+<field name="composerSort">Clifton, [Philip Antony Corri] Arthur</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">W. H. Hamilton</field>
+<field name="librettistSort">Hamilton, W. H.</field>
+<field name="theater">Baltimore Theatre</field>
+<field name="city">Baltimore</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Enterprise,+or+Love+and+Pleasure+Philip+Antony+Corri]+Arthur+Clifton&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124735</field>
+<field name="genre">Operas</field>
+<field name="title">Il naufragio</field>
+<field name="titleSort">naufragio</field>
+<field name="composer">Tomaso Polliani</field>
+<field name="composerSort">Polliani, Tomaso</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+naufragio+Tomaso+Polliani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118017</field>
+<field name="genre">Operas</field>
+<field name="title">Les hérétiques</field>
+<field name="titleSort">hérétiques</field>
+<field name="composer">Charles Levadé</field>
+<field name="composerSort">Levadé, Charles</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">André-Ferdinand Hérold</field>
+<field name="librettistSort">Hérold, André-Ferdinand</field>
+<field name="theater">Théâtre des Arènes</field>
+<field name="city">Béziers</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+hérétiques+Charles+Levadé&amp;search_field=search</field>
+</doc>
+</add>

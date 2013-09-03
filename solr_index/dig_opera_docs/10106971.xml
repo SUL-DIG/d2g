@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106971</field>
+<field name="genre">Operas</field>
+<field name="title">La fattuchiera</field>
+<field name="titleSort">fattuchiera</field>
+<field name="composer">Vincenc Cuyás y Borés</field>
+<field name="composerSort">Borés, Vincenc Cuyás y</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Charles-Victor Prévost d'Arlincourt</field>
+<field name="librettistSort">Prévost d'Arlincourt, Charles-Victor</field>
+<field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fattuchiera+Vincenc+Cuyás+y+Borés&amp;search_field=search</field>
+</doc>
+</add>

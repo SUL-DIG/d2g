@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126400</field>
+<field name="genre">Operas</field>
+<field name="title">Lina di Monfiorito</field>
+<field name="titleSort">Lina di Monfiorito</field>
+<field name="composer">Pietro Agostino Roche</field>
+<field name="composerSort">Roche, Pietro Agostino</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Paolo d'Elsa</field>
+<field name="librettistSort">d'Elsa, Paolo</field>
+
+<field name="city">Alba</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lina+di+Monfiorito+Pietro+Agostino+Roche&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204683</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Goffredo in Gerusalemme</field>
+		<field name="titleSort">trionfo di Goffredo in Gerusalemme</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Michele Fini</field>
+		<field name="composerSort">Fini, Michele</field>
+		<field name="librettist">Pio dal Borgo</field>
+		<field name="librettistSort">Borgo, Pio dal</field>
+		<field name="librettist">Torquato Tasso</field>
+		<field name="librettistSort">Tasso, Torquato</field>
+		<field name="theater">Teatro Pubblico</field>
+		<field name="city">Pisa</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Goffredo+in+Gerusalemme+Michele+Fini&amp;search_field=search</field>
+	</doc></add>

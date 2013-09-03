@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125869</field>
+<field name="genre">Operas</field>
+<field name="title">Os mosqueteiros da reinha</field>
+<field name="titleSort">mosqueteiros da reinha</field>
+<field name="composer">Francisco Alves Rente</field>
+<field name="composerSort">Rente, Francisco Alves</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Os+mosqueteiros+da+reinha+Francisco+Alves+Rente&amp;search_field=search</field>
+</doc>
+</add>

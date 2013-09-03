@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105437</field>
+<field name="genre">Operas</field>
+<field name="title">La secchia rapita</field>
+<field name="titleSort">secchia rapita</field>
+<field name="composer">Filippo Celli</field>
+<field name="composerSort">Celli, Filippo</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="librettist">Gaetano Gasbarri</field>
+<field name="librettistSort">Gasbarri, Gaetano</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+secchia+rapita+Filippo+Celli&amp;search_field=search</field>
+</doc>
+</add>

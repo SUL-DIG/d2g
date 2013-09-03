@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102108</field>
+<field name="genre">Operas</field>
+<field name="title">Pippa's Holiday</field>
+<field name="titleSort">Pippa's Holiday</field>
+<field name="composer">John Parsons Beach</field>
+<field name="composerSort">Beach, John Parsons</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Robert Browning</field>
+<field name="librettistSort">Browning, Robert</field>
+<field name="theater">Théâtre Réjane</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pippa's+Holiday+John+Parsons+Beach&amp;search_field=search</field>
+</doc>
+</add>

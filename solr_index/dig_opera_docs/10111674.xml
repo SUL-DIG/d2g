@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111674</field>
+<field name="genre">Operas</field>
+<field name="title">La rivista militare</field>
+<field name="titleSort">rivista militare</field>
+<field name="composer">__ Gherzi</field>
+<field name="composerSort">Gherzi, __</field>
+<field name="year">1893</field>
+<field name="date">1893</field><field name="theater">Galeria Umberto</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rivista+militare+__+Gherzi&amp;search_field=search</field>
+</doc>
+</add>

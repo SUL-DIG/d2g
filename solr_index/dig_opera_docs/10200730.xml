@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200730</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La costanza trionfante nel martirio di San Canuto, re di Danimarca</field>
+		<field name="titleSort">costanza trionfante nel martirio di San Canuto, re di Danimarca</field>
+		
+		
+		
+		
+		<field name="composer">Domenico Nannini</field>
+		<field name="composerSort">Nannini, Domenico</field>
+		<field name="librettist">Carlo Melchior Uslenghi</field>
+		<field name="librettistSort">Uslenghi, Carlo Melchior</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Cnut</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">10</field>
+		<field name="feastDate">July 10</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+trionfante+nel+martirio+di+San+Canuto,+re+di+Danimarca+Domenico+Nannini&amp;search_field=search</field>
+	</doc></add>

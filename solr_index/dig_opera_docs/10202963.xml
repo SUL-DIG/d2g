@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202963</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La negación y lagrimas de San Pedro</field>
+		<field name="titleSort">negación y lagrimas de San Pedro</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+negación+y+lagrimas+de+San+Pedro+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

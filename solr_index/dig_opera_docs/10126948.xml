@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126948</field>
+<field name="genre">Operas</field>
+<field name="title">"Iyul'skoye voskresen'ye, god 1942</field>
+<field name="titleSort">"Iyul'skoye voskresen'ye, god 1942"</field>
+<field name="composer">Vladimir Il'ich Rubin</field>
+<field name="composerSort">Rubin, Vladimir Il'ich</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Vladimir Il'ich Rubin</field>
+<field name="librettistSort">Rubin, Vladimir Il'ich</field>
+<field name="theater">Gosudarstvennïy Akademicheskiy Teatr Operï i Baleta</field>
+<field name="city">Novosibirsk</field>
+<field name="region">Novosibirsk Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iyul'skoye+voskresen'ye,+god+1942+Vladimir+Il'ich+Rubin&amp;search_field=search</field>
+</doc>
+</add>

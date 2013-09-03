@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121977</field>
+<field name="genre">Operas</field>
+<field name="title">Alexander am Indus</field>
+<field name="titleSort">Alexander am Indus</field>
+<field name="composer">Sigismund Neukomm</field>
+<field name="composerSort">Neukomm, Sigismund</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Deutsches Opernhaus</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+am+Indus+Sigismund+Neukomm&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202467</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La légende de St Augustin</field>
+		<field name="titleSort">légende de St Augustin</field>
+		<field name="year">1934</field>
+		
+		
+		<field name="date">1934</field>
+		<field name="composer">Paul Malengreau</field>
+		<field name="composerSort">Malengreau, Paul</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Augustine</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">November 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+légende+de+St+Augustin+Paul+Malengreau&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118544</field>
+<field name="genre">Operas</field>
+<field name="title">Le vergini</field>
+<field name="titleSort">vergini</field>
+<field name="composer">Antonio Lozzi</field>
+<field name="composerSort">Lozzi, Antonio</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Giulio Macchi</field>
+<field name="librettistSort">Macchi, Giulio</field>
+<field name="librettist">Giovanni Pozza</field>
+<field name="librettistSort">Pozza, Giovanni</field>
+<field name="theater">Teatro Quirino</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vergini+Antonio+Lozzi&amp;search_field=search</field>
+</doc>
+</add>

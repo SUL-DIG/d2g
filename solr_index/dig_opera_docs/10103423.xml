@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103423</field>
+<field name="genre">Operas</field>
+<field name="title">Le moulin du roi</field>
+<field name="titleSort">moulin du roi</field>
+<field name="composer">Louis Boieldieu</field>
+<field name="composerSort">Boieldieu, Louis</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+
+<field name="city">Baden-Baden</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+moulin+du+roi+Louis+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

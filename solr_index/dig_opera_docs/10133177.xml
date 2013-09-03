@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133177</field>
+<field name="genre">Operas</field>
+<field name="title">The Emperor's New Clothes</field>
+<field name="titleSort">Emperor's New Clothes</field>
+<field name="composer">Russell Wood</field>
+<field name="composerSort">Wood, Russell</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Opera Profiles Inc.</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Emperor's+New+Clothes+Russell+Wood&amp;search_field=search</field>
+</doc>
+</add>

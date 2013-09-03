@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204400</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sub Umbra Crucis</field>
+		<field name="titleSort">Sub Umbra Crucis</field>
+		<field name="year">1927</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1927</field>
+		<field name="composer">Albert Bertelin</field>
+		<field name="composerSort">Bertelin, Albert</field>
+		
+		
+		<field name="theater">Église de Notre-Dame-des-Blancs-Manteaux</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Persons at the Foot of the Cross</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sub+Umbra+Crucis+Albert+Bertelin&amp;search_field=search</field>
+	</doc></add>

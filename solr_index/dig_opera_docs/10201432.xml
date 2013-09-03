@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201432</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Future Life</field>
+		<field name="titleSort">Future Life</field>
+		<field name="year">1895</field>
+		
+		
+		<field name="date">1895</field>
+		<field name="composer">Henri Kowalski</field>
+		<field name="composerSort">Kowalski, Henri</field>
+		
+		
+		
+		<field name="city">Sydney</field>
+		<field name="region">New South Wales</field>
+		<field name="country">Australia</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Future+Life+Henri+Kowalski&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133797</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Dora Amata</field>
+<field name="titleSort">Miss Dora Amata</field>
+<field name="composer">Ferry Zwelwecker</field>
+<field name="composerSort">Zwelwecker, Ferry</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Ferry Zwelwecker</field>
+<field name="librettistSort">Zwelwecker, Ferry</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Dora+Amata+Ferry+Zwelwecker&amp;search_field=search</field>
+</doc>
+</add>

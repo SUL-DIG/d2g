@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133555</field>
+<field name="genre">Operas</field>
+<field name="title">"Ercole, vincitor dell'Invidia</field>
+<field name="titleSort">"Ercole, vincitor dell'Invidia"</field>
+<field name="composer">Marc'Antonio Ziani</field>
+<field name="composerSort">Ziani, Marc'Antonio</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Domenico Mazza</field>
+<field name="librettistSort">Mazza, Domenico</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ercole,+vincitor+dell'Invidia+Marc'Antonio+Ziani&amp;search_field=search</field>
+</doc>
+</add>

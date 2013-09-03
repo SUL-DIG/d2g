@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124498</field>
+<field name="genre">Operas</field>
+<field name="title">Der heilige Morgen</field>
+<field name="titleSort">heilige Morgen</field>
+<field name="composer">Horst Platen</field>
+<field name="composerSort">Platen, Horst</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Fritz Dietrich</field>
+<field name="librettistSort">Dietrich, Fritz</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+heilige+Morgen+Horst+Platen&amp;search_field=search</field>
+</doc>
+</add>

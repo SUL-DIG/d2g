@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128174</field>
+<field name="genre">Operas</field>
+<field name="title">Das Singspiel ohne Titel</field>
+<field name="titleSort">Singspiel ohne Titel</field>
+<field name="composer">Johann Baptist Schenk</field>
+<field name="composerSort">Schenk, Johann Baptist</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Leopold Hiesberger</field>
+<field name="librettistSort">Hiesberger, Leopold</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Singspiel+ohne+Titel+Johann+Baptist+Schenk&amp;search_field=search</field>
+</doc>
+</add>

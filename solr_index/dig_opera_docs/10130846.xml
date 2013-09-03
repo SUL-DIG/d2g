@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130846</field>
+<field name="genre">Operas</field>
+<field name="title">Il geloso imprudente</field>
+<field name="titleSort">geloso imprudente</field>
+<field name="composer">Pietro Terziani</field>
+<field name="composerSort">Terziani, Pietro</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Marcello Bernardini</field>
+<field name="librettistSort">Bernardini, Marcello</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+geloso+imprudente+Pietro+Terziani&amp;search_field=search</field>
+</doc>
+</add>

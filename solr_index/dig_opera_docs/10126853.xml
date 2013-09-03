@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126853</field>
+<field name="genre">Operas</field>
+<field name="title">Lodoiska</field>
+<field name="titleSort">Lodoiska</field>
+<field name="composer">Louis Roth</field>
+<field name="composerSort">Roth, Louis</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Ernst Gschmeidler</field>
+<field name="librettistSort">Gschmeidler, Ernst</field>
+<field name="librettist">Jean-Baptiste Louvet de Couvray</field>
+<field name="librettistSort">Louvet de Couvray, Jean-Baptiste</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lodoiska+Louis+Roth&amp;search_field=search</field>
+</doc>
+</add>

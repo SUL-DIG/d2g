@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102096</field>
+<field name="genre">Operas</field>
+<field name="title">Ottone in Italia</field>
+<field name="titleSort">Ottone in Italia</field>
+<field name="composer">Francesco Maria Bazzani</field>
+<field name="composerSort">Bazzani, Francesco Maria</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ottone+in+Italia+Francesco+Maria+Bazzani&amp;search_field=search</field>
+</doc>
+</add>

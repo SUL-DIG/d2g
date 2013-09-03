@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119686</field>
+<field name="genre">Operas</field>
+<field name="title">Les noces de Jeannette</field>
+<field name="titleSort">noces de Jeannette</field>
+<field name="composer">Victor Massé</field>
+<field name="composerSort">Massé, Victor</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+noces+de+Jeannette+Victor+Massé&amp;search_field=search</field>
+</doc>
+</add>

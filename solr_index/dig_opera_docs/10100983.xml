@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100983</field>
+<field name="genre">Operas</field>
+<field name="title">Casanova's Homecoming</field>
+<field name="titleSort">Casanova's Homecoming</field>
+<field name="composer">Dominick Argento</field>
+<field name="composerSort">Argento, Dominick</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Dominick Argento</field>
+<field name="librettistSort">Argento, Dominick</field>
+<field name="librettist">Giacomo Girolamo Casanova</field>
+<field name="librettistSort">Casanova, Giacomo Girolamo</field>
+<field name="theater">Ordway Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casanova's+Homecoming+Dominick+Argento&amp;search_field=search</field>
+</doc>
+</add>

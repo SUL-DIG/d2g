@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124399</field>
+<field name="genre">Operas</field>
+<field name="title">Le mmbroglie de la notte</field>
+<field name="titleSort">mmbroglie de la notte</field>
+<field name="composer">Nicola Pisano</field>
+<field name="composerSort">Pisano, Nicola</field>
+<field name="year">1720</field>
+<field name="date">1720</field><field name="theater">Collegio de' Nobili</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mmbroglie+de+la+notte+Nicola+Pisano&amp;search_field=search</field>
+</doc>
+</add>

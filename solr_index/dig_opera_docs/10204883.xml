@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204883</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il voto crudele</field>
+		<field name="titleSort">voto crudele</field>
+		<field name="year">1712</field>
+		
+		
+		<field name="date">1712</field>
+		<field name="composer">Antonio Lotti</field>
+		<field name="composerSort">Lotti, Antonio</field>
+		<field name="librettist">Pietro Pariati</field>
+		<field name="librettistSort">Pariati, Pietro</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+voto+crudele+Antonio+Lotti&amp;search_field=search</field>
+	</doc></add>

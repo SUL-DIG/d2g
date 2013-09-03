@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119289</field>
+<field name="genre">Operas</field>
+<field name="title">Catone in Utica</field>
+<field name="titleSort">Catone in Utica</field>
+<field name="composer">Giovanni Maria Marchi</field>
+<field name="composerSort">Marchi, Giovanni Maria</field>
+<field name="year">1733</field>
+<field name="date">1733</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Catone+in+Utica+Giovanni+Maria+Marchi&amp;search_field=search</field>
+</doc>
+</add>

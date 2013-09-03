@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128133</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit des Mönchs</field>
+<field name="titleSort">Hochzeit des Mönchs</field>
+<field name="composer">Alfred Schattmann</field>
+<field name="composerSort">Schattmann, Alfred</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Arthur Ostermann</field>
+<field name="librettistSort">Ostermann, Arthur</field>
+<field name="librettist">Conrad Ferdinand Meyer</field>
+<field name="librettistSort">Meyer, Conrad Ferdinand</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+des+Mönchs+Alfred+Schattmann&amp;search_field=search</field>
+</doc>
+</add>

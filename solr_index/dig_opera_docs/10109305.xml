@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109305</field>
+<field name="genre">Operas</field>
+<field name="title">La locanda dell'amore</field>
+<field name="titleSort">locanda dell'amore</field>
+<field name="composer">Giuseppe Farinelli</field>
+<field name="composerSort">Farinelli, Giuseppe</field>
+<field name="year">1805</field>
+<field name="date">1805</field><field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+locanda+dell'amore+Giuseppe+Farinelli&amp;search_field=search</field>
+</doc>
+</add>

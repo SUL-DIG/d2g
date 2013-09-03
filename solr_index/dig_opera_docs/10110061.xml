@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110061</field>
+<field name="genre">Operas</field>
+<field name="title">Leon und Edrita</field>
+<field name="titleSort">Leon und Edrita</field>
+<field name="composer">Charles Flick-Steger</field>
+<field name="composerSort">Flick-Steger, Charles</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Aline Sanden</field>
+<field name="librettistSort">Sanden, Aline</field>
+<field name="librettist">Franz Grillparzer</field>
+<field name="librettistSort">Grillparzer, Franz</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Krefeld</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leon+und+Edrita+Charles+Flick-Steger&amp;search_field=search</field>
+</doc>
+</add>

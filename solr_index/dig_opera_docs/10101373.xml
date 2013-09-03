@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101373</field>
+<field name="genre">Operas</field>
+<field name="title">Jean de Couvin</field>
+<field name="titleSort">Jean de Couvin</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Népomucène Lemercier</field>
+<field name="librettistSort">Lemercier, Népomucène</field>
+<field name="theater">Château de Chimay</field>
+<field name="city">Chimay</field>
+<field name="region">Hainault</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+de+Couvin+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

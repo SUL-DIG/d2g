@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126764</field>
+<field name="genre">Operas</field>
+<field name="title">Il maestro e la cantante</field>
+<field name="titleSort">maestro e la cantante</field>
+<field name="composer">Lauro Rossi</field>
+<field name="composerSort">Rossi, Lauro</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Lauro Rossi</field>
+<field name="librettistSort">Rossi, Lauro</field>
+<field name="theater">Teatro Nota</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+maestro+e+la+cantante+Lauro+Rossi&amp;search_field=search</field>
+</doc>
+</add>

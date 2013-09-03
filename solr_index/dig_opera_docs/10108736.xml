@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108736</field>
+<field name="genre">Operas</field>
+<field name="title">Frau Holda</field>
+<field name="titleSort">Frau Holda</field>
+<field name="composer">Fritz Max Egger</field>
+<field name="composerSort">Egger, Fritz Max</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Fritz Max Egger</field>
+<field name="librettistSort">Egger, Fritz Max</field>
+<field name="librettist">Rudolf Baumbach</field>
+<field name="librettistSort">Baumbach, Rudolf</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frau+Holda+Fritz+Max+Egger&amp;search_field=search</field>
+</doc>
+</add>

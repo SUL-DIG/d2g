@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101750</field>
+<field name="genre">Operas</field>
+<field name="title">Istoriya Kaya i Gerdï</field>
+<field name="titleSort">Istoriya Kaya i Gerdï</field>
+<field name="composer">Sergey Banevich</field>
+<field name="composerSort">Banevich, Sergey</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Tat'iana Kalinina</field>
+<field name="librettistSort">Kalinina, Tat'iana</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Teatr Opernïy imeni S. M. Kirova</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Istoriya+Kaya+i+Gerdï+Sergey+Banevich&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200133</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Alarich</field>
+		<field name="titleSort">Alarich</field>
+		<field name="year">1881</field>
+		
+		
+		<field name="date">1881</field>
+		<field name="composer">Georg Vierling</field>
+		<field name="composerSort">Vierling, Georg</field>
+		<field name="librettist">Arthur Fitger</field>
+		<field name="librettistSort">Fitger, Arthur</field>
+		
+		
+		
+		
+		
+		<field name="subject">Alaric</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alarich+Georg+Vierling&amp;search_field=search</field>
+	</doc></add>

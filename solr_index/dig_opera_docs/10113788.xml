@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113788</field>
+<field name="genre">Operas</field>
+<field name="title">The O'Flynn</field>
+<field name="titleSort">O'Flynn</field>
+<field name="composer">Franklin Hauser</field>
+<field name="composerSort">Hauser, Franklin</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Brian Hooker</field>
+<field name="librettistSort">Hooker, Brian</field>
+<field name="librettist">Russell Janney</field>
+<field name="librettistSort">Janney, Russell</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+O'Flynn+Franklin+Hauser&amp;search_field=search</field>
+</doc>
+</add>

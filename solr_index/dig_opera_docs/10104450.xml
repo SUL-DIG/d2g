@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104450</field>
+<field name="genre">Operas</field>
+<field name="title">Fedra</field>
+<field name="titleSort">Fedra</field>
+<field name="composer">"John Fane, Lord Burghersh"</field>
+<field name="composerSort">Burghersh, John Fane, Lord</field>
+<field name="year">1824</field>
+<field name="date">1824</field><field name="theater">Burghersh Residence</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fedra+John+Fane,+Lord+Burghersh&amp;search_field=search</field>
+</doc>
+</add>

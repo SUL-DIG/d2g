@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130671</field>
+<field name="genre">Operas</field>
+<field name="title">Un geloso</field>
+<field name="titleSort">geloso</field>
+<field name="composer">Giulio Tartaglione</field>
+<field name="composerSort">Tartaglione, Giulio</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Enrico Cossovich</field>
+<field name="librettistSort">Cossovich, Enrico</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+geloso+Giulio+Tartaglione&amp;search_field=search</field>
+</doc>
+</add>

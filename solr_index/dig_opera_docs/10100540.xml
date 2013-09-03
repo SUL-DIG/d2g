@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100540</field>
+<field name="genre">Operas</field>
+<field name="title">Am grünen Nil</field>
+<field name="titleSort">Am grünen Nil</field>
+<field name="composer">Franz Allmeder</field>
+<field name="composerSort">Allmeder, Franz</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Am+grünen+Nil+Franz+Allmeder&amp;search_field=search</field>
+</doc>
+</add>

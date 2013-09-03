@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202951</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nativité</field>
+		<field name="titleSort">nativité</field>
+		<field name="year">1899</field>
+		<field name="month">December</field>
+		
+		<field name="date">December 1899</field>
+		<field name="composer">R. Doumenest</field>
+		<field name="composerSort">Doumenest, R.</field>
+		<field name="librettist">Amélie Rodriguez</field>
+		<field name="librettistSort">Rodriguez, Amélie</field>
+		
+		<field name="theater">Politeama</field>
+		<field name="city">Salvador</field>
+		<field name="region">Bahia</field>
+		<field name="country">Brazil</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nativité+R.+Doumenest&amp;search_field=search</field>
+	</doc></add>

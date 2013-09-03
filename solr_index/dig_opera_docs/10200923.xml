@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200923</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Debora e Giaele</field>
+		<field name="titleSort">Debora e Giaele</field>
+		<field name="year">1862</field>
+		<field name="month">May</field>
+		<field name="day">11</field>
+		<field name="date">May 11, 1862</field>
+		<field name="composer">Giuseppe Maria Dominicucci</field>
+		<field name="composerSort">Dominicucci, Giuseppe Maria</field>
+		
+		
+		
+		<field name="city">Chieti</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Debora+e+Giaele+Giuseppe+Maria+Dominicucci&amp;search_field=search</field>
+	</doc></add>

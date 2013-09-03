@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126897</field>
+<field name="genre">Operas</field>
+<field name="title">Une femme qui grince</field>
+<field name="titleSort">femme qui grince</field>
+<field name="composer">J. M. Rouvier</field>
+<field name="composerSort">Rouvier, J. M.</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Jules Gandon</field>
+<field name="librettistSort">Gandon, Jules</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+femme+qui+grince+J.+M.+Rouvier&amp;search_field=search</field>
+</doc>
+</add>

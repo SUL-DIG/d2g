@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110665</field>
+<field name="genre">Operas</field>
+<field name="title">La pecorella smarrita</field>
+<field name="titleSort">pecorella smarrita</field>
+<field name="composer">Pier Luigi Furlanetto</field>
+<field name="composerSort">Furlanetto, Pier Luigi</field>
+<field name="year">1877</field>
+<field name="date">1877</field><field name="theater">Convitto Marco Foscarini</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pecorella+smarrita+Pier+Luigi+Furlanetto&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110679</field>
+<field name="genre">Operas</field>
+<field name="title">Judith</field>
+<field name="titleSort">Judith</field>
+<field name="composer">János Fuscz</field>
+<field name="composerSort">Fuscz, János</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Georg Anton Meister</field>
+<field name="librettistSort">Meister, Georg Anton</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+János+Fuscz&amp;search_field=search</field>
+</doc>
+</add>

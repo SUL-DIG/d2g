@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115312</field>
+<field name="genre">Operas</field>
+<field name="title">Myope et presbyte</field>
+<field name="titleSort">Myope et presbyte</field>
+<field name="composer">Marc Joly</field>
+<field name="composerSort">Joly, Marc</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Édouard Doyen</field>
+<field name="librettistSort">Doyen, Édouard</field>
+<field name="librettist">[Alexandre Charles] Armand Chaulieu</field>
+<field name="librettistSort">Chaulieu, Armand [Alexandre Charles]</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myope+et+presbyte+Marc+Joly&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100132</field>
+<field name="genre">Operas</field>
+<field name="title">"Le mal du pays, ou La batelière de Brientz</field>
+<field name="titleSort">"mal du pays, ou La batelière de Brientz"</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Théâtre du Gymnase</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mal+du+pays,+ou+La+batelière+de+Brientz+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

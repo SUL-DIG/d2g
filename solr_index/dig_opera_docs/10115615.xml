@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115615</field>
+<field name="genre">Operas</field>
+<field name="title">Balik gospodarski (The Burgher's Ball)</field>
+<field name="titleSort">Balik gospodarski (The Burgher's Ball)</field>
+<field name="composer">Maciej Kamienski</field>
+<field name="composerSort">Kamienski, Maciej</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Franciszek Zablocki</field>
+<field name="librettistSort">Zablocki, Franciszek</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balik+gospodarski+The+Burgher's+Ball+Maciej+Kamienski&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204540</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tod Jesu</field>
+		<field name="titleSort">Tod Jesu</field>
+		<field name="year">1830</field>
+		
+		
+		<field name="date">1830</field>
+		<field name="composer">Caspar Paul Schobacher</field>
+		<field name="composerSort">Schobacher, Caspar Paul</field>
+		<field name="librettist">Karl Wilhelm Ramler</field>
+		<field name="librettistSort">Ramler, Karl Wilhelm</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Death of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+Jesu+Caspar+Paul+Schobacher&amp;search_field=search</field>
+	</doc></add>

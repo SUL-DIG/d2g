@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106716</field>
+<field name="genre">Operas</field>
+<field name="title">Rosemarie</field>
+<field name="titleSort">Rosemarie</field>
+<field name="composer">Fritz Cortolezis</field>
+<field name="composerSort">Cortolezis, Fritz</field>
+<field name="year">1919</field>
+<field name="date">1919</field><field name="theater">Staatstheater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosemarie+Fritz+Cortolezis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125305</field>
+<field name="genre">Operas</field>
+<field name="title">Sarah's Gift</field>
+<field name="titleSort">Sarah's Gift</field>
+<field name="composer">Frank Pullano</field>
+<field name="composerSort">Pullano, Frank</field>
+<field name="year">1989</field>
+<field name="date">1989</field><field name="theater">State University of New York</field>
+<field name="city">Fredonia</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sarah's+Gift+Frank+Pullano&amp;search_field=search</field>
+</doc>
+</add>

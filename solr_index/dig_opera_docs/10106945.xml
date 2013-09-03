@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106945</field>
+<field name="genre">Operas</field>
+<field name="title">La reine des fates</field>
+<field name="titleSort">reine des fates</field>
+<field name="composer">Alessandro Curmi</field>
+<field name="composerSort">Curmi, Alessandro</field>
+<field name="year">1844</field>
+<field name="date">1844</field><field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+reine+des+fates+Alessandro+Curmi&amp;search_field=search</field>
+</doc>
+</add>

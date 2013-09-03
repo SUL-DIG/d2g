@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119386</field>
+<field name="genre">Operas</field>
+<field name="title">Jacquerie</field>
+<field name="titleSort">Jacquerie</field>
+<field name="composer">Gino Marinuzzi</field>
+<field name="composerSort">Marinuzzi, Gino</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Alberto Donaudy</field>
+<field name="librettistSort">Donaudy, Alberto</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacquerie+Gino+Marinuzzi&amp;search_field=search</field>
+</doc>
+</add>

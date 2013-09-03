@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131132</field>
+<field name="genre">Operas</field>
+<field name="title">Il paradiso e il poeta</field>
+<field name="titleSort">paradiso e il poeta</field>
+<field name="composer">Vieri Tosatti</field>
+<field name="composerSort">Tosatti, Vieri</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Vieri Tosatti</field>
+<field name="librettistSort">Tosatti, Vieri</field>
+<field name="theater">Auditorium della RAI</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+paradiso+e+il+poeta+Vieri+Tosatti&amp;search_field=search</field>
+</doc>
+</add>

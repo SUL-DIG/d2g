@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118665</field>
+<field name="genre">Operas</field>
+<field name="title">Una aventura en París</field>
+<field name="titleSort">aventura en París</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Ramón López Montenegro</field>
+<field name="librettistSort">López Montenegro, Ramón</field>
+<field name="librettist">Ramón Peсa</field>
+<field name="librettistSort">Peсa, Ramón</field>
+<field name="theater">Teatro del Centro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+aventura+en+París+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

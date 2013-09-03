@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112245</field>
+<field name="genre">Operas</field>
+<field name="title">Amore fra gl'incanti</field>
+<field name="titleSort">Amore fra gl'incanti</field>
+<field name="composer">Giacomo Goccini</field>
+<field name="composerSort">Goccini, Giacomo</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Teodoro Mengozzi</field>
+<field name="librettistSort">Mengozzi, Teodoro</field>
+<field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+fra+gl'incanti+Giacomo+Goccini&amp;search_field=search</field>
+</doc>
+</add>

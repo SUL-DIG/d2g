@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113911</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Wiener Märchen</field>
+<field name="titleSort">Wiener Märchen</field>
+<field name="composer">Julius Josef Heller</field>
+<field name="composerSort">Heller, Julius Josef</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Fritz Lunzer</field>
+<field name="librettistSort">Lunzer, Fritz</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Wiener+Märchen+Julius+Josef+Heller&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107018</field>
+<field name="genre">Operas</field>
+<field name="title">Artaserse</field>
+<field name="titleSort">Artaserse</field>
+<field name="composer">Daniel Dal Barba</field>
+<field name="composerSort">Dal Barba, Daniel</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro su la via Nuova</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artaserse+Daniel+Dal+Barba&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102268</field>
+<field name="genre">Operas</field>
+<field name="title">Axel an der Himmelstür</field>
+<field name="titleSort">Axel an der Himmelstür</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Paul Morgan</field>
+<field name="librettistSort">Morgan, Paul</field>
+<field name="librettist">Adolf Schütz</field>
+<field name="librettistSort">Schütz, Adolf</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Axel+an+der+Himmelstür+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

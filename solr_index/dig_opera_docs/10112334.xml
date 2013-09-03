@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112334</field>
+<field name="genre">Operas</field>
+<field name="title">Beatrice Cenci</field>
+<field name="titleSort">Beatrice Cenci</field>
+<field name="composer">Berthold Goldschmidt</field>
+<field name="composerSort">Goldschmidt, Berthold</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Martin Esslin</field>
+<field name="librettistSort">Esslin, Martin</field>
+<field name="librettist">Percy Bysshe Shelley</field>
+<field name="librettistSort">Shelley, Percy Bysshe</field>
+<field name="theater">Queen Elizabeth Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+Cenci+Berthold+Goldschmidt&amp;search_field=search</field>
+</doc>
+</add>

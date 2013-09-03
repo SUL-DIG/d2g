@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129864</field>
+<field name="genre">Operas</field>
+<field name="title">Das Leutenantsliebchen</field>
+<field name="titleSort">Leutenantsliebchen</field>
+<field name="composer">Benno Sternberg</field>
+<field name="composerSort">Sternberg, Benno</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Josef Siener</field>
+<field name="librettistSort">Siener, Josef</field>
+<field name="theater">Metropoltheater</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Leutenantsliebchen+Benno+Sternberg&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100625</field>
+<field name="genre">Operas</field>
+<field name="title">El Christo de la Luz</field>
+<field name="titleSort">Christo de la Luz</field>
+<field name="composer">Vladimir Ambros</field>
+<field name="composerSort">Ambros, Vladimir</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Julius Zeyer</field>
+<field name="librettistSort">Zeyer, Julius</field>
+<field name="theater">Czech Radio</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+Christo+de+la+Luz+Vladimir+Ambros&amp;search_field=search</field>
+</doc>
+</add>

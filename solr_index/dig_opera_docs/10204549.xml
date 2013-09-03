@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204549</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Tomaso Moro</field>
+		<field name="titleSort">Tomaso Moro</field>
+		<field name="year">1720</field>
+		
+		
+		<field name="date">1720</field>
+		<field name="composer">Francesco Onofrio Manfredini</field>
+		<field name="composerSort">Manfredini, Francesco Onofrio</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Thomas More</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">June 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tomaso+Moro+Francesco+Onofrio+Manfredini&amp;search_field=search</field>
+	</doc></add>

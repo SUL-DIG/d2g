@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100513</field>
+<field name="genre">Operas</field>
+<field name="title">Apollo trа le muse in Parnasso</field>
+<field name="titleSort">Apollo trа le muse in Parnasso</field>
+<field name="composer">Bernardo Aliprandi</field>
+<field name="composerSort">Aliprandi, Bernardo</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Perozzo da Perozzi</field>
+<field name="librettistSort">Perozzi, Perozzo da</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Nymphenburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apollo+trа+le+muse+in+Parnasso+Bernardo+Aliprandi&amp;search_field=search</field>
+</doc>
+</add>

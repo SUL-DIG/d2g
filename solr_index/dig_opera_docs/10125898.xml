@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125898</field>
+<field name="genre">Operas</field>
+<field name="title">Semirâma</field>
+<field name="titleSort">Semirâma</field>
+<field name="composer">Ottorino Respighi</field>
+<field name="composerSort">Respighi, Ottorino</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Alessandro Cerè</field>
+<field name="librettistSort">Cerè, Alessandro</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Semirâma+Ottorino+Respighi&amp;search_field=search</field>
+</doc>
+</add>

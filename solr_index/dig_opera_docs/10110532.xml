@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110532</field>
+<field name="genre">Operas</field>
+<field name="title">La figlia del deserto</field>
+<field name="titleSort">figlia del deserto</field>
+<field name="composer">José Frexas</field>
+<field name="composerSort">Frexas, José</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+del+deserto+José+Frexas&amp;search_field=search</field>
+</doc>
+</add>

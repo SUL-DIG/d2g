@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117444</field>
+<field name="genre">Operas</field>
+<field name="title">Djalma</field>
+<field name="titleSort">Djalma</field>
+<field name="composer">Germain Laurens</field>
+<field name="composerSort">Laurens, Germain</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Amédée Burion</field>
+<field name="librettistSort">Burion, Amédée</field>
+<field name="librettist">G. Lelio</field>
+<field name="librettistSort">Lelio, G.</field>
+<field name="theater">Théâtre du Château d'eau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Djalma+Germain+Laurens&amp;search_field=search</field>
+</doc>
+</add>

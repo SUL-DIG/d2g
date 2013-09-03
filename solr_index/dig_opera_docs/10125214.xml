@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125214</field>
+<field name="genre">Operas</field>
+<field name="title">Del Tarquinio Collatino</field>
+<field name="titleSort">Del Tarquinio Collatino</field>
+<field name="composer">Giacomo Puccini (1)</field>
+<field name="composerSort">Puccini (1), Giacomo</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Michele Antonio Bianchi</field>
+<field name="librettistSort">Bianchi, Michele Antonio</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Del+Tarquinio+Collatino+Giacomo+Puccini+-1&amp;search_field=search</field>
+</doc>
+</add>

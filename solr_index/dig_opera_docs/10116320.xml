@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116320</field>
+<field name="genre">Operas</field>
+<field name="title">Kostana</field>
+<field name="titleSort">Kostana</field>
+<field name="composer">Petar Konjovic</field>
+<field name="composerSort">Konjovic, Petar</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Borisav Stankovic</field>
+<field name="librettistSort">Stankovic, Borisav</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kostana+Petar+Konjovic&amp;search_field=search</field>
+</doc>
+</add>

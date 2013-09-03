@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116667</field>
+<field name="genre">Operas</field>
+<field name="title">Der wiederkehrenden Phöbus</field>
+<field name="titleSort">wiederkehrenden Phöbus</field>
+<field name="composer">Johann Philipp Krieger</field>
+<field name="composerSort">Krieger, Johann Philipp</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+wiederkehrenden+Phöbus+Johann+Philipp+Krieger&amp;search_field=search</field>
+</doc>
+</add>

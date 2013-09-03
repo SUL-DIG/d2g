@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203631</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Rita celiens (Morning Hours)</field>
+		<field name="titleSort">Rita celiens (Morning Hours)</field>
+		<field name="year">1977</field>
+		
+		
+		<field name="date">1977</field>
+		<field name="composer">Imants Kalnins</field>
+		<field name="composerSort">Kalnins, Imants</field>
+		<field name="librettist">Andrejs Upitis</field>
+		<field name="librettistSort">Upitis, Andrejs</field>
+		
+		<field name="theater">Latvian State Symphony Orchestra</field>
+		<field name="city">Riga</field>
+		
+		<field name="country">Latvia</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rita+celiens+(Morning+Hours)+Imants+Kalnins&amp;search_field=search</field>
+	</doc></add>

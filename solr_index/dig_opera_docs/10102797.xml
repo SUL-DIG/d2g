@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102797</field>
+<field name="genre">Operas</field>
+<field name="title">L'ermite des batignolles</field>
+<field name="titleSort">ermite des batignolles</field>
+<field name="composer">Paul Bertrie</field>
+<field name="composerSort">Bertrie, Paul</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Paul Roc</field>
+<field name="librettistSort">Roc, Paul</field>
+<field name="librettist">Giorgio Chazol</field>
+<field name="librettistSort">Chazol, Giorgio</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ermite+des+batignolles+Paul+Bertrie&amp;search_field=search</field>
+</doc>
+</add>

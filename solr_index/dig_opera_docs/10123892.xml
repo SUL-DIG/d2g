@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123892</field>
+<field name="genre">Operas</field>
+<field name="title">Ulkosaarelaisia (The Outer Islanders)</field>
+<field name="titleSort">Ulkosaarelaisia (The Outer Islanders)</field>
+<field name="composer">Väinö Pesola</field>
+<field name="composerSort">Pesola, Väinö</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Antero Kajanto</field>
+<field name="librettistSort">Kajanto, Antero</field>
+<field name="librettist">[Karl Gustaf Larson] Larin-Kyösti</field>
+<field name="librettistSort">Larin-Kyösti, [Karl Gustaf Larson]</field>
+<field name="theater">Aleksanterinteatteri</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulkosaarelaisia+The+Outer+Islanders+Väinö+Pesola&amp;search_field=search</field>
+</doc>
+</add>

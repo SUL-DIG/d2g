@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113580</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi Pan</field>
+<field name="titleSort">roi Pan</field>
+<field name="composer">Charles Haring</field>
+<field name="composerSort">Haring, Charles</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">__ Marcels</field>
+<field name="librettistSort">Marcels, __</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+Pan+Charles+Haring&amp;search_field=search</field>
+</doc>
+</add>

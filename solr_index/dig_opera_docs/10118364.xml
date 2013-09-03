@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118364</field>
+<field name="genre">Operas</field>
+<field name="title">Lausus et Lydie</field>
+<field name="titleSort">Lausus et Lydie</field>
+<field name="composer">Guillon de Loise</field>
+<field name="composerSort">Loise, Guillon de</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Pierre-Nicolas André-Murville</field>
+<field name="librettistSort">André-Murville, Pierre-Nicolas</field>
+<field name="theater">Hôtel de Ville</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lausus+et+Lydie+Guillon+de+Loise&amp;search_field=search</field>
+</doc>
+</add>

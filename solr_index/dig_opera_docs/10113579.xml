@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113579</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi de Cracovie</field>
+<field name="titleSort">roi de Cracovie</field>
+<field name="composer">Charles Haring</field>
+<field name="composerSort">Haring, Charles</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Ernest Laroche</field>
+<field name="librettistSort">Laroche, Ernest</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+de+Cracovie+Charles+Haring&amp;search_field=search</field>
+</doc>
+</add>

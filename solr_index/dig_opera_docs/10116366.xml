@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116366</field>
+<field name="genre">Operas</field>
+<field name="title">The Brick House</field>
+<field name="titleSort">Brick House</field>
+<field name="composer">Philip Jeffrey Koplow</field>
+<field name="composerSort">Koplow, Philip Jeffrey</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">William Evans</field>
+<field name="librettistSort">Evans, William</field>
+<field name="theater">Kent State University</field>
+<field name="city">Kent</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Brick+House+Philip+Jeffrey+Koplow&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114362</field>
+<field name="genre">Operas</field>
+<field name="title">Pouche</field>
+<field name="titleSort">Pouche</field>
+<field name="composer">Henri Hirschmann</field>
+<field name="composerSort">Hirschmann, Henri</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Alphonse Franck</field>
+<field name="librettistSort">Franck, Alphonse</field>
+<field name="theater">Théâtre de l'Étoile</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pouche+Henri+Hirschmann&amp;search_field=search</field>
+</doc>
+</add>

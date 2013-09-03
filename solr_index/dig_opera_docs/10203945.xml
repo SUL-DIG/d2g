@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203945</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sanctus Franciscus</field>
+		<field name="titleSort">Sanctus Franciscus</field>
+		<field name="year">1901</field>
+		<field name="month">February</field>
+		<field name="day">16</field>
+		<field name="date">February 16, 1901</field>
+		<field name="composer">Paul Hartmann von Aue der Lan-Hochbrunn</field>
+		<field name="composerSort">Hartmann von Aue der Lan-Hochbrunn, Paul</field>
+		
+		
+		
+		<field name="city">St. Petersburg</field>
+		
+		<field name="country">Russia</field>
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sanctus+Franciscus+Paul+Hartmann+von+Aue+der+Lan-Hochbrunn&amp;search_field=search</field>
+	</doc></add>

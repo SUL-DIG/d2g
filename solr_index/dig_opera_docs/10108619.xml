@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108619</field>
+<field name="genre">Operas</field>
+<field name="title">Krov' naroda (The Blood of the People)</field>
+<field name="titleSort">Krov' naroda (The Blood of the People)</field>
+<field name="composer">Ivan Ivanovich Dzerzhinsky</field>
+<field name="composerSort">Dzerzhinsky, Ivan Ivanovich</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Ivan Ivanovich Dzerzhinsky</field>
+<field name="librettistSort">Dzerzhinsky, Ivan Ivanovich</field>
+<field name="librettist">Yevgeny Rïss</field>
+<field name="librettistSort">Rïss, Yevgeny</field>
+<field name="theater">City Dramatic Theater</field>
+<field name="city">Orenburg</field>
+<field name="region">Orenburg Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krov'+naroda+The+Blood+of+the+People+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
+</doc>
+</add>

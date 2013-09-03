@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105629</field>
+<field name="genre">Operas</field>
+<field name="title">Manque de chance</field>
+<field name="titleSort">Manque de chance</field>
+<field name="composer">Jacques Charpentier</field>
+<field name="composerSort">Charpentier, Jacques</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Pierre Gripari</field>
+<field name="librettistSort">Gripari, Pierre</field>
+
+<field name="city">Montmorency</field>
+<field name="region">Val-d'Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manque+de+chance+Jacques+Charpentier&amp;search_field=search</field>
+</doc>
+</add>

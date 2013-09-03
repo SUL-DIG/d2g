@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204775</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il verbo eterno e la religione</field>
+		<field name="titleSort">verbo eterno e la religione</field>
+		<field name="year">1741</field>
+		
+		
+		<field name="date">1741</field>
+		<field name="composer">Leonardo Leo</field>
+		<field name="composerSort">Leo, Leonardo</field>
+		<field name="librettist">Cesare Taviani</field>
+		<field name="librettistSort">Taviani, Cesare</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+verbo+eterno+e+la+religione+Leonardo+Leo&amp;search_field=search</field>
+	</doc></add>

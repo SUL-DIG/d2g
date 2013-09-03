@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204882</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il voto</field>
+		<field name="titleSort">voto</field>
+		<field name="year">1853</field>
+		<field name="month">June</field>
+		<field name="day">14</field>
+		<field name="date">June 14, 1853</field>
+		<field name="composer">Errico Sannoner</field>
+		<field name="composerSort">Sannoner, Errico</field>
+		<field name="librettist">Giuseppe Dazio</field>
+		<field name="librettistSort">Dazio, Giuseppe</field>
+		
+		
+		<field name="city">San Vito</field>
+		<field name="region">Sardegna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+voto+Errico+Sannoner&amp;search_field=search</field>
+	</doc></add>

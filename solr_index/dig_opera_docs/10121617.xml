@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121617</field>
+<field name="genre">Operas</field>
+<field name="title">Das verfehlte Rendezvous</field>
+<field name="titleSort">verfehlte Rendezvous</field>
+<field name="composer">Wenzel Müller</field>
+<field name="composerSort">Müller, Wenzel</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Ludwig Zehenmark</field>
+<field name="librettistSort">Zehenmark, Ludwig</field>
+<field name="theater">Krautmarkt</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+verfehlte+Rendezvous+Wenzel+Müller&amp;search_field=search</field>
+</doc>
+</add>

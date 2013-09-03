@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131035</field>
+<field name="genre">Operas</field>
+<field name="title">"Yam, ili Pochtovaya stantsiya</field>
+<field name="titleSort">"Yam, ili Pochtovaya stantsiya"</field>
+<field name="composer">Aleksey Nikolayevich Titov</field>
+<field name="composerSort">Titov, Aleksey Nikolayevich</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Aleksandr Yakovlevich Knyazhnin</field>
+<field name="librettistSort">Knyazhnin, Aleksandr Yakovlevich</field>
+<field name="theater">Malïy Derevyannïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yam,+ili+Pochtovaya+stantsiya+Aleksey+Nikolayevich+Titov&amp;search_field=search</field>
+</doc>
+</add>

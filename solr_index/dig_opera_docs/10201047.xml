@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201047</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il dono della vita eterna</field>
+		<field name="titleSort">dono della vita eterna</field>
+		<field name="year">1686</field>
+		<field name="month">April</field>
+		<field name="day">12</field>
+		<field name="date">April 12, 1686</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Nicolò Minato</field>
+		<field name="librettistSort">Minato, Nicolò</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+dono+della+vita+eterna+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

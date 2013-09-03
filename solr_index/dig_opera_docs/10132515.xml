@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132515</field>
+<field name="genre">Operas</field>
+<field name="title">Voice le jour</field>
+<field name="titleSort">Voice le jour</field>
+<field name="composer">Jules Ward</field>
+<field name="composerSort">Ward, Jules</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Léon Halévy</field>
+<field name="librettistSort">Halévy, Léon</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voice+le+jour+Jules+Ward&amp;search_field=search</field>
+</doc>
+</add>

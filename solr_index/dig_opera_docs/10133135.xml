@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133135</field>
+<field name="genre">Operas</field>
+<field name="title">Cenerentola</field>
+<field name="titleSort">Cenerentola</field>
+<field name="composer">Ermanno Wolf-Ferrari</field>
+<field name="composerSort">Wolf-Ferrari, Ermanno</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Maria Pezzé-Pascolato</field>
+<field name="librettistSort">Pezzé-Pascolato, Maria</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cenerentola+Ermanno+Wolf-Ferrari&amp;search_field=search</field>
+</doc>
+</add>

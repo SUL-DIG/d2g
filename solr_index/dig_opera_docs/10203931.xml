@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203931</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Tommaso apostolo</field>
+		<field name="titleSort">San Tommaso apostolo</field>
+		
+		
+		
+		
+		<field name="composer">Pasquale Antonio Soffi</field>
+		<field name="composerSort">Soffi, Pasquale Antonio</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Thomas the Apostle</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">3</field>
+		<field name="feastDate">July 3</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Tommaso+apostolo+Pasquale+Antonio+Soffi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102946</field>
+<field name="genre">Operas</field>
+<field name="title">Askeladden (Numbskull Jack)</field>
+<field name="titleSort">Askeladden (Numbskull Jack)</field>
+<field name="composer">Antonio Bibalo</field>
+<field name="composerSort">Bibalo, Antonio</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Hartvig Kiran</field>
+<field name="librettistSort">Kiran, Hartvig</field>
+<field name="librettist">Peter Christian Asbjørnsen</field>
+<field name="librettistSort">Asbjørnsen, Peter Christian</field>
+<field name="theater">NRK Radio (Norsk Rikskringkasting)</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Askeladden+Numbskull+Jack+Antonio+Bibalo&amp;search_field=search</field>
+</doc>
+</add>

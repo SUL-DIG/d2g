@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117110</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi Dagobert</field>
+<field name="titleSort">roi Dagobert</field>
+<field name="composer">Marius Lambert</field>
+<field name="composerSort">Lambert, Marius</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Octave Pradels</field>
+<field name="librettistSort">Pradels, Octave</field>
+<field name="librettist">Léon Raboteau</field>
+<field name="librettistSort">Raboteau, Léon</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+Dagobert+Marius+Lambert&amp;search_field=search</field>
+</doc>
+</add>

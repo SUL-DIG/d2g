@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118899</field>
+<field name="genre">Operas</field>
+<field name="title">The Gift of the Magi</field>
+<field name="titleSort">Gift of the Magi</field>
+<field name="composer">Ruth Taylor Magney</field>
+<field name="composerSort">Magney, Ruth Taylor</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Ruth Taylor Magney</field>
+<field name="librettistSort">Magney, Ruth Taylor</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistSort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Minnesota Federation of Music Clubs</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Gift+of+the+Magi+Ruth+Taylor+Magney&amp;search_field=search</field>
+</doc>
+</add>

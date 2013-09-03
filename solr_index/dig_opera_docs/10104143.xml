@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104143</field>
+<field name="genre">Operas</field>
+<field name="title">Kuthara</field>
+<field name="titleSort">Kuthara</field>
+<field name="composer">Radie Britain</field>
+<field name="composerSort">Britain, Radie</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Lester Luther</field>
+<field name="librettistSort">Luther, Lester</field>
+<field name="theater">Mount Saint Mary's College</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuthara+Radie+Britain&amp;search_field=search</field>
+</doc>
+</add>

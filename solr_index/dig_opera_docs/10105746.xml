@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105746</field>
+<field name="genre">Operas</field>
+<field name="title">Argenide</field>
+<field name="titleSort">Argenide</field>
+<field name="composer">Pietro Chiarini</field>
+<field name="composerSort">Chiarini, Pietro</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Alvise Giusti</field>
+<field name="librettistSort">Giusti, Alvise</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Argenide+Pietro+Chiarini&amp;search_field=search</field>
+</doc>
+</add>

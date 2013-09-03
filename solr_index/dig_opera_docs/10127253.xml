@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127253</field>
+<field name="genre">Operas</field>
+<field name="title">Nicoraste</field>
+<field name="titleSort">Nicoraste</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Bartolomeo Vitturi</field>
+<field name="librettistSort">Vitturi, Bartolomeo</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicoraste+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129699</field>
+<field name="genre">Operas</field>
+<field name="title">The Travelling Companion</field>
+<field name="titleSort">Travelling Companion</field>
+<field name="composer">Charles Villiers Stanford</field>
+<field name="composerSort">Stanford, Charles Villiers</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Henry Newbolt</field>
+<field name="librettistSort">Newbolt, Henry</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">David Lewis Theatre</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Travelling+Companion+Charles+Villiers+Stanford&amp;search_field=search</field>
+</doc>
+</add>

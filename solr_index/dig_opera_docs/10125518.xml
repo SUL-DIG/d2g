@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125518</field>
+<field name="genre">Operas</field>
+<field name="title">Die rote Manuela</field>
+<field name="titleSort">rote Manuela</field>
+<field name="composer">Robert Rakowianu</field>
+<field name="composerSort">Rakowianu, Robert</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+rote+Manuela+Robert+Rakowianu&amp;search_field=search</field>
+</doc>
+</add>

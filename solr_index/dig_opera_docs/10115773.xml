@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115773</field>
+<field name="genre">Operas</field>
+<field name="title">Mardi Gras</field>
+<field name="titleSort">Mardi Gras</field>
+<field name="composer">Mildred Kayden</field>
+<field name="composerSort">Kayden, Mildred</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Mildred Kayden</field>
+<field name="librettistSort">Kayden, Mildred</field>
+<field name="theater">WNYC Radio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mardi+Gras+Mildred+Kayden&amp;search_field=search</field>
+</doc>
+</add>

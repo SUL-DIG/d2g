@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111984</field>
+<field name="genre">Operas</field>
+<field name="title">Caio Ostilio</field>
+<field name="titleSort">Caio Ostilio</field>
+<field name="composer">Giuseppe Giordani</field>
+<field name="composerSort">Giordani, Giuseppe</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Eustachio Manfredi</field>
+<field name="librettistSort">Manfredi, Eustachio</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Faenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caio+Ostilio+Giuseppe+Giordani&amp;search_field=search</field>
+</doc>
+</add>

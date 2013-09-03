@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104128</field>
+<field name="genre">Operas</field>
+<field name="title">Das Band der beständigen Freundschaft</field>
+<field name="titleSort">Band der beständigen Freundschaft</field>
+<field name="composer">Wolfgang Carl Briegel</field>
+<field name="composerSort">Briegel, Wolfgang Carl</field>
+<field name="year">1683</field>
+<field name="date">1683</field><field name="theater">Komödienhaus</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Band+der+beständigen+Freundschaft+Wolfgang+Carl+Briegel&amp;search_field=search</field>
+</doc>
+</add>

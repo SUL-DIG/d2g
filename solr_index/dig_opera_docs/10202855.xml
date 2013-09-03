@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202855</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mosè liberato dal Nilo</field>
+		<field name="titleSort">Mosè liberato dal Nilo</field>
+		<field name="year">1725</field>
+		<field name="month">March</field>
+		<field name="day">1</field>
+		<field name="date">March 1, 1725</field>
+		<field name="composer">Giuseppe Porsile</field>
+		<field name="composerSort">Porsile, Giuseppe</field>
+		
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Moses in the Nile</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosè+liberato+dal+Nilo+Giuseppe+Porsile&amp;search_field=search</field>
+	</doc></add>

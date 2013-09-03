@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117696</field>
+<field name="genre">Operas</field>
+<field name="title">"Ziste et Zeste, ou Les importuns</field>
+<field name="titleSort">"Ziste et Zeste, ou Les importuns"</field>
+<field name="composer">François-Pierre-Auguste Léger</field>
+<field name="composerSort">Léger, François-Pierre-Auguste</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">François-Pierre-Auguste Léger</field>
+<field name="librettistSort">Léger, François-Pierre-Auguste</field>
+<field name="librettist">Jean François Cailhava d'Estandoux</field>
+<field name="librettistSort">Cailhava d'Estandoux, Jean François</field>
+<field name="theater">Théâtre du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ziste+et+Zeste,+ou+Les+importuns+François-Pierre-Auguste+Léger&amp;search_field=search</field>
+</doc>
+</add>

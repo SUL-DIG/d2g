@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114345</field>
+<field name="genre">Operas</field>
+<field name="title">Der Fürst von Pappenheim</field>
+<field name="titleSort">Fürst von Pappenheim</field>
+<field name="composer">Hugo Hirsch</field>
+<field name="composerSort">Hirsch, Hugo</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Franz Arnold</field>
+<field name="librettistSort">Arnold, Franz</field>
+<field name="librettist">Ernst Bach</field>
+<field name="librettistSort">Bach, Ernst</field>
+<field name="theater">Deutsches Künstlertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Fürst+von+Pappenheim+Hugo+Hirsch&amp;search_field=search</field>
+</doc>
+</add>

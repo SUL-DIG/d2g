@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125012</field>
+<field name="genre">Operas</field>
+<field name="title">Le marche d'amour</field>
+<field name="titleSort">marche d'amour</field>
+<field name="composer">Léo Pouget</field>
+<field name="composerSort">Pouget, Léo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Yoris de Hansewick</field>
+<field name="librettistSort">Hansewick, Yoris de</field>
+<field name="librettist">Pierre de Wattyne</field>
+<field name="librettistSort">Wattyne, Pierre de</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+marche+d'amour+Léo+Pouget&amp;search_field=search</field>
+</doc>
+</add>

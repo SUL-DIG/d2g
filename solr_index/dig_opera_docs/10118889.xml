@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118889</field>
+<field name="genre">Operas</field>
+<field name="title">Plenilunio Alpino</field>
+<field name="titleSort">Plenilunio Alpino</field>
+<field name="composer">Enrico Magnani</field>
+<field name="composerSort">Magnani, Enrico</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Vettore Vettori</field>
+<field name="librettistSort">Vettori, Vettore</field>
+<field name="theater">Liceo Musicale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plenilunio+Alpino+Enrico+Magnani&amp;search_field=search</field>
+</doc>
+</add>

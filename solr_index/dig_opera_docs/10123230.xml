@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123230</field>
+<field name="genre">Operas</field>
+<field name="title">L'atrabilare</field>
+<field name="titleSort">atrabilare</field>
+<field name="composer">Salvatore Pappalardo</field>
+<field name="composerSort">Pappalardo, Salvatore</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Leone Emanuele Bardare</field>
+<field name="librettistSort">Bardare, Leone Emanuele</field>
+<field name="librettist">Gustavo Pouchain</field>
+<field name="librettistSort">Pouchain, Gustavo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'atrabilare+Salvatore+Pappalardo&amp;search_field=search</field>
+</doc>
+</add>

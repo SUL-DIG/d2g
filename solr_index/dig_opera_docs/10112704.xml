@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112704</field>
+<field name="genre">Operas</field>
+<field name="title">Anacréon chez Polycrate</field>
+<field name="titleSort">Anacréon chez Polycrate</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Jean-Henry Guy</field>
+<field name="librettistSort">Guy, Jean-Henry</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anacréon+chez+Polycrate+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

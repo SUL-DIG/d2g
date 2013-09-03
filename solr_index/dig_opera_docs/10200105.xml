@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200105</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La adoración de los Santos Reyes</field>
+		<field name="titleSort">adoración de los Santos Reyes</field>
+		<field name="year">1780</field>
+		
+		
+		<field name="date">1780</field>
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">The Adoration of the Magi</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">January 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+adoración+de+los+Santos+Reyes+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

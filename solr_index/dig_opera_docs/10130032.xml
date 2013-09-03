@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130032</field>
+<field name="genre">Operas</field>
+<field name="title">Zum goldenen Halbmond (Zum goldenen Kipferl)</field>
+<field name="titleSort">Zum goldenen Halbmond (Zum goldenen Kipferl)</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Fritz Koselka</field>
+<field name="librettistSort">Koselka, Fritz</field>
+<field name="theater">Grosses Haus am Domhof</field>
+<field name="city">Osnabrück</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zum+goldenen+Halbmond+Zum+goldenen+Kipferl+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

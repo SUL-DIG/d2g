@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114708</field>
+<field name="genre">Operas</field>
+<field name="title">David Sasunskiy (David of Sasun)</field>
+<field name="titleSort">David Sasunskiy (David of Sasun)</field>
+<field name="composer">Edgar Sergeyi Hovhanesyan</field>
+<field name="composerSort">Hovhanesyan, Edgar Sergeyi</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Vladimir Galstyan</field>
+<field name="librettistSort">Galstyan, Vladimir</field>
+<field name="theater">Spendiaryani Anvan Operayi ev Baleti T'atron</field>
+<field name="city">Erevan</field>
+
+<field name="country">Armenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Sasunskiy+David+of+Sasun+Edgar+Sergeyi+Hovhanesyan&amp;search_field=search</field>
+</doc>
+</add>

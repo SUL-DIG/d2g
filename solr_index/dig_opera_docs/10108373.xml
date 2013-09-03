@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108373</field>
+<field name="genre">Operas</field>
+<field name="title">La noce écossaise</field>
+<field name="titleSort">noce écossaise</field>
+<field name="composer">Gustave Dugazon</field>
+<field name="composerSort">Dugazon, Gustave</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Théophile Marion Dumersan</field>
+<field name="librettistSort">Dumersan, Théophile Marion</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+noce+écossaise+Gustave+Dugazon&amp;search_field=search</field>
+</doc>
+</add>

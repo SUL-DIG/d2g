@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101001</field>
+<field name="genre">Operas</field>
+<field name="title">Amor tra nemici</field>
+<field name="titleSort">Amor tra nemici</field>
+<field name="composer">Attilio Ariosti</field>
+<field name="composerSort">Ariosti, Attilio</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Pietro Antonio Bernardoni</field>
+<field name="librettistSort">Bernardoni, Pietro Antonio</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+tra+nemici+Attilio+Ariosti&amp;search_field=search</field>
+</doc>
+</add>

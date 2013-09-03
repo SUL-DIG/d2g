@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107608</field>
+<field name="genre">Operas</field>
+<field name="title">"Ulrike, een antieke tragedie</field>
+<field name="titleSort">"Ulrike, een antieke tragedie"</field>
+<field name="composer">Raoul De Smet</field>
+<field name="composerSort">Smet, Raoul De</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Leo Geerts</field>
+<field name="librettistSort">Geerts, Leo</field>
+
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulrike,+een+antieke+tragedie+Raoul+De+Smet&amp;search_field=search</field>
+</doc>
+</add>

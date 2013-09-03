@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112133</field>
+<field name="genre">Operas</field>
+<field name="title">Madrigal Opera</field>
+<field name="titleSort">Madrigal Opera</field>
+<field name="composer">Philip Glass</field>
+<field name="composerSort">Glass, Philip</field>
+<field name="year">1980</field>
+<field name="date">1980</field><field name="theater">Circus Carré</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madrigal+Opera+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

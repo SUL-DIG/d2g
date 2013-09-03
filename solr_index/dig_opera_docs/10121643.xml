@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121643</field>
+<field name="genre">Operas</field>
+<field name="title">Velikaya druzhba (The Great Friendship)</field>
+<field name="titleSort">Velikaya druzhba (The Great Friendship)</field>
+<field name="composer">Vano Il'ich Muradeli</field>
+<field name="composerSort">Muradeli, Vano Il'ich</field>
+<field name="year">1947</field>
+<field name="date">1947</field>
+<field name="librettist">Georgy Davidovich Mdivani</field>
+<field name="librettistSort">Mdivani, Georgy Davidovich</field>
+<field name="theater">Teatr Opery ta Baletu</field>
+<field name="city">Donets'k</field>
+<field name="region">Donets'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Velikaya+druzhba+The+Great+Friendship+Vano+Il'ich+Muradeli&amp;search_field=search</field>
+</doc>
+</add>

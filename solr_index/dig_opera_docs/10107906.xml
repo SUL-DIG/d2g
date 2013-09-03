@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107906</field>
+<field name="genre">Operas</field>
+<field name="title">L'ereditaria</field>
+<field name="titleSort">ereditaria</field>
+<field name="composer">Cesare Dominicetti</field>
+<field name="composerSort">Dominicetti, Cesare</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ereditaria+Cesare+Dominicetti&amp;search_field=search</field>
+</doc>
+</add>

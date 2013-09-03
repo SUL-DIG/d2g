@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111004</field>
+<field name="genre">Operas</field>
+<field name="title">"Hans, le joueur de flыte</field>
+<field name="titleSort">"Hans, le joueur de flыte"</field>
+<field name="composer">Louis Ganne</field>
+<field name="composerSort">Ganne, Louis</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Maurice Vaucaire</field>
+<field name="librettistSort">Vaucaire, Maurice</field>
+<field name="librettist">Georges Mitchell</field>
+<field name="librettistSort">Mitchell, Georges</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans,+le+joueur+de+flыte+Louis+Ganne&amp;search_field=search</field>
+</doc>
+</add>

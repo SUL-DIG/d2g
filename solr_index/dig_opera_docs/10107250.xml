@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107250</field>
+<field name="genre">Operas</field>
+<field name="title">Un cappello di paglia di Firenze</field>
+<field name="titleSort">cappello di paglia di Firenze</field>
+<field name="composer">Arturo De Cecco</field>
+<field name="composerSort">Cecco, Arturo De</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Eugène Labiche</field>
+<field name="librettistSort">Labiche, Eugène</field>
+<field name="librettist">[Marc-Antoine-Amédée Michel] Marc-Michel</field>
+<field name="librettistSort">Marc-Michel, [Marc-Antoine-Amédée Michel]</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+cappello+di+paglia+di+Firenze+Arturo+De+Cecco&amp;search_field=search</field>
+</doc>
+</add>

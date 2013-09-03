@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127729</field>
+<field name="genre">Operas</field>
+<field name="title">Armida e Rinaldo</field>
+<field name="titleSort">Armida e Rinaldo</field>
+<field name="composer">Giuseppe Sarti</field>
+<field name="composerSort">Sarti, Giuseppe</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Marco Coltellini</field>
+<field name="librettistSort">Coltellini, Marco</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armida+e+Rinaldo+Giuseppe+Sarti&amp;search_field=search</field>
+</doc>
+</add>

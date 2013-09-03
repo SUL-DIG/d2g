@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103961</field>
+<field name="genre">Operas</field>
+<field name="title">Caligola</field>
+<field name="titleSort">Caligola</field>
+<field name="composer">Gaetano Braga</field>
+<field name="composerSort">Braga, Gaetano</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caligola+Gaetano+Braga&amp;search_field=search</field>
+</doc>
+</add>

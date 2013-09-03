@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118106</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kampf mit dem Fürsten der Finsternis</field>
+<field name="titleSort">Kampf mit dem Fürsten der Finsternis</field>
+<field name="composer">Johann Georg Lickl</field>
+<field name="composerSort">Lickl, Johann Georg</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Joachim Perinet</field>
+<field name="librettistSort">Perinet, Joachim</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kampf+mit+dem+Fürsten+der+Finsternis+Johann+Georg+Lickl&amp;search_field=search</field>
+</doc>
+</add>

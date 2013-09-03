@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123645</field>
+<field name="genre">Operas</field>
+<field name="title">"Le progrès artistique, ou Monseigneur Scapin</field>
+<field name="titleSort">"progrès artistique, ou Monseigneur Scapin"</field>
+<field name="composer">Jean-Grégoire Pénavaire</field>
+<field name="composerSort">Pénavaire, Jean-Grégoire</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Lionel Bonnemère</field>
+<field name="librettistSort">Bonnemère, Lionel</field>
+<field name="librettist">Théodore-François Moreau-Santi</field>
+<field name="librettistSort">Moreau-Santi, Théodore-François</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+progrès+artistique,+ou+Monseigneur+Scapin+Jean-Grégoire+Pénavaire&amp;search_field=search</field>
+</doc>
+</add>

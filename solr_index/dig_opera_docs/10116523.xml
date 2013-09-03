@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116523</field>
+<field name="genre">Operas</field>
+<field name="title">Cefalo e Procri</field>
+<field name="titleSort">Cefalo e Procri</field>
+<field name="composer">Ernst Krenek</field>
+<field name="composerSort">Krenek, Ernst</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Rinaldo Küfferle</field>
+<field name="librettistSort">Küfferle, Rinaldo</field>
+<field name="theater">Teatro Goldoni</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cefalo+e+Procri+Ernst+Krenek&amp;search_field=search</field>
+</doc>
+</add>

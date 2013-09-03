@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110374</field>
+<field name="genre">Operas</field>
+<field name="title">Le contrat de mariage</field>
+<field name="titleSort">contrat de mariage</field>
+<field name="composer">__ Francheville</field>
+<field name="composerSort">Francheville, __</field>
+<field name="year">1797</field>
+<field name="date">1797</field><field name="theater">Théâtre Lazzari</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contrat+de+mariage+__+Francheville&amp;search_field=search</field>
+</doc>
+</add>

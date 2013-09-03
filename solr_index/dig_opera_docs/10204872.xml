@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204872</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Völker, Thronen, Länder, Staaten</field>
+		<field name="titleSort">Völker, Thronen, Länder, Staaten</field>
+		<field name="year">1737</field>
+		<field name="month">August</field>
+		<field name="day">29</field>
+		<field name="date">August 29, 1737</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Joachim Johann Daniel Zimmermann</field>
+		<field name="librettistSort">Zimmermann, Joachim Johann</field>
+		
+		<field name="theater">Kapitänsmusik</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Völker,+Thronen,+Länder,+Staaten+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

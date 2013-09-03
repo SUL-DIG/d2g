@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127634</field>
+<field name="genre">Operas</field>
+<field name="title">Il re pastore</field>
+<field name="titleSort">re pastore</field>
+<field name="composer">Luciano Xavier Santos</field>
+<field name="composerSort">Santos, Luciano Xavier</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+re+pastore+Luciano+Xavier+Santos&amp;search_field=search</field>
+</doc>
+</add>

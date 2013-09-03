@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203024</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">O Seele, deren Schnen</field>
+		<field name="titleSort">O Seele, deren Schnen</field>
+		<field name="year">1764</field>
+		
+		
+		<field name="date">1764</field>
+		<field name="composer">Johann Ernst Bach</field>
+		<field name="composerSort">Bach, Johann Ernst</field>
+		
+		
+		
+		<field name="city">Eisenach</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+Seele,+deren+Schnen+Johann+Ernst+Bach&amp;search_field=search</field>
+	</doc></add>

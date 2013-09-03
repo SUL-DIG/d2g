@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114961</field>
+<field name="genre">Operas</field>
+<field name="title">Una notte di novembre</field>
+<field name="titleSort">notte di novembre</field>
+<field name="composer">Michele Iremonger</field>
+<field name="composerSort">Iremonger, Michele</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Emanuel Züngel</field>
+<field name="librettistSort">Züngel, Emanuel</field>
+<field name="librettist">Ermocrate Bucchi</field>
+<field name="librettistSort">Bucchi, Ermocrate</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+notte+di+novembre+Michele+Iremonger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121996</field>
+<field name="genre">Operas</field>
+<field name="title">Liebelei</field>
+<field name="titleSort">Liebelei</field>
+<field name="composer">Franz Neumann</field>
+<field name="composerSort">Neumann, Franz</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Arthur Schnitzler</field>
+<field name="librettistSort">Schnitzler, Arthur</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebelei+Franz+Neumann&amp;search_field=search</field>
+</doc>
+</add>

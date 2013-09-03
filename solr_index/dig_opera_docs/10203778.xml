@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203778</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Salamos Urteil</field>
+		<field name="titleSort">Salamos Urteil</field>
+		<field name="year">1829</field>
+		<field name="month">July</field>
+		<field name="day">5</field>
+		<field name="date">July 5, 1829</field>
+		<field name="composer">Peter Grabeler</field>
+		<field name="composerSort">Grabeler, Peter</field>
+		<field name="librettist">Karl Moritz Kneisel</field>
+		<field name="librettistSort">Kneisel, Karl Moritz</field>
+		
+		
+		<field name="city">Bonn</field>
+		<field name="region">Nordrhein-Westfallen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Solomon's Treasure</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salamos+Urteil+Peter+Grabeler&amp;search_field=search</field>
+	</doc></add>

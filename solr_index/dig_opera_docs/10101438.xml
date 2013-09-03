@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101438</field>
+<field name="genre">Operas</field>
+<field name="title">La reine des reines</field>
+<field name="titleSort">reine des reines</field>
+<field name="composer">Edmond Audran</field>
+<field name="composerSort">Audran, Edmond</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">[Léon Pierre Édouard Puyol] P.-L. Flers</field>
+<field name="librettistSort">Flers, P.-L. [Léon Pierre Édouard Puyol]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+reine+des+reines+Edmond+Audran&amp;search_field=search</field>
+</doc>
+</add>

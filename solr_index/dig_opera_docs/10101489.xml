@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101489</field>
+<field name="genre">Operas</field>
+<field name="title">Bechol dor vador (In Every Generation)</field>
+<field name="titleSort">Bechol dor vador (In Every Generation)</field>
+<field name="composer">Menahem Avidon</field>
+<field name="composerSort">Avidon, Menahem</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Leah Goldberg</field>
+<field name="librettistSort">Goldberg, Leah</field>
+<field name="theater">Kibbutz Ein-Gev Festival</field>
+<field name="city">Kibbutz Ein-Gev</field>
+
+<field name="country">Israel</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bechol+dor+vador+In+Every+Generation+Menahem+Avidon&amp;search_field=search</field>
+</doc>
+</add>

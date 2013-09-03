@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201434</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Galileo Galilei</field>
+		<field name="titleSort">Galileo Galilei</field>
+		<field name="year">1975</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1975</field>
+		<field name="composer">Lee Hoiby</field>
+		<field name="composerSort">Hoiby, Lee</field>
+		<field name="librettist">Barrie Stavis</field>
+		<field name="librettistSort">Stavis, Barrie</field>
+		
+		<field name="theater">Von Braun Center Concert Hall</field>
+		<field name="city">Huntsville</field>
+		<field name="region">Alabama</field>
+		<field name="country">United States</field>
+		<field name="subject">Galileo Galilei</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galileo+Galilei+Lee+Hoiby&amp;search_field=search</field>
+	</doc></add>

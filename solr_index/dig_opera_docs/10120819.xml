@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120819</field>
+<field name="genre">Operas</field>
+<field name="title">Double Trouble</field>
+<field name="titleSort">Double Trouble</field>
+<field name="composer">Richard Mohaupt</field>
+<field name="composerSort">Mohaupt, Richard</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Richard Mohaupt</field>
+<field name="librettistSort">Mohaupt, Richard</field>
+<field name="theater">Columbia Auditorium</field>
+<field name="city">Louisville</field>
+<field name="region">Kentucky</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Double+Trouble+Richard+Mohaupt&amp;search_field=search</field>
+</doc>
+</add>

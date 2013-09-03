@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100041</field>
+<field name="genre">Operas</field>
+<field name="title">Die Blume von Hawaii</field>
+<field name="titleSort">Blume von Hawaii</field>
+<field name="composer">Pál Abrahám</field>
+<field name="composerSort">Abrahám, Pál</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="theater">Neues Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Blume+von+Hawaii+Pál+Abrahám&amp;search_field=search</field>
+</doc>
+</add>

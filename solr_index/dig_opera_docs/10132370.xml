@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132370</field>
+<field name="genre">Operas</field>
+<field name="title">Stella</field>
+<field name="titleSort">Stella</field>
+<field name="composer">Hendrik Waelput</field>
+<field name="composerSort">Waelput, Hendrik</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Isidoor Teirlinck</field>
+<field name="librettistSort">Teirlinck, Isidoor</field>
+<field name="librettist">Reimond Stijns</field>
+<field name="librettistSort">Stijns, Reimond</field>
+<field name="theater">Théâtre de l'Alhambra</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stella+Hendrik+Waelput&amp;search_field=search</field>
+</doc>
+</add>

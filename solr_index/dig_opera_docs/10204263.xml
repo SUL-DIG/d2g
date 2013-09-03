@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204263</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Serpentes ignei in deserto</field>
+		<field name="titleSort">Serpentes ignei in deserto</field>
+		
+		
+		
+		
+		<field name="composer">Johann Adolf Hasse</field>
+		<field name="composerSort">Hasse, Johann Adolf</field>
+		<field name="librettist">Buonaventura Bonomo</field>
+		<field name="librettistSort">Bonomo, Buonaventura</field>
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Scourge of Fiery Serpents</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serpentes+ignei+in+deserto+Johann+Adolf+Hasse&amp;search_field=search</field>
+	</doc></add>

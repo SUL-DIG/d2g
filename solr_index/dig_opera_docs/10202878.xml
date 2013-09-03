@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202878</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moses in seinem Eifer gegen die Abgötterey der Kinder Israel in der Wüsten</field>
+		<field name="titleSort">Moses in seinem Eifer gegen die Abgötterey der Kinder Israel in der Wüsten</field>
+		<field name="year">1758</field>
+		
+		
+		<field name="date">1758</field>
+		<field name="composer">Adolph Carl Kunzen</field>
+		<field name="composerSort">Kunzen, Adolph Carl</field>
+		<field name="librettist">Johann Daniel Overbeck</field>
+		<field name="librettistSort">Overbeck, Johann Daniel</field>
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">Israel in the Wilderness</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+in+seinem+Eifer+gegen+die+Abgötterey+der+Kinder+Israel+in+der+Wüsten+Adolph+Carl+Kunzen&amp;search_field=search</field>
+	</doc></add>

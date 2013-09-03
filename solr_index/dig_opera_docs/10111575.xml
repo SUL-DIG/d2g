@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111575</field>
+<field name="genre">Operas</field>
+<field name="title">Ettore Fieramosca</field>
+<field name="titleSort">Ettore Fieramosca</field>
+<field name="composer">Bernardo Geraci</field>
+<field name="composerSort">Geraci, Bernardo</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Giuseppe Sapio</field>
+<field name="librettistSort">Sapio, Giuseppe</field>
+<field name="theater">Conservatorio</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ettore+Fieramosca+Bernardo+Geraci&amp;search_field=search</field>
+</doc>
+</add>

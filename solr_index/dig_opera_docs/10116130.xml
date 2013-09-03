@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116130</field>
+<field name="genre">Operas</field>
+<field name="title">Drei fidele Brüder</field>
+<field name="titleSort">Drei fidele Brüder</field>
+<field name="composer">Karl Knauer</field>
+<field name="composerSort">Knauer, Karl</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Oskar Engel</field>
+<field name="librettistSort">Engel, Oskar</field>
+<field name="librettist">George l'Orange</field>
+<field name="librettistSort">l'Orange, George</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Gera</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drei+fidele+Brüder+Karl+Knauer&amp;search_field=search</field>
+</doc>
+</add>

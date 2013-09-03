@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101208</field>
+<field name="genre">Operas</field>
+<field name="title">Das Amorettenhaus</field>
+<field name="titleSort">Amorettenhaus</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Max Steiner-Kaiser</field>
+<field name="librettistSort">Steiner-Kaiser, Max</field>
+<field name="librettist">Heinz von Waldberg</field>
+<field name="librettistSort">Waldberg, Heinz von</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Amorettenhaus+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

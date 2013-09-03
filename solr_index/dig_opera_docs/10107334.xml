@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107334</field>
+<field name="genre">Operas</field>
+<field name="title">Le mariage en l'air</field>
+<field name="titleSort">mariage en l'air</field>
+<field name="composer">Eugène-Joseph Déjazet</field>
+<field name="composerSort">Déjazet, Eugène-Joseph</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri Dupin</field>
+<field name="librettistSort">Dupin, Henri</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mariage+en+l'air+Eugène-Joseph+Déjazet&amp;search_field=search</field>
+</doc>
+</add>

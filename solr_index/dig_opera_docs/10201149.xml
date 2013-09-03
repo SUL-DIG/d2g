@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201149</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Erlöser</field>
+		<field name="titleSort">Erlöser</field>
+		<field name="year">1893</field>
+		<field name="month">March</field>
+		<field name="day">6</field>
+		<field name="date">March 6, 1893</field>
+		<field name="composer">Peter Druffel</field>
+		<field name="composerSort">Druffel, Peter</field>
+		
+		
+		
+		<field name="city">Trier</field>
+		<field name="region">Rheinland-Pfalz</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ the Redeemer</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Erlöser+Peter+Druffel&amp;search_field=search</field>
+	</doc></add>

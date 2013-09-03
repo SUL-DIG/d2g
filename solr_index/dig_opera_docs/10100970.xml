@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100970</field>
+<field name="genre">Operas</field>
+<field name="title">Rafael'</field>
+<field name="titleSort">Rafael'</field>
+<field name="composer">Anton Stepanovich Arensky</field>
+<field name="composerSort">Arensky, Anton Stepanovich</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">[Mikhail Galucki] Aleksandr Kryukov</field>
+<field name="librettistSort">Kryukov, Aleksandr [Mikhail Galucki]</field>
+<field name="theater">Hall of Nobles</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rafael'+Anton+Stepanovich+Arensky&amp;search_field=search</field>
+</doc>
+</add>

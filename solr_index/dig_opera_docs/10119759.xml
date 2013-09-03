@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119759</field>
+<field name="genre">Operas</field>
+<field name="title">Le sire du coucou en Reine de Mai</field>
+<field name="titleSort">sire du coucou en Reine de Mai</field>
+<field name="composer">Marie Mathyssens</field>
+<field name="composerSort">Mathyssens, Marie</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Paul Rouget</field>
+<field name="librettistSort">Rouget, Paul</field>
+<field name="librettist">Alfred Gounin</field>
+<field name="librettistSort">Gounin, Alfred</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sire+du+coucou+en+Reine+de+Mai+Marie+Mathyssens&amp;search_field=search</field>
+</doc>
+</add>

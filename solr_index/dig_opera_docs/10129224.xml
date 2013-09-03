@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129224</field>
+<field name="genre">Operas</field>
+<field name="title">Le rhinocéros et son enfant</field>
+<field name="titleSort">rhinocéros et son enfant</field>
+<field name="composer">Charles de Sivry</field>
+<field name="composerSort">Sivry, Charles de</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Edmond Lepelletier</field>
+<field name="librettistSort">Lepelletier, Edmond</field>
+<field name="theater">Nouvelle Salle des Délassements-Comiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rhinocéros+et+son+enfant+Charles+de+Sivry&amp;search_field=search</field>
+</doc>
+</add>

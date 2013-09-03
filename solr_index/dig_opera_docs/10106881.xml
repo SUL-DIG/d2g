@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106881</field>
+<field name="genre">Operas</field>
+<field name="title">The Story of Vasco</field>
+<field name="titleSort">Story of Vasco</field>
+<field name="composer">Gordon Crosse</field>
+<field name="composerSort">Crosse, Gordon</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Ted Hughes</field>
+<field name="librettistSort">Hughes, Ted</field>
+<field name="librettist">Georges Schéhadé</field>
+<field name="librettistSort">Schéhadé, Georges</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Story+of+Vasco+Gordon+Crosse&amp;search_field=search</field>
+</doc>
+</add>

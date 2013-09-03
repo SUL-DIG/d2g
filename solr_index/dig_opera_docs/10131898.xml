@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131898</field>
+<field name="genre">Operas</field>
+<field name="title">La jolie gouvernante</field>
+<field name="titleSort">jolie gouvernante</field>
+<field name="composer">Jean Aimé Vernier</field>
+<field name="composerSort">Vernier, Jean Aimé</field>
+<field name="year">1798</field>
+<field name="date">1798</field><field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jolie+gouvernante+Jean+Aimé+Vernier&amp;search_field=search</field>
+</doc>
+</add>

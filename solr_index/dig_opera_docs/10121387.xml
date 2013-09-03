@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121387</field>
+<field name="genre">Operas</field>
+<field name="title">"Stradella, trovatore del 1300</field>
+<field name="titleSort">"Stradella, trovatore del 1300"</field>
+<field name="composer">Vincenzo Moscuzza</field>
+<field name="composerSort">Moscuzza, Vincenzo</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Federico Quercia</field>
+<field name="librettistSort">Quercia, Federico</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stradella,+trovatore+del+1300+Vincenzo+Moscuzza&amp;search_field=search</field>
+</doc>
+</add>

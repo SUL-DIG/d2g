@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110764</field>
+<field name="genre">Operas</field>
+<field name="title">Venezias Nat</field>
+<field name="titleSort">Venezias Nat</field>
+<field name="composer">Axel Gade</field>
+<field name="composerSort">Gade, Axel</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Olaf Hansen</field>
+<field name="librettistSort">Hansen, Olaf</field>
+<field name="librettist">Holger Drachmann</field>
+<field name="librettistSort">Drachmann, Holger</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venezias+Nat+Axel+Gade&amp;search_field=search</field>
+</doc>
+</add>

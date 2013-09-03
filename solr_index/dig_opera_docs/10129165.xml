@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129165</field>
+<field name="genre">Operas</field>
+<field name="title">Le jardin d'Éros</field>
+<field name="titleSort">jardin d'Éros</field>
+<field name="composer">Jean Simon</field>
+<field name="composerSort">Simon, Jean</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Henry Martel</field>
+<field name="librettistSort">Martel, Henry</field>
+<field name="librettist">A. Simon</field>
+<field name="librettistSort">Simon, A.</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Brest</field>
+<field name="region">Finistère</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardin+d'Éros+Jean+Simon&amp;search_field=search</field>
+</doc>
+</add>

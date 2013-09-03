@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126024</field>
+<field name="genre">Operas</field>
+<field name="title">Corrado d'Altamura</field>
+<field name="titleSort">Corrado d'Altamura</field>
+<field name="composer">Federico Ricci</field>
+<field name="composerSort">Ricci, Federico</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Giacomo Sacchèro</field>
+<field name="librettistSort">Sacchèro, Giacomo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corrado+d'Altamura+Federico+Ricci&amp;search_field=search</field>
+</doc>
+</add>

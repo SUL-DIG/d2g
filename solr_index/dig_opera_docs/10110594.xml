@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110594</field>
+<field name="genre">Operas</field>
+<field name="title">Die kranke Frau</field>
+<field name="titleSort">kranke Frau</field>
+<field name="composer">Johann Christian Frischmuth</field>
+<field name="composerSort">Frischmuth, Johann Christian</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Daniel Heinrich Thomas</field>
+<field name="librettistSort">Thomas, Daniel Heinrich</field>
+<field name="theater">Theater in der Behrenstrasse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+kranke+Frau+Johann+Christian+Frischmuth&amp;search_field=search</field>
+</doc>
+</add>

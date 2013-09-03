@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203470</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Presentación de Nuestra Seсora</field>
+		<field name="titleSort">Presentación de Nuestra Seсora</field>
+		<field name="year">1798</field>
+		
+		
+		<field name="date">1798</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">The Presentation of Mary in the Temple</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">November 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Presentación+de+Nuestra+Seсora+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

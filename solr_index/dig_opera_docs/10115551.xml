@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115551</field>
+<field name="genre">Operas</field>
+<field name="title">Kaiserin Josephine</field>
+<field name="titleSort">Kaiserin Josephine</field>
+<field name="composer">Imre Kálmán</field>
+<field name="composerSort">Kálmán, Imre</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Paul Knepler</field>
+<field name="librettistSort">Knepler, Paul</field>
+<field name="librettist">Géza Herczeg</field>
+<field name="librettistSort">Herczeg, Géza</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaiserin+Josephine+Imre+Kálmán&amp;search_field=search</field>
+</doc>
+</add>

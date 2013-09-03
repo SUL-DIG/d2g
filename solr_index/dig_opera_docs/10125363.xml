@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125363</field>
+<field name="genre">Operas</field>
+<field name="title">Les maris de Ponteron</field>
+<field name="titleSort">maris de Ponteron</field>
+<field name="composer">Ernest Quéré</field>
+<field name="composerSort">Quéré, Ernest</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">__ Simon</field>
+<field name="librettistSort">Simon, __</field>
+<field name="theater">Casino</field>
+<field name="city">Paramé</field>
+<field name="region">Ille-et-Vilaine</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+maris+de+Ponteron+Ernest+Quéré&amp;search_field=search</field>
+</doc>
+</add>

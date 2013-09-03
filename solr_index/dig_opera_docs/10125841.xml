@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125841</field>
+<field name="genre">Operas</field>
+<field name="title">La conquista del Perú</field>
+<field name="titleSort">conquista del Perú</field>
+<field name="composer">Miguel Lopez Remacha</field>
+<field name="composerSort">Remacha, Miguel Lopez</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conquista+del+Perú+Miguel+Lopez+Remacha&amp;search_field=search</field>
+</doc>
+</add>

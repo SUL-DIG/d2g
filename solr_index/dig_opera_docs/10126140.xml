@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126140</field>
+<field name="genre">Operas</field>
+<field name="title">Amore irritato dalla difficolta</field>
+<field name="titleSort">Amore irritato dalla difficolta</field>
+<field name="composer">Luigi Rieschi</field>
+<field name="composerSort">Rieschi, Luigi</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+irritato+dalla+difficolta+Luigi+Rieschi&amp;search_field=search</field>
+</doc>
+</add>

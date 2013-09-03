@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129753</field>
+<field name="genre">Operas</field>
+<field name="title">Kean</field>
+<field name="titleSort">Kean</field>
+<field name="composer">Alexander Stefanides</field>
+<field name="composerSort">Stefanides, Alexander</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Carl Cassmann</field>
+<field name="librettistSort">Cassmann, Carl</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kean+Alexander+Stefanides&amp;search_field=search</field>
+</doc>
+</add>

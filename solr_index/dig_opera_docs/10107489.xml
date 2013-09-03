@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107489</field>
+<field name="genre">Operas</field>
+<field name="title">Il maestro di capella in barberia</field>
+<field name="titleSort">maestro di capella in barberia</field>
+<field name="composer">Francesco Del Prete</field>
+<field name="composerSort">Prete, Francesco Del</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="city">Viareggio</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+maestro+di+capella+in+barberia+Francesco+Del+Prete&amp;search_field=search</field>
+</doc>
+</add>

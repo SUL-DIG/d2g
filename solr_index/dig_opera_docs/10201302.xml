@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201302</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le festin de Balthazar</field>
+		<field name="titleSort">festin de Balthazar</field>
+		<field name="year">1879</field>
+		<field name="month">November</field>
+		<field name="day">27</field>
+		<field name="date">November 27, 1879</field>
+		<field name="composer">Adolf von Doss</field>
+		<field name="composerSort">Doss, Adolf von</field>
+		<field name="librettist">Édouard Brahy</field>
+		<field name="librettistSort">Brahy, Édouard</field>
+		
+		<field name="theater">Collège de Saint-Servais</field>
+		<field name="city">Liège</field>
+		<field name="region">Liège</field>
+		<field name="country">Belgium</field>
+		<field name="subject">Belshazzar's Feast</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+festin+de+Balthazar+Adolf+von+Doss&amp;search_field=search</field>
+	</doc></add>

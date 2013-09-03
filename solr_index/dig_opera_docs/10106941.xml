@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106941</field>
+<field name="genre">Operas</field>
+<field name="title">Elodia di Herstall</field>
+<field name="titleSort">Elodia di Herstall</field>
+<field name="composer">Alessandro Curmi</field>
+<field name="composerSort">Curmi, Alessandro</field>
+<field name="year">1842</field>
+<field name="date">1842</field><field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elodia+di+Herstall+Alessandro+Curmi&amp;search_field=search</field>
+</doc>
+</add>

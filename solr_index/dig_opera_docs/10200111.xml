@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200111</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">An Advent Oratorio</field>
+		<field name="titleSort">Advent Oratorio</field>
+		<field name="year">1937</field>
+		
+		
+		<field name="date">1937</field>
+		<field name="composer">Guy Michell</field>
+		<field name="composerSort">Michell, Guy</field>
+		<field name="librettist">E. D. King</field>
+		<field name="librettistSort">Kim, E. D.</field>
+		
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+Advent+Oratorio+Guy+Michell&amp;search_field=search</field>
+	</doc></add>

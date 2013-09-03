@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129328</field>
+<field name="genre">Operas</field>
+<field name="title">Deutsches Kriegsmärchen</field>
+<field name="titleSort">Deutsches Kriegsmärchen</field>
+<field name="composer">Franz Snaga</field>
+<field name="composerSort">Snaga, Franz</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Cläre Biedermann</field>
+<field name="librettistSort">Biedermann, Cläre</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Flensburg</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deutsches+Kriegsmärchen+Franz+Snaga&amp;search_field=search</field>
+</doc>
+</add>

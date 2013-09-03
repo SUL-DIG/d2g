@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118842</field>
+<field name="genre">Operas</field>
+<field name="title">Hyperion</field>
+<field name="titleSort">Hyperion</field>
+<field name="composer">Bruno Maderna</field>
+<field name="composerSort">Maderna, Bruno</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Bruno Maderna</field>
+<field name="librettistSort">Maderna, Bruno</field>
+<field name="librettist">Virginio Puecher</field>
+<field name="librettistSort">Puecher, Virginio</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hyperion+Bruno+Maderna&amp;search_field=search</field>
+</doc>
+</add>

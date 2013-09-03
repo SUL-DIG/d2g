@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124096</field>
+<field name="genre">Operas</field>
+<field name="title">"Bianca, oder Die Verbannten</field>
+<field name="titleSort">"Bianca, oder Die Verbannten"</field>
+<field name="composer">Josef Piber</field>
+<field name="composerSort">Piber, Josef</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Max Vanesa</field>
+<field name="librettistSort">Vanesa, Max</field>
+<field name="librettist">Josef Poppovic</field>
+<field name="librettistSort">Poppovic, Josef</field>
+<field name="theater">Kleiner Musikvereinssaal</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca,+oder+Die+Verbannten+Josef+Piber&amp;search_field=search</field>
+</doc>
+</add>

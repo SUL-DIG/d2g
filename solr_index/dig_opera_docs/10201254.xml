@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201254</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Fall of Egypt</field>
+		<field name="titleSort">Fall of Egypt</field>
+		<field name="year">1774</field>
+		
+		
+		<field name="date">1774</field>
+		<field name="composer">John Stanley</field>
+		<field name="composerSort">Stanley, John</field>
+		<field name="librettist">John Hawkesworth</field>
+		<field name="librettistSort">Hawkesworth, John</field>
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Destruction of Pharaoh's Army</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fall+of+Egypt+John+Stanley&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128979</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Weg zum Paradies, oder Der Segen der Arbeit</field>
+<field name="titleSort">"Weg zum Paradies, oder Segen der Arbeit"</field>
+<field name="composer">Fritz Seydler</field>
+<field name="composerSort">Seydler, Fritz</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Gustav Starke</field>
+<field name="librettistSort">Starke, Gustav</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Weg+zum+Paradies,+oder+Der+Segen+der+Arbeit+Fritz+Seydler&amp;search_field=search</field>
+</doc>
+</add>

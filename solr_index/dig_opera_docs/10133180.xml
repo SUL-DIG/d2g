@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133180</field>
+<field name="genre">Operas</field>
+<field name="title">The Judgement of Paris</field>
+<field name="titleSort">Judgement of Paris</field>
+<field name="composer">John Woolrich</field>
+<field name="composerSort">Woolrich, John</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Patrick Barlow</field>
+<field name="librettistSort">Barlow, Patrick</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Judgement+of+Paris+John+Woolrich&amp;search_field=search</field>
+</doc>
+</add>

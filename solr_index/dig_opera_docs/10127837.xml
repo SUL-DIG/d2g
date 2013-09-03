@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127837</field>
+<field name="genre">Operas</field>
+<field name="title">La gatta bigia</field>
+<field name="titleSort">gatta bigia</field>
+<field name="composer">Agostino Sauvage</field>
+<field name="composerSort">Sauvage, Agostino</field>
+<field name="year">1888</field>
+<field name="date">1888</field><field name="theater">Arena</field>
+<field name="city">Strada in Casentino</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gatta+bigia+Agostino+Sauvage&amp;search_field=search</field>
+</doc>
+</add>

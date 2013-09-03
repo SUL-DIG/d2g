@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113648</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Neger auf St. Domingo, oder Robert und Marie</field>
+<field name="titleSort">"Neger auf St. Domingo, oder Robert und Marie"</field>
+<field name="composer">August Ferdinand Häser</field>
+<field name="composerSort">Häser, August Ferdinand</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Wilhelm Häser</field>
+<field name="librettistSort">Häser, Wilhelm</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Neger+auf+St.+Domingo,+oder+Robert+und+Marie+August+Ferdinand+Häser&amp;search_field=search</field>
+</doc>
+</add>

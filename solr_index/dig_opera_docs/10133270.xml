@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133270</field>
+<field name="genre">Operas</field>
+<field name="title">St. Andreastag</field>
+<field name="titleSort">St. Andreastag</field>
+<field name="composer">Karl Zabel</field>
+<field name="composerSort">Zabel, Karl</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Reinhard Otto</field>
+<field name="librettistSort">Otto, Reinhard</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+Andreastag+Karl+Zabel&amp;search_field=search</field>
+</doc>
+</add>

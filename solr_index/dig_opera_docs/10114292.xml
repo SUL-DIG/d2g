@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114292</field>
+<field name="genre">Operas</field>
+<field name="title">"Konradin, der letzte Hohenstaufe</field>
+<field name="titleSort">"Konradin, der letzte Hohenstaufe"</field>
+<field name="composer">Ferdinand Hiller</field>
+<field name="composerSort">Hiller, Ferdinand</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Robert Reinick</field>
+<field name="librettistSort">Reinick, Robert</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Konradin,+der+letzte+Hohenstaufe+Ferdinand+Hiller&amp;search_field=search</field>
+</doc>
+</add>

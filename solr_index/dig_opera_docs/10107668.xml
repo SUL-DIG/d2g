@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107668</field>
+<field name="genre">Operas</field>
+<field name="title">Schach</field>
+<field name="titleSort">Schach</field>
+<field name="composer">Max Deutsch</field>
+<field name="composerSort">Deutsch, Max</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Herbort von Hoerner</field>
+<field name="librettistSort">Hoerner, Herbort von</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schach+Max+Deutsch&amp;search_field=search</field>
+</doc>
+</add>

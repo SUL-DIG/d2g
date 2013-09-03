@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121723</field>
+<field name="genre">Operas</field>
+<field name="title">Friedrich mit der leeren Tasche</field>
+<field name="titleSort">Friedrich mit der leeren Tasche</field>
+<field name="composer">Matthäus Nagiller</field>
+<field name="composerSort">Nagiller, Matthäus</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Eduard Ille</field>
+<field name="librettistSort">Ille, Eduard</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friedrich+mit+der+leeren+Tasche+Matthäus+Nagiller&amp;search_field=search</field>
+</doc>
+</add>

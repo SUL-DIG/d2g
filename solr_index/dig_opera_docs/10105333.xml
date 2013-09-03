@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105333</field>
+<field name="genre">Operas</field>
+<field name="title">Quinto Lucrezio proscritto</field>
+<field name="titleSort">Quinto Lucrezio proscritto</field>
+<field name="composer">Lorenzo Cattani</field>
+<field name="composerSort">Cattani, Lorenzo</field>
+<field name="year">1681</field>
+<field name="date">1681</field>
+<field name="librettist">Giovanni Andrea Moniglia</field>
+<field name="librettistSort">Moniglia, Giovanni Andrea</field>
+<field name="theater">Casino di San Marco</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quinto+Lucrezio+proscritto+Lorenzo+Cattani&amp;search_field=search</field>
+</doc>
+</add>

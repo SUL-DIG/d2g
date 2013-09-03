@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116846</field>
+<field name="genre">Operas</field>
+<field name="title">Thyl Claas</field>
+<field name="titleSort">Thyl Claas</field>
+<field name="composer">Paul Kurzbach</field>
+<field name="composerSort">Kurzbach, Paul</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Paul Kurzbach</field>
+<field name="librettistSort">Kurzbach, Paul</field>
+<field name="librettist">Johannes Pfanner</field>
+<field name="librettistSort">Pfanner, Johannes</field>
+
+<field name="city">Görlitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thyl+Claas+Paul+Kurzbach&amp;search_field=search</field>
+</doc>
+</add>

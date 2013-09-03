@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126653</field>
+<field name="genre">Operas</field>
+<field name="title">Halimah</field>
+<field name="titleSort">Halimah</field>
+<field name="composer">Rudolf Arthur Rösel</field>
+<field name="composerSort">Rösel, Rudolf Arthur</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Rudolf Arthur Rösel</field>
+<field name="librettistSort">Rösel, Rudolf Arthur</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halimah+Rudolf+Arthur+Rösel&amp;search_field=search</field>
+</doc>
+</add>

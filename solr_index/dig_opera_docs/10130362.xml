@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130362</field>
+<field name="genre">Operas</field>
+<field name="title">Les trois cousines</field>
+<field name="titleSort">trois cousines</field>
+<field name="composer">Jan-Pieter Suremont</field>
+<field name="composerSort">Suremont, Jan-Pieter</field>
+<field name="year">1824</field>
+<field name="date">1824</field><field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+trois+cousines+Jan-Pieter+Suremont&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109442</field>
+<field name="genre">Operas</field>
+<field name="title">Helda</field>
+<field name="titleSort">Helda</field>
+<field name="composer">Augusto Michele Fechner</field>
+<field name="composerSort">Fechner, Augusto Michele</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Tom de Godenout</field>
+<field name="librettistSort">Godenout, Tom de</field>
+<field name="librettist">Michele Farlane</field>
+<field name="librettistSort">Farlane, Michele</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Helda+Augusto+Michele+Fechner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130110</field>
+<field name="genre">Operas</field>
+<field name="title">Chelm</field>
+<field name="titleSort">Chelm</field>
+<field name="composer">Robert Strassburg</field>
+<field name="composerSort">Strassburg, Robert</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Ray Smolover</field>
+<field name="librettistSort">Smolover, Ray</field>
+<field name="theater">Opera Theater of Westchester</field>
+<field name="city">White Plains</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chelm+Robert+Strassburg&amp;search_field=search</field>
+</doc>
+</add>

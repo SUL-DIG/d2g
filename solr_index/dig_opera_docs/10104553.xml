@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104553</field>
+<field name="genre">Operas</field>
+<field name="title">La liberazione di Ruggiero dall'isola d'Alcina</field>
+<field name="titleSort">liberazione di Ruggiero dall'isola d'Alcina</field>
+<field name="composer">Francesca Caccini</field>
+<field name="composerSort">Caccini, Francesca</field>
+<field name="year">1625</field>
+<field name="date">1625</field>
+<field name="librettist">Ferdinando Saracinelli</field>
+<field name="librettistSort">Saracinelli, Ferdinando</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Villa Poggio Imperiale</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+liberazione+di+Ruggiero+dall'isola+d'Alcina+Francesca+Caccini&amp;search_field=search</field>
+</doc>
+</add>

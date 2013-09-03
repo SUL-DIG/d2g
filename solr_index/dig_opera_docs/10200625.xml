@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200625</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus der Auferstandene</field>
+		<field name="titleSort">Christus der Auferstandene</field>
+		<field name="year">1892</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1892</field>
+		<field name="composer">Gustav Schreck</field>
+		<field name="composerSort">Schreck, Gustav</field>
+		<field name="librettist">Emmy Schreck</field>
+		<field name="librettistSort">Schreck, Emmy</field>
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+der+Auferstandene+Gustav+Schreck&amp;search_field=search</field>
+	</doc></add>

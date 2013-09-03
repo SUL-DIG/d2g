@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119040</field>
+<field name="genre">Operas</field>
+<field name="title">"Sylvia, or The Forest Flower</field>
+<field name="titleSort">"Sylvia, or The Forest Flower"</field>
+<field name="composer">John E. Mallandaine</field>
+<field name="composerSort">Mallandaine, John E.</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Eliot Galet</field>
+<field name="librettistSort">Galet, Eliot</field>
+<field name="theater">New Royalty Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sylvia,+or+The+Forest+Flower+John+E.+Mallandaine&amp;search_field=search</field>
+</doc>
+</add>

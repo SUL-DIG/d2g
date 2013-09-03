@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121787</field>
+<field name="genre">Operas</field>
+<field name="title">Merope</field>
+<field name="titleSort">Merope</field>
+<field name="composer">Sebastiano Nasolini</field>
+<field name="composerSort">Nasolini, Sebastiano</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Mattia Botturini</field>
+<field name="librettistSort">Botturini, Mattia</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Merope+Sebastiano+Nasolini&amp;search_field=search</field>
+</doc>
+</add>

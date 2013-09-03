@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102249</field>
+<field name="genre">Operas</field>
+<field name="title">Dottor Coté</field>
+<field name="titleSort">Dottor Coté</field>
+<field name="composer">Ciro Bello</field>
+<field name="composerSort">Bello, Ciro</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">[Agostino Lopiano-Pomar] Marlago</field>
+<field name="librettistSort">Marlago, [Agostino Lopiano-Pomar]</field>
+
+<field name="city">Caltanissetta</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dottor+Coté+Ciro+Bello&amp;search_field=search</field>
+</doc>
+</add>

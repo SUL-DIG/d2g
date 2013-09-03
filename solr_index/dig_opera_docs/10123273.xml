@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123273</field>
+<field name="genre">Operas</field>
+<field name="title">Il maestro di scuola</field>
+<field name="titleSort">maestro di scuola</field>
+<field name="composer">Federico Parisini</field>
+<field name="composerSort">Parisini, Federico</field>
+<field name="year">1869</field>
+<field name="date">1869</field><field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+maestro+di+scuola+Federico+Parisini&amp;search_field=search</field>
+</doc>
+</add>

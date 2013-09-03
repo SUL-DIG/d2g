@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120574</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux modèles</field>
+<field name="titleSort">deux modèles</field>
+<field name="composer">Gustav Michiels</field>
+<field name="composerSort">Michiels, Gustav</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Alphonse Siègel</field>
+<field name="librettistSort">Siègel, Alphonse"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+modèles+Gustav+Michiels&amp;search_field=search</field>
+</doc>
+</add>

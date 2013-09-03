@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107483</field>
+<field name="genre">Operas</field>
+<field name="title">Le masque</field>
+<field name="titleSort">masque</field>
+<field name="composer">Marc Delmas</field>
+<field name="composerSort">Delmas, Marc</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">[Paul de Choudens] Paul Bérel</field>
+<field name="librettistSort">Bérel, Paul [Paul de Choudens]</field>
+<field name="theater">Casino Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+masque+Marc+Delmas&amp;search_field=search</field>
+</doc>
+</add>

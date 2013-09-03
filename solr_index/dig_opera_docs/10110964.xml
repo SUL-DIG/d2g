@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110964</field>
+<field name="genre">Operas</field>
+<field name="title">Solimano</field>
+<field name="titleSort">Solimano</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Giovanni Ambrogio Migliavacca</field>
+<field name="librettistSort">Migliavacca, Giovanni Ambrogio</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solimano+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

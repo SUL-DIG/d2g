@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101905</field>
+<field name="genre">Operas</field>
+<field name="title">Win Her and Wear Her</field>
+<field name="titleSort">Win Her and Wear Her</field>
+<field name="composer">John Barnett</field>
+<field name="composerSort">Barnett, John</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Samuel Beazley</field>
+<field name="librettistSort">Beazley, Samuel</field>
+<field name="librettist">Susanna Centlivre</field>
+<field name="librettistSort">Centlivre, Susanna</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Win+Her+and+Wear+Her+John+Barnett&amp;search_field=search</field>
+</doc>
+</add>

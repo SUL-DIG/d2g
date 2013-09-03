@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111146</field>
+<field name="genre">Operas</field>
+<field name="title">Dorinda</field>
+<field name="titleSort">Dorinda</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1723</field>
+<field name="date">1723</field>
+<field name="librettist">Benedetto Marcello</field>
+<field name="librettistSort">Marcello, Benedetto</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorinda+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

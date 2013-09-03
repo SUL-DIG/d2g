@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201730</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le glorie della fate promese da San Filippo Neri</field>
+		<field name="titleSort">glorie della fate promese da San Filippo Neri</field>
+		<field name="year">1704</field>
+		
+		
+		<field name="date">1704</field>
+		<field name="composer">Quirino Colombani</field>
+		<field name="composerSort">Colombani, Quirino</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Philip Neri</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">May 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+glorie+della+fate+promese+da+San+Filippo+Neri+Quirino+Colombani&amp;search_field=search</field>
+	</doc></add>

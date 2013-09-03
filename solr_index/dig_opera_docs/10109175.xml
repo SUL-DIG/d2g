@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109175</field>
+<field name="genre">Operas</field>
+<field name="title">Il convitato di pietra</field>
+<field name="titleSort">convitato di pietra</field>
+<field name="composer">Vincenzo Fabrizi</field>
+<field name="composerSort">Fabrizi, Vincenzo</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="librettist">[Gabriel Téllez] Tirso de Molina</field>
+<field name="librettistSort">Tirso de Molina, [Gabriel Téllez]</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+convitato+di+pietra+Vincenzo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

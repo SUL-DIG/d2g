@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118167</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Liebestraum</field>
+<field name="titleSort">Liebestraum</field>
+<field name="composer">Paul Lincke</field>
+<field name="composerSort">Lincke, Paul</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Alexander Oskar Erler</field>
+<field name="librettistSort">Erler, Alexander Oskar</field>
+<field name="librettist">Max Neumann</field>
+<field name="librettistSort">Neumann, Max</field>
+<field name="theater">Radio Berlin</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Liebestraum+Paul+Lincke&amp;search_field=search</field>
+</doc>
+</add>

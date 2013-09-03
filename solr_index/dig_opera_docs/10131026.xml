@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131026</field>
+<field name="genre">Operas</field>
+<field name="title">Legkovernïye (Gullible Types)</field>
+<field name="titleSort">Legkovernïye (Gullible Types)</field>
+<field name="composer">Aleksey Nikolayevich Titov</field>
+<field name="composerSort">Titov, Aleksey Nikolayevich</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Aleksandr Yakovlevich Knyazhnin</field>
+<field name="librettistSort">Knyazhnin, Aleksandr Yakovlevich</field>
+<field name="theater">Deutsches Opernhaus</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Legkovernïye+Gullible+Types+Aleksey+Nikolayevich+Titov&amp;search_field=search</field>
+</doc>
+</add>

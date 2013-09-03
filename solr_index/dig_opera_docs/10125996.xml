@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125996</field>
+<field name="genre">Operas</field>
+<field name="title">Donna Diana</field>
+<field name="titleSort">Donna Diana</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Emil Nikolaus von Reznicek</field>
+<field name="librettistSort">Reznicek, Emil Nikolaus von</field>
+<field name="librettist">Augustín Moreto</field>
+<field name="librettistSort">Moreto, Augustín</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Diana+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

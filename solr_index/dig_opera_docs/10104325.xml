@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104325</field>
+<field name="genre">Operas</field>
+<field name="title">"Paolino, the Just Cause and a Good Reason</field>
+<field name="titleSort">"Paolino, the Just Cause and a Good Reason"</field>
+<field name="composer">Alberto Bruni-Tedeschi</field>
+<field name="composerSort">Bruni-Tedeschi, Alberto</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Alberto Bruni-Tedeschi</field>
+<field name="librettistSort">Bruni-Tedeschi, Alberto</field>
+<field name="theater">Spoleto Festival</field>
+<field name="city">Spoleto</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paolino,+the+Just+Cause+and+a+Good+Reason+Alberto+Bruni-Tedeschi&amp;search_field=search</field>
+</doc>
+</add>

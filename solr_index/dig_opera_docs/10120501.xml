@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120501</field>
+<field name="genre">Operas</field>
+<field name="title">Braty Ul'yanovy (The Brothers Ul'yanov)</field>
+<field name="titleSort">Braty Ul'yanovy (The Brothers Ul'yanov)</field>
+<field name="composer">Yuly Sergeyevich Meytus</field>
+<field name="composerSort">Meytus, Yuly Sergeyevich</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Antonina Vasyl'yeva</field>
+<field name="librettistSort">Vasyl'yeva, Antonina</field>
+<field name="librettist">Dmytro Pavlovych Pavlychko</field>
+<field name="librettistSort">Pavlychko, Dmytro Pavlovych</field>
+<field name="theater">Bashkirskiy Teatr Operï i Baleta</field>
+<field name="city">Ufa</field>
+<field name="region">Bashkortostan Republic</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Braty+Ul'yanovy+The+Brothers+Ul'yanov+Yuly+Sergeyevich+Meytus&amp;search_field=search</field>
+</doc>
+</add>

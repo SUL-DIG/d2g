@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123999</field>
+<field name="genre">Operas</field>
+<field name="title">Der kleine Salon</field>
+<field name="titleSort">kleine Salon</field>
+<field name="composer">Karl Petzl</field>
+<field name="composerSort">Petzl, Karl</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Fritz Karl</field>
+<field name="librettistSort">Karl, Fritz</field>
+<field name="librettist">Hans Hall</field>
+<field name="librettistSort">Hall, Hans</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+Salon+Karl+Petzl&amp;search_field=search</field>
+</doc>
+</add>

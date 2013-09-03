@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123574</field>
+<field name="genre">Operas</field>
+<field name="title">La veglia</field>
+<field name="titleSort">veglia</field>
+<field name="composer">Arrigo Pedrollo</field>
+<field name="composerSort">Pedrollo, Arrigo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Carlo Linati</field>
+<field name="librettistSort">Linati, Carlo</field>
+<field name="librettist">John Millington Synge</field>
+<field name="librettistSort">Synge, John Millington</field>
+<field name="theater">Teatro degli Accademici Filodrammatici</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+veglia+Arrigo+Pedrollo&amp;search_field=search</field>
+</doc>
+</add>

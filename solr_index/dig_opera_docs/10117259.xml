@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117259</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze per fanatismo</field>
+<field name="titleSort">nozze per fanatismo</field>
+<field name="composer">Gesualdo Lanza</field>
+<field name="composerSort">Lanza, Gesualdo</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Emanuele Missiretti</field>
+<field name="librettistSort">Missiretti, Emanuele</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+per+fanatismo+Gesualdo+Lanza&amp;search_field=search</field>
+</doc>
+</add>

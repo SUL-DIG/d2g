@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121338</field>
+<field name="genre">Operas</field>
+<field name="title">"Il Federico II, re di Prussia</field>
+<field name="titleSort">"Federico II, re di Prussia"</field>
+<field name="composer">Giuseppe Mosca</field>
+<field name="composerSort">Mosca, Giuseppe</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Giuseppe Checcherini</field>
+<field name="librettistSort">Checcherini, Giuseppe</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Federico+II,+re+di+Prussia+Giuseppe+Mosca&amp;search_field=search</field>
+</doc>
+</add>

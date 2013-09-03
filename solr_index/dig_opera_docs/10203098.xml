@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203098</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio per il Venerdi Santo</field>
+		<field name="titleSort">Oratorio per il Venerdi Santo</field>
+		<field name="year">1730</field>
+		
+		
+		<field name="date">1730</field>
+		<field name="composer">Fortunato Chelleri</field>
+		<field name="composerSort">Chelleri, Fortunato</field>
+		
+		
+		
+		<field name="city">Würzburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+per+il+Venerdi+Santo+Fortunato+Chelleri&amp;search_field=search</field>
+	</doc></add>

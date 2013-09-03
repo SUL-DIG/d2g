@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133039</field>
+<field name="genre">Operas</field>
+<field name="title">Marie von Montalban</field>
+<field name="titleSort">Marie von Montalban</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Karl Reger</field>
+<field name="librettistSort">Reger, Karl</field>
+<field name="librettist">Johann Nepomuk Komarek</field>
+<field name="librettistSort">Komarek, Johann Nepomuk</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie+von+Montalban+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

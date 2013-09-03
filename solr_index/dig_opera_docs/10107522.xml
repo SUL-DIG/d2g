@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107522</field>
+<field name="genre">Operas</field>
+<field name="title">Rappaccini's Daughter</field>
+<field name="titleSort">Rappaccini's Daughter</field>
+<field name="composer">Sam Dennison</field>
+<field name="composerSort">Dennison, Sam</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Minikin Opera</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rappaccini's+Daughter+Sam+Dennison&amp;search_field=search</field>
+</doc>
+</add>

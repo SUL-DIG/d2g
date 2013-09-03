@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121147</field>
+<field name="genre">Operas</field>
+<field name="title">Leipziger Kerzenspiel</field>
+<field name="titleSort">Leipziger Kerzenspiel</field>
+<field name="composer">Robert Moran</field>
+<field name="composerSort">Moran, Robert</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Arthur Yorinks</field>
+<field name="librettistSort">Yorinks, Arthur</field>
+<field name="librettist">Robert Moran</field>
+<field name="librettistSort">Moran, Robert</field>
+<field name="theater">Mount Holyoke College</field>
+<field name="city">South Hadley</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leipziger+Kerzenspiel+Robert+Moran&amp;search_field=search</field>
+</doc>
+</add>

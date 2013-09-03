@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115212</field>
+<field name="genre">Operas</field>
+<field name="title">Otcuv soud</field>
+<field name="titleSort">Otcuv soud</field>
+<field name="composer">Josef Alexander Jelinek</field>
+<field name="composerSort">Jelinek, Josef Alexander</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Radovan Krátký</field>
+<field name="librettistSort">Krátký, Radovan</field>
+<field name="librettist">Prosper Mérimée</field>
+<field name="librettistSort">Mérimée, Prosper</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Otcuv+soud+Josef+Alexander+Jelinek&amp;search_field=search</field>
+</doc>
+</add>

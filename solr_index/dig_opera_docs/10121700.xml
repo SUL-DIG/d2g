@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121700</field>
+<field name="genre">Operas</field>
+<field name="title">Demofoonte</field>
+<field name="titleSort">Demofoonte</field>
+<field name="composer">Josef Myslivecek</field>
+<field name="composerSort">Myslivecek, Josef</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demofoonte+Josef+Myslivecek&amp;search_field=search</field>
+</doc>
+</add>

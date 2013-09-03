@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127811</field>
+<field name="genre">Operas</field>
+<field name="title">Nella Baila</field>
+<field name="titleSort">Nella Baila</field>
+<field name="composer">Edoardo Sassone</field>
+<field name="composerSort">Sassone, Edoardo</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Giovanni Omodeo</field>
+<field name="librettistSort">Omodeo, Giovanni</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nella+Baila+Edoardo+Sassone&amp;search_field=search</field>
+</doc>
+</add>

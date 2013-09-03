@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131163</field>
+<field name="genre">Operas</field>
+<field name="title">La perle du Cantal</field>
+<field name="titleSort">perle du Cantal</field>
+<field name="composer">Frédéric Toulmouche</field>
+<field name="composerSort">Toulmouche, Frédéric</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Maurice Ordonneau</field>
+<field name="librettistSort">Ordonneau, Maurice</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+perle+du+Cantal+Frédéric+Toulmouche&amp;search_field=search</field>
+</doc>
+</add>

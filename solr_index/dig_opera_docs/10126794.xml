@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126794</field>
+<field name="genre">Operas</field>
+<field name="title">"La Cenerentola, ossia La bontа in trionfo</field>
+<field name="titleSort">"Cenerentola, ossia bontа in trionfo"</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Cenerentola,+ossia+La+bontа+in+trionfo+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

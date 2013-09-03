@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107605</field>
+<field name="genre">Operas</field>
+<field name="title">Le temple d'Astrée</field>
+<field name="titleSort">temple d'Astrée</field>
+<field name="composer">Henry Desmarets</field>
+<field name="composerSort">Desmarets, Henry</field>
+<field name="year">1709</field>
+<field name="date">1709</field>
+<field name="librettist">Antoine-Pierre Dutremblay</field>
+<field name="librettistSort">Dutremblay, Antoine-Pierre</field>
+
+<field name="city">Nancy</field>
+<field name="region">Meurthe-et-Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+temple+d'Astrée+Henry+Desmarets&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118491</field>
+<field name="genre">Operas</field>
+<field name="title">Der widerspenstige Heilige</field>
+<field name="titleSort">widerspenstige Heilige</field>
+<field name="composer">Mark Lothar</field>
+<field name="composerSort">Lothar, Mark</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Mark Lothar</field>
+<field name="librettistSort">Lothar, Mark</field>
+<field name="librettist">Paul Vincent Carroll</field>
+<field name="librettistSort">Carroll, Paul Vincent</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+widerspenstige+Heilige+Mark+Lothar&amp;search_field=search</field>
+</doc>
+</add>

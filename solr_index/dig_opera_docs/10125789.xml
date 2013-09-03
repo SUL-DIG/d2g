@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125789</field>
+<field name="genre">Operas</field>
+<field name="title">Das Schloss</field>
+<field name="titleSort">Schloss</field>
+<field name="composer">Aribert Reimann</field>
+<field name="composerSort">Reimann, Aribert</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Aribert Reimann</field>
+<field name="librettistSort">Reimann, Aribert</field>
+<field name="librettist">Max Brod</field>
+<field name="librettistSort">Brod, Max</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Schloss+Aribert+Reimann&amp;search_field=search</field>
+</doc>
+</add>

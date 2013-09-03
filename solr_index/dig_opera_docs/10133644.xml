@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133644</field>
+<field name="genre">Operas</field>
+<field name="title">La cena magica</field>
+<field name="titleSort">cena magica</field>
+<field name="composer">Elisa Ziliotto</field>
+<field name="composerSort">Ziliotto, Elisa</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">R. G. Spinelli</field>
+<field name="librettistSort">Spinelli, R. G.</field>
+<field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cena+magica+Elisa+Ziliotto&amp;search_field=search</field>
+</doc>
+</add>

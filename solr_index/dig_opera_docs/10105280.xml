@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105280</field>
+<field name="genre">Operas</field>
+<field name="title">Dejanice</field>
+<field name="titleSort">Dejanice</field>
+<field name="composer">Alfredo Catalani</field>
+<field name="composerSort">Catalani, Alfredo</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dejanice+Alfredo+Catalani&amp;search_field=search</field>
+</doc>
+</add>

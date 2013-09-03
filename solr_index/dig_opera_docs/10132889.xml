@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132889</field>
+<field name="genre">Operas</field>
+<field name="title">Stanley and the Monkey King</field>
+<field name="titleSort">Stanley and the Monkey King</field>
+<field name="composer">John White</field>
+<field name="composerSort">White, John</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Robin Barson</field>
+<field name="librettistSort">Barson, Robin</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistSort">Kafka, Franz</field>
+<field name="theater">Drama Centre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stanley+and+the+Monkey+King+John+White&amp;search_field=search</field>
+</doc>
+</add>

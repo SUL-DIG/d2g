@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109603</field>
+<field name="genre">Operas</field>
+<field name="title">Les événements imprévus</field>
+<field name="titleSort">événements imprévus</field>
+<field name="composer">Giacomo Gotifredo Ferrari</field>
+<field name="composerSort">Ferrari, Giacomo Gotifredo</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Thomas d'Hèle</field>
+<field name="librettistSort">d'Hèle, Thomas</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+événements+imprévus+Giacomo+Gotifredo+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

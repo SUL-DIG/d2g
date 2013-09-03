@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100609</field>
+<field name="genre">Operas</field>
+<field name="title">À l'honneur de Nancy</field>
+<field name="titleSort">À l'honneur de Nancy</field>
+<field name="composer">Amalie Prinzessin von Sachsen</field>
+<field name="composerSort">Sachsen, Amalie Prinzessin von</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Friedrich August Prinz von SachsenlibrettistSortFriedrich August Prinz von
+SachsentheaterKleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+l'honneur+de+Nancy+Amalie+Prinzessin+von+Sachsen&amp;search_field=search</field>
+</doc>
+</add>

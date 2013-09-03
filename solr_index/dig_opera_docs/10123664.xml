@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123664</field>
+<field name="genre">Operas</field>
+<field name="title">Descrizione dell'isola Ferdinandea</field>
+<field name="titleSort">Descrizione dell'isola Ferdinandea</field>
+<field name="composer">Francesco Pennisi</field>
+<field name="composerSort">Pennisi, Francesco</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Francesco Pennisi</field>
+<field name="librettistSort">Pennisi, Francesco</field>
+<field name="theater">Teatro Olimpico</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Descrizione+dell'isola+Ferdinandea+Francesco+Pennisi&amp;search_field=search</field>
+</doc>
+</add>

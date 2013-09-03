@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100823</field>
+<field name="genre">Operas</field>
+<field name="title">"I raggiri d'amore, ossia Il rapitor deluso</field>
+<field name="titleSort">"raggiri d'amore, ossia Il rapitor deluso"</field>
+<field name="composer">Giorgio Anglais</field>
+<field name="composerSort">Anglais, Giorgio</field>
+<field name="year">1803</field>
+<field name="date">1803</field><field name="theater">Teatro d'Angennes</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+raggiri+d'amore,+ossia+Il+rapitor+deluso+Giorgio+Anglais&amp;search_field=search</field>
+</doc>
+</add>

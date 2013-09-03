@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101755</field>
+<field name="genre">Operas</field>
+<field name="title">Willemoes</field>
+<field name="titleSort">Willemoes</field>
+<field name="composer">Emilius Bangert</field>
+<field name="composerSort">Bangert, Emilius</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Lauritz Christian Nielsen</field>
+<field name="librettistSort">Nielsen, Lauritz Christian</field>
+<field name="theater">Folketeatret</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Willemoes+Emilius+Bangert&amp;search_field=search</field>
+</doc>
+</add>

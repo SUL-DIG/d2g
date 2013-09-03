@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131878</field>
+<field name="genre">Operas</field>
+<field name="title">Otello</field>
+<field name="titleSort">Otello</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Arrigo Boito</field>
+<field name="librettistSort">Boito, Arrigo</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Otello+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

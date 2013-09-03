@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127877</field>
+<field name="genre">Operas</field>
+<field name="title">Caritas</field>
+<field name="titleSort">Caritas</field>
+<field name="composer">Robert Saxton</field>
+<field name="composerSort">Saxton, Robert</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Arnold Wesker</field>
+<field name="librettistSort">Wesker, Arnold</field>
+<field name="theater">Wakefield Opera House</field>
+<field name="city">Wakefield</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caritas+Robert+Saxton&amp;search_field=search</field>
+</doc>
+</add>

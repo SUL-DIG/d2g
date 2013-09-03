@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130262</field>
+<field name="genre">Operas</field>
+<field name="title">Peggy</field>
+<field name="titleSort">Peggy</field>
+<field name="composer">[Thomas Augustine Barrett] Leslie Stuart</field>
+<field name="composerSort">Stuart, [Thomas Augustine Barrett] Leslie</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">George Grossmith (jr.)</field>
+<field name="librettistSort">Grossmith (jr.), George</field>
+<field name="librettist">Charles Henry Bovill</field>
+<field name="librettistSort">Bovill, Charles Henry</field>
+<field name="theater">Gaiety Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peggy+Thomas+Augustine+Barrett]+Leslie+Stuart&amp;search_field=search</field>
+</doc>
+</add>

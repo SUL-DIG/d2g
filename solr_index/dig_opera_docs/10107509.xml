@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107509</field>
+<field name="genre">Operas</field>
+<field name="title">Jakob und Benjamin</field>
+<field name="titleSort">Jakob und Benjamin</field>
+<field name="composer">Johann Michael Demmler</field>
+<field name="composerSort">Demmler, Johann Michael</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Katholische Schulhaus bei Sankt Salvator</field>
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jakob+und+Benjamin+Johann+Michael+Demmler&amp;search_field=search</field>
+</doc>
+</add>

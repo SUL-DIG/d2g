@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116696</field>
+<field name="genre">Operas</field>
+<field name="title">Nils Holgersson</field>
+<field name="titleSort">Nils Holgersson</field>
+<field name="composer">Bjørn Kruse</field>
+<field name="composerSort">Kruse, Bjørn</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Eva Strandin</field>
+<field name="librettistSort">Strandin, Eva</field>
+<field name="librettist">Selma Lagerlöf</field>
+<field name="librettistSort">Lagerlöf, Selma</field>
+<field name="theater">Värmlandsoperan</field>
+<field name="city">Karlstad</field>
+<field name="region">Värmland</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nils+Holgersson+Bjørn+Kruse&amp;search_field=search</field>
+</doc>
+</add>

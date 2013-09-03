@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125105</field>
+<field name="genre">Operas</field>
+<field name="title">The Whistler</field>
+<field name="titleSort">Whistler</field>
+<field name="composer">William Presser</field>
+<field name="composerSort">Presser, William</field>
+<field name="year">1959</field>
+<field name="date">1959</field><field name="theater">Southern Mississippi University</field>
+<field name="city">Hattiesburg</field>
+<field name="region">Mississippi</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Whistler+William+Presser&amp;search_field=search</field>
+</doc>
+</add>

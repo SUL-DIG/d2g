@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103246</field>
+<field name="genre">Operas</field>
+<field name="title">Regina</field>
+<field name="titleSort">Regina</field>
+<field name="composer">Marc Blitzstein</field>
+<field name="composerSort">Blitzstein, Marc</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Marc Blitzstein</field>
+<field name="librettistSort">Blitzstein, Marc</field>
+<field name="librettist">Lillian Hellman</field>
+<field name="librettistSort">Hellman, Lillian</field>
+<field name="theater">Shubert Theater</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Regina+Marc+Blitzstein&amp;search_field=search</field>
+</doc>
+</add>

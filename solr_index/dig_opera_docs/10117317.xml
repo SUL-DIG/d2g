@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117317</field>
+<field name="genre">Operas</field>
+<field name="title">L'amant corsaire</field>
+<field name="titleSort">amant corsaire</field>
+<field name="composer">Adrien-Nicolas de La Salle</field>
+<field name="composerSort">Salle, Adrien-Nicolas de La</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Aglaé Deslacs d'Arcambal de Salverte</field>
+<field name="librettistSort">Salverte, Aglaé Deslacs d'Arcambal de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+corsaire+Adrien-Nicolas+de+La+Salle&amp;search_field=search</field>
+</doc>
+</add>

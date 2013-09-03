@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104619</field>
+<field name="genre">Operas</field>
+<field name="title">Amalasunta</field>
+<field name="titleSort">Amalasunta</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1726</field>
+<field name="date">1726</field>
+<field name="librettist">[Francesco Antonio Blinoni] Nicodeno Blinoni</field>
+<field name="librettistSort">Blinoni, Nicodeno [Francesco Antonio Blinoni]</field>
+<field name="theater">Schloss Questenberg</field>
+<field name="city">Jaromerice</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amalasunta+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

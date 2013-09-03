@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117306</field>
+<field name="genre">Operas</field>
+<field name="title">"Tumbledown Dick, or The Taste of the Times</field>
+<field name="titleSort">"Tumbledown Dick, or The Taste of the Times"</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Vern Sutton</field>
+<field name="librettistSort">Sutton, Vern</field>
+<field name="librettist">Henry Fielding</field>
+<field name="librettistSort">Fielding, Henry</field>
+<field name="theater">Minnesota Opera Workshop</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tumbledown+Dick,+or+The+Taste+of+the+Times+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

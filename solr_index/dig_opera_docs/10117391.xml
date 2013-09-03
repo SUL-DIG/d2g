@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117391</field>
+<field name="genre">Operas</field>
+<field name="title">Tito Manlio</field>
+<field name="titleSort">Tito Manlio</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Gaetano Roccaforte</field>
+<field name="librettistSort">Roccaforte, Gaetano</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+Manlio+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

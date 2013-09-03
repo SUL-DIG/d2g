@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104638</field>
+<field name="genre">Operas</field>
+<field name="title">Dafne</field>
+<field name="titleSort">Dafne</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1719</field>
+<field name="date">1719</field>
+<field name="librettist">Giovanni Biavi</field>
+<field name="librettistSort">Biavi, Giovanni</field>
+<field name="theater">Heckentheater im Mirabellgarten</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dafne+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

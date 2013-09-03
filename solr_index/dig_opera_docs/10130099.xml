@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130099</field>
+<field name="genre">Operas</field>
+<field name="title">La Rosaura</field>
+<field name="titleSort">Rosaura</field>
+<field name="composer">Alessandro Stradella</field>
+<field name="composerSort">Stradella, Alessandro</field>
+<field name="year">1688</field>
+<field name="date">1688</field><field name="theater">Palazzo Doria Pamphili</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Rosaura+Alessandro+Stradella&amp;search_field=search</field>
+</doc>
+</add>

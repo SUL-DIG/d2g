@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109585</field>
+<field name="genre">Operas</field>
+<field name="title">Il furbo contro il furbo</field>
+<field name="titleSort">furbo contro il furbo</field>
+<field name="composer">Carlo Ferrari</field>
+<field name="composerSort">Ferrari, Carlo</field>
+<field name="year">1797</field>
+<field name="date">1797</field><field name="theater">Teatro di San Pietro</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+furbo+contro+il+furbo+Carlo+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

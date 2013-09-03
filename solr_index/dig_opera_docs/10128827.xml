@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128827</field>
+<field name="genre">Operas</field>
+<field name="title">Savottaooppera (Logging Opera)</field>
+<field name="titleSort">Savottaooppera (Logging Opera)</field>
+<field name="composer">Carlos Sedano</field>
+<field name="composerSort">Sedano, Carlos</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Seppo Lappalainen</field>
+<field name="librettistSort">Lappalainen, Seppo</field>
+<field name="theater">Kaupungin Teatteri</field>
+<field name="city">Savonlinna</field>
+<field name="region">Mikkelin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Savottaooppera+Logging+Opera+Carlos+Sedano&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126117</field>
+<field name="genre">Operas</field>
+<field name="title">The Rescue</field>
+<field name="titleSort">Rescue</field>
+<field name="composer">Alan Ridout</field>
+<field name="composerSort">Ridout, Alan</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">David Holbrook</field>
+<field name="librettistSort">Holbrook, David</field>
+<field name="theater">Stables Theatre</field>
+<field name="city">Hastings</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rescue+Alan+Ridout&amp;search_field=search</field>
+</doc>
+</add>

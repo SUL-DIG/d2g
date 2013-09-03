@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200933</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La decollazione di San Giovanni Battista</field>
+		<field name="titleSort">decollazione di San Giovanni Battista</field>
+		<field name="year">1709</field>
+		
+		
+		<field name="date">1709</field>
+		<field name="composer">Antonio Maria Bononcini</field>
+		<field name="composerSort">Bononcini, Antonio Maria</field>
+		<field name="librettist">Giovanni Domenico Filippeschi</field>
+		<field name="librettistSort">Filippeschi, Giovanni Domen</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint John the Baptist</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">June 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+decollazione+di+San+Giovanni+Battista+Antonio+Maria+Bononcini&amp;search_field=search</field>
+	</doc></add>

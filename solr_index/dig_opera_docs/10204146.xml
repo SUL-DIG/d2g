@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204146</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Ignazio de Loyola</field>
+		<field name="titleSort">Sant' Ignazio de Loyola</field>
+		
+		
+		
+		
+		<field name="composer">Loreto Vittori</field>
+		<field name="composerSort">Vittori, Loreto</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Ignatius of Loyola</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">31</field>
+		<field name="feastDate">July 31</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Ignazio+de+Loyola+Loreto+Vittori&amp;search_field=search</field>
+	</doc></add>

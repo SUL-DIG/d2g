@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100502</field>
+<field name="genre">Operas</field>
+<field name="title">L'ultimo lord</field>
+<field name="titleSort">ultimo lord</field>
+<field name="composer">Franco Alfano</field>
+<field name="composerSort">Alfano, Franco</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Ugo Falena</field>
+<field name="librettistSort">Falena, Ugo</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ultimo+lord+Franco+Alfano&amp;search_field=search</field>
+</doc>
+</add>

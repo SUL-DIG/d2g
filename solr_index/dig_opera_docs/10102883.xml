@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102883</field>
+<field name="genre">Operas</field>
+<field name="title">"Corali, ou La lanterne magique</field>
+<field name="titleSort">"Corali, ou La lanterne magique"</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">André-Joseph Grétry</field>
+<field name="librettistSort">Grétry, André-Joseph</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corali,+ou+La+lanterne+magique+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

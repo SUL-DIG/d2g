@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117719</field>
+<field name="genre">Operas</field>
+<field name="title">Antioco il grande</field>
+<field name="titleSort">Antioco il grande</field>
+<field name="composer">Giovanni Legrenzi</field>
+<field name="composerSort">Legrenzi, Giovanni</field>
+<field name="year">1681</field>
+<field name="date">1681</field>
+<field name="librettist">Girolamo Frisari</field>
+<field name="librettistSort">Frisari, Girolamo</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antioco+il+grande+Giovanni+Legrenzi&amp;search_field=search</field>
+</doc>
+</add>

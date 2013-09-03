@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118029</field>
+<field name="genre">Operas</field>
+<field name="title">L'héritage d'un Postillon</field>
+<field name="titleSort">héritage d'un Postillon</field>
+<field name="composer">Auguste Léveillé</field>
+<field name="composerSort">Léveillé, Auguste</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Amédée de Jallais</field>
+<field name="librettistSort">Jallais, Amédée de</field>
+<field name="librettist">Francis Tourte</field>
+<field name="librettistSort">Tourte, Francis</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héritage+d'un+Postillon+Auguste+Léveillé&amp;search_field=search</field>
+</doc>
+</add>

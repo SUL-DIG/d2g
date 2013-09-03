@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123856</field>
+<field name="genre">Operas</field>
+<field name="title">Furio Camillo</field>
+<field name="titleSort">Furio Camillo</field>
+<field name="composer">Giacomo Antonio Perti</field>
+<field name="composerSort">Perti, Giacomo Antonio</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">Matteo Noris</field>
+<field name="librettistSort">Noris, Matteo</field>
+<field name="theater">Teatro Vendramin di San Salvatore</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Furio+Camillo+Giacomo+Antonio+Perti&amp;search_field=search</field>
+</doc>
+</add>

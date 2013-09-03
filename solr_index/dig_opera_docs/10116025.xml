@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116025</field>
+<field name="genre">Operas</field>
+<field name="title">Die Räuber</field>
+<field name="titleSort">Räuber</field>
+<field name="composer">Giselher Klebe</field>
+<field name="composerSort">Klebe, Giselher</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Giselher Klebe</field>
+<field name="librettistSort">Klebe, Giselher</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
+<field name="theater">Deutsche Oper am Rhein</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Räuber+Giselher+Klebe&amp;search_field=search</field>
+</doc>
+</add>

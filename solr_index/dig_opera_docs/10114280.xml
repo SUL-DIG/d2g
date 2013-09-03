@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114280</field>
+<field name="genre">Operas</field>
+<field name="title">Teora: the Enchanted Flute</field>
+<field name="titleSort">Teora: the Enchanted Flute</field>
+<field name="composer">Alfred Hill</field>
+<field name="composerSort">Hill, Alfred</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Alfred Hill</field>
+<field name="librettistSort">Hill, Alfred</field>
+<field name="theater">Turret Theatre</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teora:+the+Enchanted+Flute+Alfred+Hill&amp;search_field=search</field>
+</doc>
+</add>

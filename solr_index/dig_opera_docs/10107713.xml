@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107713</field>
+<field name="genre">Operas</field>
+<field name="title">Benvenuto</field>
+<field name="titleSort">Benvenuto</field>
+<field name="composer">Eugène-Émile Diaz</field>
+<field name="composerSort">Diaz, Eugène-Émile</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Gaston Hirsch</field>
+<field name="librettistSort">Hirsch, Gaston</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Benvenuto+Eugène-Émile+Diaz&amp;search_field=search</field>
+</doc>
+</add>

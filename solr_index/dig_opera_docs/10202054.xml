@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202054</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco figura del Redentore</field>
+		<field name="titleSort">Isacco figura del Redentore</field>
+		<field name="year">1722</field>
+		
+		
+		<field name="date">1722</field>
+		<field name="composer">Pietro Chiarini</field>
+		<field name="composerSort">Chiarini, Pietro</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Congregazione dell'Oratorio di San Filippo Neri</field>
+		<field name="city">Genoa</field>
+		<field name="region">Liguria</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Pietro+Chiarini&amp;search_field=search</field>
+	</doc></add>

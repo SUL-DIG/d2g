@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117305</field>
+<field name="genre">Operas</field>
+<field name="title">Some Pig</field>
+<field name="titleSort">Some Pig</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Libby Larsen</field>
+<field name="librettistSort">Larsen, Libby</field>
+<field name="librettist">Elwyn Brooks White</field>
+<field name="librettistSort">White, Elwyn Brooks</field>
+<field name="theater">University of Minnesota</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Some+Pig+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

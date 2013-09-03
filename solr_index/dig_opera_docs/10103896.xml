@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103896</field>
+<field name="genre">Operas</field>
+<field name="title">La chambre bleue</field>
+<field name="titleSort">chambre bleue</field>
+<field name="composer">Jules Bouval</field>
+<field name="composerSort">Bouval, Jules</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Édouard Noël</field>
+<field name="librettistSort">Noël, Édouard</field>
+<field name="librettist">Antony Mars</field>
+<field name="librettistSort">Mars, Antony</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chambre+bleue+Jules+Bouval&amp;search_field=search</field>
+</doc>
+</add>

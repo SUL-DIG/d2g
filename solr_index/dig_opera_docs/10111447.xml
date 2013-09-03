@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111447</field>
+<field name="genre">Operas</field>
+<field name="title">Maritana</field>
+<field name="titleSort">Maritana</field>
+<field name="composer">Bruno Gellert</field>
+<field name="composerSort">Gellert, Bruno</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Diego Perez</field>
+<field name="librettistSort">Perez, Diego</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maritana+Bruno+Gellert&amp;search_field=search</field>
+</doc>
+</add>

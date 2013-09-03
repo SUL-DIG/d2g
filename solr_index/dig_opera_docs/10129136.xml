@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129136</field>
+<field name="genre">Operas</field>
+<field name="title">Giuditta</field>
+<field name="titleSort">Giuditta</field>
+<field name="composer">Domenico Silveri</field>
+<field name="composerSort">Silveri, Domenico</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuditta+Domenico+Silveri&amp;search_field=search</field>
+</doc>
+</add>

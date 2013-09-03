@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132303</field>
+<field name="genre">Operas</field>
+<field name="title">Island-Saga</field>
+<field name="titleSort">Island-Saga</field>
+<field name="composer">Georg Vollerthun</field>
+<field name="composerSort">Vollerthun, Georg</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">[Bertha Thiersch] Walter Bergh</field>
+<field name="librettistSort">Bergh, Walter [Bertha Thiersch]</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Island-Saga+Georg+Vollerthun&amp;search_field=search</field>
+</doc>
+</add>

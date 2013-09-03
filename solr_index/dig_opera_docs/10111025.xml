@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111025</field>
+<field name="genre">Operas</field>
+<field name="title">Il fazzoletto</field>
+<field name="titleSort">fazzoletto</field>
+<field name="composer">Manuel García</field>
+<field name="composerSort">García, Manuel</field>
+<field name="year">1820</field>
+<field name="date">1820</field><field name="theater">Théâtre-Italien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fazzoletto+Manuel+García&amp;search_field=search</field>
+</doc>
+</add>

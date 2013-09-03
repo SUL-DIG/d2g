@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117135</field>
+<field name="genre">Operas</field>
+<field name="title">The Kiss Accepted &amp; Returned</field>
+<field name="titleSort">Kiss Accepted &amp; Returned</field>
+<field name="composer">John Frederick Lampe</field>
+<field name="composerSort">Lampe, John Frederick</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">James Ayres</field>
+<field name="librettistSort">Ayres, James</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Kiss+Accepted&amp;+Returned+John+Frederick+Lampe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129498</field>
+<field name="genre">Operas</field>
+<field name="title">The Mountaineers</field>
+<field name="titleSort">Mountaineers</field>
+<field name="composer">Reginald Somerville</field>
+<field name="composerSort">Somerville, Reginald</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Guy Eden</field>
+<field name="librettistSort">Eden, Guy</field>
+<field name="librettist">Reginald Somerville</field>
+<field name="librettistSort">Somerville, Reginald</field>
+<field name="theater">Savoy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mountaineers+Reginald+Somerville&amp;search_field=search</field>
+</doc>
+</add>

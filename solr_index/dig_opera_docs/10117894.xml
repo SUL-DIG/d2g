@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117894</field>
+<field name="genre">Operas</field>
+<field name="title">"Sesostri, re d'Egitto</field>
+<field name="titleSort">"Sesostri, re d'Egitto"</field>
+<field name="composer">Leonardo Leo</field>
+<field name="composerSort">Leo, Leonardo</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Academia da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sesostri,+re+d'Egitto+Leonardo+Leo&amp;search_field=search</field>
+</doc>
+</add>

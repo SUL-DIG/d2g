@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105301</field>
+<field name="genre">Operas</field>
+<field name="title">Il Carattaco</field>
+<field name="titleSort">Carattaco</field>
+<field name="composer">Angelo Catelani</field>
+<field name="composerSort">Catelani, Angelo</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Antonio Peretti</field>
+<field name="librettistSort">Peretti, Antonio</field>
+<field name="theater">Teatro Comunale Nuovo</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Carattaco+Angelo+Catelani&amp;search_field=search</field>
+</doc>
+</add>

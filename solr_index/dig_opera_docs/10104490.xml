@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104490</field>
+<field name="genre">Operas</field>
+<field name="title">Wat Tyler</field>
+<field name="titleSort">Wat Tyler</field>
+<field name="composer">Alan Bush</field>
+<field name="composerSort">Bush, Alan</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+<field name="theater">Drei Linden Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wat+Tyler+Alan+Bush&amp;search_field=search</field>
+</doc>
+</add>

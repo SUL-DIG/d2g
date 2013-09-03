@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101600</field>
+<field name="genre">Operas</field>
+<field name="title">"Ercole, vincitore di Gerione</field>
+<field name="titleSort">"Ercole, vincitore di Gerione"</field>
+<field name="composer">Carlo Agostino Badia</field>
+<field name="composerSort">Badia, Carlo Agostino</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Pietro Antonio Bernardoni</field>
+<field name="librettistSort">Bernardoni, Pietro Antonio</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ercole,+vincitore+di+Gerione+Carlo+Agostino+Badia&amp;search_field=search</field>
+</doc>
+</add>

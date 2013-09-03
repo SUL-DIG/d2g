@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101890</field>
+<field name="genre">Operas</field>
+<field name="title">The Glory Coach</field>
+<field name="titleSort">Glory Coach</field>
+<field name="composer">Francis Barnard</field>
+<field name="composerSort">Barnard, Francis</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Francis Barnard</field>
+<field name="librettistSort">Barnard, Francis</field>
+<field name="theater">First Presbyterian Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Glory+Coach+Francis+Barnard&amp;search_field=search</field>
+</doc>
+</add>

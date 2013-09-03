@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204866</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vocazione di San Francesco d'Assisi</field>
+		<field name="titleSort">vocazione di San Francesco d'Assisi</field>
+		<field name="year">1749</field>
+		
+		
+		<field name="date">1749</field>
+		<field name="composer">Antonio Gaetano Pampani</field>
+		<field name="composerSort">Pampani, Antonio Gaetano</field>
+		<field name="librettist">A. Scardarilla</field>
+		<field name="librettistSort">Scardarilla, A.</field>
+		
+		
+		<field name="city">Gubbio</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vocazione+di+San+Francesco+d'Assisi+Antonio+Gaetano+Pampani&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101927</field>
+<field name="genre">Operas</field>
+<field name="title">Atahualpa</field>
+<field name="titleSort">Atahualpa</field>
+<field name="composer">Enrique Barrera y Gomez</field>
+<field name="composerSort">Gomez, Enrique Barrera y</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Victor Gil</field>
+<field name="librettistSort">Gil, Victor</field>
+<field name="theater">Teatro Calderón</field>
+<field name="city">Valladolid</field>
+<field name="region">Castilla-León</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atahualpa+Enrique+Barrera+y+Gomez&amp;search_field=search</field>
+</doc>
+</add>

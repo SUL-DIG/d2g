@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107418</field>
+<field name="genre">Operas</field>
+<field name="title">Lakmé</field>
+<field name="titleSort">Lakmé</field>
+<field name="composer">Léo Delibes</field>
+<field name="composerSort">Delibes, Léo</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Edmond Gondinet</field>
+<field name="librettistSort">Gondinet, Edmond</field>
+<field name="librettist">Philippe Gille</field>
+<field name="librettistSort">Gille, Philippe</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lakmé+Léo+Delibes&amp;search_field=search</field>
+</doc>
+</add>

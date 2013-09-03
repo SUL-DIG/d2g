@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125139</field>
+<field name="genre">Operas</field>
+<field name="title">Obrucheniye v monastïre</field>
+<field name="titleSort">Obrucheniye v monastïre</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Mira Aleksandrovna Mendelson</field>
+<field name="librettistSort">Mendelson, Mira Aleksandrovna</field>
+<field name="theater">Teatr Opernïy imeni S. M. Kirova</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Obrucheniye+v+monastïre+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

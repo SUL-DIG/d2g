@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127068</field>
+<field name="genre">Operas</field>
+<field name="title">Land of Milk and Honey</field>
+<field name="titleSort">Land of Milk and Honey</field>
+<field name="composer">William Russo</field>
+<field name="composerSort">Russo, William</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Stuart Douglass</field>
+<field name="librettistSort">Douglass, Stuart</field>
+<field name="theater">Saint James Methodist Church</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Land+of+Milk+and+Honey+William+Russo&amp;search_field=search</field>
+</doc>
+</add>

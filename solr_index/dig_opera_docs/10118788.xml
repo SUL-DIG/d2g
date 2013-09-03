@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118788</field>
+<field name="genre">Operas</field>
+<field name="title">O espadachin do outeiro</field>
+<field name="titleSort">espadachin do outeiro</field>
+<field name="composer">Augusto Machado</field>
+<field name="composerSort">Machado, Augusto</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Henrique Lopes de Mendonça</field>
+<field name="librettistSort">Mendonça, Henrique Lopes de</field>
+<field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+espadachin+do+outeiro+Augusto+Machado&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128682</field>
+<field name="genre">Operas</field>
+<field name="title">Amore e Psiche</field>
+<field name="titleSort">Amore e Psiche</field>
+<field name="composer">Salvatore Sciarrino</field>
+<field name="composerSort">Sciarrino, Salvatore</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Aurelio Pes</field>
+<field name="librettistSort">Pes, Aurelio</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+Psiche+Salvatore+Sciarrino&amp;search_field=search</field>
+</doc>
+</add>

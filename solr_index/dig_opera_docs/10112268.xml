@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112268</field>
+<field name="genre">Operas</field>
+<field name="title">Der Müller von Sanssouci</field>
+<field name="titleSort">Müller von Sanssouci</field>
+<field name="composer">Eduard Goepfart</field>
+<field name="composerSort">Goepfart, Eduard</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Karl Berg</field>
+<field name="librettistSort">Berg, Karl</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Müller+von+Sanssouci+Eduard+Goepfart&amp;search_field=search</field>
+</doc>
+</add>

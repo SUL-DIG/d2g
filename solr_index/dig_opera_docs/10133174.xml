@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133174</field>
+<field name="genre">Operas</field>
+<field name="title">Daisy</field>
+<field name="titleSort">Daisy</field>
+<field name="composer">Henry Joseph Wood</field>
+<field name="composerSort">Wood, Henry Joseph</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">[Fred Grove] F. Grove Palmer</field>
+<field name="librettistSort">Palmer, F. Grove [Fred Grove]</field>
+<field name="theater">Town Hall</field>
+<field name="city">Kilburn</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daisy+Henry+Joseph+Wood&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131695</field>
+<field name="genre">Operas</field>
+<field name="title">Kermisweelde</field>
+<field name="titleSort">Kermisweelde</field>
+<field name="composer">Arthur Van Dooren</field>
+<field name="composerSort">Dooren, Arthur Van</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Georges Rouckhout</field>
+<field name="librettistSort">Rouckhout, Georges</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kermisweelde+Arthur+Van+Dooren&amp;search_field=search</field>
+</doc>
+</add>

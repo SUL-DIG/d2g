@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117022</field>
+<field name="genre">Operas</field>
+<field name="title">La rivalité villageoise</field>
+<field name="titleSort">rivalité villageoise</field>
+<field name="composer">Charles Philippe Lafont</field>
+<field name="composerSort">Lafont, Charles Philippe</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">[Philibert Rozet] Philibert</field>
+<field name="librettistSort">Philibert, [Philibert Rozet]</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rivalité+villageoise+Charles+Philippe+Lafont&amp;search_field=search</field>
+</doc>
+</add>

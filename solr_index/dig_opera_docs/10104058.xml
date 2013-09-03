@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104058</field>
+<field name="genre">Operas</field>
+<field name="title">Seara mare (Great Evening)</field>
+<field name="titleSort">Seara mare (Great Evening)</field>
+<field name="composer">Tiberiu Brediceanu</field>
+<field name="composerSort">Brediceanu, Tiberiu</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Tiberiu Brediceanu</field>
+<field name="librettistSort">Brediceanu, Tiberiu</field>
+<field name="librettist">Adrian Maniu</field>
+<field name="librettistSort">Maniu, Adrian</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Cluj-Napoca</field>
+<field name="region">Cluj</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seara+mare+Great+Evening+Tiberiu+Brediceanu&amp;search_field=search</field>
+</doc>
+</add>

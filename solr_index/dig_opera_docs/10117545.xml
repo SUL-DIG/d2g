@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117545</field>
+<field name="genre">Operas</field>
+<field name="title">Le berceau d'Henri IV</field>
+<field name="titleSort">berceau d'Henri IV</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1790</field>
+<field name="date">1790</field><field name="theater">Théâtre-Française Comique et Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+berceau+d'Henri+IV+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

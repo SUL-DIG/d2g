@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108960</field>
+<field name="genre">Operas</field>
+<field name="title">Hannele Mattern</field>
+<field name="titleSort">Hannele Mattern</field>
+<field name="composer">Camille Erlanger</field>
+<field name="composerSort">Erlanger, Camille</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">[Jules Raymond Virgile Bouthors] Jean Thorel</field>
+<field name="librettistSort">Thorel, Jean [Jules Raymond Virgile Bouthors]</field>
+<field name="librettist">Louis de Gramont</field>
+<field name="librettistSort">Gramont, Louis de</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hannele+Mattern+Camille+Erlanger&amp;search_field=search</field>
+</doc>
+</add>

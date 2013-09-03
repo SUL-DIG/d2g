@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120983</field>
+<field name="genre">Operas</field>
+<field name="title">Spartacus</field>
+<field name="titleSort">Spartacus</field>
+<field name="composer">Joseph Jean Baptiste Monsigu</field>
+<field name="composerSort">Monsigu, Joseph Jean Baptiste</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Claude Rollo</field>
+<field name="librettistSort">Rollo, Claude</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spartacus+Joseph+Jean+Baptiste+Monsigu&amp;search_field=search</field>
+</doc>
+</add>

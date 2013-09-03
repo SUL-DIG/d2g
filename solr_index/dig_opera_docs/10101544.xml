@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101544</field>
+<field name="genre">Operas</field>
+<field name="title">The Fairy Favour</field>
+<field name="titleSort">Fairy Favour</field>
+<field name="composer">Johann Christian Bach</field>
+<field name="composerSort">Bach, Johann Christian</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Thomas Hull</field>
+<field name="librettistSort">Hull, Thomas</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fairy+Favour+Johann+Christian+Bach&amp;search_field=search</field>
+</doc>
+</add>

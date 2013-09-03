@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118919</field>
+<field name="genre">Operas</field>
+<field name="title">"Wallrad und Evchen, oder Die Parforsjagd</field>
+<field name="titleSort">"Wallrad und Evchen, oder Die Parforsjagd"</field>
+<field name="composer">Johann Ludwig Maier</field>
+<field name="composerSort">Maier, Johann Ludwig</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Ludwig Philipp Hahn</field>
+<field name="librettistSort">Hahn, Ludwig Philipp</field>
+
+<field name="city">Zweibrücken</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wallrad+und+Evchen,+oder+Die+Parforsjagd+Johann+Ludwig+Maier&amp;search_field=search</field>
+</doc>
+</add>

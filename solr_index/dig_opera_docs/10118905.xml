@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118905</field>
+<field name="genre">Operas</field>
+<field name="title">Hotel Venere</field>
+<field name="titleSort">Hotel Venere</field>
+<field name="composer">Carlo Magno</field>
+<field name="composerSort">Magno, Carlo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Salvatore Araia</field>
+<field name="librettistSort">Araia, Salvatore</field>
+<field name="theater">Filarmonica Bellini</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hotel+Venere+Carlo+Magno&amp;search_field=search</field>
+</doc>
+</add>

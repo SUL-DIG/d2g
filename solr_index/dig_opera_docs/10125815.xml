@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125815</field>
+<field name="genre">Operas</field>
+<field name="title">Die Sprudelfee</field>
+<field name="titleSort">Sprudelfee</field>
+<field name="composer">Heinrich Reinhardt</field>
+<field name="composerSort">Reinhardt, Heinrich</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Julius Wilhelm</field>
+<field name="librettistSort">Wilhelm, Julius</field>
+<field name="librettist">Alfred Maria Willner</field>
+<field name="librettistSort">Willner, Alfred Maria</field>
+<field name="theater">Raimundtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Sprudelfee+Heinrich+Reinhardt&amp;search_field=search</field>
+</doc>
+</add>

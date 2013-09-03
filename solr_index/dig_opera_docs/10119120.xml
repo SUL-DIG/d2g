@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119120</field>
+<field name="genre">Operas</field>
+<field name="title">Devoir et Patrie</field>
+<field name="titleSort">Devoir et Patrie</field>
+<field name="composer">Michel Mandleur</field>
+<field name="composerSort">Mandleur, Michel</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">G. Devraine</field>
+<field name="librettistSort">Devraine, G.</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Devoir+et+Patrie+Michel+Mandleur&amp;search_field=search</field>
+</doc>
+</add>

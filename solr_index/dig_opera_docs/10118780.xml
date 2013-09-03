@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118780</field>
+<field name="genre">Operas</field>
+<field name="title">Robin Hood</field>
+<field name="titleSort">Robin Hood</field>
+<field name="composer">George Alexander Macfarren</field>
+<field name="composerSort">Macfarren, George Alexander</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">John Oxenford</field>
+<field name="librettistSort">Oxenford, John</field>
+<field name="theater">"Her Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robin+Hood+George+Alexander+Macfarren&amp;search_field=search</field>
+</doc>
+</add>

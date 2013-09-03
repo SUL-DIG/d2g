@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201519</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gesù nel pretorio, osia L'innocenza giudicata della malizia</field>
+		<field name="titleSort">Gesù nel pretorio, osia L'innocenza giudicata della malizia</field>
+		<field name="year">1700</field>
+		<field name="month">April</field>
+		<field name="day">10</field>
+		<field name="date">April 10, 1700</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		<field name="librettist">Girolamo Frigimelica Roberti</field>
+		<field name="librettistSort">Roberti, Girolamo Frigimeli</field>
+		
+		<field name="theater">Sankta-Ursula</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Christ before Pilate</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesù+nel+pretorio,+osia+L'innocenza+giudicata+della+malizia+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

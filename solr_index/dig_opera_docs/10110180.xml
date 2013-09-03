@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110180</field>
+<field name="genre">Operas</field>
+<field name="title">Amerikantsï (The Americans)</field>
+<field name="titleSort">Amerikantsï (The Americans)</field>
+<field name="composer">Yevstigney Ipat'yevich Fomin</field>
+<field name="composerSort">Fomin, Yevstigney Ipat'yevich</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Ivan Andreyevich Krïlov</field>
+<field name="librettistSort">Krïlov, Ivan Andreyevich</field>
+<field name="librettist">Aleksandr Ivanovich Klushin</field>
+<field name="librettistSort">Klushin, Aleksandr Ivanovich</field>
+<field name="theater">Bol'shoy Kamennïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amerikantsï+The+Americans+Yevstigney+Ipat'yevich+Fomin&amp;search_field=search</field>
+</doc>
+</add>

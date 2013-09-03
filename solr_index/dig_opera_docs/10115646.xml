@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115646</field>
+<field name="genre">Operas</field>
+<field name="title">Antonio Foscarini</field>
+<field name="titleSort">Antonio Foscarini</field>
+<field name="composer">__ Kantukuzenos</field>
+<field name="composerSort">Kantukuzenos, __</field>
+<field name="year">1860</field>
+<field name="date">1860</field><field name="theater">Teatr Odessy</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antonio+Foscarini+__+Kantukuzenos&amp;search_field=search</field>
+</doc>
+</add>

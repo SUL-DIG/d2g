@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113857</field>
+<field name="genre">Operas</field>
+<field name="title">"Mathilde und Knauserl, oder Die Wucherschätze</field>
+<field name="titleSort">"Mathilde und Knauserl, oder Die Wucherschätze"</field>
+<field name="composer">Michael Hebenstreit</field>
+<field name="composerSort">Hebenstreit, Michael</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Josef Schickh</field>
+<field name="librettistSort">Schickh, Josef</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mathilde+und+Knauserl,+oder+Die+Wucherschätze+Michael+Hebenstreit&amp;search_field=search</field>
+</doc>
+</add>

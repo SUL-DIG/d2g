@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111401</field>
+<field name="genre">Operas</field>
+<field name="title">Procella</field>
+<field name="titleSort">Procella</field>
+<field name="composer">Luigi Gazzotti</field>
+<field name="composerSort">Gazzotti, Luigi</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Giovanni Marcozzi</field>
+<field name="librettistSort">Marcozzi, Giovanni</field>
+<field name="theater">Nuovo Politeama</field>
+<field name="city">Viareggio</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Procella+Luigi+Gazzotti&amp;search_field=search</field>
+</doc>
+</add>

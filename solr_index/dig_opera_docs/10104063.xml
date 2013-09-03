@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104063</field>
+<field name="genre">Operas</field>
+<field name="title">Liebe ist teuer</field>
+<field name="titleSort">Liebe ist teuer</field>
+<field name="composer">Hans Brehme</field>
+<field name="composerSort">Brehme, Hans</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Franz Clemens</field>
+<field name="librettistSort">Clemens, Franz</field>
+<field name="librettist">Karl Jaroschek</field>
+<field name="librettistSort">Jaroschek, Karl</field>
+<field name="theater">Lortzing-Theater</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebe+ist+teuer+Hans+Brehme&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131300</field>
+<field name="genre">Operas</field>
+<field name="title">Il primo giorno dell'anno</field>
+<field name="titleSort">primo giorno dell'anno</field>
+<field name="composer">Vittorio Trento</field>
+<field name="composerSort">Trento, Vittorio</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Luigi Buonavoglia</field>
+<field name="librettistSort">Buonavoglia, Luigi</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+primo+giorno+dell'anno+Vittorio+Trento&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132341</field>
+<field name="genre">Operas</field>
+<field name="title">Iuditha si Olofern</field>
+<field name="titleSort">Iuditha si Olofern</field>
+<field name="composer">Ion Andrei Wachmann</field>
+<field name="composerSort">Wachmann, Ion Andrei</field>
+
+
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Jean-François-Alfred Bayard</field>
+<field name="librettistSort">Bayard, Jean-François-Alfred"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iuditha+si+Olofern+Ion+Andrei+Wachmann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117314</field>
+<field name="genre">Operas</field>
+<field name="title">L'heureux déguisement</field>
+<field name="titleSort">heureux déguisement</field>
+<field name="composer">Jean-Louis Laruette</field>
+<field name="composerSort">Laruette, Jean-Louis</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Pierre-Augustin Lefebvre de Marcouville</field>
+<field name="librettistSort">Marcouville, Pierre-Augustin Lefebvre de</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'heureux+déguisement+Jean-Louis+Laruette&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112611</field>
+<field name="genre">Operas</field>
+<field name="title">Le feste galanti</field>
+<field name="titleSort">feste galanti</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Leopoldo de Villati</field>
+<field name="librettistSort">Villati, Leopoldo de</field>
+<field name="librettist">Joseph-François Duché de Vancy</field>
+<field name="librettistSort">Duché de Vancy, Joseph-François</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+feste+galanti+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

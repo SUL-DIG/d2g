@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115974</field>
+<field name="genre">Operas</field>
+<field name="title">Das Testament</field>
+<field name="titleSort">Testament</field>
+<field name="composer">Wilhelm Kienzl</field>
+<field name="composerSort">Kienzl, Wilhelm</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Wilhelm Kienzl</field>
+<field name="librettistSort">Kienzl, Wilhelm</field>
+<field name="librettist">Peter Rosegger</field>
+<field name="librettistSort">Rosegger, Peter</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Testament+Wilhelm+Kienzl&amp;search_field=search</field>
+</doc>
+</add>

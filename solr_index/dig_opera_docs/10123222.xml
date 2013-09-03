@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123222</field>
+<field name="genre">Operas</field>
+<field name="title">Rona</field>
+<field name="titleSort">Rona</field>
+<field name="composer">Boris Papandopulo</field>
+<field name="composerSort">Papandopulo, Boris</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Ferdo Delak</field>
+<field name="librettistSort">Delak, Ferdo</field>
+<field name="librettist">Anton Leskovec</field>
+<field name="librettistSort">Leskovec, Anton</field>
+<field name="theater">Hrvatsko Narodno Kazaliste Ivan Zajc</field>
+<field name="city">Rijeka</field>
+<field name="region">Primorje-Gorski</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rona+Boris+Papandopulo&amp;search_field=search</field>
+</doc>
+</add>

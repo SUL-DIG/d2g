@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124423</field>
+<field name="genre">Operas</field>
+<field name="title">Il Parnaso</field>
+<field name="titleSort">Parnaso</field>
+<field name="composer">Francesco Piticchio</field>
+<field name="composerSort">Piticchio, Francesco</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Parnaso+Francesco+Piticchio&amp;search_field=search</field>
+</doc>
+</add>

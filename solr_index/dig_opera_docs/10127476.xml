@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127476</field>
+<field name="genre">Operas</field>
+<field name="title">Les dragées de Suzette</field>
+<field name="titleSort">dragées de Suzette</field>
+<field name="composer">Hector Salomon</field>
+<field name="composerSort">Salomon, Hector</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Jules Delahaye</field>
+<field name="librettistSort">Delahaye, Jules</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dragées+de+Suzette+Hector+Salomon&amp;search_field=search</field>
+</doc>
+</add>

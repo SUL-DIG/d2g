@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109567</field>
+<field name="genre">Operas</field>
+<field name="title">Gordio</field>
+<field name="titleSort">Gordio</field>
+<field name="composer">Giovanni Battista Ferrandini</field>
+<field name="composerSort">Ferrandini, Giovanni Battista</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Perozzo da Perozzi</field>
+<field name="librettistSort">Perozzi, Perozzo da</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gordio+Giovanni+Battista+Ferrandini&amp;search_field=search</field>
+</doc>
+</add>

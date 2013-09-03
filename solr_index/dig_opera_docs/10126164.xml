@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126164</field>
+<field name="genre">Operas</field>
+<field name="title">Le bon fermier</field>
+<field name="titleSort">bon fermier</field>
+<field name="composer">Henri-Joseph Rigel</field>
+<field name="composerSort">Rigel, Henri-Joseph</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Étienne-Joseph-Bernard Delrieu</field>
+<field name="librettistSort">Delrieu, Étienne-Joseph-Bernard</field>
+<field name="librettist">Jean-Louis Gabiot de Salins</field>
+<field name="librettistSort">Gabiot de Salins, Jean-Louis</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bon+fermier+Henri-Joseph+Rigel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130734</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit der Sobeide</field>
+<field name="titleSort">Hochzeit der Sobeide</field>
+<field name="composer">Alexander Tcherepnin</field>
+<field name="composerSort">Tcherepnin, Alexander</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Hugo von Hofmannsthal</field>
+<field name="librettistSort">Hofmannsthal, Hugo von</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+der+Sobeide+Alexander+Tcherepnin&amp;search_field=search</field>
+</doc>
+</add>

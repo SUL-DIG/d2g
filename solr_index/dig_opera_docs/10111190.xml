@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111190</field>
+<field name="genre">Operas</field>
+<field name="title">Ester</field>
+<field name="titleSort">Ester</field>
+<field name="composer">Jole Gasparini</field>
+<field name="composerSort">Gasparini, Jole</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Aldo Martinelli</field>
+<field name="librettistSort">Martinelli, Aldo</field>
+<field name="theater">Teatro Paganini</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+Jole+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

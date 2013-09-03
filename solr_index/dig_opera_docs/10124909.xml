@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124909</field>
+<field name="genre">Operas</field>
+<field name="title">"Le diable а quatre, ou La double métamorphose</field>
+<field name="titleSort">"diable а quatre, ou La double métamorphose"</field>
+<field name="composer">Bernardo Porta</field>
+<field name="composerSort">Porta, Bernardo</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="librettist">Pierre Baurans</field>
+<field name="librettistSort">Baurans, Pierre</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+а+quatre,+ou+La+double+métamorphose+Bernardo+Porta&amp;search_field=search</field>
+</doc>
+</add>

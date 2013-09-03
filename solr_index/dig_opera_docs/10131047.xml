@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131047</field>
+<field name="genre">Operas</field>
+<field name="title">Kesa to Morito (Kesa and Morito)</field>
+<field name="titleSort">Kesa to Morito (Kesa and Morito)</field>
+<field name="composer">Kunio Toda</field>
+<field name="composerSort">Toda, Kunio</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Kunio Toda</field>
+<field name="librettistSort">Toda, Kunio</field>
+<field name="librettist">Ryunosuke Akutagawa</field>
+<field name="librettistSort">Akutagawa, Ryunosuke</field>
+<field name="theater">Aoyama Tower Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kesa+to+Morito+Kesa+and+Morito+Kunio+Toda&amp;search_field=search</field>
+</doc>
+</add>

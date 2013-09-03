@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128181</field>
+<field name="genre">Operas</field>
+<field name="title">Die Schneekönigin</field>
+<field name="titleSort">Schneekönigin</field>
+<field name="composer">Paul Schettler</field>
+<field name="composerSort">Schettler, Paul</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Paul Schettler</field>
+<field name="librettistSort">Schettler, Paul</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schneekönigin+Paul+Schettler&amp;search_field=search</field>
+</doc>
+</add>

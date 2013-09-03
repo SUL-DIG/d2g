@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113113</field>
+<field name="genre">Operas</field>
+<field name="title">Le Kobold</field>
+<field name="titleSort">Kobold</field>
+<field name="composer">Ernest Guiraud</field>
+<field name="composerSort">Guiraud, Ernest</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Kobold+Ernest+Guiraud&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132960</field>
+<field name="genre">Operas</field>
+<field name="title">Rocambole aux enfers</field>
+<field name="titleSort">Rocambole aux enfers</field>
+<field name="composer">Eugène Willent-Bordogni</field>
+<field name="composerSort">Willent-Bordogni, Eugène</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Émile Clerc</field>
+<field name="librettistSort">Clerc, Émile</field>
+<field name="librettist">Édouard Clerc</field>
+<field name="librettistSort">Clerc, Édouard</field>
+<field name="theater">Théâtre des Menus-Plaisirs</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rocambole+aux+enfers+Eugène+Willent-Bordogni&amp;search_field=search</field>
+</doc>
+</add>

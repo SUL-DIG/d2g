@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122060</field>
+<field name="genre">Operas</field>
+<field name="title">Un rapto</field>
+<field name="titleSort">rapto</field>
+<field name="composer">Antonio Nicolau</field>
+<field name="composerSort">Nicolau, Antonio</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Conrado Colomé</field>
+<field name="librettistSort">Colomé, Conrado</field>
+<field name="theater">Teatro Circo de Price</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+rapto+Antonio+Nicolau&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122507</field>
+<field name="genre">Operas</field>
+<field name="title">L'assiuola</field>
+<field name="titleSort">assiuola</field>
+<field name="composer">Alessandro Onofri</field>
+<field name="composerSort">Onofri, Alessandro</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">[Enrico Novelli] Yambo</field>
+<field name="librettistSort">Yambo, [Enrico Novelli]</field>
+<field name="librettist">Lucio Favilla</field>
+<field name="librettistSort">Favilla, Lucio</field>
+<field name="theater">Teatro Drammatico Nazionale</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'assiuola+Alessandro+Onofri&amp;search_field=search</field>
+</doc>
+</add>

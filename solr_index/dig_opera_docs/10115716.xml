@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115716</field>
+<field name="genre">Operas</field>
+<field name="title">Die Strohwitwe</field>
+<field name="titleSort">Strohwitwe</field>
+<field name="composer">Albert Kauders</field>
+<field name="composerSort">Kauders, Albert</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="librettist">Heinrich von Waldberg</field>
+<field name="librettistSort">Waldberg, Heinrich von</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Strohwitwe+Albert+Kauders&amp;search_field=search</field>
+</doc>
+</add>

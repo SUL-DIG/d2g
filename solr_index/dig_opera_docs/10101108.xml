@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101108</field>
+<field name="genre">Operas</field>
+<field name="title">Inkle and Yarico</field>
+<field name="titleSort">Inkle and Yarico</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">George Colman the younger</field>
+<field name="librettistSort">Colman the younger, George</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inkle+and+Yarico+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

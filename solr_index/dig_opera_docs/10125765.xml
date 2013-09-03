@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125765</field>
+<field name="genre">Operas</field>
+<field name="title">Le feste galanti</field>
+<field name="titleSort">feste galanti</field>
+<field name="composer">Johann Friedrich Reichardt</field>
+<field name="composerSort">Reichardt, Johann Friedrich</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Leopoldo de Villati</field>
+<field name="librettistSort">Villati, Leopoldo de</field>
+<field name="librettist">Joseph-François Duché de Vancy</field>
+<field name="librettistSort">Duché de Vancy, Joseph-François</field>
+<field name="theater">Schlosstheater im Neuen Palais</field>
+<field name="city">Potsdam</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+feste+galanti+Johann+Friedrich+Reichardt&amp;search_field=search</field>
+</doc>
+</add>

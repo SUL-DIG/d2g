@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121844</field>
+<field name="genre">Operas</field>
+<field name="title">Sergeant Crespo</field>
+<field name="titleSort">Sergeant Crespo</field>
+<field name="composer">Heinrich Neal</field>
+<field name="composerSort">Neal, Heinrich</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Max Neal</field>
+<field name="librettistSort">Neal, Max</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sergeant+Crespo+Heinrich+Neal&amp;search_field=search</field>
+</doc>
+</add>

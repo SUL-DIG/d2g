@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131168</field>
+<field name="genre">Operas</field>
+<field name="title">Les dieux sont mort (Chryséis)</field>
+<field name="titleSort">dieux sont mort (Chryséis)</field>
+<field name="composer">Charles Tournemire</field>
+<field name="composerSort">Tournemire, Charles</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Eugène Berteaux</field>
+<field name="librettistSort">Berteaux, Eugène</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dieux+sont+mort+Chryséis+Charles+Tournemire&amp;search_field=search</field>
+</doc>
+</add>

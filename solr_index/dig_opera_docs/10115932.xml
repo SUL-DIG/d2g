@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115932</field>
+<field name="genre">Operas</field>
+<field name="title">The Wonder Worker</field>
+<field name="titleSort">Wonder Worker</field>
+<field name="composer">Albert William Ketèlby</field>
+<field name="composerSort">Ketèlby, Albert William</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Edward Cadman</field>
+<field name="librettistSort">Cadman, Edward</field>
+<field name="theater">Grand Theatre</field>
+<field name="city">Fulham</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wonder+Worker+Albert+William+Ketèlby&amp;search_field=search</field>
+</doc>
+</add>

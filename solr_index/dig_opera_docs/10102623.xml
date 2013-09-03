@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102623</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux Omar</field>
+<field name="titleSort">deux Omar</field>
+<field name="composer">Firmin Bernicat</field>
+<field name="composerSort">Bernicat, Firmin</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">[G. Delafontaine] Gédhé</field>
+<field name="librettistSort">Gédhé, [G. Delafontaine]</field>
+<field name="librettist">William Busnach</field>
+<field name="librettistSort">Busnach, William</field>
+<field name="theater">Théâtre des Fantaisies-Oller</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+Omar+Firmin+Bernicat&amp;search_field=search</field>
+</doc>
+</add>

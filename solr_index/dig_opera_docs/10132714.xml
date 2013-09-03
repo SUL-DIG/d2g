@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132714</field>
+<field name="genre">Operas</field>
+<field name="title">Císar pán na tresních</field>
+<field name="titleSort">Císar pán na tresních</field>
+<field name="composer">Jaromír Weinberger</field>
+<field name="composerSort">Weinberger, Jaromír</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Bohumir Polách</field>
+<field name="librettistSort">Polách, Bohumir</field>
+<field name="librettist">Jirí Zalman</field>
+<field name="librettistSort">Zalman, Jirí</field>
+<field name="theater">Velká Opera 5. Kvetna</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Císar+pán+na+tresních+Jaromír+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

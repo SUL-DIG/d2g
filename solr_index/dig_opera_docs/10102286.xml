@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102286</field>
+<field name="genre">Operas</field>
+<field name="title">Kokettchens Mission</field>
+<field name="titleSort">Kokettchens Mission</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Ralph Benatzky</field>
+<field name="librettistSort">Benatzky, Ralph</field>
+<field name="theater">Kabarett Fledermaus</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kokettchens+Mission+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

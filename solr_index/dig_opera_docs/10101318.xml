@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101318</field>
+<field name="genre">Operas</field>
+<field name="title">Le finezze d'amore</field>
+<field name="titleSort">finezze d'amore</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+finezze+d'amore+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

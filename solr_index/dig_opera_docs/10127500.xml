@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127500</field>
+<field name="genre">Operas</field>
+<field name="title">"L'acquisto per raggiro, ossia La casa da vendere</field>
+<field name="titleSort">"acquisto per raggiro, ossia La casa da vendere"</field>
+<field name="composer">Carlo Salvioni</field>
+<field name="composerSort">Salvioni, Carlo</field>
+<field name="year">1826</field>
+<field name="date">1826</field><field name="theater">Teatro Sutera</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'acquisto+per+raggiro,+ossia+La+casa+da+vendere+Carlo+Salvioni&amp;search_field=search</field>
+</doc>
+</add>

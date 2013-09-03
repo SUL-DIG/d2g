@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112929</field>
+<field name="genre">Operas</field>
+<field name="title">Daphnis et Amalthée</field>
+<field name="titleSort">Daphnis et Amalthée</field>
+<field name="composer">Mlle. Guérin</field>
+<field name="composerSort">Guérin, Mlle.</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Claude-François-Félix Boulenger de Rivery</field>
+<field name="librettistSort">Boulenger de Rivery, Claude-François-Félix</field>
+
+<field name="city">Amiens</field>
+<field name="region">Somme</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphnis+et+Amalthée+Mlle.+Guérin&amp;search_field=search</field>
+</doc>
+</add>

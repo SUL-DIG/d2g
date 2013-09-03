@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133163</field>
+<field name="genre">Operas</field>
+<field name="title">"Die bezauberte Rose, oder Maja und Alpino</field>
+<field name="titleSort">"bezauberte Rose, oder Maja und Alpino"</field>
+<field name="composer">Josef Wolfram</field>
+<field name="composerSort">Wolfram, Josef</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Eduard Heinrich Gehe</field>
+<field name="librettistSort">Gehe, Eduard Heinrich</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+bezauberte+Rose,+oder+Maja+und+Alpino+Josef+Wolfram&amp;search_field=search</field>
+</doc>
+</add>

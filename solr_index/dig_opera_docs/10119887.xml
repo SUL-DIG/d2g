@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119887</field>
+<field name="genre">Operas</field>
+<field name="title">Friedrich der Grosse und die Barbarina</field>
+<field name="titleSort">Friedrich der Grosse und die Barbarina</field>
+<field name="composer">Hans May</field>
+<field name="composerSort">May, Hans</field>
+<field name="year">1924</field>
+<field name="date">1924</field><field name="theater">Urania-Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friedrich+der+Grosse+und+die+Barbarina+Hans+May&amp;search_field=search</field>
+</doc>
+</add>

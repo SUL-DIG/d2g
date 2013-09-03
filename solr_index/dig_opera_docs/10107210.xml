@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107210</field>
+<field name="genre">Operas</field>
+<field name="title">The Lighthouse</field>
+<field name="titleSort">Lighthouse</field>
+<field name="composer">Peter Maxwell Davies</field>
+<field name="composerSort">Davies, Peter Maxwell</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Peter Maxwell Davies</field>
+<field name="librettistSort">Davies, Peter Maxwell</field>
+<field name="theater">Mornay House</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lighthouse+Peter+Maxwell+Davies&amp;search_field=search</field>
+</doc>
+</add>

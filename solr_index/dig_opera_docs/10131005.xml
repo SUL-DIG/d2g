@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131005</field>
+<field name="genre">Operas</field>
+<field name="title">Anna Gromova</field>
+<field name="titleSort">Anna Gromova</field>
+<field name="composer">Yevgeny Karlovich Tikotsky</field>
+<field name="composerSort">Tikotsky, Yevgeny Karlovich</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna+Gromova+Yevgeny+Karlovich+Tikotsky&amp;search_field=search</field>
+</doc>
+</add>

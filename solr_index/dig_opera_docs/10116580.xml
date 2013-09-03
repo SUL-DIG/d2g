@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116580</field>
+<field name="genre">Operas</field>
+<field name="title">Die Insulanerin</field>
+<field name="titleSort">Insulanerin</field>
+<field name="composer">Conradin Kreutzer</field>
+<field name="composerSort">Kreutzer, Conradin</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Johann Friedrich Schlotterbeck</field>
+<field name="librettistSort">Schlotterbeck, Johann Friedrich</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Insulanerin+Conradin+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

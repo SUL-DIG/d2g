@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106040</field>
+<field name="genre">Operas</field>
+<field name="title">Les amoureux de Perrette</field>
+<field name="titleSort">amoureux de Perrette</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="city">Baden-Baden</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+amoureux+de+Perrette+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

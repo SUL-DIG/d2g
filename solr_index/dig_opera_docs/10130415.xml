@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130415</field>
+<field name="genre">Operas</field>
+<field name="title">Candle Tree</field>
+<field name="titleSort">Candle Tree</field>
+<field name="composer">Donald Swann</field>
+<field name="composerSort">Swann, Donald</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Arthur Scholey</field>
+<field name="librettistSort">Scholey, Arthur</field>
+<field name="theater">Saint Botolph Church</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Candle+Tree+Donald+Swann&amp;search_field=search</field>
+</doc>
+</add>

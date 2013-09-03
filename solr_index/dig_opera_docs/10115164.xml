@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115164</field>
+<field name="genre">Operas</field>
+<field name="title">Z mrtvého domu (From the House of the Dead)</field>
+<field name="titleSort">Z mrtvého domu (From the House of the Dead)</field>
+<field name="composer">Leos Janácek</field>
+<field name="composerSort">Janácek, Leos</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Leos Janácek</field>
+<field name="librettistSort">Janácek, Leos</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Z+mrtvého+domu+From+the+House+of+the+Dead+Leos+Janácek&amp;search_field=search</field>
+</doc>
+</add>

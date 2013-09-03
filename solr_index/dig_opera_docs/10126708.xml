@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126708</field>
+<field name="genre">Operas</field>
+<field name="title">I Quagueri</field>
+<field name="titleSort">Quagueri</field>
+<field name="composer">Antonio Rosetti</field>
+<field name="composerSort">Rosetti, Antonio</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Quagueri+Antonio+Rosetti&amp;search_field=search</field>
+</doc>
+</add>

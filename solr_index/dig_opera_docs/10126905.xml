@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126905</field>
+<field name="genre">Operas</field>
+<field name="title">La figlia del sergente</field>
+<field name="titleSort">figlia del sergente</field>
+<field name="composer">Emanuele de Roxas</field>
+<field name="composerSort">Roxas, Emanuele de</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Michele Ruta</field>
+<field name="librettistSort">Ruta, Michele</field>
+<field name="theater">Teatro della Torre del Grano</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+del+sergente+Emanuele+de+Roxas&amp;search_field=search</field>
+</doc>
+</add>

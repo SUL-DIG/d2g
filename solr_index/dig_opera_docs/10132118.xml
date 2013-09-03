@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132118</field>
+<field name="genre">Operas</field>
+<field name="title">Huszárfogás</field>
+<field name="titleSort">Huszárfogás</field>
+<field name="composer">Zsigmond Vincze</field>
+<field name="composerSort">Vincze, Zsigmond</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="librettist">Rezso Török</field>
+<field name="librettistSort">Török, Rezso</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Huszárfogás+Zsigmond+Vincze&amp;search_field=search</field>
+</doc>
+</add>

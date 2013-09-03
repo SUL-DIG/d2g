@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120735</field>
+<field name="genre">Operas</field>
+<field name="title">Dom Casmurro</field>
+<field name="titleSort">Dom Casmurro</field>
+<field name="composer">Ronaldo Miranda</field>
+<field name="composerSort">Miranda, Ronaldo</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Machado de Assis</field>
+<field name="librettistSort">Assis, Machado de</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">São Paulo</field>
+<field name="region">São Paulo</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dom+Casmurro+Ronaldo+Miranda&amp;search_field=search</field>
+</doc>
+</add>

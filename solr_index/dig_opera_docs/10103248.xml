@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103248</field>
+<field name="genre">Operas</field>
+<field name="title">Triple Sec</field>
+<field name="titleSort">Triple Sec</field>
+<field name="composer">Marc Blitzstein</field>
+<field name="composerSort">Blitzstein, Marc</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Ronald Jeans</field>
+<field name="librettistSort">Jeans, Ronald</field>
+<field name="theater">Bellevue-Stratford Hotel Ballroom</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Triple+Sec+Marc+Blitzstein&amp;search_field=search</field>
+</doc>
+</add>

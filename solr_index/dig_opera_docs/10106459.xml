@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106459</field>
+<field name="genre">Operas</field>
+<field name="title">Beppo</field>
+<field name="titleSort">Beppo</field>
+<field name="composer">Jean Conte</field>
+<field name="composerSort">Conte, Jean</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beppo+Jean+Conte&amp;search_field=search</field>
+</doc>
+</add>

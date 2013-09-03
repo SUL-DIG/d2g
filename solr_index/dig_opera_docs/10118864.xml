@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118864</field>
+<field name="genre">Operas</field>
+<field name="title">Elisa di Coira</field>
+<field name="titleSort">Elisa di Coira</field>
+<field name="composer">Gaetano Magazzari</field>
+<field name="composerSort">Magazzari, Gaetano</field>
+<field name="year">1857</field>
+<field name="date">1857</field><field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisa+di+Coira+Gaetano+Magazzari&amp;search_field=search</field>
+</doc>
+</add>

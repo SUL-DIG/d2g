@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124775</field>
+<field name="genre">Operas</field>
+<field name="title">Malek-Adel</field>
+<field name="titleSort">Malek-Adel</field>
+<field name="composer">Giuseppe Poniatowski</field>
+<field name="composerSort">Poniatowski, Giuseppe</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Domenico Bancalari</field>
+<field name="librettistSort">Bancalari, Domenico</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malek-Adel+Giuseppe+Poniatowski&amp;search_field=search</field>
+</doc>
+</add>

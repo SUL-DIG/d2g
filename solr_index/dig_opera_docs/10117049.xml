@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117049</field>
+<field name="genre">Operas</field>
+<field name="title">Perkins Warbeck</field>
+<field name="titleSort">Perkins Warbeck</field>
+<field name="composer">Paul La Gye</field>
+<field name="composerSort">Gye, Paul La</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perkins+Warbeck+Paul+La+Gye&amp;search_field=search</field>
+</doc>
+</add>

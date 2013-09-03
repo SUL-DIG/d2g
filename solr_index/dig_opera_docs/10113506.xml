@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113506</field>
+<field name="genre">Operas</field>
+<field name="title">Serse</field>
+<field name="titleSort">Serse</field>
+<field name="composer">George Frideric Handel</field>
+<field name="composerSort">Handel, George Frideric</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Silvio Stampiglia</field>
+<field name="librettistSort">Stampiglia, Silvio</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serse+George+Frideric+Handel&amp;search_field=search</field>
+</doc>
+</add>

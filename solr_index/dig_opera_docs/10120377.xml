@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120377</field>
+<field name="genre">Operas</field>
+<field name="title">"La ressource comique, ou La pièce а deux acteurs</field>
+<field name="titleSort">"ressource comique, ou pièce а deux acteurs"</field>
+<field name="composer">Nicolas-Jean Méreaux</field>
+<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Charles-François Pannard</field>
+<field name="librettistSort">Pannard, Charles-François</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ressource+comique,+ou+La+pièce+а+deux+acteurs+Nicolas-Jean+Méreaux&amp;search_field=search</field>
+</doc>
+</add>

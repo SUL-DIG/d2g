@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132876</field>
+<field name="genre">Operas</field>
+<field name="title">Der grobe Märker</field>
+<field name="titleSort">grobe Märker</field>
+<field name="composer">August Weweler</field>
+<field name="composerSort">Weweler, August</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">August Weweler</field>
+<field name="librettistSort">Weweler, August</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Detmold</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+grobe+Märker+August+Weweler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102569</field>
+<field name="genre">Operas</field>
+<field name="title">"Li muti per amore, o sia La schiava fedele</field>
+<field name="titleSort">"muti per amore, o sia La schiava fedele"</field>
+<field name="composer">Marcello Bernardini</field>
+<field name="composerSort">Bernardini, Marcello</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Marcello Bernardini</field>
+<field name="librettistSort">Bernardini, Marcello</field>
+<field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+muti+per+amore,+o+sia+La+schiava+fedele+Marcello+Bernardini&amp;search_field=search</field>
+</doc>
+</add>

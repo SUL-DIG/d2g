@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204113</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il santo Abele di Boemia, ovvero Il glorioso martirio di San Wenceslao, signor di detto regno</field>
+		<field name="titleSort">santo Abele di Boemia, ovvero glorioso martirio di San Wenceslao, signor di detto regno</field>
+		<field name="year">1781</field>
+		
+		
+		<field name="date">1781</field>
+		<field name="composer">Salvatore Ignacio Pinti</field>
+		<field name="composerSort">Pinti, Salvatore Ignacio</field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Saint Wenceslas</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">September 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+santo+Abele+di+Boemia,+ovvero+Il+glorioso+martirio+di+San+Wenceslao,+signor+di+detto+regno+Salvatore+Ignacio+Pinti&amp;search_field=search</field>
+	</doc></add>

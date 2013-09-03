@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110985</field>
+<field name="genre">Operas</field>
+<field name="title">"Nicolò de' Lapi, ossia L'assedio di Firenze</field>
+<field name="titleSort">"Nicolò de' Lapi, ossia L'assedio di Firenze"</field>
+<field name="composer">Erennio Gammieri</field>
+<field name="composerSort">Gammieri, Erennio</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Leone Emanuele Bardare</field>
+<field name="librettistSort">Bardare, Leone Emanuele</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicolò+de'+Lapi,+ossia+L'assedio+di+Firenze+Erennio+Gammieri&amp;search_field=search</field>
+</doc>
+</add>

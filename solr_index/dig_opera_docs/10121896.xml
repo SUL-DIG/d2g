@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121896</field>
+<field name="genre">Operas</field>
+<field name="title">Sweet Anne Page</field>
+<field name="titleSort">Sweet Anne Page</field>
+<field name="composer">William Harold Neidlinger</field>
+<field name="composerSort">Neidlinger, William Harold</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Edgar Smith</field>
+<field name="librettistSort">Smith, Edgar</field>
+<field name="librettist">Louis DeLange</field>
+<field name="librettistSort">DeLange, Louis</field>
+<field name="theater">Manhattan Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sweet+Anne+Page+William+Harold+Neidlinger&amp;search_field=search</field>
+</doc>
+</add>

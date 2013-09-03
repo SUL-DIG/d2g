@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117691</field>
+<field name="genre">Operas</field>
+<field name="title">Aucassin et Nicolette</field>
+<field name="titleSort">Aucassin et Nicolette</field>
+<field name="composer">Paul Le Flem</field>
+<field name="composerSort">Flem, Paul Le</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Paul Le Flem</field>
+<field name="librettistSort">Le Flem, Paul</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aucassin+et+Nicolette+Paul+Le+Flem&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120252</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanna Gray</field>
+<field name="titleSort">Giovanna Gray</field>
+<field name="composer">Giuseppe Menghetti</field>
+<field name="composerSort">Menghetti, Giuseppe</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Carlo Pepoli</field>
+<field name="librettistSort">Pepoli, Carlo</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanna+Gray+Giuseppe+Menghetti&amp;search_field=search</field>
+</doc>
+</add>

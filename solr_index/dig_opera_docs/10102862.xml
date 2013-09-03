@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102862</field>
+<field name="genre">Operas</field>
+<field name="title">Amour et coquetterie</field>
+<field name="titleSort">Amour et coquetterie</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">André-Jacques Coffin-Rony</field>
+<field name="librettistSort">Coffin-Rony, André-Jacques</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amour+et+coquetterie+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

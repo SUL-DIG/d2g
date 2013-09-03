@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104023</field>
+<field name="genre">Operas</field>
+<field name="title">Das Veilchenfest</field>
+<field name="titleSort">Veilchenfest</field>
+<field name="composer">Jan Brandts Buys</field>
+<field name="composerSort">Buys, Jan Brandts</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Viktor Heindl</field>
+<field name="librettistSort">Heindl, Viktor</field>
+<field name="theater">Komische Oper (an der Weidendammer Brücke)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Veilchenfest+Jan+Brandts+Buys&amp;search_field=search</field>
+</doc>
+</add>

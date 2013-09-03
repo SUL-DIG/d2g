@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113108</field>
+<field name="genre">Operas</field>
+<field name="title">La regina di Castiglia</field>
+<field name="titleSort">regina di Castiglia</field>
+<field name="composer">Edoardo Guindani</field>
+<field name="composerSort">Guindani, Edoardo</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Luigi Silva</field>
+<field name="librettistSort">Silva, Luigi</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+regina+di+Castiglia+Edoardo+Guindani&amp;search_field=search</field>
+</doc>
+</add>

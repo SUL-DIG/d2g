@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128427</field>
+<field name="genre">Operas</field>
+<field name="title">Das Mädel aus 1001 Nacht</field>
+<field name="titleSort">Mädel aus 1001 Nacht</field>
+<field name="composer">Leo Schottländer</field>
+<field name="composerSort">Schottländer, Leo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Oskar Orth</field>
+<field name="librettistSort">Orth, Oskar</field>
+<field name="librettist">Oskar Engel</field>
+<field name="librettistSort">Engel, Oskar</field>
+<field name="theater">Grosses Korsotheater</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Mädel+aus+1001+Nacht+Leo+Schottländer&amp;search_field=search</field>
+</doc>
+</add>

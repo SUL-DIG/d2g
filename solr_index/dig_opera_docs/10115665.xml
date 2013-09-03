@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115665</field>
+<field name="genre">Operas</field>
+<field name="title">Smrt kmotricka (Godmother Death)</field>
+<field name="titleSort">Smrt kmotricka (Godmother Death)</field>
+<field name="composer">Rudolf Karel</field>
+<field name="composerSort">Karel, Rudolf</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">[Stanislav Mohzís] Stanislav Lom</field>
+<field name="librettistSort">Lom, Stanislav [Stanislav Mohzís]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Smrt+kmotricka+Godmother+Death+Rudolf+Karel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105824</field>
+<field name="genre">Operas</field>
+<field name="title">Pomsta Catullova (Catullus's Revenge)</field>
+<field name="titleSort">Pomsta Catullova (Catullus's Revenge)</field>
+<field name="composer">Osvald Chlubna</field>
+<field name="composerSort">Chlubna, Osvald</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pomsta+Catullova+Catullus's+Revenge+Osvald+Chlubna&amp;search_field=search</field>
+</doc>
+</add>

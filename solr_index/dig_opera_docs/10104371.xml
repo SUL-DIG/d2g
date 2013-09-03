@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104371</field>
+<field name="genre">Operas</field>
+<field name="title">Sakahra</field>
+<field name="titleSort">Sakahra</field>
+<field name="composer">Simon Bucharoff</field>
+<field name="composerSort">Bucharoff, Simon</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Isabel Buckingham</field>
+<field name="librettistSort">Buckingham, Isabel</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sakahra+Simon+Bucharoff&amp;search_field=search</field>
+</doc>
+</add>

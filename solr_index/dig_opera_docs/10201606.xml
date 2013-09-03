@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201606</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioasso</field>
+		<field name="titleSort">Gioasso</field>
+		<field name="year">1719</field>
+		
+		
+		<field name="date">1719</field>
+		<field name="composer">Giovanni Nicola Ranieri Redi</field>
+		<field name="composerSort">Redi, Giovanni Nicola Ranieri</field>
+		
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioasso+Giovanni+Nicola+Ranieri+Redi&amp;search_field=search</field>
+	</doc></add>

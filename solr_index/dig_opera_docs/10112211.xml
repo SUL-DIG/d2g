@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112211</field>
+<field name="genre">Operas</field>
+<field name="title">Virtù d'amore</field>
+<field name="titleSort">Virtù d'amore</field>
+<field name="composer">Vittorio Gnecchi</field>
+<field name="composerSort">Gnecchi, Vittorio</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Maria Rossi Borzotti</field>
+<field name="librettistSort">Rossi Borzotti, Maria</field>
+<field name="theater">Villa Gnecchi</field>
+<field name="city">Como</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virtù+d'amore+Vittorio+Gnecchi&amp;search_field=search</field>
+</doc>
+</add>

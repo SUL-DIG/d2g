@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110545</field>
+<field name="genre">Operas</field>
+<field name="title">Pis'ma Van Goga (The Letters of Van Gogh)</field>
+<field name="titleSort">Pis'ma Van Goga (The Letters of Van Gogh)</field>
+<field name="composer">Grigory Samuilovich Frid</field>
+<field name="composerSort">Frid, Grigory Samuilovich</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Grigory Samuilovich Frid</field>
+<field name="librettistSort">Frid, Grigory Samuilovich</field>
+<field name="librettist">Vincent van Gogh</field>
+<field name="librettistSort">Gogh, Vincent van</field>
+<field name="theater">All-Union House of Composers</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pis'ma+Van+Goga+The+Letters+of+Van+Gogh+Grigory+Samuilovich+Frid&amp;search_field=search</field>
+</doc>
+</add>

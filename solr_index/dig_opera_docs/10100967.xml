@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100967</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit in Ferrol</field>
+<field name="titleSort">Hochzeit in Ferrol</field>
+<field name="composer">Adolf Arensen</field>
+<field name="composerSort">Arensen, Adolf</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Adolf Arensen</field>
+<field name="librettistSort">Arensen, Adolf</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+in+Ferrol+Adolf+Arensen&amp;search_field=search</field>
+</doc>
+</add>

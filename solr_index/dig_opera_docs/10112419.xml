@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112419</field>
+<field name="genre">Operas</field>
+<field name="title">Mila Gojsalica</field>
+<field name="titleSort">Mila Gojsalica</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Danko Andelinovic</field>
+<field name="librettistSort">Andelinovic, Danko</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mila+Gojsalica+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

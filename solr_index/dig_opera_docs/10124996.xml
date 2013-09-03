@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124996</field>
+<field name="genre">Operas</field>
+<field name="title">Gli innamorati di Nella</field>
+<field name="titleSort">innamorati di Nella</field>
+<field name="composer">Nicola Possenti</field>
+<field name="composerSort">Possenti, Nicola</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Vincenzo Boldrini</field>
+<field name="librettistSort">Boldrini, Vincenzo</field>
+
+<field name="city">Matelica</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+innamorati+di+Nella+Nicola+Possenti&amp;search_field=search</field>
+</doc>
+</add>

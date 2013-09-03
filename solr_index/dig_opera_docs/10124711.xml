@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124711</field>
+<field name="genre">Operas</field>
+<field name="title">La pace fra Tolomeo e Seleuco</field>
+<field name="titleSort">pace fra Tolomeo e Seleuco</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Adriano Morselli</field>
+<field name="librettistSort">Morselli, Adriano</field>
+<field name="librettist">Pierre Corneille</field>
+<field name="librettistSort">Corneille, Pierre</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pace+fra+Tolomeo+e+Seleuco+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

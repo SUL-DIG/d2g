@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129719</field>
+<field name="genre">Operas</field>
+<field name="title">Filenis</field>
+<field name="titleSort">Filenis</field>
+<field name="composer">Roman Statkowski</field>
+<field name="composerSort">Statkowski, Roman</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Roman Statkowski</field>
+<field name="librettistSort">Statkowski, Roman</field>
+<field name="librettist">Hermann Erler</field>
+<field name="librettistSort">Erler, Hermann</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Filenis+Roman+Statkowski&amp;search_field=search</field>
+</doc>
+</add>

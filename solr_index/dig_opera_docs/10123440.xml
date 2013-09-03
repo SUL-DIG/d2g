@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123440</field>
+<field name="genre">Operas</field>
+<field name="title">Le malade imaginaire</field>
+<field name="titleSort">malade imaginaire</field>
+<field name="composer">Jirí Pauer</field>
+<field name="composerSort">Pauer, Jirí</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+malade+imaginaire+Jirí+Pauer&amp;search_field=search</field>
+</doc>
+</add>

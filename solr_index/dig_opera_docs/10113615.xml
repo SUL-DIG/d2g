@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113615</field>
+<field name="genre">Operas</field>
+<field name="title">Eine närrische Heirat</field>
+<field name="titleSort">närrische Heirat</field>
+<field name="composer">Gustav Adolf Härtel</field>
+<field name="composerSort">Härtel, Gustav Adolf</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Leopold Günther</field>
+<field name="librettistSort">Günther, Leopold</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+närrische+Heirat+Gustav+Adolf+Härtel&amp;search_field=search</field>
+</doc>
+</add>

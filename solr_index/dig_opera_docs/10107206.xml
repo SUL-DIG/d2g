@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107206</field>
+<field name="genre">Operas</field>
+<field name="title">Rusalka</field>
+<field name="titleSort">Rusalka</field>
+<field name="composer">Stepan Ivanovich Davïdov</field>
+<field name="composerSort">Davïdov, Stepan Ivanovich</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Aleksandr Aleksandrovich Shakhovskoy</field>
+<field name="librettistSort">Shakhovskoy, Aleksandr Aleksandrovich</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rusalka+Stepan+Ivanovich+Davïdov&amp;search_field=search</field>
+</doc>
+</add>

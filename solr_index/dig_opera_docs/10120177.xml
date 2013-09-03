@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120177</field>
+<field name="genre">Operas</field>
+<field name="title">Soeur Louise</field>
+<field name="titleSort">Soeur Louise</field>
+<field name="composer">Charles Mélant</field>
+<field name="composerSort">Mélant, Charles</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Henri Liebrecht</field>
+<field name="librettistSort">Liebrecht, Henri</field>
+<field name="librettist">Albert Julin</field>
+<field name="librettistSort">Julin, Albert</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soeur+Louise+Charles+Mélant&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126784</field>
+<field name="genre">Operas</field>
+<field name="title">Il genio benefico</field>
+<field name="titleSort">genio benefico</field>
+<field name="composer">Raimondo Rossi</field>
+<field name="composerSort">Rossi, Raimondo</field>
+<field name="year">1890</field>
+<field name="date">1890</field><field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+genio+benefico+Raimondo+Rossi&amp;search_field=search</field>
+</doc>
+</add>

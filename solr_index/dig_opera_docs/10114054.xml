@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114054</field>
+<field name="genre">Operas</field>
+<field name="title">The Prima Donna</field>
+<field name="titleSort">Prima Donna</field>
+<field name="composer">Victor Herbert</field>
+<field name="composerSort">Herbert, Victor</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Henry Blossom</field>
+<field name="librettistSort">Blossom, Henry</field>
+<field name="theater">Studebaker Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Prima+Donna+Victor+Herbert&amp;search_field=search</field>
+</doc>
+</add>

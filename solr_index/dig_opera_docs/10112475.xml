@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112475</field>
+<field name="genre">Operas</field>
+<field name="title">Die heilige Zita</field>
+<field name="titleSort">heilige Zita</field>
+<field name="composer">Hermann Grädener</field>
+<field name="composerSort">Grädener, Hermann</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">[Beatrice Freiin von Vay] Beatrice Dovsky</field>
+<field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heilige+Zita+Hermann+Grädener&amp;search_field=search</field>
+</doc>
+</add>

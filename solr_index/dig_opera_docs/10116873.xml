@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116873</field>
+<field name="genre">Operas</field>
+<field name="title">Kuula 1918</field>
+<field name="titleSort">Kuula 1918</field>
+<field name="composer">Toivo Kuula</field>
+<field name="composerSort">Kuula, Toivo</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Vesa Tapio Valo</field>
+<field name="librettistSort">Valo, Vesa Tapio</field>
+<field name="librettist">Paavo Haavikko</field>
+<field name="librettistSort">Haavikko, Paavo</field>
+<field name="theater">City Hall</field>
+<field name="city">Vaasa</field>
+<field name="region">Vaasan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuula+1918+Toivo+Kuula&amp;search_field=search</field>
+</doc>
+</add>

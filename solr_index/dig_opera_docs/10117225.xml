@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117225</field>
+<field name="genre">Operas</field>
+<field name="title">Der Heuchler</field>
+<field name="titleSort">Heuchler</field>
+<field name="composer">Hans-Klaus Langer</field>
+<field name="composerSort">Langer, Hans-Klaus</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Bruno Sonnabend</field>
+<field name="librettistSort">Sonnabend, Bruno</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Heuchler+Hans-Klaus+Langer&amp;search_field=search</field>
+</doc>
+</add>

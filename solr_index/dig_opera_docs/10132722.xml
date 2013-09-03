@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132722</field>
+<field name="genre">Operas</field>
+<field name="title">Chipita Rodriguez</field>
+<field name="titleSort">Chipita Rodriguez</field>
+<field name="composer">Larry Weiner</field>
+<field name="composerSort">Weiner, Larry</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Leonardo Carrillo</field>
+<field name="librettistSort">Carrillo, Leonardo</field>
+<field name="librettist">John Wilson</field>
+<field name="librettistSort">Wilson, John</field>
+<field name="theater">Bayfront Plaza Auditorium</field>
+<field name="city">Corpus Christi</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chipita+Rodriguez+Larry+Weiner&amp;search_field=search</field>
+</doc>
+</add>

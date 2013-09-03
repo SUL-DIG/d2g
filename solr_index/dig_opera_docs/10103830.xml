@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103830</field>
+<field name="genre">Operas</field>
+<field name="title">Estancierita</field>
+<field name="titleSort">Estancierita</field>
+<field name="composer">David Botto</field>
+<field name="composerSort">Botto, David</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Gigi Michelotti</field>
+<field name="librettistSort">Michelotti, Gigi</field>
+<field name="librettist">Giovanni Croce</field>
+<field name="librettistSort">Croce, Giovanni</field>
+<field name="theater">Teatro Coliseo Argentino</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Estancierita+David+Botto&amp;search_field=search</field>
+</doc>
+</add>

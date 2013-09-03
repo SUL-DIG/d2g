@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101259</field>
+<field name="genre">Operas</field>
+<field name="title">Dilorom</field>
+<field name="titleSort">Dilorom</field>
+<field name="composer">Mukhtar Ashrafi</field>
+<field name="composerSort">Ashrafi, Mukhtar</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Komil Yashin</field>
+<field name="librettistSort">Yashin, Komil</field>
+<field name="librettist">Mumtoz Mukhamedov</field>
+<field name="librettistSort">Mukhamedov, Mumtoz</field>
+<field name="theater">Teatr Operï i Baleta imeni A. Navoi</field>
+<field name="city">Tashkent</field>
+
+<field name="country">Uzbekistan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dilorom+Mukhtar+Ashrafi&amp;search_field=search</field>
+</doc>
+</add>

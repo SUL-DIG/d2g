@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131990</field>
+<field name="genre">Operas</field>
+<field name="title">Stari mladic (The Old Lad)</field>
+<field name="titleSort">Stari mladic (The Old Lad)</field>
+<field name="composer">Tihomil Vidosic</field>
+<field name="composerSort">Vidosic, Tihomil</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Tihomil Vidosic</field>
+<field name="librettistSort">Vidosic, Tihomil</field>
+<field name="theater">Hrvatsko Narodno Kazaliste Ivan Zajc</field>
+<field name="city">Rijeka</field>
+<field name="region">Primorje-Gorski</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stari+mladic+The+Old+Lad+Tihomil+Vidosic&amp;search_field=search</field>
+</doc>
+</add>

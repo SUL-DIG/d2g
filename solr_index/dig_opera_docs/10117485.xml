@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117485</field>
+<field name="genre">Operas</field>
+<field name="title">The Widow</field>
+<field name="titleSort">Widow</field>
+<field name="composer">Calixa Lavallée</field>
+<field name="composerSort">Lavallée, Calixa</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Frank H. Nelson</field>
+<field name="librettistSort">Nelson, Frank H.</field>
+<field name="theater">Chatterton's Theater</field>
+<field name="city">Springfield</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Widow+Calixa+Lavallée&amp;search_field=search</field>
+</doc>
+</add>

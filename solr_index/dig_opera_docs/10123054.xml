@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123054</field>
+<field name="genre">Operas</field>
+<field name="title">I zingari in fiera</field>
+<field name="titleSort">zingari in fiera</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+zingari+in+fiera+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

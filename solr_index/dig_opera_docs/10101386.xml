@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101386</field>
+<field name="genre">Operas</field>
+<field name="title">Le philtre</field>
+<field name="titleSort">philtre</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+philtre+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

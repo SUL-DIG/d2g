@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133318</field>
+<field name="genre">Operas</field>
+<field name="title">Nikola Subic Zrinjski</field>
+<field name="titleSort">Nikola Subic Zrinjski</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Hugo Badalic</field>
+<field name="librettistSort">Badalic, Hugo</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nikola+Subic+Zrinjski+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

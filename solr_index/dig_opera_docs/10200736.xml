@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200736</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Creator</field>
+		<field name="titleSort">Creator</field>
+		<field name="year">1964</field>
+		<field name="month">May</field>
+		<field name="day">1</field>
+		<field name="date">May 1, 1964</field>
+		<field name="composer">Henry Cowell</field>
+		<field name="composerSort">Cowell, Henry</field>
+		<field name="librettist">Gavril Romanovich Derzhavin</field>
+		<field name="librettistSort">Derzhavin, Gavril Romanovic</field>
+		
+		
+		<field name="city">Deland</field>
+		<field name="region">Florida</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Creator+Henry+Cowell&amp;search_field=search</field>
+	</doc></add>

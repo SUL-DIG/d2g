@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111780</field>
+<field name="genre">Operas</field>
+<field name="title">Dolphin Off Hippo</field>
+<field name="titleSort">Dolphin Off Hippo</field>
+<field name="composer">Geoffrey D. Gibbs</field>
+<field name="composerSort">Gibbs, Geoffrey D.</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Alonzo Gibbs</field>
+<field name="librettistSort">Gibbs, Alonzo</field>
+<field name="theater">Eastman School of Music</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolphin+Off+Hippo+Geoffrey+D.+Gibbs&amp;search_field=search</field>
+</doc>
+</add>

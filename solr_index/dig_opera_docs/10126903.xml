@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126903</field>
+<field name="genre">Operas</field>
+<field name="title">Ercole in Lidio</field>
+<field name="titleSort">Ercole in Lidio</field>
+<field name="composer">Giovanni Rovetta</field>
+<field name="composerSort">Rovetta, Giovanni</field>
+<field name="year">1645</field>
+<field name="date">1645</field>
+<field name="librettist">Maiolino Bisaccioni</field>
+<field name="librettistSort">Bisaccioni, Maiolino</field>
+<field name="theater">Teatro Novissimo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ercole+in+Lidio+Giovanni+Rovetta&amp;search_field=search</field>
+</doc>
+</add>

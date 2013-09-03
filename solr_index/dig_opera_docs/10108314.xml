@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108314</field>
+<field name="genre">Operas</field>
+<field name="title">Sänger und Schneider</field>
+<field name="titleSort">Sänger und Schneider</field>
+<field name="composer">Friedrich von Drieberg</field>
+<field name="composerSort">Drieberg, Friedrich von</field>
+<field name="year">1814</field>
+<field name="date">1814</field><field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sänger+und+Schneider+Friedrich+von+Drieberg&amp;search_field=search</field>
+</doc>
+</add>

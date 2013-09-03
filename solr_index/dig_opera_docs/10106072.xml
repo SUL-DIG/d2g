@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106072</field>
+<field name="genre">Operas</field>
+<field name="title">La florentine</field>
+<field name="titleSort">florentine</field>
+<field name="composer">Maurice Claudius</field>
+<field name="composerSort">Claudius, Maurice</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Émile Fabre</field>
+<field name="librettistSort">Fabre, Émile</field>
+<field name="librettist">__ Darnel</field>
+<field name="librettistSort">Darnel, __</field>
+
+<field name="city">Oran</field>
+
+<field name="country">Algeria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+florentine+Maurice+Claudius&amp;search_field=search</field>
+</doc>
+</add>

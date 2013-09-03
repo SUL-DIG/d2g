@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131542</field>
+<field name="genre">Operas</field>
+<field name="title">Le educande di Sorrento</field>
+<field name="titleSort">educande di Sorrento</field>
+<field name="composer">Emilio Usiglio</field>
+<field name="composerSort">Usiglio, Emilio</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Raffaele Berninzone</field>
+<field name="librettistSort">Berninzone, Raffaele</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+educande+di+Sorrento+Emilio+Usiglio&amp;search_field=search</field>
+</doc>
+</add>

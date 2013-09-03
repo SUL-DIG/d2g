@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121533</field>
+<field name="genre">Operas</field>
+<field name="title">Bature</field>
+<field name="titleSort">Bature</field>
+<field name="composer">Friedrich Müller (3)</field>
+<field name="composerSort">Müller (3), Friedrich</field>
+<field name="year">1851</field>
+<field name="date">1851</field><field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bature+Friedrich+Müller+-3&amp;search_field=search</field>
+</doc>
+</add>

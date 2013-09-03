@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111033</field>
+<field name="genre">Operas</field>
+<field name="title">"Los lacónicos, o La trampa descubierta</field>
+<field name="titleSort">"lacónicos, o La trampa descubierta"</field>
+<field name="composer">Manuel García</field>
+<field name="composerSort">García, Manuel</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Félix Enciso Castrillón</field>
+<field name="librettistSort">Enciso Castrillón, Félix</field>
+<field name="theater">Teatro de los Caсos del Peral</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+lacónicos,+o+La+trampa+descubierta+Manuel+García&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108469</field>
+<field name="genre">Operas</field>
+<field name="title">New World for Nellie</field>
+<field name="titleSort">New World for Nellie</field>
+<field name="composer">Florence Anderson DuPage</field>
+<field name="composerSort">DuPage, Florence Anderson</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Florence Anderson DuPage</field>
+<field name="librettistSort">DuPage, Florence Anderson</field>
+<field name="librettist">Rowland Emett</field>
+<field name="librettistSort">Emett, Rowland</field>
+<field name="theater">Advent Tuller School</field>
+<field name="city">Westbury</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=New+World+for+Nellie+Florence+Anderson+DuPage&amp;search_field=search</field>
+</doc>
+</add>

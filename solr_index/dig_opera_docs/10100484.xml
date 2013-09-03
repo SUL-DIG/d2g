@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100484</field>
+<field name="genre">Operas</field>
+<field name="title">Cristoforo Colombo</field>
+<field name="titleSort">Cristoforo Colombo</field>
+<field name="composer">Alfredo Alessio</field>
+<field name="composerSort">Alessio, Alfredo</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Serafino Riva</field>
+<field name="librettistSort">Riva, Serafino</field>
+<field name="theater">Collegio de Filippi</field>
+<field name="city">Arona</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristoforo+Colombo+Alfredo+Alessio&amp;search_field=search</field>
+</doc>
+</add>

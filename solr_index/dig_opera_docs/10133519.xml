@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133519</field>
+<field name="genre">Operas</field>
+<field name="title">Kamarinskiy muzhik (The Kamarino Peasant)</field>
+<field name="titleSort">Kamarinskiy muzhik (The Kamarino Peasant)</field>
+<field name="composer">Valery Viktorovich Zhelobinsky</field>
+<field name="composerSort">Zhelobinsky, Valery Viktorovich</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Osip Maximovich Brik</field>
+<field name="librettistSort">Brik, Osip Maximovich</field>
+<field name="theater">Malïy Opernïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kamarinskiy+muzhik+The+Kamarino+Peasant+Valery+Viktorovich+Zhelobinsky&amp;search_field=search</field>
+</doc>
+</add>

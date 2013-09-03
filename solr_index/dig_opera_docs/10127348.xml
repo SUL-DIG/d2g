@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127348</field>
+<field name="genre">Operas</field>
+<field name="title">Ta griza niata (Grey Youth)</field>
+<field name="titleSort">griza niata (Grey Youth)</field>
+<field name="composer">Theofrastos Sakellarides</field>
+<field name="composerSort">Sakellarides, Theofrastos</field>
+
+
+<field name="librettist">Alekos Sakellarios</field>
+<field name="librettistSort">Sakellarios, Alekos</field>
+
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ta+griza+niata+Grey+Youth+Theofrastos+Sakellarides&amp;search_field=search</field>
+</doc>
+</add>

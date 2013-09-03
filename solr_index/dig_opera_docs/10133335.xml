@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133335</field>
+<field name="genre">Operas</field>
+<field name="title">Der Herr Abbé</field>
+<field name="titleSort">Herr Abbé</field>
+<field name="composer">Alfred Zamara</field>
+<field name="composerSort">Zamara, Alfred</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="librettist">Franz Josef Barkl</field>
+<field name="librettistSort">Barkl, Franz Josef</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+Abbé+Alfred+Zamara&amp;search_field=search</field>
+</doc>
+</add>

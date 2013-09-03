@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127170</field>
+<field name="genre">Operas</field>
+<field name="title">Béla futása (Bela's Escape)</field>
+<field name="titleSort">Béla futása (Bela's Escape)</field>
+<field name="composer">József Ruzitska</field>
+<field name="composerSort">Ruzitska, József</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">János Kotsí Patkó</field>
+<field name="librettistSort">Kotsí Patkó, János</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Cluj-Napoca</field>
+<field name="region">Cluj</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Béla+futása+Bela's+Escape+József+Ruzitska&amp;search_field=search</field>
+</doc>
+</add>

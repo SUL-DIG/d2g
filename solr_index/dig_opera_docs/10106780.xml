@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106780</field>
+<field name="genre">Operas</field>
+<field name="title">La quenouille de la reine Berthe</field>
+<field name="titleSort">quenouille de la reine Berthe</field>
+<field name="composer">Jules Costé</field>
+<field name="composerSort">Costé, Jules</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Jules Costé</field>
+<field name="librettistSort">Costé, Jules</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Perpignan</field>
+<field name="region">Pyrénées-Orientales</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+quenouille+de+la+reine+Berthe+Jules+Costé&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200663</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La colpa originale piangente alle culle di Redentore</field>
+		<field name="titleSort">colpa originale piangente alle culle di Redentore</field>
+		<field name="year">1723</field>
+		<field name="month">January</field>
+		<field name="day">8</field>
+		<field name="date">January 8, 1723</field>
+		<field name="composer">Giovanni Francesco Maria Marchi</field>
+		<field name="composerSort">Marchi, Giovanni Francesco Maria</field>
+		
+		
+		<field name="theater">Congregazione dell'Immacolata Concezione</field>
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+colpa+originale+piangente+alle+culle+di+Redentore+Giovanni+Francesco+Maria+Marchi&amp;search_field=search</field>
+	</doc></add>

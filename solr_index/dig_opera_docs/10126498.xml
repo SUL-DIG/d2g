@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126498</field>
+<field name="genre">Operas</field>
+<field name="title">The Marriage of Aude</field>
+<field name="titleSort">Marriage of Aude</field>
+<field name="composer">Bernard Rogers</field>
+<field name="composerSort">Rogers, Bernard</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Charles Rodda</field>
+<field name="librettistSort">Rodda, Charles</field>
+<field name="theater">Eastman School of Music</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Marriage+of+Aude+Bernard+Rogers&amp;search_field=search</field>
+</doc>
+</add>

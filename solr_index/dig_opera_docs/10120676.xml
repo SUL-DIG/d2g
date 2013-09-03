@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120676</field>
+<field name="genre">Operas</field>
+<field name="title">A Sunny Morning</field>
+<field name="titleSort">Sunny Morning</field>
+<field name="composer">Michael Miller</field>
+<field name="composerSort">Miller, Michael</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Serafín Álvarez Quintero</field>
+<field name="librettistSort">Álvarez Quintero, Serafín</field>
+<field name="librettist">Joaquín Álvarez Quintero</field>
+<field name="librettistSort">Álvarez Quintero, Joaquín</field>
+<field name="theater">New York University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Sunny+Morning+Michael+Miller&amp;search_field=search</field>
+</doc>
+</add>

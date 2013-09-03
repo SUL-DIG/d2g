@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103193</field>
+<field name="genre">Operas</field>
+<field name="title">El triomf de Tirant</field>
+<field name="titleSort">triomf de Tirant</field>
+<field name="composer">Amando Blanquer</field>
+<field name="composerSort">Blanquer, Amando</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Josep Lluis Sierra</field>
+<field name="librettistSort">Lluis Sierra, Josep</field>
+<field name="librettist">Rodolf Sierra</field>
+<field name="librettistSort">Sierra, Rodolf</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Valencia</field>
+<field name="region">Valencia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+triomf+de+Tirant+Amando+Blanquer&amp;search_field=search</field>
+</doc>
+</add>

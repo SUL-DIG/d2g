@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204674</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Gedeone</field>
+		<field name="titleSort">trionfo di Gedeone</field>
+		<field name="year">1798</field>
+		<field name="month">March</field>
+		<field name="day">6</field>
+		<field name="date">March 6, 1798</field>
+		<field name="composer">Giuseppe Moneta</field>
+		<field name="composerSort">Moneta, Giuseppe</field>
+		
+		
+		<field name="theater">Teatro di via della Pergola</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Gedeone+Giuseppe+Moneta&amp;search_field=search</field>
+	</doc></add>

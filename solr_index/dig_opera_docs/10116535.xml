@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116535</field>
+<field name="genre">Operas</field>
+<field name="title">Der Sprung über den Schatten</field>
+<field name="titleSort">Sprung über den Schatten</field>
+<field name="composer">Ernst Krenek</field>
+<field name="composerSort">Krenek, Ernst</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Ernst Krenek</field>
+<field name="librettistSort">Krenek, Ernst</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sprung+über+den+Schatten+Ernst+Krenek&amp;search_field=search</field>
+</doc>
+</add>

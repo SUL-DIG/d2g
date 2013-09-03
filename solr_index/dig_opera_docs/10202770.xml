@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202770</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La mort d'Abel</field>
+		<field name="titleSort">mort d'Abel</field>
+		<field name="year">1787</field>
+		
+		
+		<field name="date">1787</field>
+		<field name="composer">Louis-Sébastien Lebrun</field>
+		<field name="composerSort">Lebrun, Louis-Sébastien</field>
+		<field name="librettist">Jean Jacques Le Franc de Pompignan</field>
+		<field name="librettistSort">Le Franc de Pompignan, Jean</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mort+d'Abel+Louis-Sébastien+Lebrun&amp;search_field=search</field>
+	</doc></add>

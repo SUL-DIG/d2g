@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104996</field>
+<field name="genre">Operas</field>
+<field name="title">La concordia del tempo colla fame</field>
+<field name="titleSort">concordia del tempo colla fame</field>
+<field name="composer">Giuseppe Carcani</field>
+<field name="composerSort">Carcani, Giuseppe</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Francesco Maria Giovanardi</field>
+<field name="librettistSort">Giovanardi, Francesco Maria</field>
+<field name="theater">Ospedale degli Incurabili</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+concordia+del+tempo+colla+fame+Giuseppe+Carcani&amp;search_field=search</field>
+</doc>
+</add>

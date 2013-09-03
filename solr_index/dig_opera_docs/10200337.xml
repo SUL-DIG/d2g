@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200337</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le baptême de Clovis</field>
+		<field name="titleSort">baptême de Clovis</field>
+		<field name="year">1899</field>
+		
+		
+		<field name="date">1899</field>
+		<field name="composer">Théodore Dubois</field>
+		<field name="composerSort">Dubois, Théodore</field>
+		<field name="librettist">[Gioacchino Pecci] Pope Leo XIII</field>
+		<field name="librettistSort">Pope Leo XIII, [Gioacchino Pecci]</field>
+		
+		
+		
+		
+		
+		<field name="subject">Clovis</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+baptême+de+Clovis+Théodore+Dubois&amp;search_field=search</field>
+	</doc></add>

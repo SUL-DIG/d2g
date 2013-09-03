@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106994</field>
+<field name="genre">Operas</field>
+<field name="title">"Azémia, ou Le nouveau Robinson</field>
+<field name="titleSort">"Azémia, ou Le nouveau Robinson"</field>
+<field name="composer">Nicolas-Marie Dalayrac</field>
+<field name="composerSort">Dalayrac, Nicolas-Marie</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Ange Étienne Xavier Poisson de La Chaubeaussière</field>
+<field name="librettistSort">La Chaubeaussière, Ange Étienne Xavier Poisson de</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Azémia,+ou+Le+nouveau+Robinson+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
+</doc>
+</add>

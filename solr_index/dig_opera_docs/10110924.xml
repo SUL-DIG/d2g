@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110924</field>
+<field name="genre">Operas</field>
+<field name="title">"La fede nell'inconstanza, ossia Gli amici rivali</field>
+<field name="titleSort">"fede nell'inconstanza, ossia Gli amici rivali"</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1722</field>
+<field name="date">1722</field>
+<field name="librettist">Giovanni Battista Neri</field>
+<field name="librettistSort">Neri, Giovanni Battista</field>
+<field name="theater">Teatro delle Grazie</field>
+<field name="city">Vicenza</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fede+nell'inconstanza,+ossia+Gli+amici+rivali+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

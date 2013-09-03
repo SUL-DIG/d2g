@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102530</field>
+<field name="genre">Operas</field>
+<field name="title">L'accord parfait</field>
+<field name="titleSort">accord parfait</field>
+<field name="composer">Paul Bernard</field>
+<field name="composerSort">Bernard, Paul</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">[Jean-Hyacinthe Adonis Gallope] Gallope d'Onquaire</field>
+<field name="librettistSort">Gallope d'Onquaire, [Jean-Hyacinthe Adonis Gallope]</field>
+<field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'accord+parfait+Paul+Bernard&amp;search_field=search</field>
+</doc>
+</add>

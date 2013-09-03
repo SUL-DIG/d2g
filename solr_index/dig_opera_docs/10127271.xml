@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127271</field>
+<field name="genre">Operas</field>
+<field name="title">La finta pazza</field>
+<field name="titleSort">finta pazza</field>
+<field name="composer">Francesco Sacrati</field>
+<field name="composerSort">Sacrati, Francesco</field>
+<field name="year">1641</field>
+<field name="date">1641</field>
+<field name="librettist">Giulio Strozzi</field>
+<field name="librettistSort">Strozzi, Giulio</field>
+<field name="theater">Teatro Novissimo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+pazza+Francesco+Sacrati&amp;search_field=search</field>
+</doc>
+</add>

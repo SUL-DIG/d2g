@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109978</field>
+<field name="genre">Operas</field>
+<field name="title">Die Verwechslung</field>
+<field name="titleSort">Verwechslung</field>
+<field name="composer">Anton Josef Fischer</field>
+<field name="composerSort">Fischer, Anton Josef</field>
+<field name="year">1820</field>
+<field name="date">1820</field><field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Verwechslung+Anton+Josef+Fischer&amp;search_field=search</field>
+</doc>
+</add>

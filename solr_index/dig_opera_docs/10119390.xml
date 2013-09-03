@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119390</field>
+<field name="genre">Operas</field>
+<field name="title">Etelinda</field>
+<field name="titleSort">Etelinda</field>
+<field name="composer">Mildred Marion-Jessup</field>
+<field name="composerSort">Marion-Jessup, Mildred</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Alfred E. Jessup</field>
+<field name="librettistSort">Jessup, Alfred E.</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Etelinda+Mildred+Marion-Jessup&amp;search_field=search</field>
+</doc>
+</add>

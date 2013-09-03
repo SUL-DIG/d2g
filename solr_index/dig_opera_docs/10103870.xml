@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103870</field>
+<field name="genre">Operas</field>
+<field name="title">Thamara</field>
+<field name="titleSort">Thamara</field>
+<field name="composer">Louis-Albert Bourgault-Ducoudray</field>
+<field name="composerSort">Bourgault-Ducoudray, Louis-Albert</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thamara+Louis-Albert+Bourgault-Ducoudray&amp;search_field=search</field>
+</doc>
+</add>

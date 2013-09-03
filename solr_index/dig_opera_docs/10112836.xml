@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112836</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Grossmächte</field>
+<field name="titleSort">drei Grossmächte</field>
+<field name="composer">August Grosse-Weischede</field>
+<field name="composerSort">Grosse-Weischede, August</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">[Babette Hermine Loewi] B. Herwi</field>
+<field name="librettistSort">Herwi, B. [Babette Hermine Loewi]</field>
+<field name="librettist">Levin Schücking</field>
+<field name="librettistSort">Schücking, Levin</field>
+
+<field name="city">Bochum</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Grossmächte+August+Grosse-Weischede&amp;search_field=search</field>
+</doc>
+</add>

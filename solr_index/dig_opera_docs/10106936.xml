@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106936</field>
+<field name="genre">Operas</field>
+<field name="title">Solimano</field>
+<field name="titleSort">Solimano</field>
+<field name="composer">Giuseppe Maria Curcio</field>
+<field name="composerSort">Curcio, Giuseppe Maria</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Giovanni Ambrogio Migliavacca</field>
+<field name="librettistSort">Migliavacca, Giovanni Ambrogio</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Solimano+Giuseppe+Maria+Curcio&amp;search_field=search</field>
+</doc>
+</add>

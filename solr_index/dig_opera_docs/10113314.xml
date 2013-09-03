@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113314</field>
+<field name="genre">Operas</field>
+<field name="title">Die kleine Ratte</field>
+<field name="titleSort">kleine Ratte</field>
+<field name="composer">Liel Erik Hafgren</field>
+<field name="composerSort">Hafgren, Liel Erik</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Robert Hank</field>
+<field name="librettistSort">Hank, Robert</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+kleine+Ratte+Liel+Erik+Hafgren&amp;search_field=search</field>
+</doc>
+</add>

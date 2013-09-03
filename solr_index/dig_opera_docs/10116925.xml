@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116925</field>
+<field name="genre">Operas</field>
+<field name="title">"La rossignol, ou Le mariage secret</field>
+<field name="titleSort">"rossignol, ou Le mariage secret"</field>
+<field name="composer">Jean-Benjamin La Borde</field>
+<field name="composerSort">Borde, Jean-Benjamin La</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Charles Collé</field>
+<field name="librettistSort">Collé, Charles</field>
+<field name="theater">Château de Berny</field>
+<field name="city">Berny-sur-Noye</field>
+<field name="region">Somme</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rossignol,+ou+Le+mariage+secret+Jean-Benjamin+La+Borde&amp;search_field=search</field>
+</doc>
+</add>

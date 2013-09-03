@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122032</field>
+<field name="genre">Operas</field>
+<field name="title">Hero and Leander</field>
+<field name="titleSort">Hero and Leander</field>
+<field name="composer">Andreas Nezeritis</field>
+<field name="composerSort">Nezeritis, Andreas</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Rena A. Nezeritis</field>
+<field name="librettistSort">Nezeritis, Rena A.</field>
+<field name="librettist">Franz Grillparzer</field>
+<field name="librettistSort">Grillparzer, Franz</field>
+
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+and+Leander+Andreas+Nezeritis&amp;search_field=search</field>
+</doc>
+</add>

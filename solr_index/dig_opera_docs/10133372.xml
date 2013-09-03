@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133372</field>
+<field name="genre">Operas</field>
+<field name="title">La sulamita</field>
+<field name="titleSort">sulamita</field>
+<field name="composer">Amilcare Zanella</field>
+<field name="composerSort">Zanella, Amilcare</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Antonio Lega</field>
+<field name="librettistSort">Lega, Antonio</field>
+<field name="theater">Politeama Piacentino</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sulamita+Amilcare+Zanella&amp;search_field=search</field>
+</doc>
+</add>

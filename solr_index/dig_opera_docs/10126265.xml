@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126265</field>
+<field name="genre">Operas</field>
+<field name="title">Gevatter Tod</field>
+<field name="titleSort">Gevatter Tod</field>
+<field name="composer">Gerhard Rischka</field>
+<field name="composerSort">Rischka, Gerhard</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Gerhard Rischka</field>
+<field name="librettistSort">Rischka, Gerhard</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Reichssender Radio</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gevatter+Tod+Gerhard+Rischka&amp;search_field=search</field>
+</doc>
+</add>

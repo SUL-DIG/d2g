@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202527</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Lob des Höchsten</field>
+		<field name="titleSort">Lob des Höchsten</field>
+		<field name="year">1806</field>
+		<field name="month">April</field>
+		<field name="day">4</field>
+		<field name="date">April 4, 1806</field>
+		<field name="composer">Friedrich Wilhelm Benda</field>
+		<field name="composerSort">Benda, Friedrich Wilhelm</field>
+		
+		
+		
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Lob+des+Höchsten+Friedrich+Wilhelm+Benda&amp;search_field=search</field>
+	</doc></add>

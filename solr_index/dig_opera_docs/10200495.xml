@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200495</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Caïn</field>
+		<field name="titleSort">Caïn</field>
+		<field name="year">1905</field>
+		
+		
+		<field name="date">1905</field>
+		<field name="composer">Alexis Contant</field>
+		<field name="composerSort">Contant, Alexis</field>
+		<field name="librettist">Brother Symphorien-Louis</field>
+		<field name="librettistSort">Symphorien-Louis, Brother</field>
+		
+		
+		<field name="city">Montreal</field>
+		<field name="region">Quebec</field>
+		<field name="country">Canada</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caïn+Alexis+Contant&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204850</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vita non è sogno</field>
+		<field name="titleSort">vita non è sogno</field>
+		<field name="year">1972</field>
+		
+		
+		<field name="date">1972</field>
+		<field name="composer">André Laporte</field>
+		<field name="composerSort">Laporte, André</field>
+		<field name="librettist">Salvatore Quasimodo</field>
+		<field name="librettistSort">Quasimodo, Salvatore</field>
+		<field name="librettist">Filippo Tommaso Marinetti</field>
+		<field name="librettistSort">Marinetti, Filippo Tommaso</field>
+		<field name="theater">Festival van Vlaanderen</field>
+		<field name="city">Ghent</field>
+		<field name="region">Flaanderen</field>
+		<field name="country">Belgium</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vita+non+è+sogno+André+Laporte&amp;search_field=search</field>
+	</doc></add>

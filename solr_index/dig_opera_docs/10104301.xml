@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104301</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo dell'Arno</field>
+<field name="titleSort">trionfo dell'Arno</field>
+<field name="composer">Giuseppe Brunetti (1)</field>
+<field name="composerSort">Brunetti (1), Giuseppe</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Pio del Borgo</field>
+<field name="librettistSort">Borgo, Pio del</field>
+<field name="theater">Teatro Pubblico</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+dell'Arno+Giuseppe+Brunetti+-1&amp;search_field=search</field>
+</doc>
+</add>

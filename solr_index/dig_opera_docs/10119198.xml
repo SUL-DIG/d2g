@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119198</field>
+<field name="genre">Operas</field>
+<field name="title">Le notti della paura</field>
+<field name="titleSort">notti della paura</field>
+<field name="composer">Franco Mannino</field>
+<field name="composerSort">Mannino, Franco</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Massimo Binazzi</field>
+<field name="librettistSort">Binazzi, Massimo</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Lecco</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+notti+della+paura+Franco+Mannino&amp;search_field=search</field>
+</doc>
+</add>

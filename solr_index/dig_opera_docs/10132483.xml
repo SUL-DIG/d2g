@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132483</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Graf von Waltron, oder Die Subordination</field>
+<field name="titleSort">"Graf von Waltron, oder Die Subordination"</field>
+<field name="composer">Ignaz Walter</field>
+<field name="composerSort">Walter, Ignaz</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Johann Baptist Bergopzoomer</field>
+<field name="librettistSort">Bergopzoomer, Johann Baptist</field>
+<field name="librettist">Heinrich Ferdinand Möller</field>
+<field name="librettistSort">Möller, Heinrich Ferdinand</field>
+<field name="theater">Nostitzsches Nationaltheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Graf+von+Waltron,+oder+Die+Subordination+Ignaz+Walter&amp;search_field=search</field>
+</doc>
+</add>

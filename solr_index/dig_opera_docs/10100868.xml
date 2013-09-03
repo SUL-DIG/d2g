@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100868</field>
+<field name="genre">Operas</field>
+<field name="title">La festa dell'archiburgio</field>
+<field name="titleSort">festa dell'archiburgio</field>
+<field name="composer">Antonio d'Antoni</field>
+<field name="composerSort">d'Antoni, Antonio</field>
+<field name="year">1830</field>
+<field name="date">1830</field><field name="theater">Teatro Mauroner</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+festa+dell'archiburgio+Antonio+d'Antoni&amp;search_field=search</field>
+</doc>
+</add>

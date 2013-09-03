@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125507</field>
+<field name="genre">Operas</field>
+<field name="title">Jeftan tytär (The Daughter of Jephtha)</field>
+<field name="titleSort">Jeftan tytär (The Daughter of Jephtha)</field>
+<field name="composer">Väinö Raitio</field>
+<field name="composerSort">Raitio, Väinö</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">[Juhani Veikko] Sulho Ranta</field>
+<field name="librettistSort">Ranta, Sulho [Juhani Veikko]</field>
+<field name="librettist">[Juho Vihtori Peltonen] Johannes Linnankoski</field>
+<field name="librettistSort">Linnankoski, Johannes [Juho Vihtori Peltonen]</field>
+<field name="theater">Aleksanterinteatteri</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeftan+tytär+The+Daughter+of+Jephtha+Väinö+Raitio&amp;search_field=search</field>
+</doc>
+</add>

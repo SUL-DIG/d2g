@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133719</field>
+<field name="genre">Operas</field>
+<field name="title">Der Weltuntergang</field>
+<field name="titleSort">Weltuntergang</field>
+<field name="composer">Wilhelm Zobl</field>
+<field name="composerSort">Zobl, Wilhelm</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Peter Daniel Wolfkind</field>
+<field name="librettistSort">Wolfkind, Peter Daniel</field>
+<field name="librettist">Jura Soyfer</field>
+<field name="librettistSort">Soyfer, Jura</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Weltuntergang+Wilhelm+Zobl&amp;search_field=search</field>
+</doc>
+</add>

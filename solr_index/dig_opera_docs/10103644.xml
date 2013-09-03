@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103644</field>
+<field name="genre">Operas</field>
+<field name="title">La muse а travers les ages</field>
+<field name="titleSort">muse а travers les ages</field>
+<field name="composer">Théodore Boone</field>
+<field name="composerSort">Boone, Théodore</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Alphonse Capon</field>
+<field name="librettistSort">Capon, Alphonse</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+muse+а+travers+les+ages+Théodore+Boone&amp;search_field=search</field>
+</doc>
+</add>

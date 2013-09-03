@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109024</field>
+<field name="genre">Operas</field>
+<field name="title">Zabra</field>
+<field name="titleSort">Zabra</field>
+<field name="composer">Felipe Espino</field>
+<field name="composerSort">Espino, Felipe</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zabra+Felipe+Espino&amp;search_field=search</field>
+</doc>
+</add>

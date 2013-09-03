@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128932</field>
+<field name="genre">Operas</field>
+<field name="title">Steeplechase</field>
+<field name="titleSort">Steeplechase</field>
+<field name="composer">Gaston Serpette</field>
+<field name="composerSort">Serpette, Gaston</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Pierre Decourcelle</field>
+<field name="librettistSort">Decourcelle, Pierre</field>
+
+<field name="city">Saint-Gratien</field>
+<field name="region">Val-d'Oise</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Steeplechase+Gaston+Serpette&amp;search_field=search</field>
+</doc>
+</add>

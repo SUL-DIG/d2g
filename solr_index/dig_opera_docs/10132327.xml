@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132327</field>
+<field name="genre">Operas</field>
+<field name="title">L'ultima di x</field>
+<field name="titleSort">ultima di x</field>
+<field name="composer">Harri Vuori</field>
+<field name="composerSort">Vuori, Harri</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Leena Sainio</field>
+<field name="librettistSort">Sainio, Leena</field>
+<field name="theater">Savoy Theater</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ultima+di+x+Harri+Vuori&amp;search_field=search</field>
+</doc>
+</add>

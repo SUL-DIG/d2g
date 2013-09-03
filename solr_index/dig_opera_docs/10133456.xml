@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133456</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kreiderkreis</field>
+<field name="titleSort">Kreiderkreis</field>
+<field name="composer">Alexander Zemlinsky</field>
+<field name="composerSort">Zemlinsky, Alexander</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">[Alfred Henschke] Klabund</field>
+<field name="librettistSort">Klabund, [Alfred Henschke]</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kreiderkreis+Alexander+Zemlinsky&amp;search_field=search</field>
+</doc>
+</add>

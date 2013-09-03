@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115970</field>
+<field name="genre">Operas</field>
+<field name="title">Hassan der Schwärmer</field>
+<field name="titleSort">Hassan der Schwärmer</field>
+<field name="composer">Wilhelm Kienzl</field>
+<field name="composerSort">Kienzl, Wilhelm</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Henny Bauer</field>
+<field name="librettistSort">Bauer, Henny</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Chemnitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hassan+der+Schwärmer+Wilhelm+Kienzl&amp;search_field=search</field>
+</doc>
+</add>

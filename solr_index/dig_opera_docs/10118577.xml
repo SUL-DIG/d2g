@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118577</field>
+<field name="genre">Operas</field>
+<field name="title">Le voyage aux Alpes</field>
+<field name="titleSort">voyage aux Alpes</field>
+<field name="composer">Henry Lucas</field>
+<field name="composerSort">Lucas, Henry</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Louis Autigéon</field>
+<field name="librettistSort">Autigéon, Louis</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Roubaix</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+voyage+aux+Alpes+Henry+Lucas&amp;search_field=search</field>
+</doc>
+</add>

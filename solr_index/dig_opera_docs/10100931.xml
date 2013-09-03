@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100931</field>
+<field name="genre">Operas</field>
+<field name="title">Tkmuleba Shota Rustavelze</field>
+<field name="titleSort">Tkmuleba Shota Rustavelze</field>
+<field name="composer">Dimitri Ignat'yevich Arakishvili</field>
+<field name="composerSort">Arakishvili, Dimitri Ignat'yevich</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Aleksandr Solomonovich Khakhanov</field>
+<field name="librettistSort">Khakhanov, Aleksandr Solomonovich</field>
+<field name="theater">Kazyonnïy Teatr</field>
+<field name="city">Tbilisi</field>
+
+<field name="country">Georgia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tkmuleba+Shota+Rustavelze+Dimitri+Ignat'yevich+Arakishvili&amp;search_field=search</field>
+</doc>
+</add>

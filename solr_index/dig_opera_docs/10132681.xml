@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132681</field>
+<field name="genre">Operas</field>
+<field name="title">Der Protagonist</field>
+<field name="titleSort">Protagonist</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Georg Kaiser</field>
+<field name="librettistSort">Kaiser, Georg</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Protagonist+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109249</field>
+<field name="genre">Operas</field>
+<field name="title">Die Dame von Welt</field>
+<field name="titleSort">Dame von Welt</field>
+<field name="composer">Richard Fall</field>
+<field name="composerSort">Fall, Richard</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="librettist">Hans Kottow</field>
+<field name="librettistSort">Kottow, Hans</field>
+<field name="theater">Apollotheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Dame+von+Welt+Richard+Fall&amp;search_field=search</field>
+</doc>
+</add>

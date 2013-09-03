@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121509</field>
+<field name="genre">Operas</field>
+<field name="title">Zwölf Mädchen in Uniform</field>
+<field name="titleSort">Zwölf Mädchen in Uniform</field>
+<field name="composer">Adolf Müller</field>
+<field name="composerSort">Müller, Adolf</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Louis Angely</field>
+<field name="librettistSort">Angely, Louis</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwölf+Mädchen+in+Uniform+Adolf+Müller&amp;search_field=search</field>
+</doc>
+</add>

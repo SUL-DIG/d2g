@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108198</field>
+<field name="genre">Operas</field>
+<field name="title">Le maghe di Tessaglia</field>
+<field name="titleSort">maghe di Tessaglia</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1677</field>
+<field name="date">1677</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Schönbrunner Schlosspark</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+maghe+di+Tessaglia+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

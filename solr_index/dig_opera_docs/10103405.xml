@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103405</field>
+<field name="genre">Operas</field>
+<field name="title">La jeune femme colère</field>
+<field name="titleSort">jeune femme colère</field>
+<field name="composer">Adrien Boieldieu</field>
+<field name="composerSort">Boieldieu, Adrien</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">__ Claparède</field>
+<field name="librettistSort">Claparède, __</field>
+<field name="librettist">Charles-Guillaume Étienne</field>
+<field name="librettistSort">Étienne, Charles-Guillaume</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jeune+femme+colère+Adrien+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

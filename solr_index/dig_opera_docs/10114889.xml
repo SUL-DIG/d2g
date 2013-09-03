@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114889</field>
+<field name="genre">Operas</field>
+<field name="title">Mitä on joulu? (What is Christmas?)</field>
+<field name="titleSort">Mitä on joulu? (What is Christmas?)</field>
+<field name="composer">Ari Hynynen</field>
+<field name="composerSort">Hynynen, Ari</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Aimo Lahtonen</field>
+<field name="librettistSort">Lahtonen, Aimo</field>
+<field name="theater">Teräsrautela School</field>
+<field name="city">Turku</field>
+<field name="region">Turun Ja Porin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitä+on+joulu?+What+is+Christmas?+Ari+Hynynen&amp;search_field=search</field>
+</doc>
+</add>

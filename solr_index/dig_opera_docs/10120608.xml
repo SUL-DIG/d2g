@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120608</field>
+<field name="genre">Operas</field>
+<field name="title">O sargento de milícias</field>
+<field name="titleSort">sargento de milícias</field>
+<field name="composer">Francisco Mignone</field>
+<field name="composerSort">Mignone, Francisco</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Humberto Mello Nóbrega</field>
+<field name="librettistSort">Nóbrega, Humberto Mello</field>
+<field name="librettist">Manuel Antonio de Almeida</field>
+<field name="librettistSort">Almeida, Manuel Antonio de</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+sargento+de+milícias+Francisco+Mignone&amp;search_field=search</field>
+</doc>
+</add>

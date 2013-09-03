@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118426</field>
+<field name="genre">Operas</field>
+<field name="title">Le prince de Madrid</field>
+<field name="titleSort">prince de Madrid</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Jacques Plante</field>
+<field name="librettistSort">Plante, Jacques</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="theater">Théâtre du Châtelet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+prince+de+Madrid+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

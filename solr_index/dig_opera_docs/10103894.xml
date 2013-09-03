@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103894</field>
+<field name="genre">Operas</field>
+<field name="title">Le trompeur sans le vouloir</field>
+<field name="titleSort">trompeur sans le vouloir</field>
+<field name="composer">Guillaume Bouteiller</field>
+<field name="composerSort">Bouteiller, Guillaume</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Jean-Baptiste-Charles Vial</field>
+<field name="librettistSort">Vial, Jean-Baptiste-Charles</field>
+<field name="librettist">Augustin-François Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+trompeur+sans+le+vouloir+Guillaume+Bouteiller&amp;search_field=search</field>
+</doc>
+</add>

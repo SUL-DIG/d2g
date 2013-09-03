@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112561</field>
+<field name="genre">Operas</field>
+<field name="title">Piccolino</field>
+<field name="titleSort">Piccolino</field>
+<field name="composer">Marie Grandval</field>
+<field name="composerSort">Grandval, Marie</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Achille de Lauzières</field>
+<field name="librettistSort">Lauzières, Achille de</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="theater">Théâtre-Italien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piccolino+Marie+Grandval&amp;search_field=search</field>
+</doc>
+</add>

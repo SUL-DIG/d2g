@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100191</field>
+<field name="genre">Operas</field>
+<field name="title">Die verbotene Braut</field>
+<field name="titleSort">verbotene Braut</field>
+<field name="composer">Karl Franz Adolfi</field>
+<field name="composerSort">Adolfi, Karl Franz</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Emil Schlack</field>
+<field name="librettistSort">Schlack, Emil</field>
+<field name="theater">Wilhelm-Theater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+verbotene+Braut+Karl+Franz+Adolfi&amp;search_field=search</field>
+</doc>
+</add>

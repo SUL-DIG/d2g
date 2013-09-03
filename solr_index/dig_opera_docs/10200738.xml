@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200738</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Cris du monde</field>
+		<field name="titleSort">Cris du monde</field>
+		<field name="year">1931</field>
+		
+		
+		<field name="date">1931</field>
+		<field name="composer">Arthur Honegger</field>
+		<field name="composerSort">Honegger, Arthur</field>
+		<field name="librettist">René Bizet</field>
+		<field name="librettistSort">Bizet, René</field>
+		<field name="librettist">John Keats</field>
+		<field name="librettistSort">Keats, John</field>
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cris+du+monde+Arthur+Honegger&amp;search_field=search</field>
+	</doc></add>

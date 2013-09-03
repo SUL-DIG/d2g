@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105122</field>
+<field name="genre">Operas</field>
+<field name="title">La ballerina raggiratrice</field>
+<field name="titleSort">ballerina raggiratrice</field>
+<field name="composer">Luigi Caruso</field>
+<field name="composerSort">Caruso, Luigi</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Bernardino Mezzanotte</field>
+<field name="librettistSort">Mezzanotte, Bernardino</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ballerina+raggiratrice+Luigi+Caruso&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105085</field>
+<field name="genre">Operas</field>
+<field name="title">"Fior di Maris, ovvero I misteri di Parigi</field>
+<field name="titleSort">"Fior di Maris, ovvero I misteri di Parigi"</field>
+<field name="composer">Pavlos Carrer</field>
+<field name="composerSort">Carrer, Pavlos</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Giovanni Caccialupi</field>
+<field name="librettistSort">Caccialupi, Giovanni</field>
+<field name="librettist">Eugène Sue</field>
+<field name="librettistSort">Sue, Eugène</field>
+
+<field name="city">Corfu</field>
+<field name="region">Kérkira</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fior+di+Maris,+ovvero+I+misteri+di+Parigi+Pavlos+Carrer&amp;search_field=search</field>
+</doc>
+</add>

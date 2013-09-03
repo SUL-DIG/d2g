@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115184</field>
+<field name="genre">Operas</field>
+<field name="title">"Jadwiga, królowa polska</field>
+<field name="titleSort">"Jadwiga, królowa polska"</field>
+<field name="composer">Henryk Jarecki</field>
+<field name="composerSort">Jarecki, Henryk</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Henryk Jarecki</field>
+<field name="librettistSort">Jarecki, Henryk</field>
+<field name="librettist">Józef Szujski</field>
+<field name="librettistSort">Szujski, Józef</field>
+<field name="theater">Hrabiego Fryderyka Skarbka</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jadwiga,+królowa+polska+Henryk+Jarecki&amp;search_field=search</field>
+</doc>
+</add>

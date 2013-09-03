@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124286</field>
+<field name="genre">Operas</field>
+<field name="title">Leila</field>
+<field name="titleSort">Leila</field>
+<field name="composer">Henry Hugo Pierson</field>
+<field name="composerSort">Pierson, Henry Hugo</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Caroline Lyser Pierson</field>
+<field name="librettistSort">Pierson, Caroline Lyser</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leila+Henry+Hugo+Pierson&amp;search_field=search</field>
+</doc>
+</add>

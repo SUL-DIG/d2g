@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107308</field>
+<field name="genre">Operas</field>
+<field name="title">La casa di tre artisti</field>
+<field name="titleSort">casa di tre artisti</field>
+<field name="composer">Nicola De Giosa</field>
+<field name="composerSort">Giosa, Nicola De</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+casa+di+tre+artisti+Nicola+De+Giosa&amp;search_field=search</field>
+</doc>
+</add>

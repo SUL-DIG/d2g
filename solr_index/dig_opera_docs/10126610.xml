@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126610</field>
+<field name="genre">Operas</field>
+<field name="title">Hearing</field>
+<field name="titleSort">Hearing</field>
+<field name="composer">Ned Rorem</field>
+<field name="composerSort">Rorem, Ned</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">James Holmes</field>
+<field name="librettistSort">Holmes, James</field>
+<field name="librettist">Kenneth Koch</field>
+<field name="librettistSort">Koch, Kenneth</field>
+<field name="theater">Christ and Saint Stephens Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hearing+Ned+Rorem&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122328</field>
+<field name="genre">Operas</field>
+<field name="title">Der Landstreicher</field>
+<field name="titleSort">Landstreicher</field>
+<field name="composer">Alfred Oelschlegel</field>
+<field name="composerSort">Oelschlegel, Alfred</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">L. von Horst</field>
+<field name="librettistSort">Horst, L. von</field>
+<field name="librettist">Karl von Holtei</field>
+<field name="librettistSort">Holtei, Karl von</field>
+<field name="theater">Wilhelm-Theater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Landstreicher+Alfred+Oelschlegel&amp;search_field=search</field>
+</doc>
+</add>

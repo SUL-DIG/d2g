@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114594</field>
+<field name="genre">Operas</field>
+<field name="title">"Diamond Cut Diamond, or Venetian Revels</field>
+<field name="titleSort">"Diamond Cut Diamond, or Venetian Revels"</field>
+<field name="composer">James Hook</field>
+<field name="composerSort">Hook, James</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">James Hook (jr.)</field>
+<field name="librettistSort">Hook (jr.), James</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diamond+Cut+Diamond,+or+Venetian+Revels+James+Hook&amp;search_field=search</field>
+</doc>
+</add>

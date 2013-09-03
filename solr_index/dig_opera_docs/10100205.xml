@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100205</field>
+<field name="genre">Operas</field>
+<field name="title">Daphnis et Chloé</field>
+<field name="titleSort">Daphnis et Chloé</field>
+<field name="composer">Alexandre d'Agiout</field>
+<field name="composerSort">d'Agiout, Alexandre</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Alexandre d'Agiout</field>
+<field name="librettistSort">d'Agiout, Alexandre</field>
+<field name="theater">"Salle des fêtes du ""Journal"""</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphnis+et+Chloé+Alexandre+d'Agiout&amp;search_field=search</field>
+</doc>
+</add>

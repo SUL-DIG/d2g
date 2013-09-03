@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130552</field>
+<field name="genre">Operas</field>
+<field name="title">Saul at Ein Dor</field>
+<field name="titleSort">Saul at Ein Dor</field>
+<field name="composer">Josef Tal</field>
+<field name="composerSort">Tal, Josef</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Josef Tal</field>
+<field name="librettistSort">Tal, Josef</field>
+
+<field name="city">Tel-Aviv</field>
+
+<field name="country">Israel</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+at+Ein+Dor+Josef+Tal&amp;search_field=search</field>
+</doc>
+</add>

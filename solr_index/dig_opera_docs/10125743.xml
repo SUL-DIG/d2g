@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125743</field>
+<field name="genre">Operas</field>
+<field name="title">Don Pablo</field>
+<field name="titleSort">Don Pablo</field>
+<field name="composer">Theobald Rehbaum</field>
+<field name="composerSort">Rehbaum, Theobald</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Theobald Rehbaum</field>
+<field name="librettistSort">Rehbaum, Theobald</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Pablo+Theobald+Rehbaum&amp;search_field=search</field>
+</doc>
+</add>

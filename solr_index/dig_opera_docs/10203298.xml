@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203298</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pastorale per la nativitа di Gesù Cristo</field>
+		<field name="titleSort">Pastorale per la nativitа di Gesù Cristo</field>
+		
+		
+		
+		
+		<field name="composer">Giuseppe Carcani</field>
+		<field name="composerSort">Carcani, Giuseppe</field>
+		
+		
+		<field name="theater">Oratorio Filippino di Santa Maria della Fava</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastorale+per+la+nativitа+di+Gesù+Cristo+Giuseppe+Carcani&amp;search_field=search</field>
+	</doc></add>

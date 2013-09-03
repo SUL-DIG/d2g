@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200629</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus der Friedensbote</field>
+		<field name="titleSort">Christus der Friedensbote</field>
+		<field name="year">1856</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1856</field>
+		<field name="composer">Emil Naumann</field>
+		<field name="composerSort">Naumann, Emil</field>
+		
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+der+Friedensbote+Emil+Naumann&amp;search_field=search</field>
+	</doc></add>

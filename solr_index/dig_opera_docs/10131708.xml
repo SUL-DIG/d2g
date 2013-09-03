@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131708</field>
+<field name="genre">Operas</field>
+<field name="title">Mme. Vénus</field>
+<field name="titleSort">Mme. Vénus</field>
+<field name="composer">Félicien Vargues</field>
+<field name="composerSort">Vargues, Félicien</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="librettist">[André Sciama] Albert Semiane</field>
+<field name="librettistSort">Semiane, Albert [André Sciama]</field>
+<field name="theater">Grand-concert Parisien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mme.+Vénus+Félicien+Vargues&amp;search_field=search</field>
+</doc>
+</add>

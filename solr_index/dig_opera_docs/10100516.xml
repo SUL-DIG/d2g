@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100516</field>
+<field name="genre">Operas</field>
+<field name="title">Boby-chéri</field>
+<field name="titleSort">Boby-chéri</field>
+<field name="composer">Victor Alix</field>
+<field name="composerSort">Alix, Victor</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">[Max René Weill] Romain Coolus</field>
+<field name="librettistSort">Coolus, Romain [Max René Weill]</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boby-chéri+Victor+Alix&amp;search_field=search</field>
+</doc>
+</add>

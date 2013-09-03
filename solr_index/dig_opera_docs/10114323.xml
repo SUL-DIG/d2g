@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114323</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kobold</field>
+<field name="titleSort">Kobold</field>
+<field name="composer">Friedrich Heinrich Himmel</field>
+<field name="composerSort">Himmel, Friedrich Heinrich</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Friedrich Wilhelm Gotter</field>
+<field name="librettistSort">Gotter, Friedrich Wilhelm</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kobold+Friedrich+Heinrich+Himmel&amp;search_field=search</field>
+</doc>
+</add>

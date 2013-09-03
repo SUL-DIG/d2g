@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200866</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davidde vincitor di Golia</field>
+		<field name="titleSort">Davidde vincitor di Golia</field>
+		<field name="year">1767</field>
+		
+		
+		<field name="date">1767</field>
+		<field name="composer">Paolo Serafino Morischini</field>
+		<field name="composerSort">Morischini, Paolo Serafino</field>
+		<field name="librettist">Pietro Balestrieri Severini</field>
+		<field name="librettistSort">Balestrieri Severini, Pietr</field>
+		
+		
+		<field name="city">Macerata</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">David kills Goliath</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davidde+vincitor+di+Golia+Paolo+Serafino+Morischini&amp;search_field=search</field>
+	</doc></add>

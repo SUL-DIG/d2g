@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125494</field>
+<field name="genre">Operas</field>
+<field name="title">Peggio il remedio del male</field>
+<field name="titleSort">Peggio il remedio del male</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Vincenzo Torelli</field>
+<field name="librettistSort">Torelli, Vincenzo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peggio+il+remedio+del+male+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

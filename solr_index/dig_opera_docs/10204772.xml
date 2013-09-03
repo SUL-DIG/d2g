@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204772</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vera idea del ben chiedere mercede</field>
+		<field name="titleSort">vera idea del ben chiedere mercede</field>
+		<field name="year">1714</field>
+		
+		
+		<field name="date">1714</field>
+		<field name="composer">Pietro Baldassari</field>
+		<field name="composerSort">Baldassari, Pietro</field>
+		
+		
+		<field name="theater">Chiesa dei Sancti Tommaso ed Apollinare</field>
+		<field name="city">Pavia</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vera+idea+del+ben+chiedere+mercede+Pietro+Baldassari&amp;search_field=search</field>
+	</doc></add>

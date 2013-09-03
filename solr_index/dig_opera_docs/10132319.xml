@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132319</field>
+<field name="genre">Operas</field>
+<field name="title">Rohovin Ctverrohy</field>
+<field name="titleSort">Rohovin Ctverrohy</field>
+<field name="composer">Zbynék Vostrák</field>
+<field name="composerSort">Vostrák, Zbynék</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Josef Bachtík</field>
+<field name="librettistSort">Bachtík, Josef</field>
+<field name="librettist">Václav Kliment Klicpera</field>
+<field name="librettistSort">Klicpera, Václav Kliment</field>
+<field name="theater">Olomoucké Divadlo</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rohovin+Ctverrohy+Zbynék+Vostrák&amp;search_field=search</field>
+</doc>
+</add>

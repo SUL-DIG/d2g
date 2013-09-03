@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114225</field>
+<field name="genre">Operas</field>
+<field name="title">"Columbus, or The Discovery of America</field>
+<field name="titleSort">"Columbus, or The Discovery of America"</field>
+<field name="composer">James Hewitt</field>
+<field name="composerSort">Hewitt, James</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Thomas Morton</field>
+<field name="librettistSort">Morton, Thomas</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Columbus,+or+The+Discovery+of+America+James+Hewitt&amp;search_field=search</field>
+</doc>
+</add>

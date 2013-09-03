@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112845</field>
+<field name="genre">Operas</field>
+<field name="title">Sganarell</field>
+<field name="titleSort">Sganarell</field>
+<field name="composer">Wilhelm Grosz</field>
+<field name="composerSort">Grosz, Wilhelm</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Robert Konta</field>
+<field name="librettistSort">Konta, Robert</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Friedrichstheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sganarell+Wilhelm+Grosz&amp;search_field=search</field>
+</doc>
+</add>

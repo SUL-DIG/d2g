@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106572</field>
+<field name="genre">Operas</field>
+<field name="title">Sirmione</field>
+<field name="titleSort">Sirmione</field>
+<field name="composer">Piero Coppola</field>
+<field name="composerSort">Coppola, Piero</field>
+<field name="year">1924</field>
+<field name="date">1924</field><field name="theater">Concerts-Pasdeloup</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sirmione+Piero+Coppola&amp;search_field=search</field>
+</doc>
+</add>

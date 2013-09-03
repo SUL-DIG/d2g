@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127928</field>
+<field name="genre">Operas</field>
+<field name="title">Una tazza di thé</field>
+<field name="titleSort">tazza di thé</field>
+<field name="composer">Oronzo Mario Scarano</field>
+<field name="composerSort">Scarano, Oronzo Mario</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Ugo Fleres</field>
+<field name="librettistSort">Fleres, Ugo</field>
+<field name="theater">Circolo degli Artisti</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+tazza+di+thé+Oronzo+Mario+Scarano&amp;search_field=search</field>
+</doc>
+</add>

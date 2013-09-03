@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106443</field>
+<field name="genre">Operas</field>
+<field name="title">Le père Lajoie</field>
+<field name="titleSort">père Lajoie</field>
+<field name="composer">Jules Conrardy</field>
+<field name="composerSort">Conrardy, Jules</field>
+<field name="year">1858</field>
+<field name="date">1858</field><field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+père+Lajoie+Jules+Conrardy&amp;search_field=search</field>
+</doc>
+</add>

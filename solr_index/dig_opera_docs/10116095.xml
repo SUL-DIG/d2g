@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116095</field>
+<field name="genre">Operas</field>
+<field name="title">Die Nixe</field>
+<field name="titleSort">Nixe</field>
+<field name="composer">Johann Baptist Klerr</field>
+<field name="composerSort">Klerr, Johann Baptist</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Joseph Karl Schmidt</field>
+<field name="librettistSort">Schmidt, Joseph Karl</field>
+<field name="librettist">Friedrich de La Motte-Fouqué</field>
+<field name="librettistSort">La Motte-Fouqué, Friedrich de</field>
+
+<field name="city">Sopron</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nixe+Johann+Baptist+Klerr&amp;search_field=search</field>
+</doc>
+</add>

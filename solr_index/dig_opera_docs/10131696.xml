@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131696</field>
+<field name="genre">Operas</field>
+<field name="title">The Music Robber</field>
+<field name="titleSort">Music Robber</field>
+<field name="composer">Isaac Van Grove</field>
+<field name="composerSort">Grove, Isaac Van</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Richard Leroy Stokes</field>
+<field name="librettistSort">Stokes, Richard Leroy</field>
+<field name="theater">Zoological Gardens</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Music+Robber+Isaac+Van+Grove&amp;search_field=search</field>
+</doc>
+</add>

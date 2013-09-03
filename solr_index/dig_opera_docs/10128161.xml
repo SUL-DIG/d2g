@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128161</field>
+<field name="genre">Operas</field>
+<field name="title">La chemise</field>
+<field name="titleSort">chemise</field>
+<field name="composer">__ Scheidecker</field>
+<field name="composerSort">Scheidecker, __</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">__ Xantrac</field>
+<field name="librettistSort">Xantrac, __</field>
+<field name="theater">Grand-concert Parisien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chemise+__+Scheidecker&amp;search_field=search</field>
+</doc>
+</add>

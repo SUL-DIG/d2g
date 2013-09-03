@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204356</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La sorte sopra la veste di Cristo</field>
+		<field name="titleSort">sorte sopra la veste di Cristo</field>
+		<field name="year">1686</field>
+		<field name="month">April</field>
+		<field name="day">11</field>
+		<field name="date">April 11, 1686</field>
+		<field name="composer">Giovanni Battista Pederzuoli</field>
+		<field name="composerSort">Pederzuoli, Giovanni Battista</field>
+		<field name="librettist">Nicolò Minato</field>
+		<field name="librettistSort">Minato, Nicolò</field>
+		
+		<field name="theater">Cappella dell'imperatrice Eleonara</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Soldiers casting Lots</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sorte+sopra+la+veste+di+Cristo+Giovanni+Battista+Pederzuoli&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117960</field>
+<field name="genre">Operas</field>
+<field name="title">Eros</field>
+<field name="titleSort">Eros</field>
+<field name="composer">Frédéric Le Rey</field>
+<field name="composerSort">Rey, Frédéric Le</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Julien Goujon</field>
+<field name="librettistSort">Goujon, Julien</field>
+<field name="librettist">Augustin Daniel</field>
+<field name="librettistSort">Daniel, Augustin</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eros+Frédéric+Le+Rey&amp;search_field=search</field>
+</doc>
+</add>

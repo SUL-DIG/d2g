@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102515</field>
+<field name="genre">Operas</field>
+<field name="title">Les troyens</field>
+<field name="titleSort">troyens</field>
+<field name="composer">Hector Berlioz</field>
+<field name="composerSort">Berlioz, Hector</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Hector Berlioz</field>
+<field name="librettistSort">Berlioz, Hector</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+troyens+Hector+Berlioz&amp;search_field=search</field>
+</doc>
+</add>

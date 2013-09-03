@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100128</field>
+<field name="genre">Operas</field>
+<field name="title">Le jeune propriétaire et le vieux fermier</field>
+<field name="titleSort">jeune propriétaire et le vieux fermier</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1829</field>
+<field name="date">1829</field><field name="theater">Théâtre des Nouveautés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jeune+propriétaire+et+le+vieux+fermier+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

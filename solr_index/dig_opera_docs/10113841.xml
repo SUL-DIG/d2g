@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113841</field>
+<field name="genre">Operas</field>
+<field name="title">Requiem per Elisa</field>
+<field name="titleSort">Requiem per Elisa</field>
+<field name="composer">Roberto Hazon</field>
+<field name="composerSort">Hazon, Roberto</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Roberto Hazon</field>
+<field name="librettistSort">Hazon, Roberto</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Requiem+per+Elisa+Roberto+Hazon&amp;search_field=search</field>
+</doc>
+</add>

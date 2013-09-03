@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200265</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'assunzione della Beata Maria Vergine</field>
+		<field name="titleSort">assunzione della Beata Maria Vergine</field>
+		<field name="year">1756</field>
+		
+		
+		<field name="date">1756</field>
+		<field name="composer">Mattia Vento</field>
+		<field name="composerSort">Vento, Mattia</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Assumption</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">August 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'assunzione+della+Beata+Maria+Vergine+Mattia+Vento&amp;search_field=search</field>
+	</doc></add>

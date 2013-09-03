@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100852</field>
+<field name="genre">Operas</field>
+<field name="title">The First Christmas</field>
+<field name="titleSort">First Christmas</field>
+<field name="composer">John Antill</field>
+<field name="composerSort">Antill, John</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Pat Flower</field>
+<field name="librettistSort">Flower, Pat</field>
+<field name="theater">ABC Radio (Australian Broadcasting Corporation)</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+First+Christmas+John+Antill&amp;search_field=search</field>
+</doc>
+</add>

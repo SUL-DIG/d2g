@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112766</field>
+<field name="genre">Operas</field>
+<field name="title">Die Weibermühle</field>
+<field name="titleSort">Weibermühle</field>
+<field name="composer">Karl-Rudi Griesbach</field>
+<field name="composerSort">Griesbach, Karl-Rudi</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Tom Zahn</field>
+<field name="librettistSort">Zahn, Tom</field>
+<field name="librettist">Johann Nepomuk Nestroy</field>
+<field name="librettistSort">Nestroy, Johann Nepomuk</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Weibermühle+Karl-Rudi+Griesbach&amp;search_field=search</field>
+</doc>
+</add>

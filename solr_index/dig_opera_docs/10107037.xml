@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107037</field>
+<field name="genre">Operas</field>
+<field name="title">Job</field>
+<field name="titleSort">Job</field>
+<field name="composer">Luigi Dallapiccola</field>
+<field name="composerSort">Dallapiccola, Luigi</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Luigi Dallapiccola</field>
+<field name="librettistSort">Dallapiccola, Luigi</field>
+<field name="theater">Teatro Eliseo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Job+Luigi+Dallapiccola&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112674</field>
+<field name="genre">Operas</field>
+<field name="title">Le pantalon rouge</field>
+<field name="titleSort">pantalon rouge</field>
+<field name="composer">Charles Grélinger</field>
+<field name="composerSort">Grélinger, Charles</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Gabriel Montoya</field>
+<field name="librettistSort">Montoya, Gabriel</field>
+<field name="librettist">[Daniel Auschitzky] Guy de Pierrefeux</field>
+<field name="librettistSort">Pierrefeux, Guy de [Daniel Auschitzky]</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pantalon+rouge+Charles+Grélinger&amp;search_field=search</field>
+</doc>
+</add>

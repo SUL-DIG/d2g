@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130485</field>
+<field name="genre">Operas</field>
+<field name="title">I conti senza l'oste</field>
+<field name="titleSort">conti senza l'oste</field>
+<field name="composer">Guido Tacchinardi</field>
+<field name="composerSort">Tacchinardi, Guido</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Enrico Cecioni</field>
+<field name="librettistSort">Cecioni, Enrico</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+conti+senza+l'oste+Guido+Tacchinardi&amp;search_field=search</field>
+</doc>
+</add>

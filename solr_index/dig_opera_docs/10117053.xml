@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117053</field>
+<field name="genre">Operas</field>
+<field name="title">Die Jungfrau Maleen</field>
+<field name="titleSort">Jungfrau Maleen</field>
+<field name="composer">Theophil Laitenberger</field>
+<field name="composerSort">Laitenberger, Theophil</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Gertrud Ehninger-Seidel</field>
+<field name="librettistSort">Ehninger-Seidel, Gertrud</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+<field name="city">Calw</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Jungfrau+Maleen+Theophil+Laitenberger&amp;search_field=search</field>
+</doc>
+</add>

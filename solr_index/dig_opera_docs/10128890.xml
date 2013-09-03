@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128890</field>
+<field name="genre">Operas</field>
+<field name="title">Die Dielenhexe</field>
+<field name="titleSort">Dielenhexe</field>
+<field name="composer">Rudolf Senger</field>
+<field name="composerSort">Senger, Rudolf</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">[Felix Blumauer] Oskar Felix</field>
+<field name="librettistSort">Felix, Oskar [Felix Blumauer]</field>
+<field name="theater">Kommandantenstrasser Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Dielenhexe+Rudolf+Senger&amp;search_field=search</field>
+</doc>
+</add>

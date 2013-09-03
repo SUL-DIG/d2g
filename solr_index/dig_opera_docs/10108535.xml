@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108535</field>
+<field name="genre">Operas</field>
+<field name="title">L'élisir du docteur Cornelius</field>
+<field name="titleSort">élisir du docteur Cornelius</field>
+<field name="composer">Émile Durand</field>
+<field name="composerSort">Durand, Émile</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Henri Meilhac</field>
+<field name="librettistSort">Meilhac, Henri</field>
+<field name="librettist">Arthur Delavigne</field>
+<field name="librettistSort">Delavigne, Arthur</field>
+<field name="theater">Théâtre des Fantaisies-Parisiennes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'élisir+du+docteur+Cornelius+Émile+Durand&amp;search_field=search</field>
+</doc>
+</add>

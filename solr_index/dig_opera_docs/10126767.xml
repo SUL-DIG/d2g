@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126767</field>
+<field name="genre">Operas</field>
+<field name="title">La sirena</field>
+<field name="titleSort">sirena</field>
+<field name="composer">Lauro Rossi</field>
+<field name="composerSort">Rossi, Lauro</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="theater">Teatro della Canobbiana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sirena+Lauro+Rossi&amp;search_field=search</field>
+</doc>
+</add>

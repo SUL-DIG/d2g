@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133370</field>
+<field name="genre">Operas</field>
+<field name="title">Aura</field>
+<field name="titleSort">Aura</field>
+<field name="composer">Amilcare Zanella</field>
+<field name="composerSort">Zanella, Amilcare</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">[Ida Finzi] Haydée</field>
+<field name="librettistSort">Haydée, [Ida Finzi]</field>
+<field name="theater">Liceo Rossini</field>
+<field name="city">Pesaro</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aura+Amilcare+Zanella&amp;search_field=search</field>
+</doc>
+</add>

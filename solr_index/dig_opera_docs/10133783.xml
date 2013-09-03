@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133783</field>
+<field name="genre">Operas</field>
+<field name="title">"Sâwitri, die Königstochter</field>
+<field name="titleSort">"Sâwitri, die Königstochter"</field>
+<field name="composer">Herman Zumpe</field>
+<field name="composerSort">Zumpe, Herman</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Ferdinand von Sporck</field>
+<field name="librettistSort">Sporck, Ferdinand von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sâwitri,+die+Königstochter+Herman+Zumpe&amp;search_field=search</field>
+</doc>
+</add>

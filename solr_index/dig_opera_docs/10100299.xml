@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100299</field>
+<field name="genre">Operas</field>
+<field name="title">Il principe selvaggio</field>
+<field name="titleSort">principe selvaggio</field>
+<field name="composer">Pirro Albergati</field>
+<field name="composerSort">Albergati, Pirro</field>
+<field name="year">1712</field>
+<field name="date">1712</field>
+<field name="librettist">Francesco Silvani</field>
+<field name="librettistSort">Silvani, Francesco</field>
+
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+selvaggio+Pirro+Albergati&amp;search_field=search</field>
+</doc>
+</add>

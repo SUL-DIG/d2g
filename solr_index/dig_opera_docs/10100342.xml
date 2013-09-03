@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100342</field>
+<field name="genre">Operas</field>
+<field name="title">Circe und Ulisses</field>
+<field name="titleSort">Circe und Ulisses</field>
+<field name="composer">Joachim Albertini</field>
+<field name="composerSort">Albertini, Joachim</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Jonas Ludwig von Hess</field>
+<field name="librettistSort">Hess, Jonas Ludwig von</field>
+<field name="theater">Ackermannsches Komödienhaus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Circe+und+Ulisses+Joachim+Albertini&amp;search_field=search</field>
+</doc>
+</add>

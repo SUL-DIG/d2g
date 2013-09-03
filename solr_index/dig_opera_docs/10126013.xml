@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126013</field>
+<field name="genre">Operas</field>
+<field name="title">Rinald</field>
+<field name="titleSort">Rinald</field>
+<field name="composer">Christoph Rheineck</field>
+<field name="composerSort">Rheineck, Christoph</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Christoph Städele</field>
+<field name="librettistSort">Städele, Christoph</field>
+
+<field name="city">Memmingen</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinald+Christoph+Rheineck&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132607</field>
+<field name="genre">Operas</field>
+<field name="title">D'r verhäxt' Herbst</field>
+<field name="titleSort">verhäxt' Herbst</field>
+<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Johann Thomas Mangold</field>
+<field name="librettistSort">Mangold, Johann Thomas</field>
+
+<field name="city">Colmar</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=D'r+verhäxt'+Herbst+Jean-Baptiste-Théodore+Weckerlin&amp;search_field=search</field>
+</doc>
+</add>

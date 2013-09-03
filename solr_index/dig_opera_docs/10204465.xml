@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204465</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Temple</field>
+		<field name="titleSort">Temple</field>
+		<field name="year">1902</field>
+		
+		
+		<field name="date">1902</field>
+		<field name="composer">Henry Walford Davies</field>
+		<field name="composerSort">Davies, Henry Walford</field>
+		
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Worcester</field>
+		<field name="region">Hereford and Worcester</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Solomon constructs the Temple</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Temple+Henry+Walford+Davies&amp;search_field=search</field>
+	</doc></add>

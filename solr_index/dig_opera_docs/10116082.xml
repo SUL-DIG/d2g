@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116082</field>
+<field name="genre">Operas</field>
+<field name="title">Calypso</field>
+<field name="titleSort">Calypso</field>
+<field name="composer">Joseph Klein</field>
+<field name="composerSort">Klein, Joseph</field>
+<field name="year">1830</field>
+<field name="date">1830</field><field name="theater">Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Calypso+Joseph+Klein&amp;search_field=search</field>
+</doc>
+</add>

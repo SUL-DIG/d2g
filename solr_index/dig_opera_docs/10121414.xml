@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121414</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Merryfeather</field>
+<field name="titleSort">Legend of Merryfeather</field>
+<field name="composer">William Mount-Burke</field>
+<field name="composerSort">Mount-Burke, William</field>
+<field name="year">1965</field>
+<field name="date">1965</field><field name="theater">Light Opera of Manhattan</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Merryfeather+William+Mount-Burke&amp;search_field=search</field>
+</doc>
+</add>

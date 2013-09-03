@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200370</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Befreyung von Jerusalem</field>
+		<field name="titleSort">Befreyung von Jerusalem</field>
+		<field name="year">1813</field>
+		<field name="month">May</field>
+		<field name="day">9</field>
+		<field name="date">May 9, 1813</field>
+		<field name="composer">Maximilian Stadler</field>
+		<field name="composerSort">Stadler, Maximilian</field>
+		<field name="librettist">Heinrich von Collin</field>
+		<field name="librettistSort">Collin, Heinrich von</field>
+		<field name="librettist">Matthäus von Collin</field>
+		<field name="librettistSort">Collin, Matthäus von</field>
+		<field name="theater">Universität Wien</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Befreyung+von+Jerusalem+Maximilian+Stadler&amp;search_field=search</field>
+	</doc></add>

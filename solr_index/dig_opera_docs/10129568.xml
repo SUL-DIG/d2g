@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129568</field>
+<field name="genre">Operas</field>
+<field name="title">Zolushka (Cinderella)</field>
+<field name="titleSort">Zolushka (Cinderella)</field>
+<field name="composer">Antonio Emmanuilovich Spadavecchia</field>
+<field name="composerSort">Spadavecchia, Antonio Emmanuilovich</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+
+<field name="city">Engel's</field>
+<field name="region">Saratov Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolushka+Cinderella+Antonio+Emmanuilovich+Spadavecchia&amp;search_field=search</field>
+</doc>
+</add>

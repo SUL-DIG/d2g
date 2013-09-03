@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131106</field>
+<field name="genre">Operas</field>
+<field name="title">Evaldo</field>
+<field name="titleSort">Evaldo</field>
+<field name="composer">Alfredo Torri</field>
+<field name="composerSort">Torri, Alfredo</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Arturo Berga</field>
+<field name="librettistSort">Berga, Arturo</field>
+<field name="theater">Teatro Nazionale</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Evaldo+Alfredo+Torri&amp;search_field=search</field>
+</doc>
+</add>

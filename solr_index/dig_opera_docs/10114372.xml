@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114372</field>
+<field name="genre">Operas</field>
+<field name="title">Mest'ák slechticem (Le bourgeois gentilhomme)</field>
+<field name="titleSort">Mest'ák slechticem (Le bourgeois gentilhomme)</field>
+<field name="composer">Emil Hlobil</field>
+<field name="composerSort">Hlobil, Emil</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Emil Hlobil</field>
+<field name="librettistSort">Hlobil, Emil</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Divadlo Frantiseka Xaviera Salda</field>
+<field name="city">Liberec</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mest'ák+slechticem+Le+bourgeois+gentilhomme+Emil+Hlobil&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102165</field>
+<field name="genre">Operas</field>
+<field name="title">Der Prinz von Schiras</field>
+<field name="titleSort">Prinz von Schiras</field>
+<field name="composer">Josef Beer</field>
+<field name="composerSort">Beer, Josef</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">[Ludwig Herzl] Ludwig Herzer</field>
+<field name="librettistSort">Herzer, Ludwig [Ludwig Herzl]</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Prinz+von+Schiras+Josef+Beer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203084</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio della Santissima Vergine</field>
+		<field name="titleSort">Oratorio della Santissima Vergine</field>
+		
+		
+		
+		
+		<field name="composer">Giacomo Carissimi</field>
+		<field name="composerSort">Carissimi, Giacomo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+della+Santissima+Vergine+Giacomo+Carissimi&amp;search_field=search</field>
+	</doc></add>

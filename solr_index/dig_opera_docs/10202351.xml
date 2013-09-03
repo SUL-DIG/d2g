@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202351</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Julian der Abtrünnige</field>
+		<field name="titleSort">Julian der Abtrünnige</field>
+		<field name="year">1850</field>
+		
+		
+		<field name="date">1850</field>
+		<field name="composer">Hermann Küster</field>
+		<field name="composerSort">Küster, Hermann</field>
+		
+		
+		
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">Julian the Apostate</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julian+der+Abtrünnige+Hermann+Küster&amp;search_field=search</field>
+	</doc></add>

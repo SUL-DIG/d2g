@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100883</field>
+<field name="genre">Operas</field>
+<field name="title">La fine di Mozart</field>
+<field name="titleSort">fine di Mozart</field>
+<field name="composer">Marco Anzoletti</field>
+<field name="composerSort">Anzoletti, Marco</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Marco Anzoletti</field>
+<field name="librettistSort">Anzoletti, Marco</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fine+di+Mozart+Marco+Anzoletti&amp;search_field=search</field>
+</doc>
+</add>

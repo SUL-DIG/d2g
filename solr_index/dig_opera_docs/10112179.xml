@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112179</field>
+<field name="genre">Operas</field>
+<field name="title">La fausse esclave</field>
+<field name="titleSort">fausse esclave</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Pierre-Augustin Lefebvre de Marcouville</field>
+<field name="librettistSort">Marcouville, Pierre-Augustin Lefebvre de</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fausse+esclave+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106304</field>
+<field name="genre">Operas</field>
+<field name="title">Maitena</field>
+<field name="titleSort">Maitena</field>
+<field name="composer">Charles Colin</field>
+<field name="composerSort">Colin, Charles</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Étienne Decrept</field>
+<field name="librettistSort">Decrept, Étienne</field>
+<field name="theater">Teatro de los Campos Elíseos</field>
+<field name="city">Bilbao</field>
+<field name="region">Euskal Herriko</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maitena+Charles+Colin&amp;search_field=search</field>
+</doc>
+</add>

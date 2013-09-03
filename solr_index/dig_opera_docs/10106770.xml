@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106770</field>
+<field name="genre">Operas</field>
+<field name="title">Rosmene</field>
+<field name="titleSort">Rosmene</field>
+<field name="composer">Giovanni Battista Costanzi</field>
+<field name="composerSort">Costanzi, Giovanni Battista</field>
+<field name="year">1729</field>
+<field name="date">1729</field><field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosmene+Giovanni+Battista+Costanzi&amp;search_field=search</field>
+</doc>
+</add>

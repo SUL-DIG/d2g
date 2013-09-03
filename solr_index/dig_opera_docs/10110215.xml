@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110215</field>
+<field name="genre">Operas</field>
+<field name="title">Daniel O'Rourke</field>
+<field name="titleSort">Daniel O'Rourke</field>
+<field name="composer">Ernest A. Clair Ford</field>
+<field name="composerSort">Ford, Ernest A. Clair</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Private Performance</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+O'Rourke+Ernest+A.+Clair+Ford&amp;search_field=search</field>
+</doc>
+</add>

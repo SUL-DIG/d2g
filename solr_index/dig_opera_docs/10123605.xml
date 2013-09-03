@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123605</field>
+<field name="genre">Operas</field>
+<field name="title">Of Bricks and Bones</field>
+<field name="titleSort">Of Bricks and Bones</field>
+<field name="composer">Andrew Peggie</field>
+<field name="composerSort">Peggie, Andrew</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Peter Cann</field>
+<field name="librettistSort">Cann, Peter</field>
+<field name="theater">Bull Ring Centre</field>
+<field name="city">Birmingham</field>
+<field name="region">West Midlands</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Of+Bricks+and+Bones+Andrew+Peggie&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133796</field>
+<field name="genre">Operas</field>
+<field name="title">Lesní kaple (The Chapel in the Woods)</field>
+<field name="titleSort">Lesní kaple (The Chapel in the Woods)</field>
+<field name="composer">Josef Leopold Zvonar</field>
+<field name="composerSort">Zvonar, Josef Leopold</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Vilém Gábler</field>
+<field name="librettistSort">Gábler, Vilém</field>
+<field name="theater">Novomestské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lesní+kaple+The+Chapel+in+the+Woods+Josef+Leopold+Zvonar&amp;search_field=search</field>
+</doc>
+</add>

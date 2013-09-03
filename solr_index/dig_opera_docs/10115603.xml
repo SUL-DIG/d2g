@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115603</field>
+<field name="genre">Operas</field>
+<field name="title">Ifigenija Aulida (Iphigenia in Aulis)</field>
+<field name="titleSort">Ifigenija Aulida (Iphigenia in Aulis)</field>
+<field name="composer">Imants Kalnins</field>
+<field name="composerSort">Kalnins, Imants</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">[Viktors Kalnins] Viks</field>
+<field name="librettistSort">Viks, [Viktors Kalnins]</field>
+<field name="theater">Latviyskiy Teatr Operï i Baleta</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ifigenija+Aulida+Iphigenia+in+Aulis+Imants+Kalnins&amp;search_field=search</field>
+</doc>
+</add>

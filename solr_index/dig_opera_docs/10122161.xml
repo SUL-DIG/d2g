@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122161</field>
+<field name="genre">Operas</field>
+<field name="title">The Bride Comes to Yellow Sky</field>
+<field name="titleSort">Bride Comes to Yellow Sky</field>
+<field name="composer">Roger Nixon</field>
+<field name="composerSort">Nixon, Roger</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Ray Benedict West</field>
+<field name="librettistSort">West, Ray Benedict</field>
+<field name="theater">Eastern Illinois University</field>
+<field name="city">Charleston</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bride+Comes+to+Yellow+Sky+Roger+Nixon&amp;search_field=search</field>
+</doc>
+</add>

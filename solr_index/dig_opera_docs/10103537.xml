@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103537</field>
+<field name="genre">Operas</field>
+<field name="title">Chat en poche!</field>
+<field name="titleSort">Chat en poche!</field>
+<field name="composer">Émile Bonnamy</field>
+<field name="composerSort">Bonnamy, Émile</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Gaston Derys</field>
+<field name="librettistSort">Derys, Gaston</field>
+<field name="librettist">[Louis de Garcin de Larnage] Guy de Narjal</field>
+<field name="librettistSort">Narjal, Guy de [Louis de Garcin de Larnage]</field>
+<field name="theater">Little Palace</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chat+en+poche!+Émile+Bonnamy&amp;search_field=search</field>
+</doc>
+</add>

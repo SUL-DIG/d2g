@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133407</field>
+<field name="genre">Operas</field>
+<field name="title">Tita</field>
+<field name="titleSort">Tita</field>
+<field name="composer">Ladislao Zavertal</field>
+<field name="composerSort">Zavertal, Ladislao</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Giuseppe Pasetti</field>
+<field name="librettistSort">Pasetti, Giuseppe</field>
+<field name="theater">Teatro Garibaldi</field>
+<field name="city">Treviso</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tita+Ladislao+Zavertal&amp;search_field=search</field>
+</doc>
+</add>

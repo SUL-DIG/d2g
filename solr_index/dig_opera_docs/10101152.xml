@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101152</field>
+<field name="genre">Operas</field>
+<field name="title">"Le désert, ou L'oasis</field>
+<field name="titleSort">"désert, ou L'oasis"</field>
+<field name="composer">Joseph Arquier</field>
+<field name="composerSort">Arquier, Joseph</field>
+<field name="year">1802</field>
+<field name="date">1802</field><field name="theater">Théâtre de la rue Saint-Pierre</field>
+<field name="city">New Orleans</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+désert,+ou+L'oasis+Joseph+Arquier&amp;search_field=search</field>
+</doc>
+</add>

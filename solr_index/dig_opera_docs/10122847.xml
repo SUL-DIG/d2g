@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122847</field>
+<field name="genre">Operas</field>
+<field name="title">La vestale</field>
+<field name="titleSort">vestale</field>
+<field name="composer">Giovanni Pacini</field>
+<field name="composerSort">Pacini, Giovanni</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="librettist">Victor Joseph Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vestale+Giovanni+Pacini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117641</field>
+<field name="genre">Operas</field>
+<field name="title">Le trahison de Pan</field>
+<field name="titleSort">trahison de Pan</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Stéphan Bordèse</field>
+<field name="librettistSort">Bordèse, Stéphan</field>
+<field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+trahison+de+Pan+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

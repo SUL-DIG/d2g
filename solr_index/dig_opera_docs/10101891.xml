@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101891</field>
+<field name="genre">Operas</field>
+<field name="title">Feathertop</field>
+<field name="titleSort">Feathertop</field>
+<field name="composer">Edward Barnes</field>
+<field name="composerSort">Barnes, Edward</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Maurice Valency</field>
+<field name="librettistSort">Valency, Maurice</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feathertop+Edward+Barnes&amp;search_field=search</field>
+</doc>
+</add>

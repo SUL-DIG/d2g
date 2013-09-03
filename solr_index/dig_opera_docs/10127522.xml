@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127522</field>
+<field name="genre">Operas</field>
+<field name="title">Elpinice e Vologeso</field>
+<field name="titleSort">Elpinice e Vologeso</field>
+<field name="composer">Francesco Sampieri</field>
+<field name="composerSort">Sampieri, Francesco</field>
+<field name="year">1807</field>
+<field name="date">1807</field><field name="theater">Private Performance</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elpinice+e+Vologeso+Francesco+Sampieri&amp;search_field=search</field>
+</doc>
+</add>

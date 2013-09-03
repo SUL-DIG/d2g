@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200155</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'amor cristiano, overo Santa Cecilia</field>
+		<field name="titleSort">amor cristiano, overo Santa Cecilia</field>
+		<field name="year">1851</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1851</field>
+		<field name="composer">Gioacchino Maglioni</field>
+		<field name="composerSort">Maglioni, Gioacchino</field>
+		<field name="librettist">Geremia Barsottini</field>
+		<field name="librettistSort">Barsottini, Geremia</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amor+cristiano,+overo+Santa+Cecilia+Gioacchino+Maglioni&amp;search_field=search</field>
+	</doc></add>

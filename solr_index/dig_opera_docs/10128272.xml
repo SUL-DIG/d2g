@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128272</field>
+<field name="genre">Operas</field>
+<field name="title">Le casque</field>
+<field name="titleSort">casque</field>
+<field name="composer">Léon Schlesinger</field>
+<field name="composerSort">Schlesinger, Léon</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">André Degrave</field>
+<field name="librettistSort">Degrave, André</field>
+<field name="theater">Théâtre des Menus-Plaisirs</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+casque+Léon+Schlesinger&amp;search_field=search</field>
+</doc>
+</add>

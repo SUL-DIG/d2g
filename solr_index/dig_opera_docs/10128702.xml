@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128702</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto pastorello</field>
+<field name="titleSort">finto pastorello</field>
+<field name="composer">Gregorio Sciroli</field>
+<field name="composerSort">Sciroli, Gregorio</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Antonio Palomba</field>
+<field name="librettistSort">Palomba, Antonio</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+pastorello+Gregorio+Sciroli&amp;search_field=search</field>
+</doc>
+</add>

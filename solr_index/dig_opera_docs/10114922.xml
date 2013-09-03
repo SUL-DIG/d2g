@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114922</field>
+<field name="genre">Operas</field>
+<field name="title">Méprise et surprise</field>
+<field name="titleSort">Méprise et surprise</field>
+<field name="composer">Wilfrid d'Indy</field>
+<field name="composerSort">d'Indy, Wilfrid</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Jules d'Evry</field>
+<field name="librettistSort">d'Evry, Jules</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Méprise+et+surprise+Wilfrid+d'Indy&amp;search_field=search</field>
+</doc>
+</add>

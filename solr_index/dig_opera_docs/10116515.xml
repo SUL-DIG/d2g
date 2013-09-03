@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116515</field>
+<field name="genre">Operas</field>
+<field name="title">Der Rotmantel</field>
+<field name="titleSort">Rotmantel</field>
+<field name="composer">Georg Krempelsetzer</field>
+<field name="composerSort">Krempelsetzer, Georg</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Paul Heyse</field>
+<field name="librettistSort">Heyse, Paul</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Rotmantel+Georg+Krempelsetzer&amp;search_field=search</field>
+</doc>
+</add>

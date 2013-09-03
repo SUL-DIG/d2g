@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117953</field>
+<field name="genre">Operas</field>
+<field name="title">Croquignolle XXXVI</field>
+<field name="titleSort">Croquignolle XXXVI</field>
+<field name="composer">Ernest Lépine</field>
+<field name="composerSort">Lépine, Ernest</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">[Philippe-Auguste-Alfred Pittaud de Forge] Alfred Deforges</field>
+<field name="librettistSort">Deforges, Alfred [Philippe-Auguste-Alfred Pittaud de Forge]</field>
+<field name="librettist">Octave Gastineau</field>
+<field name="librettistSort">Gastineau, Octave</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Croquignolle+XXXVI+Ernest+Lépine&amp;search_field=search</field>
+</doc>
+</add>

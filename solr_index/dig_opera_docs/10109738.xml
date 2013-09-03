@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109738</field>
+<field name="genre">Operas</field>
+<field name="title">La blanche Hermine</field>
+<field name="titleSort">blanche Hermine</field>
+<field name="composer">Edmondo Filippucci</field>
+<field name="composerSort">Filippucci, Edmondo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">George Delamare</field>
+<field name="librettistSort">Delamare, George</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+blanche+Hermine+Edmondo+Filippucci&amp;search_field=search</field>
+</doc>
+</add>

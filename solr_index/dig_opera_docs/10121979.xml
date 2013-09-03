@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121979</field>
+<field name="genre">Operas</field>
+<field name="title">Alfred</field>
+<field name="titleSort">Alfred</field>
+<field name="composer">__ Neumann</field>
+<field name="composerSort">Neumann, __</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Johann Josef Reiff</field>
+<field name="librettistSort">Reiff, Johann Josef</field>
+
+<field name="city">Koblenz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfred+__+Neumann&amp;search_field=search</field>
+</doc>
+</add>

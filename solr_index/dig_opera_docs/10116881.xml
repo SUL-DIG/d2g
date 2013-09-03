@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116881</field>
+<field name="genre">Operas</field>
+<field name="title">Belmont und Constanze</field>
+<field name="titleSort">Belmont und Constanze</field>
+<field name="composer">Anton Josef Kuzzi</field>
+<field name="composerSort">Kuzzi, Anton Josef</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Christoph Friedrich Bretzner</field>
+<field name="librettistSort">Bretzner, Christoph Friedrich</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belmont+und+Constanze+Anton+Josef+Kuzzi&amp;search_field=search</field>
+</doc>
+</add>

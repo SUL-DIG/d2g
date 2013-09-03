@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108964</field>
+<field name="genre">Operas</field>
+<field name="title">Inès Mendo</field>
+<field name="titleSort">Inès Mendo</field>
+<field name="composer">Frédéric d'Erlanger</field>
+<field name="composerSort">d'Erlanger, Frédéric</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Pierre Decourcelle</field>
+<field name="librettistSort">Decourcelle, Pierre</field>
+<field name="librettist">[Georges Degas] Armand Liorat</field>
+<field name="librettistSort">Liorat, Armand [Georges Degas]</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inès+Mendo+Frédéric+d'Erlanger&amp;search_field=search</field>
+</doc>
+</add>

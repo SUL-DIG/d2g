@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132702</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Nachmanöver</field>
+<field name="titleSort">Nachmanöver</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Bernhard Buchbinder</field>
+<field name="librettistSort">Buchbinder, Bernhard</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Nachmanöver+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

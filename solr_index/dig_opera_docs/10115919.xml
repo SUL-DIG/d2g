@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115919</field>
+<field name="genre">Operas</field>
+<field name="title">Gansendonk</field>
+<field name="titleSort">Gansendonk</field>
+<field name="composer">Willem Kersters</field>
+<field name="composerSort">Kersters, Willem</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Willem Kersters</field>
+<field name="librettistSort">Kersters, Willem</field>
+<field name="librettist">Bob De Nijs</field>
+<field name="librettistSort">De Nijs, Bob</field>
+<field name="theater">Opera voor Vlaanderen</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gansendonk+Willem+Kersters&amp;search_field=search</field>
+</doc>
+</add>

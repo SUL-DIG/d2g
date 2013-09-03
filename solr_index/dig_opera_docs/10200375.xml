@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200375</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Beloved Son</field>
+		<field name="titleSort">Beloved Son</field>
+		<field name="year">1978</field>
+		<field name="month">August</field>
+		<field name="day">9</field>
+		<field name="date">August 9, 1978</field>
+		<field name="composer">Dave Brubeck</field>
+		<field name="composerSort">Brubeck, Dave</field>
+		<field name="librettist">Herbert F. Brokering</field>
+		<field name="librettistSort">Brokering, Herbert F.</field>
+		
+		<field name="theater">American Lutheran Women's Convention</field>
+		<field name="city">Minneapolis</field>
+		<field name="region">Minnesota</field>
+		<field name="country">United States</field>
+		<field name="subject">The Son of God</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beloved+Son+Dave+Brubeck&amp;search_field=search</field>
+	</doc></add>

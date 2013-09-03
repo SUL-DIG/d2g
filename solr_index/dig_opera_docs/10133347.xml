@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133347</field>
+<field name="genre">Operas</field>
+<field name="title">Fraska o kádi (A Farce about the Tub)</field>
+<field name="titleSort">Fraska o kádi (A Farce about the Tub)</field>
+<field name="composer">Evzen Zámecnik</field>
+<field name="composerSort">Zámecnik, Evzen</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Evzen Zámecnik</field>
+<field name="librettistSort">Zámecnik, Evzen</field>
+<field name="theater">Janáckova Opera</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fraska+o+kádi+A+Farce+about+the+Tub+Evzen+Zámecnik&amp;search_field=search</field>
+</doc>
+</add>

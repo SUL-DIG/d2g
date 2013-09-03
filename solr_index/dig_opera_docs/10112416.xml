@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112416</field>
+<field name="genre">Operas</field>
+<field name="title">Derdan (The Necklace)</field>
+<field name="titleSort">Derdan (The Necklace)</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Jakov Gotovac</field>
+<field name="librettistSort">Gotovac, Jakov</field>
+<field name="librettist">Cvjetko Jakelic</field>
+<field name="librettistSort">Jakelic, Cvjetko</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Derdan+The+Necklace+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

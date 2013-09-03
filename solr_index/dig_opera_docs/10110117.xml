@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110117</field>
+<field name="genre">Operas</field>
+<field name="title">The Sojourner and Mollie Sinclair</field>
+<field name="titleSort">Sojourner and Mollie Sinclair</field>
+<field name="composer">Carlisle Floyd</field>
+<field name="composerSort">Floyd, Carlisle</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Carlisle Floyd</field>
+<field name="librettistSort">Floyd, Carlisle</field>
+<field name="theater">East Carolina College</field>
+<field name="city">Raleigh</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sojourner+and+Mollie+Sinclair+Carlisle+Floyd&amp;search_field=search</field>
+</doc>
+</add>

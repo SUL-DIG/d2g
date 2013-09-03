@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103217</field>
+<field name="genre">Operas</field>
+<field name="title">Verchovina (Highland)</field>
+<field name="titleSort">Verchovina (Highland)</field>
+<field name="composer">Zdenek Blazek</field>
+<field name="composerSort">Blazek, Zdenek</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Jaroslav Zatloukal</field>
+<field name="librettistSort">Zatloukal, Jaroslav</field>
+<field name="theater">Janáckova Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Verchovina+Highland+Zdenek+Blazek&amp;search_field=search</field>
+</doc>
+</add>

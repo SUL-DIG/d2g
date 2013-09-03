@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124358</field>
+<field name="genre">Operas</field>
+<field name="title">La cigale et la fourmi</field>
+<field name="titleSort">cigale et la fourmi</field>
+<field name="composer">Albert Pinatel</field>
+<field name="composerSort">Pinatel, Albert</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Édouard Martin</field>
+<field name="librettistSort">Martin, Édouard</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cigale+et+la+fourmi+Albert+Pinatel&amp;search_field=search</field>
+</doc>
+</add>

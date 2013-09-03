@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119403</field>
+<field name="genre">Operas</field>
+<field name="title">Priesaika (The Oath)</field>
+<field name="titleSort">Priesaika (The Oath)</field>
+<field name="composer">Vytautas Marijosius</field>
+<field name="composerSort">Marijosius, Vytautas</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Stasys Santvaras</field>
+<field name="librettistSort">Santvaras, Stasys</field>
+<field name="theater">Chicagos Lietuviu Opera</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Priesaika+The+Oath+Vytautas+Marijosius&amp;search_field=search</field>
+</doc>
+</add>

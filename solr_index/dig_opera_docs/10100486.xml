@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100486</field>
+<field name="genre">Operas</field>
+<field name="title">Ugo e Rambaldo</field>
+<field name="titleSort">Ugo e Rambaldo</field>
+<field name="composer">Alfredo Alessio</field>
+<field name="composerSort">Alessio, Alfredo</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Antonio Fortina</field>
+<field name="librettistSort">Fortina, Antonio</field>
+<field name="theater">Conservatorio</field>
+<field name="city">Arona</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ugo+e+Rambaldo+Alfredo+Alessio&amp;search_field=search</field>
+</doc>
+</add>

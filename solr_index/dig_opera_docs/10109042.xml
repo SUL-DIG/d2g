@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109042</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Pächter</field>
+<field name="titleSort">drei Pächter</field>
+<field name="composer">Karl Michael von Esser</field>
+<field name="composerSort">Esser, Karl Michael von</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Wilhelm Gottlieb Becker</field>
+<field name="librettistSort">Becker, Wilhelm Gottlieb</field>
+<field name="librettist">Jacques-Marie Boutet de Monvel</field>
+<field name="librettistSort">Boutet de Monvel, Jacques-Marie</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Pächter+Karl+Michael+von+Esser&amp;search_field=search</field>
+</doc>
+</add>

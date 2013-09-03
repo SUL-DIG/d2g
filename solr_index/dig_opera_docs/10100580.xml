@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100580</field>
+<field name="genre">Operas</field>
+<field name="title">O maestro Bovi</field>
+<field name="titleSort">maestro Bovi</field>
+<field name="composer">Francisco Alvarenga</field>
+<field name="composerSort">Alvarenga, Francisco</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">João António da Costa</field>
+<field name="librettistSort">Costa, João António da</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+maestro+Bovi+Francisco+Alvarenga&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122206</field>
+<field name="genre">Operas</field>
+<field name="title">Beatrice di Portogallo</field>
+<field name="titleSort">Beatrice di Portogallo</field>
+<field name="composer">Francisco de Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Carlos Monteiro</field>
+<field name="librettistSort">Monteiro, Carlos</field>
+<field name="librettist">Luigi Bianchi</field>
+<field name="librettistSort">Bianchi, Luigi</field>
+<field name="theater">Teatro de São João</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+di+Portogallo+Francisco+de+Sá+Noronha&amp;search_field=search</field>
+</doc>
+</add>

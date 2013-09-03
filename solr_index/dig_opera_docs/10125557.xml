@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125557</field>
+<field name="genre">Operas</field>
+<field name="title">The Rival Beauties</field>
+<field name="titleSort">Rival Beauties</field>
+<field name="composer">Alberto Randegger</field>
+<field name="composerSort">Randegger, Alberto</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">John Pratt Wooler</field>
+<field name="librettistSort">Wooler, John Pratt</field>
+
+<field name="city">Leeds</field>
+<field name="region">West Yorkshire</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rival+Beauties+Alberto+Randegger&amp;search_field=search</field>
+</doc>
+</add>

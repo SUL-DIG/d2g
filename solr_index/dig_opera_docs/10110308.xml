@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110308</field>
+<field name="genre">Operas</field>
+<field name="title">La guardia notturna</field>
+<field name="titleSort">guardia notturna</field>
+<field name="composer">Carlo Fossati</field>
+<field name="composerSort">Fossati, Carlo</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Maurizio Toussaint</field>
+<field name="librettistSort">Toussaint, Maurizio</field>
+<field name="theater">Teatro Balbo</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guardia+notturna+Carlo+Fossati&amp;search_field=search</field>
+</doc>
+</add>

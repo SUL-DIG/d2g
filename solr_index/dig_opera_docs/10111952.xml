@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111952</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Star Valley Junction</field>
+<field name="titleSort">Legend of Star Valley Junction</field>
+<field name="composer">Don Gillis</field>
+<field name="composerSort">Gillis, Don</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Don Gillis</field>
+<field name="librettistSort">Gillis, Don</field>
+<field name="theater">Metropolitan Opera Studio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Star+Valley+Junction+Don+Gillis&amp;search_field=search</field>
+</doc>
+</add>

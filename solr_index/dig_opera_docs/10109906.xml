@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109906</field>
+<field name="genre">Operas</field>
+<field name="title">Il supposto sposo</field>
+<field name="titleSort">supposto sposo</field>
+<field name="composer">Vincenzo Fioravanti</field>
+<field name="composerSort">Fioravanti, Vincenzo</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+supposto+sposo+Vincenzo+Fioravanti&amp;search_field=search</field>
+</doc>
+</add>

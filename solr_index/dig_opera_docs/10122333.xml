@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122333</field>
+<field name="genre">Operas</field>
+<field name="title">Vardhamana</field>
+<field name="titleSort">Vardhamana</field>
+<field name="composer">Bruno Oelsner</field>
+<field name="composerSort">Oelsner, Bruno</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Karl Schuller</field>
+<field name="librettistSort">Schuller, Karl</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vardhamana+Bruno+Oelsner&amp;search_field=search</field>
+</doc>
+</add>

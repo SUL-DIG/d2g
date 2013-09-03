@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103953</field>
+<field name="genre">Operas</field>
+<field name="title">Jarmila</field>
+<field name="titleSort">Jarmila</field>
+<field name="composer">Wenzel Theodor Bradsky</field>
+<field name="composerSort">Bradsky, Wenzel Theodor</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Karl August Heigel</field>
+<field name="librettistSort">Heigel, Karl August</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jarmila+Wenzel+Theodor+Bradsky&amp;search_field=search</field>
+</doc>
+</add>

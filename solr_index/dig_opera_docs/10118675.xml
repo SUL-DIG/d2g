@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118675</field>
+<field name="genre">Operas</field>
+<field name="title">La moza de campanillas</field>
+<field name="titleSort">moza de campanillas</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Antonio Paso</field>
+<field name="librettistSort">Paso, Antonio</field>
+<field name="librettist">Ricardo González del Toro</field>
+<field name="librettistSort">González del Toro, Ricardo</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+moza+de+campanillas+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109473</field>
+<field name="genre">Operas</field>
+<field name="title">Der Frühling</field>
+<field name="titleSort">Frühling</field>
+<field name="composer">Johann Gottlieb Feige</field>
+<field name="composerSort">Feige, Johann Gottlieb</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Johann Martin Kellner</field>
+<field name="librettistSort">Kellner, Johann Martin</field>
+
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Frühling+Johann+Gottlieb+Feige&amp;search_field=search</field>
+</doc>
+</add>

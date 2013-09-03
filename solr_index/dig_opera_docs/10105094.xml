@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105094</field>
+<field name="genre">Operas</field>
+<field name="title">Game Opera</field>
+<field name="titleSort">Game Opera</field>
+<field name="composer">Loran Francis Carrier</field>
+<field name="composerSort">Carrier, Loran Francis</field>
+<field name="year">1969</field>
+<field name="date">1969</field><field name="theater">Smithsonian Institute</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Game+Opera+Loran+Francis+Carrier&amp;search_field=search</field>
+</doc>
+</add>

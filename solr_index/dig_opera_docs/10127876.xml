@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127876</field>
+<field name="genre">Operas</field>
+<field name="title">The Panic</field>
+<field name="titleSort">Panic</field>
+<field name="composer">David Sawer</field>
+<field name="composerSort">Sawer, David</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Paul Godfrey</field>
+<field name="librettistSort">Godfrey, Paul</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Panic+David+Sawer&amp;search_field=search</field>
+</doc>
+</add>

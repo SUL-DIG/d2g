@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132365</field>
+<field name="genre">Operas</field>
+<field name="title">The Martyred</field>
+<field name="titleSort">Martyred</field>
+<field name="composer">James Wade</field>
+<field name="composerSort">Wade, James</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">James Wade</field>
+<field name="librettistSort">Wade, James</field>
+<field name="librettist">Richard E. Kim</field>
+<field name="librettistSort">Kim, Richard E.</field>
+
+<field name="city">Seoul</field>
+
+<field name="country">Korea</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Martyred+James+Wade&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102399</field>
+<field name="genre">Operas</field>
+<field name="title">A Mountain Heiress</field>
+<field name="titleSort">Mountain Heiress</field>
+<field name="composer">Lionel Benson</field>
+<field name="composerSort">Benson, Lionel</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Gilbert Arthur a'Beckett</field>
+<field name="librettistSort">a'Beckett, Gilbert Arthur</field>
+<field name="theater">Saint George's Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Mountain+Heiress+Lionel+Benson&amp;search_field=search</field>
+</doc>
+</add>

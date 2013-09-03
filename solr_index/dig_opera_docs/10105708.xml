@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105708</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore artigiano</field>
+<field name="titleSort">amore artigiano</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro San Domenico</field>
+<field name="city">Fiesole</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+artigiano+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

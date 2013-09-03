@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116152</field>
+<field name="genre">Operas</field>
+<field name="title">Murat</field>
+<field name="titleSort">Murat</field>
+<field name="composer">Lev Konstantinovich Knipper</field>
+<field name="composerSort">Knipper, Lev Konstantinovich</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">S. Arungasiyeva</field>
+<field name="librettistSort">Arungasiyeva, S.</field>
+<field name="librettist">N. I. Imshenetsky</field>
+<field name="librettistSort">Imshenetsky, N. I.</field>
+<field name="theater">Kirghiz Teatr Operï i Baleta</field>
+<field name="city">Biskek</field>
+
+<field name="country">Kyrgyzstan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Murat+Lev+Konstantinovich+Knipper&amp;search_field=search</field>
+</doc>
+</add>

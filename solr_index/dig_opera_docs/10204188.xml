@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204188</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Schallt Jubel</field>
+		<field name="titleSort">Schallt Jubel</field>
+		<field name="year">1783</field>
+		<field name="month">September</field>
+		<field name="day">4</field>
+		<field name="date">September 4, 1783</field>
+		<field name="composer">Carl Philipp Emanuel Bach</field>
+		<field name="composerSort">Bach, Carl Philipp</field>
+		
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schallt+Jubel+Carl+Philipp+Emanuel+Bach&amp;search_field=search</field>
+	</doc></add>

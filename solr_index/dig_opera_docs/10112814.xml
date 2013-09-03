@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112814</field>
+<field name="genre">Operas</field>
+<field name="title">L'eléphant blanc</field>
+<field name="titleSort">eléphant blanc</field>
+<field name="composer">Raphaël Auguste Grisy</field>
+<field name="composerSort">Grisy, Raphaël Auguste</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Élie Frébault</field>
+<field name="librettistSort">Frébault, Élie</field>
+<field name="librettist">Henri Chabrillat</field>
+<field name="librettistSort">Chabrillat, Henri</field>
+<field name="theater">Théâtre des Menus-Plaisirs</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'eléphant+blanc+Raphaël+Auguste+Grisy&amp;search_field=search</field>
+</doc>
+</add>

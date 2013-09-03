@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119201</field>
+<field name="genre">Operas</field>
+<field name="title">Il ritratto di Dorian Gray</field>
+<field name="titleSort">ritratto di Dorian Gray</field>
+<field name="composer">Franco Mannino</field>
+<field name="composerSort">Mannino, Franco</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Paola Masino</field>
+<field name="librettistSort">Masino, Paola</field>
+<field name="librettist">Beppe De Tomasi</field>
+<field name="librettistSort">De Tomasi, Beppe</field>
+<field name="theater">Teatro Massimo Bellini</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritratto+di+Dorian+Gray+Franco+Mannino&amp;search_field=search</field>
+</doc>
+</add>

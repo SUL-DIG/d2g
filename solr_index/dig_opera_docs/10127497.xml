@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127497</field>
+<field name="genre">Operas</field>
+<field name="title">Caterina Howard</field>
+<field name="titleSort">Caterina Howard</field>
+<field name="composer">Matteo Salvi</field>
+<field name="composerSort">Salvi, Matteo</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Giorgio Giacchetti</field>
+<field name="librettistSort">Giacchetti, Giorgio</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caterina+Howard+Matteo+Salvi&amp;search_field=search</field>
+</doc>
+</add>

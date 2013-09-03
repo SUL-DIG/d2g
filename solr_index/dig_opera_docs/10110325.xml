@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110325</field>
+<field name="genre">Operas</field>
+<field name="title">Vercingétorix</field>
+<field name="titleSort">Vercingétorix</field>
+<field name="composer">Félix Fourdrain</field>
+<field name="composerSort">Fourdrain, Félix</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Arthur Bernède</field>
+<field name="librettistSort">Bernède, Arthur</field>
+<field name="librettist">Paul de Choudens</field>
+<field name="librettistSort">Choudens, Paul de</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vercingétorix+Félix+Fourdrain&amp;search_field=search</field>
+</doc>
+</add>

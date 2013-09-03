@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200261</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Assumpta est in gloria</field>
+		<field name="titleSort">Assumpta est in gloria</field>
+		
+		
+		
+		
+		<field name="composer">Mario Cantu</field>
+		<field name="composerSort">Cantu, Mario</field>
+		<field name="librettist">Maria Pino</field>
+		<field name="librettistSort">Pino, Maria</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Assumption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Assumpta+est+in+gloria+Mario+Cantu&amp;search_field=search</field>
+	</doc></add>

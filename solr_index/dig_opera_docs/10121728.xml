@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121728</field>
+<field name="genre">Operas</field>
+<field name="title">Agnese Visconti</field>
+<field name="titleSort">Agnese Visconti</field>
+<field name="composer">Antonio Nani</field>
+<field name="composerSort">Nani, Antonio</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Reale</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnese+Visconti+Antonio+Nani&amp;search_field=search</field>
+</doc>
+</add>

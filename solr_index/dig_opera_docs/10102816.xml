@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102816</field>
+<field name="genre">Operas</field>
+<field name="title">L'héroine de l'amour filial</field>
+<field name="titleSort">héroine de l'amour filial</field>
+<field name="composer">Johan Fredrik Berwald</field>
+<field name="composerSort">Berwald, Johan Fredrik</field>
+<field name="year">1811</field>
+<field name="date">1811</field><field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héroine+de+l'amour+filial+Johan+Fredrik+Berwald&amp;search_field=search</field>
+</doc>
+</add>

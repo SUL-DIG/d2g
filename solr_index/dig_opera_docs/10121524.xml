@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121524</field>
+<field name="genre">Operas</field>
+<field name="title">Der Polterabend</field>
+<field name="titleSort">Polterabend</field>
+<field name="composer">August Eberhard Müller</field>
+<field name="composerSort">Müller, August Eberhard</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Pius Alexander Wolff</field>
+<field name="librettistSort">Wolff, Pius Alexander</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Polterabend+August+Eberhard+Müller&amp;search_field=search</field>
+</doc>
+</add>

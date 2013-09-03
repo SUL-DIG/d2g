@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117846</field>
+<field name="genre">Operas</field>
+<field name="title">Le tre Eugenii</field>
+<field name="titleSort">tre Eugenii</field>
+<field name="composer">Francesco Lenzi (1)</field>
+<field name="composerSort">Lenzi (1), Francesco</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+tre+Eugenii+Francesco+Lenzi+-1&amp;search_field=search</field>
+</doc>
+</add>

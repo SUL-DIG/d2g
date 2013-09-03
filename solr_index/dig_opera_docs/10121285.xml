@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121285</field>
+<field name="genre">Operas</field>
+<field name="title">Il contratto</field>
+<field name="titleSort">contratto</field>
+<field name="composer">Virgilio Mortari</field>
+<field name="composerSort">Mortari, Virgilio</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Giuseppe Marotta</field>
+<field name="librettistSort">Marotta, Giuseppe</field>
+<field name="librettist">Belisario Randone</field>
+<field name="librettistSort">Randone, Belisario</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+contratto+Virgilio+Mortari&amp;search_field=search</field>
+</doc>
+</add>

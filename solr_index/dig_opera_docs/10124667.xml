@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124667</field>
+<field name="genre">Operas</field>
+<field name="title">La costanza gelosa negl'amori di Cefalo e Procri</field>
+<field name="titleSort">costanza gelosa negl'amori di Cefalo e Procri</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1688</field>
+<field name="date">1688</field><field name="theater">Teatro dei Temperati</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+gelosa+negl'amori+di+Cefalo+e+Procri+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121515</field>
+<field name="genre">Operas</field>
+<field name="title">Der kleine Prinz</field>
+<field name="titleSort">kleine Prinz</field>
+<field name="composer">Adolf Müller (jr.)</field>
+<field name="composerSort">Müller (jr.), Adolf</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Julius Rosen</field>
+<field name="librettistSort">Rosen, Julius</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+kleine+Prinz+Adolf+Müller+jr.&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108707</field>
+<field name="genre">Operas</field>
+<field name="title">The Fisherman</field>
+<field name="titleSort">Fisherman</field>
+<field name="composer">Paul Max Edlin</field>
+<field name="composerSort">Edlin, Paul Max</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Jonathan Kreeger</field>
+<field name="librettistSort">Kreeger, Jonathan</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Royal College of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fisherman+Paul+Max+Edlin&amp;search_field=search</field>
+</doc>
+</add>

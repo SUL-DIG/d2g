@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132735</field>
+<field name="genre">Operas</field>
+<field name="title">The Black Spider</field>
+<field name="titleSort">Black Spider</field>
+<field name="composer">Judith Weir</field>
+<field name="composerSort">Weir, Judith</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Judith Weir</field>
+<field name="librettistSort">Weir, Judith</field>
+<field name="librettist">[Albert Bitzius] Jeremias Gotthelf</field>
+<field name="librettistSort">Gotthelf, Jeremias [Albert Bitzius]</field>
+<field name="theater">Canterbury Cathedral</field>
+<field name="city">Canterbury</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Black+Spider+Judith+Weir&amp;search_field=search</field>
+</doc>
+</add>

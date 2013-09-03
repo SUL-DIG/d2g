@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117803</field>
+<field name="genre">Operas</field>
+<field name="title">Kalmuneid (The Maiden from the Hill)</field>
+<field name="titleSort">Kalmuneid (The Maiden from the Hill)</field>
+<field name="composer">Artur Lemba</field>
+<field name="composerSort">Lemba, Artur</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">[Marta Lepp] Sophia Vardi</field>
+<field name="librettistSort">Vardi, Sophia [Marta Lepp]</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalmuneid+The+Maiden+from+the+Hill+Artur+Lemba&amp;search_field=search</field>
+</doc>
+</add>

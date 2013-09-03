@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100098</field>
+<field name="genre">Operas</field>
+<field name="title">À Clichy</field>
+<field name="titleSort">À Clichy</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="librettist">[Eugène-Pierre Basté] Eugène Grangé</field>
+<field name="librettistSort">Grangé, Eugène [Eugène-Pierre Basté]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+Clichy+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

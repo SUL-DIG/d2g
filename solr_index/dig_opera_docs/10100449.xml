@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100449</field>
+<field name="genre">Operas</field>
+<field name="title">Alcina e Ruggero</field>
+<field name="titleSort">Alcina e Ruggero</field>
+<field name="composer">Felice Alessandri</field>
+<field name="composerSort">Alessandri, Felice</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Vittorio Amadeo Cigna-Santi</field>
+<field name="librettistSort">Cigna-Santi, Vittorio Amadeo</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alcina+e+Ruggero+Felice+Alessandri&amp;search_field=search</field>
+</doc>
+</add>

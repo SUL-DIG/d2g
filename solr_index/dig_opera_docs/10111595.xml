@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111595</field>
+<field name="genre">Operas</field>
+<field name="title">I falsi galantuomini</field>
+<field name="titleSort">falsi galantuomini</field>
+<field name="composer">Giuseppe Gerli</field>
+<field name="composerSort">Gerli, Giuseppe</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="city">Monza</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+falsi+galantuomini+Giuseppe+Gerli&amp;search_field=search</field>
+</doc>
+</add>

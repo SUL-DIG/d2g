@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101637</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della virtù</field>
+<field name="titleSort">trionfo della virtù</field>
+<field name="composer">Lorenzo Baini</field>
+<field name="composerSort">Baini, Lorenzo</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="theater">Teatro della Fortuna</field>
+<field name="city">Fano</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+virtù+Lorenzo+Baini&amp;search_field=search</field>
+</doc>
+</add>

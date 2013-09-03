@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110348</field>
+<field name="genre">Operas</field>
+<field name="title">"Paris а nous deux, ou Le nouveau Rastignac</field>
+<field name="titleSort">"Paris а nous deux, ou Le nouveau Rastignac"</field>
+<field name="composer">Jean Françaix</field>
+<field name="composerSort">Françaix, Jean</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Jean Françaix</field>
+<field name="librettistSort">Françaix, Jean</field>
+<field name="librettist">Pierre Kast</field>
+<field name="librettistSort">Kast, Pierre</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paris+а+nous+deux,+ou+Le+nouveau+Rastignac+Jean+Françaix&amp;search_field=search</field>
+</doc>
+</add>

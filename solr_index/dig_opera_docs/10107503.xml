@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107503</field>
+<field name="genre">Operas</field>
+<field name="title">Thin Rain</field>
+<field name="titleSort">Thin Rain</field>
+<field name="composer">John DeMerchant</field>
+<field name="composerSort">DeMerchant, John</field>
+<field name="year">1976</field>
+<field name="date">1976</field><field name="theater">Central Washington State College</field>
+<field name="city">Ellensberg</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thin+Rain+John+DeMerchant&amp;search_field=search</field>
+</doc>
+</add>

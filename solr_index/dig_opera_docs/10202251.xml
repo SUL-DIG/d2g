@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202251</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">John Reed</field>
+		<field name="titleSort">John Reed</field>
+		<field name="year">1970</field>
+		
+		
+		<field name="date">1970</field>
+		<field name="composer">Teimuraz Bakuradze</field>
+		<field name="composerSort">Bakuradze, Teimuraz</field>
+		<field name="librettist">Galaktion Tabidze</field>
+		<field name="librettistSort">Tabidze, Galaktion</field>
+		
+		
+		
+		
+		
+		<field name="subject">John Reed</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+Reed+Teimuraz+Bakuradze&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131966</field>
+<field name="genre">Operas</field>
+<field name="title">Mora</field>
+<field name="titleSort">Mora</field>
+<field name="composer">Luigi Vicini</field>
+<field name="composerSort">Vicini, Luigi</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Lecco</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mora+Luigi+Vicini&amp;search_field=search</field>
+</doc>
+</add>

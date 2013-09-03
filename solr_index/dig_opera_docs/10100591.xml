@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100591</field>
+<field name="genre">Operas</field>
+<field name="title">Ivan Savel'yich</field>
+<field name="titleSort">Ivan Savel'yich</field>
+<field name="composer">Aleksandr Aleksandrovich Alyab'yev</field>
+<field name="composerSort">Alyab'yev, Aleksandr Aleksandrovich</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Fedor Alekseyevich Konï</field>
+<field name="librettistSort">Konï, Fedor Alekseyevich</field>
+
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ivan+Savel'yich+Aleksandr+Aleksandrovich+Alyab'yev&amp;search_field=search</field>
+</doc>
+</add>

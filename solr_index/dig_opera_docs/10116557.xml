@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116557</field>
+<field name="genre">Operas</field>
+<field name="title">L'officier et le paysan</field>
+<field name="titleSort">officier et le paysan</field>
+<field name="composer">Charles Frédéric Kreubé</field>
+<field name="composerSort">Kreubé, Charles Frédéric</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Achille Dartois</field>
+<field name="librettistSort">Dartois, Achille</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'officier+et+le+paysan+Charles+Frédéric+Kreubé&amp;search_field=search</field>
+</doc>
+</add>

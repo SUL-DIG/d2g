@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102319</field>
+<field name="genre">Operas</field>
+<field name="title">Louise</field>
+<field name="titleSort">Louise</field>
+<field name="composer">Friedrich Ludwig Benda</field>
+<field name="composerSort">Benda, Friedrich Ludwig</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Friedrich Ernst Jester</field>
+<field name="librettistSort">Jester, Friedrich Ernst</field>
+<field name="theater">Ackermanns Schauspielhaus</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Louise+Friedrich+Ludwig+Benda&amp;search_field=search</field>
+</doc>
+</add>

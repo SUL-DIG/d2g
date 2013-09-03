@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129210</field>
+<field name="genre">Operas</field>
+<field name="title">Fiery Tales</field>
+<field name="titleSort">Fiery Tales</field>
+<field name="composer">Larry Sitsky</field>
+<field name="composerSort">Sitsky, Larry</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Gwen Harwood</field>
+<field name="librettistSort">Harwood, Gwen</field>
+<field name="theater">Scott Theatre</field>
+<field name="city">Adelaide</field>
+<field name="region">South Australia</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiery+Tales+Larry+Sitsky&amp;search_field=search</field>
+</doc>
+</add>

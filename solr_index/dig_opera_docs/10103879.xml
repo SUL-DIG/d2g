@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103879</field>
+<field name="genre">Operas</field>
+<field name="title">Une soirée au Quartier latin</field>
+<field name="titleSort">soirée au Quartier latin</field>
+<field name="composer">Louis-François Bourgoin</field>
+<field name="composerSort">Bourgoin, Louis-François</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Gabriel Bouvet</field>
+<field name="librettistSort">Bouvet, Gabriel</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+soirée+au+Quartier+latin+Louis-François+Bourgoin&amp;search_field=search</field>
+</doc>
+</add>

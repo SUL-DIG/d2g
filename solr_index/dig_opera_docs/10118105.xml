@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118105</field>
+<field name="genre">Operas</field>
+<field name="title">Die Haushaltung nach der Mode</field>
+<field name="titleSort">Haushaltung nach der Mode</field>
+<field name="composer">Johann Georg Lickl</field>
+<field name="composerSort">Lickl, Johann Georg</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Josef Anton Haselbeck</field>
+<field name="librettistSort">Haselbeck, Josef Anton</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Haushaltung+nach+der+Mode+Johann+Georg+Lickl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202499</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La liberazione di Gerusalemme</field>
+		<field name="titleSort">liberazione di Gerusalemme</field>
+		<field name="year">1823</field>
+		
+		
+		<field name="date">1823</field>
+		<field name="composer">Francesco Casuccini</field>
+		<field name="composerSort">Casuccini, Francesco</field>
+		<field name="librettist">Heinrich von Collin</field>
+		<field name="librettistSort">Collin, Heinrich von</field>
+		<field name="librettist">Matthäus von Collin</field>
+		<field name="librettistSort">Collin, Matthäus von</field>
+		
+		<field name="city">Siena</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+liberazione+di+Gerusalemme+Francesco+Casuccini&amp;search_field=search</field>
+	</doc></add>

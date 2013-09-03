@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111955</field>
+<field name="genre">Operas</field>
+<field name="title">Pep Rally</field>
+<field name="titleSort">Pep Rally</field>
+<field name="composer">Don Gillis</field>
+<field name="composerSort">Gillis, Don</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Don Gillis</field>
+<field name="librettistSort">Gillis, Don</field>
+<field name="theater">National Music Camp</field>
+<field name="city">Interlochen</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pep+Rally+Don+Gillis&amp;search_field=search</field>
+</doc>
+</add>

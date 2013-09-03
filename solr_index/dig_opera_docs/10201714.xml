@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201714</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuseppe riconosciuto</field>
+		<field name="titleSort">Giuseppe riconosciuto</field>
+		<field name="year">1746</field>
+		<field name="month">March</field>
+		<field name="day">24</field>
+		<field name="date">March 24, 1746</field>
+		<field name="composer">Paolo Scalabrini</field>
+		<field name="composerSort">Scalabrini, Paolo</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuseppe+riconosciuto+Paolo+Scalabrini&amp;search_field=search</field>
+	</doc></add>

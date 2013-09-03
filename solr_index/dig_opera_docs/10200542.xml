@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200542</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Carmen saeculare</field>
+		<field name="titleSort">Carmen saeculare</field>
+		<field name="year">1779</field>
+		<field name="month">February</field>
+		<field name="day">26</field>
+		<field name="date">February 26, 1779</field>
+		<field name="composer">François-André Danican Philidor</field>
+		<field name="composerSort">Philidor, François-André Danican</field>
+		<field name="librettist">[Quintus Horatius Flaccus] Horace</field>
+		<field name="librettistSort">Horace, [Quintus Horatius Flaccus]</field>
+		
+		<field name="theater">Freemason's Hall</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmen+saeculare+François-André+Danican+Philidor&amp;search_field=search</field>
+	</doc></add>

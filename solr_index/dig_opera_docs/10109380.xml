@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109380</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze di Pulcinella</field>
+<field name="titleSort">nozze di Pulcinella</field>
+<field name="composer">Alessandro Fasanaro</field>
+<field name="composerSort">Fasanaro, Alessandro</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Giovanni Paolella</field>
+<field name="librettistSort">Paolella, Giovanni</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+di+Pulcinella+Alessandro+Fasanaro&amp;search_field=search</field>
+</doc>
+</add>

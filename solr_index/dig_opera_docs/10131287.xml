@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131287</field>
+<field name="genre">Operas</field>
+<field name="title">La finta ammalata</field>
+<field name="titleSort">finta ammalata</field>
+<field name="composer">Vittorio Trento</field>
+<field name="composerSort">Trento, Vittorio</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Giuseppe Squilloni</field>
+<field name="librettistSort">Squilloni, Giuseppe</field>
+<field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+ammalata+Vittorio+Trento&amp;search_field=search</field>
+</doc>
+</add>

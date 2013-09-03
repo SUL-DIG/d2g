@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111406</field>
+<field name="genre">Operas</field>
+<field name="title">"Diamantino, der Ritter im Zauberlande</field>
+<field name="titleSort">"Diamantino, der Ritter im Zauberlande"</field>
+<field name="composer">Franz Xaver Gebel</field>
+<field name="composerSort">Gebel, Franz Xaver</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Joachim Perinet</field>
+<field name="librettistSort">Perinet, Joachim</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diamantino,+der+Ritter+im+Zauberlande+Franz+Xaver+Gebel&amp;search_field=search</field>
+</doc>
+</add>

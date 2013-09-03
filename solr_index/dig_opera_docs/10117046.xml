@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117046</field>
+<field name="genre">Operas</field>
+<field name="title">Le chevalier Maudit</field>
+<field name="titleSort">chevalier Maudit</field>
+<field name="composer">Paul La Gye</field>
+<field name="composerSort">Gye, Paul La</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Marcel Cellier</field>
+<field name="librettistSort">Cellier, Marcel</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chevalier+Maudit+Paul+La+Gye&amp;search_field=search</field>
+</doc>
+</add>

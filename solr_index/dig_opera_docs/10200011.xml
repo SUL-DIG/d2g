@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200011</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abbadona</field>
+		<field name="titleSort">Abbadona</field>
+		<field name="year">1838</field>
+		<field name="month">June</field>
+		<field name="day">28</field>
+		<field name="date">June 28, 1838</field>
+		<field name="composer">August Mühling</field>
+		<field name="composerSort">Mühling, August</field>
+		
+		
+		
+		<field name="city">Magdeburg</field>
+		<field name="region">Sachsen-Anhalt</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abbadona+August+Mühling&amp;search_field=search</field>
+	</doc></add>

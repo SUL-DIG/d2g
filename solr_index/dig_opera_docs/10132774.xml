@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132774</field>
+<field name="genre">Operas</field>
+<field name="title">Die pfiffige Magd</field>
+<field name="titleSort">pfiffige Magd</field>
+<field name="composer">Julius Weismann</field>
+<field name="composerSort">Weismann, Julius</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Ludvig Holberg</field>
+<field name="librettistSort">Holberg, Ludvig</field>
+<field name="theater">Neues Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+pfiffige+Magd+Julius+Weismann&amp;search_field=search</field>
+</doc>
+</add>

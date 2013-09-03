@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106670</field>
+<field name="genre">Operas</field>
+<field name="title">La más heroica amistad y el amor más verdadero</field>
+<field name="titleSort">más heroica amistad y el amor más verdadero</field>
+<field name="composer">Francesco Corradini</field>
+<field name="composerSort">Corradini, Francesco</field>
+<field name="year">1745</field>
+<field name="date">1745</field>
+<field name="librettist">Manuel Vicente Guerrero</field>
+<field name="librettistSort">Guerrero, Manuel Vicente</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro del Principe</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+más+heroica+amistad+y+el+amor+más+verdadero+Francesco+Corradini&amp;search_field=search</field>
+</doc>
+</add>

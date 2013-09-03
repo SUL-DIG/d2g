@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105018</field>
+<field name="genre">Operas</field>
+<field name="title">"Nancy, or The Parting Lovers</field>
+<field name="titleSort">"Nancy, or The Parting Lovers"</field>
+<field name="composer">Henry Carey</field>
+<field name="composerSort">Carey, Henry</field>
+<field name="year">1739</field>
+<field name="date">1739</field>
+<field name="librettist">Henry Carey</field>
+<field name="librettistSort">Carey, Henry</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nancy,+or+The+Parting+Lovers+Henry+Carey&amp;search_field=search</field>
+</doc>
+</add>

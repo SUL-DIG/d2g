@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108546</field>
+<field name="genre">Operas</field>
+<field name="title">Remous</field>
+<field name="titleSort">Remous</field>
+<field name="composer">Jef van Durme</field>
+<field name="composerSort">Durme, Jef van</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Joseph Weterings</field>
+<field name="librettistSort">Weterings, Joseph</field>
+<field name="theater">Palais des Beaux-Arts</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Remous+Jef+van+Durme&amp;search_field=search</field>
+</doc>
+</add>

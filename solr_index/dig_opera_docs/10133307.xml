@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133307</field>
+<field name="genre">Operas</field>
+<field name="title">Krasuljica (Gänseblümchen)</field>
+<field name="titleSort">Krasuljica (Gänseblümchen)</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Antonije Kassowitz-Cvijic</field>
+<field name="librettistSort">Kassowitz-Cvijic, Antonije</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krasuljica+Gänseblümchen+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119854</field>
+<field name="genre">Operas</field>
+<field name="title">L'amant jaloux</field>
+<field name="titleSort">amant jaloux</field>
+<field name="composer">Ludwig Maurer</field>
+<field name="composerSort">Maurer, Ludwig</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+jaloux+Ludwig+Maurer&amp;search_field=search</field>
+</doc>
+</add>

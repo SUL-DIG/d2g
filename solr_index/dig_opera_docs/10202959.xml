@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202959</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il nazareno</field>
+		<field name="titleSort">nazareno</field>
+		<field name="year">1950</field>
+		<field name="month">June</field>
+		<field name="day">14</field>
+		<field name="date">June 14, 1950</field>
+		<field name="composer">Lorenzo Perosi</field>
+		<field name="composerSort">Perosi, Lorenzo</field>
+		<field name="librettist">Teodoro Onofri</field>
+		<field name="librettistSort">Onofri, Teodoro</field>
+		<field name="librettist">Lorenzo Perosi</field>
+		<field name="librettistSort">Perosi, Lorenzo</field>
+		<field name="theater">Teatro alla Scala</field>
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nazareno+Lorenzo+Perosi&amp;search_field=search</field>
+	</doc></add>

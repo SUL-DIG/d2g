@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201783</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Grossinquisitor</field>
+		<field name="titleSort">Grossinquisitor</field>
+		<field name="year">1989</field>
+		
+		
+		<field name="date">1989</field>
+		<field name="composer">Gerhard Schedl</field>
+		<field name="composerSort">Schedl, Gerhard</field>
+		<field name="librettist">Attila Böcs</field>
+		<field name="librettistSort">Böcs, Attila</field>
+		<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+		<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Grand Inquisitor</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Grossinquisitor+Gerhard+Schedl&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106918</field>
+<field name="genre">Operas</field>
+<field name="title">Il sarto ed i tabarri</field>
+<field name="titleSort">sarto ed i tabarri</field>
+<field name="composer">Giuseppe Curci</field>
+<field name="composerSort">Curci, Giuseppe</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Antoine-François Varner</field>
+<field name="librettistSort">Varner, Antoine-François</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sarto+ed+i+tabarri+Giuseppe+Curci&amp;search_field=search</field>
+</doc>
+</add>

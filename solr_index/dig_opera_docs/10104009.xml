@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104009</field>
+<field name="genre">Operas</field>
+<field name="title">Tiktak</field>
+<field name="titleSort">Tiktak</field>
+<field name="composer">Johann Brandl (2)</field>
+<field name="composerSort">Brandl (2), Johann</field>
+<field name="year">1865</field>
+<field name="date">1865</field><field name="theater">Stadttheater</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tiktak+Johann+Brandl+-2&amp;search_field=search</field>
+</doc>
+</add>

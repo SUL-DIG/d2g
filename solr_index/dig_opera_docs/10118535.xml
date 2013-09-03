@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118535</field>
+<field name="genre">Operas</field>
+<field name="title">Moby Dick</field>
+<field name="titleSort">Moby Dick</field>
+<field name="composer">James Low</field>
+<field name="composerSort">Low, James</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Brainerd Duffield</field>
+<field name="librettistSort">Duffield, Brainerd</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistSort">Melville, Herman</field>
+<field name="theater">Bowman Arts Foundation</field>
+<field name="city">Idyllwild</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moby+Dick+James+Low&amp;search_field=search</field>
+</doc>
+</add>

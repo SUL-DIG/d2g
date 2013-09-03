@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120049</field>
+<field name="genre">Operas</field>
+<field name="title">Hamadryads</field>
+<field name="titleSort">Hamadryads</field>
+<field name="composer">William Johnston McCoy</field>
+<field name="composerSort">McCoy, William Johnston</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Will Irwin</field>
+<field name="librettistSort">Irwin, Will</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamadryads+William+Johnston+McCoy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122019</field>
+<field name="genre">Operas</field>
+<field name="title">Jouvencelles а marier</field>
+<field name="titleSort">Jouvencelles а marier</field>
+<field name="composer">Henri Neuzillet</field>
+<field name="composerSort">Neuzillet, Henri</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Jean Duroc</field>
+<field name="librettistSort">Duroc, Jean</field>
+<field name="theater">Concert de la Pépinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jouvencelles+а+marier+Henri+Neuzillet&amp;search_field=search</field>
+</doc>
+</add>

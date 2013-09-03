@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131491</field>
+<field name="genre">Operas</field>
+<field name="title">König Ottos Brautfahrt</field>
+<field name="titleSort">König Ottos Brautfahrt</field>
+<field name="composer">Adalbert Ueberlée</field>
+<field name="composerSort">Ueberlée, Adalbert</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">[Sandor Friedrich Rosenfeld] Roderich Fels</field>
+<field name="librettistSort">Fels, Roderich [Sandor Friedrich Rosenfeld]</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Ottos+Brautfahrt+Adalbert+Ueberlée&amp;search_field=search</field>
+</doc>
+</add>

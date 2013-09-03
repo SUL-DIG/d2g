@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103129</field>
+<field name="genre">Operas</field>
+<field name="title">Das Geheimnis des entwendeten Briefes</field>
+<field name="titleSort">Geheimnis des entwendeten Briefes</field>
+<field name="composer">Boris Blacher</field>
+<field name="composerSort">Blacher, Boris</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Herbert Brauer</field>
+<field name="librettistSort">Brauer, Herbert</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">Hochschule für Musik</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Geheimnis+des+entwendeten+Briefes+Boris+Blacher&amp;search_field=search</field>
+</doc>
+</add>

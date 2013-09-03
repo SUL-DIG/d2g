@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114514</field>
+<field name="genre">Operas</field>
+<field name="title">Come and Go - Va et vien - Kommen und Gehen</field>
+<field name="titleSort">Come and Go - Va et vien - Kommen und Gehen</field>
+<field name="composer">Heinz Holliger</field>
+<field name="composerSort">Holliger, Heinz</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistSort">Beckett, Samuel</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Come+and+Go+-+Va+et+vien+-+Kommen+und+Gehen+Heinz+Holliger&amp;search_field=search</field>
+</doc>
+</add>

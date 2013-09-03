@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101371</field>
+<field name="genre">Operas</field>
+<field name="title">"Gustave III, ou Le bal masqué</field>
+<field name="titleSort">"Gustave III, ou Le bal masqué"</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gustave+III,+ou+Le+bal+masqué+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128649</field>
+<field name="genre">Operas</field>
+<field name="title">Michail's Tagebuch</field>
+<field name="titleSort">Michail's Tagebuch</field>
+<field name="composer">Eduard Schweiger</field>
+<field name="composerSort">Schweiger, Eduard</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Julius Donat</field>
+<field name="librettistSort">Donat, Julius</field>
+
+<field name="city">Baden bei Wien</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Michail's+Tagebuch+Eduard+Schweiger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132679</field>
+<field name="genre">Operas</field>
+<field name="title">Love Life</field>
+<field name="titleSort">Love Life</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Alan Jay Lerner</field>
+<field name="librettistSort">Lerner, Alan Jay</field>
+<field name="theater">46th Street Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+Life+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

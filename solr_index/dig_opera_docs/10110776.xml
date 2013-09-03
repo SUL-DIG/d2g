@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110776</field>
+<field name="genre">Operas</field>
+<field name="title">Ballo di Donne Turche Insieme</field>
+<field name="titleSort">Ballo di Donne Turche Insieme</field>
+<field name="composer">Marco da Gagliano</field>
+<field name="composerSort">Gagliano, Marco da</field>
+<field name="year">1615</field>
+<field name="date">1615</field>
+<field name="librettist">Alessandro Ginori</field>
+<field name="librettistSort">Ginori, Alessandro</field>
+<field name="theater">Palazzo Pitti</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ballo+di+Donne+Turche+Insieme+Marco+da+Gagliano&amp;search_field=search</field>
+</doc>
+</add>

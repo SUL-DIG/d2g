@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110852</field>
+<field name="genre">Operas</field>
+<field name="title">I due caporali</field>
+<field name="titleSort">due caporali</field>
+<field name="composer">Andrea Galli</field>
+<field name="composerSort">Galli, Andrea</field>
+<field name="year">1837</field>
+<field name="date">1837</field><field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+caporali+Andrea+Galli&amp;search_field=search</field>
+</doc>
+</add>

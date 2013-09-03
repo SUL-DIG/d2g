@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132994</field>
+<field name="genre">Operas</field>
+<field name="title">Twelfth Night</field>
+<field name="titleSort">Twelfth Night</field>
+<field name="composer">James Wilson</field>
+<field name="composerSort">Wilson, James</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Herbert Moulton</field>
+<field name="librettistSort">Moulton, Herbert</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Wexford</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Twelfth+Night+James+Wilson&amp;search_field=search</field>
+</doc>
+</add>

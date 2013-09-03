@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129493</field>
+<field name="genre">Operas</field>
+<field name="title">The Fool</field>
+<field name="titleSort">Fool</field>
+<field name="composer">Harry Somers</field>
+<field name="composerSort">Somers, Harry</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Michael Fram</field>
+<field name="librettistSort">Fram, Michael</field>
+<field name="theater">Eaton Auditorium</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fool+Harry+Somers&amp;search_field=search</field>
+</doc>
+</add>

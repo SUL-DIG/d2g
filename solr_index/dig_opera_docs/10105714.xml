@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105714</field>
+<field name="genre">Operas</field>
+<field name="title">Eliza</field>
+<field name="titleSort">Eliza</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Jacques-Antoine de Révéroni de Saint-Cyr</field>
+<field name="librettistSort">Révéroni de Saint-Cyr, Jacques-Antoine de</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eliza+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

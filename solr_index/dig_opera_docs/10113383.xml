@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113383</field>
+<field name="genre">Operas</field>
+<field name="title">La fée aux roses</field>
+<field name="titleSort">fée aux roses</field>
+<field name="composer">Fromental Halévy</field>
+<field name="composerSort">Halévy, Fromental</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fée+aux+roses+Fromental+Halévy&amp;search_field=search</field>
+</doc>
+</add>

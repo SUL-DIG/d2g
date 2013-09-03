@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120238</field>
+<field name="genre">Operas</field>
+<field name="title">Qui compte sans son hôte</field>
+<field name="titleSort">Qui compte sans son hôte</field>
+<field name="composer">Léon Méneau</field>
+<field name="composerSort">Méneau, Léon</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Gustave Maréchal</field>
+<field name="librettistSort">Maréchal, Gustave</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">La Rochelle</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Qui+compte+sans+son+hôte+Léon+Méneau&amp;search_field=search</field>
+</doc>
+</add>

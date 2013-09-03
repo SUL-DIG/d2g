@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131237</field>
+<field name="genre">Operas</field>
+<field name="title">Dragoste si jertfa (Love and Sacrifice)</field>
+<field name="titleSort">Dragoste si jertfa (Love and Sacrifice)</field>
+<field name="composer">Cornel Trailesco</field>
+<field name="composerSort">Trailesco, Cornel</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Dan Tarchila</field>
+<field name="librettistSort">Tarchila, Dan</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dragoste+si+jertfa+Love+and+Sacrifice+Cornel+Trailesco&amp;search_field=search</field>
+</doc>
+</add>

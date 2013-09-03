@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115205</field>
+<field name="genre">Operas</field>
+<field name="title">Le barbier de Catalogne</field>
+<field name="titleSort">barbier de Catalogne</field>
+<field name="composer">__ Jaume</field>
+<field name="composerSort">Jaume, __</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">[Alexandre-Louis-Bertrand Robineau] Beaunoir</field>
+<field name="librettistSort">Beaunoir, [Alexandre-Louis-Bertrand Robineau]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+barbier+de+Catalogne+__+Jaume&amp;search_field=search</field>
+</doc>
+</add>

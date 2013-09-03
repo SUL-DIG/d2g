@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106461</field>
+<field name="genre">Operas</field>
+<field name="title">Dans la tourmente</field>
+<field name="titleSort">Dans la tourmente</field>
+<field name="composer">Henri Contesse</field>
+<field name="composerSort">Contesse, Henri</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">[Paul Ribon] Serge Basset</field>
+<field name="librettistSort">Basset, Serge [Paul Ribon]</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Nоmes</field>
+<field name="region">Gard</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dans+la+tourmente+Henri+Contesse&amp;search_field=search</field>
+</doc>
+</add>

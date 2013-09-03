@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119108</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti alla prova</field>
+<field name="titleSort">amanti alla prova</field>
+<field name="composer">Placido Mandanici</field>
+<field name="composerSort">Mandanici, Placido</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Giovanni Schmidt</field>
+<field name="librettistSort">Schmidt, Giovanni</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+alla+prova+Placido+Mandanici&amp;search_field=search</field>
+</doc>
+</add>

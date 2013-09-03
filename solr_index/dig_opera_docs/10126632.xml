@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126632</field>
+<field name="genre">Operas</field>
+<field name="title">Un mariage sans-culotte</field>
+<field name="titleSort">mariage sans-culotte</field>
+<field name="composer">Georges Rose</field>
+<field name="composerSort">Rose, Georges</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Pierre-Armand Blanchard de La Bretesche</field>
+<field name="librettistSort">La Bretesche, Pierre-Armand Blanchard de</field>
+
+<field name="city">Marligny-les-Bains</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+mariage+sans-culotte+Georges+Rose&amp;search_field=search</field>
+</doc>
+</add>

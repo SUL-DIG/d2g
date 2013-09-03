@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125630</field>
+<field name="genre">Operas</field>
+<field name="title">Al'tsesta (Alceste)</field>
+<field name="titleSort">Al'tsesta (Alceste)</field>
+<field name="composer">Hermann Friedrich Raupach</field>
+<field name="composerSort">Raupach, Hermann Friedrich</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Aleksandr Petrovich Sumarokov</field>
+<field name="librettistSort">Sumarokov, Aleksandr Petrovich</field>
+<field name="theater">Peterhof</field>
+<field name="city">Petrodvorets</field>
+<field name="region">Leningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Al'tsesta+Alceste+Hermann+Friedrich+Raupach&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200154</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">An American Oratorio</field>
+		<field name="titleSort">American Oratorio</field>
+		<field name="year">1985</field>
+		<field name="month">January</field>
+		<field name="day">6</field>
+		<field name="date">January 6, 1985</field>
+		<field name="composer">Ned Rorem</field>
+		<field name="composerSort">Rorem, Ned</field>
+		
+		
+		<field name="theater">Heinz Hall</field>
+		<field name="city">Pittsburgh</field>
+		<field name="region">Pennsylvania</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+American+Oratorio+Ned+Rorem&amp;search_field=search</field>
+	</doc></add>

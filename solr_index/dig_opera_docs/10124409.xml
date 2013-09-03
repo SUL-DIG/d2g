@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124409</field>
+<field name="genre">Operas</field>
+<field name="title">Matilde d'Ostan</field>
+<field name="titleSort">Matilde d'Ostan</field>
+<field name="composer">Achille Pistilli</field>
+<field name="composerSort">Pistilli, Achille</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Domenico Bolognese</field>
+<field name="librettistSort">Bolognese, Domenico</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matilde+d'Ostan+Achille+Pistilli&amp;search_field=search</field>
+</doc>
+</add>

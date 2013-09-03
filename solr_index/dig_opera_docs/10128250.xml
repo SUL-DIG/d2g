@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128250</field>
+<field name="genre">Operas</field>
+<field name="title">Il fanatico per la musica</field>
+<field name="titleSort">fanatico per la musica</field>
+<field name="composer">Francesco Schira</field>
+<field name="composerSort">Schira, Francesco</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fanatico+per+la+musica+Francesco+Schira&amp;search_field=search</field>
+</doc>
+</add>

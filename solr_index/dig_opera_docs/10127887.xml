@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127887</field>
+<field name="genre">Operas</field>
+<field name="title">Zenobia</field>
+<field name="titleSort">Zenobia</field>
+<field name="composer">Guglielmo Sbacci</field>
+<field name="composerSort">Sbacci, Guglielmo</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zenobia+Guglielmo+Sbacci&amp;search_field=search</field>
+</doc>
+</add>

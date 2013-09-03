@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104034</field>
+<field name="genre">Operas</field>
+<field name="title">Punguta cu doi bani (The Bag with Two Coins)</field>
+<field name="titleSort">Punguta cu doi bani (The Bag with Two Coins)</field>
+<field name="composer">Teodor Bratu</field>
+<field name="composerSort">Bratu, Teodor</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Teodor Bratu</field>
+<field name="librettistSort">Bratu, Teodor</field>
+<field name="librettist">Ion Creanga</field>
+<field name="librettistSort">Creanga, Ion</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Iasi</field>
+<field name="region">Iasi</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Punguta+cu+doi+bani+The+Bag+with+Two+Coins+Teodor+Bratu&amp;search_field=search</field>
+</doc>
+</add>

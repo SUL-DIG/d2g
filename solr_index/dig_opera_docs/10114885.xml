@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114885</field>
+<field name="genre">Operas</field>
+<field name="title">Døde sardiner (Dead Sardines)</field>
+<field name="titleSort">Døde sardiner (Dead Sardines)</field>
+<field name="composer">Ketil Hvoslef</field>
+<field name="composerSort">Hvoslef, Ketil</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Gunnar Staalesen</field>
+<field name="librettistSort">Staalesen, Gunnar</field>
+<field name="theater">Festspillen</field>
+<field name="city">Bergen</field>
+<field name="region">Hordaland</field>
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Døde+sardiner+Dead+Sardines+Ketil+Hvoslef&amp;search_field=search</field>
+</doc>
+</add>

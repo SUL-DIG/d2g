@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107616</field>
+<field name="genre">Operas</field>
+<field name="title">La leçon de musique</field>
+<field name="titleSort">leçon de musique</field>
+<field name="composer">Louis Desormes</field>
+<field name="composerSort">Desormes, Louis</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Jules Perrin</field>
+<field name="librettistSort">Perrin, Jules</field>
+<field name="librettist">Horace Lany</field>
+<field name="librettistSort">Lany, Horace</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+leçon+de+musique+Louis+Desormes&amp;search_field=search</field>
+</doc>
+</add>

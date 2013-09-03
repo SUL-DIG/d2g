@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118921</field>
+<field name="genre">Operas</field>
+<field name="title">La croix de Marie</field>
+<field name="titleSort">croix de Marie</field>
+<field name="composer">Louis-Aimé Maillart</field>
+<field name="composerSort">Maillart, Louis-Aimé</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">[Joseph-Philippe Simon] Lockroy</field>
+<field name="librettistSort">Lockroy, [Joseph-Philippe Simon]</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+croix+de+Marie+Louis-Aimé+Maillart&amp;search_field=search</field>
+</doc>
+</add>

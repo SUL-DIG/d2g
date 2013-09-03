@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204687</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Maria Vergine assunta in cielo</field>
+		<field name="titleSort">trionfo di Maria Vergine assunta in cielo</field>
+		<field name="year">1783</field>
+		<field name="month">August</field>
+		<field name="day">15</field>
+		<field name="date">August 15, 1783</field>
+		<field name="composer">Gaetano Manna</field>
+		<field name="composerSort">Manna, Gaetano</field>
+		<field name="librettist">Alessandro Crisolini Malatesta</field>
+		<field name="librettistSort">Crisolini Malatesta, Alessa</field>
+		
+		<field name="theater">Cappella di signor Massenzio Perrotti</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Assumption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Maria+Vergine+assunta+in+cielo+Gaetano+Manna&amp;search_field=search</field>
+	</doc></add>

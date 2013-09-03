@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109043</field>
+<field name="genre">Operas</field>
+<field name="title">Barbier und Schornsteinfeger</field>
+<field name="titleSort">Barbier und Schornsteinfeger</field>
+<field name="composer">Joseph Ernst LudwigEssiger</field>
+<field name="composerSort">Essiger, Joseph Ernst Ludwig</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="city">Lübben</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barbier+und+Schornsteinfeger+Joseph+Ernst+LudwigEssiger&amp;search_field=search</field>
+</doc>
+</add>

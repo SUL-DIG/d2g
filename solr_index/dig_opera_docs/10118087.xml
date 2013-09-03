@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118087</field>
+<field name="genre">Operas</field>
+<field name="title">Bathmendi</field>
+<field name="titleSort">Bathmendi</field>
+<field name="composer">Karl August von Lichtenstein</field>
+<field name="composerSort">Lichtenstein, Karl August von</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Ernst Wolfgang Behrisch</field>
+<field name="librettistSort">Behrisch, Ernst Wolfgang</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bathmendi+Karl+August+von+Lichtenstein&amp;search_field=search</field>
+</doc>
+</add>

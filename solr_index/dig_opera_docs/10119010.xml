@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119010</field>
+<field name="genre">Operas</field>
+<field name="title">Giulio Cesare</field>
+<field name="titleSort">Giulio Cesare</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulio+Cesare+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

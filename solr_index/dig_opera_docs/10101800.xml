@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101800</field>
+<field name="genre">Operas</field>
+<field name="title">La baronne de Haut-Castel</field>
+<field name="titleSort">baronne de Haut-Castel</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">[Paul-Aimé Chapelle] Laurencin</field>
+<field name="librettistSort">Laurencin, [Paul-Aimé Chapelle]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+baronne+de+Haut-Castel+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

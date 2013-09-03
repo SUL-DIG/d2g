@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200546</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Carmina sacra canenda in nosocomio pauperum derelictorum</field>
+		<field name="titleSort">Carmina sacra canenda in nosocomio pauperum derelictorum</field>
+		<field name="year">1773</field>
+		
+		
+		<field name="date">1773</field>
+		<field name="composer">Pasquale Anfossi</field>
+		<field name="composerSort">Anfossi, Pasquale</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmina+sacra+canenda+in+nosocomio+pauperum+derelictorum+Pasquale+Anfossi&amp;search_field=search</field>
+	</doc></add>

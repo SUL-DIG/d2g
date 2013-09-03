@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203212</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Passion of Christ</field>
+		<field name="titleSort">Passion of Christ</field>
+		<field name="year">1903</field>
+		<field name="month">July</field>
+		
+		<field name="date">July 1903</field>
+		<field name="composer">Humphrey John Stewart</field>
+		<field name="composerSort">Stewart, Humphrey John</field>
+		<field name="librettist">Clay Meredith Greene</field>
+		<field name="librettistSort">Greene, Clay Meredith</field>
+		
+		
+		<field name="city">San Francisco</field>
+		<field name="region">California</field>
+		<field name="country">United States</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+of+Christ+Humphrey+John+Stewart&amp;search_field=search</field>
+	</doc></add>

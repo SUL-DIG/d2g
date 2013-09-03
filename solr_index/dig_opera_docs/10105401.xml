@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105401</field>
+<field name="genre">Operas</field>
+<field name="title">Tri brata gorbunï (The Hunchbacked Brothers)</field>
+<field name="titleSort">Tri brata gorbunï (The Hunchbacked Brothers)</field>
+<field name="composer">Catterino Al'bertovich Cavos</field>
+<field name="composerSort">Cavos, Catterino Al'bertovich</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Aristarkh Vladimirovich Luknitsky</field>
+<field name="librettistSort">Luknitsky, Aristarkh Vladimirovich</field>
+<field name="theater">Bol'shoy Kamennïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tri+brata+gorbunï+The+Hunchbacked+Brothers+Catterino+Al'bertovich+Cavos&amp;search_field=search</field>
+</doc>
+</add>

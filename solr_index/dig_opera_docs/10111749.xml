@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111749</field>
+<field name="genre">Operas</field>
+<field name="title">Beauty and the Beast</field>
+<field name="titleSort">Beauty and the Beast</field>
+<field name="composer">Vittorio Giannini</field>
+<field name="composerSort">Giannini, Vittorio</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Robert Alfred Simon</field>
+<field name="librettistSort">Simon, Robert Alfred</field>
+<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
+<field name="librettistSort">Leprince de Beaumont, Jeanne Marie</field>
+<field name="theater">CBS Radio (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+Vittorio+Giannini&amp;search_field=search</field>
+</doc>
+</add>

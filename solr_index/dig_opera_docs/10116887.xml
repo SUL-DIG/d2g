@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116887</field>
+<field name="genre">Operas</field>
+<field name="title">Lisova pisnya (Forest Song)</field>
+<field name="titleSort">Lisova pisnya (Forest Song)</field>
+<field name="composer">Vitaly Kyreyko</field>
+<field name="composerSort">Kyreyko, Vitaly</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Vitaly Kyreyko</field>
+<field name="librettistSort">Kyreyko, Vitaly</field>
+<field name="librettist">[Larysa Kosach-Kvitka] Lesya Ukrayinka</field>
+<field name="librettistSort">Ukrayinka, Lesya [Larysa Kosach-Kvitka]</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu imeni I. Franka</field>
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lisova+pisnya+Forest+Song+Vitaly+Kyreyko&amp;search_field=search</field>
+</doc>
+</add>

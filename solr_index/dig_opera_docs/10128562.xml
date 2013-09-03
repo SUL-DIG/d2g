@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128562</field>
+<field name="genre">Operas</field>
+<field name="title">Das verstöhrte Troja</field>
+<field name="titleSort">verstöhrte Troja</field>
+<field name="composer">Georg Caspar Schürmann</field>
+<field name="composerSort">Schürmann, Georg Caspar</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Johann Christoph Frauendorf</field>
+<field name="librettistSort">Frauendorf, Johann Christoph</field>
+<field name="theater">Schauplatz</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+verstöhrte+Troja+Georg+Caspar+Schürmann&amp;search_field=search</field>
+</doc>
+</add>

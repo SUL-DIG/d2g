@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120669</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kosakenoffizier</field>
+<field name="titleSort">Kosakenoffizier</field>
+<field name="composer">Julius Miller</field>
+<field name="composerSort">Miller, Julius</field>
+<field name="year">1809</field>
+<field name="date">1809</field><field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kosakenoffizier+Julius+Miller&amp;search_field=search</field>
+</doc>
+</add>

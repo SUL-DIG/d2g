@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125552</field>
+<field name="genre">Operas</field>
+<field name="title">Alexander</field>
+<field name="titleSort">Alexander</field>
+<field name="composer">Konrad Ramrath</field>
+<field name="composerSort">Ramrath, Konrad</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Willy Seibert</field>
+<field name="librettistSort">Seibert, Willy</field>
+<field name="theater">Konservatorium</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+Konrad+Ramrath&amp;search_field=search</field>
+</doc>
+</add>

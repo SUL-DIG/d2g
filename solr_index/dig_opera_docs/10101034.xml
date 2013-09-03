@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101034</field>
+<field name="genre">Operas</field>
+<field name="title">Alfred</field>
+<field name="titleSort">Alfred</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">James Thomson</field>
+<field name="librettistSort">Thomson, James</field>
+<field name="librettist">David Mallet</field>
+<field name="librettistSort">Mallet, David</field>
+<field name="theater">Cliveden House</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfred+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

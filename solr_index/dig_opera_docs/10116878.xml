@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116878</field>
+<field name="genre">Operas</field>
+<field name="title">Pierrot eller nattens hemligheter</field>
+<field name="titleSort">Pierrot eller nattens hemligheter</field>
+<field name="composer">Ilkka Kuusisto</field>
+<field name="composerSort">Kuusisto, Ilkka</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Pentti Saaritsa</field>
+<field name="librettistSort">Saaritsa, Pentti</field>
+<field name="librettist">Liisa Urpelainen</field>
+<field name="librettistSort">Urpelainen, Liisa</field>
+<field name="theater">Kauniaisten Musiikkikoulu</field>
+<field name="city">Kauniainen</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pierrot+eller+nattens+hemligheter+Ilkka+Kuusisto&amp;search_field=search</field>
+</doc>
+</add>

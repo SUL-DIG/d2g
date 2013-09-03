@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119094</field>
+<field name="genre">Operas</field>
+<field name="title">Hydaspe fedele</field>
+<field name="titleSort">Hydaspe fedele</field>
+<field name="composer">Francesco Mancini</field>
+<field name="composerSort">Mancini, Francesco</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Giovanni Pietro Candi</field>
+<field name="librettistSort">Candi, Giovanni Pietro</field>
+<field name="theater">"Queen's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hydaspe+fedele+Francesco+Mancini&amp;search_field=search</field>
+</doc>
+</add>

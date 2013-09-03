@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108682</field>
+<field name="genre">Operas</field>
+<field name="title">Der lange Peter</field>
+<field name="titleSort">lange Peter</field>
+<field name="composer">Georg Ebner</field>
+<field name="composerSort">Ebner, Georg</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Friedrich Albert Meyer</field>
+<field name="librettistSort">Meyer, Friedrich Albert</field>
+<field name="theater">Landestheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lange+Peter+Georg+Ebner&amp;search_field=search</field>
+</doc>
+</add>

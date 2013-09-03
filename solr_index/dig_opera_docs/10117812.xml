@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117812</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux orphelines</field>
+<field name="titleSort">deux orphelines</field>
+<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
+<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="year">1798</field>
+<field name="date">1798</field><field name="theater">Théâtre Molière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+orphelines+Jean+Frédéric+Auguste+Lemière+de+Corvey&amp;search_field=search</field>
+</doc>
+</add>

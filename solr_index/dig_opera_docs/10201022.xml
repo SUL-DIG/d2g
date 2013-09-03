@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201022</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La divina trionfante nell'Immaculata Concezione di Nostra Signora</field>
+		<field name="titleSort">divina trionfante nell'Immaculata Concezione di Nostra Signora</field>
+		<field name="year">1730</field>
+		
+		
+		<field name="date">1730</field>
+		<field name="composer">Michele Fini</field>
+		<field name="composerSort">Fini, Michele</field>
+		
+		
+		<field name="theater">Oratorio Filippino della Madonna di Galliera</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Immaculate Conception</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+divina+trionfante+nell'Immaculata+Concezione+di+Nostra+Signora+Michele+Fini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124533</field>
+<field name="genre">Operas</field>
+<field name="title">I Plumketoff</field>
+<field name="titleSort">Plumketoff</field>
+<field name="composer">Vittorio Podesti</field>
+<field name="composerSort">Podesti, Vittorio</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Giovanni Domenico Bartocci-Fontana</field>
+<field name="librettistSort">Bartocci-Fontana, Giovanni Domenico</field>
+<field name="theater">Arena Garibaldi</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Plumketoff+Vittorio+Podesti&amp;search_field=search</field>
+</doc>
+</add>

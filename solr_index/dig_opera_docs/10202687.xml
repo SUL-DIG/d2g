@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202687</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Sant' Erasmo</field>
+		<field name="titleSort">martirio di Sant' Erasmo</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Giuseppe Maria Carretti</field>
+		<field name="composerSort">Carretti, Giuseppe Maria</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Erasmus</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">2</field>
+		<field name="feastDate">June 2</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Sant'+Erasmo+Giuseppe+Maria+Carretti&amp;search_field=search</field>
+	</doc></add>

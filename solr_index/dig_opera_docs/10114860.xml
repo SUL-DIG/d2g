@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114860</field>
+<field name="genre">Operas</field>
+<field name="title">Mária fohadnagy (Corporal Maria)</field>
+<field name="titleSort">Mária fohadnagy (Corporal Maria)</field>
+<field name="composer">Jenö Huszka</field>
+<field name="composerSort">Huszka, Jenö</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">László Szilágyi</field>
+<field name="librettistSort">Szilágyi, László</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mária+fohadnagy+Corporal+Maria+Jenö+Huszka&amp;search_field=search</field>
+</doc>
+</add>

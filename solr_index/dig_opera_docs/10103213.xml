@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103213</field>
+<field name="genre">Operas</field>
+<field name="title">La fête de Cythère</field>
+<field name="titleSort">fête de Cythère</field>
+<field name="composer">Michel Blavet</field>
+<field name="composerSort">Blavet, Michel</field>
+<field name="year">1753</field>
+<field name="date">1753</field>
+<field name="librettist">Antoine de Laurès</field>
+<field name="librettistSort">Laurès, Antoine de</field>
+<field name="theater">Château de Berny</field>
+<field name="city">Berny-sur-Noye</field>
+<field name="region">Somme</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+de+Cythère+Michel+Blavet&amp;search_field=search</field>
+</doc>
+</add>

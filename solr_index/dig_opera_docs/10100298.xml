@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100298</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amici</field>
+<field name="titleSort">amici</field>
+<field name="composer">Pirro Albergati</field>
+<field name="composerSort">Albergati, Pirro</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Pier Jacopo Martello</field>
+<field name="librettistSort">Martello, Pier Jacopo</field>
+<field name="theater">Teatro Malvezzi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amici+Pirro+Albergati&amp;search_field=search</field>
+</doc>
+</add>

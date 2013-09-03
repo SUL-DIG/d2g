@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201191</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ester</field>
+		<field name="titleSort">Ester</field>
+		<field name="year">1846</field>
+		<field name="month">February</field>
+		
+		<field name="date">February 1846</field>
+		<field name="composer">Luigi Gordigiani</field>
+		<field name="composerSort">Gordigiani, Luigi</field>
+		<field name="librettist">Geremia Barsottini</field>
+		<field name="librettistSort">Barsottini, Geremia</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+Luigi+Gordigiani&amp;search_field=search</field>
+	</doc></add>

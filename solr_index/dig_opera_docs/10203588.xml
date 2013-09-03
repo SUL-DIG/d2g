@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203588</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Repudio della regina Vasti</field>
+		<field name="titleSort">Repudio della regina Vasti</field>
+		<field name="year">1707</field>
+		
+		
+		<field name="date">1707</field>
+		<field name="composer">Lorenzo Conti</field>
+		<field name="composerSort">Conti, Lorenzo</field>
+		<field name="librettist">Pio Alessandro Ginori</field>
+		<field name="librettistSort">Ginori, Pio Alessandro</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Queen Vasthi</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Repudio+della+regina+Vasti+Lorenzo+Conti&amp;search_field=search</field>
+	</doc></add>

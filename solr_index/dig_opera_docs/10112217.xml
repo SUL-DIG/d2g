@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112217</field>
+<field name="genre">Operas</field>
+<field name="title">"Auretta e Masiello, ossia Il contratempo</field>
+<field name="titleSort">"Auretta e Masiello, ossia Il contratempo"</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Francesco Gnecco</field>
+<field name="librettistSort">Gnecco, Francesco</field>
+<field name="theater">Teatro Sant'Agostino</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auretta+e+Masiello,+ossia+Il+contratempo+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

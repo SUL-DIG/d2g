@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107696</field>
+<field name="genre">Operas</field>
+<field name="title">"Ferdinand, ou La suite des deux pages</field>
+<field name="titleSort">"Ferdinand, ou La suite des deux pages"</field>
+<field name="composer">Nicolas Dezède</field>
+<field name="composerSort">Dezède, Nicolas</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Nicolas Dezède</field>
+<field name="librettistSort">Dezède, Nicolas</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ferdinand,+ou+La+suite+des+deux+pages+Nicolas+Dezède&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120262</field>
+<field name="genre">Operas</field>
+<field name="title">"Selico, ou Les nègres</field>
+<field name="titleSort">"Selico, ou Les nègres"</field>
+<field name="composer">Bernardo Mengozzi</field>
+<field name="composerSort">Mengozzi, Bernardo</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Claude Godard d'Aucourt de Saint-Just</field>
+<field name="librettistSort">Saint-Just, Claude Godard d'Aucourt de</field>
+<field name="theater">Théâtre de la Nation</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Selico,+ou+Les+nègres+Bernardo+Mengozzi&amp;search_field=search</field>
+</doc>
+</add>

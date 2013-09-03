@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111412</field>
+<field name="genre">Operas</field>
+<field name="title">Serpillo und Melissa</field>
+<field name="titleSort">Serpillo und Melissa</field>
+<field name="composer">Georg Gebel</field>
+<field name="composerSort">Gebel, Georg</field>
+<field name="year">1750</field>
+<field name="date">1750</field><field name="theater">Grosses Opernhaus am Zwinger</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serpillo+und+Melissa+Georg+Gebel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111437</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schatten</field>
+<field name="titleSort">Schatten</field>
+<field name="composer">Fritz Geissler</field>
+<field name="composerSort">Geissler, Fritz</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Günther Lohse</field>
+<field name="librettistSort">Lohse, Günther</field>
+<field name="librettist">Yevgeny Schvarts</field>
+<field name="librettistSort">Schvarts, Yevgeny</field>
+<field name="theater">Opernhaus am Karl-Marx-Platz</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schatten+Fritz+Geissler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119003</field>
+<field name="genre">Operas</field>
+<field name="title">Donna Urraca</field>
+<field name="titleSort">Donna Urraca</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="librettist">Prosper Mérimée</field>
+<field name="librettistSort">Mérimée, Prosper</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Urraca+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111759</field>
+<field name="genre">Operas</field>
+<field name="title">La finta contadina</field>
+<field name="titleSort">finta contadina</field>
+<field name="composer">Cesare Giannoni</field>
+<field name="composerSort">Giannoni, Cesare</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Michele Angelo Prunetti</field>
+<field name="librettistSort">Prunetti, Michele Angelo</field>
+
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+contadina+Cesare+Giannoni&amp;search_field=search</field>
+</doc>
+</add>

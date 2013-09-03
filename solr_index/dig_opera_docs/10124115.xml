@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124115</field>
+<field name="genre">Operas</field>
+<field name="title">La petite lampe merveilleuse</field>
+<field name="titleSort">petite lampe merveilleuse</field>
+<field name="composer">Louis Alexandre Piccinni</field>
+<field name="composerSort">Piccinni, Louis Alexandre</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Théâtre du Gymnase</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+petite+lampe+merveilleuse+Louis+Alexandre+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

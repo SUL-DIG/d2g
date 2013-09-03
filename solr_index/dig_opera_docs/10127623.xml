@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127623</field>
+<field name="genre">Operas</field>
+<field name="title">Viver ou morrer</field>
+<field name="titleSort">Viver ou morrer</field>
+<field name="composer">Joly Braga Santos</field>
+<field name="composerSort">Santos, Joly Braga</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">João de Freitas Branco (2)</field>
+<field name="librettistSort">Branco (2), João de Freitas</field>
+<field name="librettist">Irwin Shaw</field>
+<field name="librettistSort">Shaw, Irwin</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viver+ou+morrer+Joly+Braga+Santos&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114980</field>
+<field name="genre">Operas</field>
+<field name="title">Kakekomi</field>
+<field name="titleSort">Kakekomi</field>
+<field name="composer">Mareo Ishiketa</field>
+<field name="composerSort">Ishiketa, Mareo</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Tatsuo Endo</field>
+<field name="librettistSort">Endo, Tatsuo</field>
+<field name="theater">Toshi Center Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kakekomi+Mareo+Ishiketa&amp;search_field=search</field>
+</doc>
+</add>

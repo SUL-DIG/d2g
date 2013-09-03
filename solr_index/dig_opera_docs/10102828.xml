@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102828</field>
+<field name="genre">Operas</field>
+<field name="title">Il re della reclame</field>
+<field name="titleSort">re della reclame</field>
+<field name="composer">Angelo Bettinelli</field>
+<field name="composerSort">Bettinelli, Angelo</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Politeama Nazionale</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+re+della+reclame+Angelo+Bettinelli&amp;search_field=search</field>
+</doc>
+</add>

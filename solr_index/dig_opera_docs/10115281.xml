@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115281</field>
+<field name="genre">Operas</field>
+<field name="title">Legenden om Svein og Maria</field>
+<field name="titleSort">Legenden om Svein og Maria</field>
+<field name="composer">Hallvard Johnsen</field>
+<field name="composerSort">Johnsen, Hallvard</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Alfred Hauge</field>
+<field name="librettistSort">Hauge, Alfred</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Legenden+om+Svein+og+Maria+Hallvard+Johnsen&amp;search_field=search</field>
+</doc>
+</add>

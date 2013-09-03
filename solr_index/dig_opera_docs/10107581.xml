@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107581</field>
+<field name="genre">Operas</field>
+<field name="title">"Zélia, ou Le mari а deux femmes</field>
+<field name="titleSort">"Zélia, ou Le mari а deux femmes"</field>
+<field name="composer">Prosper-Didier Deshayes</field>
+<field name="composerSort">Deshayes, Prosper-Didier</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Paul Ulric Dubuisson</field>
+<field name="librettistSort">Dubuisson, Paul Ulric</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Salle de la rue Louvois</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zélia,+ou+Le+mari+а+deux+femmes+Prosper-Didier+Deshayes&amp;search_field=search</field>
+</doc>
+</add>

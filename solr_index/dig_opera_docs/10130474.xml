@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130474</field>
+<field name="genre">Operas</field>
+<field name="title">Hagith</field>
+<field name="titleSort">Hagith</field>
+<field name="composer">Karol Szymanowski</field>
+<field name="composerSort">Szymanowski, Karol</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">[Felix Biedermann] Felix Dörmann</field>
+<field name="librettistSort">Dörmann, Felix [Felix Biedermann]</field>
+<field name="librettist">Stanislaw Baracz</field>
+<field name="librettistSort">Baracz, Stanislaw</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hagith+Karol+Szymanowski&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116885</field>
+<field name="genre">Operas</field>
+<field name="title">Falketеrnet</field>
+<field name="titleSort">Falketеrnet</field>
+<field name="composer">Gisle Kverndokk</field>
+<field name="composerSort">Kverndokk, Gisle</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Erik Fosnes Hansen</field>
+<field name="librettistSort">Hansen, Erik Fosnes</field>
+<field name="theater">Ibsenhuset</field>
+<field name="city">Skien</field>
+<field name="region">Telemark</field>
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Falketеrnet+Gisle+Kverndokk&amp;search_field=search</field>
+</doc>
+</add>

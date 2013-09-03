@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200197</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Antiochus der wütente Tyrann, und Vorbild des künftigen Antichrist</field>
+		<field name="titleSort">Antiochus der wütente Tyrann, und Vorbild des künftigen Antichrist</field>
+		<field name="year">1762</field>
+		<field name="month">April</field>
+		<field name="day">11</field>
+		<field name="date">April 11, 1762</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">The Revolt of the Maccabees</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antiochus+der+wütente+Tyrann,+und+Vorbild+des+künftigen+Antichrist+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

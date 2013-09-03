@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123005</field>
+<field name="genre">Operas</field>
+<field name="title">La finta amante</field>
+<field name="titleSort">finta amante</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Giambattista Casti</field>
+<field name="librettistSort">Casti, Giambattista</field>
+
+<field name="city">Mogil'ov</field>
+<field name="region">Mogil'ov Oblast</field>
+<field name="country">Belarus</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+amante+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

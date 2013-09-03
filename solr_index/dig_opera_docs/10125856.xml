@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125856</field>
+<field name="genre">Operas</field>
+<field name="title">Le campanule</field>
+<field name="titleSort">campanule</field>
+<field name="composer">Paolo Renosto</field>
+<field name="composerSort">Renosto, Paolo</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Bruno Cagli</field>
+<field name="librettistSort">Cagli, Bruno</field>
+<field name="theater">Festival del Teatro Musicale da Camera</field>
+<field name="city">Casale Monferrato</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+campanule+Paolo+Renosto&amp;search_field=search</field>
+</doc>
+</add>

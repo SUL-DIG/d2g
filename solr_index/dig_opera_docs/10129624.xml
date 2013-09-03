@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129624</field>
+<field name="genre">Operas</field>
+<field name="title">I guanti gialli</field>
+<field name="titleSort">guanti gialli</field>
+<field name="composer">Ettore Spinelli</field>
+<field name="composerSort">Spinelli, Ettore</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Conservatorio di San Pietro a Majella</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+guanti+gialli+Ettore+Spinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201760</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gott und die Natur</field>
+		<field name="titleSort">Gott und die Natur</field>
+		<field name="year">1811</field>
+		<field name="month">May</field>
+		<field name="day">8</field>
+		<field name="date">May 8, 1811</field>
+		<field name="composer">Giacomo Meyerbeer</field>
+		<field name="composerSort">Meyerbeer, Giacomo</field>
+		<field name="librettist">Aloys Schreiber</field>
+		<field name="librettistSort">Schreiber, Aloys</field>
+		
+		<field name="theater">Singakademie</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gott+und+die+Natur+Giacomo+Meyerbeer&amp;search_field=search</field>
+	</doc></add>

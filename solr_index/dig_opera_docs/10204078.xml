@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204078</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Teodora</field>
+		<field name="titleSort">Santa Teodora</field>
+		<field name="year">1688</field>
+		
+		
+		<field name="date">1688</field>
+		<field name="composer">Giuseppe Corso</field>
+		<field name="composerSort">Corso, Giuseppe</field>
+		
+		
+		
+		<field name="city">Parma</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saints Theodora and Didymus</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">April 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Teodora+Giuseppe+Corso&amp;search_field=search</field>
+	</doc></add>

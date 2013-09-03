@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106378</field>
+<field name="genre">Operas</field>
+<field name="title">Soarele Londrei (The Sun of London)</field>
+<field name="titleSort">Soarele Londrei (The Sun of London)</field>
+<field name="composer">Florin Comisel</field>
+<field name="composerSort">Comisel, Florin</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Nicusor Constantinescu</field>
+<field name="librettistSort">Constantinescu, Nicusor</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre</field>
+<field name="theater">Teatrul Opereta</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soarele+Londrei+The+Sun+of+London+Florin+Comisel&amp;search_field=search</field>
+</doc>
+</add>

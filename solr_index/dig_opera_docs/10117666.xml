@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117666</field>
+<field name="genre">Operas</field>
+<field name="title">Medea in Corinth</field>
+<field name="titleSort">Medea in Corinth</field>
+<field name="composer">Benjamin Lees</field>
+<field name="composerSort">Lees, Benjamin</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Robinson Jeffers</field>
+<field name="librettistSort">Jeffers, Robinson</field>
+<field name="theater">Grosvenor Ensemble</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+in+Corinth+Benjamin+Lees&amp;search_field=search</field>
+</doc>
+</add>

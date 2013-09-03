@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123398</field>
+<field name="genre">Operas</field>
+<field name="title">Dov'è amore è pietа</field>
+<field name="titleSort">Dov'è amore è pietа</field>
+<field name="composer">Bernardo Pasquini</field>
+<field name="composerSort">Pasquini, Bernardo</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="librettist">Giovanni Andrea Moniglia</field>
+<field name="librettistSort">Moniglia, Giovanni Andrea</field>
+<field name="librettist">Cristoforo Ivanovich</field>
+<field name="librettistSort">Ivanovich, Cristoforo</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dov'è+amore+è+pietа+Bernardo+Pasquini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204205</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Se più giovi la pietа alle lettere, o Le lettere alla pietа</field>
+		<field name="titleSort">Se più giovi la pietа alle lettere, o Le lettere alla pietа</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Francesco Zannetti</field>
+		<field name="composerSort">Zannetti, Francesco</field>
+		
+		
+		
+		<field name="city">Cittа di Castello</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Se+più+giovi+la+pietа+alle+lettere,+o+Le+lettere+alla+pietа+Francesco+Zannetti&amp;search_field=search</field>
+	</doc></add>

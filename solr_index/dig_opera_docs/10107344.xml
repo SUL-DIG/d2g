@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107344</field>
+<field name="genre">Operas</field>
+<field name="title">Quand on n'a pas de parapluie</field>
+<field name="titleSort">Quand on n'a pas de parapluie</field>
+<field name="composer">[Eugène-Joseph Déjazet] Edé</field>
+<field name="composerSort">Edé, [Eugène-Joseph Déjazet]</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">[Eugène-Joseph Déjazet] Edé</field>
+<field name="librettistSort">Edé, [Eugène-Joseph Déjazet]</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quand+on+n'a+pas+de+parapluie+Eugène-Joseph+Déjazet]+Edé&amp;search_field=search</field>
+</doc>
+</add>

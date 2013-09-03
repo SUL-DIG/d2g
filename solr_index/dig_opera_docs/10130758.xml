@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130758</field>
+<field name="genre">Operas</field>
+<field name="title">"Flavius Bertaridus, König der Langobrden</field>
+<field name="titleSort">"Flavius Bertaridus, König der Langobrden"</field>
+<field name="composer">Georg Philipp Telemann</field>
+<field name="composerSort">Telemann, Georg Philipp</field>
+<field name="year">1729</field>
+<field name="date">1729</field>
+<field name="librettist">Christian Gottlieb Wendt</field>
+<field name="librettistSort">Wendt, Christian Gottlieb</field>
+<field name="librettist">Georg Philipp Telemann</field>
+<field name="librettistSort">Telemann, Georg Philipp</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flavius+Bertaridus,+König+der+Langobrden+Georg+Philipp+Telemann&amp;search_field=search</field>
+</doc>
+</add>

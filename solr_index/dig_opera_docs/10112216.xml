@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112216</field>
+<field name="genre">Operas</field>
+<field name="title">Arsace e Semiramide</field>
+<field name="titleSort">Arsace e Semiramide</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsace+e+Semiramide+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

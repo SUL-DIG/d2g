@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107165</field>
+<field name="genre">Operas</field>
+<field name="title">Le huron</field>
+<field name="titleSort">huron</field>
+<field name="composer">Léopold Dauphin</field>
+<field name="composerSort">Dauphin, Léopold</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Paul Arène</field>
+<field name="librettistSort">Arène, Paul</field>
+<field name="librettist">Valéry Vernier</field>
+<field name="librettistSort">Vernier, Valéry</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+huron+Léopold+Dauphin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108843</field>
+<field name="genre">Operas</field>
+<field name="title">"Leszek Bialy, czyli Czarownica z Lysej Góry</field>
+<field name="titleSort">"Leszek Bialy, czyli Czarownica z Lysej Góry"</field>
+<field name="composer">Józef Elsner</field>
+<field name="composerSort">Elsner, Józef</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Ludwik Adam Dmuszewski</field>
+<field name="librettistSort">Dmuszewski, Ludwik Adam</field>
+<field name="librettist">Michal Dymitr Krajewski</field>
+<field name="librettistSort">Krajewski, Michal Dymitr</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leszek+Bialy,+czyli+Czarownica+z+Lysej+Góry+Józef+Elsner&amp;search_field=search</field>
+</doc>
+</add>

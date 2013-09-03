@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113822</field>
+<field name="genre">Operas</field>
+<field name="title">Der neue krumme Teufel</field>
+<field name="titleSort">neue krumme Teufel</field>
+<field name="composer">Joseph Haydn</field>
+<field name="composerSort">Haydn, Joseph</field>
+
+
+<field name="librettist">Joseph Felix von Kurz</field>
+<field name="librettistSort">Kurz, Joseph Felix von"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+neue+krumme+Teufel+Joseph+Haydn&amp;search_field=search</field>
+</doc>
+</add>

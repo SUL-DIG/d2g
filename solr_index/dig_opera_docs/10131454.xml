@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131454</field>
+<field name="genre">Operas</field>
+<field name="title">Der glückliche Tag</field>
+<field name="titleSort">glückliche Tag</field>
+<field name="composer">Heinrich Tuch</field>
+<field name="composerSort">Tuch, Heinrich</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Christian August Vulpius</field>
+<field name="librettistSort">Vulpius, Christian August</field>
+
+<field name="city">Zerbst</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+glückliche+Tag+Heinrich+Tuch&amp;search_field=search</field>
+</doc>
+</add>

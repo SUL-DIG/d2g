@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100593</field>
+<field name="genre">Operas</field>
+<field name="title">Molodaya mat' i zhenikh v 48 let</field>
+<field name="titleSort">Molodaya mat' i zhenikh v 48 let</field>
+<field name="composer">Aleksandr Aleksandrovich Alyab'yev</field>
+<field name="composerSort">Alyab'yev, Aleksandr Aleksandrovich</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Aleksandr Aleksandrovich Shakhovskoy</field>
+<field name="librettistSort">Shakhovskoy, Aleksandr Aleksandrovich</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Molodaya+mat'+i+zhenikh+v+48+let+Aleksandr+Aleksandrovich+Alyab'yev&amp;search_field=search</field>
+</doc>
+</add>

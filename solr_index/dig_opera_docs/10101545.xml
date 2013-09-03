@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101545</field>
+<field name="genre">Operas</field>
+<field name="title">Lucio Silla</field>
+<field name="titleSort">Lucio Silla</field>
+<field name="composer">Johann Christian Bach</field>
+<field name="composerSort">Bach, Johann Christian</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Mattia Verazi</field>
+<field name="librettistSort">Verazi, Mattia</field>
+<field name="librettist">Giovanni de Gamerra</field>
+<field name="librettistSort">Gamerra, Giovanni de</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Silla+Johann+Christian+Bach&amp;search_field=search</field>
+</doc>
+</add>

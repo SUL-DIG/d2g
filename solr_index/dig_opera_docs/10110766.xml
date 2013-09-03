@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110766</field>
+<field name="genre">Operas</field>
+<field name="title">Lilia</field>
+<field name="titleSort">Lilia</field>
+<field name="composer">Henri Gadenne</field>
+<field name="composerSort">Gadenne, Henri</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Joseph Pierson</field>
+<field name="librettistSort">Pierson, Joseph</field>
+<field name="librettist">François Delvoye</field>
+<field name="librettistSort">Delvoye, François</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Roubaix</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lilia+Henri+Gadenne&amp;search_field=search</field>
+</doc>
+</add>

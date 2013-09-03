@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113727</field>
+<field name="genre">Operas</field>
+<field name="title">Il sogno di Scipione</field>
+<field name="titleSort">sogno di Scipione</field>
+<field name="composer">Johann Adolf Hasse</field>
+<field name="composerSort">Hasse, Johann Adolf</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Operalnia</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+di+Scipione+Johann+Adolf+Hasse&amp;search_field=search</field>
+</doc>
+</add>

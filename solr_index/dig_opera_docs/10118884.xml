@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118884</field>
+<field name="genre">Operas</field>
+<field name="title">Il duellista fanatico</field>
+<field name="titleSort">duellista fanatico</field>
+<field name="composer">Giuseppe Maria Magherini</field>
+<field name="composerSort">Magherini, Giuseppe Maria</field>
+<field name="year">1758</field>
+<field name="date">1758</field><field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+duellista+fanatico+Giuseppe+Maria+Magherini&amp;search_field=search</field>
+</doc>
+</add>

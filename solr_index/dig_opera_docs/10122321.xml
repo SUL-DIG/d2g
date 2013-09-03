@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122321</field>
+<field name="genre">Operas</field>
+<field name="title">La Marana</field>
+<field name="titleSort">Marana</field>
+<field name="composer">Florenzio Odero</field>
+<field name="composerSort">Odero, Florenzio</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Maurice Vaucaire</field>
+<field name="librettistSort">Vaucaire, Maurice</field>
+<field name="librettist">Albert Erlande</field>
+<field name="librettistSort">Erlande, Albert</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Marana+Florenzio+Odero&amp;search_field=search</field>
+</doc>
+</add>

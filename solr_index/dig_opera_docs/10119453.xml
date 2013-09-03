@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119453</field>
+<field name="genre">Operas</field>
+<field name="title">La Jane</field>
+<field name="titleSort">Jane</field>
+<field name="composer">Armand Marsick</field>
+<field name="composerSort">Marsick, Armand</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Jane+Armand+Marsick&amp;search_field=search</field>
+</doc>
+</add>

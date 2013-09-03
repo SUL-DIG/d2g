@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201308</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fiamma della caritа</field>
+		<field name="titleSort">fiamma della caritа</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Giacomo Cesare Predieri</field>
+		<field name="composerSort">Predieri, Giacomo Cesare</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiamma+della+caritа+Giacomo+Cesare+Predieri&amp;search_field=search</field>
+	</doc></add>

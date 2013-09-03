@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100908</field>
+<field name="genre">Operas</field>
+<field name="title">Orfeo</field>
+<field name="titleSort">Orfeo</field>
+<field name="composer">Carlo d'Aquino</field>
+<field name="composerSort">d'Aquino, Carlo</field>
+<field name="year">1654</field>
+<field name="date">1654</field>
+<field name="city">Cosenza</field>
+<field name="region">Calabria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo+Carlo+d'Aquino&amp;search_field=search</field>
+</doc>
+</add>

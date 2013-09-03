@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130852</field>
+<field name="genre">Operas</field>
+<field name="title">L'albergo dei poveri</field>
+<field name="titleSort">albergo dei poveri</field>
+<field name="composer">Flavio Testi</field>
+<field name="composerSort">Testi, Flavio</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Flavio Testi</field>
+<field name="librettistSort">Testi, Flavio</field>
+<field name="librettist">[Aleksey Maksimovich Peshkov] Maksim Gorky</field>
+<field name="librettistSort">Gorky, Maksim [Aleksey Maksimovich Peshkov]</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'albergo+dei+poveri+Flavio+Testi&amp;search_field=search</field>
+</doc>
+</add>

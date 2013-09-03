@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110114</field>
+<field name="genre">Operas</field>
+<field name="title">Of Mice and Men</field>
+<field name="titleSort">Of Mice and Men</field>
+<field name="composer">Carlisle Floyd</field>
+<field name="composerSort">Floyd, Carlisle</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Carlisle Floyd</field>
+<field name="librettistSort">Floyd, Carlisle</field>
+<field name="librettist">John Steinbeck</field>
+<field name="librettistSort">Steinbeck, John</field>
+<field name="theater">Opera House</field>
+<field name="city">Seattle</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Of+Mice+and+Men+Carlisle+Floyd&amp;search_field=search</field>
+</doc>
+</add>

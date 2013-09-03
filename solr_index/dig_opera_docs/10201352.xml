@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201352</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Floss der 'Medusa'</field>
+		<field name="titleSort">Floss der 'Medusa'</field>
+		<field name="year">1968</field>
+		<field name="month">December</field>
+		<field name="day">9</field>
+		<field name="date">December 9, 1968</field>
+		<field name="composer">Hans Werner Henze</field>
+		<field name="composerSort">Henze, Hans Werner</field>
+		<field name="librettist">Dieter Schnabel</field>
+		<field name="librettistSort">Schnabel, Dieter</field>
+		
+		<field name="theater">NDR Radio (Norddeutscher Rundfunk)</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Floss+der+'Medusa'+Hans+Werner+Henze&amp;search_field=search</field>
+	</doc></add>

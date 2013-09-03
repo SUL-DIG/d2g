@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113955</field>
+<field name="genre">Operas</field>
+<field name="title">The Twilight of Magic</field>
+<field name="titleSort">Twilight of Magic</field>
+<field name="composer">Edith Hemenway</field>
+<field name="composerSort">Hemenway, Edith</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Sarah Hemenway</field>
+<field name="librettistSort">Hemenway, Sarah</field>
+<field name="librettist">Hugh Lofting</field>
+<field name="librettistSort">Lofting, Hugh</field>
+<field name="theater">Music Downtown/Children's Musical Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Twilight+of+Magic+Edith+Hemenway&amp;search_field=search</field>
+</doc>
+</add>

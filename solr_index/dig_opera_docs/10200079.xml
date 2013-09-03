@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200079</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Absalon</field>
+		<field name="titleSort">Absalon</field>
+		<field name="year">1687</field>
+		
+		
+		<field name="date">1687</field>
+		<field name="composer">Giovanni Battista Bianchini</field>
+		<field name="composerSort">Bianchini, Giovanni Battista</field>
+		<field name="librettist">Giovanni Antonio Magnani</field>
+		<field name="librettistSort">Magnani, Giovanni Antonio</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Absalom</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Absalon+Giovanni+Battista+Bianchini&amp;search_field=search</field>
+	</doc></add>

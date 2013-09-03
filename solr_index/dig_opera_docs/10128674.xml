@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128674</field>
+<field name="genre">Operas</field>
+<field name="title">Der Tugendwächter</field>
+<field name="titleSort">Tugendwächter</field>
+<field name="composer">Aurel Schwimmer</field>
+<field name="composerSort">Schwimmer, Aurel</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Bruno Zappert</field>
+<field name="librettistSort">Zappert, Bruno</field>
+
+<field name="city">Sopron</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tugendwächter+Aurel+Schwimmer&amp;search_field=search</field>
+</doc>
+</add>

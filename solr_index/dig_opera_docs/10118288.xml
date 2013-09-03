@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118288</field>
+<field name="genre">Operas</field>
+<field name="title">Der rote Domino</field>
+<field name="titleSort">rote Domino</field>
+<field name="composer">Johann Christian Lobe</field>
+<field name="composerSort">Lobe, Johann Christian</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">[Pauline Marie Julie Brachowskal] Theophania</field>
+<field name="librettistSort">Theophania, [Pauline Marie Julie Brachowskal]</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+rote+Domino+Johann+Christian+Lobe&amp;search_field=search</field>
+</doc>
+</add>

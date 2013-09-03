@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114297</field>
+<field name="genre">Operas</field>
+<field name="title">Das Schmuckkästchen</field>
+<field name="titleSort">Schmuckkästchen</field>
+<field name="composer">Friedrich Adam Hiller</field>
+<field name="composerSort">Hiller, Friedrich Adam</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Friedrich Ernst Jester</field>
+<field name="librettistSort">Jester, Friedrich Ernst</field>
+<field name="theater">Ackermanns Schauspielhaus</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Schmuckkästchen+Friedrich+Adam+Hiller&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117895</field>
+<field name="genre">Operas</field>
+<field name="title">Siface</field>
+<field name="titleSort">Siface</field>
+<field name="composer">Leonardo Leo</field>
+<field name="composerSort">Leo, Leonardo</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Malvezzi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siface+Leonardo+Leo&amp;search_field=search</field>
+</doc>
+</add>

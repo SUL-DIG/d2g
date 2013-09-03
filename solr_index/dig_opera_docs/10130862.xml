@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130862</field>
+<field name="genre">Operas</field>
+<field name="title">Alexander</field>
+<field name="titleSort">Alexander</field>
+<field name="composer">Franz Teyber</field>
+<field name="composerSort">Teyber, Franz</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+Franz+Teyber&amp;search_field=search</field>
+</doc>
+</add>

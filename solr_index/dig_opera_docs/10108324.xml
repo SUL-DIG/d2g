@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108324</field>
+<field name="genre">Operas</field>
+<field name="title">"Bianca, oder Die entwaffnete Rache</field>
+<field name="titleSort">"Bianca, oder Die entwaffnete Rache"</field>
+<field name="composer">Maximilian-Friedrich von Droste-Hülshoff</field>
+<field name="composerSort">Droste-Hülshoff, Maximilian-Friedrich von</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Walter Anton Schnick</field>
+<field name="librettistSort">Schnick, Walter Anton</field>
+<field name="theater">Schauspielhaus</field>
+<field name="city">Emden</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca,+oder+Die+entwaffnete+Rache+Maximilian-Friedrich+von+Droste-Hülshoff&amp;search_field=search</field>
+</doc>
+</add>

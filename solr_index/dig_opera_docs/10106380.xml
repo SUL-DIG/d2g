@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106380</field>
+<field name="genre">Operas</field>
+<field name="title">Liutprando</field>
+<field name="titleSort">Liutprando</field>
+<field name="composer">Antonio Condorelli</field>
+<field name="composerSort">Condorelli, Antonio</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Gaetano Frediano</field>
+<field name="librettistSort">Frediano, Gaetano</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liutprando+Antonio+Condorelli&amp;search_field=search</field>
+</doc>
+</add>

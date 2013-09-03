@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103486</field>
+<field name="genre">Operas</field>
+<field name="title">"Vittoria, la madre degli esserciti</field>
+<field name="titleSort">"Vittoria, la madre degli esserciti"</field>
+<field name="composer">Pasquale Bona</field>
+<field name="composerSort">Bona, Pasquale</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vittoria,+la+madre+degli+esserciti+Pasquale+Bona&amp;search_field=search</field>
+</doc>
+</add>

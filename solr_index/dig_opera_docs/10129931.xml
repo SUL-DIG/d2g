@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129931</field>
+<field name="genre">Operas</field>
+<field name="title">Troubled Island</field>
+<field name="titleSort">Troubled Island</field>
+<field name="composer">William Grant Still</field>
+<field name="composerSort">Still, William Grant</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Langston Hughes</field>
+<field name="librettistSort">Hughes, Langston</field>
+<field name="librettist">Verna Arvey</field>
+<field name="librettistSort">Arvey, Verna</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Troubled+Island+William+Grant+Still&amp;search_field=search</field>
+</doc>
+</add>

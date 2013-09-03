@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115600</field>
+<field name="genre">Operas</field>
+<field name="title">Banuta</field>
+<field name="titleSort">Banuta</field>
+<field name="composer">Alfreds Kalnins</field>
+<field name="composerSort">Kalnins, Alfreds</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Arturs Krumins</field>
+<field name="librettistSort">Krumins, Arturs</field>
+<field name="theater">Latïshskoy Natsional'noy Operï</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Banuta+Alfreds+Kalnins&amp;search_field=search</field>
+</doc>
+</add>

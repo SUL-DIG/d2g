@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117423</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori di due selvaggi nel deserto</field>
+<field name="titleSort">amori di due selvaggi nel deserto</field>
+<field name="composer">Antonio Laudamo</field>
+<field name="composerSort">Laudamo, Antonio</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
+<field name="theater">Teatro della Munizione</field>
+<field name="city">Messina</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+due+selvaggi+nel+deserto+Antonio+Laudamo&amp;search_field=search</field>
+</doc>
+</add>

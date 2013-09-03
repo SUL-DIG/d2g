@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103718</field>
+<field name="genre">Operas</field>
+<field name="title">Aver moglie è poco guidarla è molto</field>
+<field name="titleSort">Aver moglie è poco guidarla è molto</field>
+<field name="composer">Giuseppe Bornacini</field>
+<field name="composerSort">Bornacini, Giuseppe</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Giovanni Battista Cipro</field>
+<field name="librettistSort">Cipro, Giovanni Battista</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aver+moglie+è+poco+guidarla+è+molto+Giuseppe+Bornacini&amp;search_field=search</field>
+</doc>
+</add>

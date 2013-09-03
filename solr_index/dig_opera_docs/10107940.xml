@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107940</field>
+<field name="genre">Operas</field>
+<field name="title">Buondelmonte</field>
+<field name="titleSort">Buondelmonte</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Pietro Salatino</field>
+<field name="librettistSort">Salatino, Pietro</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Buondelmonte+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

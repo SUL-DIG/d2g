@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119095</field>
+<field name="genre">Operas</field>
+<field name="title">Lucio Silla</field>
+<field name="titleSort">Lucio Silla</field>
+<field name="composer">Francesco Mancini</field>
+<field name="composerSort">Mancini, Francesco</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Andrea Rossini</field>
+<field name="librettistSort">Rossini, Andrea</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Silla+Francesco+Mancini&amp;search_field=search</field>
+</doc>
+</add>

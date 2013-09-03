@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133804</field>
+<field name="genre">Operas</field>
+<field name="title">The Play of the Three Shepherds</field>
+<field name="titleSort">Play of the Three Shepherds</field>
+<field name="composer">Carl Zytowski</field>
+<field name="composerSort">Zytowski, Carl</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Carl Zytowski</field>
+<field name="librettistSort">Zytowski, Carl</field>
+<field name="theater">University of California</field>
+<field name="city">Santa Barbara</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Play+of+the+Three+Shepherds+Carl+Zytowski&amp;search_field=search</field>
+</doc>
+</add>

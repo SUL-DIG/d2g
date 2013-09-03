@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105832</field>
+<field name="genre">Operas</field>
+<field name="title">Les précautions inutiles</field>
+<field name="titleSort">précautions inutiles</field>
+<field name="composer">Charles Antoine Chrétien</field>
+<field name="composerSort">Chrétien, Charles Antoine</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">__ Achard</field>
+<field name="librettistSort">Achard, __</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+précautions+inutiles+Charles+Antoine+Chrétien&amp;search_field=search</field>
+</doc>
+</add>

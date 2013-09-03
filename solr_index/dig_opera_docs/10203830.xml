@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203830</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Eloy</field>
+		<field name="titleSort">San Eloy</field>
+		<field name="year">1763</field>
+		
+		
+		<field name="date">1763</field>
+		<field name="composer">Pedro Antonío Monlleó</field>
+		<field name="composerSort">Monlleó, Pedro Antonío</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Eligius</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">1</field>
+		<field name="feastDate">December 1</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Eloy+Pedro+Antonío+Monlleó&amp;search_field=search</field>
+	</doc></add>

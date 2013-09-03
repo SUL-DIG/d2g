@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103949</field>
+<field name="genre">Operas</field>
+<field name="title">I Carbonari</field>
+<field name="titleSort">Carbonari</field>
+<field name="composer">Carlo Alberto Bracco</field>
+<field name="composerSort">Bracco, Carlo Alberto</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">G. Ducci</field>
+<field name="librettistSort">Ducci, G.</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Carbonari+Carlo+Alberto+Bracco&amp;search_field=search</field>
+</doc>
+</add>

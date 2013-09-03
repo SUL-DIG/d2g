@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106237</field>
+<field name="genre">Operas</field>
+<field name="title">South</field>
+<field name="titleSort">South</field>
+<field name="composer">Kenton Coe</field>
+<field name="composerSort">Coe, Kenton</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Julien Green</field>
+<field name="librettistSort">Green, Julien</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=South+Kenton+Coe&amp;search_field=search</field>
+</doc>
+</add>

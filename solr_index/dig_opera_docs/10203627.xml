@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203627</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La risurrezione di Cristo</field>
+		<field name="titleSort">risurrezione di Cristo</field>
+		<field name="year">1898</field>
+		<field name="month">December</field>
+		<field name="day">13</field>
+		<field name="date">December 13, 1898</field>
+		<field name="composer">Lorenzo Perosi</field>
+		<field name="composerSort">Perosi, Lorenzo</field>
+		
+		
+		<field name="theater">Chiesa dei Santissimi Apostoli</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+risurrezione+di+Cristo+Lorenzo+Perosi&amp;search_field=search</field>
+	</doc></add>

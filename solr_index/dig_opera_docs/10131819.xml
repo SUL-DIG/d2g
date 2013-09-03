@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131819</field>
+<field name="genre">Operas</field>
+<field name="title">Kaupo</field>
+<field name="titleSort">Kaupo</field>
+<field name="composer">Adolph Vedro</field>
+<field name="composerSort">Vedro, Adolph</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Georg Tuksam</field>
+<field name="librettistSort">Tuksam, Georg</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kaupo+Adolph+Vedro&amp;search_field=search</field>
+</doc>
+</add>

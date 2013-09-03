@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120944</field>
+<field name="genre">Operas</field>
+<field name="title">Sielanka</field>
+<field name="titleSort">Sielanka</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Vincuk Dunin-Martsinkevich</field>
+<field name="librettistSort">Dunin-Martsinkevich, Vincuk"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sielanka+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

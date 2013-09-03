@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109626</field>
+<field name="genre">Operas</field>
+<field name="title">Corte di Monaco</field>
+<field name="titleSort">Corte di Monaco</field>
+<field name="composer">Domingos José Ferreira</field>
+<field name="composerSort">Ferreira, Domingos José</field>
+<field name="year">1880</field>
+<field name="date">1880</field><field name="theater">Teatro Guzmano</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corte+di+Monaco+Domingos+José+Ferreira&amp;search_field=search</field>
+</doc>
+</add>

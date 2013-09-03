@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114870</field>
+<field name="genre">Operas</field>
+<field name="title">"La posada, ou Le souper du roi</field>
+<field name="titleSort">"posada, ou Le souper du roi"</field>
+<field name="composer">Eugène Hutoy</field>
+<field name="composerSort">Hutoy, Eugène</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Guillaume Stanislaus</field>
+<field name="librettistSort">Stanislaus, Guillaume</field>
+<field name="librettist">Achille Rodembourg</field>
+<field name="librettistSort">Rodembourg, Achille</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+posada,+ou+Le+souper+du+roi+Eugène+Hutoy&amp;search_field=search</field>
+</doc>
+</add>

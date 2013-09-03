@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130228</field>
+<field name="genre">Operas</field>
+<field name="title">Under the Red Globe</field>
+<field name="titleSort">Under the Red Globe</field>
+<field name="composer">John Stromberg</field>
+<field name="composerSort">Stromberg, John</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Joseph William Herbert</field>
+<field name="librettistSort">Herbert, Joseph William</field>
+<field name="theater">Weber and Fields' Music Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Under+the+Red+Globe+John+Stromberg&amp;search_field=search</field>
+</doc>
+</add>

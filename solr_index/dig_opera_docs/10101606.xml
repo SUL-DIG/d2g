@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101606</field>
+<field name="genre">Operas</field>
+<field name="title">La ninfa Apollo</field>
+<field name="titleSort">ninfa Apollo</field>
+<field name="composer">Carlo Agostino Badia</field>
+<field name="composerSort">Badia, Carlo Agostino</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">Francesco de Lemene</field>
+<field name="librettistSort">Lemene, Francesco de</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ninfa+Apollo+Carlo+Agostino+Badia&amp;search_field=search</field>
+</doc>
+</add>

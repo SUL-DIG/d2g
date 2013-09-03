@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114026</field>
+<field name="genre">Operas</field>
+<field name="title">De par le roi</field>
+<field name="titleSort">De par le roi</field>
+<field name="composer">Gustave Hequet</field>
+<field name="composerSort">Hequet, Gustave</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">[Paul-Aimé Chapelle] Laurencin</field>
+<field name="librettistSort">Laurencin, [Paul-Aimé Chapelle]</field>
+<field name="librettist">François Ancelot</field>
+<field name="librettistSort">Ancelot, François</field>
+
+<field name="city">Baden-Baden</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+par+le+roi+Gustave+Hequet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130083</field>
+<field name="genre">Operas</field>
+<field name="title">L'orco</field>
+<field name="titleSort">orco</field>
+<field name="composer">Oscar Stoumon</field>
+<field name="composerSort">Stoumon, Oscar</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Louis Hymans</field>
+<field name="librettistSort">Hymans, Louis</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orco+Oscar+Stoumon&amp;search_field=search</field>
+</doc>
+</add>

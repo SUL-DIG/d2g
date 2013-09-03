@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106976</field>
+<field name="genre">Operas</field>
+<field name="title">Gil Blas von Santillana</field>
+<field name="titleSort">Gil Blas von Santillana</field>
+<field name="composer">Alphons Czibulka</field>
+<field name="composerSort">Czibulka, Alphons</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Camillo Walzel] F. Zell</field>
+<field name="librettistSort">Zell, F. [Camillo Walzel]</field>
+<field name="librettist">[Moritz Georg Nitzelberger] Moritz West</field>
+<field name="librettistSort">West, Moritz [Moritz Georg Nitzelberger]</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gil+Blas+von+Santillana+Alphons+Czibulka&amp;search_field=search</field>
+</doc>
+</add>

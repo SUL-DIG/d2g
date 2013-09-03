@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118896</field>
+<field name="genre">Operas</field>
+<field name="title">Un souvenir</field>
+<field name="titleSort">souvenir</field>
+<field name="composer">Charles Magner</field>
+<field name="composerSort">Magner, Charles</field>
+<field name="year">1873</field>
+<field name="date">1873</field><field name="theater">Théâtre Cluny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+souvenir+Charles+Magner&amp;search_field=search</field>
+</doc>
+</add>

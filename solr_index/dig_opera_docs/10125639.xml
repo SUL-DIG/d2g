@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125639</field>
+<field name="genre">Operas</field>
+<field name="title">Vincent</field>
+<field name="titleSort">Vincent</field>
+<field name="composer">Einojuhani Rautavaara</field>
+<field name="composerSort">Rautavaara, Einojuhani</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Einojuhani Rautavaara</field>
+<field name="librettistSort">Rautavaara, Einojuhani</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vincent+Einojuhani+Rautavaara&amp;search_field=search</field>
+</doc>
+</add>

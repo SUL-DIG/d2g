@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101982</field>
+<field name="genre">Operas</field>
+<field name="title">Il califfo e la schiava</field>
+<field name="titleSort">califfo e la schiava</field>
+<field name="composer">Francesco Basili</field>
+<field name="composerSort">Basili, Francesco</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+califfo+e+la+schiava+Francesco+Basili&amp;search_field=search</field>
+</doc>
+</add>

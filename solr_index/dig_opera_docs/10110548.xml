@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110548</field>
+<field name="genre">Operas</field>
+<field name="title">"Les deux miliciens, ou L'orpheline villageoise</field>
+<field name="titleSort">"deux miliciens, ou L'orpheline villageoise"</field>
+<field name="composer">Alessandro Mario Antonio Fridzeri</field>
+<field name="composerSort">Fridzeri, Alessandro Mario Antonio</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Louis-Guérin d'Azémar</field>
+<field name="librettistSort">d'Azémar, Louis-Guérin</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+miliciens,+ou+L'orpheline+villageoise+Alessandro+Mario+Antonio+Fridzeri&amp;search_field=search</field>
+</doc>
+</add>

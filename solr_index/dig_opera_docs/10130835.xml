@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130835</field>
+<field name="genre">Operas</field>
+<field name="title">Les transatlantiques</field>
+<field name="titleSort">transatlantiques</field>
+<field name="composer">Claude Terrasse</field>
+<field name="composerSort">Terrasse, Claude</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Abel Hermant</field>
+<field name="librettistSort">Hermant, Abel</field>
+<field name="librettist">[Maurice Étienne Legrand] Franc-Nohain</field>
+<field name="librettistSort">Franc-Nohain, [Maurice Étienne Legrand]</field>
+<field name="theater">Théâtre de l'Apollo</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+transatlantiques+Claude+Terrasse&amp;search_field=search</field>
+</doc>
+</add>

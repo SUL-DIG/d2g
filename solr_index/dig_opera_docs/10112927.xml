@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112927</field>
+<field name="genre">Operas</field>
+<field name="title">Une visite а la campagne</field>
+<field name="titleSort">visite а la campagne</field>
+<field name="composer">Luc Guenée</field>
+<field name="composerSort">Guenée, Luc</field>
+<field name="year">1820</field>
+<field name="date">1820</field><field name="theater">Théâtre du Gymnase</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+visite+а+la+campagne+Luc+Guenée&amp;search_field=search</field>
+</doc>
+</add>

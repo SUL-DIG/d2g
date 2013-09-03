@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115400</field>
+<field name="genre">Operas</field>
+<field name="title">"Le Sicilien, ou L'amour peintre</field>
+<field name="titleSort">"Sicilien, ou L'amour peintre"</field>
+<field name="composer">Victorin Joncières</field>
+<field name="composerSort">Joncières, Victorin</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Victorin Joncières</field>
+<field name="librettistSort">Joncières, Victorin</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Théâtre de l'École Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Sicilien,+ou+L'amour+peintre+Victorin+Joncières&amp;search_field=search</field>
+</doc>
+</add>

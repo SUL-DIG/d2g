@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200863</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davidde penintente</field>
+		<field name="titleSort">Davidde penintente</field>
+		<field name="year">1785</field>
+		<field name="month">March</field>
+		<field name="day">13</field>
+		<field name="date">March 13, 1785</field>
+		<field name="composer">Wolfgang Amadeus Mozart</field>
+		<field name="composerSort">Mozart, Wolfgang Amadeus</field>
+		<field name="librettist">Lorenzo Da Ponte</field>
+		<field name="librettistSort">Ponte, Lorenzo Da</field>
+		
+		<field name="theater">Tonkünstler-Societät</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davidde+penintente+Wolfgang+Amadeus+Mozart&amp;search_field=search</field>
+	</doc></add>

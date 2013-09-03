@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100569</field>
+<field name="genre">Operas</field>
+<field name="title">"Il debito, ossia Un preventivo d'arresto</field>
+<field name="titleSort">"debito, ossia Un preventivo d'arresto"</field>
+<field name="composer">Francesco Altavilla</field>
+<field name="composerSort">Altavilla, Francesco</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Giuseppe Vinci</field>
+<field name="librettistSort">Vinci, Giuseppe</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+debito,+ossia+Un+preventivo+d'arresto+Francesco+Altavilla&amp;search_field=search</field>
+</doc>
+</add>

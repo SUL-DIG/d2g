@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204702</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Triumphus Judith</field>
+		<field name="titleSort">Triumphus Judith</field>
+		<field name="year">1757</field>
+		
+		
+		<field name="date">1757</field>
+		<field name="composer">Antonio Gaetano Pampani</field>
+		<field name="composerSort">Pampani, Antonio Gaetano</field>
+		
+		
+		<field name="theater">Ospedale dei Derelitti ai Santi Giovanni e Paolo (Ospedaletto)</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Triumphus+Judith+Antonio+Gaetano+Pampani&amp;search_field=search</field>
+	</doc></add>

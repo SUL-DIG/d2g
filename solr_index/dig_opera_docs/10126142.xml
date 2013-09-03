@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126142</field>
+<field name="genre">Operas</field>
+<field name="title">La fidanzata di Lammermoor (Ida di Danimarca)</field>
+<field name="titleSort">fidanzata di Lammermoor (Ida di Danimarca)</field>
+<field name="composer">Luigi Rieschi</field>
+<field name="composerSort">Rieschi, Luigi</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="librettist">Walter Scott</field>
+<field name="librettistSort">Scott, Walter</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fidanzata+di+Lammermoor+Ida+di+Danimarca+Luigi+Rieschi&amp;search_field=search</field>
+</doc>
+</add>

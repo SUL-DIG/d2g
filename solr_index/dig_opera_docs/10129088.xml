@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129088</field>
+<field name="genre">Operas</field>
+<field name="title">Die Tugendrose</field>
+<field name="titleSort">Tugendrose</field>
+<field name="composer">Emil Siebert</field>
+<field name="composerSort">Siebert, Emil</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Stadttheater</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Tugendrose+Emil+Siebert&amp;search_field=search</field>
+</doc>
+</add>

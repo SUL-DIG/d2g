@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108758</field>
+<field name="genre">Operas</field>
+<field name="title">Ann Mari</field>
+<field name="titleSort">Ann Mari</field>
+<field name="composer">José Eibenschütz</field>
+<field name="composerSort">Eibenschütz, José</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Johan Fridolf Hagfors</field>
+<field name="librettistSort">Hagfors, Johan Fridolf</field>
+
+<field name="city">Turku</field>
+<field name="region">Turun Ja Porin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ann+Mari+José+Eibenschütz&amp;search_field=search</field>
+</doc>
+</add>

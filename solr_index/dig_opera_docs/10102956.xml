@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102956</field>
+<field name="genre">Operas</field>
+<field name="title">La fortuna tra le disgratie</field>
+<field name="titleSort">fortuna tra le disgratie</field>
+<field name="composer">Paolo Biego</field>
+<field name="composerSort">Biego, Paolo</field>
+<field name="year">1688</field>
+<field name="date">1688</field>
+<field name="librettist">Rinaldo Cialli</field>
+<field name="librettistSort">Cialli, Rinaldo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fortuna+tra+le+disgratie+Paolo+Biego&amp;search_field=search</field>
+</doc>
+</add>

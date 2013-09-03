@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107643</field>
+<field name="genre">Operas</field>
+<field name="title">Paquita</field>
+<field name="titleSort">Paquita</field>
+<field name="composer">Josef Dessauer</field>
+<field name="composerSort">Dessauer, Josef</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Otto Prechtler</field>
+<field name="librettistSort">Prechtler, Otto</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paquita+Josef+Dessauer&amp;search_field=search</field>
+</doc>
+</add>

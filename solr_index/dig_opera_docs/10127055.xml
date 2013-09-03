@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127055</field>
+<field name="genre">Operas</field>
+<field name="title">The Capricious Lovers</field>
+<field name="titleSort">Capricious Lovers</field>
+<field name="composer">George Rush</field>
+<field name="composerSort">Rush, George</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">Robert Lloyd</field>
+<field name="librettistSort">Lloyd, Robert</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Capricious+Lovers+George+Rush&amp;search_field=search</field>
+</doc>
+</add>

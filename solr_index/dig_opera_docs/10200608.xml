@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200608</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christnacht</field>
+		<field name="titleSort">Christnacht</field>
+		<field name="year">1932</field>
+		
+		
+		<field name="date">1932</field>
+		<field name="composer">Joseph Haas</field>
+		<field name="composerSort">Haas, Joseph</field>
+		<field name="librettist">Wilhelm Dauffenbach</field>
+		<field name="librettistSort">Dauffenbach, Wilhelm</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christnacht+Joseph+Haas&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129399</field>
+<field name="genre">Operas</field>
+<field name="title">"Genio e sventura, ossia Michelangelo e Rolla</field>
+<field name="titleSort">"Genio e sventura, ossia Michelangelo e Rolla"</field>
+<field name="composer">Temistocle Solera</field>
+<field name="composerSort">Solera, Temistocle</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Temistocle Solera</field>
+<field name="librettistSort">Solera, Temistocle</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Genio+e+sventura,+ossia+Michelangelo+e+Rolla+Temistocle+Solera&amp;search_field=search</field>
+</doc>
+</add>

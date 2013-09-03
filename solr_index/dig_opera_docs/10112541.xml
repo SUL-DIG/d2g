@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112541</field>
+<field name="genre">Operas</field>
+<field name="title">Amleto</field>
+<field name="titleSort">Amleto</field>
+<field name="composer">Alfredo Grandi</field>
+<field name="composerSort">Grandi, Alfredo</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Aristide Gargano</field>
+<field name="librettistSort">Gargano, Aristide</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amleto+Alfredo+Grandi&amp;search_field=search</field>
+</doc>
+</add>

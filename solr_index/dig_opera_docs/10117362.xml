@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117362</field>
+<field name="genre">Operas</field>
+<field name="title">Ciascheduno ha il suo negozio</field>
+<field name="titleSort">Ciascheduno ha il suo negozio</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1747</field>
+<field name="date">1747</field><field name="theater">Coliseo del Buen Retiro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciascheduno+ha+il+suo+negozio+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108696</field>
+<field name="genre">Operas</field>
+<field name="title">Diane et l'Amour</field>
+<field name="titleSort">Diane et l'Amour</field>
+<field name="composer">Jean-Frédéric Edelmann</field>
+<field name="composerSort">Edelmann, Jean-Frédéric</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Pierre-Louis Moline</field>
+<field name="librettistSort">Moline, Pierre-Louis</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diane+et+l'Amour+Jean-Frédéric+Edelmann&amp;search_field=search</field>
+</doc>
+</add>

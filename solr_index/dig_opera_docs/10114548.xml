@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114548</field>
+<field name="genre">Operas</field>
+<field name="title">Der Haideschacht</field>
+<field name="titleSort">Haideschacht</field>
+<field name="composer">Franz von Holstein</field>
+<field name="composerSort">Holstein, Franz von</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Franz von Holstein</field>
+<field name="librettistSort">Holstein, Franz von</field>
+<field name="librettist">Ernst Theodor Amadeus Hoffmann</field>
+<field name="librettistSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Haideschacht+Franz+von+Holstein&amp;search_field=search</field>
+</doc>
+</add>

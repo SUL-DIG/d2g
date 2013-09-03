@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107623</field>
+<field name="genre">Operas</field>
+<field name="title">Pas si bête</field>
+<field name="titleSort">Pas si bête</field>
+<field name="composer">Louis Desormes</field>
+<field name="composerSort">Desormes, Louis</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">[Paul-Aimé Chapelle] Laurencin</field>
+<field name="librettistSort">Laurencin, [Paul-Aimé Chapelle]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pas+si+bête+Louis+Desormes&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119224</field>
+<field name="genre">Operas</field>
+<field name="title">Le fakir de Bénarès</field>
+<field name="titleSort">fakir de Bénarès</field>
+<field name="composer">Léo Manuel</field>
+<field name="composerSort">Manuel, Léo</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Théâtre Mogador</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+fakir+de+Bénarès+Léo+Manuel&amp;search_field=search</field>
+</doc>
+</add>

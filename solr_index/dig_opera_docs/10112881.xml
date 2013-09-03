@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112881</field>
+<field name="genre">Operas</field>
+<field name="title">"Von einem Jungen, der den Wald entdeckte</field>
+<field name="titleSort">"Von einem Jungen, der den Wald entdeckte"</field>
+<field name="composer">Joachim Gruner</field>
+<field name="composerSort">Gruner, Joachim</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Karla Weber</field>
+<field name="librettistSort">Weber, Karla</field>
+<field name="librettist">Lothar Weber</field>
+<field name="librettistSort">Weber, Lothar</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Von+einem+Jungen,+der+den+Wald+entdeckte+Joachim+Gruner&amp;search_field=search</field>
+</doc>
+</add>

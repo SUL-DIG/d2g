@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119193</field>
+<field name="genre">Operas</field>
+<field name="title">Rip Van Winkle</field>
+<field name="titleSort">Rip Van Winkle</field>
+<field name="composer">Edward Betts Manning</field>
+<field name="composerSort">Manning, Edward Betts</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Edward Betts Manning</field>
+<field name="librettistSort">Manning, Edward Betts</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Town Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Van+Winkle+Edward+Betts+Manning&amp;search_field=search</field>
+</doc>
+</add>

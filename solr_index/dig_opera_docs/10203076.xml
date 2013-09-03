@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203076</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio de Santo Domingo</field>
+		<field name="titleSort">Oratorio de Santo Domingo</field>
+		<field name="year">1736</field>
+		
+		
+		<field name="date">1736</field>
+		<field name="composer">Francesc Valls</field>
+		<field name="composerSort">Valls, Francesc</field>
+		
+		
+		<field name="theater">Catedral de la Seo</field>
+		<field name="city">Zaragoza</field>
+		<field name="region">Aragon</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Dominic</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">8</field>
+		<field name="feastDate">August 8</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+de+Santo+Domingo+Francesc+Valls&amp;search_field=search</field>
+	</doc></add>

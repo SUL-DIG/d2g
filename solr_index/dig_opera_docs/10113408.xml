@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113408</field>
+<field name="genre">Operas</field>
+<field name="title">Valborgsmässan (Häxfällan)</field>
+<field name="titleSort">Valborgsmässan (Häxfällan)</field>
+<field name="composer">Andreas Hallén</field>
+<field name="composerSort">Hallén, Andreas</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Frans Hedberg</field>
+<field name="librettistSort">Hedberg, Frans</field>
+<field name="librettist">Hans Hopfen</field>
+<field name="librettistSort">Hopfen, Hans</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valborgsmässan+Häxfällan+Andreas+Hallén&amp;search_field=search</field>
+</doc>
+</add>

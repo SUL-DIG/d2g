@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128545</field>
+<field name="genre">Operas</field>
+<field name="title">Daniel</field>
+<field name="titleSort">Daniel</field>
+<field name="composer">Georg Caspar Schürmann</field>
+<field name="composerSort">Schürmann, Georg Caspar</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Johann Christian Knorr von Rosenroth</field>
+<field name="librettistSort">Rosenroth, Johann Christian Knorr von</field>
+<field name="theater">Schauplatz</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+Georg+Caspar+Schürmann&amp;search_field=search</field>
+</doc>
+</add>

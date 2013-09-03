@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114842</field>
+<field name="genre">Operas</field>
+<field name="title">Flavio Cuniberto</field>
+<field name="titleSort">Flavio Cuniberto</field>
+<field name="composer">Conrad Friedrich Hurlebusch</field>
+<field name="composerSort">Hurlebusch, Conrad Friedrich</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Matteo Noris</field>
+<field name="librettistSort">Noris, Matteo</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flavio+Cuniberto+Conrad+Friedrich+Hurlebusch&amp;search_field=search</field>
+</doc>
+</add>

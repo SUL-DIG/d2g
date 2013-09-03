@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118831</field>
+<field name="genre">Operas</field>
+<field name="title">A nö meg az ördög (The Woman and the Devil)</field>
+<field name="titleSort">nö meg az ördög (The Woman and the Devil)</field>
+<field name="composer">Ivan Madarász</field>
+<field name="composerSort">Madarász, Ivan</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Tamás Emöd</field>
+<field name="librettistSort">Emöd, Tamás</field>
+<field name="theater">Hungarian Television (Magyar Televízió)</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+nö+meg+az+ördög+The+Woman+and+the+Devil+Ivan+Madarász&amp;search_field=search</field>
+</doc>
+</add>

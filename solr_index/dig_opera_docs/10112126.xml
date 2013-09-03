@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112126</field>
+<field name="genre">Operas</field>
+<field name="title">Kage Kijo</field>
+<field name="titleSort">Kage Kijo</field>
+<field name="composer">Werner Wolf Glaser</field>
+<field name="composerSort">Glaser, Werner Wolf</field>
+<field name="year">1973</field>
+<field name="date">1973</field><field name="theater">Kungliga Teatern Rotunda</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kage+Kijo+Werner+Wolf+Glaser&amp;search_field=search</field>
+</doc>
+</add>

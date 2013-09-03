@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112044</field>
+<field name="genre">Operas</field>
+<field name="title">Il barone in villeggiatura</field>
+<field name="titleSort">barone in villeggiatura</field>
+<field name="composer">Giuseppe Giorgi</field>
+<field name="composerSort">Giorgi, Giuseppe</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Antonio Gatta</field>
+<field name="librettistSort">Gatta, Antonio</field>
+<field name="theater">Teatro Tordinona</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+barone+in+villeggiatura+Giuseppe+Giorgi&amp;search_field=search</field>
+</doc>
+</add>

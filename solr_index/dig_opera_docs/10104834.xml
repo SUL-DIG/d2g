@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104834</field>
+<field name="genre">Operas</field>
+<field name="title">Pastor soldado</field>
+<field name="titleSort">Pastor soldado</field>
+<field name="composer">António Estarislao Delgado Canedo</field>
+<field name="composerSort">Canedo, António Estarislao Delgado</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Luís de Freitas</field>
+<field name="librettistSort">Freitas, Luís de</field>
+
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastor+soldado+António+Estarislao+Delgado+Canedo&amp;search_field=search</field>
+</doc>
+</add>

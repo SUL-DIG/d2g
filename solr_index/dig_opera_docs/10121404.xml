@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121404</field>
+<field name="genre">Operas</field>
+<field name="title">Comme chien et chat</field>
+<field name="titleSort">Comme chien et chat</field>
+<field name="composer">Henri Mouchet</field>
+<field name="composerSort">Mouchet, Henri</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Émile Dernay</field>
+<field name="librettistSort">Dernay, Émile</field>
+
+<field name="city">Plombières-les-Bains</field>
+<field name="region">Vosges</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Comme+chien+et+chat+Henri+Mouchet&amp;search_field=search</field>
+</doc>
+</add>

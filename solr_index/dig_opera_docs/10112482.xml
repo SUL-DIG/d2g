@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112482</field>
+<field name="genre">Operas</field>
+<field name="title">Schirin und Gertraude</field>
+<field name="titleSort">Schirin und Gertraude</field>
+<field name="composer">Paul Graener</field>
+<field name="composerSort">Graener, Paul</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Ernst Hardt</field>
+<field name="librettistSort">Hardt, Ernst</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schirin+und+Gertraude+Paul+Graener&amp;search_field=search</field>
+</doc>
+</add>

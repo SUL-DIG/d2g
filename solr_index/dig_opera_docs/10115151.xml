@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115151</field>
+<field name="genre">Operas</field>
+<field name="title">Mrika</field>
+<field name="titleSort">Mrika</field>
+<field name="composer">Prenkë Jakova</field>
+<field name="composerSort">Jakova, Prenkë</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Llazar Siliqi</field>
+<field name="librettistSort">Siliqi, Llazar</field>
+
+<field name="city">Shkoder</field>
+<field name="region">Rrethi i Shkodrës</field>
+<field name="country">Albania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mrika+Prenkë+Jakova&amp;search_field=search</field>
+</doc>
+</add>

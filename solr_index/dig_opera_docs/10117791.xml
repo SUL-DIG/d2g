@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117791</field>
+<field name="genre">Operas</field>
+<field name="title">La rosière de Toqueville</field>
+<field name="titleSort">rosière de Toqueville</field>
+<field name="composer">Ernest Lejeune</field>
+<field name="composerSort">Lejeune, Ernest</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Ernest Lejeune</field>
+<field name="librettistSort">Lejeune, Ernest</field>
+
+<field name="city">Saint-Omer</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rosière+de+Toqueville+Ernest+Lejeune&amp;search_field=search</field>
+</doc>
+</add>

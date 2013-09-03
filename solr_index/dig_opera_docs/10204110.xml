@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204110</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La santitа presso alla tirannide</field>
+		<field name="titleSort">santitа presso alla tirannide</field>
+		<field name="year">1696</field>
+		
+		
+		<field name="date">1696</field>
+		<field name="composer">Nicola Zanardi</field>
+		<field name="composerSort">Zanardi, Nicola</field>
+		<field name="librettist">Alessandro Gargieria</field>
+		<field name="librettistSort">Gargieria, Alessandro</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+santitа+presso+alla+tirannide+Nicola+Zanardi&amp;search_field=search</field>
+	</doc></add>

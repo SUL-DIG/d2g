@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100169</field>
+<field name="genre">Operas</field>
+<field name="title">"Grant, Warden of the Plains</field>
+<field name="titleSort">"Grant, Warden of the Plains"</field>
+<field name="composer">Murray Adaskin</field>
+<field name="composerSort">Adaskin, Murray</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Mary Elizabeth Bayer</field>
+<field name="librettistSort">Bayer, Mary Elizabeth</field>
+<field name="theater">Winnipeg Symphony Orchestra</field>
+<field name="city">Winnipeg</field>
+<field name="region">Manitoba</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grant,+Warden+of+the+Plains+Murray+Adaskin&amp;search_field=search</field>
+</doc>
+</add>

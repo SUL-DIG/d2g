@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101481</field>
+<field name="genre">Operas</field>
+<field name="title">Severo Torelli</field>
+<field name="titleSort">Severo Torelli</field>
+<field name="composer">Salvatore Auteri-Manzocchi</field>
+<field name="composerSort">Auteri-Manzocchi, Salvatore</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Michele Auteri-Pomar</field>
+<field name="librettistSort">Auteri-Pomar, Michele</field>
+<field name="theater">Teatro Duse</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Severo+Torelli+Salvatore+Auteri-Manzocchi&amp;search_field=search</field>
+</doc>
+</add>

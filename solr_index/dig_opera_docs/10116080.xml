@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116080</field>
+<field name="genre">Operas</field>
+<field name="title">Ariadne auf Naxos</field>
+<field name="titleSort">Ariadne auf Naxos</field>
+<field name="composer">Bernhard Klein</field>
+<field name="composerSort">Klein, Bernhard</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariadne+auf+Naxos+Bernhard+Klein&amp;search_field=search</field>
+</doc>
+</add>

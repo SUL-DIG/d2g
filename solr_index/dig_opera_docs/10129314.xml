@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129314</field>
+<field name="genre">Operas</field>
+<field name="title">Cesta za hvezdou (Journey to a Star)</field>
+<field name="titleSort">Cesta za hvezdou (Journey to a Star)</field>
+<field name="composer">Jirí Smutný</field>
+<field name="composerSort">Smutný, Jirí</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Josef Melc</field>
+<field name="librettistSort">Melc, Josef</field>
+<field name="librettist">[Jean-Marcel Bruller] Vercors</field>
+<field name="librettistSort">Vercors, [Jean-Marcel Bruller]</field>
+<field name="theater">Czech Radio</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesta+za+hvezdou+Journey+to+a+Star+Jirí+Smutný&amp;search_field=search</field>
+</doc>
+</add>

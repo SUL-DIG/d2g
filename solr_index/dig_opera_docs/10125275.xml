@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125275</field>
+<field name="genre">Operas</field>
+<field name="title">The Pyramid</field>
+<field name="titleSort">Pyramid</field>
+<field name="composer">Charles Puerner</field>
+<field name="composerSort">Puerner, Charles</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">H. Wayne Ellis</field>
+<field name="librettistSort">Ellis, H. Wayne</field>
+<field name="librettist">Charles Puerner</field>
+<field name="librettistSort">Puerner, Charles</field>
+<field name="theater">Star Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pyramid+Charles+Puerner&amp;search_field=search</field>
+</doc>
+</add>

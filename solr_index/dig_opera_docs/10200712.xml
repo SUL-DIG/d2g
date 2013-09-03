@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200712</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La conversione di Sant' Ignazio</field>
+		<field name="titleSort">conversione di Sant' Ignazio</field>
+		<field name="year">1740</field>
+		
+		
+		<field name="date">1740</field>
+		<field name="composer">Karl Louis Peter Grua</field>
+		<field name="composerSort">Grua, Karl Louis Peter</field>
+		<field name="librettist">Lorenzo Santorini</field>
+		<field name="librettistSort">Santorini, Lorenzo</field>
+		
+		<field name="theater">Cappella elettorale Palatina</field>
+		<field name="city">Mannheim</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Saint Ignatius</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">October 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversione+di+Sant'+Ignazio+Karl+Louis+Peter+Grua&amp;search_field=search</field>
+	</doc></add>

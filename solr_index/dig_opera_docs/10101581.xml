@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101581</field>
+<field name="genre">Operas</field>
+<field name="title">Tranfjädrarna (The Crane Feathers)</field>
+<field name="titleSort">Tranfjädrarna (The Crane Feathers)</field>
+<field name="composer">Sven-Erik Bäck</field>
+<field name="composerSort">Bäck, Sven-Erik</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Bertil Malmberg</field>
+<field name="librettistSort">Malmberg, Bertil</field>
+<field name="librettist">Juniji Kinoshita</field>
+<field name="librettistSort">Kinoshita, Juniji</field>
+<field name="theater">SR Radio (Sveriges Radio)</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tranfjädrarna+The+Crane+Feathers+Sven-Erik+Bäck&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130947</field>
+<field name="genre">Operas</field>
+<field name="title">Leonardo</field>
+<field name="titleSort">Leonardo</field>
+<field name="composer">Thomas Pearsall Thorne</field>
+<field name="composerSort">Thorne, Thomas Pearsall</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Gilbert Burgess</field>
+<field name="librettistSort">Burgess, Gilbert</field>
+<field name="theater">Garrick Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonardo+Thomas+Pearsall+Thorne&amp;search_field=search</field>
+</doc>
+</add>

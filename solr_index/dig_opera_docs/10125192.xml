@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125192</field>
+<field name="genre">Operas</field>
+<field name="title">Il Castruccio</field>
+<field name="titleSort">Castruccio</field>
+<field name="composer">Antonio Puccini</field>
+<field name="composerSort">Puccini, Antonio</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Carlo Provenzali</field>
+<field name="librettistSort">Provenzali, Carlo</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Castruccio+Antonio+Puccini&amp;search_field=search</field>
+</doc>
+</add>

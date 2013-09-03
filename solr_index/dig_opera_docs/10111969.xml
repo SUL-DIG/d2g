@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111969</field>
+<field name="genre">Operas</field>
+<field name="title">Morel</field>
+<field name="titleSort">Morel</field>
+<field name="composer">Salvador Giner y Vidal</field>
+<field name="composerSort">Vidal, Salvador Giner y</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Antonino Chocomeli Codina</field>
+<field name="librettistSort">Chocomeli Codina, Antonino</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Valencia</field>
+<field name="region">Valencia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morel+Salvador+Giner+y+Vidal&amp;search_field=search</field>
+</doc>
+</add>

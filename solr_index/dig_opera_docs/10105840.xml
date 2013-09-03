@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105840</field>
+<field name="genre">Operas</field>
+<field name="title">Blomsten og forræderiet</field>
+<field name="titleSort">Blomsten og forræderiet</field>
+<field name="composer">Henning Christiansen</field>
+<field name="composerSort">Christiansen, Henning</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Peter Thorsboe</field>
+<field name="librettistSort">Thorsboe, Peter</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">DR Television (Danmarks Radio)</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blomsten+og+forræderiet+Henning+Christiansen&amp;search_field=search</field>
+</doc>
+</add>

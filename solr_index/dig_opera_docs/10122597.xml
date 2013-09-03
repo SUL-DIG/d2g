@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122597</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori di Aci e Galatea</field>
+<field name="titleSort">amori di Aci e Galatea</field>
+<field name="composer">Santi Orlandi</field>
+<field name="composerSort">Orlandi, Santi</field>
+<field name="year">1615</field>
+<field name="date">1615</field>
+<field name="librettist">Gabriello Chiabrera</field>
+<field name="librettistSort">Chiabrera, Gabriello</field>
+
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+Aci+e+Galatea+Santi+Orlandi&amp;search_field=search</field>
+</doc>
+</add>

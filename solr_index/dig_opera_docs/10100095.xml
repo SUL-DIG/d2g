@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100095</field>
+<field name="genre">Operas</field>
+<field name="title">Godefroi van Bouillon</field>
+<field name="titleSort">Godefroi van Bouillon</field>
+<field name="composer">Paul d'Acosta</field>
+<field name="composerSort">d'Acosta, Paul</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Constant Fréderix</field>
+<field name="librettistSort">Fréderix, Constant</field>
+<field name="theater">Vlaamse Opera</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Godefroi+van+Bouillon+Paul+d'Acosta&amp;search_field=search</field>
+</doc>
+</add>

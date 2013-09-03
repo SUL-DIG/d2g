@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101537</field>
+<field name="genre">Operas</field>
+<field name="title">Amadis de Gaule</field>
+<field name="titleSort">Amadis de Gaule</field>
+<field name="composer">Johann Christian Bach</field>
+<field name="composerSort">Bach, Johann Christian</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Alphonse-Marie-Denis Devismes de Saint-Alphonse</field>
+<field name="librettistSort">Devismes de Saint-Alphonse, Alphonse-Marie-Denis</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amadis+de+Gaule+Johann+Christian+Bach&amp;search_field=search</field>
+</doc>
+</add>

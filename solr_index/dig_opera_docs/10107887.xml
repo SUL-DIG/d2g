@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107887</field>
+<field name="genre">Operas</field>
+<field name="title">Tante Simona</field>
+<field name="titleSort">Tante Simona</field>
+<field name="composer">Ernst von Dohnányi</field>
+<field name="composerSort">Dohnányi, Ernst von</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Viktor Heindl</field>
+<field name="librettistSort">Heindl, Viktor</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tante+Simona+Ernst+von+Dohnányi&amp;search_field=search</field>
+</doc>
+</add>

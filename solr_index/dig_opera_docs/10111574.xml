@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111574</field>
+<field name="genre">Operas</field>
+<field name="title">Elpino</field>
+<field name="titleSort">Elpino</field>
+<field name="composer">Bernardo Geraci</field>
+<field name="composerSort">Geraci, Bernardo</field>
+<field name="year">1843</field>
+<field name="date">1843</field><field name="theater">Conservatorio</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elpino+Bernardo+Geraci&amp;search_field=search</field>
+</doc>
+</add>

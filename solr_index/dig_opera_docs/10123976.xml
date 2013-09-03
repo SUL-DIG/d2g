@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123976</field>
+<field name="genre">Operas</field>
+<field name="title">I promessi sposi</field>
+<field name="titleSort">promessi sposi</field>
+<field name="composer">Errico Petrella</field>
+<field name="composerSort">Petrella, Errico</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="librettist">Alessandro Manzoni</field>
+<field name="librettistSort">Manzoni, Alessandro</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Lecco</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+promessi+sposi+Errico+Petrella&amp;search_field=search</field>
+</doc>
+</add>

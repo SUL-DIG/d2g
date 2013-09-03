@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103161</field>
+<field name="genre">Operas</field>
+<field name="title">Das Märchen vom Glücke</field>
+<field name="titleSort">Märchen vom Glücke</field>
+<field name="composer">Theodor Blanck</field>
+<field name="composerSort">Blanck, Theodor</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Max Neal</field>
+<field name="librettistSort">Neal, Max</field>
+<field name="theater">Bellevue-Theater</field>
+<field name="city">Szczecin</field>
+<field name="region">Zachodniopomorskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Märchen+vom+Glücke+Theodor+Blanck&amp;search_field=search</field>
+</doc>
+</add>

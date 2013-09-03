@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123459</field>
+<field name="genre">Operas</field>
+<field name="title">La maisonnette dans les bois</field>
+<field name="titleSort">maisonnette dans les bois</field>
+<field name="composer">Jean-Englebert Pauwels</field>
+<field name="composerSort">Pauwels, Jean-Englebert</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">François-Guillaume Ducray-Duminil</field>
+<field name="librettistSort">Ducray-Duminil, François-Guillaume</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maisonnette+dans+les+bois+Jean-Englebert+Pauwels&amp;search_field=search</field>
+</doc>
+</add>

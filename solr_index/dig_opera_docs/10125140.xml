@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125140</field>
+<field name="genre">Operas</field>
+<field name="title">Ognennïy angel (The Fiery Angel)</field>
+<field name="titleSort">Ognennïy angel (The Fiery Angel)</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Valery Yakovlevich Bryusov</field>
+<field name="librettistSort">Bryusov, Valery Yakovlevich</field>
+<field name="theater">RTF Radio (Radio-Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ognennïy+angel+The+Fiery+Angel+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

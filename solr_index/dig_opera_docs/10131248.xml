@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131248</field>
+<field name="genre">Operas</field>
+<field name="title">I promessi sposi</field>
+<field name="titleSort">promessi sposi</field>
+<field name="composer">Andrea Traventi</field>
+<field name="composerSort">Traventi, Andrea</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Pietro Micheletti</field>
+<field name="librettistSort">Micheletti, Pietro</field>
+<field name="librettist">Leone Emanuele Bardare</field>
+<field name="librettistSort">Bardare, Leone Emanuele</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+promessi+sposi+Andrea+Traventi&amp;search_field=search</field>
+</doc>
+</add>

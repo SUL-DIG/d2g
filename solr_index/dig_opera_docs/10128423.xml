@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128423</field>
+<field name="genre">Operas</field>
+<field name="title">Walther von der Vogelweide</field>
+<field name="titleSort">Walther von der Vogelweide</field>
+<field name="composer">Franz Schöpf</field>
+<field name="composerSort">Schöpf, Franz</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Ludwig Kommonda</field>
+<field name="librettistSort">Kommonda, Ludwig</field>
+<field name="theater">Katholischer Gesellenverein</field>
+<field name="city">Bolzano</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walther+von+der+Vogelweide+Franz+Schöpf&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113306</field>
+<field name="genre">Operas</field>
+<field name="title">Les fileuses</field>
+<field name="titleSort">fileuses</field>
+<field name="composer">Charles Haenni</field>
+<field name="composerSort">Haenni, Charles</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Pierre Vallette</field>
+<field name="librettistSort">Vallette, Pierre</field>
+
+<field name="city">Sierre</field>
+<field name="region">Valais</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fileuses+Charles+Haenni&amp;search_field=search</field>
+</doc>
+</add>

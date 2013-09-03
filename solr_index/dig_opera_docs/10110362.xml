@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110362</field>
+<field name="genre">Operas</field>
+<field name="title">Notte di leggenda</field>
+<field name="titleSort">Notte di leggenda</field>
+<field name="composer">Alberto Franchetti</field>
+<field name="composerSort">Franchetti, Alberto</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Giovacchino Forzano</field>
+<field name="librettistSort">Forzano, Giovacchino</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notte+di+leggenda+Alberto+Franchetti&amp;search_field=search</field>
+</doc>
+</add>

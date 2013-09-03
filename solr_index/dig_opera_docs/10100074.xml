@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100074</field>
+<field name="genre">Operas</field>
+<field name="title">Il regno delle Amazoni</field>
+<field name="titleSort">regno delle Amazoni</field>
+<field name="composer">Agostino Accorimboni</field>
+<field name="composerSort">Accorimboni, Agostino</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+regno+delle+Amazoni+Agostino+Accorimboni&amp;search_field=search</field>
+</doc>
+</add>

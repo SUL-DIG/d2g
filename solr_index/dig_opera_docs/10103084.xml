@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103084</field>
+<field name="genre">Operas</field>
+<field name="title">The Doom-kiss</field>
+<field name="titleSort">Doom-kiss</field>
+<field name="composer">Henry Bishop</field>
+<field name="composerSort">Bishop, Henry</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Isaac Pocock</field>
+<field name="librettistSort">Pocock, Isaac</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Doom-kiss+Henry+Bishop&amp;search_field=search</field>
+</doc>
+</add>

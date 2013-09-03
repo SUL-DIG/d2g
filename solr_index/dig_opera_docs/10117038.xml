@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117038</field>
+<field name="genre">Operas</field>
+<field name="title">L'habit de César</field>
+<field name="titleSort">habit de César</field>
+<field name="composer">Oscar de Lagoanère</field>
+<field name="composerSort">Lagoanère, Oscar de</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Gustave Vattier</field>
+<field name="librettistSort">Vattier, Gustave</field>
+<field name="librettist">Léon Morand</field>
+<field name="librettistSort">Morand, Léon</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'habit+de+César+Oscar+de+Lagoanère&amp;search_field=search</field>
+</doc>
+</add>

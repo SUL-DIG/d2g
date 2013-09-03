@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125631</field>
+<field name="genre">Operas</field>
+<field name="title">Dobrïye soldatï (The Good Soldiers)</field>
+<field name="titleSort">Dobrïye soldatï (The Good Soldiers)</field>
+<field name="composer">Hermann Friedrich Raupach</field>
+<field name="composerSort">Raupach, Hermann Friedrich</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Mikhail Kheraskov</field>
+<field name="librettistSort">Kheraskov, Mikhail</field>
+<field name="theater">Orphanage</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dobrïye+soldatï+The+Good+Soldiers+Hermann+Friedrich+Raupach&amp;search_field=search</field>
+</doc>
+</add>

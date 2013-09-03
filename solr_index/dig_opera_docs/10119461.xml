@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119461</field>
+<field name="genre">Operas</field>
+<field name="title">Bon jour voisine</field>
+<field name="titleSort">Bon jour voisine</field>
+<field name="composer">Paul Marthe</field>
+<field name="composerSort">Marthe, Paul</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Pierre Chabuel</field>
+<field name="librettistSort">Chabuel, Pierre</field>
+
+<field name="city">Issoire</field>
+<field name="region">Puy-de-Dôme</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bon+jour+voisine+Paul+Marthe&amp;search_field=search</field>
+</doc>
+</add>

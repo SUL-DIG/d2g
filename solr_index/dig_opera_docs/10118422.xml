@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118422</field>
+<field name="genre">Operas</field>
+<field name="title">Les mille et une nuits</field>
+<field name="titleSort">mille et une nuits</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Daniel Ringold</field>
+<field name="librettistSort">Ringold, Daniel</field>
+<field name="librettist">Claude Dufresne</field>
+<field name="librettistSort">Dufresne, Claude</field>
+<field name="theater">Théâtre de l'Élysée-Montmartre</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+mille+et+une+nuits+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

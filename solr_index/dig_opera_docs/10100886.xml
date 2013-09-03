@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100886</field>
+<field name="genre">Operas</field>
+<field name="title">La ferme de Miramar</field>
+<field name="titleSort">ferme de Miramar</field>
+<field name="composer">Jules de Aoust</field>
+<field name="composerSort">Aoust, Jules de</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">[Charles-Victor-Arthur Michel] Arthur Saint-Léon</field>
+<field name="librettistSort">Saint-Léon, Arthur [Charles-Victor-Arthur Michel]</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ferme+de+Miramar+Jules+de+Aoust&amp;search_field=search</field>
+</doc>
+</add>

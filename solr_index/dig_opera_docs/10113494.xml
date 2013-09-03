@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113494</field>
+<field name="genre">Operas</field>
+<field name="title">Nero</field>
+<field name="titleSort">Nero</field>
+<field name="composer">George Frideric Handel</field>
+<field name="composerSort">Handel, George Frideric</field>
+<field name="year">1705</field>
+<field name="date">1705</field>
+<field name="librettist">Friedrich Christian Feustking</field>
+<field name="librettistSort">Feustking, Friedrich Christian</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nero+George+Frideric+Handel&amp;search_field=search</field>
+</doc>
+</add>

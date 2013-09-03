@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121188</field>
+<field name="genre">Operas</field>
+<field name="title">La serva riconoscente</field>
+<field name="titleSort">serva riconoscente</field>
+<field name="composer">António Leal Moreira</field>
+<field name="composerSort">Moreira, António Leal</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+serva+riconoscente+António+Leal+Moreira&amp;search_field=search</field>
+</doc>
+</add>

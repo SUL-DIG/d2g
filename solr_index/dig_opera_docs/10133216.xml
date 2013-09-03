@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133216</field>
+<field name="genre">Operas</field>
+<field name="title">Don Juans Sohn</field>
+<field name="titleSort">Don Juans Sohn</field>
+<field name="composer">Hermann Wunsch</field>
+<field name="composerSort">Wunsch, Hermann</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Herman Wunsch</field>
+<field name="librettistSort">Wunsch, Herman</field>
+<field name="librettist">__ Almquist-Hauser</field>
+<field name="librettistSort">Almquist-Hauser, __</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Juans+Sohn+Hermann+Wunsch&amp;search_field=search</field>
+</doc>
+</add>

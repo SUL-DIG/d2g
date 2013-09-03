@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118812</field>
+<field name="genre">Operas</field>
+<field name="title">The Eve of St. John</field>
+<field name="titleSort">Eve of St. John</field>
+<field name="composer">Alexander Mackenzie</field>
+<field name="composerSort">Mackenzie, Alexander</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Eleanor Farjeon</field>
+<field name="librettistSort">Farjeon, Eleanor</field>
+
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Eve+of+St.+John+Alexander+Mackenzie&amp;search_field=search</field>
+</doc>
+</add>

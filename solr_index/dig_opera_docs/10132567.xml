@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132567</field>
+<field name="genre">Operas</field>
+<field name="title">Fiorella</field>
+<field name="titleSort">Fiorella</field>
+<field name="composer">Amherst Webber</field>
+<field name="composerSort">Webber, Amherst</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="librettist">Pierre-Barthélmy Gheusi</field>
+<field name="librettistSort">Gheusi, Pierre-Barthélmy</field>
+<field name="theater">Waldorf Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiorella+Amherst+Webber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132402</field>
+<field name="genre">Operas</field>
+<field name="title">Der fliegende Holländer</field>
+<field name="titleSort">fliegende Holländer</field>
+<field name="composer">Richard Wagner</field>
+<field name="composerSort">Wagner, Richard</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Richard Wagner</field>
+<field name="librettistSort">Wagner, Richard</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+fliegende+Holländer+Richard+Wagner&amp;search_field=search</field>
+</doc>
+</add>

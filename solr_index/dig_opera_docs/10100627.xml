@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100627</field>
+<field name="genre">Operas</field>
+<field name="title">Ukradené stesí (Stolen Happiness)</field>
+<field name="titleSort">Ukradené stesí (Stolen Happiness)</field>
+<field name="composer">Vladimir Ambros</field>
+<field name="composerSort">Ambros, Vladimir</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Jana Zahradnikova-Krapková</field>
+<field name="librettistSort">Zahradnikova-Krapková, Jana</field>
+<field name="librettist">Ivo Frank</field>
+<field name="librettistSort">Frank, Ivo</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ukradené+stesí+Stolen+Happiness+Vladimir+Ambros&amp;search_field=search</field>
+</doc>
+</add>

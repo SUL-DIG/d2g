@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109204</field>
+<field name="genre">Operas</field>
+<field name="title">La viva sepolta</field>
+<field name="titleSort">viva sepolta</field>
+<field name="composer">Filippo Falangola</field>
+<field name="composerSort">Falangola, Filippo</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Giovanni Emanuele Bidera</field>
+<field name="librettistSort">Bidera, Giovanni Emanuele</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+viva+sepolta+Filippo+Falangola&amp;search_field=search</field>
+</doc>
+</add>

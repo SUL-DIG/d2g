@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125848</field>
+<field name="genre">Operas</field>
+<field name="title">La Mandragola</field>
+<field name="titleSort">Mandragola</field>
+<field name="composer">Vittorio Renda</field>
+<field name="composerSort">Renda, Vittorio</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Niccolò Machiavelli</field>
+<field name="librettistSort">Machiavelli, Niccolò</field>
+<field name="theater">Teatro Scribe</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Mandragola+Vittorio+Renda&amp;search_field=search</field>
+</doc>
+</add>

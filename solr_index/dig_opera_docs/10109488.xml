@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109488</field>
+<field name="genre">Operas</field>
+<field name="title">Neither</field>
+<field name="titleSort">Neither</field>
+<field name="composer">Morton Feldman</field>
+<field name="composerSort">Feldman, Morton</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistSort">Beckett, Samuel</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Neither+Morton+Feldman&amp;search_field=search</field>
+</doc>
+</add>

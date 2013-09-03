@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128695</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro nell'Indie</field>
+<field name="titleSort">Alessandro nell'Indie</field>
+<field name="composer">Gregorio Sciroli</field>
+<field name="composerSort">Sciroli, Gregorio</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+nell'Indie+Gregorio+Sciroli&amp;search_field=search</field>
+</doc>
+</add>

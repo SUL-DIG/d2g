@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124513</field>
+<field name="genre">Operas</field>
+<field name="title">Ein alter Junggeselle</field>
+<field name="titleSort">alter Junggeselle</field>
+<field name="composer">Karl Pleininger</field>
+<field name="composerSort">Pleininger, Karl</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Josef Kohlofer</field>
+<field name="librettistSort">Kohlofer, Josef</field>
+<field name="theater">Rudolfsheimer Volkstheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+alter+Junggeselle+Karl+Pleininger&amp;search_field=search</field>
+</doc>
+</add>

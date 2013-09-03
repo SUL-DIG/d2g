@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101843</field>
+<field name="genre">Operas</field>
+<field name="title">La pacha</field>
+<field name="titleSort">pacha</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">[Alexandre Beaume] Beaumont</field>
+<field name="librettistSort">Beaumont, [Alexandre Beaume]</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pacha+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

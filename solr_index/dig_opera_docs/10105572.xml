@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105572</field>
+<field name="genre">Operas</field>
+<field name="title">Les rivaux d'un moment</field>
+<field name="titleSort">rivaux d'un moment</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Jean-François-Jacques Corsange de la Plante</field>
+<field name="librettistSort">Corsange de la Plante, Jean-François-Jacques</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+rivaux+d'un+moment+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

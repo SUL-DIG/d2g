@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120400</field>
+<field name="genre">Operas</field>
+<field name="title">De Vergissing</field>
+<field name="titleSort">Vergissing</field>
+<field name="composer">Joseph Mertens</field>
+<field name="composerSort">Mertens, Joseph</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Paul Billier</field>
+<field name="librettistSort">Billier, Paul</field>
+<field name="theater">Nederlandsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Vergissing+Joseph+Mertens&amp;search_field=search</field>
+</doc>
+</add>

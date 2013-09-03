@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127849</field>
+<field name="genre">Operas</field>
+<field name="title">Galatea</field>
+<field name="titleSort">Galatea</field>
+<field name="composer">Antonio Savasta</field>
+<field name="composerSort">Savasta, Antonio</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Giuseppe Villaroel</field>
+<field name="librettistSort">Villaroel, Giuseppe</field>
+<field name="librettist">Gioacchino Di Stefano</field>
+<field name="librettistSort">Di Stefano, Gioacchino</field>
+<field name="theater">Teatro Massimo Bellini</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galatea+Antonio+Savasta&amp;search_field=search</field>
+</doc>
+</add>

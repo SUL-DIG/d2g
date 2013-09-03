@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116230</field>
+<field name="genre">Operas</field>
+<field name="title">Sina ja kookospuu (Sina and the Coconut Palm)</field>
+<field name="titleSort">Sina ja kookospuu (Sina and the Coconut Palm)</field>
+<field name="composer">Oliver Kohlenberg</field>
+<field name="composerSort">Kohlenberg, Oliver</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Oliver Kohlenberg</field>
+<field name="librettistSort">Kohlenberg, Oliver</field>
+<field name="theater">Kaukametsä Hall</field>
+<field name="city">Kajaani</field>
+<field name="region">Oulun</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sina+ja+kookospuu+Sina+and+the+Coconut+Palm+Oliver+Kohlenberg&amp;search_field=search</field>
+</doc>
+</add>

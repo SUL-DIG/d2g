@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128042</field>
+<field name="genre">Operas</field>
+<field name="title">"L'Orlando, ovvero La gelosa pazzia</field>
+<field name="titleSort">"Orlando, ovvero La gelosa pazzia"</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Carlo Sigismondo Capece</field>
+<field name="librettistSort">Capece, Carlo Sigismondo</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Palazzo Zuccari</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Orlando,+ovvero+La+gelosa+pazzia+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

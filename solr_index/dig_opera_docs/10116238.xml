@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116238</field>
+<field name="genre">Operas</field>
+<field name="title">Viimeiset Kiusaukset (The Last Temptations)</field>
+<field name="titleSort">Viimeiset Kiusaukset (The Last Temptations)</field>
+<field name="composer">Joonas Kokkonen</field>
+<field name="composerSort">Kokkonen, Joonas</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Lauri Kokkonen</field>
+<field name="librettistSort">Kokkonen, Lauri</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viimeiset+Kiusaukset+The+Last+Temptations+Joonas+Kokkonen&amp;search_field=search</field>
+</doc>
+</add>

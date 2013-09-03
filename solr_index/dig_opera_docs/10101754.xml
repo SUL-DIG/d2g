@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101754</field>
+<field name="genre">Operas</field>
+<field name="title">Lord Byron's Love Letter</field>
+<field name="titleSort">Lord Byron's Love Letter</field>
+<field name="composer">Raffaelo de Banfield</field>
+<field name="composerSort">Banfield, Raffaelo de</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">[Thomas Lanier Williams] Tennessee Williams</field>
+<field name="librettistSort">Williams, Tennessee [Thomas Lanier Williams]</field>
+<field name="theater">Tulane University</field>
+<field name="city">New Orleans</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lord+Byron's+Love+Letter+Raffaelo+de+Banfield&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107270</field>
+<field name="genre">Operas</field>
+<field name="title">Il cadetto di Guascogna</field>
+<field name="titleSort">cadetto di Guascogna</field>
+<field name="composer">Serafino De Ferrari</field>
+<field name="composerSort">Ferrari, Serafino De</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Raffaele Berninzone</field>
+<field name="librettistSort">Berninzone, Raffaele</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cadetto+di+Guascogna+Serafino+De+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

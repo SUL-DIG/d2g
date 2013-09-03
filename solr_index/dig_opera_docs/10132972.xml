@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132972</field>
+<field name="genre">Operas</field>
+<field name="title">Dunstan and the Devil</field>
+<field name="titleSort">Dunstan and the Devil</field>
+<field name="composer">Malcolm Williamson</field>
+<field name="composerSort">Williamson, Malcolm</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Geoffrey Dunn</field>
+<field name="librettistSort">Dunn, Geoffrey</field>
+<field name="theater">Holy Trinity Church</field>
+<field name="city">Cookham</field>
+<field name="region">Berkshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dunstan+and+the+Devil+Malcolm+Williamson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202981</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Nit de Nadal</field>
+		<field name="titleSort">Nit de Nadal</field>
+		<field name="year">1902</field>
+		
+		
+		<field name="date">1902</field>
+		<field name="composer">Joan Lamote de Grignon</field>
+		<field name="composerSort">Lamote de Grignon, Joan</field>
+		<field name="librettist">Francesc Casa i Amigó</field>
+		<field name="librettistSort">Casa i Amigó, Francesc</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Nit+de+Nadal+Joan+Lamote+de+Grignon&amp;search_field=search</field>
+	</doc></add>

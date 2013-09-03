@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132824</field>
+<field name="genre">Operas</field>
+<field name="title">Rumpelstilzchen</field>
+<field name="titleSort">Rumpelstilzchen</field>
+<field name="composer">Eberhard Werdin</field>
+<field name="composerSort">Werdin, Eberhard</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Eberhard Werdin</field>
+<field name="librettistSort">Werdin, Eberhard</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Städtische Musikschule</field>
+<field name="city">Leverkusen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstilzchen+Eberhard+Werdin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110675</field>
+<field name="genre">Operas</field>
+<field name="title">The Isle of Champagne</field>
+<field name="titleSort">Isle of Champagne</field>
+<field name="composer">William Furst</field>
+<field name="composerSort">Furst, William</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Charles Alfred Byrne</field>
+<field name="librettistSort">Byrne, Charles Alfred</field>
+<field name="theater">Manhattan Opera House</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Isle+of+Champagne+William+Furst&amp;search_field=search</field>
+</doc>
+</add>

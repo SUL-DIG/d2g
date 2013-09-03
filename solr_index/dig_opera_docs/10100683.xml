@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100683</field>
+<field name="genre">Operas</field>
+<field name="title">Der Liebhaber als Automat</field>
+<field name="titleSort">Liebhaber als Automat</field>
+<field name="composer">Johann André</field>
+<field name="composerSort">André, Johann</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Johann André</field>
+<field name="librettistSort">André, Johann</field>
+<field name="librettist">__ Cuinet-Dorbeil</field>
+<field name="librettistSort">Cuinet-Dorbeil, __</field>
+<field name="theater">Theater in der Behrenstrasse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Liebhaber+als+Automat+Johann+André&amp;search_field=search</field>
+</doc>
+</add>

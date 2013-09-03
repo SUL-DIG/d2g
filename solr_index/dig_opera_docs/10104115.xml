@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104115</field>
+<field name="genre">Operas</field>
+<field name="title">Die Teeprinzessin</field>
+<field name="titleSort">Teeprinzessin</field>
+<field name="composer">Simon Breu</field>
+<field name="composerSort">Breu, Simon</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Elisabeth Dauthendey</field>
+<field name="librettistSort">Dauthendey, Elisabeth</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Würzburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Teeprinzessin+Simon+Breu&amp;search_field=search</field>
+</doc>
+</add>

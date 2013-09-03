@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101201</field>
+<field name="genre">Operas</field>
+<field name="title">O segredo do tio Vicente</field>
+<field name="titleSort">segredo do tio Vicente</field>
+<field name="composer">José Francisco Arroyo</field>
+<field name="composerSort">Arroyo, José Francisco</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">António Coelho Lousada</field>
+<field name="librettistSort">Lousada, António Coelho</field>
+<field name="theater">Teatro das Variedades</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+segredo+do+tio+Vicente+José+Francisco+Arroyo&amp;search_field=search</field>
+</doc>
+</add>

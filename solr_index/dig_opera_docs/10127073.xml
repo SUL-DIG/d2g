@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127073</field>
+<field name="genre">Operas</field>
+<field name="title">Colma</field>
+<field name="titleSort">Colma</field>
+<field name="composer">Friedrich Wilhelm Rust</field>
+<field name="composerSort">Rust, Friedrich Wilhelm</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">[James Macpherson] Ossian</field>
+<field name="librettistSort">Ossian, [James Macpherson]"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Colma+Friedrich+Wilhelm+Rust&amp;search_field=search</field>
+</doc>
+</add>

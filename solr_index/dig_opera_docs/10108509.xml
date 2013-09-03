@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108509</field>
+<field name="genre">Operas</field>
+<field name="title">Le château de la Bretêche</field>
+<field name="titleSort">château de la Bretêche</field>
+<field name="composer">Albert Dupuis</field>
+<field name="composerSort">Dupuis, Albert</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Jacques Dor</field>
+<field name="librettistSort">Dor, Jacques</field>
+<field name="librettist">Paul Milliet</field>
+<field name="librettistSort">Milliet, Paul</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+château+de+la+Bretêche+Albert+Dupuis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111055</field>
+<field name="genre">Operas</field>
+<field name="title">El hijo del mar</field>
+<field name="titleSort">hijo del mar</field>
+<field name="composer">Juan García Catalá</field>
+<field name="composerSort">Catalá, Juan García</field>
+
+
+<field name="librettist">José Zalvidar</field>
+<field name="librettistSort">Zalvidar, José</field>
+<field name="theater">Teatro Parish</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+hijo+del+mar+Juan+García+Catalá&amp;search_field=search</field>
+</doc>
+</add>

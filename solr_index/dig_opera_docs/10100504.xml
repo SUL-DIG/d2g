@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100504</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della pace</field>
+<field name="titleSort">trionfo della pace</field>
+<field name="composer">Giuseppe Alfiero</field>
+<field name="composerSort">Alfiero, Giuseppe</field>
+<field name="year">1658</field>
+<field name="date">1658</field>
+<field name="librettist">Giuseppe Castaldo</field>
+<field name="librettistSort">Castaldo, Giuseppe</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+pace+Giuseppe+Alfiero&amp;search_field=search</field>
+</doc>
+</add>

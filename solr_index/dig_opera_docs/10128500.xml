@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128500</field>
+<field name="genre">Operas</field>
+<field name="title">Hosekræmmeren (The Stocking Peddler)</field>
+<field name="titleSort">Hosekræmmeren (The Stocking Peddler)</field>
+<field name="composer">Svend Simon Schultz</field>
+<field name="composerSort">Schultz, Svend Simon</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Mogens Balslev</field>
+<field name="librettistSort">Balslev, Mogens</field>
+<field name="librettist">Steen Steensen Blicher</field>
+<field name="librettistSort">Blicher, Steen Steensen</field>
+<field name="theater">Den Jyske Opera</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hosekræmmeren+The+Stocking+Peddler+Svend+Simon+Schultz&amp;search_field=search</field>
+</doc>
+</add>

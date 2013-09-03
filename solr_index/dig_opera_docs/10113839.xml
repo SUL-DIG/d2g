@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113839</field>
+<field name="genre">Operas</field>
+<field name="title">Love in Space</field>
+<field name="titleSort">Love in Space</field>
+<field name="composer">Sorrel Hays</field>
+<field name="composerSort">Hays, Sorrel</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Sorrel Hays</field>
+<field name="librettistSort">Hays, Sorrel</field>
+<field name="theater">WDR Radio (Westdeutscher Rundfunk)</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+in+Space+Sorrel+Hays&amp;search_field=search</field>
+</doc>
+</add>

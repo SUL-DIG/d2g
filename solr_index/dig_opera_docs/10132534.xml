@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132534</field>
+<field name="genre">Operas</field>
+<field name="title">"L'aveugle de Clarens, ou La vallée suisse</field>
+<field name="titleSort">"aveugle de Clarens, ou La vallée suisse"</field>
+<field name="composer">Charles Warot</field>
+<field name="composerSort">Warot, Charles</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>
+<field name="librettistSort">Sewrin, [Charles-Augustin Bassompierre]</field>
+<field name="librettist">Théophile Marion Dumersan</field>
+<field name="librettistSort">Dumersan, Théophile Marion</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aveugle+de+Clarens,+ou+La+vallée+suisse+Charles+Warot&amp;search_field=search</field>
+</doc>
+</add>

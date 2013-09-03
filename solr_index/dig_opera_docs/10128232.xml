@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128232</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro Stradella</field>
+<field name="titleSort">Alessandro Stradella</field>
+<field name="composer">Adolf Schimon</field>
+<field name="composerSort">Schimon, Adolf</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Leopoldo Cemini</field>
+<field name="librettistSort">Cemini, Leopoldo</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+Stradella+Adolf+Schimon&amp;search_field=search</field>
+</doc>
+</add>

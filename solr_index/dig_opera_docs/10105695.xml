@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105695</field>
+<field name="genre">Operas</field>
+<field name="title">Die Klage der Ariadne</field>
+<field name="titleSort">Klage der Ariadne</field>
+<field name="composer">Hans Chemin-Petit (jr.)</field>
+<field name="composerSort">Chemin-Petit (jr.), Hans</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Hans Chemin-Petit (jr.)</field>
+<field name="librettistSort">Chemin-Petit (jr.), Hans</field>
+<field name="librettist">Friedrich Nietzsche</field>
+<field name="librettistSort">Nietzsche, Friedrich</field>
+<field name="theater">Hochschule für Musik</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Klage+der+Ariadne+Hans+Chemin-Petit+jr.&amp;search_field=search</field>
+</doc>
+</add>

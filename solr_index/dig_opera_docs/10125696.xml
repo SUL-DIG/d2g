@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125696</field>
+<field name="genre">Operas</field>
+<field name="title">Il regno galante</field>
+<field name="titleSort">regno galante</field>
+<field name="composer">Giovanni Reali</field>
+<field name="composerSort">Reali, Giovanni</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Michelangelo Boccardi</field>
+<field name="librettistSort">Boccardi, Michelangelo</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+regno+galante+Giovanni+Reali&amp;search_field=search</field>
+</doc>
+</add>

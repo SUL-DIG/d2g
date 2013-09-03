@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102461</field>
+<field name="genre">Operas</field>
+<field name="title">Frühlingsmorgen</field>
+<field name="titleSort">Frühlingsmorgen</field>
+<field name="composer">E. Berger</field>
+<field name="composerSort">Berger, E.</field>
+<field name="year">1819</field>
+<field name="date">1819</field><field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frühlingsmorgen+E.+Berger&amp;search_field=search</field>
+</doc>
+</add>

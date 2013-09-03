@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110465</field>
+<field name="genre">Operas</field>
+<field name="title">The Martyr</field>
+<field name="titleSort">Martyr</field>
+<field name="composer">Lawrence Freeman</field>
+<field name="composerSort">Freeman, Lawrence</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Lawrence Freeman</field>
+<field name="librettistSort">Freeman, Lawrence</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Denver</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Martyr+Lawrence+Freeman&amp;search_field=search</field>
+</doc>
+</add>

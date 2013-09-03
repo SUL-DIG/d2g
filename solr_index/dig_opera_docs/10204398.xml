@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204398</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Streitbare und Siegende Gideon, Richter von Israel</field>
+		<field name="titleSort">Streitbare und Siegende Gideon, Richter von Israel</field>
+		<field name="year">1716</field>
+		
+		
+		<field name="date">1716</field>
+		<field name="composer">Johann Christian Schieferdecker</field>
+		<field name="composerSort">Schieferdecker, Johann Christian</field>
+		<field name="librettist">Michael Christoph Brandenburg</field>
+		<field name="librettistSort">Brandenburg, Michael Christ</field>
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Streitbare+und+Siegende+Gideon,+Richter+von+Israel+Johann+Christian+Schieferdecker&amp;search_field=search</field>
+	</doc></add>

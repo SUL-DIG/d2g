@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119755</field>
+<field name="genre">Operas</field>
+<field name="title">Philémon et Baucis</field>
+<field name="titleSort">Philémon et Baucis</field>
+<field name="composer">Jean-Baptiste Matho</field>
+<field name="composerSort">Matho, Jean-Baptiste</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Nicolas de Malézieu</field>
+<field name="librettistSort">Malézieu, Nicolas de</field>
+<field name="theater">Château de Châtenay</field>
+<field name="city">Sceaux</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Philémon+et+Baucis+Jean-Baptiste+Matho&amp;search_field=search</field>
+</doc>
+</add>

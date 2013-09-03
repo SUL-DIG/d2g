@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132779</field>
+<field name="genre">Operas</field>
+<field name="title">Gestörte Frequenzen</field>
+<field name="titleSort">Gestörte Frequenzen</field>
+<field name="composer">Harald Weiss</field>
+<field name="composerSort">Weiss, Harald</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Harald Weiss</field>
+<field name="librettistSort">Weiss, Harald</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gestörte+Frequenzen+Harald+Weiss&amp;search_field=search</field>
+</doc>
+</add>

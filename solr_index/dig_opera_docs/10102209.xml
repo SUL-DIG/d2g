@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102209</field>
+<field name="genre">Operas</field>
+<field name="title">Laius and Chrysippus</field>
+<field name="titleSort">Laius and Chrysippus</field>
+<field name="composer">Sam Belich</field>
+<field name="composerSort">Belich, Sam</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Sam Shirakawa</field>
+<field name="librettistSort">Shirakawa, Sam</field>
+<field name="librettist">Sam Belich</field>
+<field name="librettistSort">Belich, Sam</field>
+<field name="theater">Jesse Isador Strauss School</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laius+and+Chrysippus+Sam+Belich&amp;search_field=search</field>
+</doc>
+</add>

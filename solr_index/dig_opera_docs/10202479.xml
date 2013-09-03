@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202479</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der leidende Heiland</field>
+		<field name="titleSort">leidende Heiland</field>
+		<field name="year">1802</field>
+		
+		
+		<field name="date">1802</field>
+		<field name="composer">Friedrich Witt</field>
+		<field name="composerSort">Witt, Friedrich</field>
+		
+		
+		
+		<field name="city">Würzburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+leidende+Heiland+Friedrich+Witt&amp;search_field=search</field>
+	</doc></add>

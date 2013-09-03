@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202614</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Maria og Johannes</field>
+		<field name="titleSort">Maria og Johannes</field>
+		<field name="year">1789</field>
+		
+		
+		<field name="date">1789</field>
+		<field name="composer">Otto Karl Friedrich Wilhelm Schulz</field>
+		<field name="composerSort">Schulz, Otto Karl Friedrich Wilhelm </field>
+		<field name="librettist">Johann von Meyer</field>
+		<field name="librettistSort">Meyer, Johann von</field>
+		
+		<field name="theater">Christiansborg Slotteater</field>
+		<field name="city">Copenhagen</field>
+		<field name="region">Hovedstaden</field>
+		<field name="country">Denmark</field>
+		<field name="subject">Persons at the Foot of the Cross</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+og+Johannes+Otto+Karl+Friedrich+Wilhelm+Schulz&amp;search_field=search</field>
+	</doc></add>

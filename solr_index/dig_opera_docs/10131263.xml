@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131263</field>
+<field name="genre">Operas</field>
+<field name="title">Der Preis</field>
+<field name="titleSort">Preis</field>
+<field name="composer">Karl Ottomar Treibmann</field>
+<field name="composerSort">Treibmann, Karl Ottomar</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Harald Gerlach</field>
+<field name="librettistSort">Gerlach, Harald</field>
+<field name="theater">Schauspielhaus</field>
+<field name="city">Erfurt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Preis+Karl+Ottomar+Treibmann&amp;search_field=search</field>
+</doc>
+</add>

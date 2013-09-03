@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121980</field>
+<field name="genre">Operas</field>
+<field name="title">Durchlaucht Mirzl</field>
+<field name="titleSort">Durchlaucht Mirzl</field>
+<field name="composer">Alexander Neumann</field>
+<field name="composerSort">Neumann, Alexander</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">[Margarethe Langkammer] Richard Nordmann</field>
+<field name="librettistSort">Nordmann, Richard [Margarethe Langkammer]</field>
+
+<field name="city">Merano</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Durchlaucht+Mirzl+Alexander+Neumann&amp;search_field=search</field>
+</doc>
+</add>

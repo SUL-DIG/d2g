@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203205</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passion</field>
+		<field name="titleSort">passion</field>
+		<field name="year">1887</field>
+		
+		
+		<field name="date">1887</field>
+		<field name="composer">Paul-Lucien Hillemacher</field>
+		<field name="composerSort">Hillemacher, Paul-Lucien</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passion+Paul-Lucien+Hillemacher&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110546</field>
+<field name="genre">Operas</field>
+<field name="title">Prinzessin Herzensgut und Hexe Bitterbös</field>
+<field name="titleSort">Prinzessin Herzensgut und Hexe Bitterbös</field>
+<field name="composer">Karl Fridrich</field>
+<field name="composerSort">Fridrich, Karl</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Alfred Möller</field>
+<field name="librettistSort">Möller, Alfred</field>
+<field name="theater">Grosses Korsotheater</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinzessin+Herzensgut+und+Hexe+Bitterbös+Karl+Fridrich&amp;search_field=search</field>
+</doc>
+</add>

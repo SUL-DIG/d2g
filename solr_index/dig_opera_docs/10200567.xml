@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200567</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le chant des yeux</field>
+		<field name="titleSort">chant des yeux</field>
+		<field name="year">1987</field>
+		<field name="month">December</field>
+		
+		<field name="date">December 1987</field>
+		<field name="composer">Antoine Tisné</field>
+		<field name="composerSort">Tisné, Antoine</field>
+		<field name="librettist">David Niemann</field>
+		<field name="librettistSort">Niemann, David</field>
+		
+		<field name="theater">Orchestre Philharmonique de Radio France</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chant+des+yeux+Antoine+Tisné&amp;search_field=search</field>
+	</doc></add>

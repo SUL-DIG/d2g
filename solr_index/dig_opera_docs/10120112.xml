@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120112</field>
+<field name="genre">Operas</field>
+<field name="title">Horatius Coclès</field>
+<field name="titleSort">Horatius Coclès</field>
+<field name="composer">Étienne-Nicolas Méhul</field>
+<field name="composerSort">Méhul, Étienne-Nicolas</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Antoine-Vincent Arnault</field>
+<field name="librettistSort">Arnault, Antoine-Vincent</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Horatius+Coclès+Étienne-Nicolas+Méhul&amp;search_field=search</field>
+</doc>
+</add>

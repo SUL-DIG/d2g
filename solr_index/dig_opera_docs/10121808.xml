@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121808</field>
+<field name="genre">Operas</field>
+<field name="title">Merry Freaks in Troublous Times</field>
+<field name="titleSort">Merry Freaks in Troublous Times</field>
+<field name="composer">Isaac Nathan</field>
+<field name="composerSort">Nathan, Isaac</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Charles Nagel</field>
+<field name="librettistSort">Nagel, Charles</field>
+<field name="theater">Royal Hotel</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Merry+Freaks+in+Troublous+Times+Isaac+Nathan&amp;search_field=search</field>
+</doc>
+</add>

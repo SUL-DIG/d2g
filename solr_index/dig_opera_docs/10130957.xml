@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130957</field>
+<field name="genre">Operas</field>
+<field name="title">Theuerdank</field>
+<field name="titleSort">Theuerdank</field>
+<field name="composer">Ludwig Thuille</field>
+<field name="composerSort">Thuille, Ludwig</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Alexander Ritter</field>
+<field name="librettistSort">Ritter, Alexander</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Theuerdank+Ludwig+Thuille&amp;search_field=search</field>
+</doc>
+</add>

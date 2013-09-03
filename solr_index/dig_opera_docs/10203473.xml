@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203473</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La presentazione di Gesù</field>
+		<field name="titleSort">presentazione di Gesù</field>
+		<field name="year">1719</field>
+		
+		
+		<field name="date">1719</field>
+		<field name="composer">Guido Antonio Chiarini</field>
+		<field name="composerSort">Chiarini, Guido Antonio</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Circumcision</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+presentazione+di+Gesù+Guido+Antonio+Chiarini&amp;search_field=search</field>
+	</doc></add>

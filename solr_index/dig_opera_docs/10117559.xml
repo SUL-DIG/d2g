@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117559</field>
+<field name="genre">Operas</field>
+<field name="title">"Le mariage de Nanon, ou La suite de Madame Angot</field>
+<field name="titleSort">"mariage de Nanon, ou La suite de Madame Angot"</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Arthur François Eve</field>
+<field name="librettistSort">Eve, Arthur François</field>
+<field name="theater">Théâtre d'Emulation</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mariage+de+Nanon,+ou+La+suite+de+Madame+Angot+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

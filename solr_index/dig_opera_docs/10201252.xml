@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201252</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Fall Babylons</field>
+		<field name="titleSort">Fall Babylons</field>
+		<field name="year">1840</field>
+		<field name="month">April</field>
+		<field name="day">16</field>
+		<field name="date">April 16, 1840</field>
+		<field name="composer">Louis Spohr</field>
+		<field name="composerSort">Spohr, Louis</field>
+		<field name="librettist">Friedrich Oetker</field>
+		<field name="librettistSort">Oetker, Friedrich</field>
+		<field name="librettist">Edward Taylor</field>
+		<field name="librettistSort">Taylor, Edward</field>
+		
+		<field name="city">Kassel</field>
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Darius</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Fall+Babylons+Louis+Spohr&amp;search_field=search</field>
+	</doc></add>

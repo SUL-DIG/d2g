@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133468</field>
+<field name="genre">Operas</field>
+<field name="title">Hélène et Gabrielle</field>
+<field name="titleSort">Hélène et Gabrielle</field>
+<field name="composer">Isidore-François-Antoine Zérézo de Tejada</field>
+<field name="composerSort">Tejada, Isidore-François-Antoine Zérézo de</field>
+<field name="year">1848</field>
+<field name="date">1848</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Saint-Quentin</field>
+<field name="region">Aisne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hélène+et+Gabrielle+Isidore-François-Antoine+Zérézo+de+Tejada&amp;search_field=search</field>
+</doc>
+</add>

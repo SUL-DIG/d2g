@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111918</field>
+<field name="genre">Operas</field>
+<field name="title">"Les noces de la folie, ou Le temple de mémoire</field>
+<field name="titleSort">"noces de la folie, ou Le temple de mémoire"</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Louis Fuzelier</field>
+<field name="librettistSort">Fuzelier, Louis</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+noces+de+la+folie,+ou+Le+temple+de+mémoire+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108487</field>
+<field name="genre">Operas</field>
+<field name="title">La déese et le berger</field>
+<field name="titleSort">déese et le berger</field>
+<field name="composer">Jules Laurent Duprato</field>
+<field name="composerSort">Duprato, Jules Laurent</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Camille Du Locle</field>
+<field name="librettistSort">Du Locle, Camille</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+déese+et+le+berger+Jules+Laurent+Duprato&amp;search_field=search</field>
+</doc>
+</add>

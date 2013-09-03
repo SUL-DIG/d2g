@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203713</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrificio di Giefte</field>
+		<field name="titleSort">sacrificio di Giefte</field>
+		<field name="year">1764</field>
+		
+		
+		<field name="date">1764</field>
+		<field name="composer">Francesco Zannetti</field>
+		<field name="composerSort">Zannetti, Francesco</field>
+		<field name="librettist">AntonMaria Crescioli</field>
+		<field name="librettistSort">Crescioli, AntonMaria</field>
+		
+		
+		<field name="city">Cittа di Castello</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrificio+di+Giefte+Francesco+Zannetti&amp;search_field=search</field>
+	</doc></add>

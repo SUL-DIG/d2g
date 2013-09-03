@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105172</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore industrioso</field>
+<field name="titleSort">amore industrioso</field>
+<field name="composer">João de Sousa Carvalho</field>
+<field name="composerSort">Carvalho, João de Sousa</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Gaetano Casorri</field>
+<field name="librettistSort">Casorri, Gaetano</field>
+<field name="theater">Palácio de Ajuda</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+industrioso+João+de+Sousa+Carvalho&amp;search_field=search</field>
+</doc>
+</add>

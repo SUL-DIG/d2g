@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119814</field>
+<field name="genre">Operas</field>
+<field name="title">Julia i Romeo</field>
+<field name="titleSort">Julia i Romeo</field>
+<field name="composer">Bernadetta Matuszczak</field>
+<field name="composerSort">Matuszczak, Bernadetta</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Bernadetta Matuszczak</field>
+<field name="librettistSort">Matuszczak, Bernadetta</field>
+<field name="librettist">Jaroslaw Iwaszkiewicz</field>
+<field name="librettistSort">Iwaszkiewicz, Jaroslaw</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julia+i+Romeo+Bernadetta+Matuszczak&amp;search_field=search</field>
+</doc>
+</add>

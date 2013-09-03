@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104040</field>
+<field name="genre">Operas</field>
+<field name="title">Galathea</field>
+<field name="titleSort">Galathea</field>
+<field name="composer">Walter Braunfels</field>
+<field name="composerSort">Braunfels, Walter</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Walter Braunfels</field>
+<field name="librettistSort">Braunfels, Walter</field>
+<field name="librettist">Silvia Baltus</field>
+<field name="librettistSort">Baltus, Silvia</field>
+<field name="theater">Opera der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galathea+Walter+Braunfels&amp;search_field=search</field>
+</doc>
+</add>

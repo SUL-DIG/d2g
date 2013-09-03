@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124581</field>
+<field name="genre">Operas</field>
+<field name="title">La clef du secretaire</field>
+<field name="titleSort">clef du secretaire</field>
+<field name="composer">Charles Poisot</field>
+<field name="composerSort">Poisot, Charles</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Henry Boisseaux</field>
+<field name="librettistSort">Boisseaux, Henry</field>
+<field name="librettist">Caroline Berton</field>
+<field name="librettistSort">Berton, Caroline</field>
+<field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+clef+du+secretaire+Charles+Poisot&amp;search_field=search</field>
+</doc>
+</add>

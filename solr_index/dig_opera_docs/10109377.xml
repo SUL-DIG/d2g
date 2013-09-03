@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109377</field>
+<field name="genre">Operas</field>
+<field name="title">Shadow</field>
+<field name="titleSort">Shadow</field>
+<field name="composer">David Farquhar</field>
+<field name="composerSort">Farquhar, David</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">David Farquhar</field>
+<field name="librettistSort">Farquhar, David</field>
+<field name="theater">Victoria University</field>
+<field name="city">Wellington</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shadow+David+Farquhar&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128903</field>
+<field name="genre">Operas</field>
+<field name="title">Il'ya Muromets</field>
+<field name="titleSort">Il'ya Muromets</field>
+<field name="composer">Valentina Semyonovna Serova</field>
+<field name="composerSort">Serova, Valentina Semyonovna</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Valentina Semyonovna Serova</field>
+<field name="librettistSort">Serova, Valentina Semyonovna</field>
+<field name="theater">Teatr Solodovnikov</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il'ya+Muromets+Valentina+Semyonovna+Serova&amp;search_field=search</field>
+</doc>
+</add>

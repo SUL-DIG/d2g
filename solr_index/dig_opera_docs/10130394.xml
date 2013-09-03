@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130394</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Bovary</field>
+<field name="titleSort">Madame Bovary</field>
+<field name="composer">Heinrich Sutermeister</field>
+<field name="composerSort">Sutermeister, Heinrich</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Heinrich Sutermeister</field>
+<field name="librettistSort">Sutermeister, Heinrich</field>
+<field name="librettist">Gustave Flaubert</field>
+<field name="librettistSort">Flaubert, Gustave</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Bovary+Heinrich+Sutermeister&amp;search_field=search</field>
+</doc>
+</add>

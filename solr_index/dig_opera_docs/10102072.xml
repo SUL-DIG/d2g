@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102072</field>
+<field name="genre">Operas</field>
+<field name="title">Jacqueline Putputput</field>
+<field name="titleSort">Jacqueline Putputput</field>
+<field name="composer">Dietrich von Baussern</field>
+<field name="composerSort">Baussern, Dietrich von</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Jürgen Jürgens</field>
+<field name="librettistSort">Jürgens, Jürgen</field>
+<field name="theater">SWDR Radio (Südwestdeutscher Rundfunk - Ultra Short Waves)</field>
+
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacqueline+Putputput+Dietrich+von+Baussern&amp;search_field=search</field>
+</doc>
+</add>

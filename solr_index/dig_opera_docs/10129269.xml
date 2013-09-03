@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129269</field>
+<field name="genre">Operas</field>
+<field name="title">Bianca da Cervia</field>
+<field name="titleSort">Bianca da Cervia</field>
+<field name="composer">Antonio Smareglia</field>
+<field name="composerSort">Smareglia, Antonio</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">[Felice Pozza] Fulvio Fulgonio</field>
+<field name="librettistSort">Fulgonio, Fulvio [Felice Pozza]</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+da+Cervia+Antonio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

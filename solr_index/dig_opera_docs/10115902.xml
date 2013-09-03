@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115902</field>
+<field name="genre">Operas</field>
+<field name="title">The Social Whirl</field>
+<field name="titleSort">Social Whirl</field>
+<field name="composer">Gustave Kerker</field>
+<field name="composerSort">Kerker, Gustave</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Joseph William Herbert</field>
+<field name="librettistSort">Herbert, Joseph William</field>
+<field name="librettist">Charles V. Doty</field>
+<field name="librettistSort">Doty, Charles V.</field>
+<field name="theater">Casino Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Social+Whirl+Gustave+Kerker&amp;search_field=search</field>
+</doc>
+</add>

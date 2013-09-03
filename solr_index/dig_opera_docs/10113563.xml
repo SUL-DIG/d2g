@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113563</field>
+<field name="genre">Operas</field>
+<field name="title">Zgjimi (The Awakening)</field>
+<field name="titleSort">Zgjimi (The Awakening)</field>
+<field name="composer">Tonin Harapi</field>
+<field name="composerSort">Harapi, Tonin</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Mirosh Markaj</field>
+<field name="librettistSort">Markaj, Mirosh</field>
+<field name="librettist">Naoum Prifti</field>
+<field name="librettistSort">Prifti, Naoum</field>
+<field name="theater">Teatri i Operës dhe i Baletit</field>
+<field name="city">Tirana</field>
+<field name="region">Rrethi i Tiranës</field>
+<field name="country">Albania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zgjimi+The+Awakening+Tonin+Harapi&amp;search_field=search</field>
+</doc>
+</add>

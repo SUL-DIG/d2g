@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127524</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'illinesi</field>
+<field name="titleSort">illinesi</field>
+<field name="composer">Francesco Sampieri</field>
+<field name="composerSort">Sampieri, Francesco</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'illinesi+Francesco+Sampieri&amp;search_field=search</field>
+</doc>
+</add>

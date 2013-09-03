@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100081</field>
+<field name="genre">Operas</field>
+<field name="title">El Sukia</field>
+<field name="titleSort">Sukia</field>
+<field name="composer">Jorge Luis Acevedo Vargas</field>
+<field name="composerSort">Vargas, Jorge Luis Acevedo</field>
+<field name="year">1986</field>
+<field name="date">1986</field><field name="theater">Teatro Nacional</field>
+<field name="city">San Jose</field>
+
+<field name="country">Costa Rica</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+Sukia+Jorge+Luis+Acevedo+Vargas&amp;search_field=search</field>
+</doc>
+</add>

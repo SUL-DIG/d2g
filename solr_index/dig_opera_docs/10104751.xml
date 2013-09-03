@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104751</field>
+<field name="genre">Operas</field>
+<field name="title">Esmeralda</field>
+<field name="titleSort">Esmeralda</field>
+<field name="composer">Fabio Campana</field>
+<field name="composerSort">Campana, Fabio</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Giorgio Tommaso Cimino</field>
+<field name="librettistSort">Cimino, Giorgio Tommaso</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esmeralda+Fabio+Campana&amp;search_field=search</field>
+</doc>
+</add>

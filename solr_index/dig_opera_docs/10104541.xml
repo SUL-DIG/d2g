@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104541</field>
+<field name="genre">Operas</field>
+<field name="title">Amleto</field>
+<field name="titleSort">Amleto</field>
+<field name="composer">Antonio Buzzolla</field>
+<field name="composerSort">Buzzolla, Antonio</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amleto+Antonio+Buzzolla&amp;search_field=search</field>
+</doc>
+</add>

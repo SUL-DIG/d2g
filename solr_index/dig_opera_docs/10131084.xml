@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131084</field>
+<field name="genre">Operas</field>
+<field name="title">Amore e vanitа</field>
+<field name="titleSort">Amore e vanitа</field>
+<field name="composer">Carlo Tommasoni</field>
+<field name="composerSort">Tommasoni, Carlo</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Nuovo Teatro Accademico</field>
+<field name="city">Bassano del Grappa</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+vanitа+Carlo+Tommasoni&amp;search_field=search</field>
+</doc>
+</add>

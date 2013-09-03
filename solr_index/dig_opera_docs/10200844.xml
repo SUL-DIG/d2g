@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200844</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il David penitente</field>
+		<field name="titleSort">David penitente</field>
+		<field name="year">1708</field>
+		
+		
+		<field name="date">1708</field>
+		<field name="composer">Francesco Magini</field>
+		<field name="composerSort">Magini, Francesco</field>
+		<field name="librettist">Giacomo Buonaccorsi</field>
+		<field name="librettistSort">Buonaccorsi, Giacomo</field>
+		
+		
+		
+		
+		
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+David+penitente+Francesco+Magini&amp;search_field=search</field>
+	</doc></add>

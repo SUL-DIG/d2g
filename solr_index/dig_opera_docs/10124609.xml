@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124609</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando furioso</field>
+<field name="titleSort">Orlando furioso</field>
+<field name="composer">Orazio Polaroli</field>
+<field name="composerSort">Polaroli, Orazio</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Arciducale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+furioso+Orazio+Polaroli&amp;search_field=search</field>
+</doc>
+</add>

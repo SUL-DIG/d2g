@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103460</field>
+<field name="genre">Operas</field>
+<field name="title">Theater of the Absurd</field>
+<field name="titleSort">Theater of the Absurd</field>
+<field name="composer">William Bolcom</field>
+<field name="composerSort">Bolcom, William</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">William Bolcom</field>
+<field name="librettistSort">Bolcom, William</field>
+<field name="theater">Conservatory of Music</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Theater+of+the+Absurd+William+Bolcom&amp;search_field=search</field>
+</doc>
+</add>

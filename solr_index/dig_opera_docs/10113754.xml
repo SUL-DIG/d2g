@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113754</field>
+<field name="genre">Operas</field>
+<field name="title">The Birthday Cake</field>
+<field name="titleSort">Birthday Cake</field>
+<field name="composer">Charles Trowbridge Haubiel</field>
+<field name="composerSort">Haubiel, Charles Trowbridge</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Hortense Flexner</field>
+<field name="librettistSort">Flexner, Hortense"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Birthday+Cake+Charles+Trowbridge+Haubiel&amp;search_field=search</field>
+</doc>
+</add>

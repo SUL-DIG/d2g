@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124773</field>
+<field name="genre">Operas</field>
+<field name="title">Gelmina</field>
+<field name="titleSort">Gelmina</field>
+<field name="composer">Giuseppe Poniatowski</field>
+<field name="composerSort">Poniatowski, Giuseppe</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Francesco Rizzelli</field>
+<field name="librettistSort">Rizzelli, Francesco</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gelmina+Giuseppe+Poniatowski&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106964</field>
+<field name="genre">Operas</field>
+<field name="title">The Naughty Princess</field>
+<field name="titleSort">Naughty Princess</field>
+<field name="composer">Charles Cuvillier</field>
+<field name="composerSort">Cuvillier, Charles</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">[Arthur Reed Ropes] Adrian Ross</field>
+<field name="librettistSort">Ross, Adrian [Arthur Reed Ropes]</field>
+<field name="librettist">John Hastings Turner</field>
+<field name="librettistSort">Turner, John Hastings</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Naughty+Princess+Charles+Cuvillier&amp;search_field=search</field>
+</doc>
+</add>

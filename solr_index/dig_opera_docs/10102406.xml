@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102406</field>
+<field name="genre">Operas</field>
+<field name="title">Amorul doctor (Doctor Love)</field>
+<field name="titleSort">Amorul doctor (Doctor Love)</field>
+<field name="composer">Pascal Bentoiu</field>
+<field name="composerSort">Bentoiu, Pascal</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Pascal Bentoiu</field>
+<field name="librettistSort">Bentoiu, Pascal</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amorul+doctor+Doctor+Love+Pascal+Bentoiu&amp;search_field=search</field>
+</doc>
+</add>

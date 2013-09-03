@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110630</field>
+<field name="genre">Operas</field>
+<field name="title">Der dicke Klaus und der lange Hans</field>
+<field name="titleSort">dicke Klaus und der lange Hans</field>
+<field name="composer">Richard Fronz</field>
+<field name="composerSort">Fronz, Richard</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Oskar Franz</field>
+<field name="librettistSort">Franz, Oskar</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+dicke+Klaus+und+der+lange+Hans+Richard+Fronz&amp;search_field=search</field>
+</doc>
+</add>

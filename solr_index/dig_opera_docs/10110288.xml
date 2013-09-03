@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110288</field>
+<field name="genre">Operas</field>
+<field name="title">Das betrübte und erfreute Cimbria</field>
+<field name="titleSort">betrübte und erfreute Cimbria</field>
+<field name="composer">Johann Philipp Förtsch</field>
+<field name="composerSort">Förtsch, Johann Philipp</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="librettist">Christian Heinrich Postel</field>
+<field name="librettistSort">Postel, Christian Heinrich</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+betrübte+und+erfreute+Cimbria+Johann+Philipp+Förtsch&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111870</field>
+<field name="genre">Operas</field>
+<field name="title">"L'acte pantomine, ou La comédie sans paroles</field>
+<field name="titleSort">"acte pantomine, ou La comédie sans paroles"</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Charles-François Pannard</field>
+<field name="librettistSort">Pannard, Charles-François</field>
+<field name="theater">Théâtre de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'acte+pantomine,+ou+La+comédie+sans+paroles+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

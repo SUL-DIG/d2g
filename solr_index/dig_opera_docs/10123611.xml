@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123611</field>
+<field name="genre">Operas</field>
+<field name="title">De nozem en de nimf</field>
+<field name="titleSort">nozem en de nimf</field>
+<field name="composer">Willem Pelemans</field>
+<field name="composerSort">Pelemans, Willem</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Liane Bruylants</field>
+<field name="librettistSort">Bruylants, Liane</field>
+<field name="theater">Radio Brussels</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+nozem+en+de+nimf+Willem+Pelemans&amp;search_field=search</field>
+</doc>
+</add>

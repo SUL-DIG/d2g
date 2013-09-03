@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107405</field>
+<field name="genre">Operas</field>
+<field name="title">Tito in Langres</field>
+<field name="titleSort">Tito in Langres</field>
+<field name="composer">Antonio Del Fante</field>
+<field name="composerSort">Fante, Antonio Del</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+in+Langres+Antonio+Del+Fante&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101527</field>
+<field name="genre">Operas</field>
+<field name="title">Roma di notte</field>
+<field name="titleSort">Roma di notte</field>
+<field name="composer">Romolo Bacchini</field>
+<field name="composerSort">Bacchini, Romolo</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Giuseppe Petrai</field>
+<field name="librettistSort">Petrai, Giuseppe</field>
+<field name="theater">Teatro Quirino</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roma+di+notte+Romolo+Bacchini&amp;search_field=search</field>
+</doc>
+</add>

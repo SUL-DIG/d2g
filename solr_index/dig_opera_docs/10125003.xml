@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125003</field>
+<field name="genre">Operas</field>
+<field name="title">Le rosier</field>
+<field name="titleSort">rosier</field>
+<field name="composer">Henri Hippolyte Potier</field>
+<field name="composerSort">Potier, Henri Hippolyte</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Augustin Challamel</field>
+<field name="librettistSort">Challamel, Augustin</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rosier+Henri+Hippolyte+Potier&amp;search_field=search</field>
+</doc>
+</add>

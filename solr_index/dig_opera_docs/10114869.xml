@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114869</field>
+<field name="genre">Operas</field>
+<field name="title">La ferme des Aulnes</field>
+<field name="titleSort">ferme des Aulnes</field>
+<field name="composer">Eugène Hutoy</field>
+<field name="composerSort">Hutoy, Eugène</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Alfred Sauvenière</field>
+<field name="librettistSort">Sauvenière, Alfred</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ferme+des+Aulnes+Eugène+Hutoy&amp;search_field=search</field>
+</doc>
+</add>

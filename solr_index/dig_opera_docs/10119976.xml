@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119976</field>
+<field name="genre">Operas</field>
+<field name="title">La rocca di Frauenstein</field>
+<field name="titleSort">rocca di Frauenstein</field>
+<field name="composer">Simon Mayr</field>
+<field name="composerSort">Mayr, Simon</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rocca+di+Frauenstein+Simon+Mayr&amp;search_field=search</field>
+</doc>
+</add>

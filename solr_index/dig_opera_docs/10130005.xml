@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130005</field>
+<field name="genre">Operas</field>
+<field name="title">Märchen im Schnee</field>
+<field name="titleSort">Märchen im Schnee</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Kurt Robitschek</field>
+<field name="librettistSort">Robitschek, Kurt</field>
+<field name="librettist">Paul Morgan</field>
+<field name="librettistSort">Morgan, Paul</field>
+<field name="theater">Kabarett der Komiker</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Märchen+im+Schnee+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

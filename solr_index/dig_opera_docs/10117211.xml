@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117211</field>
+<field name="genre">Operas</field>
+<field name="title">"Nicette, ou L'école de la vertu</field>
+<field name="titleSort">"Nicette, ou L'école de la vertu"</field>
+<field name="composer">Herman François de Lange</field>
+<field name="composerSort">Lange, Herman François de</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">François-Léonard Du Perron</field>
+<field name="librettistSort">Du Perron, François-Léonard</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicette,+ou+L'école+de+la+vertu+Herman+François+de+Lange&amp;search_field=search</field>
+</doc>
+</add>

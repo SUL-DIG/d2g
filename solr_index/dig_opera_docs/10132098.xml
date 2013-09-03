@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132098</field>
+<field name="genre">Operas</field>
+<field name="title">La mogliera fedele</field>
+<field name="titleSort">mogliera fedele</field>
+<field name="composer">Leonardo Vinci</field>
+<field name="composerSort">Vinci, Leonardo</field>
+<field name="year">1724</field>
+<field name="date">1724</field>
+<field name="librettist">Bernardo Saddumene</field>
+<field name="librettistSort">Saddumene, Bernardo</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mogliera+fedele+Leonardo+Vinci&amp;search_field=search</field>
+</doc>
+</add>

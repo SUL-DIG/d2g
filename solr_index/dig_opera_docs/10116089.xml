@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116089</field>
+<field name="genre">Operas</field>
+<field name="title">Das Ziel</field>
+<field name="titleSort">Ziel</field>
+<field name="composer">Otto Klemperer</field>
+<field name="composerSort">Klemperer, Otto</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Otto Klemperer</field>
+<field name="librettistSort">Klemperer, Otto</field>
+<field name="theater">Kroll Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Ziel+Otto+Klemperer&amp;search_field=search</field>
+</doc>
+</add>

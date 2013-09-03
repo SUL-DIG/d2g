@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120542</field>
+<field name="genre">Operas</field>
+<field name="title">Das Märchen vom König Allgold</field>
+<field name="titleSort">Märchen vom König Allgold</field>
+<field name="composer">Gustav Michaelis</field>
+<field name="composerSort">Michaelis, Gustav</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Rudolf Kneisel</field>
+<field name="librettistSort">Kneisel, Rudolf</field>
+
+<field name="city">Bernburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Märchen+vom+König+Allgold+Gustav+Michaelis&amp;search_field=search</field>
+</doc>
+</add>

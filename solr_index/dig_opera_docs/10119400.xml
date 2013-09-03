@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119400</field>
+<field name="genre">Operas</field>
+<field name="title">Il marito di mia moglie</field>
+<field name="titleSort">marito di mia moglie</field>
+<field name="composer">Ettore Mariotti</field>
+<field name="composerSort">Mariotti, Ettore</field>
+<field name="year">1891</field>
+<field name="date">1891</field><field name="theater">Teatro Minerva</field>
+<field name="city">Udine</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+marito+di+mia+moglie+Ettore+Mariotti&amp;search_field=search</field>
+</doc>
+</add>

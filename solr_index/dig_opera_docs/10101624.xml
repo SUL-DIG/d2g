@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101624</field>
+<field name="genre">Operas</field>
+<field name="title">L'héritage de Chantebec</field>
+<field name="titleSort">héritage de Chantebec</field>
+<field name="composer">Marius Baggers</field>
+<field name="composerSort">Baggers, Marius</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Félix Biesse</field>
+<field name="librettistSort">Biesse, Félix</field>
+<field name="theater">Salle des fêtes du Casino</field>
+<field name="city">Vichy</field>
+<field name="region">Allier</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'héritage+de+Chantebec+Marius+Baggers&amp;search_field=search</field>
+</doc>
+</add>

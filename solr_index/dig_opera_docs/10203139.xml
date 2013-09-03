@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203139</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'orgollo punito, o sia Il trionfo di Davide sopra Golia</field>
+		<field name="titleSort">orgollo punito, o sia Il trionfo di Davide sopra Golia</field>
+		<field name="year">1791</field>
+		
+		
+		<field name="date">1791</field>
+		<field name="composer">Luigi Caruso</field>
+		<field name="composerSort">Caruso, Luigi</field>
+		<field name="librettist">Giovanni Battista Agretti</field>
+		<field name="librettistSort">Agretti, Giovanni Battista</field>
+		
+		
+		<field name="city">Assisi</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		<field name="subject">David kills Goliath</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'orgollo+punito,+o+sia+Il+trionfo+di+Davide+sopra+Golia+Luigi+Caruso&amp;search_field=search</field>
+	</doc></add>

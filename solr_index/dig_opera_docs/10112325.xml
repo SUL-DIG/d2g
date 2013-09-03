@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112325</field>
+<field name="genre">Operas</field>
+<field name="title">Götz von Berlichingen</field>
+<field name="titleSort">Götz von Berlichingen</field>
+<field name="composer">Karl Goldmark</field>
+<field name="composerSort">Goldmark, Karl</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Alfred Maria Willner</field>
+<field name="librettistSort">Willner, Alfred Maria</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Götz+von+Berlichingen+Karl+Goldmark&amp;search_field=search</field>
+</doc>
+</add>

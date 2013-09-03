@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116896</field>
+<field name="genre">Operas</field>
+<field name="title">Pantagruel</field>
+<field name="titleSort">Pantagruel</field>
+<field name="composer">Théodore Labarre</field>
+<field name="composerSort">Labarre, Théodore</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Henri Trianon</field>
+<field name="librettistSort">Trianon, Henri</field>
+<field name="librettist">François Rabelais</field>
+<field name="librettistSort">Rabelais, François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pantagruel+Théodore+Labarre&amp;search_field=search</field>
+</doc>
+</add>

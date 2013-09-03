@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104495</field>
+<field name="genre">Operas</field>
+<field name="title">The Hermit</field>
+<field name="titleSort">Hermit</field>
+<field name="composer">Gordon Bush</field>
+<field name="composerSort">Bush, Gordon</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Robert Lallamant</field>
+<field name="librettistSort">Lallamant, Robert</field>
+<field name="theater">Brooklyn Bay Ridge Union Church</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Hermit+Gordon+Bush&amp;search_field=search</field>
+</doc>
+</add>

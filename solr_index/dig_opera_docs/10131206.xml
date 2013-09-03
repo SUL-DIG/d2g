@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131206</field>
+<field name="genre">Operas</field>
+<field name="title">Enea e Lavinia</field>
+<field name="titleSort">Enea e Lavinia</field>
+<field name="composer">Tommaso Traetta</field>
+<field name="composerSort">Traetta, Tommaso</field>
+<field name="year">1761</field>
+<field name="date">1761</field>
+<field name="librettist">Jacopo Antonio Sanvitale</field>
+<field name="librettistSort">Sanvitale, Jacopo Antonio</field>
+<field name="librettist">Bernard le Bovier de Fontenelle</field>
+<field name="librettistSort">Fontenelle, Bernard le Bovier de</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enea+e+Lavinia+Tommaso+Traetta&amp;search_field=search</field>
+</doc>
+</add>

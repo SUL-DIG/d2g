@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131811</field>
+<field name="genre">Operas</field>
+<field name="title">Portret (The Portrait)</field>
+<field name="titleSort">Portret (The Portrait)</field>
+<field name="composer">Moisey Samuilovich Vaynberg</field>
+<field name="composerSort">Vaynberg, Moisey Samuilovich</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Aleksandr Dmitryevich Medvedev</field>
+<field name="librettistSort">Medvedev, Aleksandr Dmitryevich</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Portret+The+Portrait+Moisey+Samuilovich+Vaynberg&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108340</field>
+<field name="genre">Operas</field>
+<field name="title">Lolotte et Fanfan</field>
+<field name="titleSort">Lolotte et Fanfan</field>
+<field name="composer">__ Dubarrois</field>
+<field name="composerSort">Dubarrois, __</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">François-Guillaume Ducray-Duminil</field>
+<field name="librettistSort">Ducray-Duminil, François-Guillaume</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lolotte+et+Fanfan+__+Dubarrois&amp;search_field=search</field>
+</doc>
+</add>

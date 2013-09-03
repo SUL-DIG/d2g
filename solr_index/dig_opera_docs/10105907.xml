@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105907</field>
+<field name="genre">Operas</field>
+<field name="title">La maravilla</field>
+<field name="titleSort">maravilla</field>
+<field name="composer">José de Ciebra</field>
+<field name="composerSort">Ciebra, José de</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">José de Ciebra</field>
+<field name="librettistSort">Ciebra, José de</field>
+<field name="theater">Beethoven Room</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maravilla+José+de+Ciebra&amp;search_field=search</field>
+</doc>
+</add>

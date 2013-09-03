@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111822</field>
+<field name="genre">Operas</field>
+<field name="title">Jung muss man sein</field>
+<field name="titleSort">Jung muss man sein</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Leo Leipziger</field>
+<field name="librettistSort">Leipziger, Leo</field>
+<field name="librettist">Erich Urban</field>
+<field name="librettistSort">Urban, Erich</field>
+<field name="theater">Komische Oper (an der Weidendammer Brücke)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jung+muss+man+sein+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

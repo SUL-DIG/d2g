@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132528</field>
+<field name="genre">Operas</field>
+<field name="title">Seduction of a Lady</field>
+<field name="titleSort">Seduction of a Lady</field>
+<field name="composer">Richard Wargo</field>
+<field name="composerSort">Wargo, Richard</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Richard Wargo</field>
+<field name="librettistSort">Wargo, Richard</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Florida State University</field>
+<field name="city">Talahassee</field>
+<field name="region">Florida</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seduction+of+a+Lady+Richard+Wargo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100179</field>
+<field name="genre">Operas</field>
+<field name="title">Arianna</field>
+<field name="titleSort">Arianna</field>
+<field name="composer">Andrea Adolfati</field>
+<field name="composerSort">Adolfati, Andrea</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro del Falcone</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arianna+Andrea+Adolfati&amp;search_field=search</field>
+</doc>
+</add>

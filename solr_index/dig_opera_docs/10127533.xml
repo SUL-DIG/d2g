@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127533</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanni da Procida</field>
+<field name="titleSort">Giovanni da Procida</field>
+<field name="composer">Adolphe-Abraham Samuel</field>
+<field name="composerSort">Samuel, Adolphe-Abraham</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanni+da+Procida+Adolphe-Abraham+Samuel&amp;search_field=search</field>
+</doc>
+</add>

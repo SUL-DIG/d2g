@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200207</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Apostel am Pfingsttage</field>
+		<field name="titleSort">Apostel am Pfingsttage</field>
+		<field name="year">1842</field>
+		<field name="month">May</field>
+		
+		<field name="date">May 1842</field>
+		<field name="composer">Louis Huth</field>
+		<field name="composerSort">Huth, Louis</field>
+		<field name="librettist">Christoph August Tiedge</field>
+		<field name="librettistSort">Tiedge, Christoph August</field>
+		
+		
+		<field name="city">Potsdam</field>
+		<field name="region">Brandenburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Pentecost</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Apostel+am+Pfingsttage+Louis+Huth&amp;search_field=search</field>
+	</doc></add>

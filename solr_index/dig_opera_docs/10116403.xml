@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116403</field>
+<field name="genre">Operas</field>
+<field name="title">Cenodoxus</field>
+<field name="titleSort">Cenodoxus</field>
+<field name="composer">György Kósa</field>
+<field name="composerSort">Kósa, György</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Maria Kósa</field>
+<field name="librettistSort">Kósa, Maria</field>
+<field name="librettist">Jakob Biedermann</field>
+<field name="librettistSort">Biedermann, Jakob"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cenodoxus+György+Kósa&amp;search_field=search</field>
+</doc>
+</add>

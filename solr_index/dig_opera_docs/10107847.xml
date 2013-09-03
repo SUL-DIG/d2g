@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107847</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Schiffspatron, oder Der neue Gutsherr</field>
+<field name="titleSort">"Schiffspatron, oder neue Gutsherr"</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Johann Friedrich Jünger</field>
+<field name="librettistSort">Jünger, Johann Friedrich</field>
+<field name="librettist">Carl Ditters von Dittersdorf</field>
+<field name="librettistSort">Dittersdorf, Carl Ditters von</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schiffspatron,+oder+Der+neue+Gutsherr+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

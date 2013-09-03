@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113873</field>
+<field name="genre">Operas</field>
+<field name="title">Pepita</field>
+<field name="titleSort">Pepita</field>
+<field name="composer">Béla Hegyi</field>
+<field name="composerSort">Hegyi, Béla</field>
+<field name="year">1890</field>
+<field name="date">1890</field><field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pepita+Béla+Hegyi&amp;search_field=search</field>
+</doc>
+</add>

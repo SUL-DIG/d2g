@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121199</field>
+<field name="genre">Operas</field>
+<field name="title">Emporium</field>
+<field name="titleSort">Emporium</field>
+<field name="composer">Enric Morera</field>
+<field name="composerSort">Morera, Enric</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Eduardo Marquina</field>
+<field name="librettistSort">Marquina, Eduardo</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emporium+Enric+Morera&amp;search_field=search</field>
+</doc>
+</add>

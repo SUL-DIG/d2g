@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130412</field>
+<field name="genre">Operas</field>
+<field name="title">Kralj Malhus (King Malhus)</field>
+<field name="titleSort">Kralj Malhus (King Malhus)</field>
+<field name="composer">Tomaz Svete</field>
+<field name="composerSort">Svete, Tomaz</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Tomaz Svete</field>
+<field name="librettistSort">Svete, Tomaz</field>
+<field name="librettist">Ivan Cankar</field>
+<field name="librettistSort">Cankar, Ivan</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kralj+Malhus+King+Malhus+Tomaz+Svete&amp;search_field=search</field>
+</doc>
+</add>

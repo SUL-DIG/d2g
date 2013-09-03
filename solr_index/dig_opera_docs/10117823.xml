@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117823</field>
+<field name="genre">Operas</field>
+<field name="title">La forza vinta dall'onore</field>
+<field name="titleSort">forza vinta dall'onore</field>
+<field name="composer">Nicolò Le Mixte</field>
+<field name="composerSort">Mixte, Nicolò Le</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Andrea Minelli</field>
+<field name="librettistSort">Minelli, Andrea</field>
+<field name="theater">Teatro di San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+vinta+dall'onore+Nicolò+Le+Mixte&amp;search_field=search</field>
+</doc>
+</add>

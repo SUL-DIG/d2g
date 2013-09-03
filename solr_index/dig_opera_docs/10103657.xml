@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103657</field>
+<field name="genre">Operas</field>
+<field name="title">La mantille</field>
+<field name="titleSort">mantille</field>
+<field name="composer">Luigi Bordèse</field>
+<field name="composerSort">Bordèse, Luigi</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">François-Antoine-Eugène de Planard</field>
+<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="librettist">Hautefeuille Goubeaux</field>
+<field name="librettistSort">Goubeaux, Hautefeuille</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mantille+Luigi+Bordèse&amp;search_field=search</field>
+</doc>
+</add>

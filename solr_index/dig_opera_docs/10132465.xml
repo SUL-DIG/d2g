@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132465</field>
+<field name="genre">Operas</field>
+<field name="title">The Ogallallas</field>
+<field name="titleSort">Ogallallas</field>
+<field name="composer">Henry Waller</field>
+<field name="composerSort">Waller, Henry</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Young Ewing Allison</field>
+<field name="librettistSort">Allison, Young Ewing</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ogallallas+Henry+Waller&amp;search_field=search</field>
+</doc>
+</add>

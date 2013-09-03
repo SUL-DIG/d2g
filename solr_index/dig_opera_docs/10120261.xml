@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120261</field>
+<field name="genre">Operas</field>
+<field name="title">Pourceaugnac</field>
+<field name="titleSort">Pourceaugnac</field>
+<field name="composer">Bernardo Mengozzi</field>
+<field name="composerSort">Mengozzi, Bernardo</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pourceaugnac+Bernardo+Mengozzi&amp;search_field=search</field>
+</doc>
+</add>

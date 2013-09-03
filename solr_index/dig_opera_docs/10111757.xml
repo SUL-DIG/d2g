@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111757</field>
+<field name="genre">Operas</field>
+<field name="title">The Taming of the Shrew</field>
+<field name="titleSort">Taming of the Shrew</field>
+<field name="composer">Vittorio Giannini</field>
+<field name="composerSort">Giannini, Vittorio</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Vittorio Giannini</field>
+<field name="librettistSort">Giannini, Vittorio</field>
+<field name="librettist">Dorothy Fee</field>
+<field name="librettistSort">Fee, Dorothy</field>
+<field name="theater">Music Drama Guild</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Taming+of+the+Shrew+Vittorio+Giannini&amp;search_field=search</field>
+</doc>
+</add>

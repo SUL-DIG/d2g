@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125655</field>
+<field name="genre">Operas</field>
+<field name="title">Freya</field>
+<field name="titleSort">Freya</field>
+<field name="composer">Erasmus Raway</field>
+<field name="composerSort">Raway, Erasmus</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">[L. Ronvaux &amp; Elisée Harroy] Ronvaux-Harroy</field>
+<field name="librettistSort">Ronvaux-Harroy, [L. Ronvaux &amp; Elisée Harroy]</field>
+<field name="theater">Concerts-Ysaye</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Freya+Erasmus+Raway&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104443</field>
+<field name="genre">Operas</field>
+<field name="title">Intervals</field>
+<field name="titleSort">Intervals</field>
+<field name="composer">David Burge</field>
+<field name="composerSort">Burge, David</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Paul Jackson</field>
+<field name="librettistSort">Jackson, Paul</field>
+<field name="theater">Whitman College Conservatory of Music</field>
+<field name="city">Walla Walla</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Intervals+David+Burge&amp;search_field=search</field>
+</doc>
+</add>

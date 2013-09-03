@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120255</field>
+<field name="genre">Operas</field>
+<field name="title">"Brunet et Caroline, ou Le chansonnier impromptu</field>
+<field name="titleSort">"Brunet et Caroline, ou Le chansonnier impromptu"</field>
+<field name="composer">Bernardo Mengozzi</field>
+<field name="composerSort">Mengozzi, Bernardo</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Alexandre de Ségur (fils)</field>
+<field name="librettistSort">Ségur (fils), Alexandre de</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brunet+et+Caroline,+ou+Le+chansonnier+impromptu+Bernardo+Mengozzi&amp;search_field=search</field>
+</doc>
+</add>

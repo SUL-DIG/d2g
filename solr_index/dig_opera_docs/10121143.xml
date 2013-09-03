@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121143</field>
+<field name="genre">Operas</field>
+<field name="title">Desert of Roses</field>
+<field name="titleSort">Desert of Roses</field>
+<field name="composer">Robert Moran</field>
+<field name="composerSort">Moran, Robert</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Michael John LaChiusa</field>
+<field name="librettistSort">LaChiusa, Michael John</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Desert+of+Roses+Robert+Moran&amp;search_field=search</field>
+</doc>
+</add>

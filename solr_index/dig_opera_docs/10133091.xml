@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133091</field>
+<field name="genre">Operas</field>
+<field name="title">Till</field>
+<field name="titleSort">Till</field>
+<field name="composer">Gerhard Wohlgemuth</field>
+<field name="composerSort">Wohlgemuth, Gerhard</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Egon Günther</field>
+<field name="librettistSort">Günther, Egon</field>
+<field name="theater">Theater des Friedens</field>
+<field name="city">Halle</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Till+Gerhard+Wohlgemuth&amp;search_field=search</field>
+</doc>
+</add>

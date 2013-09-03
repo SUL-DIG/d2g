@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117394</field>
+<field name="genre">Operas</field>
+<field name="title">Venceslao</field>
+<field name="titleSort">Venceslao</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatre de la Santa Creu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venceslao+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

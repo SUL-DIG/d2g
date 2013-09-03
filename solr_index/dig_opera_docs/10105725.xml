@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105725</field>
+<field name="genre">Operas</field>
+<field name="title">Médée</field>
+<field name="titleSort">Médée</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">François Benoît Hoffman</field>
+<field name="librettistSort">Hoffman, François Benoît</field>
+<field name="librettist">Thomas Corneille</field>
+<field name="librettistSort">Corneille, Thomas</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Médée+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

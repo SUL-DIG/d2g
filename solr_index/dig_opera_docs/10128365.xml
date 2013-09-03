@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128365</field>
+<field name="genre">Operas</field>
+<field name="title">"Alwins Entzauberung, oder Die Missgriffe</field>
+<field name="titleSort">"Alwins Entzauberung, oder Die Missgriffe"</field>
+<field name="composer">Friedrich Schneider</field>
+<field name="composerSort">Schneider, Friedrich</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Christoph Friedrich Bretzner</field>
+<field name="librettistSort">Bretzner, Christoph Friedrich</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alwins+Entzauberung,+oder+Die+Missgriffe+Friedrich+Schneider&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116630</field>
+<field name="genre">Operas</field>
+<field name="title">Kalhoty (The Trousers)</field>
+<field name="titleSort">Kalhoty (The Trousers)</field>
+<field name="composer">Jaroslav Kricka</field>
+<field name="composerSort">Kricka, Jaroslav</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Jaroslav Kricka</field>
+<field name="librettistSort">Kricka, Jaroslav</field>
+<field name="librettist">Paola Lombroso</field>
+<field name="librettistSort">Lombroso, Paola</field>
+<field name="theater">Czech Television (Ceska Televize)</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalhoty+The+Trousers+Jaroslav+Kricka&amp;search_field=search</field>
+</doc>
+</add>

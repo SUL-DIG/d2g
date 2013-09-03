@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105803</field>
+<field name="genre">Operas</field>
+<field name="title">V plenu u yablon'</field>
+<field name="titleSort">V plenu u yablon'</field>
+<field name="composer">Oles' Chishko</field>
+<field name="composerSort">Chishko, Oles'</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Oles' Chishko</field>
+<field name="librettistSort">Chishko, Oles'</field>
+<field name="librettist">Ivan Dniprovsky</field>
+<field name="librettistSort">Dniprovsky, Ivan</field>
+<field name="theater">Akademichnyy Teatr Opery ta Baletu</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+plenu+u+yablon'+Oles'+Chishko&amp;search_field=search</field>
+</doc>
+</add>

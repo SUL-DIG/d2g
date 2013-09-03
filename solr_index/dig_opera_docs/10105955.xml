@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105955</field>
+<field name="genre">Operas</field>
+<field name="title">Il capriccio drammatico</field>
+<field name="titleSort">capriccio drammatico</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Giuseppe Maria Diodati</field>
+<field name="librettistSort">Diodati, Giuseppe Maria</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+capriccio+drammatico+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

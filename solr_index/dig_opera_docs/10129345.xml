@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129345</field>
+<field name="genre">Operas</field>
+<field name="title">"Mohega, die Blume des Waldes</field>
+<field name="titleSort">"Mohega, die Blume des Waldes"</field>
+<field name="composer">Eduard Sobolewski</field>
+<field name="composerSort">Sobolewski, Eduard</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Eduard Sobolewski</field>
+<field name="librettistSort">Sobolewski, Eduard</field>
+<field name="theater">Musical Society</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mohega,+die+Blume+des+Waldes+Eduard+Sobolewski&amp;search_field=search</field>
+</doc>
+</add>

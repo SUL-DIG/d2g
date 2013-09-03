@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132128</field>
+<field name="genre">Operas</field>
+<field name="title">La parete biance</field>
+<field name="titleSort">parete biance</field>
+<field name="composer">Giulio Viozzi</field>
+<field name="composerSort">Viozzi, Giulio</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Giulio Viozzi</field>
+<field name="librettistSort">Viozzi, Giulio</field>
+<field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+parete+biance+Giulio+Viozzi&amp;search_field=search</field>
+</doc>
+</add>

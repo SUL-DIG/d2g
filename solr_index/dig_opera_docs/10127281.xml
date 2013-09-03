@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127281</field>
+<field name="genre">Operas</field>
+<field name="title">Lili Merveille</field>
+<field name="titleSort">Lili Merveille</field>
+<field name="composer">Louis Saguer</field>
+<field name="composerSort">Saguer, Louis</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Jean Louis Bory</field>
+<field name="librettistSort">Bory, Jean Louis</field>
+<field name="theater">ORTF Radio (Office de Radiodiffusion Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lili+Merveille+Louis+Saguer&amp;search_field=search</field>
+</doc>
+</add>

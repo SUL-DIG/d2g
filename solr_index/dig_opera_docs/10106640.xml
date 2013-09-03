@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106640</field>
+<field name="genre">Operas</field>
+<field name="title">Peter Schlemihl</field>
+<field name="titleSort">Peter Schlemihl</field>
+<field name="composer">Klaus Cornell</field>
+<field name="composerSort">Cornell, Klaus</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Kurt Weibel</field>
+<field name="librettistSort">Weibel, Kurt</field>
+<field name="theater">Radio Beromünster</field>
+<field name="city">Beromünster</field>
+<field name="region">Luzern</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+Schlemihl+Klaus+Cornell&amp;search_field=search</field>
+</doc>
+</add>

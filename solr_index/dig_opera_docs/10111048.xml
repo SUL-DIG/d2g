@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111048</field>
+<field name="genre">Operas</field>
+<field name="title">Semiramis</field>
+<field name="titleSort">Semiramis</field>
+<field name="composer">Manuel García</field>
+<field name="composerSort">García, Manuel</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Teatro Provisional</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Semiramis+Manuel+García&amp;search_field=search</field>
+</doc>
+</add>

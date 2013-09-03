@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129176</field>
+<field name="genre">Operas</field>
+<field name="title">I virtuosi in Barcellona</field>
+<field name="titleSort">virtuosi in Barcellona</field>
+<field name="composer">Francesco Sinico</field>
+<field name="composerSort">Sinico, Francesco</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Gabriele Rossetti</field>
+<field name="librettistSort">Rossetti, Gabriele</field>
+<field name="theater">Teatro Mauroner</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+virtuosi+in+Barcellona+Francesco+Sinico&amp;search_field=search</field>
+</doc>
+</add>

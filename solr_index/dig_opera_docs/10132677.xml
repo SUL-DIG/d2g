@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132677</field>
+<field name="genre">Operas</field>
+<field name="title">Knickerbocker Holiday</field>
+<field name="titleSort">Knickerbocker Holiday</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Maxwell Anderson</field>
+<field name="librettistSort">Anderson, Maxwell</field>
+<field name="theater">Ethel Barrymore Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Knickerbocker+Holiday+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

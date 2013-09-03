@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107707</field>
+<field name="genre">Operas</field>
+<field name="title">Adam in der Klemme</field>
+<field name="titleSort">Adam in der Klemme</field>
+<field name="composer">Anton Diabelli</field>
+<field name="composerSort">Diabelli, Anton</field>
+<field name="year">1809</field>
+<field name="date">1809</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adam+in+der+Klemme+Anton+Diabelli&amp;search_field=search</field>
+</doc>
+</add>

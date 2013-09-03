@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101473</field>
+<field name="genre">Operas</field>
+<field name="title">Orpheus</field>
+<field name="titleSort">Orpheus</field>
+<field name="composer">John Austin</field>
+<field name="composerSort">Austin, John</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">John Austin</field>
+<field name="librettistSort">Austin, John</field>
+<field name="theater">First Presbyterian Church</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orpheus+John+Austin&amp;search_field=search</field>
+</doc>
+</add>

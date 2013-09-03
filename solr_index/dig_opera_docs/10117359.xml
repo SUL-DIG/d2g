@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117359</field>
+<field name="genre">Operas</field>
+<field name="title">La buona figliuola supposta vedova</field>
+<field name="titleSort">buona figliuola supposta vedova</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Antonio Bianchi</field>
+<field name="librettistSort">Bianchi, Antonio</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+buona+figliuola+supposta+vedova+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

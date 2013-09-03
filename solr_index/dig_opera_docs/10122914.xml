@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122914</field>
+<field name="genre">Operas</field>
+<field name="title">La Rossana</field>
+<field name="titleSort">Rossana</field>
+<field name="composer">Ferdinando Paer</field>
+<field name="composerSort">Paer, Ferdinando</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Rossana+Ferdinando+Paer&amp;search_field=search</field>
+</doc>
+</add>

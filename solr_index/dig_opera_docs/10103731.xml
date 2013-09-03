@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103731</field>
+<field name="genre">Operas</field>
+<field name="title">Il carnovale</field>
+<field name="titleSort">carnovale</field>
+<field name="composer">Antonio Boroni</field>
+<field name="composerSort">Boroni, Antonio</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Pietro Chiari</field>
+<field name="librettistSort">Chiari, Pietro</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+carnovale+Antonio+Boroni&amp;search_field=search</field>
+</doc>
+</add>

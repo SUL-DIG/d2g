@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116476</field>
+<field name="genre">Operas</field>
+<field name="title">Un épicier peu commode</field>
+<field name="titleSort">épicier peu commode</field>
+<field name="composer">Alphonse Kraf-Kerman</field>
+<field name="composerSort">Kraf-Kerman, Alphonse</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Louis Roy</field>
+<field name="librettistSort">Roy, Louis</field>
+<field name="theater">Concert du Commerce</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+épicier+peu+commode+Alphonse+Kraf-Kerman&amp;search_field=search</field>
+</doc>
+</add>

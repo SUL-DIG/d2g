@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200454</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Bonifacius, der deutsche Apostel</field>
+		<field name="titleSort">Bonifacius, der deutsche Apostel</field>
+		<field name="year">1840</field>
+		<field name="month">October</field>
+		<field name="day">25</field>
+		<field name="date">October 25, 1840</field>
+		<field name="composer">August Mühling</field>
+		<field name="composerSort">Mühling, August</field>
+		<field name="librettist">August Kahlert</field>
+		<field name="librettistSort">Kahlert, August</field>
+		
+		
+		<field name="city">Magdeburg</field>
+		<field name="region">Sachsen-Anhalt</field>
+		<field name="country">Germany</field>
+		<field name="subject">Saint Boniface</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">5</field>
+		<field name="feastDate">June 5</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bonifacius,+der+deutsche+Apostel+August+Mühling&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101899</field>
+<field name="genre">Operas</field>
+<field name="title">The Deuce is in Her</field>
+<field name="titleSort">Deuce is in Her</field>
+<field name="composer">John Barnett</field>
+<field name="composerSort">Barnett, John</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Richard John Raymond</field>
+<field name="librettistSort">Raymond, Richard John</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Deuce+is+in+Her+John+Barnett&amp;search_field=search</field>
+</doc>
+</add>

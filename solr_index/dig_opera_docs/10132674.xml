@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132674</field>
+<field name="genre">Operas</field>
+<field name="title">The Firebrand of Florence</field>
+<field name="titleSort">Firebrand of Florence</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1944</field>
+<field name="date">1944</field>
+<field name="librettist">Edwin Justus Mayer</field>
+<field name="librettistSort">Mayer, Edwin Justus</field>
+<field name="librettist">Ira Gershwin</field>
+<field name="librettistSort">Gershwin, Ira</field>
+<field name="theater">Alvin Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Firebrand+of+Florence+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

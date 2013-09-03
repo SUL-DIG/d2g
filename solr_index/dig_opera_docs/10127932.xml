@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127932</field>
+<field name="genre">Operas</field>
+<field name="title">Sumidagawa</field>
+<field name="titleSort">Sumidagawa</field>
+<field name="composer">Nicholas Scarim</field>
+<field name="composerSort">Scarim, Nicholas</field>
+<field name="year">1979</field>
+<field name="date">1979</field><field name="theater">Eugene O'Neill Theater Center</field>
+<field name="city">Waterford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sumidagawa+Nicholas+Scarim&amp;search_field=search</field>
+</doc>
+</add>

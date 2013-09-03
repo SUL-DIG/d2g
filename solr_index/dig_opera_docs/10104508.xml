@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104508</field>
+<field name="genre">Operas</field>
+<field name="title">La pie borgne</field>
+<field name="titleSort">pie borgne</field>
+<field name="composer">Henri Büsser</field>
+<field name="composerSort">Büsser, Henri</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">René Benjamin</field>
+<field name="librettistSort">Benjamin, René</field>
+<field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pie+borgne+Henri+Büsser&amp;search_field=search</field>
+</doc>
+</add>

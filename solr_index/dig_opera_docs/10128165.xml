@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128165</field>
+<field name="genre">Operas</field>
+<field name="title">Dolorosa</field>
+<field name="titleSort">Dolorosa</field>
+<field name="composer">August Schemel</field>
+<field name="composerSort">Schemel, August</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Otto Reinhardt Popper</field>
+<field name="librettistSort">Popper, Otto Reinhardt</field>
+<field name="librettist">Franz Weese</field>
+<field name="librettistSort">Weese, Franz</field>
+<field name="theater">Thaliatheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolorosa+August+Schemel&amp;search_field=search</field>
+</doc>
+</add>

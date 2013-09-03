@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105724</field>
+<field name="genre">Operas</field>
+<field name="title">Marguerite d'Anjou</field>
+<field name="titleSort">Marguerite d'Anjou</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1790</field>
+<field name="date">1790</field><field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marguerite+d'Anjou+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

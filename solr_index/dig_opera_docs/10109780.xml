@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109780</field>
+<field name="genre">Operas</field>
+<field name="title">"Leonida, re di Sparta</field>
+<field name="titleSort">"Leonida, re di Sparta"</field>
+<field name="composer">Giuseppe Finucci</field>
+<field name="composerSort">Finucci, Giuseppe</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Francesco Franceschi</field>
+<field name="librettistSort">Franceschi, Francesco</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonida,+re+di+Sparta+Giuseppe+Finucci&amp;search_field=search</field>
+</doc>
+</add>

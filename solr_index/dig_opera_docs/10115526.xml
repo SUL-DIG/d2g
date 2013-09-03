@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115526</field>
+<field name="genre">Operas</field>
+<field name="title">Lásky div (The Miracle of Love)</field>
+<field name="titleSort">Lásky div (The Miracle of Love)</field>
+<field name="composer">Václav Kálik</field>
+<field name="composerSort">Kálik, Václav</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Julius Zeyer</field>
+<field name="librettistSort">Zeyer, Julius</field>
+<field name="theater">Severoceské Národní Divadlo</field>
+<field name="city">Liberec</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lásky+div+The+Miracle+of+Love+Václav+Kálik&amp;search_field=search</field>
+</doc>
+</add>

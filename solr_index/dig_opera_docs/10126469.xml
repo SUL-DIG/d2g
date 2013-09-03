@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126469</field>
+<field name="genre">Operas</field>
+<field name="title">La novia del hereje</field>
+<field name="titleSort">novia del hereje</field>
+<field name="composer">Pascual de Rogatis</field>
+<field name="composerSort">Rogatis, Pascual de</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Tomás Allende Iragorri</field>
+<field name="librettistSort">Allende Iragorri, Tomás</field>
+<field name="librettist">Vicente Fidel López</field>
+<field name="librettistSort">Fidel López, Vicente </field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+novia+del+hereje+Pascual+de+Rogatis&amp;search_field=search</field>
+</doc>
+</add>

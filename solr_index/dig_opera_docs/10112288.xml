@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112288</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zweibelmarkt</field>
+<field name="titleSort">Zweibelmarkt</field>
+<field name="composer">Johann Nikolaus Konrad Goetze</field>
+<field name="composerSort">Goetze, Johann Nikolaus Konrad</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Stephan Schütze</field>
+<field name="librettistSort">Schütze, Stephan</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zweibelmarkt+Johann+Nikolaus+Konrad+Goetze&amp;search_field=search</field>
+</doc>
+</add>

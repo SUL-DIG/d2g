@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125020</field>
+<field name="genre">Operas</field>
+<field name="title">La mille et deuxième nuit</field>
+<field name="titleSort">mille et deuxième nuit</field>
+<field name="composer">Lucien Poujade</field>
+<field name="composerSort">Poujade, Lucien</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Richard Leoclide</field>
+<field name="librettistSort">Leoclide, Richard</field>
+<field name="librettist">[Paul Roucoux] Paul Burani</field>
+<field name="librettistSort">Burani, Paul [Paul Roucoux]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Reims</field>
+<field name="region">Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mille+et+deuxième+nuit+Lucien+Poujade&amp;search_field=search</field>
+</doc>
+</add>

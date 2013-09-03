@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105003</field>
+<field name="genre">Operas</field>
+<field name="title">Amarillis</field>
+<field name="titleSort">Amarillis</field>
+<field name="composer">Philibert Cardonne</field>
+<field name="composerSort">Cardonne, Philibert</field>
+<field name="year">1752</field>
+<field name="date">1752</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Compiègne</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amarillis+Philibert+Cardonne&amp;search_field=search</field>
+</doc>
+</add>

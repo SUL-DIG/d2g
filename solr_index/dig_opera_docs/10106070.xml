@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106070</field>
+<field name="genre">Operas</field>
+<field name="title">Micheli und sein Sohn</field>
+<field name="titleSort">Micheli und sein Sohn</field>
+<field name="composer">Johann Heinrich Clasing</field>
+<field name="composerSort">Clasing, Johann Heinrich</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Anton Kirchner</field>
+<field name="librettistSort">Kirchner, Anton</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Micheli+und+sein+Sohn+Johann+Heinrich+Clasing&amp;search_field=search</field>
+</doc>
+</add>

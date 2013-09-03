@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119231</field>
+<field name="genre">Operas</field>
+<field name="title">Inferno di Dante</field>
+<field name="titleSort">Inferno di Dante</field>
+<field name="composer">Giacomo Manzoni</field>
+<field name="composerSort">Manzoni, Giacomo</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Edoardo Sanguinetti</field>
+<field name="librettistSort">Sanguinetti, Edoardo</field>
+<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterRavenna Festival</field>
+<field name="city">Ravenna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inferno+di+Dante+Giacomo+Manzoni&amp;search_field=search</field>
+</doc>
+</add>

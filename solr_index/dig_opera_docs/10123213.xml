@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123213</field>
+<field name="genre">Operas</field>
+<field name="title">Vallan miehet (Men of Power)</field>
+<field name="titleSort">Vallan miehet (Men of Power)</field>
+<field name="composer">Jorma Panula</field>
+<field name="composerSort">Panula, Jorma</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Arvo Salo</field>
+<field name="librettistSort">Salo, Arvo</field>
+<field name="theater">Finnish Television (Oy Mainos-TV-Reklam Ab)</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vallan+miehet+Men+of+Power+Jorma+Panula&amp;search_field=search</field>
+</doc>
+</add>

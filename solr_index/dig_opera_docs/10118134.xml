@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118134</field>
+<field name="genre">Operas</field>
+<field name="title">The Duchess</field>
+<field name="titleSort">Duchess</field>
+<field name="composer">Harris Lilienfeld</field>
+<field name="composerSort">Lilienfeld, Harris</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">William Rosenfeld</field>
+<field name="librettistSort">Rosenfeld, William</field>
+<field name="librettist">Robert Browning</field>
+<field name="librettistSort">Browning, Robert</field>
+<field name="theater">Hamilton College</field>
+<field name="city">Clinton</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duchess+Harris+Lilienfeld&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201946</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Les images de Béatrice</field>
+		<field name="titleSort">images de Béatrice</field>
+		<field name="year">1928</field>
+		
+		
+		<field name="date">1928</field>
+		<field name="composer">Filip Lazar</field>
+		<field name="composerSort">Lazar, Filip</field>
+		<field name="librettist">André Coeuroy</field>
+		<field name="librettistSort">Coeuroy, André</field>
+		<field name="librettist">Dante Alighieri</field>
+		<field name="librettistSort">Dante Alighieri</field>
+		
+		
+		
+		
+		<field name="subject">Beatrice Portinari</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+images+de+Béatrice+Filip+Lazar&amp;search_field=search</field>
+	</doc></add>

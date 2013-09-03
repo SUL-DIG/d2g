@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118233</field>
+<field name="genre">Operas</field>
+<field name="title">Die Braut von Kynast</field>
+<field name="titleSort">Braut von Kynast</field>
+<field name="composer">Henry Litolff</field>
+<field name="composerSort">Litolff, Henry</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Friedrich Fischer</field>
+<field name="librettistSort">Fischer, Friedrich</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Braut+von+Kynast+Henry+Litolff&amp;search_field=search</field>
+</doc>
+</add>

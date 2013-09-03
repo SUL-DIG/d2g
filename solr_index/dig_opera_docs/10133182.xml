@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133182</field>
+<field name="genre">Operas</field>
+<field name="title">Rivoli</field>
+<field name="titleSort">Rivoli</field>
+<field name="composer">André Alphonse Toussaint Wormser</field>
+<field name="composerSort">Wormser, André Alphonse Toussaint</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="librettist">[Paul Roucoux] Paul Burani</field>
+<field name="librettistSort">Burani, Paul [Paul Roucoux]</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rivoli+André+Alphonse+Toussaint+Wormser&amp;search_field=search</field>
+</doc>
+</add>

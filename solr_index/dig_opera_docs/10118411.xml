@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118411</field>
+<field name="genre">Operas</field>
+<field name="title">La canción del amor mio</field>
+<field name="titleSort">canción del amor mio</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Jesús María Arozamena</field>
+<field name="librettistSort">Arozamena, Jesús María</field>
+<field name="librettist">Antonio Quintero</field>
+<field name="librettistSort">Quintero, Antonio</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+canción+del+amor+mio+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

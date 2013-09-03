@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108459</field>
+<field name="genre">Operas</field>
+<field name="title">La semplice curiosa</field>
+<field name="titleSort">semplice curiosa</field>
+<field name="composer">Egidio Duni</field>
+<field name="composerSort">Duni, Egidio</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+semplice+curiosa+Egidio+Duni&amp;search_field=search</field>
+</doc>
+</add>

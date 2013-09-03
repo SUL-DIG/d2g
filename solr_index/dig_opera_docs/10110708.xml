@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110708</field>
+<field name="genre">Operas</field>
+<field name="title">La sposa bizzarra</field>
+<field name="titleSort">sposa bizzarra</field>
+<field name="composer">Gaspare Gabellone</field>
+<field name="composerSort">Gabellone, Gaspare</field>
+<field name="year">1757</field>
+<field name="date">1757</field>
+<field name="librettist">Pamilio Squaletti</field>
+<field name="librettistSort">Squaletti, Pamilio</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sposa+bizzarra+Gaspare+Gabellone&amp;search_field=search</field>
+</doc>
+</add>

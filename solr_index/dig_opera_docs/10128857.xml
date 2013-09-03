@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128857</field>
+<field name="genre">Operas</field>
+<field name="title">Crispin rival de son maître</field>
+<field name="titleSort">Crispin rival de son maître</field>
+<field name="composer">Adolphe-Valentin Sellenick</field>
+<field name="composerSort">Sellenick, Adolphe-Valentin</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Samuel-Henri Berthoud</field>
+<field name="librettistSort">Berthoud, Samuel-Henri</field>
+<field name="librettist">Alain René Lesage</field>
+<field name="librettistSort">Lesage, Alain René</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Crispin+rival+de+son+maître+Adolphe-Valentin+Sellenick&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203127</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorium de nativitate Jesu</field>
+		<field name="titleSort">Oratorium de nativitate Jesu</field>
+		<field name="year">1772</field>
+		
+		
+		<field name="date">1772</field>
+		<field name="composer">Johann Georg Albrechtsberger</field>
+		<field name="composerSort">Albrechtsberger, Johann Georg</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorium+de+nativitate+Jesu+Johann+Georg+Albrechtsberger&amp;search_field=search</field>
+	</doc></add>

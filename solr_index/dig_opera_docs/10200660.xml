@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200660</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Colombo</field>
+		<field name="titleSort">Colombo</field>
+		<field name="year">1892</field>
+		<field name="month">October</field>
+		<field name="day">12</field>
+		<field name="date">October 12, 1892</field>
+		<field name="composer">Carlo Gomes</field>
+		<field name="composerSort">Gomes, Carlo</field>
+		
+		
+		
+		<field name="city">Rio de Janeiro</field>
+		<field name="region">Rio de Janeiro</field>
+		<field name="country">Brazil</field>
+		<field name="subject">Christopher Columbus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Colombo+Carlo+Gomes&amp;search_field=search</field>
+	</doc></add>

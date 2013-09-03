@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130297</field>
+<field name="genre">Operas</field>
+<field name="title">Coriolan</field>
+<field name="titleSort">Coriolan</field>
+<field name="composer">Stepán Sulek</field>
+<field name="composerSort">Sulek, Stepán</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Stepan Sulek</field>
+<field name="librettistSort">Sulek, Stepan</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coriolan+Stepán+Sulek&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119835</field>
+<field name="genre">Operas</field>
+<field name="title">Tout а la femme</field>
+<field name="titleSort">Tout а la femme</field>
+<field name="composer">André de Mauprey</field>
+<field name="composerSort">Mauprey, André de</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Francisque Verdellet</field>
+<field name="librettistSort">Verdellet, Francisque</field>
+
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tout+а+la+femme+André+de+Mauprey&amp;search_field=search</field>
+</doc>
+</add>

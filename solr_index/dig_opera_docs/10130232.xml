@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130232</field>
+<field name="genre">Operas</field>
+<field name="title">Nightingale</field>
+<field name="titleSort">Nightingale</field>
+<field name="composer">Charles Strouse</field>
+<field name="composerSort">Strouse, Charles</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Charles Strouse</field>
+<field name="librettistSort">Strouse, Charles</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">First All Children's Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nightingale+Charles+Strouse&amp;search_field=search</field>
+</doc>
+</add>

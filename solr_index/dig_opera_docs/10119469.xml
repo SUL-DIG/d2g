@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119469</field>
+<field name="genre">Operas</field>
+<field name="title">L'arbore di Diana</field>
+<field name="titleSort">arbore di Diana</field>
+<field name="composer">Vincent Martín y Soler</field>
+<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Lorenzo Da Ponte</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arbore+di+Diana+Vincent+Martín+y+Soler&amp;search_field=search</field>
+</doc>
+</add>

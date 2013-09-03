@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132761</field>
+<field name="genre">Operas</field>
+<field name="title">Lilith</field>
+<field name="titleSort">Lilith</field>
+<field name="composer">Hugo Weisgall</field>
+<field name="composerSort">Weisgall, Hugo</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Lois Elman</field>
+<field name="librettistSort">Elman, Lois"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lilith+Hugo+Weisgall&amp;search_field=search</field>
+</doc>
+</add>

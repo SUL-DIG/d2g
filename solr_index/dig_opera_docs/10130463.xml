@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130463</field>
+<field name="genre">Operas</field>
+<field name="title">A csókkirály</field>
+<field name="titleSort">csókkirály</field>
+<field name="composer">Jenö Sztojanovits</field>
+<field name="composerSort">Sztojanovits, Jenö</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Dezso Orbán</field>
+<field name="librettistSort">Orbán, Dezso</field>
+<field name="theater">Fovárosi Nyári Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+csókkirály+Jenö+Sztojanovits&amp;search_field=search</field>
+</doc>
+</add>

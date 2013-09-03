@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102432</field>
+<field name="genre">Operas</field>
+<field name="title">Riccardo</field>
+<field name="titleSort">Riccardo</field>
+<field name="composer">Johan Herman Berens</field>
+<field name="composerSort">Berens, Johan Herman</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Fritz Arlberg</field>
+<field name="librettistSort">Arlberg, Fritz</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riccardo+Johan+Herman+Berens&amp;search_field=search</field>
+</doc>
+</add>

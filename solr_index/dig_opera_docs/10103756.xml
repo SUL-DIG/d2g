@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103756</field>
+<field name="genre">Operas</field>
+<field name="title">Hirotes und Gerline</field>
+<field name="titleSort">Hirotes und Gerline</field>
+<field name="composer">Siegfried Borris</field>
+<field name="composerSort">Borris, Siegfried</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Siegfried Borris</field>
+<field name="librettistSort">Borris, Siegfried</field>
+<field name="theater">RIAS Radio (Rundfunk im amerikanischen Sektor Berlin)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hirotes+und+Gerline+Siegfried+Borris&amp;search_field=search</field>
+</doc>
+</add>

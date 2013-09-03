@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114139</field>
+<field name="genre">Operas</field>
+<field name="title">Gwarkowie (The Miners)</field>
+<field name="titleSort">Gwarkowie (The Miners)</field>
+<field name="composer">Michal Hertz</field>
+<field name="composerSort">Hertz, Michal</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Franz von Schober</field>
+<field name="librettistSort">Schober, Franz von</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gwarkowie+The+Miners+Michal+Hertz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109271</field>
+<field name="genre">Operas</field>
+<field name="title">The Losers</field>
+<field name="titleSort">Losers</field>
+<field name="composer">Harold Farberman</field>
+<field name="composerSort">Farberman, Harold</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Barbara Fried</field>
+<field name="librettistSort">Fried, Barbara</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Losers+Harold+Farberman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107961</field>
+<field name="genre">Operas</field>
+<field name="title">Il furioso nell'isola di San Domingo</field>
+<field name="titleSort">furioso nell'isola di San Domingo</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+furioso+nell'isola+di+San+Domingo+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107445</field>
+<field name="genre">Operas</field>
+<field name="title">La fête du moulin</field>
+<field name="titleSort">fête du moulin</field>
+<field name="composer">Charles-Henri Dellain</field>
+<field name="composerSort">Dellain, Charles-Henri</field>
+<field name="year">1758</field>
+<field name="date">1758</field><field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+du+moulin+Charles-Henri+Dellain&amp;search_field=search</field>
+</doc>
+</add>

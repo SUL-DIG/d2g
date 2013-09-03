@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118970</field>
+<field name="genre">Operas</field>
+<field name="title">Ayame (Iris)</field>
+<field name="titleSort">Ayame (Iris)</field>
+<field name="composer">Yutaka Makino</field>
+<field name="composerSort">Makino, Yutaka</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Hiroshi Mizuo</field>
+<field name="librettistSort">Mizuo, Hiroshi</field>
+<field name="librettist">[Hiraoka Kimitake] Yukio Mishima</field>
+<field name="librettistSort">Mishima, Yukio [Hiraoka Kimitake]</field>
+<field name="theater">CBS Radio (Columbia Broadcasting System)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ayame+Iris+Yutaka+Makino&amp;search_field=search</field>
+</doc>
+</add>

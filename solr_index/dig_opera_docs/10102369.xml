@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102369</field>
+<field name="genre">Operas</field>
+<field name="title">The Devil Take Her</field>
+<field name="titleSort">Devil Take Her</field>
+<field name="composer">Arthur Benjamin</field>
+<field name="composerSort">Benjamin, Arthur</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Alan Collard</field>
+<field name="librettistSort">Collard, Alan</field>
+<field name="librettist">John B. Gordon</field>
+<field name="librettistSort">Gordon, John B.</field>
+<field name="theater">Royal College of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Devil+Take+Her+Arthur+Benjamin&amp;search_field=search</field>
+</doc>
+</add>

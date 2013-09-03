@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120761</field>
+<field name="genre">Operas</field>
+<field name="title">Das Licht</field>
+<field name="titleSort">Licht</field>
+<field name="composer">Erich Mirsch-Riccius</field>
+<field name="composerSort">Mirsch-Riccius, Erich</field>
+<field name="year">1935</field>
+<field name="date">1935</field><field name="theater">Berlin Shortwave Radio (Kurzwellensender Berlin)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Licht+Erich+Mirsch-Riccius&amp;search_field=search</field>
+</doc>
+</add>

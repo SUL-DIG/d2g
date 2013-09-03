@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102454</field>
+<field name="genre">Operas</field>
+<field name="title">Judith</field>
+<field name="titleSort">Judith</field>
+<field name="composer">Natanael Berg</field>
+<field name="composerSort">Berg, Natanael</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Natanael Berg</field>
+<field name="librettistSort">Berg, Natanael</field>
+<field name="librettist">Friedrich Hebbel</field>
+<field name="librettistSort">Hebbel, Friedrich</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Natanael+Berg&amp;search_field=search</field>
+</doc>
+</add>

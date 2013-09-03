@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108949</field>
+<field name="genre">Operas</field>
+<field name="title">Bánk bán</field>
+<field name="titleSort">Bánk bán</field>
+<field name="composer">Ferenc Erkel</field>
+<field name="composerSort">Erkel, Ferenc</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Béni Egressy</field>
+<field name="librettistSort">Egressy, Béni</field>
+<field name="librettist">József Katona</field>
+<field name="librettistSort">Katona, József</field>
+<field name="theater">Nemzeti Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bánk+bán+Ferenc+Erkel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201235</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der ewige Strom</field>
+		<field name="titleSort">ewige Strom</field>
+		<field name="year">1934</field>
+		
+		
+		<field name="date">1934</field>
+		<field name="composer">Wilhelm Maler</field>
+		<field name="composerSort">Maler, Wilhelm</field>
+		<field name="librettist">Stefan Andres</field>
+		<field name="librettistSort">Andres, Stefan</field>
+		
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+ewige+Strom+Wilhelm+Maler&amp;search_field=search</field>
+	</doc></add>

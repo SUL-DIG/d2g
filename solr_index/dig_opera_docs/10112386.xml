@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112386</field>
+<field name="genre">Operas</field>
+<field name="title">Filippo</field>
+<field name="titleSort">Filippo</field>
+<field name="composer">Luigi Gordigiani</field>
+<field name="composerSort">Gordigiani, Luigi</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Giuseppe Poniatowski</field>
+<field name="librettistSort">Poniatowski, Giuseppe</field>
+<field name="theater">Private Performance</field>
+<field name="city">Prato</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Filippo+Luigi+Gordigiani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125367</field>
+<field name="genre">Operas</field>
+<field name="title">Lucas et Cécile</field>
+<field name="titleSort">Lucas et Cécile</field>
+<field name="composer">Joseph Quesnel</field>
+<field name="composerSort">Quesnel, Joseph</field>
+
+
+<field name="librettist">Joseph Quesnel</field>
+<field name="librettistSort">Quesnel, Joseph"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucas+et+Cécile+Joseph+Quesnel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126357</field>
+<field name="genre">Operas</field>
+<field name="title">Le barbier de Molarido</field>
+<field name="titleSort">barbier de Molarido</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Paul Siraudin</field>
+<field name="librettistSort">Siraudin, Paul</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+barbier+de+Molarido+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

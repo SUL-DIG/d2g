@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109235</field>
+<field name="genre">Operas</field>
+<field name="title">Paroli (Frau Denise)</field>
+<field name="titleSort">Paroli (Frau Denise)</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Ludwig Fernand</field>
+<field name="librettistSort">Fernand, Ludwig</field>
+<field name="theater">Intimes-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paroli+Frau+Denise+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

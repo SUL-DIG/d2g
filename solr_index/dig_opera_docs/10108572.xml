@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108572</field>
+<field name="genre">Operas</field>
+<field name="title">Nannerina e Pandolfino</field>
+<field name="titleSort">Nannerina e Pandolfino</field>
+<field name="composer">Pierre Dutillieu</field>
+<field name="composerSort">Dutillieu, Pierre</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nannerina+e+Pandolfino+Pierre+Dutillieu&amp;search_field=search</field>
+</doc>
+</add>

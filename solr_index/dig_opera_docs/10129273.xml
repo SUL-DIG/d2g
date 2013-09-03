@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129273</field>
+<field name="genre">Operas</field>
+<field name="title">Nozze istriane</field>
+<field name="titleSort">Nozze istriane</field>
+<field name="composer">Antonio Smareglia</field>
+<field name="composerSort">Smareglia, Antonio</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Luigi Illica</field>
+<field name="librettistSort">Illica, Luigi</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nozze+istriane+Antonio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

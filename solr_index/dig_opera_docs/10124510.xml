@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124510</field>
+<field name="genre">Operas</field>
+<field name="title">Der Wahrheitsmund</field>
+<field name="titleSort">Wahrheitsmund</field>
+<field name="composer">Heinrich August Platzbecker</field>
+<field name="composerSort">Platzbecker, Heinrich August</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Heinrich August Platzbecker</field>
+<field name="librettistSort">Platzbecker, Heinrich August</field>
+<field name="librettist">Adele Osterloh</field>
+<field name="librettistSort">Osterloh, Adele</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Wahrheitsmund+Heinrich+August+Platzbecker&amp;search_field=search</field>
+</doc>
+</add>

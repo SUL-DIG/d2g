@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121517</field>
+<field name="genre">Operas</field>
+<field name="title">Der Liebeshof</field>
+<field name="titleSort">Liebeshof</field>
+<field name="composer">Adolf Müller (jr.)</field>
+<field name="composerSort">Müller (jr.), Adolf</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Hugo Wittmann</field>
+<field name="librettistSort">Wittmann, Hugo</field>
+<field name="librettist">Oskar Blumenthal</field>
+<field name="librettistSort">Blumenthal, Oskar</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Liebeshof+Adolf+Müller+jr.&amp;search_field=search</field>
+</doc>
+</add>

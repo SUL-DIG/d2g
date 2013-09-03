@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133736</field>
+<field name="genre">Operas</field>
+<field name="title">Matteo Falcone</field>
+<field name="titleSort">Matteo Falcone</field>
+<field name="composer">Heinrich Zöllner</field>
+<field name="composerSort">Zöllner, Heinrich</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Heinrich Zöllner</field>
+<field name="librettistSort">Zöllner, Heinrich</field>
+<field name="theater">Irving Place Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matteo+Falcone+Heinrich+Zöllner&amp;search_field=search</field>
+</doc>
+</add>

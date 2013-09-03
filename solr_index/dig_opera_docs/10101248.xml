@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101248</field>
+<field name="genre">Operas</field>
+<field name="title">L'école des caresses</field>
+<field name="titleSort">école des caresses</field>
+<field name="composer">Raphaël Ascione</field>
+<field name="composerSort">Ascione, Raphaël</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">[Carle Lionel Dauriac] Armory</field>
+<field name="librettistSort">Armory, [Carle Lionel Dauriac]</field>
+<field name="theater">Théâtre du Moulin-Bleu</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'école+des+caresses+Raphaël+Ascione&amp;search_field=search</field>
+</doc>
+</add>

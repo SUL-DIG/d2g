@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102721</field>
+<field name="genre">Operas</field>
+<field name="title">Délia et Verdikan</field>
+<field name="titleSort">Délia et Verdikan</field>
+<field name="composer">Henri-Montan Berton</field>
+<field name="composerSort">Berton, Henri-Montan</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Pierre-Jean-Baptiste-François Elleviou</field>
+<field name="librettistSort">Elleviou, Pierre-Jean-Baptiste-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Délia+et+Verdikan+Henri-Montan+Berton&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120243</field>
+<field name="genre">Operas</field>
+<field name="title">Apothéose de Talma</field>
+<field name="titleSort">Apothéose de Talma</field>
+<field name="composer">Martin-Joseph Mengal</field>
+<field name="composerSort">Mengal, Martin-Joseph</field>
+<field name="year">1826</field>
+<field name="date">1826</field><field name="theater">Théâtre Saint-Sebastian</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apothéose+de+Talma+Martin-Joseph+Mengal&amp;search_field=search</field>
+</doc>
+</add>

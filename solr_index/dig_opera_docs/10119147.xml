@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119147</field>
+<field name="genre">Operas</field>
+<field name="title">Ecuba</field>
+<field name="titleSort">Ecuba</field>
+<field name="composer">Nicola Antonio Manfroce</field>
+<field name="composerSort">Manfroce, Nicola Antonio</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Giovanni Schmidt</field>
+<field name="librettistSort">Schmidt, Giovanni</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ecuba+Nicola+Antonio+Manfroce&amp;search_field=search</field>
+</doc>
+</add>

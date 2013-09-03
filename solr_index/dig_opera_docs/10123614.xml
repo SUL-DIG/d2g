@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123614</field>
+<field name="genre">Operas</field>
+<field name="title">La costanza in trionfo</field>
+<field name="titleSort">costanza in trionfo</field>
+<field name="composer">Francesco Peli</field>
+<field name="composerSort">Peli, Francesco</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Perozzo da Perozzi</field>
+<field name="librettistSort">Perozzi, Perozzo da</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+in+trionfo+Francesco+Peli&amp;search_field=search</field>
+</doc>
+</add>

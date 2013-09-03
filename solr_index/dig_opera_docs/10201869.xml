@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201869</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Hirten bei der Krippe zu Betlehem</field>
+		<field name="titleSort">Hirten bei der Krippe zu Betlehem</field>
+		<field name="year">1818</field>
+		<field name="month">December</field>
+		<field name="day">25</field>
+		<field name="date">December 25, 1818</field>
+		<field name="composer">Franz Stanislaus Spindler</field>
+		<field name="composerSort">Spindler, Franz Stanislaus</field>
+		<field name="librettist">Karl Wilhelm Ramler</field>
+		<field name="librettistSort">Ramler, Karl Wilhelm</field>
+		
+		
+		<field name="city">Strasbourg</field>
+		<field name="region">Bas-Rhin</field>
+		<field name="country">France</field>
+		<field name="subject">The Adoration of the Shepherds</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hirten+bei+der+Krippe+zu+Betlehem+Franz+Stanislaus+Spindler&amp;search_field=search</field>
+	</doc></add>

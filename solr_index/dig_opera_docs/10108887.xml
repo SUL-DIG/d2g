@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108887</field>
+<field name="genre">Operas</field>
+<field name="title">Revue</field>
+<field name="titleSort">Revue</field>
+<field name="composer">Hans Ulrich Engelmann</field>
+<field name="composerSort">Engelmann, Hans Ulrich</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Wolfgang Swaczynna</field>
+<field name="librettistSort">Swaczynna, Wolfgang</field>
+<field name="theater">Werkstattbühne</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Revue+Hans+Ulrich+Engelmann&amp;search_field=search</field>
+</doc>
+</add>

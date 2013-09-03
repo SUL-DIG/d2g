@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101138</field>
+<field name="genre">Operas</field>
+<field name="title">Vor Gott gilt das Gebet</field>
+<field name="titleSort">Vor Gott gilt das Gebet</field>
+<field name="composer">Youry von Arnold</field>
+<field name="composerSort">Arnold, Youry von</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vor+Gott+gilt+das+Gebet+Youry+von+Arnold&amp;search_field=search</field>
+</doc>
+</add>

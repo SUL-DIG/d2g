@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116318</field>
+<field name="genre">Operas</field>
+<field name="title">De bruiloft van Kloris en Roosje</field>
+<field name="titleSort">bruiloft van Kloris en Roosje</field>
+<field name="composer">Servaas de Konink</field>
+<field name="composerSort">Konink, Servaas de</field>
+<field name="year">1688</field>
+<field name="date">1688</field>
+<field name="librettist">Dirk Buysero</field>
+<field name="librettistSort">Buysero, Dirk</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+bruiloft+van+Kloris+en+Roosje+Servaas+de+Konink&amp;search_field=search</field>
+</doc>
+</add>

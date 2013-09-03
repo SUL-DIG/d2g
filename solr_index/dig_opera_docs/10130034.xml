@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130034</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore vince l'inganno</field>
+<field name="titleSort">amore vince l'inganno</field>
+<field name="composer">Gottfried Heinrich Stölzel</field>
+<field name="composerSort">Stölzel, Gottfried Heinrich</field>
+<field name="year">1736</field>
+<field name="date">1736</field><field name="theater">Schloss Friedenstein</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+vince+l'inganno+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
+</doc>
+</add>

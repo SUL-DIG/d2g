@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112714</field>
+<field name="genre">Operas</field>
+<field name="title">"Céphale et Procris, ou L'amour conjugal</field>
+<field name="titleSort">"Céphale et Procris, ou L'amour conjugal"</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Château de Versailles</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Céphale+et+Procris,+ou+L'amour+conjugal+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

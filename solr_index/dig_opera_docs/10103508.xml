@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103508</field>
+<field name="genre">Operas</field>
+<field name="title">Sulle rive dell'Danubio</field>
+<field name="titleSort">Sulle rive dell'Danubio</field>
+<field name="composer">Carlo Bondonio</field>
+<field name="composerSort">Bondonio, Carlo</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Carlo Bondonio</field>
+<field name="librettistSort">Bondonio, Carlo</field>
+<field name="theater">Politeama Nazionale</field>
+<field name="city">Asti</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sulle+rive+dell'Danubio+Carlo+Bondonio&amp;search_field=search</field>
+</doc>
+</add>

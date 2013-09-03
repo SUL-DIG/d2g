@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132648</field>
+<field name="genre">Operas</field>
+<field name="title">"König Waldemar, oder Die dänischen Fischer</field>
+<field name="titleSort">"König Waldemar, oder Die dänischen Fischer"</field>
+<field name="composer">Joseph Weigl</field>
+<field name="composerSort">Weigl, Joseph</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Ignaz Franz Castelli</field>
+<field name="librettistSort">Castelli, Ignaz Franz</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Waldemar,+oder+Die+dänischen+Fischer+Joseph+Weigl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201587</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioas, re di Giuda</field>
+		<field name="titleSort">Gioas, re di Giuda</field>
+		<field name="year">1747</field>
+		<field name="month">July</field>
+		<field name="day">17</field>
+		<field name="date">July 17, 1747</field>
+		<field name="composer">Gennaro Manna</field>
+		<field name="composerSort">Manna, Gennaro</field>
+		
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioas,+re+di+Giuda+Gennaro+Manna&amp;search_field=search</field>
+	</doc></add>

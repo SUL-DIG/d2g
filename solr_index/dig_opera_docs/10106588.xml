@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106588</field>
+<field name="genre">Operas</field>
+<field name="title">La maestra</field>
+<field name="titleSort">maestra</field>
+<field name="composer">Francesco Corbisieri</field>
+<field name="composerSort">Corbisieri, Francesco</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maestra+Francesco+Corbisieri&amp;search_field=search</field>
+</doc>
+</add>

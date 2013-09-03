@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113431</field>
+<field name="genre">Operas</field>
+<field name="title">Pygmalion</field>
+<field name="titleSort">Pygmalion</field>
+<field name="composer">Henri Hamal</field>
+<field name="composerSort">Hamal, Henri</field>
+
+
+<field name="librettist">Jean-Jacques Rousseau</field>
+<field name="librettistSort">Rousseau, Jean-Jacques"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pygmalion+Henri+Hamal&amp;search_field=search</field>
+</doc>
+</add>

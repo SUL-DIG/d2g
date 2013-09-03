@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102208</field>
+<field name="genre">Operas</field>
+<field name="title">La figlia di Domenico</field>
+<field name="titleSort">figlia di Domenico</field>
+<field name="composer">Antonio Belgiojoso</field>
+<field name="composerSort">Belgiojoso, Antonio</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Ferdinand de Villeneuve</field>
+<field name="librettistSort">Villeneuve, Ferdinand de</field>
+<field name="librettist">[Charles de Livry] Charles</field>
+<field name="librettistSort">Charles, [Charles de Livry]</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+di+Domenico+Antonio+Belgiojoso&amp;search_field=search</field>
+</doc>
+</add>

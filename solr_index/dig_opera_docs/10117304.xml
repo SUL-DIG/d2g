@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117304</field>
+<field name="genre">Operas</field>
+<field name="title">The Silver Fox</field>
+<field name="titleSort">Silver Fox</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">John Olive</field>
+<field name="librettistSort">Olive, John</field>
+<field name="theater">Minnesota Opera Workshop</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Silver+Fox+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

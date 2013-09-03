@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111820</field>
+<field name="genre">Operas</field>
+<field name="title">Hotel Stadt Lemberg</field>
+<field name="titleSort">Hotel Stadt Lemberg</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Ernst Neubach</field>
+<field name="librettistSort">Neubach, Ernst</field>
+<field name="theater">Deutsches Schauspiele Haus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hotel+Stadt+Lemberg+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

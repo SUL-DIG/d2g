@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103886</field>
+<field name="genre">Operas</field>
+<field name="title">Mon oncle Benjamin</field>
+<field name="titleSort">Mon oncle Benjamin</field>
+<field name="composer">Francis Bousquet</field>
+<field name="composerSort">Bousquet, Francis</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Georges Ricou</field>
+<field name="librettistSort">Ricou, Georges</field>
+<field name="librettist">Claude Tillier</field>
+<field name="librettistSort">Tillier, Claude</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mon+oncle+Benjamin+Francis+Bousquet&amp;search_field=search</field>
+</doc>
+</add>

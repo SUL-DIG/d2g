@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132663</field>
+<field name="genre">Operas</field>
+<field name="title">Das Waisenhaus</field>
+<field name="titleSort">Waisenhaus</field>
+<field name="composer">Joseph Weigl</field>
+<field name="composerSort">Weigl, Joseph</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Georg Friedrich Treitschke</field>
+<field name="librettistSort">Treitschke, Georg Friedrich</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Waisenhaus+Joseph+Weigl&amp;search_field=search</field>
+</doc>
+</add>

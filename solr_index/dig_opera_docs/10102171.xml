@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102171</field>
+<field name="genre">Operas</field>
+<field name="title">Der Strike der Schmiede</field>
+<field name="titleSort">Strike der Schmiede</field>
+<field name="composer">Max Josef Beer</field>
+<field name="composerSort">Beer, Max Josef</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Strike+der+Schmiede+Max+Josef+Beer&amp;search_field=search</field>
+</doc>
+</add>

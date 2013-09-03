@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118672</field>
+<field name="genre">Operas</field>
+<field name="title">Jack</field>
+<field name="titleSort">Jack</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="librettist">Miksa Bródy</field>
+<field name="librettistSort">Bródy, Miksa</field>
+<field name="theater">Teatro Circo de Price</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jack+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120618</field>
+<field name="genre">Operas</field>
+<field name="title">Les jumeaux</field>
+<field name="titleSort">jumeaux</field>
+<field name="composer">Marcel Mihalovici</field>
+<field name="composerSort">Mihalovici, Marcel</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Claude Rostand</field>
+<field name="librettistSort">Rostand, Claude</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+jumeaux+Marcel+Mihalovici&amp;search_field=search</field>
+</doc>
+</add>

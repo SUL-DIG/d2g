@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128841</field>
+<field name="genre">Operas</field>
+<field name="title">Die Lügnerin</field>
+<field name="titleSort">Lügnerin</field>
+<field name="composer">Carl Seidemann</field>
+<field name="composerSort">Seidemann, Carl</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Carl Seidemann</field>
+<field name="librettistSort">Seidemann, Carl</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Hagen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Lügnerin+Carl+Seidemann&amp;search_field=search</field>
+</doc>
+</add>

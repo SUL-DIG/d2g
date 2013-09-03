@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125855</field>
+<field name="genre">Operas</field>
+<field name="title">La camera degli sposi</field>
+<field name="titleSort">camera degli sposi</field>
+<field name="composer">Paolo Renosto</field>
+<field name="composerSort">Renosto, Paolo</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Aldo Rostagno</field>
+<field name="librettistSort">Rostagno, Aldo</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+camera+degli+sposi+Paolo+Renosto&amp;search_field=search</field>
+</doc>
+</add>

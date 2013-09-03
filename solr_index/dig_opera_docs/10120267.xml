@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120267</field>
+<field name="genre">Operas</field>
+<field name="title">The Well</field>
+<field name="titleSort">Well</field>
+<field name="composer">Louis Mennini</field>
+<field name="composerSort">Mennini, Louis</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Louis Mennini</field>
+<field name="librettistSort">Mennini, Louis</field>
+<field name="theater">Eastman School of Music</field>
+<field name="city">Rochester</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Well+Louis+Mennini&amp;search_field=search</field>
+</doc>
+</add>

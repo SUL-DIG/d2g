@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119395</field>
+<field name="genre">Operas</field>
+<field name="title">Le vieux roi</field>
+<field name="titleSort">vieux roi</field>
+<field name="composer">Antoine Mariotte</field>
+<field name="composerSort">Mariotte, Antoine</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Rémy de Gourmont</field>
+<field name="librettistSort">Gourmont, Rémy de</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vieux+roi+Antoine+Mariotte&amp;search_field=search</field>
+</doc>
+</add>

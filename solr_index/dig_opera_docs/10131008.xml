@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131008</field>
+<field name="genre">Operas</field>
+<field name="title">Sainte Godelive</field>
+<field name="titleSort">Sainte Godelive</field>
+<field name="composer">Edgar Tinel</field>
+<field name="composerSort">Tinel, Edgar</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Hilda Ram</field>
+<field name="librettistSort">Ram, Hilda</field>
+<field name="theater">Salle des fêtes de l'Exposition Internationale</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sainte+Godelive+Edgar+Tinel&amp;search_field=search</field>
+</doc>
+</add>

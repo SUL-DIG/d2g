@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102405</field>
+<field name="genre">Operas</field>
+<field name="title">Patschou-ly</field>
+<field name="titleSort">Patschou-ly</field>
+<field name="composer">Frédéric Bentayoux</field>
+<field name="composerSort">Bentayoux, Frédéric</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">René de Saint-Prest</field>
+<field name="librettistSort">Saint-Prest, René de</field>
+<field name="librettist">Albert de Bausset</field>
+<field name="librettistSort">Bausset, Albert de</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patschou-ly+Frédéric+Bentayoux&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119424</field>
+<field name="genre">Operas</field>
+<field name="title">Amore e morte</field>
+<field name="titleSort">Amore e morte</field>
+<field name="composer">Giuseppe Marrone</field>
+<field name="composerSort">Marrone, Giuseppe</field>
+<field name="year">1905</field>
+<field name="date">1905</field><field name="theater">Teatro Fenaroli</field>
+<field name="city">Lanciano</field>
+<field name="region">Abruzzi</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+morte+Giuseppe+Marrone&amp;search_field=search</field>
+</doc>
+</add>

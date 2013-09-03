@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125811</field>
+<field name="genre">Operas</field>
+<field name="title">Napoleon und die Frauen</field>
+<field name="titleSort">Napoleon und die Frauen</field>
+<field name="composer">Heinrich Reinhardt</field>
+<field name="composerSort">Reinhardt, Heinrich</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Heinrich Reinhardt</field>
+<field name="librettistSort">Reinhardt, Heinrich</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Napoleon+und+die+Frauen+Heinrich+Reinhardt&amp;search_field=search</field>
+</doc>
+</add>

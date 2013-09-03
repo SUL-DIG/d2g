@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101964</field>
+<field name="genre">Operas</field>
+<field name="title">Der Feldwebel</field>
+<field name="titleSort">Feldwebel</field>
+<field name="composer">Johann Bartz</field>
+<field name="composerSort">Bartz, Johann</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">H. Rockstroh</field>
+<field name="librettistSort">Rockstroh, H.</field>
+<field name="theater">German Club</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Feldwebel+Johann+Bartz&amp;search_field=search</field>
+</doc>
+</add>

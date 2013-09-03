@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112254</field>
+<field name="genre">Operas</field>
+<field name="title">La vivandière</field>
+<field name="titleSort">vivandière</field>
+<field name="composer">Benjamin Godard</field>
+<field name="composerSort">Godard, Benjamin</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vivandière+Benjamin+Godard&amp;search_field=search</field>
+</doc>
+</add>

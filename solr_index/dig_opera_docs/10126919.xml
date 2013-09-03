@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126919</field>
+<field name="genre">Operas</field>
+<field name="title">Mikulás</field>
+<field name="titleSort">Mikulás</field>
+<field name="composer">Josef Richard Rozkosný</field>
+<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Karel Sabina</field>
+<field name="librettistSort">Sabina, Karel</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mikulás+Josef+Richard+Rozkosný&amp;search_field=search</field>
+</doc>
+</add>

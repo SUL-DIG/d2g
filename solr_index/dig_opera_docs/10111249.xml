@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111249</field>
+<field name="genre">Operas</field>
+<field name="title">Scylla</field>
+<field name="titleSort">Scylla</field>
+<field name="composer">Theobaldo di Gatti</field>
+<field name="composerSort">Gatti, Theobaldo di</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Joseph-François Duché de Vancy</field>
+<field name="librettistSort">Duché de Vancy, Joseph-François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scylla+Theobaldo+di+Gatti&amp;search_field=search</field>
+</doc>
+</add>

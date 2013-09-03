@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101894</field>
+<field name="genre">Operas</field>
+<field name="title">Papagayo</field>
+<field name="titleSort">Papagayo</field>
+<field name="composer">Edward Barnes</field>
+<field name="composerSort">Barnes, Edward</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Edward Barnes</field>
+<field name="librettistSort">Barnes, Edward</field>
+<field name="theater">Civic Auditorium</field>
+<field name="city">San Diego</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Papagayo+Edward+Barnes&amp;search_field=search</field>
+</doc>
+</add>

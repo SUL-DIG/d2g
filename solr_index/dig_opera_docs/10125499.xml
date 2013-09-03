@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125499</field>
+<field name="genre">Operas</field>
+<field name="title">Il tramonto del sole</field>
+<field name="titleSort">tramonto del sole</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Anacarsi Macedonio</field>
+<field name="librettistSort">Macedonio, Anacarsi</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tramonto+del+sole+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

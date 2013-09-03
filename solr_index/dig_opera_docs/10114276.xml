@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114276</field>
+<field name="genre">Operas</field>
+<field name="title">"A Moorish Maid, or The Queen of the Riffs</field>
+<field name="titleSort">"Moorish Maid, or The Queen of the Riffs"</field>
+<field name="composer">Alfred Hill</field>
+<field name="composerSort">Hill, Alfred</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">John Youlin Birch</field>
+<field name="librettistSort">Birch, John Youlin</field>
+<field name="theater">His Majesty's Theatre</field>
+<field name="city">Auckland</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Moorish+Maid,+or+The+Queen+of+the+Riffs+Alfred+Hill&amp;search_field=search</field>
+</doc>
+</add>

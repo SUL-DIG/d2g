@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115568</field>
+<field name="genre">Operas</field>
+<field name="title">Brandy is my True Love's Name</field>
+<field name="titleSort">Brandy is my True Love's Name</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Atra Baer</field>
+<field name="librettistSort">Baer, Atra</field>
+<field name="theater">Blackfriars Theater Guild</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brandy+is+my+TRUE+Love's+Name+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126933</field>
+<field name="genre">Operas</field>
+<field name="title">Mlyn diabelski (The Devil's Mill)</field>
+<field name="titleSort">Mlyn diabelski (The Devil's Mill)</field>
+<field name="composer">Ludomir Rózycki</field>
+<field name="composerSort">Rózycki, Ludomir</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Juliusz Krzewinski-Maszynski</field>
+<field name="librettistSort">Krzewinski-Maszynski, Juliusz</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Poznan</field>
+<field name="region">Wielkopolskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mlyn+diabelski+The+Devil's+Mill+Ludomir+Rózycki&amp;search_field=search</field>
+</doc>
+</add>

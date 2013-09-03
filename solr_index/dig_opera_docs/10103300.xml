@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103300</field>
+<field name="genre">Operas</field>
+<field name="title">"Zoraide, oder Der Friede von Granada</field>
+<field name="titleSort">"Zoraide, oder Der Friede von Granada"</field>
+<field name="composer">Carl Blum</field>
+<field name="composerSort">Blum, Carl</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Carl Blum</field>
+<field name="librettistSort">Blum, Carl</field>
+<field name="librettist">Victor Joseph Étienne de Jouy</field>
+<field name="librettistSort">Jouy, Victor Joseph Étienne de</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zoraide,+oder+Der+Friede+von+Granada+Carl+Blum&amp;search_field=search</field>
+</doc>
+</add>

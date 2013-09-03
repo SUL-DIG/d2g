@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110078</field>
+<field name="genre">Operas</field>
+<field name="title">Maruzza</field>
+<field name="titleSort">Maruzza</field>
+<field name="composer">Pietro Floridia</field>
+<field name="composerSort">Floridia, Pietro</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Pietro Floridia</field>
+<field name="librettistSort">Floridia, Pietro</field>
+<field name="theater">Teatro Malibran</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maruzza+Pietro+Floridia&amp;search_field=search</field>
+</doc>
+</add>

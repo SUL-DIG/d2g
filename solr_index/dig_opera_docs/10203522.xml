@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203522</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Psalmus</field>
+		<field name="titleSort">Psalmus</field>
+		<field name="year">1988</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1988</field>
+		<field name="composer">Uuno Klami</field>
+		<field name="composerSort">Klami, Uuno</field>
+		<field name="librettist">Juhana Cajanus</field>
+		<field name="librettistSort">Cajanus, Juhana</field>
+		
+		<field name="theater">Järvenpää Hall</field>
+		<field name="city">Helsinki</field>
+		<field name="region">Uudenmaan</field>
+		<field name="country">Finland</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Psalmus+Uuno+Klami&amp;search_field=search</field>
+	</doc></add>

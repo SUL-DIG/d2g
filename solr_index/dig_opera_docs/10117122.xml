@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117122</field>
+<field name="genre">Operas</field>
+<field name="title">The Magi</field>
+<field name="titleSort">Magi</field>
+<field name="composer">John La Montaine</field>
+<field name="composerSort">Montaine, John La</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">John La Montaine</field>
+<field name="librettistSort">La Montaine, John</field>
+<field name="theater">National Cathedral</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Magi+John+La+Montaine&amp;search_field=search</field>
+</doc>
+</add>

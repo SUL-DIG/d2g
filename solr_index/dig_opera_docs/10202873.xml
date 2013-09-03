@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202873</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moses</field>
+		<field name="titleSort">Moses</field>
+		<field name="year">1843</field>
+		<field name="month">October</field>
+		<field name="day">9</field>
+		<field name="date">October 9, 1843</field>
+		<field name="composer">Aloys Schmitt</field>
+		<field name="composerSort">Schmitt, Aloys</field>
+		<field name="librettist">Wilhelm Kilzer</field>
+		<field name="librettistSort">Kilzer, Wilhelm</field>
+		
+		
+		<field name="city">Nuremberg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">Moses</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+Aloys+Schmitt&amp;search_field=search</field>
+	</doc></add>

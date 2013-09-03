@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204196</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La scinda di Gesù Cristo al limbo</field>
+		<field name="titleSort">scinda di Gesù Cristo al limbo</field>
+		<field name="year">1827</field>
+		
+		
+		<field name="date">1827</field>
+		<field name="composer">Paolo Bonfichi</field>
+		<field name="composerSort">Bonfichi, Paolo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christ in Limbo</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+scinda+di+Gesù+Cristo+al+limbo+Paolo+Bonfichi&amp;search_field=search</field>
+	</doc></add>

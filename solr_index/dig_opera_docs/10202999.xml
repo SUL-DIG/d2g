@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202999</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Una notte di Natale</field>
+		<field name="titleSort">Una notte di Natale</field>
+		<field name="year">1982</field>
+		
+		
+		<field name="date">1982</field>
+		<field name="composer">Claudio Cavadini</field>
+		<field name="composerSort">Cavadini, Claudio</field>
+		<field name="librettist">Claudio Cavadini</field>
+		<field name="librettistSort">Cavadini, Claudio</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+notte+di+Natale+Claudio+Cavadini&amp;search_field=search</field>
+	</doc></add>

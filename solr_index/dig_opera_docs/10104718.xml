@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104718</field>
+<field name="genre">Operas</field>
+<field name="title">Pomona</field>
+<field name="titleSort">Pomona</field>
+<field name="composer">Robert Cambert</field>
+<field name="composerSort">Cambert, Robert</field>
+<field name="year">1671</field>
+<field name="date">1671</field>
+<field name="librettist">Pierre Perrin</field>
+<field name="librettistSort">Perrin, Pierre</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pomona+Robert+Cambert&amp;search_field=search</field>
+</doc>
+</add>

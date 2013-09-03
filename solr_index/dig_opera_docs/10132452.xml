@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132452</field>
+<field name="genre">Operas</field>
+<field name="title">Where's Dick?</field>
+<field name="titleSort">Where's Dick?</field>
+<field name="composer">Stewart Wallace</field>
+<field name="composerSort">Wallace, Stewart</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Michael Korie</field>
+<field name="librettistSort">Korie, Michael</field>
+<field name="theater">"Witherspoon Auditorium, Joslyn Art Museum"</field>
+<field name="city">Omaha</field>
+<field name="region">Nebraska</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Where's+Dick?+Stewart+Wallace&amp;search_field=search</field>
+</doc>
+</add>

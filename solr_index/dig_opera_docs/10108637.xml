@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108637</field>
+<field name="genre">Operas</field>
+<field name="title">The Lion and Androcles</field>
+<field name="titleSort">Lion and Androcles</field>
+<field name="composer">John Charles Eaton</field>
+<field name="composerSort">Eaton, John Charles</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Eugene Walter</field>
+<field name="librettistSort">Walter, Eugene</field>
+<field name="librettist">David Anderson</field>
+<field name="librettistSort">Anderson, David</field>
+<field name="theater">Public School No. 47</field>
+<field name="city">Indianapolis</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lion+and+Androcles+John+Charles+Eaton&amp;search_field=search</field>
+</doc>
+</add>

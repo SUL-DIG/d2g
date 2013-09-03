@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129364</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Curzio</field>
+<field name="titleSort">Marco Curzio</field>
+<field name="composer">Pasquale Antonio Soffi</field>
+<field name="composerSort">Soffi, Pasquale Antonio</field>
+<field name="year">1791</field>
+<field name="date">1791</field><field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Curzio+Pasquale+Antonio+Soffi&amp;search_field=search</field>
+</doc>
+</add>

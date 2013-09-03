@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121753</field>
+<field name="genre">Operas</field>
+<field name="title">Zylia-Zy</field>
+<field name="titleSort">Zylia-Zy</field>
+<field name="composer">Liverato Nardelli</field>
+<field name="composerSort">Nardelli, Liverato</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">G. Zarzuelo</field>
+<field name="librettistSort">Zarzuelo, G.</field>
+<field name="theater">Teatro Reinach</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zylia-Zy+Liverato+Nardelli&amp;search_field=search</field>
+</doc>
+</add>

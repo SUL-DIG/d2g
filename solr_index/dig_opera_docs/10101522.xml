@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101522</field>
+<field name="genre">Operas</field>
+<field name="title">Le damigelle di Saint Cyr</field>
+<field name="titleSort">damigelle di Saint Cyr</field>
+<field name="composer">Cesare Bacchini</field>
+<field name="composerSort">Bacchini, Cesare</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Gaetano Bacchini</field>
+<field name="librettistSort">Bacchini, Gaetano</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+damigelle+di+Saint+Cyr+Cesare+Bacchini&amp;search_field=search</field>
+</doc>
+</add>

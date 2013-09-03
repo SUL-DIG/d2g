@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132148</field>
+<field name="genre">Operas</field>
+<field name="title">Nazareth</field>
+<field name="titleSort">Nazareth</field>
+<field name="composer">Franco Vittadini</field>
+<field name="composerSort">Vittadini, Franco</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Giuseppe Adami</field>
+<field name="librettistSort">Adami, Giuseppe</field>
+<field name="theater">Teatro Fraschini</field>
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nazareth+Franco+Vittadini&amp;search_field=search</field>
+</doc>
+</add>

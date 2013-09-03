@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127199</field>
+<field name="genre">Operas</field>
+<field name="title">Il Ruggiero</field>
+<field name="titleSort">Ruggiero</field>
+<field name="composer">Bernardo Sabadini</field>
+<field name="composerSort">Sabadini, Bernardo</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Giovanni Tamagni</field>
+<field name="librettistSort">Tamagni, Giovanni</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Ruggiero+Bernardo+Sabadini&amp;search_field=search</field>
+</doc>
+</add>

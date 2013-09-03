@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106909</field>
+<field name="genre">Operas</field>
+<field name="title">Snezhnïy bogatïr' (The Snow Prince)</field>
+<field name="titleSort">Snezhnïy bogatïr' (The Snow Prince)</field>
+<field name="composer">César Antonovich Cui</field>
+<field name="composerSort">Cui, César Antonovich</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Marina Stanislavovna Pol'</field>
+<field name="librettistSort">Pol', Marina Stanislavovna</field>
+
+<field name="city">Yalta</field>
+<field name="region">Donets'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snezhnïy+bogatïr'+The+Snow+Prince+César+Antonovich+Cui&amp;search_field=search</field>
+</doc>
+</add>

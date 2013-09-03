@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115922</field>
+<field name="genre">Operas</field>
+<field name="title">"Gulyan'ye, ili Sadovnik Kuskovskoy</field>
+<field name="titleSort">"Gulyan'ye, ili Sadovnik Kuskovskoy"</field>
+<field name="composer">Ivan or Mikhail Kerzelli</field>
+<field name="composerSort">Kerzelli, Ivan or Mikhail</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Vasily Petrovich Kolïchev</field>
+<field name="librettistSort">Kolïchev, Vasily Petrovich</field>
+<field name="theater">Count Sheremet'yev Estate</field>
+<field name="city">Kuskovo</field>
+<field name="region">Moskva Oblast</field>
+<field name="country">Russia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gulyan'ye,+ili+Sadovnik+Kuskovskoy+Ivan+or+Mikhail+Kerzelli&amp;search_field=search</field>
+</doc>
+</add>

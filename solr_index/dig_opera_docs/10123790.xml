@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123790</field>
+<field name="genre">Operas</field>
+<field name="title">Adriana Lecouvreur</field>
+<field name="titleSort">Adriana Lecouvreur</field>
+<field name="composer">Ettore Perosio</field>
+<field name="composerSort">Perosio, Ettore</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Giuseppe Perosio</field>
+<field name="librettistSort">Perosio, Giuseppe</field>
+<field name="theater">Teatro Paganini</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriana+Lecouvreur+Ettore+Perosio&amp;search_field=search</field>
+</doc>
+</add>

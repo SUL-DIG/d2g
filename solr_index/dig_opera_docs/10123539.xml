@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123539</field>
+<field name="genre">Operas</field>
+<field name="title">Der wilde Jäger</field>
+<field name="titleSort">wilde Jäger</field>
+<field name="composer">Hieronymus Payer</field>
+<field name="composerSort">Payer, Hieronymus</field>
+<field name="year">1806</field>
+<field name="date">1806</field><field name="theater">Theater in Meidling</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+wilde+Jäger+Hieronymus+Payer&amp;search_field=search</field>
+</doc>
+</add>

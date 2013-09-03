@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132295</field>
+<field name="genre">Operas</field>
+<field name="title">"Maranterl, oder Die drei Rätsel</field>
+<field name="titleSort">"Maranterl, oder Die drei Rätsel"</field>
+<field name="composer">Franz Volkert</field>
+<field name="composerSort">Volkert, Franz</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">__ Teischl</field>
+<field name="librettistSort">Teischl, __</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maranterl,+oder+Die+drei+Rätsel+Franz+Volkert&amp;search_field=search</field>
+</doc>
+</add>

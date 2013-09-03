@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100631</field>
+<field name="genre">Operas</field>
+<field name="title">Fifi</field>
+<field name="titleSort">Fifi</field>
+<field name="composer">Alberto Amelio</field>
+<field name="composerSort">Amelio, Alberto</field>
+<field name="year">1894</field>
+<field name="date">1894</field><field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fifi+Alberto+Amelio&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118638</field>
+<field name="genre">Operas</field>
+<field name="title">Evangeline</field>
+<field name="titleSort">Evangeline</field>
+<field name="composer">Otto Luening</field>
+<field name="composerSort">Luening, Otto</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Otto Luening</field>
+<field name="librettistSort">Luening, Otto</field>
+<field name="librettist">Henry Wadsworth Longfellow</field>
+<field name="librettistSort">Longfellow, Henry Wadsworth</field>
+<field name="theater">Arts Club</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Evangeline+Otto+Luening&amp;search_field=search</field>
+</doc>
+</add>

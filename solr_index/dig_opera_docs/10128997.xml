@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128997</field>
+<field name="genre">Operas</field>
+<field name="title">Untreue aus Liebe</field>
+<field name="titleSort">Untreue aus Liebe</field>
+<field name="composer">Ignaz von Seyfried</field>
+<field name="composerSort">Seyfried, Ignaz von</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Matthäus Stegmayer</field>
+<field name="librettistSort">Stegmayer, Matthäus</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Untreue+aus+Liebe+Ignaz+von+Seyfried&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108888</field>
+<field name="genre">Operas</field>
+<field name="title">"1776, or Adjutant James</field>
+<field name="titleSort">"1776, or Adjutant James"</field>
+<field name="composer">Ludwig Engländer</field>
+<field name="composerSort">Engländer, Ludwig</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Leo Goldmark</field>
+<field name="librettistSort">Goldmark, Leo</field>
+<field name="theater">Thalia Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=1776,+or+Adjutant+James+Ludwig+Engländer&amp;search_field=search</field>
+</doc>
+</add>

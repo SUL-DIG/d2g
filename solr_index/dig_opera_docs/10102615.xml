@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102615</field>
+<field name="genre">Operas</field>
+<field name="title">Ah! c' t' Indien!</field>
+<field name="titleSort">Ah! c' t' Indien!</field>
+<field name="composer">Firmin Bernicat</field>
+<field name="composerSort">Bernicat, Firmin</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">[G. Delafontaine] Gédhé</field>
+<field name="librettistSort">Gédhé, [G. Delafontaine]</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ah!+c'+t'+Indien!+Firmin+Bernicat&amp;search_field=search</field>
+</doc>
+</add>

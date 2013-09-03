@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203244</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Gesù</field>
+		<field name="titleSort">passione di Gesù</field>
+		<field name="year">1776</field>
+		<field name="month">March</field>
+		<field name="day">24</field>
+		<field name="date">March 24, 1776</field>
+		<field name="composer">Francesco Antonio Baldassare Uttini</field>
+		<field name="composerSort">Uttini, Francesco Antonio Baldassare</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Stockholm</field>
+		<field name="region">Stockholm</field>
+		<field name="country">Sweden</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Gesù+Francesco+Antonio+Baldassare+Uttini&amp;search_field=search</field>
+	</doc></add>

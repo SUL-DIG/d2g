@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120870</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'amori innocenti</field>
+<field name="titleSort">amori innocenti</field>
+<field name="composer">Clemente Monari</field>
+<field name="composerSort">Monari, Clemente</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">Flaminio Parisetti</field>
+<field name="librettistSort">Parisetti, Flaminio</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'amori+innocenti+Clemente+Monari&amp;search_field=search</field>
+</doc>
+</add>

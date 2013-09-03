@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111718</field>
+<field name="genre">Operas</field>
+<field name="title">Pelle di leone</field>
+<field name="titleSort">Pelle di leone</field>
+<field name="composer">Napoleone Gialdi</field>
+<field name="composerSort">Gialdi, Napoleone</field>
+<field name="year">1879</field>
+<field name="date">1879</field><field name="theater">Teatro Reinach</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pelle+di+leone+Napoleone+Gialdi&amp;search_field=search</field>
+</doc>
+</add>

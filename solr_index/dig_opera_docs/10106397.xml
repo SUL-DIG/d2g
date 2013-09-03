@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106397</field>
+<field name="genre">Operas</field>
+<field name="title">Las modas</field>
+<field name="titleSort">modas</field>
+<field name="composer">Nicola Conforto</field>
+<field name="composerSort">Conforto, Nicola</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="librettist">Francesco Maria Pico della Mirandola</field>
+<field name="librettistSort">Pico della Mirandola, Francesco Maria</field>
+
+<field name="city">Aranjuez</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Las+modas+Nicola+Conforto&amp;search_field=search</field>
+</doc>
+</add>

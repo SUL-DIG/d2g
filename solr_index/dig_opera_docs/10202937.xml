@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202937</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nascitа di Gesù bambino</field>
+		<field name="titleSort">nascitа di Gesù bambino</field>
+		<field name="year">1713</field>
+		<field name="month">December</field>
+		<field name="day">25</field>
+		<field name="date">December 25, 1713</field>
+		<field name="composer">Giovanni Antonio Riccieri</field>
+		<field name="composerSort">Riccieri, Giovanni Antonio</field>
+		
+		
+		<field name="theater">Congregazione di San Gabriele</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nascitа+di+Gesù+bambino+Giovanni+Antonio+Riccieri&amp;search_field=search</field>
+	</doc></add>

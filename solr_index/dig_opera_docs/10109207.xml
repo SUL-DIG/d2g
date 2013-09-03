@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109207</field>
+<field name="genre">Operas</field>
+<field name="title">Lorhelia</field>
+<field name="titleSort">Lorhelia</field>
+<field name="composer">Stanislao Falchi</field>
+<field name="composerSort">Falchi, Stanislao</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Filippo Calvi</field>
+<field name="librettistSort">Calvi, Filippo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lorhelia+Stanislao+Falchi&amp;search_field=search</field>
+</doc>
+</add>

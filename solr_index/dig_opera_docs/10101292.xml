@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101292</field>
+<field name="genre">Operas</field>
+<field name="title">Pygmalion</field>
+<field name="titleSort">Pygmalion</field>
+<field name="composer">Franz Aspelmayr</field>
+<field name="composerSort">Aspelmayr, Franz</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Joseph Gottwill von Laudes</field>
+<field name="librettistSort">Laudes, Joseph Gottwill von</field>
+<field name="librettist">Jean-Jacques Rousseau</field>
+<field name="librettistSort">Rousseau, Jean-Jacques</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pygmalion+Franz+Aspelmayr&amp;search_field=search</field>
+</doc>
+</add>

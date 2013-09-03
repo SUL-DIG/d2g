@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101341</field>
+<field name="genre">Operas</field>
+<field name="title">Gergana</field>
+<field name="titleSort">Gergana</field>
+<field name="composer">Georgi Atanasov</field>
+<field name="composerSort">Atanasov, Georgi</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Ljubomir Bobevski</field>
+<field name="librettistSort">Bobevski, Ljubomir</field>
+<field name="librettist">Pencho Slaveykov</field>
+<field name="librettistSort">Slaveykov, Pencho</field>
+<field name="theater">Bulgarska Operna Druzhba</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gergana+Georgi+Atanasov&amp;search_field=search</field>
+</doc>
+</add>

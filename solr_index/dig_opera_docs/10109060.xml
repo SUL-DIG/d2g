@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109060</field>
+<field name="genre">Operas</field>
+<field name="title">"Le meunier, son fils et ... l'autre</field>
+<field name="titleSort">"meunier, son fils et ... l'autre"</field>
+<field name="composer">Émile Ettling</field>
+<field name="composerSort">Ettling, Émile</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Francis Tourte</field>
+<field name="librettistSort">Tourte, Francis</field>
+<field name="theater">Casino</field>
+<field name="city">Contrexéville</field>
+<field name="region">Vosges</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+meunier,+son+fils+et+...+l'autre+Émile+Ettling&amp;search_field=search</field>
+</doc>
+</add>

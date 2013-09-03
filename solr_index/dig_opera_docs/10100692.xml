@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100692</field>
+<field name="genre">Operas</field>
+<field name="title">Matrigna</field>
+<field name="titleSort">Matrigna</field>
+<field name="composer">Michele Andreoni</field>
+<field name="composerSort">Andreoni, Michele</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Cesare Benedetti</field>
+<field name="librettistSort">Benedetti, Cesare</field>
+
+<field name="city">Campiglia Marittima</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matrigna+Michele+Andreoni&amp;search_field=search</field>
+</doc>
+</add>

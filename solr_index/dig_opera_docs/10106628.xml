@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106628</field>
+<field name="genre">Operas</field>
+<field name="title">Gargantua</field>
+<field name="titleSort">Gargantua</field>
+<field name="composer">Azio Corghi</field>
+<field name="composerSort">Corghi, Azio</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Augusto Frassineti</field>
+<field name="librettistSort">Frassineti, Augusto</field>
+<field name="librettist">François Rabelais</field>
+<field name="librettistSort">Rabelais, François</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gargantua+Azio+Corghi&amp;search_field=search</field>
+</doc>
+</add>

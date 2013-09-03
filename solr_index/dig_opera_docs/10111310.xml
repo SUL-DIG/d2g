@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111310</field>
+<field name="genre">Operas</field>
+<field name="title">"Le petit matelot, ou Le mariage impromptu</field>
+<field name="titleSort">"petit matelot, ou mariage impromptu"</field>
+<field name="composer">Pierre Gaveaux</field>
+<field name="composerSort">Gaveaux, Pierre</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Charles-Antoine-Guillaume Pigault-Lebrun</field>
+<field name="librettistSort">Pigault-Lebrun, Charles-Antoine-Guillaume</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+matelot,+ou+Le+mariage+impromptu+Pierre+Gaveaux&amp;search_field=search</field>
+</doc>
+</add>

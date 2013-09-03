@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129185</field>
+<field name="genre">Operas</field>
+<field name="title">L'expliation de Savelé</field>
+<field name="titleSort">expliation de Savelé</field>
+<field name="composer">Gabriel Sinsoilliez</field>
+<field name="composerSort">Sinsoilliez, Gabriel</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">[Alice-Marie-Céleste Durand] Henry Gréville</field>
+<field name="librettistSort">Gréville, Henry [Alice-Marie-Céleste Durand]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'expliation+de+Savelé+Gabriel+Sinsoilliez&amp;search_field=search</field>
+</doc>
+</add>

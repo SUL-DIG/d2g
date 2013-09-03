@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102450</field>
+<field name="genre">Operas</field>
+<field name="title">Snídane na hrade Slankenvalde</field>
+<field name="titleSort">Snídane na hrade Slankenvalde</field>
+<field name="composer">Josef Berg</field>
+<field name="composerSort">Berg, Josef</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Josef Berg</field>
+<field name="librettistSort">Berg, Josef</field>
+<field name="theater">Rudolfinum</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snídane+na+hrade+Slankenvalde+Josef+Berg&amp;search_field=search</field>
+</doc>
+</add>

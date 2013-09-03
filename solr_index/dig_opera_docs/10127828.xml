@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127828</field>
+<field name="genre">Operas</field>
+<field name="title">"Tistou, les pouces verts</field>
+<field name="titleSort">"Tistou, les pouces verts"</field>
+<field name="composer">Henri Sauguet</field>
+<field name="composerSort">Sauguet, Henri</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Jean Tardieu</field>
+<field name="librettistSort">Tardieu, Jean</field>
+<field name="librettist">[Maurice Kessel] Maurice Druon</field>
+<field name="librettistSort">Druon, Maurice [Maurice Kessel]</field>
+<field name="theater">Jardin d'Acclimatation</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tistou,+les+pouces+verts+Henri+Sauguet&amp;search_field=search</field>
+</doc>
+</add>

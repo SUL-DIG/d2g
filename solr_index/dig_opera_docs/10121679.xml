@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121679</field>
+<field name="genre">Operas</field>
+<field name="title">Boris Godunov</field>
+<field name="titleSort">Boris Godunov</field>
+<field name="composer">Modest Petrovich Mussorgsky</field>
+<field name="composerSort">Mussorgsky, Modest Petrovich</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Modest Petrovich Mussorgsky</field>
+<field name="librettistSort">Mussorgsky, Modest Petrovich</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boris+Godunov+Modest+Petrovich+Mussorgsky&amp;search_field=search</field>
+</doc>
+</add>

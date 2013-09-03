@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116677</field>
+<field name="genre">Operas</field>
+<field name="title">Conc(o)urs</field>
+<field name="titleSort">Conc(o)urs</field>
+<field name="composer">Bernhard Krol</field>
+<field name="composerSort">Krol, Bernhard</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Friedrich Petzold</field>
+<field name="librettistSort">Petzold, Friedrich</field>
+<field name="theater">Niedersächsische Staatstheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Concours+Bernhard+Krol&amp;search_field=search</field>
+</doc>
+</add>

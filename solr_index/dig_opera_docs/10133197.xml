@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133197</field>
+<field name="genre">Operas</field>
+<field name="title">Rudolf von Felseck</field>
+<field name="titleSort">Rudolf von Felseck</field>
+<field name="composer">Paul Wranitzky</field>
+<field name="composerSort">Wranitzky, Paul</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Josef Korompay</field>
+<field name="librettistSort">Korompay, Josef</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rudolf+von+Felseck+Paul+Wranitzky&amp;search_field=search</field>
+</doc>
+</add>

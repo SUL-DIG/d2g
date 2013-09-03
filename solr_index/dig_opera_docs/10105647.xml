@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105647</field>
+<field name="genre">Operas</field>
+<field name="title">Bathyle</field>
+<field name="titleSort">Bathyle</field>
+<field name="composer">William Chaumet</field>
+<field name="composerSort">Chaumet, William</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Édouard Blau</field>
+<field name="librettistSort">Blau, Édouard</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bathyle+William+Chaumet&amp;search_field=search</field>
+</doc>
+</add>

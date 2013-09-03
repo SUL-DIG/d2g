@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130558</field>
+<field name="genre">Operas</field>
+<field name="title">Wapping Old Stairs</field>
+<field name="titleSort">Wapping Old Stairs</field>
+<field name="composer">Howard Talbot</field>
+<field name="composerSort">Talbot, Howard</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Stuart Robertson</field>
+<field name="librettistSort">Robertson, Stuart</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">King's Lynn</field>
+<field name="region">Norfolk</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wapping+Old+Stairs+Howard+Talbot&amp;search_field=search</field>
+</doc>
+</add>

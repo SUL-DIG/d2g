@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129662</field>
+<field name="genre">Operas</field>
+<field name="title">Il matrimonio</field>
+<field name="titleSort">matrimonio</field>
+<field name="composer">Carlo Spontoni</field>
+<field name="composerSort">Spontoni, Carlo</field>
+<field name="year">1791</field>
+<field name="date">1791</field><field name="theater">Teatro della Comunitа</field>
+<field name="city">Lugo</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+Carlo+Spontoni&amp;search_field=search</field>
+</doc>
+</add>

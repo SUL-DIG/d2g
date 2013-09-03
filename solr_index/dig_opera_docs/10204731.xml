@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204731</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die unglückseelige Uberwinder Jephthah</field>
+		<field name="titleSort">unglückseelige Uberwinder Jephthah</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Johann Christian Schieferdecker</field>
+		<field name="composerSort">Schieferdecker, Johann Christian</field>
+		<field name="librettist">Michael Christoph Brandenburg</field>
+		<field name="librettistSort">Brandenburg, Michael Christ</field>
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+unglückseelige+Uberwinder+Jephthah+Johann+Christian+Schieferdecker&amp;search_field=search</field>
+	</doc></add>

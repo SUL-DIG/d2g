@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204515</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Tobias</field>
+		<field name="titleSort">Tobias</field>
+		<field name="year">1844</field>
+		<field name="month">December</field>
+		
+		<field name="date">December 1844</field>
+		<field name="composer">Ludwig Granzin</field>
+		<field name="composerSort">Granzin, Ludwig</field>
+		
+		
+		
+		<field name="city">Gdansk</field>
+		<field name="region">Pomorskie</field>
+		<field name="country">Poland</field>
+		<field name="subject">Tobias</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tobias+Ludwig+Granzin&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118894</field>
+<field name="genre">Operas</field>
+<field name="title">Yolande</field>
+<field name="titleSort">Yolande</field>
+<field name="composer">Albéric Magnard</field>
+<field name="composerSort">Magnard, Albéric</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Albéric Magnard</field>
+<field name="librettistSort">Magnard, Albéric</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yolande+Albéric+Magnard&amp;search_field=search</field>
+</doc>
+</add>

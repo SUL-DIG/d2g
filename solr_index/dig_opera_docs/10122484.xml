@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122484</field>
+<field name="genre">Operas</field>
+<field name="title">Slippery Soules</field>
+<field name="titleSort">Slippery Soules</field>
+<field name="composer">Stephen Oliver</field>
+<field name="composerSort">Oliver, Stephen</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Stephen Oliver</field>
+<field name="librettistSort">Oliver, Stephen</field>
+<field name="theater">Wychwood School</field>
+<field name="city">Oxford</field>
+<field name="region">Oxfordshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slippery+Soules+Stephen+Oliver&amp;search_field=search</field>
+</doc>
+</add>

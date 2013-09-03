@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125718</field>
+<field name="genre">Operas</field>
+<field name="title">The Land of Happiness</field>
+<field name="titleSort">Land of Happiness</field>
+<field name="composer">Joseph Deighn Redding</field>
+<field name="composerSort">Redding, Joseph Deighn</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Charles Templeton Crocker</field>
+<field name="librettistSort">Crocker, Charles Templeton</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Land+of+Happiness+Joseph+Deighn+Redding&amp;search_field=search</field>
+</doc>
+</add>

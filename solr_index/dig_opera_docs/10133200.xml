@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133200</field>
+<field name="genre">Operas</field>
+<field name="title">A Venetian Romance</field>
+<field name="titleSort">Venetian Romance</field>
+<field name="composer">Frederic Coit Wright</field>
+<field name="composerSort">Wright, Frederic Coit</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Cornelia Osgood Tyler</field>
+<field name="librettistSort">Tyler, Cornelia Osgood</field>
+<field name="theater">Knickerbocker Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Venetian+Romance+Frederic+Coit+Wright&amp;search_field=search</field>
+</doc>
+</add>

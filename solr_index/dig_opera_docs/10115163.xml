@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115163</field>
+<field name="genre">Operas</field>
+<field name="title">Vylet pana Broucka do mesice (Mr. Broucek)</field>
+<field name="titleSort">Vylet pana Broucka do mesice (Mr. Broucek)</field>
+<field name="composer">Leos Janácek</field>
+<field name="composerSort">Janácek, Leos</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Leos Janácek</field>
+<field name="librettistSort">Janácek, Leos</field>
+<field name="librettist">Svatopluk Cech</field>
+<field name="librettistSort">Cech, Svatopluk</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vylet+pana+Broucka+do+mesice+Mr.+Broucek+Leos+Janácek&amp;search_field=search</field>
+</doc>
+</add>

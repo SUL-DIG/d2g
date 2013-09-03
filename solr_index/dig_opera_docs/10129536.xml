@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129536</field>
+<field name="genre">Operas</field>
+<field name="title">Der Freiwillige</field>
+<field name="titleSort">Freiwillige</field>
+<field name="composer">Franz Soukup</field>
+<field name="composerSort">Soukup, Franz</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="librettist">Carl Costa</field>
+<field name="librettistSort">Costa, Carl</field>
+<field name="theater">Volkstheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Freiwillige+Franz+Soukup&amp;search_field=search</field>
+</doc>
+</add>

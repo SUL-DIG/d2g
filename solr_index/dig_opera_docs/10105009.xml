@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105009</field>
+<field name="genre">Operas</field>
+<field name="title">O testamento da velha</field>
+<field name="titleSort">testamento da velha</field>
+<field name="composer">Ciríaco Cardoso</field>
+<field name="composerSort">Cardoso, Ciríaco</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Eduardo Schwalbach</field>
+<field name="librettistSort">Schwalbach, Eduardo</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+testamento+da+velha+Ciríaco+Cardoso&amp;search_field=search</field>
+</doc>
+</add>

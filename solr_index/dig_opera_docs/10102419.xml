@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102419</field>
+<field name="genre">Operas</field>
+<field name="title">Guglielmo Shakespeare</field>
+<field name="titleSort">Guglielmo Shakespeare</field>
+<field name="composer">Tomaso Benvenuti</field>
+<field name="composerSort">Benvenuti, Tomaso</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guglielmo+Shakespeare+Tomaso+Benvenuti&amp;search_field=search</field>
+</doc>
+</add>

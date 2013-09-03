@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121851</field>
+<field name="genre">Operas</field>
+<field name="title">Eriwan</field>
+<field name="titleSort">Eriwan</field>
+<field name="composer">Oskar Nedbal</field>
+<field name="composerSort">Nedbal, Oskar</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">[Felix Biedermann] Felix Dörmann</field>
+<field name="librettistSort">Dörmann, Felix [Felix Biedermann]</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eriwan+Oskar+Nedbal&amp;search_field=search</field>
+</doc>
+</add>

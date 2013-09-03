@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129886</field>
+<field name="genre">Operas</field>
+<field name="title">The Oracle</field>
+<field name="titleSort">Oracle</field>
+<field name="composer">Humphrey John Stewart</field>
+<field name="composerSort">Stewart, Humphrey John</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Peter Robertson</field>
+<field name="librettistSort">Robertson, Peter</field>
+<field name="librettist">Humphrey John Stewart</field>
+<field name="librettistSort">Stewart, Humphrey John</field>
+<field name="theater">Bohemian Club</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Oracle+Humphrey+John+Stewart&amp;search_field=search</field>
+</doc>
+</add>

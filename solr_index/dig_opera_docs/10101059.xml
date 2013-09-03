@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101059</field>
+<field name="genre">Operas</field>
+<field name="title">King Pepin's Campaign</field>
+<field name="titleSort">King Pepin's Campaign</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1745</field>
+<field name="date">1745</field>
+<field name="librettist">James Shirley</field>
+<field name="librettistSort">Shirley, James</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+Pepin's+Campaign+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

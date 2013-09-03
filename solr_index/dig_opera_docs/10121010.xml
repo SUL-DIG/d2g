@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121010</field>
+<field name="genre">Operas</field>
+<field name="title">La notte di Zoraima</field>
+<field name="titleSort">notte di Zoraima</field>
+<field name="composer">Italo Montemezzi</field>
+<field name="composerSort">Montemezzi, Italo</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Mario Ghisalberti</field>
+<field name="librettistSort">Ghisalberti, Mario</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+notte+di+Zoraima+Italo+Montemezzi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106462</field>
+<field name="genre">Operas</field>
+<field name="title">En galante aventure</field>
+<field name="titleSort">En galante aventure</field>
+<field name="composer">Henri Contesse</field>
+<field name="composerSort">Contesse, Henri</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Guy de Montgaillard</field>
+<field name="librettistSort">Montgaillard, Guy de</field>
+<field name="theater">Salle Victor-Hugo</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+galante+aventure+Henri+Contesse&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128494</field>
+<field name="genre">Operas</field>
+<field name="title">The Fisherman and his Wife</field>
+<field name="titleSort">Fisherman and his Wife</field>
+<field name="composer">Gunther Schuller</field>
+<field name="composerSort">Schuller, Gunther</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">John Updike</field>
+<field name="librettistSort">Updike, John</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Opera House</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fisherman+and+his+Wife+Gunther+Schuller&amp;search_field=search</field>
+</doc>
+</add>

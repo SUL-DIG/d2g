@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128291</field>
+<field name="genre">Operas</field>
+<field name="title">Le veglie ossequiose</field>
+<field name="titleSort">veglie ossequiose</field>
+<field name="composer">Johann Heinrich Schmelzer</field>
+<field name="composerSort">Schmelzer, Johann Heinrich</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+
+<field name="city">Laxenburg</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+veglie+ossequiose+Johann+Heinrich+Schmelzer&amp;search_field=search</field>
+</doc>
+</add>

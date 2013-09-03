@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131751</field>
+<field name="genre">Operas</field>
+<field name="title">La tour de bois</field>
+<field name="titleSort">tour de bois</field>
+<field name="composer">Louis Varney</field>
+<field name="composerSort">Varney, Louis</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Jules Oudot</field>
+<field name="librettistSort">Oudot, Jules</field>
+<field name="librettist">Henry de Gorsse</field>
+<field name="librettistSort">Gorsse, Henry de</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tour+de+bois+Louis+Varney&amp;search_field=search</field>
+</doc>
+</add>

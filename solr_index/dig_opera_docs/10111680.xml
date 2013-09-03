@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111680</field>
+<field name="genre">Operas</field>
+<field name="title">Sant' Alessio</field>
+<field name="titleSort">Sant' Alessio</field>
+<field name="composer">Federico Ghisi</field>
+<field name="composerSort">Ghisi, Federico</field>
+<field name="year">1963</field>
+<field name="date">1963</field><field name="theater">RAI Radio (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Alessio+Federico+Ghisi&amp;search_field=search</field>
+</doc>
+</add>

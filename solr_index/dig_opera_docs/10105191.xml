@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105191</field>
+<field name="genre">Operas</field>
+<field name="title">Little Christopher Columbus</field>
+<field name="titleSort">Little Christopher Columbus</field>
+<field name="composer">[Félix Marie Henri Tilkin] Ivan Caryll</field>
+<field name="composerSort">Caryll, [Félix Marie Henri Tilkin] Ivan</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">George Robert Sims</field>
+<field name="librettistSort">Sims, George Robert</field>
+<field name="librettist">Cecil Raleigh</field>
+<field name="librettistSort">Raleigh, Cecil</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Christopher+Columbus+Félix+Marie+Henri+Tilkin]+Ivan+Caryll&amp;search_field=search</field>
+</doc>
+</add>

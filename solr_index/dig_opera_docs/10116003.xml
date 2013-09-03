@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116003</field>
+<field name="genre">Operas</field>
+<field name="title">Arm Elslein</field>
+<field name="titleSort">Arm Elslein</field>
+<field name="composer">Cyrill Kistler</field>
+<field name="composerSort">Kistler, Cyrill</field>
+<field name="year">1902</field>
+<field name="date">1902</field><field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arm+Elslein+Cyrill+Kistler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114338</field>
+<field name="genre">Operas</field>
+<field name="title">Vogel Phönix</field>
+<field name="titleSort">Vogel Phönix</field>
+<field name="composer">Adolph Hinrichs</field>
+<field name="composerSort">Hinrichs, Adolph</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Käthe Burberg</field>
+<field name="librettistSort">Burberg, Käthe</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vogel+Phönix+Adolph+Hinrichs&amp;search_field=search</field>
+</doc>
+</add>

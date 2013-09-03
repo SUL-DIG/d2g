@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115574</field>
+<field name="genre">Operas</field>
+<field name="title">Give me Liberty or Give me Death</field>
+<field name="titleSort">Give me Liberty or Give me Death</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Robert K. Adams</field>
+<field name="librettistSort">Adams, Robert K.</field>
+<field name="theater">Producer's Association</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Give+me+Liberty+or+Give+me+Death+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

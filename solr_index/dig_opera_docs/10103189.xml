@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103189</field>
+<field name="genre">Operas</field>
+<field name="title">Kopf und Schrift</field>
+<field name="titleSort">Kopf und Schrift</field>
+<field name="composer">Auguste Blangy</field>
+<field name="composerSort">Blangy, Auguste</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Adolf Glaser</field>
+<field name="librettistSort">Glaser, Adolf</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kopf+und+Schrift+Auguste+Blangy&amp;search_field=search</field>
+</doc>
+</add>

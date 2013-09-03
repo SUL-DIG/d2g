@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132949</field>
+<field name="genre">Operas</field>
+<field name="title">Deirdre of the Sorrows</field>
+<field name="titleSort">Deirdre of the Sorrows</field>
+<field name="composer">Healey Willan</field>
+<field name="composerSort">Willan, Healey</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">John Coulter</field>
+<field name="librettistSort">Coulter, John</field>
+<field name="librettist">John Millington Synge</field>
+<field name="librettistSort">Synge, John Millington</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deirdre+of+the+Sorrows+Healey+Willan&amp;search_field=search</field>
+</doc>
+</add>

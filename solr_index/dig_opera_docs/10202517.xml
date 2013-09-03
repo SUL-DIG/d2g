@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202517</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Light out of Darkness</field>
+		<field name="titleSort">Light out of Darkness</field>
+		<field name="year">1958</field>
+		<field name="month">February</field>
+		<field name="day">16</field>
+		<field name="date">February 16, 1958</field>
+		<field name="composer">Normand Lockwood</field>
+		<field name="composerSort">Lockwood, Normand</field>
+		
+		
+		<field name="theater">Buffalo Philharmonic Orchestra</field>
+		<field name="city">Buffalo</field>
+		<field name="region">New York</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Light+out+of+Darkness+Normand+Lockwood&amp;search_field=search</field>
+	</doc></add>

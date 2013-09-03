@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132740</field>
+<field name="genre">Operas</field>
+<field name="title">The Story of Blond Eckbert</field>
+<field name="titleSort">Story of Blond Eckbert</field>
+<field name="composer">Judith Weir</field>
+<field name="composerSort">Weir, Judith</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Judith Weir</field>
+<field name="librettistSort">Weir, Judith</field>
+<field name="librettist">Ludwig Tieck</field>
+<field name="librettistSort">Tieck, Ludwig</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Story+of+Blond+Eckbert+Judith+Weir&amp;search_field=search</field>
+</doc>
+</add>

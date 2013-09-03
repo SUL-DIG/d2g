@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104915</field>
+<field name="genre">Operas</field>
+<field name="title">"La contessina, ossia Il finto pasciа</field>
+<field name="titleSort">"contessina, ossia Il finto pasciа"</field>
+<field name="composer">Carlo Cappelletti</field>
+<field name="composerSort">Cappelletti, Carlo</field>
+<field name="year">1830</field>
+<field name="date">1830</field><field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contessina,+ossia+Il+finto+pasciа+Carlo+Cappelletti&amp;search_field=search</field>
+</doc>
+</add>

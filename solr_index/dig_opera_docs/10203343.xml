@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203343</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il pentimento di Davidde</field>
+		<field name="titleSort">pentimento di Davidde</field>
+		<field name="year">1741</field>
+		
+		
+		<field name="date">1741</field>
+		<field name="composer">Gasparo Granaglia</field>
+		<field name="composerSort">Granaglia, Gasparo</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pentimento+di+Davidde+Gasparo+Granaglia&amp;search_field=search</field>
+	</doc></add>

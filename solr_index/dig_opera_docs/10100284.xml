@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100284</field>
+<field name="genre">Operas</field>
+<field name="title">Locanda gratis</field>
+<field name="titleSort">Locanda gratis</field>
+<field name="composer">Giulio Alary</field>
+<field name="composerSort">Alary, Giulio</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Giovanni Giraud</field>
+<field name="librettistSort">Giraud, Giovanni</field>
+<field name="theater">Théâtre-Italien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Locanda+gratis+Giulio+Alary&amp;search_field=search</field>
+</doc>
+</add>

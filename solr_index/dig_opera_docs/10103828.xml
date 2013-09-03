@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103828</field>
+<field name="genre">Operas</field>
+<field name="title">Reviled Patriot</field>
+<field name="titleSort">Reviled Patriot</field>
+<field name="composer">Will Gay Bottje</field>
+<field name="composerSort">Bottje, Will Gay</field>
+<field name="year">1968</field>
+<field name="date">1968</field><field name="theater">University of Southern Illinois</field>
+<field name="city">Carbondale</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reviled+Patriot+Will+Gay+Bottje&amp;search_field=search</field>
+</doc>
+</add>

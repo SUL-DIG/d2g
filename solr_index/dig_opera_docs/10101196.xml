@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101196</field>
+<field name="genre">Operas</field>
+<field name="title">Leonora Telles</field>
+<field name="titleSort">Leonora Telles</field>
+<field name="composer">João Marcelino Arroio</field>
+<field name="composerSort">Arroio, João Marcelino</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">João Marcelino Arroio</field>
+<field name="librettistSort">Arroio, João Marcelino</field>
+<field name="librettist">Arturo Colautti</field>
+<field name="librettistSort">Colautti, Arturo</field>
+<field name="theater">Sociedade de Musica</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonora+Telles+João+Marcelino+Arroio&amp;search_field=search</field>
+</doc>
+</add>

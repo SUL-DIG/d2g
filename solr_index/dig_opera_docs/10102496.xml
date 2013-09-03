@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102496</field>
+<field name="genre">Operas</field>
+<field name="title">Krakatit</field>
+<field name="titleSort">Krakatit</field>
+<field name="composer">Jirí Berkovec</field>
+<field name="composerSort">Berkovec, Jirí</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Jirí Berkovec</field>
+<field name="librettistSort">Berkovec, Jirí</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Janáckova Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krakatit+Jirí+Berkovec&amp;search_field=search</field>
+</doc>
+</add>

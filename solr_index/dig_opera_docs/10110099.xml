@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110099</field>
+<field name="genre">Operas</field>
+<field name="title">L'ombre</field>
+<field name="titleSort">ombre</field>
+<field name="composer">Friedrich Flotow</field>
+<field name="composerSort">Flotow, Friedrich</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ombre+Friedrich+Flotow&amp;search_field=search</field>
+</doc>
+</add>

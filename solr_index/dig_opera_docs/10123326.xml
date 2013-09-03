@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123326</field>
+<field name="genre">Operas</field>
+<field name="title">Genserico</field>
+<field name="titleSort">Genserico</field>
+<field name="composer">Gian Domenico Partenio</field>
+<field name="composerSort">Partenio, Gian Domenico</field>
+<field name="year">1669</field>
+<field name="date">1669</field>
+<field name="librettist">Nicolò Beregan</field>
+<field name="librettistSort">Beregan, Nicolò</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Genserico+Gian+Domenico+Partenio&amp;search_field=search</field>
+</doc>
+</add>

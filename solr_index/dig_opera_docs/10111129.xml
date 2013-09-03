@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111129</field>
+<field name="genre">Operas</field>
+<field name="title">Ambleto</field>
+<field name="titleSort">Ambleto</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ambleto+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

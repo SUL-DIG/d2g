@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201504</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gesù adorato da' re Magi</field>
+		<field name="titleSort">Gesù adorato da' re Magi</field>
+		<field name="year">1749</field>
+		
+		
+		<field name="date">1749</field>
+		<field name="composer">Matteo Bisso</field>
+		<field name="composerSort">Bisso, Matteo</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Adoration of the Magi</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">January 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesù+adorato+da'+re+Magi+Matteo+Bisso&amp;search_field=search</field>
+	</doc></add>

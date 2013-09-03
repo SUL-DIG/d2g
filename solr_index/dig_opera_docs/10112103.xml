@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112103</field>
+<field name="genre">Operas</field>
+<field name="title">Leyla und Medjnum</field>
+<field name="titleSort">Leyla und Medjnum</field>
+<field name="composer">Detlev Glanert</field>
+<field name="composerSort">Glanert, Detlev</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Aras Ören</field>
+<field name="librettistSort">Ören, Aras</field>
+<field name="librettist">Peter Schneider</field>
+<field name="librettistSort">Schneider, Peter</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leyla+und+Medjnum+Detlev+Glanert&amp;search_field=search</field>
+</doc>
+</add>

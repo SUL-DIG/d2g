@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124003</field>
+<field name="genre">Operas</field>
+<field name="title">The Sleep</field>
+<field name="titleSort">Sleep</field>
+<field name="composer">Jeremy Peyton Jones</field>
+<field name="composerSort">Jones, Jeremy Peyton</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Rainer Maria Rilke</field>
+<field name="librettistSort">Rilke, Rainer Maria</field>
+<field name="theater">Gardner Centre</field>
+<field name="city">Brighton</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sleep+Jeremy+Peyton+Jones&amp;search_field=search</field>
+</doc>
+</add>

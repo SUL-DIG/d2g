@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131628</field>
+<field name="genre">Operas</field>
+<field name="title">Bion</field>
+<field name="titleSort">Bion</field>
+<field name="composer">Giovanni Valente</field>
+<field name="composerSort">Valente, Giovanni</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Almerindo Spadetta</field>
+<field name="librettistSort">Spadetta, Almerindo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bion+Giovanni+Valente&amp;search_field=search</field>
+</doc>
+</add>

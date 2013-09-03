@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125903</field>
+<field name="genre">Operas</field>
+<field name="title">L'ammalata per fantasia</field>
+<field name="titleSort">ammalata per fantasia</field>
+<field name="composer">Antonio Restrelli</field>
+<field name="composerSort">Restrelli, Antonio</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Gaetano Scandella</field>
+<field name="librettistSort">Scandella, Gaetano</field>
+<field name="theater">Private Performance</field>
+<field name="city">Brescia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ammalata+per+fantasia+Antonio+Restrelli&amp;search_field=search</field>
+</doc>
+</add>

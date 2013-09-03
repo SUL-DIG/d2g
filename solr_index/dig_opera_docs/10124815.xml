@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124815</field>
+<field name="genre">Operas</field>
+<field name="title">Lo schiavo fortunato in Algeri</field>
+<field name="titleSort">schiavo fortunato in Algeri</field>
+<field name="composer">Pietro Porfirii</field>
+<field name="composerSort">Porfirii, Pietro</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="librettist">Michel Angelo Gasparini</field>
+<field name="librettistSort">Gasparini, Michel Angelo</field>
+<field name="theater">Teatro di Santa Margherita</field>
+<field name="city">Treviso</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+schiavo+fortunato+in+Algeri+Pietro+Porfirii&amp;search_field=search</field>
+</doc>
+</add>

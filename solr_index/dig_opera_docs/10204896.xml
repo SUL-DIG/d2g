@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204896</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Walter von der Vogelweide</field>
+		<field name="titleSort">Walter von der Vogelweide</field>
+		<field name="year">1893</field>
+		<field name="month">July</field>
+		<field name="day">17</field>
+		<field name="date">July 17, 1893</field>
+		<field name="composer">Josef Pembaur</field>
+		<field name="composerSort">Pembaur, Josef</field>
+		
+		
+		
+		<field name="city">Innsbruck</field>
+		<field name="region">Tirol</field>
+		<field name="country">Austria</field>
+		<field name="subject">Walther von der Vogelweide</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walter+von+der+Vogelweide+Josef+Pembaur&amp;search_field=search</field>
+	</doc></add>

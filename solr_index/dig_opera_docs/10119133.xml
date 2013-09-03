@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119133</field>
+<field name="genre">Operas</field>
+<field name="title">Juana de Nápoles</field>
+<field name="titleSort">Juana de Nápoles</field>
+<field name="composer">Juan Manén</field>
+<field name="composerSort">Manén, Juan</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Maurice Chassang</field>
+<field name="librettistSort">Chassang, Maurice</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Juana+de+Nápoles+Juan+Manén&amp;search_field=search</field>
+</doc>
+</add>

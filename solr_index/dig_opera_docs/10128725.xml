@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128725</field>
+<field name="genre">Operas</field>
+<field name="title">Cajo Fabricio</field>
+<field name="titleSort">Cajo Fabricio</field>
+<field name="composer">Giuseppe Scolari</field>
+<field name="composerSort">Scolari, Giuseppe</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cajo+Fabricio+Giuseppe+Scolari&amp;search_field=search</field>
+</doc>
+</add>

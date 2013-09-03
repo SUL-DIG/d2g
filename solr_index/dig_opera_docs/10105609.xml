@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105609</field>
+<field name="genre">Operas</field>
+<field name="title">Les demoiselles de Saint-Cyr</field>
+<field name="titleSort">demoiselles de Saint-Cyr</field>
+<field name="composer">Auguste Chapuis</field>
+<field name="composerSort">Chapuis, Auguste</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">André Lenéka</field>
+<field name="librettistSort">Lenéka, André</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+demoiselles+de+Saint-Cyr+Auguste+Chapuis&amp;search_field=search</field>
+</doc>
+</add>

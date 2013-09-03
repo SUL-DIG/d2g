@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123942</field>
+<field name="genre">Operas</field>
+<field name="title">Apostol Bologa</field>
+<field name="titleSort">Apostol Bologa</field>
+<field name="composer">Carmen Petra-Bascopol</field>
+<field name="composerSort">Petra-Bascopol, Carmen</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Liviu Rebreanu</field>
+<field name="librettistSort">Rebreanu, Liviu"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apostol+Bologa+Carmen+Petra-Bascopol&amp;search_field=search</field>
+</doc>
+</add>

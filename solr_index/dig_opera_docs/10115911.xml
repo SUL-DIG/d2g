@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115911</field>
+<field name="genre">Operas</field>
+<field name="title">Oronte</field>
+<field name="titleSort">Oronte</field>
+<field name="composer">Johann Caspar Kerll</field>
+<field name="composerSort">Kerll, Johann Caspar</field>
+<field name="year">1657</field>
+<field name="date">1657</field>
+<field name="librettist">Giorgio Giacomo Alcaini</field>
+<field name="librettistSort">Alcaini, Giorgio Giacomo</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oronte+Johann+Caspar+Kerll&amp;search_field=search</field>
+</doc>
+</add>

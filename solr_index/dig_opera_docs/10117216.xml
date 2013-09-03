@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117216</field>
+<field name="genre">Operas</field>
+<field name="title">Spanske studenter</field>
+<field name="titleSort">Spanske studenter</field>
+<field name="composer">Peter Erasmus Lange-Müller</field>
+<field name="composerSort">Lange-Müller, Peter Erasmus</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">William Faber</field>
+<field name="librettistSort">Faber, William</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spanske+studenter+Peter+Erasmus+Lange-Müller&amp;search_field=search</field>
+</doc>
+</add>

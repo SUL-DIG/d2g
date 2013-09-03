@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200290</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Auferstehung Christi</field>
+		<field name="titleSort">Auferstehung Christi</field>
+		<field name="year">1775</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1775</field>
+		<field name="composer">Jan Dawid Holland</field>
+		<field name="composerSort">Holland, Jan Dawid</field>
+		
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Auferstehung+Christi+Jan+Dawid+Holland&amp;search_field=search</field>
+	</doc></add>

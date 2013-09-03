@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115111</field>
+<field name="genre">Operas</field>
+<field name="title">Jean Bart et Patoulet</field>
+<field name="titleSort">Jean Bart et Patoulet</field>
+<field name="composer">Louis-Emmanuel Jadin</field>
+<field name="composerSort">Jadin, Louis-Emmanuel</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">François-Pierre-Auguste Léger</field>
+<field name="librettistSort">Léger, François-Pierre-Auguste</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+Bart+et+Patoulet+Louis-Emmanuel+Jadin&amp;search_field=search</field>
+</doc>
+</add>

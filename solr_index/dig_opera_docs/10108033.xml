@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108033</field>
+<field name="genre">Operas</field>
+<field name="title">Der Botenläufer von Pirna</field>
+<field name="titleSort">Botenläufer von Pirna</field>
+<field name="composer">Heinrich Ludwig Egmont Dorn</field>
+<field name="composerSort">Dorn, Heinrich Ludwig Egmont</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Moritz Heydrich</field>
+<field name="librettistSort">Heydrich, Moritz</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Botenläufer+von+Pirna+Heinrich+Ludwig+Egmont+Dorn&amp;search_field=search</field>
+</doc>
+</add>

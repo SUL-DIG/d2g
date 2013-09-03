@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120337</field>
+<field name="genre">Operas</field>
+<field name="title">Il podestа di Burgos</field>
+<field name="titleSort">podestа di Burgos</field>
+<field name="composer">Saverio Mercadante</field>
+<field name="composerSort">Mercadante, Saverio</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+podestа+di+Burgos+Saverio+Mercadante&amp;search_field=search</field>
+</doc>
+</add>

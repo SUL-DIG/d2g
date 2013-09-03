@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103147</field>
+<field name="genre">Operas</field>
+<field name="title">"Le trompeur trompé, ou La rencontre imprévue</field>
+<field name="titleSort">"trompeur trompé, ou La rencontre imprévue"</field>
+<field name="composer">Adolphe Benoît Blaise</field>
+<field name="composerSort">Blaise, Adolphe Benoît</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Nicolas-Étienne Framery</field>
+<field name="librettistSort">Framery, Nicolas-Étienne</field>
+<field name="librettist">Jean-Joseph Vadé</field>
+<field name="librettistSort">Vadé, Jean-Joseph</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+trompeur+trompé,+ou+La+rencontre+imprévue+Adolphe+Benoît+Blaise&amp;search_field=search</field>
+</doc>
+</add>

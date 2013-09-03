@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109723</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Diabo</field>
+<field name="titleSort">Miss Diabo</field>
+<field name="composer">Manuel Figueiredo</field>
+<field name="composerSort">Figueiredo, Manuel</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Arnaldo Leite</field>
+<field name="librettistSort">Leite, Arnaldo</field>
+<field name="librettist">Luis Antero Carvalho Barbosa</field>
+<field name="librettistSort">Barbosa, Luis Antero Carvalho</field>
+<field name="theater">Politeama</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Diabo+Manuel+Figueiredo&amp;search_field=search</field>
+</doc>
+</add>

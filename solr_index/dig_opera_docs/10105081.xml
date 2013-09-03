@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105081</field>
+<field name="genre">Operas</field>
+<field name="title">His Excellency</field>
+<field name="titleSort">His Excellency</field>
+<field name="composer">Frank Osmond Carr</field>
+<field name="composerSort">Carr, Frank Osmond</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">William Schwenck Gilbert</field>
+<field name="librettistSort">Gilbert, William Schwenck</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=His+Excellency+Frank+Osmond+Carr&amp;search_field=search</field>
+</doc>
+</add>

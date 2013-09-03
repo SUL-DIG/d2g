@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123299</field>
+<field name="genre">Operas</field>
+<field name="title">Ginevra di Monreale</field>
+<field name="titleSort">Ginevra di Monreale</field>
+<field name="composer">Costantino Parravano</field>
+<field name="composerSort">Parravano, Costantino</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra+di+Monreale+Costantino+Parravano&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121576</field>
+<field name="genre">Operas</field>
+<field name="title">"Je grösser der Schelm, je grösser das Glück</field>
+<field name="titleSort">"Je grösser der Schelm, je grösser das Glück"</field>
+<field name="composer">Wenzel Müller</field>
+<field name="composerSort">Müller, Wenzel</field>
+<field name="year">1786</field>
+<field name="date">1786</field><field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Je+grösser+der+Schelm,+je+grösser+das+Glück+Wenzel+Müller&amp;search_field=search</field>
+</doc>
+</add>

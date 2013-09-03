@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118985</field>
+<field name="genre">Operas</field>
+<field name="title">Le médecin de l'amour</field>
+<field name="titleSort">médecin de l'amour</field>
+<field name="composer">Pierre van Maldere</field>
+<field name="composerSort">Maldere, Pierre van</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Pierre-Augustin Lefebvre de Marcouville</field>
+<field name="librettistSort">Marcouville, Pierre-Augustin Lefebvre de</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+médecin+de+l'amour+Pierre+van+Maldere&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111959</field>
+<field name="genre">Operas</field>
+<field name="title">Thijl</field>
+<field name="titleSort">Thijl</field>
+<field name="composer">Jan van Gilse</field>
+<field name="composerSort">Gilse, Jan van</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Hendrik Lindt</field>
+<field name="librettistSort">Lindt, Hendrik</field>
+<field name="librettist">Charles de Coster</field>
+<field name="librettistSort">Coster, Charles de</field>
+<field name="theater">Kurzaal</field>
+<field name="city">Scheveningen</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thijl+Jan+van+Gilse&amp;search_field=search</field>
+</doc>
+</add>

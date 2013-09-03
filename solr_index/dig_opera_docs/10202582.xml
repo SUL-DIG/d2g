@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202582</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Malatia vincitore</field>
+		<field name="titleSort">Malatia vincitore</field>
+		<field name="year">1865</field>
+		
+		
+		<field name="date">1865</field>
+		<field name="composer">Pietro Antonio Coppola</field>
+		<field name="composerSort">Coppola, Pietro Antonio</field>
+		
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Revolt of the Maccabees</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malatia+vincitore+Pietro+Antonio+Coppola&amp;search_field=search</field>
+	</doc></add>

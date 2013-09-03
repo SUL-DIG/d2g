@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126567</field>
+<field name="genre">Operas</field>
+<field name="title">The New Moon</field>
+<field name="titleSort">New Moon</field>
+<field name="composer">Sigmund Romberg</field>
+<field name="composerSort">Romberg, Sigmund</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Oscar Hammerstein II</field>
+<field name="librettistSort">Hammerstein II, Oscar</field>
+<field name="librettist">Frank Mandel</field>
+<field name="librettistSort">Mandel, Frank</field>
+<field name="theater">Imperial Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+New+Moon+Sigmund+Romberg&amp;search_field=search</field>
+</doc>
+</add>

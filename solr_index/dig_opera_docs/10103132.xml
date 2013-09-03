@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103132</field>
+<field name="genre">Operas</field>
+<field name="title">Der Mohr von Venedig</field>
+<field name="titleSort">Mohr von Venedig</field>
+<field name="composer">Boris Blacher</field>
+<field name="composerSort">Blacher, Boris</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Erika Hanka</field>
+<field name="librettistSort">Hanka, Erika</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Mohr+von+Venedig+Boris+Blacher&amp;search_field=search</field>
+</doc>
+</add>

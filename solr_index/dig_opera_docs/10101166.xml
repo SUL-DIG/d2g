@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101166</field>
+<field name="genre">Operas</field>
+<field name="title">Yolanda</field>
+<field name="titleSort">Yolanda</field>
+<field name="composer">Vicente Arregui Garay</field>
+<field name="composerSort">Garay, Vicente Arregui</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Ricardo J. Catarinéu</field>
+<field name="librettistSort">Catarinéu, Ricardo J.</field>
+<field name="librettist">Enrique Díez Canedo</field>
+<field name="librettistSort">Díez Canedo, Enrique</field>
+
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yolanda+Vicente+Arregui+Garay&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106352</field>
+<field name="genre">Operas</field>
+<field name="title">The Death of Tintagiles</field>
+<field name="titleSort">Death of Tintagiles</field>
+<field name="composer">Lawrance Collingwood</field>
+<field name="composerSort">Collingwood, Lawrance</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Maurice Maeterlinck</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Death+of+Tintagiles+Lawrance+Collingwood&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200317</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Aurora</field>
+		<field name="titleSort">Aurora</field>
+		<field name="year">1970</field>
+		
+		
+		<field name="date">1970</field>
+		<field name="composer">Gheorghe Neaga</field>
+		<field name="composerSort">Neaga, Gheorghe</field>
+		<field name="librettist">Gheorghe Dimitriu</field>
+		<field name="librettistSort">Dimitriu, Gheorghe</field>
+		
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aurora+Gheorghe+Neaga&amp;search_field=search</field>
+	</doc></add>

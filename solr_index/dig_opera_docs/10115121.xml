@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115121</field>
+<field name="genre">Operas</field>
+<field name="title">Le siège de Thionville</field>
+<field name="titleSort">siège de Thionville</field>
+<field name="composer">Louis-Emmanuel Jadin</field>
+<field name="composerSort">Jadin, Louis-Emmanuel</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Guillaume Saulnier</field>
+<field name="librettistSort">Saulnier, Guillaume</field>
+<field name="librettist">__ Dutilh</field>
+<field name="librettistSort">Dutilh, __</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+siège+de+Thionville+Louis-Emmanuel+Jadin&amp;search_field=search</field>
+</doc>
+</add>

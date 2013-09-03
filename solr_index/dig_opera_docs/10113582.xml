@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113582</field>
+<field name="genre">Operas</field>
+<field name="title">Alda</field>
+<field name="titleSort">Alda</field>
+<field name="composer">William Franke Harling</field>
+<field name="composerSort">Harling, William Franke</field>
+<field name="year">1908</field>
+<field name="date">1908</field><field name="theater">Jordan Hall</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alda+William+Franke+Harling&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201928</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Iahelis clavus numinis telum</field>
+		<field name="titleSort">Iahelis clavus numinis telum</field>
+		<field name="year">1705</field>
+		<field name="month">April</field>
+		<field name="day">13</field>
+		<field name="date">April 13, 1705</field>
+		<field name="composer">Domenico Filippo Bottari</field>
+		<field name="composerSort">Bottari, Domenico Filippo</field>
+		<field name="librettist">Giovanni Battista Vacondio</field>
+		<field name="librettistSort">Vacondio, Giovanni Battista</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iahelis+clavus+numinis+telum+Domenico+Filippo+Bottari&amp;search_field=search</field>
+	</doc></add>

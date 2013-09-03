@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101966</field>
+<field name="genre">Operas</field>
+<field name="title">Maskenrausch</field>
+<field name="titleSort">Maskenrausch</field>
+<field name="composer">L. Baschell</field>
+<field name="composerSort">Baschell, L.</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Armin Petersen</field>
+<field name="librettistSort">Petersen, Armin</field>
+<field name="librettist">Peter Lux</field>
+<field name="librettistSort">Lux, Peter</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maskenrausch+L.+Baschell&amp;search_field=search</field>
+</doc>
+</add>

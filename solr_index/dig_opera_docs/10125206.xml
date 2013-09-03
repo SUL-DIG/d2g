@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125206</field>
+<field name="genre">Operas</field>
+<field name="title">La frecce d'amore</field>
+<field name="titleSort">frecce d'amore</field>
+<field name="composer">Domenico Puccini</field>
+<field name="composerSort">Puccini, Domenico</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Francesco Francesconi</field>
+<field name="librettistSort">Francesconi, Francesco"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+frecce+d'amore+Domenico+Puccini&amp;search_field=search</field>
+</doc>
+</add>

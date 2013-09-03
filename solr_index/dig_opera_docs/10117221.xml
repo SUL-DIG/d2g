@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117221</field>
+<field name="genre">Operas</field>
+<field name="title">Die gefährliche Nachbarschaft</field>
+<field name="titleSort">gefährliche Nachbarschaft</field>
+<field name="composer">Ferdinand Langer</field>
+<field name="composerSort">Langer, Ferdinand</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Sigmund Rocke</field>
+<field name="librettistSort">Rocke, Sigmund</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+gefährliche+Nachbarschaft+Ferdinand+Langer&amp;search_field=search</field>
+</doc>
+</add>

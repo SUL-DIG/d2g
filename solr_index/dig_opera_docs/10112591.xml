@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112591</field>
+<field name="genre">Operas</field>
+<field name="title">Matilde da Valdelmo</field>
+<field name="titleSort">Matilde da Valdelmo</field>
+<field name="composer">Giovanni Grassoni</field>
+<field name="composerSort">Grassoni, Giovanni</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Alessandro Ascoli</field>
+<field name="librettistSort">Ascoli, Alessandro</field>
+<field name="theater">Teatro delle Muse</field>
+<field name="city">Ancona</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matilde+da+Valdelmo+Giovanni+Grassoni&amp;search_field=search</field>
+</doc>
+</add>

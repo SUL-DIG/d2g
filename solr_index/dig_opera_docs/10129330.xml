@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129330</field>
+<field name="genre">Operas</field>
+<field name="title">Die Perle von Mexico</field>
+<field name="titleSort">Perle von Mexico</field>
+<field name="composer">Franz Snaga</field>
+<field name="composerSort">Snaga, Franz</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Karl Rodemann</field>
+<field name="librettistSort">Rodemann, Karl</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bydgoszcz</field>
+<field name="region">Kujawsko-Pomorskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Perle+von+Mexico+Franz+Snaga&amp;search_field=search</field>
+</doc>
+</add>

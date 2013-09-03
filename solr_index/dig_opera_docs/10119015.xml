@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119015</field>
+<field name="genre">Operas</field>
+<field name="title">Le metamorfosi di Bonaventura</field>
+<field name="titleSort">metamorfosi di Bonaventura</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+metamorfosi+di+Bonaventura+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

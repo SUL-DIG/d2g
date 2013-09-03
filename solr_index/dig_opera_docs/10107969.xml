@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107969</field>
+<field name="genre">Operas</field>
+<field name="title">Linda di Chamounix</field>
+<field name="titleSort">Linda di Chamounix</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Linda+di+Chamounix+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

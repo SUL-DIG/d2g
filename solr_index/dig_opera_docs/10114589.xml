@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114589</field>
+<field name="genre">Operas</field>
+<field name="title">The Ticket</field>
+<field name="titleSort">Ticket</field>
+<field name="composer">Saul Honigman</field>
+<field name="composerSort">Honigman, Saul</field>
+<field name="year">1958</field>
+<field name="date">1958</field><field name="theater">Byrdcliffe Theater</field>
+<field name="city">Woodstock</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ticket+Saul+Honigman&amp;search_field=search</field>
+</doc>
+</add>

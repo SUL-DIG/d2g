@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132332</field>
+<field name="genre">Operas</field>
+<field name="title">Braconierul (The Poachers)</field>
+<field name="titleSort">Braconierul (The Poachers)</field>
+<field name="composer">Ion Andrei Wachmann</field>
+<field name="composerSort">Wachmann, Ion Andrei</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Braconierul+The+Poachers+Ion+Andrei+Wachmann&amp;search_field=search</field>
+</doc>
+</add>

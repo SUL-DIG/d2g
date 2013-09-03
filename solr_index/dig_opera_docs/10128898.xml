@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128898</field>
+<field name="genre">Operas</field>
+<field name="title">À Cronstadt</field>
+<field name="titleSort">À Cronstadt</field>
+<field name="composer">__ Serigne</field>
+<field name="composerSort">Serigne, __</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Maurice Magnier</field>
+<field name="librettistSort">Magnier, Maurice</field>
+<field name="librettist">__ Blédort</field>
+<field name="librettistSort">Blédort, __</field>
+<field name="theater">Café-concert de Bataclan</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+Cronstadt+__+Serigne&amp;search_field=search</field>
+</doc>
+</add>

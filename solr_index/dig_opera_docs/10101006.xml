@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101006</field>
+<field name="genre">Operas</field>
+<field name="title">Coriolano</field>
+<field name="titleSort">Coriolano</field>
+<field name="composer">Attilio Ariosti</field>
+<field name="composerSort">Ariosti, Attilio</field>
+<field name="year">1723</field>
+<field name="date">1723</field>
+<field name="librettist">Nicola Francesco Haym</field>
+<field name="librettistSort">Haym, Nicola Francesco</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coriolano+Attilio+Ariosti&amp;search_field=search</field>
+</doc>
+</add>

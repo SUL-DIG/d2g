@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120957</field>
+<field name="genre">Operas</field>
+<field name="title">Una novella del Boccaccio</field>
+<field name="titleSort">novella del Boccaccio</field>
+<field name="composer">Domenico Monleone</field>
+<field name="composerSort">Monleone, Domenico</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Emiliano Bonetti</field>
+<field name="librettistSort">Bonetti, Emiliano</field>
+<field name="theater">Politeama Genovese</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+novella+del+Boccaccio+Domenico+Monleone&amp;search_field=search</field>
+</doc>
+</add>

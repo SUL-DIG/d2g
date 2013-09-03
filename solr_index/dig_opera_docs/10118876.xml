@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118876</field>
+<field name="genre">Operas</field>
+<field name="title">Cajo Marzio Coriolano</field>
+<field name="titleSort">Cajo Marzio Coriolano</field>
+<field name="composer">Francesco Maggiore</field>
+<field name="composerSort">Maggiore, Francesco</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cajo+Marzio+Coriolano+Francesco+Maggiore&amp;search_field=search</field>
+</doc>
+</add>

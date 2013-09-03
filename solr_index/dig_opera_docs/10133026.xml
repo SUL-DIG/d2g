@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133026</field>
+<field name="genre">Operas</field>
+<field name="title">Colmal</field>
+<field name="titleSort">Colmal</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Matthäus von Collin</field>
+<field name="librettistSort">Collin, Matthäus von</field>
+<field name="librettist">[James Macpherson] Ossian</field>
+<field name="librettistSort">Ossian, [James Macpherson]</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Colmal+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

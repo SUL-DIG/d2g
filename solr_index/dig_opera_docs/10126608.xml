@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126608</field>
+<field name="genre">Operas</field>
+<field name="title">A Childhood Miracle</field>
+<field name="titleSort">Childhood Miracle</field>
+<field name="composer">Ned Rorem</field>
+<field name="composerSort">Rorem, Ned</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Elliott Stein</field>
+<field name="librettistSort">Stein, Elliott</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Carl Fischer Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Childhood+Miracle+Ned+Rorem&amp;search_field=search</field>
+</doc>
+</add>

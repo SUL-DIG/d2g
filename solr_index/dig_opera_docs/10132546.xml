@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132546</field>
+<field name="genre">Operas</field>
+<field name="title">Schweizers Heimweh und Heimkehr</field>
+<field name="titleSort">Schweizers Heimweh und Heimkehr</field>
+<field name="composer">Xaver Schnyder von Wartensee</field>
+<field name="composerSort">Wartensee, Xaver Schnyder von</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Joseph J. Xaver Pfyffer zu Neueck</field>
+<field name="librettistSort">Neueck, Joseph J. Xaver Pfyffer zu</field>
+
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schweizers+Heimweh+und+Heimkehr+Xaver+Schnyder+von+Wartensee&amp;search_field=search</field>
+</doc>
+</add>

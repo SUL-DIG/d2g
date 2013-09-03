@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133386</field>
+<field name="genre">Operas</field>
+<field name="title">Sismano nel Mogol</field>
+<field name="titleSort">Sismano nel Mogol</field>
+<field name="composer">Francesco Zannetti</field>
+<field name="composerSort">Zannetti, Francesco</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Giovanni de Gamerra</field>
+<field name="librettistSort">Gamerra, Giovanni de</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sismano+nel+Mogol+Francesco+Zannetti&amp;search_field=search</field>
+</doc>
+</add>

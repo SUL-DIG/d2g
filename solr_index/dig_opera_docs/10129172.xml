@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129172</field>
+<field name="genre">Operas</field>
+<field name="title">Le chant des tropiques</field>
+<field name="titleSort">chant des tropiques</field>
+<field name="composer">Moïse Simons</field>
+<field name="composerSort">Simons, Moïse</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Louis Sauvat</field>
+<field name="librettistSort">Sauvat, Louis</field>
+<field name="librettist">[Jules-François-Félix Husson] Champfleury</field>
+<field name="librettistSort">Champfleury, [Jules-François-Félix Husson]</field>
+<field name="theater">Théâtre de Paris</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chant+des+tropiques+Moïse+Simons&amp;search_field=search</field>
+</doc>
+</add>

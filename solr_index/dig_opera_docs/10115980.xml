@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115980</field>
+<field name="genre">Operas</field>
+<field name="title">The Blessed Wilderness</field>
+<field name="titleSort">Blessed Wilderness</field>
+<field name="composer">Jack Frederick Kilpatrick</field>
+<field name="composerSort">Kilpatrick, Jack Frederick</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Jack Frederick Kilpatrick</field>
+<field name="librettistSort">Kilpatrick, Jack Frederick</field>
+<field name="theater">Southern Methodist University</field>
+<field name="city">Dallas</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blessed+Wilderness+Jack+Frederick+Kilpatrick&amp;search_field=search</field>
+</doc>
+</add>

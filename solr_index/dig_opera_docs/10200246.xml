@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200246</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'Assalone</field>
+		<field name="titleSort">Assalone</field>
+		<field name="year">1684</field>
+		
+		
+		<field name="date">1684</field>
+		<field name="composer">Giovanni Paolo Colonna</field>
+		<field name="composerSort">Colonna, Giovanni Paolo</field>
+		<field name="librettist">Giacomo Antonio Bergamori</field>
+		<field name="librettistSort">Bergamori, Giacomo Antonio</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Absalom</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Assalone+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+	</doc></add>

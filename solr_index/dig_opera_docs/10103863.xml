@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103863</field>
+<field name="genre">Operas</field>
+<field name="title">L'heureux dénouement de Sylvain</field>
+<field name="titleSort">heureux dénouement de Sylvain</field>
+<field name="composer">Sébastien Bourdais</field>
+<field name="composerSort">Bourdais, Sébastien</field>
+<field name="year">1779</field>
+<field name="date">1779</field><field name="theater">Comödiensaal auf dem Schlosse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'heureux+dénouement+de+Sylvain+Sébastien+Bourdais&amp;search_field=search</field>
+</doc>
+</add>

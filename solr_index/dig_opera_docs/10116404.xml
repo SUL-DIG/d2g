@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116404</field>
+<field name="genre">Operas</field>
+<field name="title">Az két lovagok (The Two Knights)</field>
+<field name="titleSort">két lovagok (The Two Knights)</field>
+<field name="composer">György Kósa</field>
+<field name="composerSort">Kósa, György</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Arthur Keleti</field>
+<field name="librettistSort">Keleti, Arthur</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+két+lovagok+The+Two+Knights+György+Kósa&amp;search_field=search</field>
+</doc>
+</add>

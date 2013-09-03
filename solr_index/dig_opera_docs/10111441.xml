@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111441</field>
+<field name="genre">Operas</field>
+<field name="title">Alte Liebe rostet nicht</field>
+<field name="titleSort">Alte Liebe rostet nicht</field>
+<field name="composer">Heinrich Geissler</field>
+<field name="composerSort">Geissler, Heinrich</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Marc-Antoine Le Grand</field>
+<field name="librettistSort">Le Grand, Marc-Antoine</field>
+<field name="theater">Königliches Hoftheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alte+Liebe+rostet+nicht+Heinrich+Geissler&amp;search_field=search</field>
+</doc>
+</add>

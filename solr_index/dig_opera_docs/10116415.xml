@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116415</field>
+<field name="genre">Operas</field>
+<field name="title">Les hussards</field>
+<field name="titleSort">hussards</field>
+<field name="composer">Joseph Kosma</field>
+<field name="composerSort">Kosma, Joseph</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Pierre-Aristide Bréal</field>
+<field name="librettistSort">Bréal, Pierre-Aristide</field>
+<field name="theater">Opéra</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+hussards+Joseph+Kosma&amp;search_field=search</field>
+</doc>
+</add>

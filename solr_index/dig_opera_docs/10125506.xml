@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125506</field>
+<field name="genre">Operas</field>
+<field name="title">Gueule d'or</field>
+<field name="titleSort">Gueule d'or</field>
+<field name="composer">Charles Raiter</field>
+<field name="composerSort">Raiter, Charles</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">[Victor Nicolaïe] Charles Clairville</field>
+<field name="librettistSort">Clairville, Charles [Victor Nicolaïe]</field>
+<field name="librettist">Benjamin Lebreton</field>
+<field name="librettistSort">Lebreton, Benjamin</field>
+<field name="theater">Bobino-Music-Hall</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gueule+d'or+Charles+Raiter&amp;search_field=search</field>
+</doc>
+</add>

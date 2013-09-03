@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119307</field>
+<field name="genre">Operas</field>
+<field name="title">Deïdamia</field>
+<field name="titleSort">Deïdamia</field>
+<field name="composer">Henri Maréchal</field>
+<field name="composerSort">Maréchal, Henri</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Édouard Noël</field>
+<field name="librettistSort">Noël, Édouard</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deïdamia+Henri+Maréchal&amp;search_field=search</field>
+</doc>
+</add>

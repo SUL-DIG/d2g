@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202519</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El lirio del valle</field>
+		<field name="titleSort">lirio del valle</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Antonío Mila</field>
+		<field name="composerSort">Mila, Antonío</field>
+		
+		
+		
+		<field name="city">Tarragona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">The Rose of Sharon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+lirio+del+valle+Antonío+Mila&amp;search_field=search</field>
+	</doc></add>

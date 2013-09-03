@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118681</field>
+<field name="genre">Operas</field>
+<field name="title">Nuova Euridice</field>
+<field name="titleSort">Nuova Euridice</field>
+<field name="composer">Roberto Lupi</field>
+<field name="composerSort">Lupi, Roberto</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Marie Della Quercia</field>
+<field name="librettistSort">Della Quercia, Marie</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nuova+Euridice+Roberto+Lupi&amp;search_field=search</field>
+</doc>
+</add>

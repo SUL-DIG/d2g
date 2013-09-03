@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102323</field>
+<field name="genre">Operas</field>
+<field name="title">Das Blumenmädchen</field>
+<field name="titleSort">Blumenmädchen</field>
+<field name="composer">Friedrich Wilhelm Benda</field>
+<field name="composerSort">Benda, Friedrich Wilhelm</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Johann Friedrich Rochlitz</field>
+<field name="librettistSort">Rochlitz, Johann Friedrich</field>
+<field name="theater">Königliches Nationaltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Blumenmädchen+Friedrich+Wilhelm+Benda&amp;search_field=search</field>
+</doc>
+</add>

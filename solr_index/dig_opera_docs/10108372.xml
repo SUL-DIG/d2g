@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108372</field>
+<field name="genre">Operas</field>
+<field name="title">Marguerite et Waldemar</field>
+<field name="titleSort">Marguerite et Waldemar</field>
+<field name="composer">Gustave Dugazon</field>
+<field name="composerSort">Dugazon, Gustave</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">[Georges Touchard-Lafosse &amp; E.-F. Varez] Saint-Félix</field>
+<field name="librettistSort">Saint-Félix, [Georges Touchard-Lafosse &amp; E.-F. Varez]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marguerite+et+Waldemar+Gustave+Dugazon&amp;search_field=search</field>
+</doc>
+</add>

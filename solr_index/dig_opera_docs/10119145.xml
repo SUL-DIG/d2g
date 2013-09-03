@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119145</field>
+<field name="genre">Operas</field>
+<field name="title">Semiramide riconosciuta</field>
+<field name="titleSort">Semiramide riconosciuta</field>
+<field name="composer">Vincenzo Manfredini</field>
+<field name="composerSort">Manfredini, Vincenzo</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Oranienbaum Palace</field>
+<field name="city">Lomonosov</field>
+<field name="region">Leningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Semiramide+riconosciuta+Vincenzo+Manfredini&amp;search_field=search</field>
+</doc>
+</add>

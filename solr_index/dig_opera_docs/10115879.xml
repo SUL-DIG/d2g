@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115879</field>
+<field name="genre">Operas</field>
+<field name="title">Kikelet-utca 3</field>
+<field name="titleSort">Kikelet-utca 3</field>
+<field name="composer">Egon Kemény</field>
+<field name="composerSort">Kemény, Egon</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="librettist">István Bródy</field>
+<field name="librettistSort">Bródy, István</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kikelet-utca+3+Egon+Kemény&amp;search_field=search</field>
+</doc>
+</add>

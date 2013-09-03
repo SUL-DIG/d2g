@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103108</field>
+<field name="genre">Operas</field>
+<field name="title">Das Rosengärtlein</field>
+<field name="titleSort">Rosengärtlein</field>
+<field name="composer">Julius Bittner</field>
+<field name="composerSort">Bittner, Julius</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Julius Bittner</field>
+<field name="librettistSort">Bittner, Julius</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Rosengärtlein+Julius+Bittner&amp;search_field=search</field>
+</doc>
+</add>

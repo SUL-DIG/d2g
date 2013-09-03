@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128645</field>
+<field name="genre">Operas</field>
+<field name="title">Adam und Eva</field>
+<field name="titleSort">Adam und Eva</field>
+<field name="composer">Arthur Max Schweiger</field>
+<field name="composerSort">Schweiger, Arthur Max</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Fritz Lunzer</field>
+<field name="librettistSort">Lunzer, Fritz</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adam+und+Eva+Arthur+Max+Schweiger&amp;search_field=search</field>
+</doc>
+</add>

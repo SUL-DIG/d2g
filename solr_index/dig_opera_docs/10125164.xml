@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125164</field>
+<field name="genre">Operas</field>
+<field name="title">La fenta fattucchiera</field>
+<field name="titleSort">fenta fattucchiera</field>
+<field name="composer">Ignazio Prota</field>
+<field name="composerSort">Prota, Ignazio</field>
+<field name="year">1721</field>
+<field name="date">1721</field>
+<field name="librettist">Angelo Birini</field>
+<field name="librettistSort">Birini, Angelo</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fenta+fattucchiera+Ignazio+Prota&amp;search_field=search</field>
+</doc>
+</add>

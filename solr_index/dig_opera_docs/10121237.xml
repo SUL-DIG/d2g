@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121237</field>
+<field name="genre">Operas</field>
+<field name="title">Francine</field>
+<field name="titleSort">Francine</field>
+<field name="composer">Albertine Morin-Labrecque</field>
+<field name="composerSort">Morin-Labrecque, Albertine</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francine+Albertine+Morin-Labrecque&amp;search_field=search</field>
+</doc>
+</add>

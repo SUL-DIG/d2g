@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204063</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Maria Magdalena</field>
+		<field name="titleSort">Santa Maria Magdalena</field>
+		<field name="year">1740</field>
+		<field name="month">July</field>
+		<field name="day">22</field>
+		<field name="date">July 22, 1740</field>
+		<field name="composer">Baldassare Galuppi</field>
+		<field name="composerSort">Galuppi, Baldassare</field>
+		
+		
+		<field name="theater">Ospedale dei Mendicanti</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Maria+Magdalena+Baldassare+Galuppi&amp;search_field=search</field>
+	</doc></add>

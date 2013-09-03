@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129901</field>
+<field name="genre">Operas</field>
+<field name="title">Die Feuerprobe</field>
+<field name="titleSort">Feuerprobe</field>
+<field name="composer">Kurt Stiebitz</field>
+<field name="composerSort">Stiebitz, Kurt</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Kurt Stiebitz</field>
+<field name="librettistSort">Stiebitz, Kurt</field>
+<field name="librettist">Werner Bergengruen</field>
+<field name="librettistSort">Bergengruen, Werner</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Feuerprobe+Kurt+Stiebitz&amp;search_field=search</field>
+</doc>
+</add>

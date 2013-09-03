@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133532</field>
+<field name="genre">Operas</field>
+<field name="title">Chest' (Honor)</field>
+<field name="titleSort">Chest' (Honor)</field>
+<field name="composer">German Leont'yevich Zhukovsky</field>
+<field name="composerSort">Zhukovsky, German Leont'yevich</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Hryhoriy Plotkin</field>
+<field name="librettistSort">Plotkin, Hryhoriy"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chest'+Honor+German+Leont'yevich+Zhukovsky&amp;search_field=search</field>
+</doc>
+</add>

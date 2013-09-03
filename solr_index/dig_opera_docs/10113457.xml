@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113457</field>
+<field name="genre">Operas</field>
+<field name="title">Tamburlaine</field>
+<field name="titleSort">Tamburlaine</field>
+<field name="composer">Iain Hamilton</field>
+<field name="composerSort">Hamilton, Iain</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Iain Hamilton</field>
+<field name="librettistSort">Hamilton, Iain</field>
+<field name="librettist">Christopher Marlowe</field>
+<field name="librettistSort">Marlowe, Christopher</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tamburlaine+Iain+Hamilton&amp;search_field=search</field>
+</doc>
+</add>

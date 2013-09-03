@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126131</field>
+<field name="genre">Operas</field>
+<field name="title">Les ecosseuses</field>
+<field name="titleSort">ecosseuses</field>
+<field name="composer">Tony Rieffler</field>
+<field name="composerSort">Rieffler, Tony</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Charles Blondelet</field>
+<field name="librettistSort">Blondelet, Charles</field>
+<field name="librettist">Félix Baumaine</field>
+<field name="librettistSort">Baumaine, Félix</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+ecosseuses+Tony+Rieffler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103717</field>
+<field name="genre">Operas</field>
+<field name="title">L'assedio di Ancona nel 1174</field>
+<field name="titleSort">assedio di Ancona nel 1174</field>
+<field name="composer">Giuseppe Bornacini</field>
+<field name="composerSort">Bornacini, Giuseppe</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Filippo Barattani</field>
+<field name="librettistSort">Barattani, Filippo</field>
+<field name="theater">Teatro delle Muse</field>
+<field name="city">Ancona</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'assedio+di+Ancona+nel+1174+Giuseppe+Bornacini&amp;search_field=search</field>
+</doc>
+</add>

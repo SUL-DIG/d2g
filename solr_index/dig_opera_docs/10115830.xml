@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115830</field>
+<field name="genre">Operas</field>
+<field name="title">Die Leipziger Messe</field>
+<field name="titleSort">Leipziger Messe</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Christian Friedrich Weidmann</field>
+<field name="librettistSort">Weidmann, Christian Friedrich</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Leipziger+Messe+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

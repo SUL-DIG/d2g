@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108044</field>
+<field name="genre">Operas</field>
+<field name="title">Der Graf von Gleichen</field>
+<field name="titleSort">Graf von Gleichen</field>
+<field name="composer">Gustav Dörstling</field>
+<field name="composerSort">Dörstling, Gustav</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Robert Knauer</field>
+<field name="librettistSort">Knauer, Robert</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Graf+von+Gleichen+Gustav+Dörstling&amp;search_field=search</field>
+</doc>
+</add>

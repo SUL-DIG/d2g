@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118102</field>
+<field name="genre">Operas</field>
+<field name="title">Der Brigitten-Kirchtag</field>
+<field name="titleSort">Brigitten-Kirchtag</field>
+<field name="composer">Johann Georg Lickl</field>
+<field name="composerSort">Lickl, Johann Georg</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Joseph Richter</field>
+<field name="librettistSort">Richter, Joseph</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Brigitten-Kirchtag+Johann+Georg+Lickl&amp;search_field=search</field>
+</doc>
+</add>

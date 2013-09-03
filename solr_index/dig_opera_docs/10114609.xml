@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114609</field>
+<field name="genre">Operas</field>
+<field name="title">Frithjof</field>
+<field name="titleSort">Frithjof</field>
+<field name="composer">Bernhard Ludwig Hopffer</field>
+<field name="composerSort">Hopffer, Bernhard Ludwig</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Karl Emil Hopffer</field>
+<field name="librettistSort">Hopffer, Karl Emil</field>
+<field name="librettist">Esaias Tegnér</field>
+<field name="librettistSort">Tegnér, Esaias</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frithjof+Bernhard+Ludwig+Hopffer&amp;search_field=search</field>
+</doc>
+</add>

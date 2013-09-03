@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130880</field>
+<field name="genre">Operas</field>
+<field name="title">Képzelt bekg</field>
+<field name="titleSort">Képzelt bekg</field>
+<field name="composer">Károly Thern</field>
+<field name="composerSort">Thern, Károly</field>
+<field name="year">1855</field>
+<field name="date">1855</field><field name="theater">Nemzeti Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Képzelt+bekg+Károly+Thern&amp;search_field=search</field>
+</doc>
+</add>

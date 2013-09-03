@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115599</field>
+<field name="genre">Operas</field>
+<field name="title">Young Tom Edison</field>
+<field name="titleSort">Young Tom Edison</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Robert K. Adams</field>
+<field name="librettistSort">Adams, Robert K.</field>
+<field name="theater">Greenwich Mews</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Young+Tom+Edison+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

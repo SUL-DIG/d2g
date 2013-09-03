@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128179</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rose von Bacharach</field>
+<field name="titleSort">Rose von Bacharach</field>
+<field name="composer">Ludwig Scherff</field>
+<field name="composerSort">Scherff, Ludwig</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Ludwig Scherff</field>
+<field name="librettistSort">Scherff, Ludwig</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rose+von+Bacharach+Ludwig+Scherff&amp;search_field=search</field>
+</doc>
+</add>

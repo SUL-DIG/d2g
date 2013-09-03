@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108319</field>
+<field name="genre">Operas</field>
+<field name="title">Don Pedro di Portogallo (Ines de Castro)</field>
+<field name="titleSort">Don Pedro di Portogallo (Ines de Castro)</field>
+<field name="composer">Riccardo Drigo</field>
+<field name="composerSort">Drigo, Riccardo</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Antonio Gasparini</field>
+<field name="librettistSort">Gasparini, Antonio</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Pedro+di+Portogallo+Ines+de+Castro+Riccardo+Drigo&amp;search_field=search</field>
+</doc>
+</add>

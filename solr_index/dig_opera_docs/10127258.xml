@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127258</field>
+<field name="genre">Operas</field>
+<field name="title">Perseo</field>
+<field name="titleSort">Perseo</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perseo+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

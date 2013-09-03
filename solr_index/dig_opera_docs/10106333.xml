@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106333</field>
+<field name="genre">Operas</field>
+<field name="title">Le garde chasse</field>
+<field name="titleSort">garde chasse</field>
+<field name="composer">Lucien Collin</field>
+<field name="composerSort">Collin, Lucien</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Maxime Guy</field>
+<field name="librettistSort">Guy, Maxime</field>
+<field name="librettist">Adolphe Méliot</field>
+<field name="librettistSort">Méliot, Adolphe</field>
+<field name="theater">Éden-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+garde+chasse+Lucien+Collin&amp;search_field=search</field>
+</doc>
+</add>

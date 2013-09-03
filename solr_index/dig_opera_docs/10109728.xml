@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109728</field>
+<field name="genre">Operas</field>
+<field name="title">Manette</field>
+<field name="titleSort">Manette</field>
+<field name="composer">André Fijan</field>
+<field name="composerSort">Fijan, André</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="librettist">Louis Le Bel</field>
+<field name="librettistSort">Le Bel, Louis</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manette+André+Fijan&amp;search_field=search</field>
+</doc>
+</add>

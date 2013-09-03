@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105222</field>
+<field name="genre">Operas</field>
+<field name="title">Le bonheur dans le crime</field>
+<field name="titleSort">bonheur dans le crime</field>
+<field name="composer">André Casanova</field>
+<field name="composerSort">Casanova, André</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Bernard George</field>
+<field name="librettistSort">George, Bernard</field>
+<field name="librettist">Jules-Amédée Barbey d'Aurevilly</field>
+<field name="librettistSort">d'Aurevilly, Jules-Amédée Barbey</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bonheur+dans+le+crime+André+Casanova&amp;search_field=search</field>
+</doc>
+</add>

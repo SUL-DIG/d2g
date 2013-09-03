@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115004</field>
+<field name="genre">Operas</field>
+<field name="title">Le billet de loterie</field>
+<field name="titleSort">billet de loterie</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Augustin-François Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="librettist">Jean-François Roger</field>
+<field name="librettistSort">Roger, Jean-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+billet+de+loterie+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126762</field>
+<field name="genre">Operas</field>
+<field name="title">Leocadia</field>
+<field name="titleSort">Leocadia</field>
+<field name="composer">Lauro Rossi</field>
+<field name="composerSort">Rossi, Lauro</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Teatro della Canobbiana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leocadia+Lauro+Rossi&amp;search_field=search</field>
+</doc>
+</add>

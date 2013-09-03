@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104125</field>
+<field name="genre">Operas</field>
+<field name="title">The Christmas Rose</field>
+<field name="titleSort">Christmas Rose</field>
+<field name="composer">Frank Bridge</field>
+<field name="composerSort">Bridge, Frank</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Margaret Kemp-Welch</field>
+<field name="librettistSort">Kemp-Welch, Margaret</field>
+<field name="librettist">Constance Cotterell</field>
+<field name="librettistSort">Cotterell, Constance</field>
+<field name="theater">Royal College of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Christmas+Rose+Frank+Bridge&amp;search_field=search</field>
+</doc>
+</add>

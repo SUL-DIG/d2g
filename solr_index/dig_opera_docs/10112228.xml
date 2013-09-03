@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112228</field>
+<field name="genre">Operas</field>
+<field name="title">L'indolente</field>
+<field name="titleSort">indolente</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'indolente+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

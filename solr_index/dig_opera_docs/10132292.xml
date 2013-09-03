@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132292</field>
+<field name="genre">Operas</field>
+<field name="title">Leonhardtel und Blondinel</field>
+<field name="titleSort">Leonhardtel und Blondinel</field>
+<field name="composer">Franz Volkert</field>
+<field name="composerSort">Volkert, Franz</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">J. Hoff</field>
+<field name="librettistSort">Hoff, J.</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonhardtel+und+Blondinel+Franz+Volkert&amp;search_field=search</field>
+</doc>
+</add>

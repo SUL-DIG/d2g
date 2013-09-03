@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124907</field>
+<field name="genre">Operas</field>
+<field name="title">Deux morts qui se volent</field>
+<field name="titleSort">Deux morts qui se volent</field>
+<field name="composer">Bernardo Porta</field>
+<field name="composerSort">Porta, Bernardo</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Théâtre de l'Ambigu-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deux+morts+qui+se+volent+Bernardo+Porta&amp;search_field=search</field>
+</doc>
+</add>

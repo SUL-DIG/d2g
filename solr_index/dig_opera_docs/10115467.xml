@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115467</field>
+<field name="genre">Operas</field>
+<field name="title">Zaidimas (The Game)</field>
+<field name="titleSort">Zaidimas (The Game)</field>
+<field name="composer">Julius Juzeliunas</field>
+<field name="composerSort">Juzeliunas, Julius</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Julius Juzeliunas</field>
+<field name="librettistSort">Juzeliunas, Julius</field>
+<field name="librettist">Friedrich Dürrenmatt</field>
+<field name="librettistSort">Dürrenmatt, Friedrich</field>
+<field name="theater">Operos ir Baleto Teatras</field>
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaidimas+The+Game+Julius+Juzeliunas&amp;search_field=search</field>
+</doc>
+</add>

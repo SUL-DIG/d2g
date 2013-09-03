@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113867</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Fest auf Haderslev</field>
+<field name="titleSort">Fest auf Haderslev</field>
+<field name="composer">Robert Heger</field>
+<field name="composerSort">Heger, Robert</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Robert Heger</field>
+<field name="librettistSort">Heger, Robert</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Fest+auf+Haderslev+Robert+Heger&amp;search_field=search</field>
+</doc>
+</add>

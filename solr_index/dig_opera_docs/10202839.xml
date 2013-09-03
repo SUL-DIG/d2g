@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202839</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Morven and the Grail</field>
+		<field name="titleSort">Morven and the Grail</field>
+		<field name="year">1915</field>
+		<field name="month">April</field>
+		<field name="day">13</field>
+		<field name="date">April 13, 1915</field>
+		<field name="composer">Horatio Parker</field>
+		<field name="composerSort">Parker, Horatio</field>
+		<field name="librettist">Brian Hooker</field>
+		<field name="librettistSort">Hooker, Brian</field>
+		
+		<field name="theater">The Handel and Haydn Society</field>
+		<field name="city">Boston</field>
+		<field name="region">Massachusetts</field>
+		<field name="country">United States</field>
+		<field name="subject">The Grail</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Morven+and+the+Grail+Horatio+Parker&amp;search_field=search</field>
+	</doc></add>

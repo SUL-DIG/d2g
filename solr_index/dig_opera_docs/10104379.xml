@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104379</field>
+<field name="genre">Operas</field>
+<field name="title">Mr. Rhinoceros and his Musicians</field>
+<field name="titleSort">Mr. Rhinoceros and his Musicians</field>
+<field name="composer">Walter Buczynski</field>
+<field name="composerSort">Buczynski, Walter</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Lilly Barnes</field>
+<field name="librettistSort">Barnes, Lilly</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Rhinoceros+and+his+Musicians+Walter+Buczynski&amp;search_field=search</field>
+</doc>
+</add>

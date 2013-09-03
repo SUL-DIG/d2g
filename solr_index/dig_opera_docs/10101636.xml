@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101636</field>
+<field name="genre">Operas</field>
+<field name="title">Il parigino in Italia</field>
+<field name="titleSort">parigino in Italia</field>
+<field name="composer">Lorenzo Baini</field>
+<field name="composerSort">Baini, Lorenzo</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+parigino+in+Italia+Lorenzo+Baini&amp;search_field=search</field>
+</doc>
+</add>

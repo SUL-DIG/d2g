@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101366</field>
+<field name="genre">Operas</field>
+<field name="title">La fête de Versailles</field>
+<field name="titleSort">fête de Versailles</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Château de Versailles</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+de+Versailles+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

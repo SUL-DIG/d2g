@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103898</field>
+<field name="genre">Operas</field>
+<field name="title">Diane et l'Amour</field>
+<field name="titleSort">Diane et l'Amour</field>
+<field name="composer">François Bouvard</field>
+<field name="composerSort">Bouvard, François</field>
+
+
+<field name="librettist">Paul Morand</field>
+<field name="librettistSort">Morand, Paul"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diane+et+l'Amour+François+Bouvard&amp;search_field=search</field>
+</doc>
+</add>

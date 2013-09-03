@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118726</field>
+<field name="genre">Operas</field>
+<field name="title">Harkushka</field>
+<field name="titleSort">Harkushka</field>
+<field name="composer">Mykola Vitaliyovych Lysenko</field>
+<field name="composerSort">Lysenko, Mykola Vitaliyovych</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Oleksa Petrovych Storozhenko</field>
+<field name="librettistSort">Storozhenko, Oleksa Petrovych"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harkushka+Mykola+Vitaliyovych+Lysenko&amp;search_field=search</field>
+</doc>
+</add>

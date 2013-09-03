@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203413</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Pilger am Jordan</field>
+		<field name="titleSort">Pilger am Jordan</field>
+		<field name="year">1798</field>
+		
+		
+		<field name="date">1798</field>
+		<field name="composer">Christoph August Gabler</field>
+		<field name="composerSort">Gabler, Christoph August</field>
+		
+		
+		
+		<field name="city">Magdeburg</field>
+		<field name="region">Sachsen-Anhalt</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Pilger+am+Jordan+Christoph+August+Gabler&amp;search_field=search</field>
+	</doc></add>

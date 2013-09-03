@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112510</field>
+<field name="genre">Operas</field>
+<field name="title">The Ugly Duckling</field>
+<field name="titleSort">Ugly Duckling</field>
+<field name="composer">Richard Corney Grain</field>
+<field name="composerSort">Grain, Richard Corney</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Saint George's Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ugly+Duckling+Richard+Corney+Grain&amp;search_field=search</field>
+</doc>
+</add>

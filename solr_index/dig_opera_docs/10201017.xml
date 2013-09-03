@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201017</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Dives malus</field>
+		<field name="titleSort">Dives malus</field>
+		
+		
+		
+		
+		<field name="composer">Giacomo Carissimi</field>
+		<field name="composerSort">Carissimi, Giacomo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Rich Man and Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dives+malus+Giacomo+Carissimi&amp;search_field=search</field>
+	</doc></add>

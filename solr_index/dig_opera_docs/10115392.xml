@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115392</field>
+<field name="genre">Operas</field>
+<field name="title">Roi Midas</field>
+<field name="titleSort">Roi Midas</field>
+<field name="composer">Émile Jonas</field>
+<field name="composerSort">Jonas, Émile</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roi+Midas+Émile+Jonas&amp;search_field=search</field>
+</doc>
+</add>

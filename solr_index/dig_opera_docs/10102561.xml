@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102561</field>
+<field name="genre">Operas</field>
+<field name="title">La donna di spirito</field>
+<field name="titleSort">donna di spirito</field>
+<field name="composer">Marcello Bernardini</field>
+<field name="composerSort">Bernardini, Marcello</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Marcello Bernardini</field>
+<field name="librettistSort">Bernardini, Marcello</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+di+spirito+Marcello+Bernardini&amp;search_field=search</field>
+</doc>
+</add>

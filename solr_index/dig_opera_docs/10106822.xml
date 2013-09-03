@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106822</field>
+<field name="genre">Operas</field>
+<field name="title">The Pearl</field>
+<field name="titleSort">Pearl</field>
+<field name="composer">Dawn Constance Crawford</field>
+<field name="composerSort">Crawford, Dawn Constance</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Dawn Constance Crawford</field>
+<field name="librettistSort">Crawford, Dawn Constance</field>
+<field name="librettist">John Steinbeck</field>
+<field name="librettistSort">Steinbeck, John</field>
+<field name="theater">Dominican College</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pearl+Dawn+Constance+Crawford&amp;search_field=search</field>
+</doc>
+</add>

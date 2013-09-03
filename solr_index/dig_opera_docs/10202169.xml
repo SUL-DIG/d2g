@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202169</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jerusalem eversa</field>
+		<field name="titleSort">Jerusalem eversa</field>
+		<field name="year">1774</field>
+		
+		
+		<field name="date">1774</field>
+		<field name="composer">Pasquale Anfossi</field>
+		<field name="composerSort">Anfossi, Pasquale</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jerusalem+eversa+Pasquale+Anfossi&amp;search_field=search</field>
+	</doc></add>

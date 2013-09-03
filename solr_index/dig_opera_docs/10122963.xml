@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122963</field>
+<field name="genre">Operas</field>
+<field name="title">La cameriera astuta</field>
+<field name="titleSort">cameriera astuta</field>
+<field name="composer">Ferdinando Paini</field>
+<field name="composerSort">Paini, Ferdinando</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cameriera+astuta+Ferdinando+Paini&amp;search_field=search</field>
+</doc>
+</add>

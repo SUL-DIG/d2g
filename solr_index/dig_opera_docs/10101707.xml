@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101707</field>
+<field name="genre">Operas</field>
+<field name="title">The Rose of Castille</field>
+<field name="titleSort">Rose of Castille</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Augustus Henry Harris</field>
+<field name="librettistSort">Harris, Augustus Henry</field>
+<field name="librettist">[Edmund O'Rourke] Edmund Falconer</field>
+<field name="librettistSort">Falconer, Edmund [Edmund O'Rourke]</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rose+of+Castille+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

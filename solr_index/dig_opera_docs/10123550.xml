@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123550</field>
+<field name="genre">Operas</field>
+<field name="title">Amore ed equivoco</field>
+<field name="titleSort">Amore ed equivoco</field>
+<field name="composer">Quirino Pecile</field>
+<field name="composerSort">Pecile, Quirino</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro Nuovissimo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+ed+equivoco+Quirino+Pecile&amp;search_field=search</field>
+</doc>
+</add>

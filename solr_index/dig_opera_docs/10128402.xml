@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128402</field>
+<field name="genre">Operas</field>
+<field name="title">Mirandolina</field>
+<field name="titleSort">Mirandolina</field>
+<field name="composer">Bernhard Scholz</field>
+<field name="composerSort">Scholz, Bernhard</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Theobald Rehbaum</field>
+<field name="librettistSort">Rehbaum, Theobald</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirandolina+Bernhard+Scholz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126429</field>
+<field name="genre">Operas</field>
+<field name="title">A Woman Alive: Conversation Against Death</field>
+<field name="titleSort">Woman Alive: Conversation Against Death</field>
+<field name="composer">Patsy Rodgers</field>
+<field name="composerSort">Rodgers, Patsy</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Eve Meriam</field>
+<field name="librettistSort">Meriam, Eve</field>
+
+<field name="city">Guilford</field>
+<field name="region">Vermont</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Woman+Alive:+Conversation+Against+Death+Patsy+Rodgers&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123486</field>
+<field name="genre">Operas</field>
+<field name="title">I baccanali di Roma</field>
+<field name="titleSort">baccanali di Roma</field>
+<field name="composer">Stefano Pavesi</field>
+<field name="composerSort">Pavesi, Stefano</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Luigi Buonavoglia</field>
+<field name="librettistSort">Buonavoglia, Luigi</field>
+<field name="theater">Teatro Carlo Ludovico</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+baccanali+di+Roma+Stefano+Pavesi&amp;search_field=search</field>
+</doc>
+</add>

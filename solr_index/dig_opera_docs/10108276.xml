@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108276</field>
+<field name="genre">Operas</field>
+<field name="title">Das goldene Netz</field>
+<field name="titleSort">goldene Netz</field>
+<field name="composer">Franz Drdla</field>
+<field name="composerSort">Drdla, Franz</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Karl Engel</field>
+<field name="librettistSort">Engel, Karl</field>
+<field name="librettist">Walter Grave</field>
+<field name="librettistSort">Grave, Walter</field>
+<field name="theater">Zentraltheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+goldene+Netz+Franz+Drdla&amp;search_field=search</field>
+</doc>
+</add>

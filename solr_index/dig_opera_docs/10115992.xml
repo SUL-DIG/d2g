@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115992</field>
+<field name="genre">Operas</field>
+<field name="title">Lily</field>
+<field name="titleSort">Lily</field>
+<field name="composer">Leon Kirchner</field>
+<field name="composerSort">Kirchner, Leon</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Leon Kirchner</field>
+<field name="librettistSort">Kirchner, Leon</field>
+<field name="librettist">Saul Bellow</field>
+<field name="librettistSort">Bellow, Saul</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lily+Leon+Kirchner&amp;search_field=search</field>
+</doc>
+</add>

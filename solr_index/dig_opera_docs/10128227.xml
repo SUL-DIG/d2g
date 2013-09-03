@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128227</field>
+<field name="genre">Operas</field>
+<field name="title">Sonnwendglut</field>
+<field name="titleSort">Sonnwendglut</field>
+<field name="composer">Hans Schilling</field>
+<field name="composerSort">Schilling, Hans</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Felix Baumbach</field>
+<field name="librettistSort">Baumbach, Felix</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Colmar</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sonnwendglut+Hans+Schilling&amp;search_field=search</field>
+</doc>
+</add>

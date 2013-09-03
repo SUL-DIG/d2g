@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202619</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Maria Vergine</field>
+		<field name="titleSort">Maria Vergine</field>
+		
+		
+		
+		
+		<field name="composer">Fortunato Chelleri</field>
+		<field name="composerSort">Chelleri, Fortunato</field>
+		
+		
+		
+		<field name="city">Würzburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Vergine+Fortunato+Chelleri&amp;search_field=search</field>
+	</doc></add>

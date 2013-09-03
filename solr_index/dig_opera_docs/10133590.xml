@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133590</field>
+<field name="genre">Operas</field>
+<field name="title">La congiura del vizio contro la virtù</field>
+<field name="titleSort">congiura del vizio contro la virtù</field>
+<field name="composer">Pietro Andrea Ziani</field>
+<field name="composerSort">Ziani, Pietro Andrea</field>
+<field name="year">1663</field>
+<field name="date">1663</field>
+<field name="librettist">Donato Cupeda</field>
+<field name="librettistSort">Cupeda, Donato</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+congiura+del+vizio+contro+la+virtù+Pietro+Andrea+Ziani&amp;search_field=search</field>
+</doc>
+</add>

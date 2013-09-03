@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101026</field>
+<field name="genre">Operas</field>
+<field name="title">Royal Bijou</field>
+<field name="titleSort">Royal Bijou</field>
+<field name="composer">Albert Arnaud</field>
+<field name="composerSort">Arnaud, Albert</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Edmond Martin</field>
+<field name="librettistSort">Martin, Edmond</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Auxerre</field>
+<field name="region">Yonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Royal+Bijou+Albert+Arnaud&amp;search_field=search</field>
+</doc>
+</add>

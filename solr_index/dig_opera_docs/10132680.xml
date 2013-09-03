@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132680</field>
+<field name="genre">Operas</field>
+<field name="title">Mahagonny</field>
+<field name="titleSort">Mahagonny</field>
+<field name="composer">Kurt Weill</field>
+<field name="composerSort">Weill, Kurt</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Bertolt Brecht</field>
+<field name="librettistSort">Brecht, Bertolt</field>
+<field name="theater">Kurhaustheater</field>
+<field name="city">Baden-Baden</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mahagonny+Kurt+Weill&amp;search_field=search</field>
+</doc>
+</add>

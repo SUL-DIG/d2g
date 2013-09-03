@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111415</field>
+<field name="genre">Operas</field>
+<field name="title">Wer reitet auf meinem Esel?</field>
+<field name="titleSort">Wer reitet auf meinem Esel?</field>
+<field name="composer">Ludwig Gebhard</field>
+<field name="composerSort">Gebhard, Ludwig</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Herbert Wiesinger</field>
+<field name="librettistSort">Wiesinger, Herbert</field>
+
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wer+reitet+auf+meinem+Esel?+Ludwig+Gebhard&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130263</field>
+<field name="genre">Operas</field>
+<field name="title">The School Girl</field>
+<field name="titleSort">School Girl</field>
+<field name="composer">[Thomas Augustine Barrett] Leslie Stuart</field>
+<field name="composerSort">Stuart, [Thomas Augustine Barrett] Leslie</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Henry Hamilton</field>
+<field name="librettistSort">Hamilton, Henry</field>
+<field name="librettist">Paul Potter</field>
+<field name="librettistSort">Potter, Paul</field>
+<field name="theater">Prince of Wales Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+School+Girl+Thomas+Augustine+Barrett]+Leslie+Stuart&amp;search_field=search</field>
+</doc>
+</add>

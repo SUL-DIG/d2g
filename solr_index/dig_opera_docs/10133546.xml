@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133546</field>
+<field name="genre">Operas</field>
+<field name="title">Caio Popilio</field>
+<field name="titleSort">Caio Popilio</field>
+<field name="composer">Marc'Antonio Ziani</field>
+<field name="composerSort">Ziani, Marc'Antonio</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Donato Cupeda</field>
+<field name="librettistSort">Cupeda, Donato</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Caio+Popilio+Marc'Antonio+Ziani&amp;search_field=search</field>
+</doc>
+</add>

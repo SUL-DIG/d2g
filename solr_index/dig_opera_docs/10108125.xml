@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108125</field>
+<field name="genre">Operas</field>
+<field name="title">"La dupe de son art, ou Les deux amants</field>
+<field name="titleSort">"dupe de son art, ou Les deux amants"</field>
+<field name="composer">Victor-Charles-Paul Dourlen</field>
+<field name="composerSort">Dourlen, Victor-Charles-Paul</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Louis Charles Sapey</field>
+<field name="librettistSort">Sapey, Louis Charles</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dupe+de+son+art,+ou+Les+deux+amants+Victor-Charles-Paul+Dourlen&amp;search_field=search</field>
+</doc>
+</add>

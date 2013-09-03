@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120434</field>
+<field name="genre">Operas</field>
+<field name="title">Schneewittchen und die sieben Zwerge</field>
+<field name="titleSort">Schneewittchen und die sieben Zwerge</field>
+<field name="composer">Paul Mestrozzi</field>
+<field name="composerSort">Mestrozzi, Paul</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Carl August Görner</field>
+<field name="librettistSort">Görner, Carl August</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+und+die+sieben+Zwerge+Paul+Mestrozzi&amp;search_field=search</field>
+</doc>
+</add>

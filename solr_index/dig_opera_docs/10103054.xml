@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103054</field>
+<field name="genre">Operas</field>
+<field name="title">L'odio placato</field>
+<field name="titleSort">odio placato</field>
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1733</field>
+<field name="date">1733</field>
+<field name="librettist">Francesco Silvani</field>
+<field name="librettistSort">Silvani, Francesco</field>
+<field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'odio+placato+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

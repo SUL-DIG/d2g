@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107463</field>
+<field name="genre">Operas</field>
+<field name="title">Don Cesar</field>
+<field name="titleSort">Don Cesar</field>
+<field name="composer">Rudolf Dellinger</field>
+<field name="composerSort">Dellinger, Rudolf</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">[Oskar Friedrich Kunel] Oscar Walther</field>
+<field name="librettistSort">Walther, Oscar [Oskar Friedrich Kunel]</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Cesar+Rudolf+Dellinger&amp;search_field=search</field>
+</doc>
+</add>

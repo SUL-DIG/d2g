@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112456</field>
+<field name="genre">Operas</field>
+<field name="title">Le médecin malgré lui</field>
+<field name="titleSort">médecin malgré lui</field>
+<field name="composer">Charles Gounod</field>
+<field name="composerSort">Gounod, Charles</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+médecin+malgré+lui+Charles+Gounod&amp;search_field=search</field>
+</doc>
+</add>

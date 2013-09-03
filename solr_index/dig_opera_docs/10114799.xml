@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114799</field>
+<field name="genre">Operas</field>
+<field name="title">The Triangle</field>
+<field name="titleSort">Triangle</field>
+<field name="composer">Gerald Humel</field>
+<field name="composerSort">Humel, Gerald</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Roger Brucker</field>
+<field name="librettistSort">Brucker, Roger</field>
+<field name="theater">Oberlin College Conservatory</field>
+<field name="city">Oberlin</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Triangle+Gerald+Humel&amp;search_field=search</field>
+</doc>
+</add>

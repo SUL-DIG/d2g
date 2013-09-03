@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130582</field>
+<field name="genre">Operas</field>
+<field name="title">Il vicerè del Messico</field>
+<field name="titleSort">vicerè del Messico</field>
+<field name="composer">Antonio Tanara</field>
+<field name="composerSort">Tanara, Antonio</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Antonio Galateo</field>
+<field name="librettistSort">Galateo, Antonio</field>
+<field name="theater">Teatro Balbo</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+vicerè+del+Messico+Antonio+Tanara&amp;search_field=search</field>
+</doc>
+</add>

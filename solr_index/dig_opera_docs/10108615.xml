@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108615</field>
+<field name="genre">Operas</field>
+<field name="title">Daleko ot Moskvï (Far from Moscow)</field>
+<field name="titleSort">Daleko ot Moskvï (Far from Moscow)</field>
+<field name="composer">Ivan Ivanovich Dzerzhinsky</field>
+<field name="composerSort">Dzerzhinsky, Ivan Ivanovich</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Leonid Ivanovich Dzerzhinsky</field>
+<field name="librettistSort">Dzerzhinsky, Leonid Ivanovich</field>
+<field name="librettist">Vasily Azhayev</field>
+<field name="librettistSort">Azhayev, Vasily</field>
+<field name="theater">Malïy Opernïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daleko+ot+Moskvï+Far+from+Moscow+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
+</doc>
+</add>

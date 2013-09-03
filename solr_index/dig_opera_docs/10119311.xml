@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119311</field>
+<field name="genre">Operas</field>
+<field name="title">Arabesque</field>
+<field name="titleSort">Arabesque</field>
+<field name="composer">Robert Marek</field>
+<field name="composerSort">Marek, Robert</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Wayne Knutson</field>
+<field name="librettistSort">Knutson, Wayne</field>
+<field name="theater">University of South Dakota</field>
+<field name="city">Vermillion</field>
+<field name="region">South Dakota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arabesque+Robert+Marek&amp;search_field=search</field>
+</doc>
+</add>

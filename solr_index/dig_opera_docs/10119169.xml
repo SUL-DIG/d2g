@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119169</field>
+<field name="genre">Operas</field>
+<field name="title">Passa la ronda!</field>
+<field name="titleSort">Passa la ronda!</field>
+<field name="composer">Alfredo Manini</field>
+<field name="composerSort">Manini, Alfredo</field>
+<field name="year">1919</field>
+<field name="date">1919</field><field name="theater">Teatro Reinach</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passa+la+ronda!+Alfredo+Manini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101983</field>
+<field name="genre">Operas</field>
+<field name="title">Conviene adattarsi</field>
+<field name="titleSort">Conviene adattarsi</field>
+<field name="composer">Francesco Basili</field>
+<field name="composerSort">Basili, Francesco</field>
+<field name="year">1801</field>
+<field name="date">1801</field><field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Conviene+adattarsi+Francesco+Basili&amp;search_field=search</field>
+</doc>
+</add>

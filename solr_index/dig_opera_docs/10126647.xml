@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126647</field>
+<field name="genre">Operas</field>
+<field name="title">Vingt-deux les deux cocottes</field>
+<field name="titleSort">Vingt-deux les deux cocottes</field>
+<field name="composer">Georges Rose</field>
+<field name="composerSort">Rose, Georges</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">__ Plucke</field>
+<field name="librettistSort">Plucke, __</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vingt-deux+les+deux+cocottes+Georges+Rose&amp;search_field=search</field>
+</doc>
+</add>

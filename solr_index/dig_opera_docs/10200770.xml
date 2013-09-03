@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200770</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Dalla morte alla vita di Santa Maria Maddalena</field>
+		<field name="titleSort">Dalla morte alla vita di Santa Maria Maddalena</field>
+		<field name="year">1722</field>
+		<field name="month">July</field>
+		<field name="day">22</field>
+		<field name="date">July 22, 1722</field>
+		<field name="composer">Leonardo Leo</field>
+		<field name="composerSort">Leo, Leonardo</field>
+		<field name="librettist">Nicolò Corvo</field>
+		<field name="librettistSort">Corvo, Nicolò</field>
+		
+		
+		<field name="city">Atrani</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dalla+morte+alla+vita+di+Santa+Maria+Maddalena+Leonardo+Leo&amp;search_field=search</field>
+	</doc></add>

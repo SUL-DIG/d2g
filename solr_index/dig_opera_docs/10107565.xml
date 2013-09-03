@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107565</field>
+<field name="genre">Operas</field>
+<field name="title">"Le vieux sorcier, ou Les femmes ralées</field>
+<field name="titleSort">"vieux sorcier, ou Les femmes ralées"</field>
+<field name="composer">Paul Desgranges</field>
+<field name="composerSort">Desgranges, Paul</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">[Eugène Domicent] Bertol-Graivil</field>
+<field name="librettistSort">Bertol-Graivil, [Eugène Domicent]</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vieux+sorcier,+ou+Les+femmes+ralées+Paul+Desgranges&amp;search_field=search</field>
+</doc>
+</add>

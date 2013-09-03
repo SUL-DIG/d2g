@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113646</field>
+<field name="genre">Operas</field>
+<field name="title">À la mer</field>
+<field name="titleSort">À la mer</field>
+<field name="composer">Georges Haseneier</field>
+<field name="composerSort">Haseneier, Georges</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Oscar Bosson</field>
+<field name="librettistSort">Bosson, Oscar</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+la+mer+Georges+Haseneier&amp;search_field=search</field>
+</doc>
+</add>

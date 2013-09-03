@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127489</field>
+<field name="genre">Operas</field>
+<field name="title">L'enlèvement d'Argentine</field>
+<field name="titleSort">enlèvement d'Argentine</field>
+<field name="composer">Charles Salvatoris</field>
+<field name="composerSort">Salvatoris, Charles</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Eugène Almaric</field>
+<field name="librettistSort">Almaric, Eugène</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enlèvement+d'Argentine+Charles+Salvatoris&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102907</field>
+<field name="genre">Operas</field>
+<field name="title">Le mort marié</field>
+<field name="titleSort">mort marié</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mort+marié+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

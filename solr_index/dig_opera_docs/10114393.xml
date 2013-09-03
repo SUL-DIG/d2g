@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114393</field>
+<field name="genre">Operas</field>
+<field name="title">Don Guevara</field>
+<field name="titleSort">Don Guevara</field>
+<field name="composer">Franz Höfer</field>
+<field name="composerSort">Höfer, Franz</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Guevara+Franz+Höfer&amp;search_field=search</field>
+</doc>
+</add>

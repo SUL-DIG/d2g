@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117564</field>
+<field name="genre">Operas</field>
+<field name="title">"Le sabot miraculeux, ou L'isle des nains</field>
+<field name="titleSort">"sabot miraculeux, ou L'isle des nains"</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Frédéric Dupetit-Méré</field>
+<field name="librettistSort">Dupetit-Méré, Frédéric</field>
+<field name="theater">Salle de Jeux-Forains</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sabot+miraculeux,+ou+L'isle+des+nains+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102215</field>
+<field name="genre">Operas</field>
+<field name="title">Boulapotaf</field>
+<field name="titleSort">Boulapotaf</field>
+<field name="composer">__ Bellefleur</field>
+<field name="composerSort">Bellefleur, __</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">J. Provost</field>
+<field name="librettistSort">Provost, J.</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Toulon</field>
+<field name="region">Var</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boulapotaf+__+Bellefleur&amp;search_field=search</field>
+</doc>
+</add>

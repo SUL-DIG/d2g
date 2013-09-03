@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131937</field>
+<field name="genre">Operas</field>
+<field name="title">Vadim</field>
+<field name="titleSort">Vadim</field>
+<field name="composer">Aleksey Nikolayevich Verstovsky</field>
+<field name="composerSort">Verstovsky, Aleksey Nikolayevich</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Stepan Petrovich Shevïryov</field>
+<field name="librettistSort">Shevïryov, Stepan Petrovich</field>
+<field name="librettist">Aleksandr Aleksandrovich Shakhovskoy</field>
+<field name="librettistSort">Shakhovskoy, Aleksandr Aleksandrovich</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vadim+Aleksey+Nikolayevich+Verstovsky&amp;search_field=search</field>
+</doc>
+</add>

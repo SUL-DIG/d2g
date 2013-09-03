@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126909</field>
+<field name="genre">Operas</field>
+<field name="title">"Sterlingman, or Generosity Rewarded</field>
+<field name="titleSort">"Sterlingman, or Generosity Rewarded"</field>
+<field name="composer">Klaus George Roy</field>
+<field name="composerSort">Roy, Klaus George</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Klaus George Roy</field>
+<field name="librettistSort">Roy, Klaus George</field>
+<field name="librettist">Arkady Averchenko</field>
+<field name="librettistSort">Averchenko, Arkady</field>
+<field name="theater">WGBH Television</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sterlingman,+or+Generosity+Rewarded+Klaus+George+Roy&amp;search_field=search</field>
+</doc>
+</add>

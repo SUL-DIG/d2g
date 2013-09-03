@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114867</field>
+<field name="genre">Operas</field>
+<field name="title">Glamour</field>
+<field name="titleSort">Glamour</field>
+<field name="composer">William Marshall Hutchinson</field>
+<field name="composerSort">Hutchinson, William Marshall</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="librettist">Alfred Murray</field>
+<field name="librettistSort">Murray, Alfred</field>
+
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Glamour+William+Marshall+Hutchinson&amp;search_field=search</field>
+</doc>
+</add>

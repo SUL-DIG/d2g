@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111545</field>
+<field name="genre">Operas</field>
+<field name="title">Luisa della Vallière</field>
+<field name="titleSort">Luisa della Vallière</field>
+<field name="composer">Tomás Genovés y Lapetra</field>
+<field name="composerSort">Lapetra, Tomás Genovés y</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Girolamo Maria Marini</field>
+<field name="librettistSort">Marini, Girolamo Maria</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luisa+della+Vallière+Tomás+Genovés+y+Lapetra&amp;search_field=search</field>
+</doc>
+</add>

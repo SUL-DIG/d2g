@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123749</field>
+<field name="genre">Operas</field>
+<field name="title">Salustia</field>
+<field name="titleSort">Salustia</field>
+<field name="composer">Giovanni Battista Pergolesi</field>
+<field name="composerSort">Pergolesi, Giovanni Battista</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Sebastiano Morelli</field>
+<field name="librettistSort">Morelli, Sebastiano</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salustia+Giovanni+Battista+Pergolesi&amp;search_field=search</field>
+</doc>
+</add>

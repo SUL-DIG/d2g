@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128036</field>
+<field name="genre">Operas</field>
+<field name="title">Il Giustino</field>
+<field name="titleSort">Giustino</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Giulio Convò</field>
+<field name="librettistSort">Convò, Giulio</field>
+<field name="librettist">Nicolò Beregan</field>
+<field name="librettistSort">Beregan, Nicolò</field>
+<field name="theater">Palazzo Reale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Giustino+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

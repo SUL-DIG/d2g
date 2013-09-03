@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123420</field>
+<field name="genre">Operas</field>
+<field name="title">The Bandit</field>
+<field name="titleSort">Bandit</field>
+<field name="composer">Val Patacchi</field>
+<field name="composerSort">Patacchi, Val</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">William Ashbrook</field>
+<field name="librettistSort">Ashbrook, William</field>
+<field name="theater">Stephens College</field>
+<field name="city">Columbia</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bandit+Val+Patacchi&amp;search_field=search</field>
+</doc>
+</add>

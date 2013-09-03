@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126679</field>
+<field name="genre">Operas</field>
+<field name="title">Der Mantel</field>
+<field name="titleSort">Mantel</field>
+<field name="composer">Gerhard Rosenfeld</field>
+<field name="composerSort">Rosenfeld, Gerhard</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Gerhard Hartmann</field>
+<field name="librettistSort">Hartmann, Gerhard</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Mantel+Gerhard+Rosenfeld&amp;search_field=search</field>
+</doc>
+</add>

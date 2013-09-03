@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114959</field>
+<field name="genre">Operas</field>
+<field name="title">Ruf' (Ruth)</field>
+<field name="titleSort">Ruf' (Ruth)</field>
+<field name="composer">Mikhail Mikhaylovich Ippolitov-Ivanov</field>
+<field name="composerSort">Ippolitov-Ivanov, Mikhail Mikhaylovich</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Aleksey Konstantinovich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Aleksey Konstantinovich</field>
+<field name="librettist">Aleksandr Nikolayevich Ostrovsky</field>
+<field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
+
+<field name="city">Tbilisi</field>
+
+<field name="country">Georgia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruf'+Ruth+Mikhail+Mikhaylovich+Ippolitov-Ivanov&amp;search_field=search</field>
+</doc>
+</add>

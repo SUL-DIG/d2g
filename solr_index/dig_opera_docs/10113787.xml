@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113787</field>
+<field name="genre">Operas</field>
+<field name="title">Halil Patrona</field>
+<field name="titleSort">Halil Patrona</field>
+<field name="composer">August Häuser</field>
+<field name="composerSort">Häuser, August</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Richard Brauer</field>
+<field name="librettistSort">Brauer, Richard</field>
+<field name="librettist">Mór Jókai</field>
+<field name="librettistSort">Jókai, Mór</field>
+<field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Halil+Patrona+August+Häuser&amp;search_field=search</field>
+</doc>
+</add>

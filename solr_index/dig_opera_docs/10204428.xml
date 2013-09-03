@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204428</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Susanna a propheta Daniele vindicata</field>
+		<field name="titleSort">Susanna a propheta Daniele vindicata</field>
+		<field name="year">1698</field>
+		<field name="month">March</field>
+		<field name="day">7</field>
+		<field name="date">March 7, 1698</field>
+		<field name="composer">Pietro Paolo Bencini</field>
+		<field name="composerSort">Bencini, Pietro Paolo</field>
+		<field name="librettist">Giovanni Antonio Magnani</field>
+		<field name="librettistSort">Magnani, Giovanni Antonio</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Susanna and the Elders</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Susanna+a+propheta+Daniele+vindicata+Pietro+Paolo+Bencini&amp;search_field=search</field>
+	</doc></add>

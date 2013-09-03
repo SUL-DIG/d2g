@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101093</field>
+<field name="genre">Operas</field>
+<field name="title">Bannian Day</field>
+<field name="titleSort">Bannian Day</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">George Brewer</field>
+<field name="librettistSort">Brewer, George</field>
+<field name="librettist">John Cross</field>
+<field name="librettistSort">Cross, John</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bannian+Day+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

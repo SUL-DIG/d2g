@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203565</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der reformirende Johannes</field>
+		<field name="titleSort">reformirende Johannes</field>
+		<field name="year">1717</field>
+		<field name="month">October</field>
+		<field name="day">31</field>
+		<field name="date">October 31, 1717</field>
+		<field name="composer">Johann Mattheson</field>
+		<field name="composerSort">Mattheson, Johann</field>
+		<field name="librettist">Johann Georg Glauche</field>
+		<field name="librettistSort">Glauche, Johann Georg</field>
+		
+		<field name="theater">Dom-Kirche</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">John Calvin</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+reformirende+Johannes+Johann+Mattheson&amp;search_field=search</field>
+	</doc></add>

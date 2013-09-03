@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114468</field>
+<field name="genre">Operas</field>
+<field name="title">Judas em Sábado de Aleluia</field>
+<field name="titleSort">Judas em Sábado de Aleluia</field>
+<field name="composer">Cirlei de Hollanda</field>
+<field name="composerSort">Hollanda, Cirlei de</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Martins Penna</field>
+<field name="librettistSort">Penna, Martins</field>
+<field name="theater">Teatro I do Centro Cultural Banco do Brasil</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judas+em+Sábado+de+Aleluia+Cirlei+de+Hollanda&amp;search_field=search</field>
+</doc>
+</add>

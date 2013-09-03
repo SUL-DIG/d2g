@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132896</field>
+<field name="genre">Operas</field>
+<field name="title">The Pirate Moon</field>
+<field name="titleSort">Pirate Moon</field>
+<field name="composer">Gillian Whitehead</field>
+<field name="composerSort">Whitehead, Gillian</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Anna Maria Dell'oso</field>
+<field name="librettistSort">Dell'oso, Anna Maria</field>
+<field name="theater">University of Auckland</field>
+<field name="city">Auckland</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pirate+Moon+Gillian+Whitehead&amp;search_field=search</field>
+</doc>
+</add>

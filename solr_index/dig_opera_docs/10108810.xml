@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108810</field>
+<field name="genre">Operas</field>
+<field name="title">Prometheus Bound</field>
+<field name="titleSort">Prometheus Bound</field>
+<field name="composer">Halim El-Dabh</field>
+<field name="composerSort">El-Dabh, Halim</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Halim El-Dabh</field>
+<field name="librettistSort">El-Dabh, Halim</field>
+<field name="librettist">Robert Lowell</field>
+<field name="librettistSort">Lowell, Robert</field>
+<field name="theater">Hawthorne School</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheus+Bound+Halim+El-Dabh&amp;search_field=search</field>
+</doc>
+</add>

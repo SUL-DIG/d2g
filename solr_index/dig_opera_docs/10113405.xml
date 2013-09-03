@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113405</field>
+<field name="genre">Operas</field>
+<field name="title">The Verger</field>
+<field name="titleSort">Verger</field>
+<field name="composer">King Hall</field>
+<field name="composerSort">Hall, King</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Walter Frith</field>
+<field name="librettistSort">Frith, Walter</field>
+<field name="theater">Saint George's Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Verger+King+Hall&amp;search_field=search</field>
+</doc>
+</add>

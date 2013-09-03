@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110925</field>
+<field name="genre">Operas</field>
+<field name="title">Il filosofo di campagna</field>
+<field name="titleSort">filosofo di campagna</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+filosofo+di+campagna+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

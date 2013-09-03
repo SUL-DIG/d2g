@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131759</field>
+<field name="genre">Operas</field>
+<field name="title">La quittance de minuit</field>
+<field name="titleSort">quittance de minuit</field>
+<field name="composer">Pierre-Joseph-Alphonse Varney</field>
+<field name="composerSort">Varney, Pierre-Joseph-Alphonse</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Jean-Louis-Auguste Commerson</field>
+<field name="librettistSort">Commerson, Jean-Louis-Auguste</field>
+<field name="librettist">Raymond Deslandes</field>
+<field name="librettistSort">Deslandes, Raymond</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+quittance+de+minuit+Pierre-Joseph-Alphonse+Varney&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115426</field>
+<field name="genre">Operas</field>
+<field name="title">Le méndiant d'amour</field>
+<field name="titleSort">méndiant d'amour</field>
+<field name="composer">Henri José</field>
+<field name="composerSort">José, Henri</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Ernest Grenet-Dancourt</field>
+<field name="librettistSort">Grenet-Dancourt, Ernest</field>
+<field name="librettist">Louis Frédéric Marie Marsolleau</field>
+<field name="librettistSort">Marsolleau, Louis Frédéric Marie</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+méndiant+d'amour+Henri+José&amp;search_field=search</field>
+</doc>
+</add>

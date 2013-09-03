@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126715</field>
+<field name="genre">Operas</field>
+<field name="title">La guerra</field>
+<field name="titleSort">guerra</field>
+<field name="composer">Renzo Rossellini</field>
+<field name="composerSort">Rossellini, Renzo</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Renzo Rossellini</field>
+<field name="librettistSort">Rossellini, Renzo</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guerra+Renzo+Rossellini&amp;search_field=search</field>
+</doc>
+</add>

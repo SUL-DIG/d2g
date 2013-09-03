@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123902</field>
+<field name="genre">Operas</field>
+<field name="title">Une nuit de Noël</field>
+<field name="titleSort">nuit de Noël</field>
+<field name="composer">Émile Pessard</field>
+<field name="composerSort">Pessard, Émile</field>
+<field name="year">1893</field>
+<field name="date">1893</field><field name="theater">Théâtre de l'Ambigu</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+nuit+de+Noël+Émile+Pessard&amp;search_field=search</field>
+</doc>
+</add>

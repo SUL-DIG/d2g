@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107228</field>
+<field name="genre">Operas</field>
+<field name="title">The Poet and his Double</field>
+<field name="titleSort">Poet and his Double</field>
+<field name="composer">Raymond Dean</field>
+<field name="composerSort">Dean, Raymond</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Mahmoud Darwish</field>
+<field name="librettistSort">Darwish, Mahmoud</field>
+<field name="theater">Opera Theatre Company</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Poet+and+his+Double+Raymond+Dean&amp;search_field=search</field>
+</doc>
+</add>

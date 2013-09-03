@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128639</field>
+<field name="genre">Operas</field>
+<field name="title">Le rendez-vous de plaisirs</field>
+<field name="titleSort">rendez-vous de plaisirs</field>
+<field name="composer">Theodor Schwartzkopff</field>
+<field name="composerSort">Schwartzkopff, Theodor</field>
+<field name="year">1684</field>
+<field name="date">1684</field>
+<field name="librettist">Jacques Courcelle</field>
+<field name="librettistSort">Courcelle, Jacques</field>
+
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rendez-vous+de+plaisirs+Theodor+Schwartzkopff&amp;search_field=search</field>
+</doc>
+</add>

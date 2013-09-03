@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106132</field>
+<field name="genre">Operas</field>
+<field name="title">Adelaide</field>
+<field name="titleSort">Adelaide</field>
+<field name="composer">Gioacchino Cocchi</field>
+<field name="composerSort">Cocchi, Gioacchino</field>
+<field name="year">1743</field>
+<field name="date">1743</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelaide+Gioacchino+Cocchi&amp;search_field=search</field>
+</doc>
+</add>

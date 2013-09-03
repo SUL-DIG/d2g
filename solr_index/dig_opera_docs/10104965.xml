@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104965</field>
+<field name="genre">Operas</field>
+<field name="title">Jeanne d'Arc а Orléans</field>
+<field name="titleSort">Jeanne d'Arc а Orléans</field>
+<field name="composer">Michele Carafa</field>
+<field name="composerSort">Carafa, Michele</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="librettist">Armand Dartois</field>
+<field name="librettistSort">Dartois, Armand</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+d'Arc+а+Orléans+Michele+Carafa&amp;search_field=search</field>
+</doc>
+</add>

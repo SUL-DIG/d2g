@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101716</field>
+<field name="genre">Operas</field>
+<field name="title">Il suffit d'un peu d'air</field>
+<field name="titleSort">suffit d'un peu d'air</field>
+<field name="composer">Claude Ballif</field>
+<field name="composerSort">Ballif, Claude</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Renald Tremblay</field>
+<field name="librettistSort">Tremblay, Renald</field>
+<field name="theater">Nouvel Ensemble Moderne de Montréal</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+suffit+d'un+peu+d'air+Claude+Ballif&amp;search_field=search</field>
+</doc>
+</add>

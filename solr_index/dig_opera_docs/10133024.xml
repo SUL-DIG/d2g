@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133024</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Bettelstudent, oder Das Donnerwetter</field>
+<field name="titleSort">"Bettelstudent, oder Das Donnerwetter"</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Paul Weidmann</field>
+<field name="librettistSort">Weidmann, Paul</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">National Schaubühne</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Bettelstudent,+oder+Das+Donnerwetter+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

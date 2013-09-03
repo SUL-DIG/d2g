@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128536</field>
+<field name="genre">Operas</field>
+<field name="title">A Question of Taste</field>
+<field name="titleSort">Question of Taste</field>
+<field name="composer">William Schuman</field>
+<field name="composerSort">Schuman, William</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Joseph Donald McClatchy</field>
+<field name="librettistSort">McClatchy, Joseph Donald</field>
+<field name="librettist">Roald Dahl</field>
+<field name="librettistSort">Dahl, Roald</field>
+<field name="theater">Glimmerglass Opera</field>
+<field name="city">Cooperstown</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Question+of+Taste+William+Schuman&amp;search_field=search</field>
+</doc>
+</add>

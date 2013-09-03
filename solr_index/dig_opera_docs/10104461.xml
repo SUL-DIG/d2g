@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104461</field>
+<field name="genre">Operas</field>
+<field name="title">Racte odpusdit (Please Forgive Me)</field>
+<field name="titleSort">Racte odpusdit (Please Forgive Me)</field>
+<field name="composer">Emil Frantisek Burian</field>
+<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Radovan Krátký</field>
+<field name="librettistSort">Krátký, Radovan</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Racte+odpusdit+Please+Forgive+Me+Emil+Frantisek+Burian&amp;search_field=search</field>
+</doc>
+</add>

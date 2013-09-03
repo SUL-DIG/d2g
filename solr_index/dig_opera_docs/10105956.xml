@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105956</field>
+<field name="genre">Operas</field>
+<field name="title">Chi dell'altrui si veste presto si spoglia</field>
+<field name="titleSort">Chi dell'altrui si veste presto si spoglia</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+dell'altrui+si+veste+presto+si+spoglia+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

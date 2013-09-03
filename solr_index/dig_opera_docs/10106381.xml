@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106381</field>
+<field name="genre">Operas</field>
+<field name="title">Rosapina</field>
+<field name="titleSort">Rosapina</field>
+<field name="composer">Giulio Confalonieri</field>
+<field name="composerSort">Confalonieri, Giulio</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Giulio Confalonieri</field>
+<field name="librettistSort">Confalonieri, Giulio</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosapina+Giulio+Confalonieri&amp;search_field=search</field>
+</doc>
+</add>

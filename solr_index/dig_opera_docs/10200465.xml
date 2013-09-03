@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200465</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Building of the Ship</field>
+		<field name="titleSort">Building of the Ship</field>
+		<field name="year">1879</field>
+		<field name="month">May</field>
+		<field name="day">30</field>
+		<field name="date">May 30, 1879</field>
+		<field name="composer">Henry Lahee</field>
+		<field name="composerSort">Lahee, Henry</field>
+		<field name="librettist">Henry Wadsworth Longfellow</field>
+		<field name="librettistSort">Longfellow, Henry Wadsworth</field>
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Noah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Building+of+the+Ship+Henry+Lahee&amp;search_field=search</field>
+	</doc></add>

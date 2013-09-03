@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104251</field>
+<field name="genre">Operas</field>
+<field name="title">Le marchand de Vénise</field>
+<field name="titleSort">marchand de Vénise</field>
+<field name="composer">Fernand Brumagne</field>
+<field name="composerSort">Brumagne, Fernand</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Paul Spaak</field>
+<field name="librettistSort">Spaak, Paul</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+marchand+de+Vénise+Fernand+Brumagne&amp;search_field=search</field>
+</doc>
+</add>

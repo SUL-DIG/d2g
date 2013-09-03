@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103911</field>
+<field name="genre">Operas</field>
+<field name="title">Le mouton de Bengale</field>
+<field name="titleSort">mouton de Bengale</field>
+<field name="composer">Jules Bovery</field>
+<field name="composerSort">Bovery, Jules</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Adrien-Robert Basset</field>
+<field name="librettistSort">Basset, Adrien-Robert</field>
+<field name="librettist">Henri Bocage</field>
+<field name="librettistSort">Bocage, Henri</field>
+<field name="theater">Théâtre Cluny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mouton+de+Bengale+Jules+Bovery&amp;search_field=search</field>
+</doc>
+</add>

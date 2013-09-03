@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118175</field>
+<field name="genre">Operas</field>
+<field name="title">Dornröschen</field>
+<field name="titleSort">Dornröschen</field>
+<field name="composer">Gottfried von Linder</field>
+<field name="composerSort">Linder, Gottfried von</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Ernst Pasqué</field>
+<field name="librettistSort">Pasqué, Ernst</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Gottfried+von+Linder&amp;search_field=search</field>
+</doc>
+</add>

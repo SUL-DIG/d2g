@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200101</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Adamo ed Eva</field>
+		<field name="titleSort">Adamo ed Eva</field>
+		<field name="year">1772</field>
+		
+		
+		<field name="date">1772</field>
+		<field name="composer">Pietro Avondano</field>
+		<field name="composerSort">Avondano, Pietro</field>
+		
+		
+		
+		<field name="city">Lisbon</field>
+		<field name="region">Lisboa</field>
+		<field name="country">Portugal</field>
+		<field name="subject">Adam and Eve</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adamo+ed+Eva+Pietro+Avondano&amp;search_field=search</field>
+	</doc></add>

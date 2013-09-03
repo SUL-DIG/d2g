@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113711</field>
+<field name="genre">Operas</field>
+<field name="title">Numa Pompilio</field>
+<field name="titleSort">Numa Pompilio</field>
+<field name="composer">Johann Adolf Hasse</field>
+<field name="composerSort">Hasse, Johann Adolf</field>
+<field name="year">1741</field>
+<field name="date">1741</field>
+<field name="librettist">Steffano Benedetto Pallavicino</field>
+<field name="librettistSort">Pallavicino, Steffano Benedetto</field>
+<field name="theater">Schloss Hubertusburg</field>
+<field name="city">Wermsdorf</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Numa+Pompilio+Johann+Adolf+Hasse&amp;search_field=search</field>
+</doc>
+</add>

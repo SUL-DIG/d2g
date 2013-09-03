@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200693</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La conversion de un pecador, figurada en la parabola de el hijo prodigo</field>
+		<field name="titleSort">conversion de un pecador, figurada en la parabola de el hijo prodigo</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Francisco Sarrio</field>
+		<field name="composerSort">Sarrio, Francisco</field>
+		
+		
+		
+		<field name="city">Valencia</field>
+		<field name="region">Valencia</field>
+		<field name="country">Spain</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversion+de+un+pecador,+figurada+en+la+parabola+de+el+hijo+prodigo+Francisco+Sarrio&amp;search_field=search</field>
+	</doc></add>

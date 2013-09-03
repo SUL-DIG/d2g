@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106910</field>
+<field name="genre">Operas</field>
+<field name="title">Vil'yam Ratklif (William Ratcliff)</field>
+<field name="titleSort">Vil'yam Ratklif (William Ratcliff)</field>
+<field name="composer">César Antonovich Cui</field>
+<field name="composerSort">Cui, César Antonovich</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Aleksey Nikolayevich Pleshcheyev</field>
+<field name="librettistSort">Pleshcheyev, Aleksey Nikolayevich</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vil'yam+Ratklif+William+Ratcliff+César+Antonovich+Cui&amp;search_field=search</field>
+</doc>
+</add>

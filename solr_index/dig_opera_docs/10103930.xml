@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103930</field>
+<field name="genre">Operas</field>
+<field name="title">The Shepherd's Lottery</field>
+<field name="titleSort">Shepherd's Lottery</field>
+<field name="composer">William Boyce</field>
+<field name="composerSort">Boyce, William</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Moses Mendez</field>
+<field name="librettistSort">Mendez, Moses</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Shepherd's+Lottery+William+Boyce&amp;search_field=search</field>
+</doc>
+</add>

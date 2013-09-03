@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108581</field>
+<field name="genre">Operas</field>
+<field name="title">The Stone Man</field>
+<field name="titleSort">Stone Man</field>
+<field name="composer">Daniel Dutton</field>
+<field name="composerSort">Dutton, Daniel</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Daniel Dutton</field>
+<field name="librettistSort">Dutton, Daniel</field>
+<field name="theater">Kentucky Opera</field>
+<field name="city">Louisville</field>
+<field name="region">Kentucky</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Stone+Man+Daniel+Dutton&amp;search_field=search</field>
+</doc>
+</add>

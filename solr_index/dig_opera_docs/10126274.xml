@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126274</field>
+<field name="genre">Operas</field>
+<field name="title">Il figlio del signor sindaco</field>
+<field name="titleSort">figlio del signor sindaco</field>
+<field name="composer">Raffaele Rispoli</field>
+<field name="composerSort">Rispoli, Raffaele</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Ernesto del Preite</field>
+<field name="librettistSort">Preite, Ernesto del</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figlio+del+signor+sindaco+Raffaele+Rispoli&amp;search_field=search</field>
+</doc>
+</add>

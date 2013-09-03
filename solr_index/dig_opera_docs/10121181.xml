@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121181</field>
+<field name="genre">Operas</field>
+<field name="title">Il disertore francese</field>
+<field name="titleSort">disertore francese</field>
+<field name="composer">António Leal Moreira</field>
+<field name="composerSort">Moreira, António Leal</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+disertore+francese+António+Leal+Moreira&amp;search_field=search</field>
+</doc>
+</add>

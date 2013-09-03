@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201811</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der heilige Klemens Maria Hofbauer der Stadt Wien</field>
+		<field name="titleSort">heilige Klemens Maria Hofbauer der Stadt Wien</field>
+		<field name="year">1923</field>
+		
+		
+		<field name="date">1923</field>
+		<field name="composer">Stefan Wilfling</field>
+		<field name="composerSort">Wilfling, Stefan</field>
+		<field name="librettist">Stefan Wilfling</field>
+		<field name="librettistSort">Wilfling, Stefan</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Clement Mary Hofbauer</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">March 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+heilige+Klemens+Maria+Hofbauer+der+Stadt+Wien+Stefan+Wilfling&amp;search_field=search</field>
+	</doc></add>

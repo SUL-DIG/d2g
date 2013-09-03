@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109065</field>
+<field name="genre">Operas</field>
+<field name="title">A Night in Bethlehem</field>
+<field name="titleSort">Night in Bethlehem</field>
+<field name="composer">Akin Euba</field>
+<field name="composerSort">Euba, Akin</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Laz Ekwueme</field>
+<field name="librettistSort">Ekwueme, Laz</field>
+<field name="theater">National Theatre</field>
+<field name="city">Lagos</field>
+
+<field name="country">Nigeria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Night+in+Bethlehem+Akin+Euba&amp;search_field=search</field>
+</doc>
+</add>

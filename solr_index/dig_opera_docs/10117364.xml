@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117364</field>
+<field name="genre">Operas</field>
+<field name="title">Demofoonte</field>
+<field name="titleSort">Demofoonte</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demofoonte+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

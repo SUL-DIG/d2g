@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130305</field>
+<field name="genre">Operas</field>
+<field name="title">Haddon Hall</field>
+<field name="titleSort">Haddon Hall</field>
+<field name="composer">Arthur Sullivan</field>
+<field name="composerSort">Sullivan, Arthur</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Sydney Grundy</field>
+<field name="librettistSort">Grundy, Sydney</field>
+<field name="theater">Savoy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haddon+Hall+Arthur+Sullivan&amp;search_field=search</field>
+</doc>
+</add>

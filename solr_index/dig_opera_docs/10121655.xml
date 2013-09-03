@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121655</field>
+<field name="genre">Operas</field>
+<field name="title">Beauty and the Beast</field>
+<field name="titleSort">Beauty and the Beast</field>
+<field name="composer">Jeremiah Murray</field>
+<field name="composerSort">Murray, Jeremiah</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Jeremiah Murray</field>
+<field name="librettistSort">Murray, Jeremiah</field>
+<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
+<field name="librettistSort">Leprince de Beaumont, Jeanne Marie</field>
+<field name="theater">Clark Center</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beauty+and+the+Beast+Jeremiah+Murray&amp;search_field=search</field>
+</doc>
+</add>

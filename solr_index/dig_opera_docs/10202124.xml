@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202124</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Jahreszeiten</field>
+		<field name="titleSort">Jahreszeiten</field>
+		<field name="year">1800</field>
+		<field name="month">April</field>
+		<field name="day">24</field>
+		<field name="date">April 24, 1800</field>
+		<field name="composer">Joseph Haydn</field>
+		<field name="composerSort">Haydn, Joseph</field>
+		<field name="librettist">Gottfried van Swieten</field>
+		<field name="librettistSort">Swieten, Gottfried van</field>
+		<field name="librettist">James Thomson</field>
+		<field name="librettistSort">Thomson, James</field>
+		<field name="theater">Palais Schwarzenberg</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Jahreszeiten+Joseph+Haydn&amp;search_field=search</field>
+	</doc></add>

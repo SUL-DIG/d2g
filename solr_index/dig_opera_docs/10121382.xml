@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121382</field>
+<field name="genre">Operas</field>
+<field name="title">Eufemia di Napoli</field>
+<field name="titleSort">Eufemia di Napoli</field>
+<field name="composer">Vincenzo Moscuzza</field>
+<field name="composerSort">Moscuzza, Vincenzo</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Cesare Della Valle</field>
+<field name="librettistSort">Della Valle, Cesare</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eufemia+di+Napoli+Vincenzo+Moscuzza&amp;search_field=search</field>
+</doc>
+</add>

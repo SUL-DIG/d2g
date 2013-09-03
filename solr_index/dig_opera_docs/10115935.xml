@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115935</field>
+<field name="genre">Operas</field>
+<field name="title">Parisina</field>
+<field name="titleSort">Parisina</field>
+<field name="composer">Edward Keurvels</field>
+<field name="composerSort">Keurvels, Edward</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Frans Gittens</field>
+<field name="librettistSort">Gittens, Frans</field>
+<field name="librettist">"George Gordon, Lord Byron"</field>
+<field name="librettistSort">Byron, George Gordon, Lord</field>
+<field name="theater">Nederlandsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Parisina+Edward+Keurvels&amp;search_field=search</field>
+</doc>
+</add>

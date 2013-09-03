@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106122</field>
+<field name="genre">Operas</field>
+<field name="title">Our American Cousin</field>
+<field name="titleSort">Our American Cousin</field>
+<field name="composer">Joseph Waddell Clokey</field>
+<field name="composerSort">Clokey, Joseph Waddell</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Willis Knapp Jones</field>
+<field name="librettistSort">Jones, Willis Knapp</field>
+<field name="librettist">Tom Taylor</field>
+<field name="librettistSort">Taylor, Tom</field>
+<field name="theater">Claremont College</field>
+<field name="city">Claremont</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Our+American+Cousin+Joseph+Waddell+Clokey&amp;search_field=search</field>
+</doc>
+</add>

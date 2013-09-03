@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123568</field>
+<field name="genre">Operas</field>
+<field name="title">Delitto e castigo</field>
+<field name="titleSort">Delitto e castigo</field>
+<field name="composer">Arrigo Pedrollo</field>
+<field name="composerSort">Pedrollo, Arrigo</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Giovacchino Forzano</field>
+<field name="librettistSort">Forzano, Giovacchino</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Delitto+e+castigo+Arrigo+Pedrollo&amp;search_field=search</field>
+</doc>
+</add>

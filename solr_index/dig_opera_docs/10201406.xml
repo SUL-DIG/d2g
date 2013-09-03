@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201406</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fuga di Santa Teresa</field>
+		<field name="titleSort">fuga di Santa Teresa</field>
+		<field name="year">1705</field>
+		<field name="month">October</field>
+		<field name="day">21</field>
+		<field name="date">October 21, 1705</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		
+		
+		<field name="theater">Sankta-Ursula</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fuga+di+Santa+Teresa+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

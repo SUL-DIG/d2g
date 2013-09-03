@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131144</field>
+<field name="genre">Operas</field>
+<field name="title">L'idea di tutte le perfezioni</field>
+<field name="titleSort">idea di tutte le perfezioni</field>
+<field name="composer">Giuseppe Felice Tosi</field>
+<field name="composerSort">Tosi, Giuseppe Felice</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Lotto Lotti</field>
+<field name="librettistSort">Lotti, Lotto</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'idea+di+tutte+le+perfezioni+Giuseppe+Felice+Tosi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202711</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mauritius</field>
+		<field name="titleSort">Mauritius</field>
+		<field name="year">1692</field>
+		
+		
+		<field name="date">1692</field>
+		<field name="composer">Francesco Federici (1)</field>
+		<field name="composerSort">Federici (1), Francesco</field>
+		<field name="librettist">Salvatore Mesquita</field>
+		<field name="librettistSort">Mesquita, Salvatore</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Maurice</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">September 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mauritius+Francesco+Federici+-1&amp;search_field=search</field>
+	</doc></add>

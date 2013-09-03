@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132038</field>
+<field name="genre">Operas</field>
+<field name="title">La czarine</field>
+<field name="titleSort">czarine</field>
+<field name="composer">Gaspar Villate</field>
+<field name="composerSort">Villate, Gaspar</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="theater">Koninklijke Schouwburg</field>
+<field name="city">The Hague</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+czarine+Gaspar+Villate&amp;search_field=search</field>
+</doc>
+</add>

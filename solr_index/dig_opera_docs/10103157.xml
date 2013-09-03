@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103157</field>
+<field name="genre">Operas</field>
+<field name="title">Alice</field>
+<field name="titleSort">Alice</field>
+<field name="composer">Henri-Louis Blanchard</field>
+<field name="composerSort">Blanchard, Henri-Louis</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+Henri-Louis+Blanchard&amp;search_field=search</field>
+</doc>
+</add>

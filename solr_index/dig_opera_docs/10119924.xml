@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119924</field>
+<field name="genre">Operas</field>
+<field name="title">Alfredo il grande</field>
+<field name="titleSort">Alfredo il grande</field>
+<field name="composer">Simon Mayr</field>
+<field name="composerSort">Mayr, Simon</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">Bartolomeo Merelli</field>
+<field name="librettistSort">Merelli, Bartolomeo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfredo+il+grande+Simon+Mayr&amp;search_field=search</field>
+</doc>
+</add>

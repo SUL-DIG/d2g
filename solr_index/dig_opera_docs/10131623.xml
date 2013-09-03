@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131623</field>
+<field name="genre">Operas</field>
+<field name="title">À la belle étoile</field>
+<field name="titleSort">À la belle étoile</field>
+<field name="composer">Henri Vaillard</field>
+<field name="composerSort">Vaillard, Henri</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Georges Maillard</field>
+<field name="librettistSort">Maillard, Georges</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Rennes</field>
+<field name="region">Ille-et-Vilaine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+la+belle+étoile+Henri+Vaillard&amp;search_field=search</field>
+</doc>
+</add>

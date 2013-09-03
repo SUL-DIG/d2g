@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110598</field>
+<field name="genre">Operas</field>
+<field name="title">Der Frühling</field>
+<field name="titleSort">Frühling</field>
+<field name="composer">J. G. A. Fritzschen</field>
+<field name="composerSort">Fritzschen, J. G. A.</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">[Johann Sigismund Scholze] Sperontes</field>
+<field name="librettistSort">Sperontes, [Johann Sigismund Scholze]</field>
+<field name="theater">Neue Theater im Reithause am Rannstädter Tor</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Frühling+J.+G.+A.+Fritzschen&amp;search_field=search</field>
+</doc>
+</add>

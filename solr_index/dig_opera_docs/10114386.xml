@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114386</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rose von Alhambra</field>
+<field name="titleSort">Rose von Alhambra</field>
+<field name="composer">Ernst Hoebel</field>
+<field name="composerSort">Hoebel, Ernst</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">[Hermann Kunz] Hermann Kunow</field>
+<field name="librettistSort">Kunow, Hermann [Hermann Kunz]</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rose+von+Alhambra+Ernst+Hoebel&amp;search_field=search</field>
+</doc>
+</add>

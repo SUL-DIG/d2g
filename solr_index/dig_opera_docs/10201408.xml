@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201408</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fuga di Santa Teresa</field>
+		<field name="titleSort">fuga di Santa Teresa</field>
+		<field name="year">1717</field>
+		
+		
+		<field name="date">1717</field>
+		<field name="composer">Francesco Antonio Pistocchi</field>
+		<field name="composerSort">Pistocchi, Francesco Antonio</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fuga+di+Santa+Teresa+Francesco+Antonio+Pistocchi&amp;search_field=search</field>
+	</doc></add>

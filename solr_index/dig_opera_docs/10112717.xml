@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112717</field>
+<field name="genre">Operas</field>
+<field name="title">Delphis et Mopsa</field>
+<field name="titleSort">Delphis et Mopsa</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Jean-Henry Guy</field>
+<field name="librettistSort">Guy, Jean-Henry</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Delphis+et+Mopsa+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111990</field>
+<field name="genre">Operas</field>
+<field name="title">Don Mirtillo contrastato</field>
+<field name="titleSort">Don Mirtillo contrastato</field>
+<field name="composer">Giuseppe Giordani</field>
+<field name="composerSort">Giordani, Giuseppe</field>
+<field name="year">1791</field>
+<field name="date">1791</field><field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Mirtillo+contrastato+Giuseppe+Giordani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120939</field>
+<field name="genre">Operas</field>
+<field name="title">"Nowy Don Quichot, czyli Sto szalenstw</field>
+<field name="titleSort">"Nowy Don Quichot, czyli Sto szalenstw"</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Alexander Fredro</field>
+<field name="librettistSort">Fredro, Alexander</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nowy+Don+Quichot,+czyli+Sto+szalenstw+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

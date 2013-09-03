@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203618</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il ricco Epulone</field>
+		<field name="titleSort">ricco Epulone</field>
+		<field name="year">1698</field>
+		
+		
+		<field name="date">1698</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Bernardo Sandrinelli</field>
+		<field name="librettistSort">Sandrinelli, Bernardo</field>
+		
+		<field name="theater">Oratorio Filippino di Santa Maria della Fava</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Rich Man and Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ricco+Epulone+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

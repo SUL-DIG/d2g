@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125127</field>
+<field name="genre">Operas</field>
+<field name="title">La prima notte</field>
+<field name="titleSort">prima notte</field>
+<field name="composer">Teresa Procaccini</field>
+<field name="composerSort">Procaccini, Teresa</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Sergio Massaron</field>
+<field name="librettistSort">Massaron, Sergio</field>
+<field name="theater">Teatro Coccia</field>
+<field name="city">Novara</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prima+notte+Teresa+Procaccini&amp;search_field=search</field>
+</doc>
+</add>

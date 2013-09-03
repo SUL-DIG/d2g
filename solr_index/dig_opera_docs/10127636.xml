@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127636</field>
+<field name="genre">Operas</field>
+<field name="title">Inês de Castro</field>
+<field name="titleSort">Inês de Castro</field>
+<field name="composer">Manuel Innocencio dos Santos</field>
+<field name="composerSort">Santos, Manuel Innocencio dos</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Antonio Profumo</field>
+<field name="librettistSort">Profumo, Antonio</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inês+de+Castro+Manuel+Innocencio+dos+Santos&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131700</field>
+<field name="genre">Operas</field>
+<field name="title">Angelica e Medoro</field>
+<field name="titleSort">Angelica e Medoro</field>
+<field name="composer">Pietro Vannacci</field>
+<field name="composerSort">Vannacci, Pietro</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Private Performance</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+e+Medoro+Pietro+Vannacci&amp;search_field=search</field>
+</doc>
+</add>

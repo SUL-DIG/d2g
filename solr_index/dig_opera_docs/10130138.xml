@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130138</field>
+<field name="genre">Operas</field>
+<field name="title">Riquette</field>
+<field name="titleSort">Riquette</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Rudolf Schanzer</field>
+<field name="librettistSort">Schanzer, Rudolf</field>
+<field name="librettist">[Ernst Friedrich Wilhelm Juraschek] Ernst Welisch</field>
+<field name="librettistSort">Welisch, Ernst [Ernst Friedrich Wilhelm Juraschek]</field>
+<field name="theater">Deutsches Künstlertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riquette+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

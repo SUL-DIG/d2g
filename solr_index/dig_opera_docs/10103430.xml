@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103430</field>
+<field name="genre">Operas</field>
+<field name="title">La cloche d'argent</field>
+<field name="titleSort">cloche d'argent</field>
+<field name="composer">Frédéric Boissière</field>
+<field name="composerSort">Boissière, Frédéric</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Paul de Haen] Paul de Néha</field>
+<field name="librettistSort">Néha, Paul de [Paul de Haen]</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cloche+d'argent+Frédéric+Boissière&amp;search_field=search</field>
+</doc>
+</add>

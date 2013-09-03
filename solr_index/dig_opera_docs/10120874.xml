@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120874</field>
+<field name="genre">Operas</field>
+<field name="title">Il Muzio Scevola</field>
+<field name="titleSort">Muzio Scevola</field>
+<field name="composer">Clemente Monari</field>
+<field name="composerSort">Monari, Clemente</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Muzio+Scevola+Clemente+Monari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203993</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Cecilia</field>
+		<field name="titleSort">Santa Cecilia</field>
+		<field name="year">1680</field>
+		
+		
+		<field name="date">1680</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Cecilia+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

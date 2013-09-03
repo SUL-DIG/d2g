@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117580</field>
+<field name="genre">Operas</field>
+<field name="title">Le grand sire</field>
+<field name="titleSort">grand sire</field>
+<field name="composer">__ Le Boulet</field>
+<field name="composerSort">Boulet, __ Le</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Charles Dambrun</field>
+<field name="librettistSort">Dambrun, Charles</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+grand+sire+__+Le+Boulet&amp;search_field=search</field>
+</doc>
+</add>

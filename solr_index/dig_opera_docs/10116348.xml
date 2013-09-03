@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116348</field>
+<field name="genre">Operas</field>
+<field name="title">Peter und Susanne</field>
+<field name="titleSort">Peter und Susanne</field>
+<field name="composer">Paul Kont</field>
+<field name="composerSort">Kont, Paul</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Gerhard Fritsch</field>
+<field name="librettistSort">Fritsch, Gerhard</field>
+<field name="theater">ORF Television (Österreichischen Rundfunks Fernsehen)</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+und+Susanne+Paul+Kont&amp;search_field=search</field>
+</doc>
+</add>

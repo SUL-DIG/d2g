@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110283</field>
+<field name="genre">Operas</field>
+<field name="title">In seinem Garten liebt Don Perlimplin Belisa</field>
+<field name="titleSort">In seinem Garten liebt Don Perlimplin Belisa</field>
+<field name="composer">Wolfgang Fortner</field>
+<field name="composerSort">Fortner, Wolfgang</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Enrique Beck</field>
+<field name="librettistSort">Beck, Enrique</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Schwetzingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+seinem+Garten+liebt+Don+Perlimplin+Belisa+Wolfgang+Fortner&amp;search_field=search</field>
+</doc>
+</add>

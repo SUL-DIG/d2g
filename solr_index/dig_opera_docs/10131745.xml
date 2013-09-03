@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131745</field>
+<field name="genre">Operas</field>
+<field name="title">Le pompier de service</field>
+<field name="titleSort">pompier de service</field>
+<field name="composer">Louis Varney</field>
+<field name="composerSort">Varney, Louis</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Victor de Cottens</field>
+<field name="librettistSort">Cottens, Victor de</field>
+<field name="librettist">Paul Gavault</field>
+<field name="librettistSort">Gavault, Paul</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pompier+de+service+Louis+Varney&amp;search_field=search</field>
+</doc>
+</add>

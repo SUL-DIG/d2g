@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133365</field>
+<field name="genre">Operas</field>
+<field name="title">Il grillo del focolare</field>
+<field name="titleSort">grillo del focolare</field>
+<field name="composer">Riccardo Zandonai</field>
+<field name="composerSort">Zandonai, Riccardo</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Cesare Hanau</field>
+<field name="librettistSort">Hanau, Cesare</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Politeama Chiarella</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+grillo+del+focolare+Riccardo+Zandonai&amp;search_field=search</field>
+</doc>
+</add>

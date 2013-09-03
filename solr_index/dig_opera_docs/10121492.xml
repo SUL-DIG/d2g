@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121492</field>
+<field name="genre">Operas</field>
+<field name="title">"Aspasie, der weibliche Figaro</field>
+<field name="titleSort">"Aspasie, der weibliche Figaro"</field>
+<field name="composer">Adolf Müller</field>
+<field name="composerSort">Müller, Adolf</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Friedrich Blum</field>
+<field name="librettistSort">Blum, Friedrich</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aspasie,+der+weibliche+Figaro+Adolf+Müller&amp;search_field=search</field>
+</doc>
+</add>

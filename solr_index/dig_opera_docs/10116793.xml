@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116793</field>
+<field name="genre">Operas</field>
+<field name="title">Dragedukken (The Dragon Doll)</field>
+<field name="titleSort">Dragedukken (The Dragon Doll)</field>
+<field name="composer">Friedrich Ludwig Aemilius Kunzen</field>
+<field name="composerSort">Kunzen, Friedrich Ludwig Aemilius</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Enevold de Falsen</field>
+<field name="librettistSort">Falsen, Enevold de</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dragedukken+The+Dragon+Doll+Friedrich+Ludwig+Aemilius+Kunzen&amp;search_field=search</field>
+</doc>
+</add>

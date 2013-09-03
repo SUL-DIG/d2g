@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125724</field>
+<field name="genre">Operas</field>
+<field name="title">Le costaud de l'Olympe</field>
+<field name="titleSort">costaud de l'Olympe</field>
+<field name="composer">Willy Redstone</field>
+<field name="composerSort">Redstone, Willy</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Georges Nanteuil</field>
+<field name="librettistSort">Nanteuil, Georges</field>
+<field name="librettist">Albert Miral</field>
+<field name="librettistSort">Miral, Albert</field>
+<field name="theater">Théâtre de la Cigale</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+costaud+de+l'Olympe+Willy+Redstone&amp;search_field=search</field>
+</doc>
+</add>

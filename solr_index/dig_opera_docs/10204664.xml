@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204664</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Davidde</field>
+		<field name="titleSort">trionfo di Davidde</field>
+		
+		
+		
+		
+		<field name="composer">Mario Aspa</field>
+		<field name="composerSort">Aspa, Mario</field>
+		
+		
+		
+		<field name="city">Lanciano</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">David defeats the Philistines</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Davidde+Mario+Aspa&amp;search_field=search</field>
+	</doc></add>

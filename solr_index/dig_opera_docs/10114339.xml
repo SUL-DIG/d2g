@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114339</field>
+<field name="genre">Operas</field>
+<field name="title">Die kluge Wirtin</field>
+<field name="titleSort">kluge Wirtin</field>
+<field name="composer">Hajo Hinrichs</field>
+<field name="composerSort">Hinrichs, Hajo</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Friedrich Lindemann</field>
+<field name="librettistSort">Lindemann, Friedrich</field>
+
+<field name="city">Oldenburg</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+kluge+Wirtin+Hajo+Hinrichs&amp;search_field=search</field>
+</doc>
+</add>

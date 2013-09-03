@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109250</field>
+<field name="genre">Operas</field>
+<field name="title">Das Damenparadies</field>
+<field name="titleSort">Damenparadies</field>
+<field name="composer">Richard Fall</field>
+<field name="composerSort">Fall, Richard</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Julius Brammer</field>
+<field name="librettistSort">Brammer, Julius</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Damenparadies+Richard+Fall&amp;search_field=search</field>
+</doc>
+</add>

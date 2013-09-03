@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115910</field>
+<field name="genre">Operas</field>
+<field name="title">Erinto</field>
+<field name="titleSort">Erinto</field>
+<field name="composer">Johann Caspar Kerll</field>
+<field name="composerSort">Kerll, Johann Caspar</field>
+<field name="year">1661</field>
+<field name="date">1661</field>
+<field name="librettist">Pietro Paolo Bissari</field>
+<field name="librettistSort">Bissari, Pietro Paolo</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erinto+Johann+Caspar+Kerll&amp;search_field=search</field>
+</doc>
+</add>

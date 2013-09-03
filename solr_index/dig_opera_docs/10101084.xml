@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101084</field>
+<field name="genre">Operas</field>
+<field name="title">Fuochi di carnevale</field>
+<field name="titleSort">Fuochi di carnevale</field>
+<field name="composer">Salvatore Arno</field>
+<field name="composerSort">Arno, Salvatore</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Enrico Frati</field>
+<field name="librettistSort">Frati, Enrico</field>
+<field name="librettist">Silvestro Lega</field>
+<field name="librettistSort">Lega, Silvestro</field>
+<field name="theater">Teatro Mastroieni</field>
+<field name="city">Messina</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fuochi+di+carnevale+Salvatore+Arno&amp;search_field=search</field>
+</doc>
+</add>

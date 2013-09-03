@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110493</field>
+<field name="genre">Operas</field>
+<field name="title">A senhora da Saúde</field>
+<field name="titleSort">senhora da Saúde</field>
+<field name="composer">Frederico de Freitas</field>
+<field name="composerSort">Freitas, Frederico de</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Pedro da Silva Tavares</field>
+<field name="librettistSort">Tavares, Pedro da Silva</field>
+<field name="librettist">Almeida Amaral</field>
+<field name="librettistSort">Amaral, Almeida</field>
+<field name="theater">Teatro da Maria Vitória</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+senhora+da+Saúde+Frederico+de+Freitas&amp;search_field=search</field>
+</doc>
+</add>

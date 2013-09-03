@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202070</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco figura del Redentore</field>
+		<field name="titleSort">Isacco figura del Redentore</field>
+		<field name="year">1740</field>
+		<field name="month">February</field>
+		<field name="day">12</field>
+		<field name="date">February 12, 1740</field>
+		<field name="composer">Luca Antonio Predieri</field>
+		<field name="composerSort">Predieri, Luca Antonio</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Luca+Antonio+Predieri&amp;search_field=search</field>
+	</doc></add>

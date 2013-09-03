@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128960</field>
+<field name="genre">Operas</field>
+<field name="title">L'ultimo degli Abenceragi</field>
+<field name="titleSort">ultimo degli Abenceragi</field>
+<field name="composer">Giacomo Setaccioli</field>
+<field name="composerSort">Setaccioli, Giacomo</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Ernesto Palermi</field>
+<field name="librettistSort">Palermi, Ernesto</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ultimo+degli+Abenceragi+Giacomo+Setaccioli&amp;search_field=search</field>
+</doc>
+</add>

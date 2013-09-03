@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204109</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La santitа freno alla tirannide</field>
+		<field name="titleSort">santitа freno alla tirannide</field>
+		<field name="year">1694</field>
+		
+		
+		<field name="date">1694</field>
+		<field name="composer">Alessandro Gangiura</field>
+		<field name="composerSort">Gangiura, Alessandro</field>
+		
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+santitа+freno+alla+tirannide+Alessandro+Gangiura&amp;search_field=search</field>
+	</doc></add>

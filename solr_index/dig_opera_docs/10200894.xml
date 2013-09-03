@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200894</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">De annuntiatione Beata Mariae Vergini</field>
+		<field name="titleSort">De annuntiatione Beata Mariae Vergini</field>
+		<field name="year">1723</field>
+		<field name="month">July</field>
+		<field name="day">2</field>
+		<field name="date">July 2, 1723</field>
+		<field name="composer">Fortunato Chelleri</field>
+		<field name="composerSort">Chelleri, Fortunato</field>
+		<field name="librettist">[Sebastiano Biancardi] Domenico Lalli</field>
+		<field name="librettistSort">Lalli, Domenico [Sebastiano Biancardi]</field>
+		
+		
+		<field name="city">Würzburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Annunciation</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">March 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+annuntiatione+Beata+Mariae+Vergini+Fortunato+Chelleri&amp;search_field=search</field>
+	</doc></add>

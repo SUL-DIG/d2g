@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128728</field>
+<field name="genre">Operas</field>
+<field name="title">Il chimico</field>
+<field name="titleSort">chimico</field>
+<field name="composer">Giuseppe Scolari</field>
+<field name="composerSort">Scolari, Giuseppe</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Antonio Palomba</field>
+<field name="librettistSort">Palomba, Antonio</field>
+<field name="theater">Teatre de la Santa Creu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+chimico+Giuseppe+Scolari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201622</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Gionata</field>
+		<field name="titleSort">Gionata</field>
+		<field name="year">1768</field>
+		<field name="month">February</field>
+		<field name="day">16</field>
+		<field name="date">February 16, 1768</field>
+		<field name="composer">Francesco Digne</field>
+		<field name="composerSort">Digne, Francesco</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jonathan, son of Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Gionata+Francesco+Digne&amp;search_field=search</field>
+	</doc></add>

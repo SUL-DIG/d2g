@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103399</field>
+<field name="genre">Operas</field>
+<field name="title">La dot de Suzette</field>
+<field name="titleSort">dot de Suzette</field>
+<field name="composer">Adrien Boieldieu</field>
+<field name="composerSort">Boieldieu, Adrien</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Jean-Élie-Bédéno Dejaure</field>
+<field name="librettistSort">Dejaure, Jean-Élie-Bédéno</field>
+<field name="librettist">Joseph Fiévée</field>
+<field name="librettistSort">Fiévée, Joseph</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dot+de+Suzette+Adrien+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

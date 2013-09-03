@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204083</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Teresa</field>
+		<field name="titleSort">Santa Teresa</field>
+		<field name="year">1746</field>
+		
+		
+		<field name="date">1746</field>
+		<field name="composer">Matteo Bisso</field>
+		<field name="composerSort">Bisso, Matteo</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Teresa+Matteo+Bisso&amp;search_field=search</field>
+	</doc></add>

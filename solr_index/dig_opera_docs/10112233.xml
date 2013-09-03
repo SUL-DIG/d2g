@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112233</field>
+<field name="genre">Operas</field>
+<field name="title">La prima prova dell' opera Gli orazi e curiazi</field>
+<field name="titleSort">prima prova dell' opera Gli orazi e curiazi</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Giulio Artusi</field>
+<field name="librettistSort">Artusi, Giulio</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prima+prova+dell'+opera+Gli+orazi+e+curiazi+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

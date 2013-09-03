@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128735</field>
+<field name="genre">Operas</field>
+<field name="title">Il Pandolfo</field>
+<field name="titleSort">Pandolfo</field>
+<field name="composer">Giuseppe Scolari</field>
+<field name="composerSort">Scolari, Giuseppe</field>
+<field name="year">1745</field>
+<field name="date">1745</field><field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Pandolfo+Giuseppe+Scolari&amp;search_field=search</field>
+</doc>
+</add>

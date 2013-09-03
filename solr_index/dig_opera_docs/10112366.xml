@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112366</field>
+<field name="genre">Operas</field>
+<field name="title">Le diable а Seville</field>
+<field name="titleSort">diable а Seville</field>
+<field name="composer">José Melchor Gomis y Colomer</field>
+<field name="composerSort">Colomer, José Melchor Gomis y</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Antonio Hurtado y Valhondo</field>
+<field name="librettistSort">Hurtado y Valhondo, Antonio</field>
+<field name="librettist">Higinio Augusto Cavé</field>
+<field name="librettistSort">Cavé, Higinio Augusto</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+а+Seville+José+Melchor+Gomis+y+Colomer&amp;search_field=search</field>
+</doc>
+</add>

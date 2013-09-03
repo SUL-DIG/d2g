@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200763</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il cuor nello scrigno</field>
+		<field name="titleSort">cuor nello scrigno</field>
+		<field name="year">1696</field>
+		<field name="month">June</field>
+		<field name="day">13</field>
+		<field name="date">June 13, 1696</field>
+		<field name="composer">Benedetto Vinaccesi</field>
+		<field name="composerSort">Vinaccesi, Benedetto</field>
+		<field name="librettist">Francesco Arisi</field>
+		<field name="librettistSort">Arisi, Francesco</field>
+		
+		
+		<field name="city">Cremona</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cuor+nello+scrigno+Benedetto+Vinaccesi&amp;search_field=search</field>
+	</doc></add>

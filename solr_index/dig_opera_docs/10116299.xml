@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116299</field>
+<field name="genre">Operas</field>
+<field name="title">No No Miya</field>
+<field name="titleSort">No No Miya</field>
+<field name="composer">Rudolf Komorous</field>
+<field name="composerSort">Komorous, Rudolf</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Rudolf Komorous</field>
+<field name="librettistSort">Komorous, Rudolf</field>
+<field name="librettist">Motokiyo Zeami</field>
+<field name="librettistSort">Zeami, Motokiyo</field>
+<field name="theater">East Cultural Centre</field>
+<field name="city">Vancouver</field>
+<field name="region">British Columbia</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=No+No+Miya+Rudolf+Komorous&amp;search_field=search</field>
+</doc>
+</add>

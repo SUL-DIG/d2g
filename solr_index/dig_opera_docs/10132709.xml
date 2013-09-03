@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132709</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schmetterling</field>
+<field name="titleSort">Schmetterling</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Alfred Maria Willner</field>
+<field name="librettistSort">Willner, Alfred Maria</field>
+<field name="librettist">Bernhard Buchbinder</field>
+<field name="librettistSort">Buchbinder, Bernhard</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schmetterling+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

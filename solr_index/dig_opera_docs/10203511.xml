@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203511</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Prometheus</field>
+		<field name="titleSort">Prometheus</field>
+		<field name="year">1892</field>
+		
+		
+		<field name="date">1892</field>
+		<field name="composer">Heinrich Karl Johann Hofmann</field>
+		<field name="composerSort">Hofmann, Heinrich Karl Johann</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Prometheus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prometheus+Heinrich+Karl+Johann+Hofmann&amp;search_field=search</field>
+	</doc></add>

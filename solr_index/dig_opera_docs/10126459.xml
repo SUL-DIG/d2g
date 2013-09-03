@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126459</field>
+<field name="genre">Operas</field>
+<field name="title">Elisene Prinzessin von Bulgarien</field>
+<field name="titleSort">Elisene Prinzessin von Bulgarien</field>
+<field name="composer">Josef Roesler</field>
+<field name="composerSort">Roesler, Josef</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Ignaz Franz Castelli</field>
+<field name="librettistSort">Castelli, Ignaz Franz</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisene+Prinzessin+von+Bulgarien+Josef+Roesler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120975</field>
+<field name="genre">Operas</field>
+<field name="title">"Félix, ou L'enfant trouvé</field>
+<field name="titleSort">"Félix, ou L'enfant trouvé"</field>
+<field name="composer">Pierre-Alexandre Monsigny</field>
+<field name="composerSort">Monsigny, Pierre-Alexandre</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Félix,+ou+L'enfant+trouvé+Pierre-Alexandre+Monsigny&amp;search_field=search</field>
+</doc>
+</add>

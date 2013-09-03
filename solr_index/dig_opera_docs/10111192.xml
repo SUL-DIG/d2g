@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111192</field>
+<field name="genre">Operas</field>
+<field name="title">Arsace</field>
+<field name="titleSort">Arsace</field>
+<field name="composer">Michel Angelo Gasparini</field>
+<field name="composerSort">Gasparini, Michel Angelo</field>
+<field name="year">1718</field>
+<field name="date">1718</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="librettist">Thomas Corneille</field>
+<field name="librettistSort">Corneille, Thomas</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsace+Michel+Angelo+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

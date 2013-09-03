@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119772</field>
+<field name="genre">Operas</field>
+<field name="title">La Prima Donna</field>
+<field name="titleSort">Prima Donna</field>
+<field name="composer">Tito Mattei</field>
+<field name="composerSort">Mattei, Tito</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="librettist">Alfred Murray</field>
+<field name="librettistSort">Murray, Alfred</field>
+<field name="theater">Avenue Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Prima+Donna+Tito+Mattei&amp;search_field=search</field>
+</doc>
+</add>

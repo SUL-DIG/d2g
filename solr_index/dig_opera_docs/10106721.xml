@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106721</field>
+<field name="genre">Operas</field>
+<field name="title">Farnace</field>
+<field name="titleSort">Farnace</field>
+<field name="composer">Antonio Cortona</field>
+<field name="composerSort">Cortona, Antonio</field>
+<field name="year">1729</field>
+<field name="date">1729</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farnace+Antonio+Cortona&amp;search_field=search</field>
+</doc>
+</add>

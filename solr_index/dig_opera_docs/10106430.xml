@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106430</field>
+<field name="genre">Operas</field>
+<field name="title">Diogenes Cynicus</field>
+<field name="titleSort">Diogenes Cynicus</field>
+<field name="composer">Johann Georg Conradi</field>
+<field name="composerSort">Conradi, Johann Georg</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Christian Heinrich Postel</field>
+<field name="librettistSort">Postel, Christian Heinrich</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diogenes+Cynicus+Johann+Georg+Conradi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125429</field>
+<field name="genre">Operas</field>
+<field name="title">La figlia del soldato</field>
+<field name="titleSort">figlia del soldato</field>
+<field name="composer">Fortunato Raejntroph</field>
+<field name="composerSort">Raejntroph, Fortunato</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Giovanni di Giurdignano</field>
+<field name="librettistSort">Giurdignano, Giovanni di</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+figlia+del+soldato+Fortunato+Raejntroph&amp;search_field=search</field>
+</doc>
+</add>

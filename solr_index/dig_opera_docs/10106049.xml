@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106049</field>
+<field name="genre">Operas</field>
+<field name="title">Gibby la cornemuse</field>
+<field name="titleSort">Gibby la cornemuse</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gibby+la+cornemuse+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

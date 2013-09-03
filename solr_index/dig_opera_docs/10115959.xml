@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115959</field>
+<field name="genre">Operas</field>
+<field name="title">V buryo (Into the Storm)</field>
+<field name="titleSort">V buryo (Into the Storm)</field>
+<field name="composer">Tikhon Nicolayevich Khrennikov</field>
+<field name="composerSort">Khrennikov, Tikhon Nicolayevich</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Aleksey Fayko</field>
+<field name="librettistSort">Fayko, Aleksey</field>
+<field name="librettist">[Nikolay Karelsky] Nikolay Virta</field>
+<field name="librettistSort">Virta, Nikolay [Nikolay Karelsky]</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Stanislavskogo i Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+buryo+Into+the+Storm+Tikhon+Nicolayevich+Khrennikov&amp;search_field=search</field>
+</doc>
+</add>

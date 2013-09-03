@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117780</field>
+<field name="genre">Operas</field>
+<field name="title">The Pride of the Regiment</field>
+<field name="titleSort">Pride of the Regiment</field>
+<field name="composer">Walter Leigh</field>
+<field name="composerSort">Leigh, Walter</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Victor Clinton Clinton-Baddeley</field>
+<field name="librettistSort">Clinton-Baddeley, Victor Clinton</field>
+<field name="librettist">Scobie MacKenzie</field>
+<field name="librettistSort">MacKenzie, Scobie</field>
+<field name="theater">Saint James's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pride+of+the+Regiment+Walter+Leigh&amp;search_field=search</field>
+</doc>
+</add>

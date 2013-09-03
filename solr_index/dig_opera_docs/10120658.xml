@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120658</field>
+<field name="genre">Operas</field>
+<field name="title">El elefante blanco</field>
+<field name="titleSort">elefante blanco</field>
+<field name="composer">Rafael Millán</field>
+<field name="composerSort">Millán, Rafael</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Martínez González de Lara</field>
+<field name="librettistSort">González de Lara, Martínez</field>
+<field name="librettist">Ramón Díaz Mirete</field>
+<field name="librettistSort">Díaz Mirete, Ramón</field>
+<field name="theater">Teatro del Centro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+elefante+blanco+Rafael+Millán&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127824</field>
+<field name="genre">Operas</field>
+<field name="title">La chartreuse de Parme</field>
+<field name="titleSort">chartreuse de Parme</field>
+<field name="composer">Henri Sauguet</field>
+<field name="composerSort">Sauguet, Henri</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Armand Lunel</field>
+<field name="librettistSort">Lunel, Armand</field>
+<field name="librettist">[Henri Beyle] Stendhal</field>
+<field name="librettistSort">Stendhal, [Henri Beyle]</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chartreuse+de+Parme+Henri+Sauguet&amp;search_field=search</field>
+</doc>
+</add>

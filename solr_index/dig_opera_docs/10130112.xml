@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130112</field>
+<field name="genre">Operas</field>
+<field name="title">Der Badegeneral</field>
+<field name="titleSort">Badegeneral</field>
+<field name="composer">Viktor Eugen Strasser</field>
+<field name="composerSort">Strasser, Viktor Eugen</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Hans Walter</field>
+<field name="librettistSort">Walter, Hans</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Badegeneral+Viktor+Eugen+Strasser&amp;search_field=search</field>
+</doc>
+</add>

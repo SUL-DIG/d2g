@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110720</field>
+<field name="genre">Operas</field>
+<field name="title">Diana im Bade</field>
+<field name="titleSort">Diana im Bade</field>
+<field name="composer">Max Gabriel</field>
+<field name="composerSort">Gabriel, Max</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="theater">Centralhallen-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diana+im+Bade+Max+Gabriel&amp;search_field=search</field>
+</doc>
+</add>

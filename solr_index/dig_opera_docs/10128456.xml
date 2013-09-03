@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128456</field>
+<field name="genre">Operas</field>
+<field name="title">Jodocus der Narr</field>
+<field name="titleSort">Jodocus der Narr</field>
+<field name="composer">Oscar Schröter</field>
+<field name="composerSort">Schröter, Oscar</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Oscar Schröter</field>
+<field name="librettistSort">Schröter, Oscar</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jodocus+der+Narr+Oscar+Schröter&amp;search_field=search</field>
+</doc>
+</add>

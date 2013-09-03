@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103843</field>
+<field name="genre">Operas</field>
+<field name="title">The Lily Maid</field>
+<field name="titleSort">Lily Maid</field>
+<field name="composer">Rutland Boughton</field>
+<field name="composerSort">Boughton, Rutland</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Rutland Boughton</field>
+<field name="librettistSort">Boughton, Rutland</field>
+<field name="theater">Church Room</field>
+<field name="city">Stroud</field>
+<field name="region">Gloucestershire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lily+Maid+Rutland+Boughton&amp;search_field=search</field>
+</doc>
+</add>

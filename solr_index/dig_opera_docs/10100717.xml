@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100717</field>
+<field name="genre">Operas</field>
+<field name="title">I pazzi per disimpegno</field>
+<field name="titleSort">pazzi per disimpegno</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Pietro Antonio Bagliacca</field>
+<field name="librettistSort">Bagliacca, Pietro Antonio</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+pazzi+per+disimpegno+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

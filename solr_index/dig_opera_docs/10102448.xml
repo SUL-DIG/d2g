@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102448</field>
+<field name="genre">Operas</field>
+<field name="title">Johanes doktor Faust</field>
+<field name="titleSort">Johanes doktor Faust</field>
+<field name="composer">Josef Berg</field>
+<field name="composerSort">Berg, Josef</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Josef Berg</field>
+<field name="librettistSort">Berg, Josef</field>
+<field name="librettist">Jan Kopecký</field>
+<field name="librettistSort">Kopecký, Jan</field>
+<field name="theater">Janácek Academy</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johanes+doktor+Faust+Josef+Berg&amp;search_field=search</field>
+</doc>
+</add>

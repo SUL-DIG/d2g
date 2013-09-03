@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130507</field>
+<field name="genre">Operas</field>
+<field name="title">I due mariti</field>
+<field name="titleSort">due mariti</field>
+<field name="composer">Ferdinando Taglioni</field>
+<field name="composerSort">Taglioni, Ferdinando</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Giovanni di Giurdignano</field>
+<field name="librettistSort">Giurdignano, Giovanni di</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+mariti+Ferdinando+Taglioni&amp;search_field=search</field>
+</doc>
+</add>

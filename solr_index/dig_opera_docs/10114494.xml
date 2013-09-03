@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114494</field>
+<field name="genre">Operas</field>
+<field name="title">Die Prinzessin vom Nil</field>
+<field name="titleSort">Prinzessin vom Nil</field>
+<field name="composer">Viktor Holländer</field>
+<field name="composerSort">Holländer, Viktor</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Franz Cornelius</field>
+<field name="librettistSort">Cornelius, Franz</field>
+<field name="librettist">Arthur Landsberger</field>
+<field name="librettistSort">Landsberger, Arthur</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Prinzessin+vom+Nil+Viktor+Holländer&amp;search_field=search</field>
+</doc>
+</add>

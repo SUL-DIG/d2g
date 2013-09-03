@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116765</field>
+<field name="genre">Operas</field>
+<field name="title">Der grosse Name</field>
+<field name="titleSort">grosse Name</field>
+<field name="composer">Eduard Künneke</field>
+<field name="composerSort">Künneke, Eduard</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Ferdinand Julius</field>
+<field name="librettistSort">Julius, Ferdinand</field>
+<field name="librettist">Ursula Renate Hirt</field>
+<field name="librettistSort">Hirt, Ursula Renate</field>
+<field name="theater">Operettenhaus</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+grosse+Name+Eduard+Künneke&amp;search_field=search</field>
+</doc>
+</add>

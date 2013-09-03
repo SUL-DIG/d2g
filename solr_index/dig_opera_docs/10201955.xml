@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201955</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gl'impegni del divino amore nel transito della beata Caterina Vegri detta di Bologna</field>
+		<field name="titleSort">impegni del divino amore nel transito della beata Caterina Vegri detta di Bologna</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Giovanni Battista Bassani</field>
+		<field name="composerSort">Bassani, Giovanni Battista</field>
+		
+		
+		
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Blessed Catherine of Bologna</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">9</field>
+		<field name="feastDate">March 9</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'impegni+del+divino+amore+nel+transito+della+beata+Caterina+Vegri+detta+di+Bologna+Giovanni+Battista+Bassani&amp;search_field=search</field>
+	</doc></add>

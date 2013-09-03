@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107594</field>
+<field name="genre">Operas</field>
+<field name="title">Pepe et Tita</field>
+<field name="titleSort">Pepe et Tita</field>
+<field name="composer">Adolphe Deslandres</field>
+<field name="composerSort">Deslandres, Adolphe</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Jules Ruelle</field>
+<field name="librettistSort">Ruelle, Jules</field>
+<field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pepe+et+Tita+Adolphe+Deslandres&amp;search_field=search</field>
+</doc>
+</add>

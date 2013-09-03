@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129022</field>
+<field name="genre">Operas</field>
+<field name="title">The Song of Majnun</field>
+<field name="titleSort">Song of Majnun</field>
+<field name="composer">Bright Sheng</field>
+<field name="composerSort">Sheng, Bright</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Andrew Porter</field>
+<field name="librettistSort">Porter, Andrew</field>
+<field name="theater">Civic Opera House</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Song+of+Majnun+Bright+Sheng&amp;search_field=search</field>
+</doc>
+</add>

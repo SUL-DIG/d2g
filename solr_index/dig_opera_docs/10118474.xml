@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118474</field>
+<field name="genre">Operas</field>
+<field name="title">Der Waffenschmied</field>
+<field name="titleSort">Waffenschmied</field>
+<field name="composer">Albert Lortzing</field>
+<field name="composerSort">Lortzing, Albert</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Albert Lortzing</field>
+<field name="librettistSort">Lortzing, Albert</field>
+<field name="librettist">Friedrich Wilhelm von Ziegler</field>
+<field name="librettistSort">Ziegler, Friedrich Wilhelm von</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Waffenschmied+Albert+Lortzing&amp;search_field=search</field>
+</doc>
+</add>

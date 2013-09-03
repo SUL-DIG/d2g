@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131881</field>
+<field name="genre">Operas</field>
+<field name="title">Stiffelio</field>
+<field name="titleSort">Stiffelio</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="librettist">Émile Souvestre</field>
+<field name="librettistSort">Souvestre, Émile</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stiffelio+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

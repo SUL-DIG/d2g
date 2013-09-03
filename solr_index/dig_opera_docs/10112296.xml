@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112296</field>
+<field name="genre">Operas</field>
+<field name="title">Der goldene Pierrot</field>
+<field name="titleSort">goldene Pierrot</field>
+<field name="composer">Walter Wilhelm Goetze</field>
+<field name="composerSort">Goetze, Walter Wilhelm</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">[Felix Blumauer] Oskar Felix</field>
+<field name="librettistSort">Felix, Oskar [Felix Blumauer]</field>
+<field name="librettist">Otto Kleinert</field>
+<field name="librettistSort">Kleinert, Otto</field>
+<field name="theater">Volkestheater</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+goldene+Pierrot+Walter+Wilhelm+Goetze&amp;search_field=search</field>
+</doc>
+</add>

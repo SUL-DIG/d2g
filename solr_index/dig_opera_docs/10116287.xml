@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116287</field>
+<field name="genre">Operas</field>
+<field name="title">Fizessen nagysád</field>
+<field name="titleSort">Fizessen nagysád</field>
+<field name="composer">Károly Komjáti</field>
+<field name="composerSort">Komjáti, Károly</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Tamás Emöd</field>
+<field name="librettistSort">Emöd, Tamás</field>
+<field name="librettist">Rezso Török</field>
+<field name="librettistSort">Török, Rezso</field>
+<field name="theater">Vigszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fizessen+nagysád+Károly+Komjáti&amp;search_field=search</field>
+</doc>
+</add>

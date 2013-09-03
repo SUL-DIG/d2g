@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126355</field>
+<field name="genre">Operas</field>
+<field name="title">The Island of Pharos</field>
+<field name="titleSort">Island of Pharos</field>
+<field name="composer">Osborne Roberts</field>
+<field name="composerSort">Roberts, Osborne</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">William Caine</field>
+<field name="librettistSort">Caine, William</field>
+<field name="theater">Town Hall</field>
+<field name="city">Chelsea</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Island+of+Pharos+Osborne+Roberts&amp;search_field=search</field>
+</doc>
+</add>

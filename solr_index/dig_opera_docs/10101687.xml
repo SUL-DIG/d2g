@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101687</field>
+<field name="genre">Operas</field>
+<field name="title">Blanche de Nevérs</field>
+<field name="titleSort">Blanche de Nevérs</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">John Brougham</field>
+<field name="librettistSort">Brougham, John</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blanche+de+Nevérs+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

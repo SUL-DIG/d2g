@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121749</field>
+<field name="genre">Operas</field>
+<field name="title">Dubrovsky</field>
+<field name="titleSort">Dubrovsky</field>
+<field name="composer">Eduard Nápravník</field>
+<field name="composerSort">Nápravník, Eduard</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Modest Il'yich Tchaikovsky</field>
+<field name="librettistSort">Tchaikovsky, Modest Il'yich</field>
+<field name="librettist">Josef Palecek</field>
+<field name="librettistSort">Palecek, Josef</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dubrovsky+Eduard+Nápravník&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111866</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Vendémaire</field>
+<field name="titleSort">Mam'zelle Vendémaire</field>
+<field name="composer">Ernest Gillet</field>
+<field name="composerSort">Gillet, Ernest</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">André Lenéka</field>
+<field name="librettistSort">Lenéka, André</field>
+<field name="librettist">Armand Foucher</field>
+<field name="librettistSort">Foucher, Armand</field>
+<field name="theater">Théâtre de l'Apollo</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Vendémaire+Ernest+Gillet&amp;search_field=search</field>
+</doc>
+</add>

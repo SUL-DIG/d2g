@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103176</field>
+<field name="genre">Operas</field>
+<field name="title">Le morceau d'ensemble</field>
+<field name="titleSort">morceau d'ensemble</field>
+<field name="composer">Felice Blangini</field>
+<field name="composerSort">Blangini, Felice</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Armand Dartois</field>
+<field name="librettistSort">Dartois, Armand</field>
+<field name="theater">Théâtre des Nouveautés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+morceau+d'ensemble+Felice+Blangini&amp;search_field=search</field>
+</doc>
+</add>

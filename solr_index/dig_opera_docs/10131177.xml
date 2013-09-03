@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131177</field>
+<field name="genre">Operas</field>
+<field name="title">La caccia di Enrico IV</field>
+<field name="titleSort">caccia di Enrico IV</field>
+<field name="composer">Antonio Tozzi</field>
+<field name="composerSort">Tozzi, Antonio</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caccia+di+Enrico+IV+Antonio+Tozzi&amp;search_field=search</field>
+</doc>
+</add>

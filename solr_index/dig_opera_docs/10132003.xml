@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132003</field>
+<field name="genre">Operas</field>
+<field name="title">Dorisbe e Creperio</field>
+<field name="titleSort">Dorisbe e Creperio</field>
+<field name="composer">Giuseppe Vignola</field>
+<field name="composerSort">Vignola, Giuseppe</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Carlo de Petris</field>
+<field name="librettistSort">Petris, Carlo de</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorisbe+e+Creperio+Giuseppe+Vignola&amp;search_field=search</field>
+</doc>
+</add>

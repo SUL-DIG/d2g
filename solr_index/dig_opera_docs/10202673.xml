@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202673</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Santa Ferma vergine e martire romana</field>
+		<field name="titleSort">martirio di Santa Ferma vergine e martire romana</field>
+		<field name="year">1733</field>
+		
+		
+		<field name="date">1733</field>
+		<field name="composer">Giovanni Battista Costanzi</field>
+		<field name="composerSort">Costanzi, Giovanni Battista</field>
+		<field name="librettist">Giovanni Battista Forlini</field>
+		<field name="librettistSort">Forlini, Giovanni Battista</field>
+		
+		<field name="theater">Collegio Germanico Ungarico</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Firmina</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">November 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Santa+Ferma+vergine+e+martire+romana+Giovanni+Battista+Costanzi&amp;search_field=search</field>
+	</doc></add>

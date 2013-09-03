@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128231</field>
+<field name="genre">Operas</field>
+<field name="title">Der Pfeifertag</field>
+<field name="titleSort">Pfeifertag</field>
+<field name="composer">Max von Schillings</field>
+<field name="composerSort">Schillings, Max von</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Ferdinand von Sporck</field>
+<field name="librettistSort">Sporck, Ferdinand von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Pfeifertag+Max+von+Schillings&amp;search_field=search</field>
+</doc>
+</add>

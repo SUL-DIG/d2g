@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118165</field>
+<field name="genre">Operas</field>
+<field name="title">Gri-gri</field>
+<field name="titleSort">Gri-gri</field>
+<field name="composer">Paul Lincke</field>
+<field name="composerSort">Lincke, Paul</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Heinrich Bolten-Bäckers</field>
+<field name="librettistSort">Bolten-Bäckers, Heinrich</field>
+<field name="librettist">Jules Chancel</field>
+<field name="librettistSort">Chancel, Jules</field>
+<field name="theater">Metropoltheater</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gri-gri+Paul+Lincke&amp;search_field=search</field>
+</doc>
+</add>

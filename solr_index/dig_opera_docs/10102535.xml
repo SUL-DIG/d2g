@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102535</field>
+<field name="genre">Operas</field>
+<field name="title">La Libussa</field>
+<field name="titleSort">Libussa</field>
+<field name="composer">Bartolomeo Bernardi</field>
+<field name="composerSort">Bernardi, Bartolomeo</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Giovanni Federico Sartorio</field>
+<field name="librettistSort">Sartorio, Giovanni Federico</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Libussa+Bartolomeo+Bernardi&amp;search_field=search</field>
+</doc>
+</add>

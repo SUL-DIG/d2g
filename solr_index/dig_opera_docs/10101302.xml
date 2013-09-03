@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101302</field>
+<field name="genre">Operas</field>
+<field name="title">Li astrologi immaginari</field>
+<field name="titleSort">astrologi immaginari</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="city">Lugo</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+astrologi+immaginari+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

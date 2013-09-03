@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118930</field>
+<field name="genre">Operas</field>
+<field name="title">Ninon de Lenclos</field>
+<field name="titleSort">Ninon de Lenclos</field>
+<field name="composer">Louis Maingueneau</field>
+<field name="composerSort">Maingueneau, Louis</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Louis Blanpain de Saint Mars</field>
+<field name="librettistSort">Blanpain de Saint Mars, Louis</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ninon+de+Lenclos+Louis+Maingueneau&amp;search_field=search</field>
+</doc>
+</add>

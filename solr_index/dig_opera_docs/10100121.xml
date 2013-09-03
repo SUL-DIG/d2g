@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100121</field>
+<field name="genre">Operas</field>
+<field name="title">"Le grand prix, ou Le voyage а frais communs</field>
+<field name="titleSort">"grand prix, ou voyage а frais communs"</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">[Jules-Joseph-Gabriel de Lurieu] Joseph Gabriel</field>
+<field name="librettistSort">Gabriel, Joseph [Jules-Joseph-Gabriel de Lurieu]</field>
+<field name="librettist">[Auguste-Michel-Benoît Gaudichot-Masson] Michel Masson</field>
+<field name="librettistSort">Masson, Michel [Auguste-Michel-Benoît Gaudichot-Masson]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+grand+prix,+ou+Le+voyage+а+frais+communs+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

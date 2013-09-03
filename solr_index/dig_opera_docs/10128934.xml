@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128934</field>
+<field name="genre">Operas</field>
+<field name="title">La tourte</field>
+<field name="titleSort">tourte</field>
+<field name="composer">Gaston Serpette</field>
+<field name="composerSort">Serpette, Gaston</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Paul Bilhaud</field>
+<field name="librettistSort">Bilhaud, Paul</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Asnières</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tourte+Gaston+Serpette&amp;search_field=search</field>
+</doc>
+</add>

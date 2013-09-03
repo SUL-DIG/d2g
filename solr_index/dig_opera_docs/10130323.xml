@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130323</field>
+<field name="genre">Operas</field>
+<field name="title">Florence: the Lady with the Lamp</field>
+<field name="titleSort">Florence: the Lady with the Lamp</field>
+<field name="composer">Timothy Sullivan</field>
+<field name="composerSort">Sullivan, Timothy</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Anne McPherson</field>
+<field name="librettistSort">McPherson, Anne</field>
+<field name="theater">Saint John's Church</field>
+<field name="city">Elora</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Florence:+the+Lady+with+the+Lamp+Timothy+Sullivan&amp;search_field=search</field>
+</doc>
+</add>

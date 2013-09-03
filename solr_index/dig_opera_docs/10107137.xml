@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107137</field>
+<field name="genre">Operas</field>
+<field name="title">La fausse peur</field>
+<field name="titleSort">fausse peur</field>
+<field name="composer">François Joseph Darcis</field>
+<field name="composerSort">Darcis, François Joseph</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Benoît-Joseph Marsollier des Vivetières</field>
+<field name="librettistSort">Marsollier des Vivetières, Benoît-Joseph</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fausse+peur+François+Joseph+Darcis&amp;search_field=search</field>
+</doc>
+</add>

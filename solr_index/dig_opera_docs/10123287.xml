@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123287</field>
+<field name="genre">Operas</field>
+<field name="title">Tulitikkutyttö (The Little Match Girl)</field>
+<field name="titleSort">Tulitikkutyttö (The Little Match Girl)</field>
+<field name="composer">Martti Parkkari</field>
+<field name="composerSort">Parkkari, Martti</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Pirjo-Riitta Tähti-Wahl</field>
+<field name="librettistSort">Tähti-Wahl, Pirjo-Riitta</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Concert Hall</field>
+<field name="city">Turku</field>
+<field name="region">Turun Ja Porin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tulitikkutyttö+The+Little+Match+Girl+Martti+Parkkari&amp;search_field=search</field>
+</doc>
+</add>

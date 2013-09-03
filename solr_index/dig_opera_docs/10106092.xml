@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106092</field>
+<field name="genre">Operas</field>
+<field name="title">"Arsinoe, Queen of Cyprus</field>
+<field name="titleSort">"Arsinoe, Queen of Cyprus"</field>
+<field name="composer">Thomas Clayton</field>
+<field name="composerSort">Clayton, Thomas</field>
+<field name="year">1705</field>
+<field name="date">1705</field>
+<field name="librettist">Peter Anthony Motteux</field>
+<field name="librettistSort">Motteux, Peter Anthony</field>
+<field name="librettist">Tommaso Stanzani</field>
+<field name="librettistSort">Stanzani, Tommaso</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arsinoe,+Queen+of+Cyprus+Thomas+Clayton&amp;search_field=search</field>
+</doc>
+</add>

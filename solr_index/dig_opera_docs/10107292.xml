@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107292</field>
+<field name="genre">Operas</field>
+<field name="title">Les petits violons du roi</field>
+<field name="titleSort">petits violons du roi</field>
+<field name="composer">Louis Deffès</field>
+<field name="composerSort">Deffès, Louis</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Henry Boisseaux</field>
+<field name="librettistSort">Boisseaux, Henry</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+petits+violons+du+roi+Louis+Deffès&amp;search_field=search</field>
+</doc>
+</add>

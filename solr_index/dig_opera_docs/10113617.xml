@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113617</field>
+<field name="genre">Operas</field>
+<field name="title">Escorial</field>
+<field name="titleSort">Escorial</field>
+<field name="composer">Heinz Hartig</field>
+<field name="composerSort">Hartig, Heinz</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Friedrich Petzold</field>
+<field name="librettistSort">Petzold, Friedrich</field>
+<field name="librettist">Michel de Ghelderode</field>
+<field name="librettistSort">Ghelderode, Michel de</field>
+<field name="theater">Akademie der Künste</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Escorial+Heinz+Hartig&amp;search_field=search</field>
+</doc>
+</add>

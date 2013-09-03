@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120487</field>
+<field name="genre">Operas</field>
+<field name="title">Bad Boys in School</field>
+<field name="titleSort">Bad Boys in School</field>
+<field name="composer">Jan Meyerowitz</field>
+<field name="composerSort">Meyerowitz, Jan</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Jan Meyerowitz</field>
+<field name="librettistSort">Meyerowitz, Jan</field>
+<field name="librettist">Johann Nepomuk Nestroy</field>
+<field name="librettistSort">Nestroy, Johann Nepomuk</field>
+<field name="theater">Berkshire Music Festival</field>
+<field name="city">Lenox</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bad+Boys+in+School+Jan+Meyerowitz&amp;search_field=search</field>
+</doc>
+</add>

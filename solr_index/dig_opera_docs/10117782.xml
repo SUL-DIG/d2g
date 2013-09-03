@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117782</field>
+<field name="genre">Operas</field>
+<field name="title">Eine Note nach der anderen</field>
+<field name="titleSort">Note nach der anderen</field>
+<field name="composer">Friedrich Leinert</field>
+<field name="composerSort">Leinert, Friedrich</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Michael Leinert</field>
+<field name="librettistSort">Leinert, Michael</field>
+<field name="theater">Niedersächsische Staatstheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+Note+nach+der+anderen+Friedrich+Leinert&amp;search_field=search</field>
+</doc>
+</add>

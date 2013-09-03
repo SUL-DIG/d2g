@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106227</field>
+<field name="genre">Operas</field>
+<field name="title">Saulle</field>
+<field name="titleSort">Saulle</field>
+<field name="composer">Niccolò Coccon</field>
+<field name="composerSort">Coccon, Niccolò</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Collegio</field>
+<field name="city">Spello</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulle+Niccolò+Coccon&amp;search_field=search</field>
+</doc>
+</add>

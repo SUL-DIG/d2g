@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109670</field>
+<field name="genre">Operas</field>
+<field name="title">Cantemire</field>
+<field name="titleSort">Cantemire</field>
+<field name="composer">Friedrich Fesca</field>
+<field name="composerSort">Fesca, Friedrich</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Alexander Dusch</field>
+<field name="librettistSort">Dusch, Alexander</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cantemire+Friedrich+Fesca&amp;search_field=search</field>
+</doc>
+</add>

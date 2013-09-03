@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129427</field>
+<field name="genre">Operas</field>
+<field name="title">L'oncle et le neveu</field>
+<field name="titleSort">oncle et le neveu</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">André-Joseph Grétry</field>
+<field name="librettistSort">Grétry, André-Joseph</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oncle+et+le+neveu+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

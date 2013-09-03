@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125727</field>
+<field name="genre">Operas</field>
+<field name="title">Mik Ier</field>
+<field name="titleSort">Mik Ier</field>
+<field name="composer">Willy Redstone</field>
+<field name="composerSort">Redstone, Willy</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Charles-Antoine Carpentier</field>
+<field name="librettistSort">Carpentier, Charles-Antoine</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mik+Ier+Willy+Redstone&amp;search_field=search</field>
+</doc>
+</add>

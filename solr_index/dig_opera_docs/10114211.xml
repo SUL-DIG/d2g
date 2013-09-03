@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114211</field>
+<field name="genre">Operas</field>
+<field name="title">"Joseph Hayden, ou La tempête</field>
+<field name="titleSort">"Joseph Hayden, ou La tempête"</field>
+<field name="composer">Charles Hetzel</field>
+<field name="composerSort">Hetzel, Charles</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Eugène Bonnemère</field>
+<field name="librettistSort">Bonnemère, Eugène</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joseph+Hayden,+ou+La+tempête+Charles+Hetzel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131893</field>
+<field name="genre">Operas</field>
+<field name="title">"Les chevaliers, ou Le prix de l'arc</field>
+<field name="titleSort">"chevaliers, ou Le prix de l'arc"</field>
+<field name="composer">Pierre Emmanuel Verheyen</field>
+<field name="composerSort">Verheyen, Pierre Emmanuel</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chevaliers,+ou+Le+prix+de+l'arc+Pierre+Emmanuel+Verheyen&amp;search_field=search</field>
+</doc>
+</add>

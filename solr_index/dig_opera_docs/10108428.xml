@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108428</field>
+<field name="genre">Operas</field>
+<field name="title">Der Alte kommt!</field>
+<field name="titleSort">Alte kommt!</field>
+<field name="composer">Friedrich Duncker</field>
+<field name="composerSort">Duncker, Friedrich</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Max Feldberg</field>
+<field name="librettistSort">Feldberg, Max</field>
+<field name="librettist">Alexander Tyrkowski</field>
+<field name="librettistSort">Tyrkowski, Alexander</field>
+<field name="theater">Carl-Weiss-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Alte+kommt!+Friedrich+Duncker&amp;search_field=search</field>
+</doc>
+</add>

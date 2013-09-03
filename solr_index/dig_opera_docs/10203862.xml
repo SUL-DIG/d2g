@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203862</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Francisco Solano</field>
+		<field name="titleSort">San Francisco Solano</field>
+		<field name="year">1936</field>
+		
+		
+		<field name="date">1936</field>
+		<field name="composer">Constantino Gaito</field>
+		<field name="composerSort">Gaito, Constantino</field>
+		<field name="librettist">Gastón Talamón</field>
+		<field name="librettistSort">Talamón, Gastón</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Francis Solano</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">14</field>
+		<field name="feastDate">July 14</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francisco+Solano+Constantino+Gaito&amp;search_field=search</field>
+	</doc></add>

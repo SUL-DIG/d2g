@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100196</field>
+<field name="genre">Operas</field>
+<field name="title">The Telltale Heart</field>
+<field name="titleSort">Telltale Heart</field>
+<field name="composer">Bruce Adolphe</field>
+<field name="composerSort">Adolphe, Bruce</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Bruce Adolphe</field>
+<field name="librettistSort">Adolphe, Bruce</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">New England Conservatory</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Telltale+Heart+Bruce+Adolphe&amp;search_field=search</field>
+</doc>
+</add>

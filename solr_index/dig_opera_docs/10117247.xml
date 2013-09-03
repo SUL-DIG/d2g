@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117247</field>
+<field name="genre">Operas</field>
+<field name="title">L'homme de la Forêt noire</field>
+<field name="titleSort">homme de la Forêt noire</field>
+<field name="composer">J. Lanusse</field>
+<field name="composerSort">Lanusse, J.</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Frédéric Dupetit-Méré</field>
+<field name="librettistSort">Dupetit-Méré, Frédéric</field>
+<field name="librettist">Jean-Bernard-Eugène Cantiran de Boirie</field>
+<field name="librettistSort">Cantiran de Boirie, Jean-Bernard-Eugène </field>
+<field name="theater">Salle de Jeux-Forains</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'homme+de+la+Forêt+noire+J.+Lanusse&amp;search_field=search</field>
+</doc>
+</add>

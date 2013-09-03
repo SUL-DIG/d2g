@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116088</field>
+<field name="genre">Operas</field>
+<field name="title">Archy and Mehitabel</field>
+<field name="titleSort">Archy and Mehitabel</field>
+<field name="composer">George Kleinsinger</field>
+<field name="composerSort">Kleinsinger, George</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Joseph Darion</field>
+<field name="librettistSort">Darion, Joseph</field>
+<field name="librettist">Don Marquis</field>
+<field name="librettistSort">Marquis, Don</field>
+<field name="theater">Little Orchestra Society</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Archy+and+Mehitabel+George+Kleinsinger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115776</field>
+<field name="genre">Operas</field>
+<field name="title">Powrót (Return)</field>
+<field name="titleSort">Powrót (Return)</field>
+<field name="composer">Stanislaw Kazuro</field>
+<field name="composerSort">Kazuro, Stanislaw</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Stanislaw Kazuro</field>
+<field name="librettistSort">Kazuro, Stanislaw</field>
+
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Powrót+Return+Stanislaw+Kazuro&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200825</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David and Jonathan</field>
+		<field name="titleSort">David and Jonathan</field>
+		<field name="year">1761</field>
+		<field name="month">January</field>
+		<field name="day">28</field>
+		<field name="date">January 28, 1761</field>
+		<field name="composer">Charles Barbandt</field>
+		<field name="composerSort">Barbandt, Charles</field>
+		
+		
+		<field name="theater">Little Theatre in the Haymarket</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Jonathan, son of Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+and+Jonathan+Charles+Barbandt&amp;search_field=search</field>
+	</doc></add>

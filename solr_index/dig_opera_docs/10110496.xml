@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110496</field>
+<field name="genre">Operas</field>
+<field name="title">Le service personnel</field>
+<field name="titleSort">service personnel</field>
+<field name="composer">Louis Frémaux</field>
+<field name="composerSort">Frémaux, Louis</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Harry Enthoven</field>
+<field name="librettistSort">Enthoven, Harry</field>
+<field name="theater">Théâtre de la Cigale</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+service+personnel+Louis+Frémaux&amp;search_field=search</field>
+</doc>
+</add>

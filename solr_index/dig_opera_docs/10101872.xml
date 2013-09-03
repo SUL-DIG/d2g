@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101872</field>
+<field name="genre">Operas</field>
+<field name="title">L'école des femmes</field>
+<field name="titleSort">école des femmes</field>
+<field name="composer">François Barbot</field>
+<field name="composerSort">Barbot, François</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">François Barbot</field>
+<field name="librettistSort">Barbot, François</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'école+des+femmes+François+Barbot&amp;search_field=search</field>
+</doc>
+</add>

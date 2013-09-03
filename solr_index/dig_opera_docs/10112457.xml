@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112457</field>
+<field name="genre">Operas</field>
+<field name="title">Mireille</field>
+<field name="titleSort">Mireille</field>
+<field name="composer">Charles Gounod</field>
+<field name="composerSort">Gounod, Charles</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="librettist">Frédéric Mistral</field>
+<field name="librettistSort">Mistral, Frédéric</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mireille+Charles+Gounod&amp;search_field=search</field>
+</doc>
+</add>

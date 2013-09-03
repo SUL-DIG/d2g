@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117476</field>
+<field name="genre">Operas</field>
+<field name="title">Il rapimento delle spose veneziane</field>
+<field name="titleSort">rapimento delle spose veneziane</field>
+<field name="composer">Gaetano de Lauretis</field>
+<field name="composerSort">Lauretis, Gaetano de</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Pio Barbieri</field>
+<field name="librettistSort">Barbieri, Pio</field>
+<field name="theater">Teatro Traiano</field>
+<field name="city">Civitavecchia</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+rapimento+delle+spose+veneziane+Gaetano+de+Lauretis&amp;search_field=search</field>
+</doc>
+</add>

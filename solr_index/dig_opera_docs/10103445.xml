@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103445</field>
+<field name="genre">Operas</field>
+<field name="title">Mefistofele</field>
+<field name="titleSort">Mefistofele</field>
+<field name="composer">Arrigo Boito</field>
+<field name="composerSort">Boito, Arrigo</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Arrigo Boito</field>
+<field name="librettistSort">Boito, Arrigo</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mefistofele+Arrigo+Boito&amp;search_field=search</field>
+</doc>
+</add>

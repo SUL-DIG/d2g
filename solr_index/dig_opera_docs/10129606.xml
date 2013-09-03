@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129606</field>
+<field name="genre">Operas</field>
+<field name="title">L'alcatrasso geloso</field>
+<field name="titleSort">alcatrasso geloso</field>
+<field name="composer">Alessandro Spinazzari</field>
+<field name="composerSort">Spinazzari, Alessandro</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Carlo Antonio Marchesini</field>
+<field name="librettistSort">Marchesini, Carlo Antonio</field>
+
+<field name="city">Vicenza</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'alcatrasso+geloso+Alessandro+Spinazzari&amp;search_field=search</field>
+</doc>
+</add>

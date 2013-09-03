@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120339</field>
+<field name="genre">Operas</field>
+<field name="title">La rappressaglia</field>
+<field name="titleSort">rappressaglia</field>
+<field name="composer">Saverio Mercadante</field>
+<field name="composerSort">Mercadante, Saverio</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Cadiz</field>
+<field name="region">Andalucia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rappressaglia+Saverio+Mercadante&amp;search_field=search</field>
+</doc>
+</add>

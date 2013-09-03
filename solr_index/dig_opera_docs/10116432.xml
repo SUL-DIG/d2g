@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116432</field>
+<field name="genre">Operas</field>
+<field name="title">A Pipacsósz király</field>
+<field name="titleSort">Pipacsósz király</field>
+<field name="composer">Géza Köszeghi</field>
+<field name="composerSort">Köszeghi, Géza</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Johann Sziklai</field>
+<field name="librettistSort">Sziklai, Johann</field>
+<field name="librettist">Hippolyt August Schaufert</field>
+<field name="librettistSort">Schaufert, Hippolyt August</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Pipacsósz+király+Géza+Köszeghi&amp;search_field=search</field>
+</doc>
+</add>

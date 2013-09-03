@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106811</field>
+<field name="genre">Operas</field>
+<field name="title">"Harold, or The Norman Conquest</field>
+<field name="titleSort">"Harold, or The Norman Conquest"</field>
+<field name="composer">Frederick Hymen Cowen</field>
+<field name="composerSort">Cowen, Frederick Hymen</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Edward Malet</field>
+<field name="librettistSort">Malet, Edward</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Harold,+or+The+Norman+Conquest+Frederick+Hymen+Cowen&amp;search_field=search</field>
+</doc>
+</add>

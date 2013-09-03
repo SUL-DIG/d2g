@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108003</field>
+<field name="genre">Operas</field>
+<field name="title">William Ratcliff</field>
+<field name="titleSort">William Ratcliff</field>
+<field name="composer">Cornelis Dopper</field>
+<field name="composerSort">Dopper, Cornelis</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=William+Ratcliff+Cornelis+Dopper&amp;search_field=search</field>
+</doc>
+</add>

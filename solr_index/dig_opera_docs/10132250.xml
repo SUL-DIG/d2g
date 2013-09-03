@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132250</field>
+<field name="genre">Operas</field>
+<field name="title">Maréja</field>
+<field name="titleSort">Maréja</field>
+<field name="composer">Jaroslav Vogel</field>
+<field name="composerSort">Vogel, Jaroslav</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Jaroslav Vogel</field>
+<field name="librettistSort">Vogel, Jaroslav</field>
+<field name="librettist">Antonio Betramelli</field>
+<field name="librettistSort">Betramelli, Antonio</field>
+<field name="theater">Olomoucké Divadlo</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maréja+Jaroslav+Vogel&amp;search_field=search</field>
+</doc>
+</add>

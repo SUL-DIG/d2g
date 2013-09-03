@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103190</field>
+<field name="genre">Operas</field>
+<field name="title">Excitement at the Circus</field>
+<field name="titleSort">Excitement at the Circus</field>
+<field name="composer">Allan Blank</field>
+<field name="composerSort">Blank, Allan</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Irving Leitner</field>
+<field name="librettistSort">Leitner, Irving</field>
+
+<field name="city">Patterson</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Excitement+at+the+Circus+Allan+Blank&amp;search_field=search</field>
+</doc>
+</add>

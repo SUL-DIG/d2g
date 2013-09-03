@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120605</field>
+<field name="genre">Operas</field>
+<field name="title">O contratador de diamantes</field>
+<field name="titleSort">contratador de diamantes</field>
+<field name="composer">Francisco Mignone</field>
+<field name="composerSort">Mignone, Francisco</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Gerolamo Bottoni</field>
+<field name="librettistSort">Bottoni, Gerolamo</field>
+<field name="librettist">Afonso Arinos</field>
+<field name="librettistSort">Arinos, Afonso</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+contratador+de+diamantes+Francisco+Mignone&amp;search_field=search</field>
+</doc>
+</add>

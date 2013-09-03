@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110342</field>
+<field name="genre">Operas</field>
+<field name="title">Wishing Bone</field>
+<field name="titleSort">Wishing Bone</field>
+<field name="composer">Thomas Fraioli</field>
+<field name="composerSort">Fraioli, Thomas</field>
+<field name="year">1992</field>
+<field name="date">1992</field><field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wishing+Bone+Thomas+Fraioli&amp;search_field=search</field>
+</doc>
+</add>

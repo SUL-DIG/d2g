@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111065</field>
+<field name="genre">Operas</field>
+<field name="title">Le voiturier</field>
+<field name="titleSort">voiturier</field>
+<field name="composer">[Louis Ronger] Gardel-Hervé</field>
+<field name="composerSort">Gardel-Hervé, [Louis Ronger]</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">[Louis Ronger] Gardel-Hervé</field>
+<field name="librettistSort">Gardel-Hervé, [Louis Ronger]</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+voiturier+Louis+Ronger]+Gardel-Hervé&amp;search_field=search</field>
+</doc>
+</add>

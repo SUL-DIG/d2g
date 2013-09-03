@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100854</field>
+<field name="genre">Operas</field>
+<field name="title">Das Mädchen im Eichtale</field>
+<field name="titleSort">Mädchen im Eichtale</field>
+<field name="composer">Ferdinand d'Antoine</field>
+<field name="composerSort">d'Antoine, Ferdinand</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">John Burgoyne</field>
+<field name="librettistSort">Burgoyne, John</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Mädchen+im+Eichtale+Ferdinand+d'Antoine&amp;search_field=search</field>
+</doc>
+</add>

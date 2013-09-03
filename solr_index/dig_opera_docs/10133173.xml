@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133173</field>
+<field name="genre">Operas</field>
+<field name="title">Pechvogel</field>
+<field name="titleSort">Pechvogel</field>
+<field name="composer">Franz Alphons Wolpert</field>
+<field name="composerSort">Wolpert, Franz Alphons</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Franz Alphons Wolpert</field>
+<field name="librettistSort">Wolpert, Franz Alphons</field>
+<field name="librettist">Richard von Volkmann-Leander</field>
+<field name="librettistSort">Volkmann-Leander, Richard von</field>
+<field name="theater">ARD Radio (Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands)</field>
+
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pechvogel+Franz+Alphons+Wolpert&amp;search_field=search</field>
+</doc>
+</add>

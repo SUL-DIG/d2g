@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132493</field>
+<field name="genre">Operas</field>
+<field name="title">Das Wildpret</field>
+<field name="titleSort">Wildpret</field>
+<field name="composer">Ignaz Walter</field>
+<field name="composerSort">Walter, Ignaz</field>
+<field name="year">1799</field>
+<field name="date">1799</field><field name="theater">Nationaltheater</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wildpret+Ignaz+Walter&amp;search_field=search</field>
+</doc>
+</add>

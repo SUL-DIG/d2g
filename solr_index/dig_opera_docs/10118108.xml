@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118108</field>
+<field name="genre">Operas</field>
+<field name="title">Slawina von Pommern</field>
+<field name="titleSort">Slawina von Pommern</field>
+<field name="composer">Johann Georg Lickl</field>
+<field name="composerSort">Lickl, Johann Georg</field>
+<field name="year">1812</field>
+<field name="date">1812</field><field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slawina+von+Pommern+Johann+Georg+Lickl&amp;search_field=search</field>
+</doc>
+</add>

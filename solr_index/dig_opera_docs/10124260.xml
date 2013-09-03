@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124260</field>
+<field name="genre">Operas</field>
+<field name="title">Basi e bote</field>
+<field name="titleSort">Basi e bote</field>
+<field name="composer">Riccardo Pick-Mangiagalli</field>
+<field name="composerSort">Pick-Mangiagalli, Riccardo</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Arrigo Boito</field>
+<field name="librettistSort">Boito, Arrigo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Basi+e+bote+Riccardo+Pick-Mangiagalli&amp;search_field=search</field>
+</doc>
+</add>

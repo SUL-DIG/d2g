@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103238</field>
+<field name="genre">Operas</field>
+<field name="title">The Olympians</field>
+<field name="titleSort">Olympians</field>
+<field name="composer">Arthur Bliss</field>
+<field name="composerSort">Bliss, Arthur</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">John Boynton Priestley</field>
+<field name="librettistSort">Priestley, John Boynton</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Olympians+Arthur+Bliss&amp;search_field=search</field>
+</doc>
+</add>

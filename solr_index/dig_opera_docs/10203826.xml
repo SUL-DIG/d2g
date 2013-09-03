@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203826</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Casimiro, re di Polonia</field>
+		<field name="titleSort">San Casimiro, re di Polonia</field>
+		<field name="year">1704</field>
+		<field name="month">September</field>
+		<field name="day">12</field>
+		<field name="date">September 12, 1704</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		
+		
+		<field name="theater">Palazzo Zuccari</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Casimir</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">March 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Casimiro,+re+di+Polonia+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

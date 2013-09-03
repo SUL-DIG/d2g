@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131798</field>
+<field name="genre">Operas</field>
+<field name="title">La bataille d'amour</field>
+<field name="titleSort">bataille d'amour</field>
+<field name="composer">Auguste Emmanuel Vaucorbeil</field>
+<field name="composerSort">Vaucorbeil, Auguste Emmanuel</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Charles Daclin</field>
+<field name="librettistSort">Daclin, Charles</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bataille+d'amour+Auguste+Emmanuel+Vaucorbeil&amp;search_field=search</field>
+</doc>
+</add>

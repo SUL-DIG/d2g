@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118962</field>
+<field name="genre">Operas</field>
+<field name="title">Rosmonda d'Inghilterra</field>
+<field name="titleSort">Rosmonda d'Inghilterra</field>
+<field name="composer">Luigi Majocchi</field>
+<field name="composerSort">Majocchi, Luigi</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosmonda+d'Inghilterra+Luigi+Majocchi&amp;search_field=search</field>
+</doc>
+</add>

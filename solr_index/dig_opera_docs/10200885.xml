@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200885</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davidis erga filios invita patientia</field>
+		<field name="titleSort">Davidis erga filios invita patientia</field>
+		<field name="year">1700</field>
+		
+		
+		<field name="date">1700</field>
+		<field name="composer">Francesco Balada</field>
+		<field name="composerSort">Balada, Francesco</field>
+		<field name="librettist">Domenico Renda</field>
+		<field name="librettistSort">Renda, Domenico</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and his Sons</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davidis+erga+filios+invita+patientia+Francesco+Balada&amp;search_field=search</field>
+	</doc></add>

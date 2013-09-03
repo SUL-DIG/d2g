@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126103</field>
+<field name="genre">Operas</field>
+<field name="title">Traumjörgs Reise ins Frühlingsland</field>
+<field name="titleSort">Traumjörgs Reise ins Frühlingsland</field>
+<field name="composer">Richard Richter</field>
+<field name="composerSort">Richter, Richard</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Friedrich Langer-Egye</field>
+<field name="librettistSort">Langer-Egye, Friedrich</field>
+<field name="theater">Albert-Theater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Traumjörgs+Reise+ins+Frühlingsland+Richard+Richter&amp;search_field=search</field>
+</doc>
+</add>

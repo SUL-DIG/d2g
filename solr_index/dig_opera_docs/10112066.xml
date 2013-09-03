@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112066</field>
+<field name="genre">Operas</field>
+<field name="title">Das Grosse Ei</field>
+<field name="titleSort">Grosse Ei</field>
+<field name="composer">Walter Girnatis</field>
+<field name="composerSort">Girnatis, Walter</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Erich Colberg</field>
+<field name="librettistSort">Colberg, Erich</field>
+<field name="librettist">Franz Pocci</field>
+<field name="librettistSort">Pocci, Franz</field>
+
+<field name="city">Soltau</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Grosse+Ei+Walter+Girnatis&amp;search_field=search</field>
+</doc>
+</add>

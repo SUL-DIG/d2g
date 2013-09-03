@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103487</field>
+<field name="genre">Operas</field>
+<field name="title">Il tutore ed il diavolo</field>
+<field name="titleSort">tutore ed il diavolo</field>
+<field name="composer">Pietro Bona</field>
+<field name="composerSort">Bona, Pietro</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Giovanni Schmidt</field>
+<field name="librettistSort">Schmidt, Giovanni</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tutore+ed+il+diavolo+Pietro+Bona&amp;search_field=search</field>
+</doc>
+</add>

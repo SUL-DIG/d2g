@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201431</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Les fureurs de Saül</field>
+		<field name="titleSort">fureurs de Saül</field>
+		<field name="year">1759</field>
+		
+		
+		<field name="date">1759</field>
+		<field name="composer">Jean-Joseph Cassanéa de Mondonville</field>
+		<field name="composerSort">Mondonville, Jean-Joseph Cassanéa de</field>
+		<field name="librettist">Claude-Henri de Fuzée de Voisenon</field>
+		<field name="librettistSort">Voisenon, Claude-Henri de F</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Saul tormented by an Evil Spirit</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fureurs+de+Saül+Jean-Joseph+Cassanéa+de+Mondonville&amp;search_field=search</field>
+	</doc></add>

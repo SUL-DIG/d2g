@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102923</field>
+<field name="genre">Operas</field>
+<field name="title">Lo stravagante inglese</field>
+<field name="titleSort">stravagante inglese</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">[Giovanino Greppi] Florimondo Ermioneo</field>
+<field name="librettistSort">Ermioneo, Florimondo [Giovanino Greppi]</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+stravagante+inglese+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100845</field>
+<field name="genre">Operas</field>
+<field name="title">Le dernier des Chippeways</field>
+<field name="titleSort">dernier des Chippeways</field>
+<field name="composer">Eugène Jean Baptiste Anthiome</field>
+<field name="composerSort">Anthiome, Eugène Jean Baptiste</field>
+<field name="year">1876</field>
+<field name="date">1876</field><field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+dernier+des+Chippeways+Eugène+Jean+Baptiste+Anthiome&amp;search_field=search</field>
+</doc>
+</add>

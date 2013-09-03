@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202334</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Judith, or The Regeneration of Manassah</field>
+		<field name="titleSort">Judith, or The Regeneration of Manassah</field>
+		<field name="year">1888</field>
+		<field name="month">August</field>
+		<field name="day">29</field>
+		<field name="date">August 29, 1888</field>
+		<field name="composer">Hubert Parry</field>
+		<field name="composerSort">Parry, Hubert</field>
+		<field name="librettist">Hubert Parry</field>
+		<field name="librettistSort">Parry, Hubert</field>
+		
+		<field name="theater">Birmingham Triennial Festival</field>
+		<field name="city">Birmingham</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith,+or+The+Regeneration+of+Manassah+Hubert+Parry&amp;search_field=search</field>
+	</doc></add>

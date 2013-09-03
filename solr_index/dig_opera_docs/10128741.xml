@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128741</field>
+<field name="genre">Operas</field>
+<field name="title">Sarabes</field>
+<field name="titleSort">Sarabes</field>
+<field name="composer">Jacopo Scolart</field>
+<field name="composerSort">Scolart, Jacopo</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Gaetano Sertor</field>
+<field name="librettistSort">Sertor, Gaetano</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sarabes+Jacopo+Scolart&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107386</field>
+<field name="genre">Operas</field>
+<field name="title">Prince Marcocana</field>
+<field name="titleSort">Prince Marcocana</field>
+<field name="composer">[Isidore Cohen] Isidore De Lara</field>
+<field name="composerSort">Lara, [Isidore Cohen] Isidore De</field>
+<field name="year">1927</field>
+<field name="date">1927</field><field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prince+Marcocana+Isidore+Cohen]+Isidore+De+Lara&amp;search_field=search</field>
+</doc>
+</add>

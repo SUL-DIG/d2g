@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112394</field>
+<field name="genre">Operas</field>
+<field name="title">Der Paria</field>
+<field name="titleSort">Paria</field>
+<field name="composer">Albert Gorter</field>
+<field name="composerSort">Gorter, Albert</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Michael Beer</field>
+<field name="librettistSort">Beer, Michael</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Paria+Albert+Gorter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131783</field>
+<field name="genre">Operas</field>
+<field name="title">Mon mouchoir</field>
+<field name="titleSort">Mon mouchoir</field>
+<field name="composer">Léon Vasseur</field>
+<field name="composerSort">Vasseur, Léon</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Adolphe Jaime</field>
+<field name="librettistSort">Jaime, Adolphe</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mon+mouchoir+Léon+Vasseur&amp;search_field=search</field>
+</doc>
+</add>

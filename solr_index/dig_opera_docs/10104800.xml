@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104800</field>
+<field name="genre">Operas</field>
+<field name="title">La hacienda</field>
+<field name="titleSort">hacienda</field>
+<field name="composer">Pompeyo Camps</field>
+<field name="composerSort">Camps, Pompeyo</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Pompeyo Camps</field>
+<field name="librettistSort">Camps, Pompeyo</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+hacienda+Pompeyo+Camps&amp;search_field=search</field>
+</doc>
+</add>

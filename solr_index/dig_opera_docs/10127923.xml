@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127923</field>
+<field name="genre">Operas</field>
+<field name="title">"Griselda, marchesana di Saluzzo</field>
+<field name="titleSort">"Griselda, marchesana di Saluzzo"</field>
+<field name="composer">Oronzo Mario Scarano</field>
+<field name="composerSort">Scarano, Oronzo Mario</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistSort">Boccaccio, Giovanni</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griselda,+marchesana+di+Saluzzo+Oronzo+Mario+Scarano&amp;search_field=search</field>
+</doc>
+</add>

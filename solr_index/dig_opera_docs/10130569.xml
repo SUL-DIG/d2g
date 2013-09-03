@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130569</field>
+<field name="genre">Operas</field>
+<field name="title">Il fumo senza arresto</field>
+<field name="titleSort">fumo senza arresto</field>
+<field name="composer">Giuseppe Tamagni</field>
+<field name="composerSort">Tamagni, Giuseppe</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="city">Bagnacavallo</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fumo+senza+arresto+Giuseppe+Tamagni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133069</field>
+<field name="genre">Operas</field>
+<field name="title">"Léonidas, ou La cruauté mentale</field>
+<field name="titleSort">"Léonidas, ou La cruauté mentale"</field>
+<field name="composer">Pierre Wissmer</field>
+<field name="composerSort">Wissmer, Pierre</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Pierre Wissmer</field>
+<field name="librettistSort">Wissmer, Pierre</field>
+<field name="librettist">Rostislav Hofmann</field>
+<field name="librettistSort">Hofmann, Rostislav</field>
+
+<field name="city">Verdun-sur-Meuse</field>
+<field name="region">Meuse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Léonidas,+ou+La+cruauté+mentale+Pierre+Wissmer&amp;search_field=search</field>
+</doc>
+</add>

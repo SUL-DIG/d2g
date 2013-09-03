@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121270</field>
+<field name="genre">Operas</field>
+<field name="title">Adelia di Monferrato</field>
+<field name="titleSort">Adelia di Monferrato</field>
+<field name="composer">Luigi Moroni</field>
+<field name="composerSort">Moroni, Luigi</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Carlo d'Ormeville</field>
+<field name="librettistSort">d'Ormeville, Carlo</field>
+<field name="theater">Societа Musica Romana</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelia+di+Monferrato+Luigi+Moroni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125919</field>
+<field name="genre">Operas</field>
+<field name="title">Die Herzenswahl</field>
+<field name="titleSort">Herzenswahl</field>
+<field name="composer">Wilhelm Reuling</field>
+<field name="composerSort">Reuling, Wilhelm</field>
+<field name="year">1832</field>
+<field name="date">1832</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Herzenswahl+Wilhelm+Reuling&amp;search_field=search</field>
+</doc>
+</add>

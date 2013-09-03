@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119223</field>
+<field name="genre">Operas</field>
+<field name="title">Don Crepuscolo</field>
+<field name="titleSort">Don Crepuscolo</field>
+<field name="composer">Nikolaos Halikiopoulos Mantzaros</field>
+<field name="composerSort">Mantzaros, Nikolaos Halikiopoulos</field>
+<field name="year">1815</field>
+<field name="date">1815</field><field name="theater">Teatro San Giacomo</field>
+<field name="city">Corfu</field>
+<field name="region">Kérkira</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Crepuscolo+Nikolaos+Halikiopoulos+Mantzaros&amp;search_field=search</field>
+</doc>
+</add>

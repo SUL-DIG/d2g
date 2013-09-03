@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122704</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore industrioso</field>
+<field name="titleSort">amore industrioso</field>
+<field name="composer">Bernardo Ottani</field>
+<field name="composerSort">Ottani, Bernardo</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Gaetano Casorri</field>
+<field name="librettistSort">Casorri, Gaetano</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+industrioso+Bernardo+Ottani&amp;search_field=search</field>
+</doc>
+</add>

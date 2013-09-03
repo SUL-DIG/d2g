@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120060</field>
+<field name="genre">Operas</field>
+<field name="title">The Magic Cup</field>
+<field name="titleSort">Magic Cup</field>
+<field name="composer">Edward McKenna</field>
+<field name="composerSort">McKenna, Edward</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Andrew Greeley</field>
+<field name="librettistSort">Greeley, Andrew</field>
+<field name="theater">Opera Factory</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Magic+Cup+Edward+McKenna&amp;search_field=search</field>
+</doc>
+</add>

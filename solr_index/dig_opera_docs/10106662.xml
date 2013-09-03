@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106662</field>
+<field name="genre">Operas</field>
+<field name="title">La Briseida</field>
+<field name="titleSort">Briseida</field>
+<field name="composer">Francesco Corradini</field>
+<field name="composerSort">Corradini, Francesco</field>
+<field name="year">1745</field>
+<field name="date">1745</field><field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Briseida+Francesco+Corradini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128040</field>
+<field name="genre">Operas</field>
+<field name="title">L'Irene</field>
+<field name="titleSort">Irene</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1704</field>
+<field name="date">1704</field>
+<field name="librettist">Giulio Convò</field>
+<field name="librettistSort">Convò, Giulio</field>
+<field name="librettist">Girolamo Frigimelica Roberti</field>
+<field name="librettistSort">Frigimelica Roberti, Girolamo</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Irene+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

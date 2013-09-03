@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108553</field>
+<field name="genre">Operas</field>
+<field name="title">To Be Sung</field>
+<field name="titleSort">To Be Sung</field>
+<field name="composer">Pascal Dusapin</field>
+<field name="composerSort">Dusapin, Pascal</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Pascal Dusapin</field>
+<field name="librettistSort">Dusapin, Pascal</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+<field name="theater">Théâtre Amandiers</field>
+<field name="city">Nanterre</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Be+Sung+Pascal+Dusapin&amp;search_field=search</field>
+</doc>
+</add>

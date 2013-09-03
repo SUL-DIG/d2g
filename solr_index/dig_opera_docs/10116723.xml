@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116723</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kornet</field>
+<field name="titleSort">Kornet</field>
+<field name="composer">Josef Küffner</field>
+<field name="composerSort">Küffner, Josef</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">H. Fuchs</field>
+<field name="librettistSort">Fuchs, H.</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Würzburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kornet+Josef+Küffner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107453</field>
+<field name="genre">Operas</field>
+<field name="title">L'opéra comique</field>
+<field name="titleSort">opéra comique</field>
+<field name="composer">Dominique Della Maria</field>
+<field name="composerSort">Maria, Dominique Della</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Alexandre de Ségur</field>
+<field name="librettistSort">Ségur, Alexandre de</field>
+<field name="librettist">[Louis-Emmanuel Mercier] Dupaty</field>
+<field name="librettistSort">Dupaty, [Louis-Emmanuel Mercier]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'opéra+comique+Dominique+Della+Maria&amp;search_field=search</field>
+</doc>
+</add>

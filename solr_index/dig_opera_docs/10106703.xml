@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106703</field>
+<field name="genre">Operas</field>
+<field name="title">Le notti bianche</field>
+<field name="titleSort">notti bianche</field>
+<field name="composer">Luigi Cortese</field>
+<field name="composerSort">Cortese, Luigi</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Luigi Cortese</field>
+<field name="librettistSort">Cortese, Luigi</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+notti+bianche+Luigi+Cortese&amp;search_field=search</field>
+</doc>
+</add>

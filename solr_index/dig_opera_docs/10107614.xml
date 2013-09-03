@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107614</field>
+<field name="genre">Operas</field>
+<field name="title">Myrtil et Lycoris</field>
+<field name="titleSort">Myrtil et Lycoris</field>
+<field name="composer">Léopold-Bastien Desormery</field>
+<field name="composerSort">Desormery, Léopold-Bastien</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Maximilien-Jean Boutellier</field>
+<field name="librettistSort">Boutellier, Maximilien-Jean</field>
+<field name="librettist">__ Boquet de Liancourt</field>
+<field name="librettistSort">Boquet de Liancourt, __</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myrtil+et+Lycoris+Léopold-Bastien+Desormery&amp;search_field=search</field>
+</doc>
+</add>

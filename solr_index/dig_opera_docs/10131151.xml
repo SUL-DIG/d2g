@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131151</field>
+<field name="genre">Operas</field>
+<field name="title">Der Sonderling</field>
+<field name="titleSort">Sonderling</field>
+<field name="composer">Johann Tost</field>
+<field name="composerSort">Tost, Johann</field>
+<field name="year">1788</field>
+<field name="date">1788</field><field name="theater">Privattheater der Grafen Erdödy</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sonderling+Johann+Tost&amp;search_field=search</field>
+</doc>
+</add>

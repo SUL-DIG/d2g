@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131981</field>
+<field name="genre">Operas</field>
+<field name="title">The Two Violins</field>
+<field name="titleSort">Two Violins</field>
+<field name="composer">Gerard Victory</field>
+<field name="composerSort">Victory, Gerard</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Gerard Victory</field>
+<field name="librettistSort">Victory, Gerard</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Two+Violins+Gerard+Victory&amp;search_field=search</field>
+</doc>
+</add>

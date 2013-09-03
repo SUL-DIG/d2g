@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105187</field>
+<field name="genre">Operas</field>
+<field name="title">The Duchess of Dantzic</field>
+<field name="titleSort">Duchess of Dantzic</field>
+<field name="composer">[Félix Marie Henri Tilkin] Ivan Caryll</field>
+<field name="composerSort">Caryll, [Félix Marie Henri Tilkin] Ivan</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Henry Hamilton</field>
+<field name="librettistSort">Hamilton, Henry</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duchess+of+Dantzic+Félix+Marie+Henri+Tilkin]+Ivan+Caryll&amp;search_field=search</field>
+</doc>
+</add>

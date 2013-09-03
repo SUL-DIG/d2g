@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102106</field>
+<field name="genre">Operas</field>
+<field name="title">I tre mariti</field>
+<field name="titleSort">tre mariti</field>
+<field name="composer">Giovanni Bazzoni</field>
+<field name="composerSort">Bazzoni, Giovanni</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro della Canobbiana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+mariti+Giovanni+Bazzoni&amp;search_field=search</field>
+</doc>
+</add>

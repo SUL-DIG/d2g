@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118982</field>
+<field name="genre">Operas</field>
+<field name="title">Les amours champêtres</field>
+<field name="titleSort">amours champêtres</field>
+<field name="composer">Pierre van Maldere</field>
+<field name="composerSort">Maldere, Pierre van</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Schönbrunner Schlosstheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+amours+champêtres+Pierre+van+Maldere&amp;search_field=search</field>
+</doc>
+</add>

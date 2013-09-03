@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133264</field>
+<field name="genre">Operas</field>
+<field name="title">Chanson gitane</field>
+<field name="titleSort">Chanson gitane</field>
+<field name="composer">Maurice Yvain</field>
+<field name="composerSort">Yvain, Maurice</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">André Mouëzy-Éon</field>
+<field name="librettistSort">Mouëzy-Éon, André</field>
+<field name="librettist">Louis Poterat</field>
+<field name="librettistSort">Poterat, Louis</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chanson+gitane+Maurice+Yvain&amp;search_field=search</field>
+</doc>
+</add>

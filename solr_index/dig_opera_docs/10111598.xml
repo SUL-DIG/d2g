@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111598</field>
+<field name="genre">Operas</field>
+<field name="title">Le bâtard de Cerdagne</field>
+<field name="titleSort">bâtard de Cerdagne</field>
+<field name="composer">Pierre Germain</field>
+<field name="composerSort">Germain, Pierre</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Louis Medjé</field>
+<field name="librettistSort">Medjé, Louis</field>
+
+<field name="city">Brest</field>
+<field name="region">Finistère</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bâtard+de+Cerdagne+Pierre+Germain&amp;search_field=search</field>
+</doc>
+</add>

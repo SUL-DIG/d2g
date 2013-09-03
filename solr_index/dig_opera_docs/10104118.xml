@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104118</field>
+<field name="genre">Operas</field>
+<field name="title">Die feindlichen Nachbarn</field>
+<field name="titleSort">feindlichen Nachbarn</field>
+<field name="composer">Paul Breuer</field>
+<field name="composerSort">Breuer, Paul</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Paul Breuer</field>
+<field name="librettistSort">Breuer, Paul</field>
+<field name="librettist">Wilhelm Busch</field>
+<field name="librettistSort">Busch, Wilhelm</field>
+<field name="theater">Opera der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+feindlichen+Nachbarn+Paul+Breuer&amp;search_field=search</field>
+</doc>
+</add>

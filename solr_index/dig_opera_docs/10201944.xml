@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201944</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Illeta</field>
+		<field name="titleSort">Illeta</field>
+		<field name="year">1955</field>
+		<field name="month">January</field>
+		<field name="day">12</field>
+		<field name="date">January 12, 1955</field>
+		<field name="composer">Francisco Escudero</field>
+		<field name="composerSort">Escudero, Francisco</field>
+		<field name="librettist">Xabier Lizardi</field>
+		<field name="librettistSort">Lizardi, Xabier</field>
+		
+		<field name="theater">Teatro Buenos Aires</field>
+		<field name="city">Bilbao</field>
+		<field name="region">Euskal Herriko</field>
+		<field name="country">Spain</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Illeta+Francisco+Escudero&amp;search_field=search</field>
+	</doc></add>

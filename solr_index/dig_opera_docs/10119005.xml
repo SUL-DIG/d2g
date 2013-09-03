@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119005</field>
+<field name="genre">Operas</field>
+<field name="title">Gli eroi di Bonaventura</field>
+<field name="titleSort">eroi di Bonaventura</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+eroi+di+Bonaventura+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

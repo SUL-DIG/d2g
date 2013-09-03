@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119287</field>
+<field name="genre">Operas</field>
+<field name="title">Il paria</field>
+<field name="titleSort">paria</field>
+<field name="composer">Filippo Marchetti</field>
+<field name="composerSort">Marchetti, Filippo</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+paria+Filippo+Marchetti&amp;search_field=search</field>
+</doc>
+</add>

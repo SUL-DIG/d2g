@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100626</field>
+<field name="genre">Operas</field>
+<field name="title">Maryla</field>
+<field name="titleSort">Maryla</field>
+<field name="composer">Vladimir Ambros</field>
+<field name="composerSort">Ambros, Vladimir</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Alois Jirásek</field>
+<field name="librettistSort">Jirásek, Alois</field>
+<field name="theater">Olomoucké Divadlo</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maryla+Vladimir+Ambros&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116849</field>
+<field name="genre">Operas</field>
+<field name="title">Die Illumination</field>
+<field name="titleSort">Illumination</field>
+<field name="composer">Paul Ignaz Kürzinger</field>
+<field name="composerSort">Kürzinger, Paul Ignaz</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Johann Gross</field>
+<field name="librettistSort">Gross, Johann</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Illumination+Paul+Ignaz+Kürzinger&amp;search_field=search</field>
+</doc>
+</add>

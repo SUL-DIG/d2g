@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202766</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mons divinae claritatis</field>
+		<field name="titleSort">Mons divinae claritatis</field>
+		<field name="year">1757</field>
+		<field name="month">August</field>
+		<field name="day">6</field>
+		<field name="date">August 6, 1757</field>
+		<field name="composer">Gioacchino Cocchi</field>
+		<field name="composerSort">Cocchi, Gioacchino</field>
+		
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mons+divinae+claritatis+Gioacchino+Cocchi&amp;search_field=search</field>
+	</doc></add>

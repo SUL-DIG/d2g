@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118968</field>
+<field name="genre">Operas</field>
+<field name="title">Anju to Zushi-ou (Anju and Zushi-ou)</field>
+<field name="titleSort">Anju to Zushi-ou (Anju and Zushi-ou)</field>
+<field name="composer">Yutaka Makino</field>
+<field name="composerSort">Makino, Yutaka</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Jun Maeda</field>
+<field name="librettistSort">Maeda, Jun</field>
+<field name="librettist">Ogai Mori</field>
+<field name="librettistSort">Mori, Ogai</field>
+<field name="theater">Toshi Center Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anju+to+Zushi-ou+Anju+and+Zushi-ou+Yutaka+Makino&amp;search_field=search</field>
+</doc>
+</add>

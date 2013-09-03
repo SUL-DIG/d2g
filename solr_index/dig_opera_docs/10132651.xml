@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132651</field>
+<field name="genre">Operas</field>
+<field name="title">Ostade oder Adrian von Ostade</field>
+<field name="titleSort">Ostade oder Adrian von Ostade</field>
+<field name="composer">Joseph Weigl</field>
+<field name="composerSort">Weigl, Joseph</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Georg Friedrich Treitschke</field>
+<field name="librettistSort">Treitschke, Georg Friedrich</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ostade+oder+Adrian+von+Ostade+Joseph+Weigl&amp;search_field=search</field>
+</doc>
+</add>

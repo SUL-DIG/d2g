@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114707</field>
+<field name="genre">Operas</field>
+<field name="title">Wind Drum</field>
+<field name="titleSort">Wind Drum</field>
+<field name="composer">Alan Hovhaness</field>
+<field name="composerSort">Hovhaness, Alan</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Alan Hovhaness</field>
+<field name="librettistSort">Hovhaness, Alan</field>
+<field name="theater">University of Hawaii</field>
+<field name="city">Honolulu</field>
+<field name="region">Hawaii</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wind+Drum+Alan+Hovhaness&amp;search_field=search</field>
+</doc>
+</add>

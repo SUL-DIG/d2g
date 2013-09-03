@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115806</field>
+<field name="genre">Operas</field>
+<field name="title">Clelia</field>
+<field name="titleSort">Clelia</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1695</field>
+<field name="date">1695</field>
+<field name="librettist">Friedrich Christian Bressand</field>
+<field name="librettistSort">Bressand, Friedrich Christian</field>
+<field name="theater">Rathaus</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clelia+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

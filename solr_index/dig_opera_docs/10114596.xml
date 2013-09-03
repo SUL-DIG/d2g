@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114596</field>
+<field name="genre">Operas</field>
+<field name="title">The Fair Peruvian</field>
+<field name="titleSort">Fair Peruvian</field>
+<field name="composer">James Hook</field>
+<field name="composerSort">Hook, James</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fair+Peruvian+James+Hook&amp;search_field=search</field>
+</doc>
+</add>

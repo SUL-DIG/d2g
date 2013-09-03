@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128948</field>
+<field name="genre">Operas</field>
+<field name="title">Le camp de Maestricht</field>
+<field name="titleSort">camp de Maestricht</field>
+<field name="composer">Edmond Servel</field>
+<field name="composerSort">Servel, Edmond</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">[Charles-Jean-Marie Bon de Tourtoulon] Charles Rochenat</field>
+<field name="librettistSort">Rochenat, Charles [Charles-Jean-Marie Bon de Tourtoulon]</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+camp+de+Maestricht+Edmond+Servel&amp;search_field=search</field>
+</doc>
+</add>

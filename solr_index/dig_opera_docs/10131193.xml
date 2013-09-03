@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131193</field>
+<field name="genre">Operas</field>
+<field name="title">The Reindeer's Surprise</field>
+<field name="titleSort">Reindeer's Surprise</field>
+<field name="composer">Gerhard Track</field>
+<field name="composerSort">Track, Gerhard</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Roberta Arwood</field>
+<field name="librettistSort">Arwood, Roberta</field>
+
+<field name="city">Pueblo</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Reindeer's+Surprise+Gerhard+Track&amp;search_field=search</field>
+</doc>
+</add>

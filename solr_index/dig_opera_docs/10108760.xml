@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108760</field>
+<field name="genre">Operas</field>
+<field name="title">Die ledige Frau</field>
+<field name="titleSort">ledige Frau</field>
+<field name="composer">Karl Eibenschütz</field>
+<field name="composerSort">Eibenschütz, Karl</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="librettist">Carl Lindau</field>
+<field name="librettistSort">Lindau, Carl</field>
+<field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+ledige+Frau+Karl+Eibenschütz&amp;search_field=search</field>
+</doc>
+</add>

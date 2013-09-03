@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104095</field>
+<field name="genre">Operas</field>
+<field name="title">L'armurier de Tolède</field>
+<field name="titleSort">armurier de Tolède</field>
+<field name="composer">Henri Bresles</field>
+<field name="composerSort">Bresles, Henri</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Ludovic Fortolis</field>
+<field name="librettistSort">Fortolis, Ludovic</field>
+<field name="librettist">Charles Quinel</field>
+<field name="librettistSort">Quinel, Charles</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'armurier+de+Tolède+Henri+Bresles&amp;search_field=search</field>
+</doc>
+</add>

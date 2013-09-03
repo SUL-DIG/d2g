@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131987</field>
+<field name="genre">Operas</field>
+<field name="title">Cristóbal Colón</field>
+<field name="titleSort">Cristóbal Colón</field>
+<field name="composer">Andrés Vidal y Llimona</field>
+<field name="composerSort">Llimona, Andrés Vidal y</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristóbal+Colón+Andrés+Vidal+y+Llimona&amp;search_field=search</field>
+</doc>
+</add>

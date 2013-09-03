@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118733</field>
+<field name="genre">Operas</field>
+<field name="title">Taras Bulba</field>
+<field name="titleSort">Taras Bulba</field>
+<field name="composer">Mykola Vitaliyovych Lysenko</field>
+<field name="composerSort">Lysenko, Mykola Vitaliyovych</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Mykhaylo Petrovych Starytsky</field>
+<field name="librettistSort">Starytsky, Mykhaylo Petrovych</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Russkaya Gosudarstvennaya Opera</field>
+<field name="city">Kharkiv</field>
+<field name="region">Kharkivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Taras+Bulba+Mykola+Vitaliyovych+Lysenko&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119249</field>
+<field name="genre">Operas</field>
+<field name="title">La fiera di Farfa</field>
+<field name="titleSort">fiera di Farfa</field>
+<field name="composer">Marco Marazzoli</field>
+<field name="composerSort">Marazzoli, Marco</field>
+<field name="year">1639</field>
+<field name="date">1639</field><field name="theater">Palazzo Barberini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiera+di+Farfa+Marco+Marazzoli&amp;search_field=search</field>
+</doc>
+</add>

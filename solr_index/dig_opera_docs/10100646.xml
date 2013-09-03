@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100646</field>
+<field name="genre">Operas</field>
+<field name="title">Le sorcier d'Espelette</field>
+<field name="titleSort">sorcier d'Espelette</field>
+<field name="composer">Louis Amouroux</field>
+<field name="composerSort">Amouroux, Louis</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Jean-Santiago de Mégret de Belligny</field>
+<field name="librettistSort">Mégret de Belligny, Jean-Santiago de</field>
+<field name="librettist">Anatole Loquin</field>
+<field name="librettistSort">Loquin, Anatole</field>
+
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sorcier+d'Espelette+Louis+Amouroux&amp;search_field=search</field>
+</doc>
+</add>

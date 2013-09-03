@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120848</field>
+<field name="genre">Operas</field>
+<field name="title">Ulitsa del' korno (Del Corno Street)</field>
+<field name="titleSort">Ulitsa del' korno (Del Corno Street)</field>
+<field name="composer">Kirill Valdimirovich Molchanov</field>
+<field name="composerSort">Molchanov, Kirill Valdimirovich</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Sergey Aleksandrovich Tsenin</field>
+<field name="librettistSort">Tsenin, Sergey Aleksandrovich</field>
+<field name="librettist">Vasco Pratolini</field>
+<field name="librettistSort">Pratolini, Vasco</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Stanislavskogo i Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulitsa+del'+korno+Del+Corno+Street+Kirill+Valdimirovich+Molchanov&amp;search_field=search</field>
+</doc>
+</add>

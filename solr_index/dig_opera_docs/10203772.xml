@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203772</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saint Thomas</field>
+		<field name="titleSort">Saint Thomas</field>
+		<field name="year">1886</field>
+		<field name="month">December</field>
+		
+		<field name="date">December 1886</field>
+		<field name="composer">Nicholas Kilburn</field>
+		<field name="composerSort">Kilburn, Nicholas</field>
+		<field name="librettist">Joseph Powell Metcalfe</field>
+		<field name="librettistSort">Metcalfe, Joseph Powell</field>
+		
+		
+		<field name="city">Auckland</field>
+		
+		<field name="country">New Zealand</field>
+		<field name="subject">Saint Thomas the Apostle</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">3</field>
+		<field name="feastDate">July 3</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saint+Thomas+Nicholas+Kilburn&amp;search_field=search</field>
+	</doc></add>

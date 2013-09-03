@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116763</field>
+<field name="genre">Operas</field>
+<field name="title">Fahrt in die Jugend</field>
+<field name="titleSort">Fahrt in die Jugend</field>
+<field name="composer">Eduard Künneke</field>
+<field name="composerSort">Künneke, Eduard</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Béla Jenbach</field>
+<field name="librettistSort">Jenbach, Béla</field>
+<field name="librettist">Ludwig Hirschfeld</field>
+<field name="librettistSort">Hirschfeld, Ludwig</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fahrt+in+die+Jugend+Eduard+Künneke&amp;search_field=search</field>
+</doc>
+</add>

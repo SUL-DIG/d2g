@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203562</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Redemptionis veritas</field>
+		<field name="titleSort">Redemptionis veritas</field>
+		<field name="year">1766</field>
+		
+		
+		<field name="date">1766</field>
+		<field name="composer">Francesco Brusa</field>
+		<field name="composerSort">Brusa, Francesco</field>
+		
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Redemptionis+veritas+Francesco+Brusa&amp;search_field=search</field>
+	</doc></add>

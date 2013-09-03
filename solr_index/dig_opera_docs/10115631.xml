@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115631</field>
+<field name="genre">Operas</field>
+<field name="title">Sensatsioon</field>
+<field name="titleSort">Sensatsioon</field>
+<field name="composer">Raimo Kangro</field>
+<field name="composerSort">Kangro, Raimo</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Leelo Tungal</field>
+<field name="librettistSort">Tungal, Leelo</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Estonian Television (Eesti Televisioon)</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sensatsioon+Raimo+Kangro&amp;search_field=search</field>
+</doc>
+</add>

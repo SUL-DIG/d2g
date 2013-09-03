@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132915</field>
+<field name="genre">Operas</field>
+<field name="title">Die Eifersucht wider Willen</field>
+<field name="titleSort">Eifersucht wider Willen</field>
+<field name="composer">Norbert Wiesner</field>
+<field name="composerSort">Wiesner, Norbert</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Karl Pohl</field>
+<field name="librettistSort">Pohl, Karl</field>
+<field name="theater">Theater in der Josefstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Eifersucht+wider+Willen+Norbert+Wiesner&amp;search_field=search</field>
+</doc>
+</add>

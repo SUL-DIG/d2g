@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114045</field>
+<field name="genre">Operas</field>
+<field name="title">It Happened in Nordland</field>
+<field name="titleSort">It Happened in Nordland</field>
+<field name="composer">Victor Herbert</field>
+<field name="composerSort">Herbert, Victor</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Glen MacDonough</field>
+<field name="librettistSort">MacDonough, Glen</field>
+<field name="theater">New Lyceum Theater</field>
+<field name="city">Harrisburg</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=It+Happened+in+Nordland+Victor+Herbert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203348</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Per celebrare la festivitа del Santo Natale</field>
+		<field name="titleSort">Per celebrare la festivitа del Santo Natale</field>
+		<field name="year">1806</field>
+		
+		
+		<field name="date">1806</field>
+		<field name="composer">Casimir Anton Cartellieri</field>
+		<field name="composerSort">Cartellieri, Casimir Anton</field>
+		<field name="librettist">Luigi Prividali</field>
+		<field name="librettistSort">Prividali, Luigi</field>
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Per+celebrare+la+festivitа+del+Santo+Natale+Casimir+Anton+Cartellieri&amp;search_field=search</field>
+	</doc></add>

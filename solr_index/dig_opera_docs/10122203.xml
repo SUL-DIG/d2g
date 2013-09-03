@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122203</field>
+<field name="genre">Operas</field>
+<field name="title">O arco de Santa Ana</field>
+<field name="titleSort">arco de Santa Ana</field>
+<field name="composer">Francisco de Sá Noronha</field>
+<field name="composerSort">Noronha, Francisco de Sá</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">António Correia</field>
+<field name="librettistSort">Correia, António</field>
+<field name="librettist">Ernesto Pinto de Almeida</field>
+<field name="librettistSort">Almeida, Ernesto Pinto de</field>
+<field name="theater">Teatro de São João</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+arco+de+Santa+Ana+Francisco+de+Sá+Noronha&amp;search_field=search</field>
+</doc>
+</add>

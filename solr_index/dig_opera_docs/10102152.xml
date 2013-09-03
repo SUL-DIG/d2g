@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102152</field>
+<field name="genre">Operas</field>
+<field name="title">Lukas und Hannchen</field>
+<field name="titleSort">Lukas und Hannchen</field>
+<field name="composer">Johann Friedrich Gottlieb Beckmann</field>
+<field name="composerSort">Beckmann, Johann Friedrich Gottlieb</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Johann Joachim Eschenburg</field>
+<field name="librettistSort">Eschenburg, Johann Joachim</field>
+<field name="theater">Kleines Fürstliches Waisehaus</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lukas+und+Hannchen+Johann+Friedrich+Gottlieb+Beckmann&amp;search_field=search</field>
+</doc>
+</add>

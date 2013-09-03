@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129021</field>
+<field name="genre">Operas</field>
+<field name="title">Pushkin v Mikhaylovskom</field>
+<field name="titleSort">Pushkin v Mikhaylovskom</field>
+<field name="composer">Boris Semyonovich Shekhter</field>
+<field name="composerSort">Shekhter, Boris Semyonovich</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Ivan Alekseyevich Novikov</field>
+<field name="librettistSort">Novikov, Ivan Alekseyevich</field>
+<field name="librettist">Marina Nikolaevna Novikova</field>
+<field name="librettistSort">Novikova, Marina Nikolaevna</field>
+<field name="theater">University Theater</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pushkin+v+Mikhaylovskom+Boris+Semyonovich+Shekhter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105556</field>
+<field name="genre">Operas</field>
+<field name="title">Les espiègleries de garnison</field>
+<field name="titleSort">espiègleries de garnison</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Edmond-Guillaume-François de Favières</field>
+<field name="librettistSort">Favières, Edmond-Guillaume-François de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+espiègleries+de+garnison+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

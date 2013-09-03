@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131149</field>
+<field name="genre">Operas</field>
+<field name="title">Der Jahrmarkt</field>
+<field name="titleSort">Jahrmarkt</field>
+<field name="composer">Johann Tost</field>
+<field name="composerSort">Tost, Johann</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Jahrmarkt+Johann+Tost&amp;search_field=search</field>
+</doc>
+</add>

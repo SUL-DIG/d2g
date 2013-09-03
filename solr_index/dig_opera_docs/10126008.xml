@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126008</field>
+<field name="genre">Operas</field>
+<field name="title">Till Eulenspiegel</field>
+<field name="titleSort">Till Eulenspiegel</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Emil Nikolaus von Reznicek</field>
+<field name="librettistSort">Reznicek, Emil Nikolaus von</field>
+<field name="librettist">Johann Fishart</field>
+<field name="librettistSort">Fishart, Johann</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Till+Eulenspiegel+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118295</field>
+<field name="genre">Operas</field>
+<field name="title">The Inevitable Hour</field>
+<field name="titleSort">Inevitable Hour</field>
+<field name="composer">Normand Lockwood</field>
+<field name="composerSort">Lockwood, Normand</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Russell Porter</field>
+<field name="librettistSort">Porter, Russell</field>
+<field name="theater">University of Denver</field>
+<field name="city">Denver</field>
+<field name="region">Colorado</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Inevitable+Hour+Normand+Lockwood&amp;search_field=search</field>
+</doc>
+</add>

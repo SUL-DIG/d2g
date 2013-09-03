@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204566</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il transito di San Giuseppe</field>
+		<field name="titleSort">transito di San Giuseppe</field>
+		<field name="year">1693</field>
+		
+		
+		<field name="date">1693</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		
+		
+		
+		<field name="city">Innsbruck</field>
+		<field name="region">Tirol</field>
+		<field name="country">Austria</field>
+		<field name="subject">The Flight to Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+transito+di+San+Giuseppe+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

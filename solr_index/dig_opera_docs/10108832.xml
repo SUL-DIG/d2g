@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108832</field>
+<field name="genre">Operas</field>
+<field name="title">Der Lenz is da</field>
+<field name="titleSort">Lenz is da</field>
+<field name="composer">Ernst G. Elsässer</field>
+<field name="composerSort">Elsässer, Ernst G.</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Karl Georg Schubert</field>
+<field name="librettistSort">Schubert, Karl Georg</field>
+<field name="theater">Theater am Hitropwall</field>
+<field name="city">Dortmund</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Lenz+is+da+Ernst+G.+Elsässer&amp;search_field=search</field>
+</doc>
+</add>

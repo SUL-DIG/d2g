@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108775</field>
+<field name="genre">Operas</field>
+<field name="title">Die Wunder</field>
+<field name="titleSort">Wunder</field>
+<field name="composer">Joseph Eidens</field>
+<field name="composerSort">Eidens, Joseph</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Willi Aron</field>
+<field name="librettistSort">Aron, Willi</field>
+<field name="librettist">Bjørnstjerne Bjørnson</field>
+<field name="librettistSort">Bjørnson, Bjørnstjerne</field>
+<field name="theater">Theater am Hitropwall</field>
+<field name="city">Dortmund</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Wunder+Joseph+Eidens&amp;search_field=search</field>
+</doc>
+</add>

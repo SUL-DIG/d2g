@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112443</field>
+<field name="genre">Operas</field>
+<field name="title">L'heritière en loterie</field>
+<field name="titleSort">heritière en loterie</field>
+<field name="composer">Henri Goublier</field>
+<field name="composerSort">Goublier, Henri</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Georges Léglise</field>
+<field name="librettistSort">Léglise, Georges</field>
+<field name="librettist">René Chavanne</field>
+<field name="librettistSort">Chavanne, René</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'heritière+en+loterie+Henri+Goublier&amp;search_field=search</field>
+</doc>
+</add>

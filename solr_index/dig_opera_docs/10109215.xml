@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109215</field>
+<field name="genre">Operas</field>
+<field name="title">"Ginevra, principessa di Scozia</field>
+<field name="titleSort">"Ginevra, principessa di Scozia"</field>
+<field name="composer">Filippo Falconi</field>
+<field name="composerSort">Falconi, Filippo</field>
+<field name="year">1724</field>
+<field name="date">1724</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra,+principessa+di+Scozia+Filippo+Falconi&amp;search_field=search</field>
+</doc>
+</add>

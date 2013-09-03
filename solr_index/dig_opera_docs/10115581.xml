@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115581</field>
+<field name="genre">Operas</field>
+<field name="title">Insect Comedy</field>
+<field name="titleSort">Insect Comedy</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">[Abel Meeropol] Lewis Allan</field>
+<field name="librettistSort">Allan, Lewis [Abel Meeropol]</field>
+<field name="librettist">Karel &amp; Josef Capek</field>
+<field name="librettistSort">Capek, Karel &amp; Josef</field>
+<field name="theater">Hunter College</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Insect+Comedy+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

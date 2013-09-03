@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113938</field>
+<field name="genre">Operas</field>
+<field name="title">Das Milchmädchen und die beiden Jäger</field>
+<field name="titleSort">Milchmädchen und die beiden Jäger</field>
+<field name="composer">Caspar Hellmich</field>
+<field name="composerSort">Hellmich, Caspar</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Christian Friedrich Schwann</field>
+<field name="librettistSort">Schwann, Christian Friedrich</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="theater">Theater in der Taschengasse</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Milchmädchen+und+die+beiden+Jäger+Caspar+Hellmich&amp;search_field=search</field>
+</doc>
+</add>

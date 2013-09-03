@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118816</field>
+<field name="genre">Operas</field>
+<field name="title">The King's Price</field>
+<field name="titleSort">King's Price</field>
+<field name="composer">Alick Maclean</field>
+<field name="composerSort">Maclean, Alick</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Sheridan Ross</field>
+<field name="librettistSort">Ross, Sheridan</field>
+<field name="theater">New Royalty Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+King's+Price+Alick+Maclean&amp;search_field=search</field>
+</doc>
+</add>

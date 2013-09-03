@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107267</field>
+<field name="genre">Operas</field>
+<field name="title">Romolo e Numa</field>
+<field name="titleSort">Romolo e Numa</field>
+<field name="composer">B. De Dominicis</field>
+<field name="composerSort">Dominicis, B. De</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Luigi Scevola</field>
+<field name="librettistSort">Scevola, Luigi</field>
+
+<field name="city">Brescia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romolo+e+Numa+B.+De+Dominicis&amp;search_field=search</field>
+</doc>
+</add>

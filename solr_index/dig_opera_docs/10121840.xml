@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121840</field>
+<field name="genre">Operas</field>
+<field name="title">Les honneurs funèbres</field>
+<field name="titleSort">honneurs funèbres</field>
+<field name="composer">Julien Navoigille</field>
+<field name="composerSort">Navoigille, Julien</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">François-Guillaume Ducray-Duminil</field>
+<field name="librettistSort">Ducray-Duminil, François-Guillaume</field>
+<field name="theater">Théâtre de la Pantomime</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+honneurs+funèbres+Julien+Navoigille&amp;search_field=search</field>
+</doc>
+</add>

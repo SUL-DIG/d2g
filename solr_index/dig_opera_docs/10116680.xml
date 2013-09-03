@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116680</field>
+<field name="genre">Operas</field>
+<field name="title">Der Pfeifer von Hardt</field>
+<field name="titleSort">Pfeifer von Hardt</field>
+<field name="composer">Edgar Krones</field>
+<field name="composerSort">Krones, Edgar</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Julius Niedt</field>
+<field name="librettistSort">Niedt, Julius</field>
+<field name="librettist">Wilhelm Hauff</field>
+<field name="librettistSort">Hauff, Wilhelm</field>
+
+<field name="city">Sibiu</field>
+<field name="region">Sibiu</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Pfeifer+von+Hardt+Edgar+Krones&amp;search_field=search</field>
+</doc>
+</add>

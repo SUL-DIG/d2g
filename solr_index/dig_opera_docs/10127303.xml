@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127303</field>
+<field name="genre">Operas</field>
+<field name="title">Le médecin de l'amour</field>
+<field name="titleSort">médecin de l'amour</field>
+<field name="composer">Louis Joseph Saint-Amans</field>
+<field name="composerSort">Saint-Amans, Louis Joseph</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Pierre-Augustin Lefebvre de Marcouville</field>
+<field name="librettistSort">Marcouville, Pierre-Augustin Lefebvre de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+médecin+de+l'amour+Louis+Joseph+Saint-Amans&amp;search_field=search</field>
+</doc>
+</add>

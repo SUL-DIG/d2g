@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105230</field>
+<field name="genre">Operas</field>
+<field name="title">William Penn</field>
+<field name="titleSort">William Penn</field>
+<field name="composer">Romeo Cascarino</field>
+<field name="composerSort">Cascarino, Romeo</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Peggy Oppenlander</field>
+<field name="librettistSort">Oppenlander, Peggy</field>
+<field name="theater">Academy of Music</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=William+Penn+Romeo+Cascarino&amp;search_field=search</field>
+</doc>
+</add>

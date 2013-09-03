@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110339</field>
+<field name="genre">Operas</field>
+<field name="title">La fleur de lotus</field>
+<field name="titleSort">fleur de lotus</field>
+<field name="composer">Georges Auguste Fragerolle</field>
+<field name="composerSort">Fragerolle, Georges Auguste</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Guillaume Livet</field>
+<field name="librettistSort">Livet, Guillaume</field>
+<field name="theater">Théâtre du Casino des Arts</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fleur+de+lotus+Georges+Auguste+Fragerolle&amp;search_field=search</field>
+</doc>
+</add>

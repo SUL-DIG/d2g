@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110929</field>
+<field name="genre">Operas</field>
+<field name="title">Ifigenia in Tauride</field>
+<field name="titleSort">Ifigenia in Tauride</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Marco Coltellini</field>
+<field name="librettistSort">Coltellini, Marco</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ifigenia+in+Tauride+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

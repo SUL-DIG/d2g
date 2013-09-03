@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125416</field>
+<field name="genre">Operas</field>
+<field name="title">La Pension Taupinard</field>
+<field name="titleSort">Pension Taupinard</field>
+<field name="composer">__ Radines</field>
+<field name="composerSort">Radines, __</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">__ Yralto</field>
+<field name="librettistSort">Yralto, __</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Pension+Taupinard+__+Radines&amp;search_field=search</field>
+</doc>
+</add>

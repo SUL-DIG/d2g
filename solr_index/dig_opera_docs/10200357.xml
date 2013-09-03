@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200357</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il beato Giovanni Francesco de Regia</field>
+		<field name="titleSort">beato Giovanni Francesco de Regia</field>
+		<field name="year">1728</field>
+		<field name="month">July</field>
+		<field name="day">30</field>
+		<field name="date">July 30, 1728</field>
+		<field name="composer">Saverio Nicolai</field>
+		<field name="composerSort">Nicolai, Saverio</field>
+		
+		
+		
+		<field name="city">L'Aquila</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint John Francis Regis</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">16</field>
+		<field name="feastDate">June 16</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+beato+Giovanni+Francesco+de+Regia+Saverio+Nicolai&amp;search_field=search</field>
+	</doc></add>

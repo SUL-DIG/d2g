@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120374</field>
+<field name="genre">Operas</field>
+<field name="title">Oedipe et Jocaste (Oedipe а Thebes)</field>
+<field name="titleSort">Oedipe et Jocaste (Oedipe а Thebes)</field>
+<field name="composer">Nicolas-Jean Méreaux</field>
+<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Pierre-Antoine Duprat de la Touloubre</field>
+<field name="librettistSort">Duprat de la Touloubre, Pierre-Antoine</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oedipe+et+Jocaste+Oedipe+а+Thebes+Nicolas-Jean+Méreaux&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107327</field>
+<field name="genre">Operas</field>
+<field name="title">Das wahrhaftige Ende des Don Giovanni</field>
+<field name="titleSort">wahrhaftige Ende des Don Giovanni</field>
+<field name="composer">Renato De Grandis</field>
+<field name="composerSort">Grandis, Renato De</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Renato De Grandis</field>
+<field name="librettistSort">De Grandis, Renato</field>
+
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+wahrhaftige+Ende+des+Don+Giovanni+Renato+De+Grandis&amp;search_field=search</field>
+</doc>
+</add>

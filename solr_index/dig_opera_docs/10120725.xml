@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120725</field>
+<field name="genre">Operas</field>
+<field name="title">Tito nelle Gallie</field>
+<field name="titleSort">Tito nelle Gallie</field>
+<field name="composer">Ambrogio Minoja</field>
+<field name="composerSort">Minoja, Ambrogio</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Pietro Giovannini</field>
+<field name="librettistSort">Giovannini, Pietro</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+nelle+Gallie+Ambrogio+Minoja&amp;search_field=search</field>
+</doc>
+</add>

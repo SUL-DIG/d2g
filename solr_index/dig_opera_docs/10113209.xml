@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113209</field>
+<field name="genre">Operas</field>
+<field name="title">Inkasöhne</field>
+<field name="titleSort">Inkasöhne</field>
+<field name="composer">Willem van Haan</field>
+<field name="composerSort">Haan, Willem van</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Willem van Haan</field>
+<field name="librettistSort">Haan, Willem van</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inkasöhne+Willem+van+Haan&amp;search_field=search</field>
+</doc>
+</add>

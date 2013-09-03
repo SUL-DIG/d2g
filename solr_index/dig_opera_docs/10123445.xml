@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123445</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Polo</field>
+<field name="titleSort">Marco Polo</field>
+<field name="composer">Eugenio Pauletig</field>
+<field name="composerSort">Pauletig, Eugenio</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Giacomo Sbisа</field>
+<field name="librettistSort">Sbisа, Giacomo</field>
+
+<field name="city">Gorizia</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Polo+Eugenio+Pauletig&amp;search_field=search</field>
+</doc>
+</add>

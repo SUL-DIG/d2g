@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127046</field>
+<field name="genre">Operas</field>
+<field name="title">Mamsell Carmen</field>
+<field name="titleSort">Mamsell Carmen</field>
+<field name="composer">Theo Rupprecht</field>
+<field name="composerSort">Rupprecht, Theo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Max Zeder</field>
+<field name="librettistSort">Zeder, Max</field>
+<field name="librettist">Kurt Wonger</field>
+<field name="librettistSort">Wonger, Kurt</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mamsell+Carmen+Theo+Rupprecht&amp;search_field=search</field>
+</doc>
+</add>

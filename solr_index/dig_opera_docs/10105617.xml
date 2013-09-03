@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105617</field>
+<field name="genre">Operas</field>
+<field name="title">"Le petit sacristain, ou Le départ des novices</field>
+<field name="titleSort">"petit sacristain, ou départ des novices"</field>
+<field name="composer">Louis-Claude-Armand Chardiny</field>
+<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Jacques-Benoit Demautort</field>
+<field name="librettistSort">Demautort, Jacques-Benoit</field>
+<field name="theater">Théâtre du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+sacristain,+ou+Le+départ+des+novices+Louis-Claude-Armand+Chardiny&amp;search_field=search</field>
+</doc>
+</add>

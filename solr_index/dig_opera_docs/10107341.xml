@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107341</field>
+<field name="genre">Operas</field>
+<field name="title">La tentation d'Antoine</field>
+<field name="titleSort">tentation d'Antoine</field>
+<field name="composer">Eugène-Joseph Déjazet</field>
+<field name="composerSort">Déjazet, Eugène-Joseph</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Eugène-Joseph Déjazet</field>
+<field name="librettistSort">Déjazet, Eugène-Joseph</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tentation+d'Antoine+Eugène-Joseph+Déjazet&amp;search_field=search</field>
+</doc>
+</add>

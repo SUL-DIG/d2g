@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119335</field>
+<field name="genre">Operas</field>
+<field name="title">"Talestri, Königin der Amazonen</field>
+<field name="titleSort">"Talestri, Königin der Amazonen"</field>
+<field name="composer">Maria Antonia Walpurgis</field>
+<field name="composerSort">Walpurgis, Maria Antonia</field>
+<field name="year">1760</field>
+<field name="date">1760</field>
+<field name="librettist">"Maria Antonia Walpurgis, Churfürstin zu Sachsen"</field>
+<field name="librettistSort">Maria Antonia Walpurgis, Churfürstin zu Sachsen</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Nymphenburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Talestri,+Königin+der+Amazonen+Maria+Antonia+Walpurgis&amp;search_field=search</field>
+</doc>
+</add>

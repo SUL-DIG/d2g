@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116550</field>
+<field name="genre">Operas</field>
+<field name="title">Le faux héritage (L'héritière)</field>
+<field name="titleSort">faux héritage (L'héritière)</field>
+<field name="composer">Charles Frédéric Kreubé</field>
+<field name="composerSort">Kreubé, Charles Frédéric</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+faux+héritage+L'héritière+Charles+Frédéric+Kreubé&amp;search_field=search</field>
+</doc>
+</add>

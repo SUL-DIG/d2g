@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124056</field>
+<field name="genre">Operas</field>
+<field name="title">Le mari comme il les faudrait tous</field>
+<field name="titleSort">mari comme il les faudrait tous</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">__ Desenne</field>
+<field name="librettistSort">Desenne, __</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mari+comme+il+les+faudrait+tous+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

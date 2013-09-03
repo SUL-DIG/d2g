@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103307</field>
+<field name="genre">Operas</field>
+<field name="title">Sulamith</field>
+<field name="titleSort">Sulamith</field>
+<field name="composer">Sandro Blumenthal</field>
+<field name="composerSort">Blumenthal, Sandro</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Emil Mantels</field>
+<field name="librettistSort">Mantels, Emil</field>
+<field name="librettist">Heinrich Lautensack</field>
+<field name="librettistSort">Lautensack, Heinrich</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sulamith+Sandro+Blumenthal&amp;search_field=search</field>
+</doc>
+</add>

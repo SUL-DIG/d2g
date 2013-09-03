@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111832</field>
+<field name="genre">Operas</field>
+<field name="title">Onkel Muz</field>
+<field name="titleSort">Onkel Muz</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Bruno Decker</field>
+<field name="librettistSort">Decker, Bruno</field>
+<field name="librettist">Robert Pohl</field>
+<field name="librettistSort">Pohl, Robert</field>
+<field name="theater">Apollo-Theater</field>
+<field name="city">Halle</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Onkel+Muz+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

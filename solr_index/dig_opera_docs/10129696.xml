@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129696</field>
+<field name="genre">Operas</field>
+<field name="title">Much Ado about Nothing</field>
+<field name="titleSort">Much Ado about Nothing</field>
+<field name="composer">Charles Villiers Stanford</field>
+<field name="composerSort">Stanford, Charles Villiers</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Julian Russell Sturgis</field>
+<field name="librettistSort">Sturgis, Julian Russell</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Much+Ado+about+Nothing+Charles+Villiers+Stanford&amp;search_field=search</field>
+</doc>
+</add>

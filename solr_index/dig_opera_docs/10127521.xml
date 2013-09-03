@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127521</field>
+<field name="genre">Operas</field>
+<field name="title">Memet</field>
+<field name="titleSort">Memet</field>
+<field name="composer">Giovanni Battista Sammartini</field>
+<field name="composerSort">Sammartini, Giovanni Battista</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="city">Lodi</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Memet+Giovanni+Battista+Sammartini&amp;search_field=search</field>
+</doc>
+</add>

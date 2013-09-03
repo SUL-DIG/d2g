@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132947</field>
+<field name="genre">Operas</field>
+<field name="title">Les patriotes</field>
+<field name="titleSort">patriotes</field>
+<field name="composer">Antoine Willame</field>
+<field name="composerSort">Willame, Antoine</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="city">Mons</field>
+<field name="region">Hainault</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+patriotes+Antoine+Willame&amp;search_field=search</field>
+</doc>
+</add>

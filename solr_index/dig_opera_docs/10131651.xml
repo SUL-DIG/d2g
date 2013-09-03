@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131651</field>
+<field name="genre">Operas</field>
+<field name="title">I falsi galantuomini</field>
+<field name="titleSort">falsi galantuomini</field>
+<field name="composer">Carlo Valentini</field>
+<field name="composerSort">Valentini, Carlo</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Michele Angelo Prunetti</field>
+<field name="librettistSort">Prunetti, Michele Angelo</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+falsi+galantuomini+Carlo+Valentini&amp;search_field=search</field>
+</doc>
+</add>

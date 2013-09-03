@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104232</field>
+<field name="genre">Operas</field>
+<field name="title">Gilgamesh</field>
+<field name="titleSort">Gilgamesh</field>
+<field name="composer">Rudolf Bruci</field>
+<field name="composerSort">Bruci, Rudolf</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Arsenije Milosevic</field>
+<field name="librettistSort">Milosevic, Arsenije</field>
+
+<field name="city">Novi Sad</field>
+<field name="region">Juznobacki Okrug</field>
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gilgamesh+Rudolf+Bruci&amp;search_field=search</field>
+</doc>
+</add>

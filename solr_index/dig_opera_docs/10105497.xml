@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105497</field>
+<field name="genre">Operas</field>
+<field name="title">Odysseus' Heimkehr</field>
+<field name="titleSort">Odysseus' Heimkehr</field>
+<field name="composer">Hans Albert Cesek</field>
+<field name="composerSort">Cesek, Hans Albert</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Willy Sterk</field>
+<field name="librettistSort">Sterk, Willy</field>
+<field name="theater">Cabaret Hölle</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odysseus'+Heimkehr+Hans+Albert+Cesek&amp;search_field=search</field>
+</doc>
+</add>

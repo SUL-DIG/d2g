@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123031</field>
+<field name="genre">Operas</field>
+<field name="title">Nitteti</field>
+<field name="titleSort">Nitteti</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nitteti+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

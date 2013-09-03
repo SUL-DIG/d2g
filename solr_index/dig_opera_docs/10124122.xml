@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124122</field>
+<field name="genre">Operas</field>
+<field name="title">L'aînée et la cadette</field>
+<field name="titleSort">aînée et la cadette</field>
+<field name="composer">Luigi Piccinni</field>
+<field name="composerSort">Piccinni, Luigi</field>
+<field name="year">1806</field>
+<field name="date">1806</field><field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aînée+et+la+cadette+Luigi+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

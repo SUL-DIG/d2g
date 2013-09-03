@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119865</field>
+<field name="genre">Operas</field>
+<field name="title">Das Stelldichein</field>
+<field name="titleSort">Stelldichein</field>
+<field name="composer">Alphonse Maurice</field>
+<field name="composerSort">Maurice, Alphonse</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">W. Wennhacke</field>
+<field name="librettistSort">Wennhacke, W.</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Colmar</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Stelldichein+Alphonse+Maurice&amp;search_field=search</field>
+</doc>
+</add>

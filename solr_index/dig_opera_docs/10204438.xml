@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204438</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sw. Franciszek z Asyzu</field>
+		<field name="titleSort">Sw. Franciszek z Asyzu</field>
+		<field name="year">1985</field>
+		<field name="month">May</field>
+		<field name="day">19</field>
+		<field name="date">May 19, 1985</field>
+		<field name="composer">Juliusz Luciuk</field>
+		<field name="composerSort">Luciuk, Juliusz</field>
+		<field name="librettist">Marek Skwarnicki</field>
+		<field name="librettistSort">Skwarnicki, Marek</field>
+		
+		<field name="theater">Teatr Wielki</field>
+		<field name="city">Lodz</field>
+		<field name="region">Lódzkie</field>
+		<field name="country">Poland</field>
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sw.+Franciszek+z+Asyzu+Juliusz+Luciuk&amp;search_field=search</field>
+	</doc></add>

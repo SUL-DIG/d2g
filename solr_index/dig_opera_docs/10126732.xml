@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126732</field>
+<field name="genre">Operas</field>
+<field name="title">Cuore di madre (La contessa d'Altenberg)</field>
+<field name="titleSort">Cuore di madre (La contessa d'Altenberg)</field>
+<field name="composer">Giovanni Gaetano Rossi</field>
+<field name="composerSort">Rossi, Giovanni Gaetano</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Icilio Piroli</field>
+<field name="librettistSort">Piroli, Icilio</field>
+<field name="theater">Teatro Municipale</field>
+<field name="city">Fidenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cuore+di+madre+La+contessa+d'Altenberg+Giovanni+Gaetano+Rossi&amp;search_field=search</field>
+</doc>
+</add>

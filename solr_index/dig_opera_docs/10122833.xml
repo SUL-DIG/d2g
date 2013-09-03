@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122833</field>
+<field name="genre">Operas</field>
+<field name="title">Romilda di Provanza</field>
+<field name="titleSort">Romilda di Provanza</field>
+<field name="composer">Giovanni Pacini</field>
+<field name="composerSort">Pacini, Giovanni</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Gaetano Miccio</field>
+<field name="librettistSort">Miccio, Gaetano</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romilda+di+Provanza+Giovanni+Pacini&amp;search_field=search</field>
+</doc>
+</add>

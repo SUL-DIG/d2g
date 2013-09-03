@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107431</field>
+<field name="genre">Operas</field>
+<field name="title">Irmelin</field>
+<field name="titleSort">Irmelin</field>
+<field name="composer">Frederick Delius</field>
+<field name="composerSort">Delius, Frederick</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Frederick Delius</field>
+<field name="librettistSort">Delius, Frederick</field>
+<field name="theater">New Theatre</field>
+<field name="city">Oxford</field>
+<field name="region">Oxfordshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Irmelin+Frederick+Delius&amp;search_field=search</field>
+</doc>
+</add>

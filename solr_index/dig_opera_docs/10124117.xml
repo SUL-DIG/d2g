@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124117</field>
+<field name="genre">Operas</field>
+<field name="title">La prise de Jéricho</field>
+<field name="titleSort">prise de Jéricho</field>
+<field name="composer">Louis Alexandre Piccinni</field>
+<field name="composerSort">Piccinni, Louis Alexandre</field>
+<field name="year">1847</field>
+<field name="date">1847</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prise+de+Jéricho+Louis+Alexandre+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

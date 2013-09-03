@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204407</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Sünder</field>
+		<field name="titleSort">Sünder</field>
+		<field name="year">1855</field>
+		<field name="month">February</field>
+		<field name="day">26</field>
+		<field name="date">February 26, 1855</field>
+		<field name="composer">Ferdinand von Roda</field>
+		<field name="composerSort">Roda, Ferdinand von</field>
+		<field name="librettist">Ferdinand von Roda</field>
+		<field name="librettistSort">Roda, Ferdinand von</field>
+		
+		
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sünder+Ferdinand+von+Roda&amp;search_field=search</field>
+	</doc></add>

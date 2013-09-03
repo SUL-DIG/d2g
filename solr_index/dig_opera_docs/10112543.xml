@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112543</field>
+<field name="genre">Operas</field>
+<field name="title">I biciclisti</field>
+<field name="titleSort">biciclisti</field>
+<field name="composer">Alfredo Grandi</field>
+<field name="composerSort">Grandi, Alfredo</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Aristide Gargano</field>
+<field name="librettistSort">Gargano, Aristide</field>
+<field name="theater">Politeama Garibaldi</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+biciclisti+Alfredo+Grandi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115597</field>
+<field name="genre">Operas</field>
+<field name="title">Videomania</field>
+<field name="titleSort">Videomania</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Martin Kalmanoff</field>
+<field name="librettistSort">Kalmanoff, Martin</field>
+<field name="theater">Lincoln College</field>
+<field name="city">Lincoln</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Videomania+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

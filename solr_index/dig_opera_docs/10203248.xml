@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203248</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Gesù Cristo</field>
+		<field name="titleSort">passione di Gesù Cristo</field>
+		<field name="year">1730</field>
+		<field name="month">April</field>
+		<field name="day">4</field>
+		<field name="date">April 4, 1730</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Gesù+Cristo+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

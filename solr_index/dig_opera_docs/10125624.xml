@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125624</field>
+<field name="genre">Operas</field>
+<field name="title">Fremde Erde</field>
+<field name="titleSort">Fremde Erde</field>
+<field name="composer">Karol Rathaus</field>
+<field name="composerSort">Rathaus, Karol</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">[Kamilla Waniek] Kamilla Palffy-Waniek</field>
+<field name="librettistSort">Palffy-Waniek, Kamilla [Kamilla Waniek]</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fremde+Erde+Karol+Rathaus&amp;search_field=search</field>
+</doc>
+</add>

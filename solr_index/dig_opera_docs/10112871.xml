@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112871</field>
+<field name="genre">Operas</field>
+<field name="title">The Witch of Brocken</field>
+<field name="titleSort">Witch of Brocken</field>
+<field name="composer">Louis Gruenberg</field>
+<field name="composerSort">Gruenberg, Louis</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Emil Ferdinand Malkowski</field>
+<field name="librettistSort">Malkowski, Emil Ferdinand</field>
+
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Witch+of+Brocken+Louis+Gruenberg&amp;search_field=search</field>
+</doc>
+</add>

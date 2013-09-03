@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200092</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Adam a Eva</field>
+		<field name="titleSort">Adam a Eva</field>
+		<field name="year">1969</field>
+		
+		
+		<field name="date">1969</field>
+		<field name="composer">Zdenek Lukás</field>
+		<field name="composerSort">Lukás, Zdenek</field>
+		<field name="librettist">Karel Siktanc</field>
+		<field name="librettistSort">Siktanc, Karel</field>
+		
+		
+		
+		
+		
+		<field name="subject">Adam and Eve</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adam+a+Eva+Zdenek+Lukás&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119524</field>
+<field name="genre">Operas</field>
+<field name="title">As tres máscaras</field>
+<field name="titleSort">tres máscaras</field>
+<field name="composer">Maria de Lurdes Martins</field>
+<field name="composerSort">Martins, Maria de Lurdes</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">José Régio</field>
+<field name="librettistSort">Régio, José</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=As+tres+máscaras+Maria+de+Lurdes+Martins&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113415</field>
+<field name="genre">Operas</field>
+<field name="title">Pomperipossas Syster (Pomperipossa's Sister)</field>
+<field name="titleSort">Pomperipossas Syster (Pomperipossa's Sister)</field>
+<field name="composer">Björn Hallman</field>
+<field name="composerSort">Hallman, Björn</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Hans Alfredson</field>
+<field name="librettistSort">Alfredson, Hans</field>
+<field name="librettist">[Axel Wallengren] Falstaff Fakir</field>
+<field name="librettistSort">Fakir, Falstaff [Axel Wallengren]</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pomperipossas+Syster+Pomperipossa's+Sister+Björn+Hallman&amp;search_field=search</field>
+</doc>
+</add>

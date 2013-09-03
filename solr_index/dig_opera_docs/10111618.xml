@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111618</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Legros</field>
+<field name="titleSort">Madame Legros</field>
+<field name="composer">Ottmar Gerster</field>
+<field name="composerSort">Gerster, Ottmar</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Ottmar Gerster</field>
+<field name="librettistSort">Gerster, Ottmar</field>
+<field name="librettist">Heinrich Mann</field>
+<field name="librettistSort">Mann, Heinrich</field>
+<field name="theater">Opernhaus am Karl-Marx-Platz</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Legros+Ottmar+Gerster&amp;search_field=search</field>
+</doc>
+</add>

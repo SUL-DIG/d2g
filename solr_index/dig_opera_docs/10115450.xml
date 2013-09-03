@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115450</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux flыtes</field>
+<field name="titleSort">deux flыtes</field>
+<field name="composer">Charles Jouffroy</field>
+<field name="composerSort">Jouffroy, Charles</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Henry Buguet</field>
+<field name="librettistSort">Buguet, Henry</field>
+<field name="librettist">J. Florval</field>
+<field name="librettistSort">Florval, J.</field>
+<field name="theater">Cercle de la Presse</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+flыtes+Charles+Jouffroy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116936</field>
+<field name="genre">Operas</field>
+<field name="title">Die Strassensängerin</field>
+<field name="titleSort">Strassensängerin</field>
+<field name="composer">Otto Lachmayer</field>
+<field name="composerSort">Lachmayer, Otto</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Alfred Schaffer</field>
+<field name="librettistSort">Schaffer, Alfred</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Strassensängerin+Otto+Lachmayer&amp;search_field=search</field>
+</doc>
+</add>

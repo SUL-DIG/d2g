@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128798</field>
+<field name="genre">Operas</field>
+<field name="title">Bobadill</field>
+<field name="titleSort">Bobadill</field>
+<field name="composer">Luscombe Searelle</field>
+<field name="composerSort">Searelle, Luscombe</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Walter Parke</field>
+<field name="librettistSort">Parke, Walter</field>
+<field name="theater">New Opera House</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bobadill+Luscombe+Searelle&amp;search_field=search</field>
+</doc>
+</add>

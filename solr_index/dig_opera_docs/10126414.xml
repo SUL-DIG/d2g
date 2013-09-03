@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126414</field>
+<field name="genre">Operas</field>
+<field name="title">Myrtia</field>
+<field name="titleSort">Myrtia</field>
+<field name="composer">Ludwig Rochlitzer</field>
+<field name="composerSort">Rochlitzer, Ludwig</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Ludwig Rochlitzer</field>
+<field name="librettistSort">Rochlitzer, Ludwig</field>
+<field name="librettist">Felix Dahn</field>
+<field name="librettistSort">Dahn, Felix</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myrtia+Ludwig+Rochlitzer&amp;search_field=search</field>
+</doc>
+</add>

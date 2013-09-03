@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113554</field>
+<field name="genre">Operas</field>
+<field name="title">Chieko-sho (A Selection for Chieko)</field>
+<field name="titleSort">Chieko-sho (A Selection for Chieko)</field>
+<field name="composer">Kazuko Hara</field>
+<field name="composerSort">Hara, Kazuko</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Jun Maeda</field>
+<field name="librettistSort">Maeda, Jun</field>
+<field name="theater">NHK Radio (Nippon Hoso Kyokai)</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chieko-sho+A+Selection+for+Chieko+Kazuko+Hara&amp;search_field=search</field>
+</doc>
+</add>

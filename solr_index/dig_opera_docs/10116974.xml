@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116974</field>
+<field name="genre">Operas</field>
+<field name="title">Le maréchal Chaudron</field>
+<field name="titleSort">maréchal Chaudron</field>
+<field name="composer">Paul Lacôme</field>
+<field name="composerSort">Lacôme, Paul</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Henri-Charles Chivot</field>
+<field name="librettistSort">Chivot, Henri-Charles</field>
+<field name="librettist">Jean Gascogne</field>
+<field name="librettistSort">Gascogne, Jean</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+maréchal+Chaudron+Paul+Lacôme&amp;search_field=search</field>
+</doc>
+</add>

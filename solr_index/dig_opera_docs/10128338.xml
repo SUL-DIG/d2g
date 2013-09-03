@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128338</field>
+<field name="genre">Operas</field>
+<field name="title">Melida</field>
+<field name="titleSort">Melida</field>
+<field name="composer">Siegfried Schmiedt</field>
+<field name="composerSort">Schmiedt, Siegfried</field>
+<field name="year">1797</field>
+<field name="date">1797</field><field name="theater">Theater am Rannstädter Tor</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Melida+Siegfried+Schmiedt&amp;search_field=search</field>
+</doc>
+</add>

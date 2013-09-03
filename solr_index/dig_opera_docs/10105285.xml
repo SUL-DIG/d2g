@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105285</field>
+<field name="genre">Operas</field>
+<field name="title">David musicus</field>
+<field name="titleSort">David musicus</field>
+<field name="composer">Ottavio Catalani</field>
+<field name="composerSort">Catalani, Ottavio</field>
+<field name="year">1613</field>
+<field name="date">1613</field><field name="theater">Collegio Tedesco</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+musicus+Ottavio+Catalani&amp;search_field=search</field>
+</doc>
+</add>

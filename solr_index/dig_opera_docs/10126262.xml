@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126262</field>
+<field name="genre">Operas</field>
+<field name="title">La signorina Kanapé</field>
+<field name="titleSort">signorina Kanapé</field>
+<field name="composer">[Luigi Miaglia] Ripp</field>
+<field name="composerSort">Ripp, [Luigi Miaglia]</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">[__ Francini] Bel Amc</field>
+<field name="librettistSort">Bel Amc, [__ Francini]</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+signorina+Kanapé+Luigi+Miaglia]+Ripp&amp;search_field=search</field>
+</doc>
+</add>

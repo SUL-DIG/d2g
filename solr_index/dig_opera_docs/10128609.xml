@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128609</field>
+<field name="genre">Operas</field>
+<field name="title">Pinocchios Abenteuer</field>
+<field name="titleSort">Pinocchios Abenteuer</field>
+<field name="composer">Kurt Schwaen</field>
+<field name="composerSort">Schwaen, Kurt</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Wera Küchenmeister</field>
+<field name="librettistSort">Küchenmeister, Wera</field>
+<field name="librettist">Claus Küchenmeister</field>
+<field name="librettistSort">Küchenmeister, Claus</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Zwickau</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pinocchios+Abenteuer+Kurt+Schwaen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111174</field>
+<field name="genre">Operas</field>
+<field name="title">Roderico</field>
+<field name="titleSort">Roderico</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1686</field>
+<field name="date">1686</field>
+<field name="librettist">Giovanni Battista Bottalino</field>
+<field name="librettistSort">Bottalino, Giovanni Battista</field>
+
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roderico+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

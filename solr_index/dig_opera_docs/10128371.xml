@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128371</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Verschworenen, oder Der häusliche Krieg</field>
+<field name="titleSort">"Verschworenen, oder Der häusliche Krieg"</field>
+<field name="composer">Georg Abraham Schneider</field>
+<field name="composerSort">Schneider, Georg Abraham</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Ignaz Franz Castelli</field>
+<field name="librettistSort">Castelli, Ignaz Franz</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Verschworenen,+oder+Der+häusliche+Krieg+Georg+Abraham+Schneider&amp;search_field=search</field>
+</doc>
+</add>

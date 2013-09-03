@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133480</field>
+<field name="genre">Operas</field>
+<field name="title">Csuda Mihály szerencséje</field>
+<field name="titleSort">Csuda Mihály szerencséje</field>
+<field name="composer">Béla Zerkovitz</field>
+<field name="composerSort">Zerkovitz, Béla</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Erno Kulinyi</field>
+<field name="librettistSort">Kulinyi, Erno</field>
+<field name="librettist">László Bús-Fekete</field>
+<field name="librettistSort">Bús-Fekete, László</field>
+<field name="theater">Magyar Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Csuda+Mihály+szerencséje+Béla+Zerkovitz&amp;search_field=search</field>
+</doc>
+</add>

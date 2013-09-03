@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125347</field>
+<field name="genre">Operas</field>
+<field name="title">Il Don Tiffone</field>
+<field name="titleSort">Don Tiffone</field>
+<field name="composer">Giacinto Quagliattini</field>
+<field name="composerSort">Quagliattini, Giacinto</field>
+<field name="year">1752</field>
+<field name="date">1752</field><field name="theater">Teatro Pallacorda di Firenze</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Don+Tiffone+Giacinto+Quagliattini&amp;search_field=search</field>
+</doc>
+</add>

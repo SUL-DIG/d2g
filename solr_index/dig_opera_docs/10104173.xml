@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104173</field>
+<field name="genre">Operas</field>
+<field name="title">Maria di Vasco</field>
+<field name="titleSort">Maria di Vasco</field>
+<field name="composer">Carlo Brizzi</field>
+<field name="composerSort">Brizzi, Carlo</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Carlo Brizzi</field>
+<field name="librettistSort">Brizzi, Carlo</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+di+Vasco+Carlo+Brizzi&amp;search_field=search</field>
+</doc>
+</add>

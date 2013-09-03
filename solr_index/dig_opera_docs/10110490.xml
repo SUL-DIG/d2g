@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110490</field>
+<field name="genre">Operas</field>
+<field name="title">A flor de S Roque</field>
+<field name="titleSort">flor de S Roque</field>
+<field name="composer">Frederico de Freitas</field>
+<field name="composerSort">Freitas, Frederico de</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Luís da Silva</field>
+<field name="librettistSort">Silva, Luís da</field>
+<field name="librettist">Alberto Barbosa</field>
+<field name="librettistSort">Barbosa, Alberto</field>
+<field name="theater">Teatro Avenida</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+flor+de+S+Roque+Frederico+de+Freitas&amp;search_field=search</field>
+</doc>
+</add>

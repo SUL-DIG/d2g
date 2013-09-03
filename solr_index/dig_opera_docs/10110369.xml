@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110369</field>
+<field name="genre">Operas</field>
+<field name="title">"Notturno in La, or As a Conductor Dreams</field>
+<field name="titleSort">"Notturno in La, or As a Conductor Dreams"</field>
+<field name="composer">Arnold Franchetti</field>
+<field name="composerSort">Franchetti, Arnold</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Louis Berrone</field>
+<field name="librettistSort">Berrone, Louis</field>
+<field name="librettist">Alfred de Musset</field>
+<field name="librettistSort">Musset, Alfred de</field>
+<field name="theater">Trinity College</field>
+<field name="city">Hartford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notturno+in+La,+or+As+a+Conductor+Dreams+Arnold+Franchetti&amp;search_field=search</field>
+</doc>
+</add>

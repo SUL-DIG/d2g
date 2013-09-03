@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115757</field>
+<field name="genre">Operas</field>
+<field name="title">Hoosier Tale</field>
+<field name="titleSort">Hoosier Tale</field>
+<field name="composer">Walter Kaufmann</field>
+<field name="composerSort">Kaufmann, Walter</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Walter Kaufmann</field>
+<field name="librettistSort">Kaufmann, Walter</field>
+<field name="theater">Indiana University</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hoosier+Tale+Walter+Kaufmann&amp;search_field=search</field>
+</doc>
+</add>

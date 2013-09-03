@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101739</field>
+<field name="genre">Operas</field>
+<field name="title">Léda</field>
+<field name="titleSort">Léda</field>
+<field name="composer">Antoine Banès</field>
+<field name="composerSort">Banès, Antoine</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Pierre Veber</field>
+<field name="librettistSort">Veber, Pierre</field>
+<field name="librettist">Lucien Augé de Lassus</field>
+<field name="librettistSort">Augé de Lassus, Lucien</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Léda+Antoine+Banès&amp;search_field=search</field>
+</doc>
+</add>

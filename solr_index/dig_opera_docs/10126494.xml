@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126494</field>
+<field name="genre">Operas</field>
+<field name="title">Les vingt-huit jours de Clairette</field>
+<field name="titleSort">vingt-huit jours de Clairette</field>
+<field name="composer">Victor Roger</field>
+<field name="composerSort">Roger, Victor</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Hippolyte Raymond</field>
+<field name="librettistSort">Raymond, Hippolyte</field>
+<field name="librettist">Antony Mars</field>
+<field name="librettistSort">Mars, Antony</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+vingt-huit+jours+de+Clairette+Victor+Roger&amp;search_field=search</field>
+</doc>
+</add>

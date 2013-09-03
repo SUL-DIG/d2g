@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112750</field>
+<field name="genre">Operas</field>
+<field name="title">Théodore et Paulin</field>
+<field name="titleSort">Théodore et Paulin</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">[Pierre-Jean-Baptiste Choudard] Desforges</field>
+<field name="librettistSort">Desforges, [Pierre-Jean-Baptiste Choudard]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Théodore+et+Paulin+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

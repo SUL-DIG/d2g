@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128345</field>
+<field name="genre">Operas</field>
+<field name="title">La belle Madeleine</field>
+<field name="titleSort">belle Madeleine</field>
+<field name="composer">Georges Schmitt</field>
+<field name="composerSort">Schmitt, Georges</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">[Théodore Touchard-Lafosse] Théodore Lustières</field>
+<field name="librettistSort">Lustières, Théodore [Théodore Touchard-Lafosse]</field>
+<field name="librettist">Félix Dutertre de Véteuil</field>
+<field name="librettistSort">Dutertre de Véteuil, Félix</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+Madeleine+Georges+Schmitt&amp;search_field=search</field>
+</doc>
+</add>

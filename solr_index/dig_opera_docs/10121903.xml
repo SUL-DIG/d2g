@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121903</field>
+<field name="genre">Operas</field>
+<field name="title">Dido</field>
+<field name="titleSort">Dido</field>
+<field name="composer">Otto Neitzel</field>
+<field name="composerSort">Neitzel, Otto</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Otto Neitzel</field>
+<field name="librettistSort">Neitzel, Otto</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dido+Otto+Neitzel&amp;search_field=search</field>
+</doc>
+</add>

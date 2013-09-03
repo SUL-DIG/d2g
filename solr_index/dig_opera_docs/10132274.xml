@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132274</field>
+<field name="genre">Operas</field>
+<field name="title">Die Maskerade im Serail</field>
+<field name="titleSort">Maskerade im Serail</field>
+<field name="composer">Antonín Volánek</field>
+<field name="composerSort">Volánek, Antonín</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">P. Heimbacher</field>
+<field name="librettistSort">Heimbacher, P.</field>
+<field name="theater">Nostitzsches Nationaltheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Maskerade+im+Serail+Antonín+Volánek&amp;search_field=search</field>
+</doc>
+</add>

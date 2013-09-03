@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115457</field>
+<field name="genre">Operas</field>
+<field name="title">Unter Zirkusleuten</field>
+<field name="titleSort">Unter Zirkusleuten</field>
+<field name="composer">Friedrich Junger</field>
+<field name="composerSort">Junger, Friedrich</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">[Beatrice Freiin von Vay] Beatrice Dovsky</field>
+<field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
+<field name="librettist">R. Felden</field>
+<field name="librettistSort">Felden, R.</field>
+<field name="theater">Jantschtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Unter+Zirkusleuten+Friedrich+Junger&amp;search_field=search</field>
+</doc>
+</add>

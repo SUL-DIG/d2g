@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132061</field>
+<field name="genre">Operas</field>
+<field name="title">Le quatuor Auvergnat</field>
+<field name="titleSort">quatuor Auvergnat</field>
+<field name="composer">Aldé de Villebichot</field>
+<field name="composerSort">Villebichot, Aldé de</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Charles Blondelet</field>
+<field name="librettistSort">Blondelet, Charles</field>
+<field name="librettist">[Hector Joseph Rieunier] Hector Monréal</field>
+<field name="librettistSort">Monréal, Hector [Hector Joseph Rieunier]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+quatuor+Auvergnat+Aldé+de+Villebichot&amp;search_field=search</field>
+</doc>
+</add>

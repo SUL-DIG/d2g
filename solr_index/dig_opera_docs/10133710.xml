@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133710</field>
+<field name="genre">Operas</field>
+<field name="title">Alexandru Lapusneanu</field>
+<field name="titleSort">Alexandru Lapusneanu</field>
+<field name="composer">Alexandru Zirra</field>
+<field name="composerSort">Zirra, Alexandru</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Constantin Negruzzi</field>
+<field name="librettistSort">Negruzzi, Constantin</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexandru+Lapusneanu+Alexandru+Zirra&amp;search_field=search</field>
+</doc>
+</add>

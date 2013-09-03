@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115278</field>
+<field name="genre">Operas</field>
+<field name="title">Unterm Kreuz</field>
+<field name="titleSort">Unterm Kreuz</field>
+<field name="composer">Carl Johansson</field>
+<field name="composerSort">Johansson, Carl</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Unterm+Kreuz+Carl+Johansson&amp;search_field=search</field>
+</doc>
+</add>

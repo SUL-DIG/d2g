@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202180</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jesus</field>
+		<field name="titleSort">Jesus</field>
+		
+		
+		
+		
+		<field name="composer">Johann Daniel Hensel</field>
+		<field name="composerSort">Hensel, Johann Daniel</field>
+		<field name="librettist">Johann Daniel Hensel</field>
+		<field name="librettistSort">Hensel, Johann Daniel</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jesus+Johann+Daniel+Hensel&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124390</field>
+<field name="genre">Operas</field>
+<field name="title">Istinskata apologiya na Sokrat</field>
+<field name="titleSort">Istinskata apologiya na Sokrat</field>
+<field name="composer">Simeon Pironkov</field>
+<field name="composerSort">Pironkov, Simeon</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Simeon Pironkov</field>
+<field name="librettistSort">Pironkov, Simeon</field>
+<field name="librettist">Kostis Varnalis</field>
+<field name="librettistSort">Varnalis, Kostis</field>
+<field name="theater">Union of Composers Concert Hall</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Istinskata+apologiya+na+Sokrat+Simeon+Pironkov&amp;search_field=search</field>
+</doc>
+</add>

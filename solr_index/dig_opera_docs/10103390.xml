@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103390</field>
+<field name="genre">Operas</field>
+<field name="title">Die beiden Diebe</field>
+<field name="titleSort">beiden Diebe</field>
+<field name="composer">Heinrich Boie</field>
+<field name="composerSort">Boie, Heinrich</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="city">Altona</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+beiden+Diebe+Heinrich+Boie&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200905</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">De profundis</field>
+		<field name="titleSort">De profundis</field>
+		<field name="year">1889</field>
+		
+		
+		<field name="date">1889</field>
+		<field name="composer">Josef Nesvera</field>
+		<field name="composerSort">Nesvera, Josef</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+profundis+Josef+Nesvera&amp;search_field=search</field>
+	</doc></add>

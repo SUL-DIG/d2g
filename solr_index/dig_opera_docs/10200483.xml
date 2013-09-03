@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200483</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La caduta di Gezabele</field>
+		<field name="titleSort">caduta di Gezabele</field>
+		<field name="year">1739</field>
+		
+		
+		<field name="date">1739</field>
+		<field name="composer">Gabriele Balami</field>
+		<field name="composerSort">Balami, Gabriele</field>
+		
+		
+		
+		<field name="city">Rimini</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jezebel is killed</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caduta+di+Gezabele+Gabriele+Balami&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120298</field>
+<field name="genre">Operas</field>
+<field name="title">Giulietta e Romeo</field>
+<field name="titleSort">Giulietta e Romeo</field>
+<field name="composer">Antonio Mercadal y Pons</field>
+<field name="composerSort">Pons, Antonio Mercadal y</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+
+<field name="city">Maó</field>
+<field name="region">Menorca</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulietta+e+Romeo+Antonio+Mercadal+y+Pons&amp;search_field=search</field>
+</doc>
+</add>

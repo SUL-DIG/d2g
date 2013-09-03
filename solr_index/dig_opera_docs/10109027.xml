@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109027</field>
+<field name="genre">Operas</field>
+<field name="title">El pirata cautivo</field>
+<field name="titleSort">pirata cautivo</field>
+<field name="composer">Óscar Esplá</field>
+<field name="composerSort">Esplá, Óscar</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Claudio de la Torre</field>
+<field name="librettistSort">Torre, Claudio de la</field>
+
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+pirata+cautivo+Óscar+Esplá&amp;search_field=search</field>
+</doc>
+</add>

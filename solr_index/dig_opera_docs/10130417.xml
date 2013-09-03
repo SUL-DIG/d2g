@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130417</field>
+<field name="genre">Operas</field>
+<field name="title">Perelanda</field>
+<field name="titleSort">Perelanda</field>
+<field name="composer">Donald Swann</field>
+<field name="composerSort">Swann, Donald</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">David Marsh</field>
+<field name="librettistSort">Marsh, David</field>
+<field name="librettist">Clive Staples Lewis</field>
+<field name="librettistSort">Lewis, Clive Staples</field>
+<field name="theater">Guildhall</field>
+<field name="city">Cambridge</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perelanda+Donald+Swann&amp;search_field=search</field>
+</doc>
+</add>

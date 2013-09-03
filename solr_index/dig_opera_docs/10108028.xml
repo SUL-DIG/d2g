@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108028</field>
+<field name="genre">Operas</field>
+<field name="title">Luisa della Vallière</field>
+<field name="titleSort">Luisa della Vallière</field>
+<field name="composer">Gianmaria D'Orio</field>
+<field name="composerSort">D'Orio, Gianmaria</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">M. Ferrino</field>
+<field name="librettistSort">Ferrino, M.</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luisa+della+Vallière+Gianmaria+D'Orio&amp;search_field=search</field>
+</doc>
+</add>

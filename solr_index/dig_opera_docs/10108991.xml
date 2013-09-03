@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108991</field>
+<field name="genre">Operas</field>
+<field name="title">Der Witwerklub</field>
+<field name="titleSort">Witwerklub</field>
+<field name="composer">Karl Ernesti</field>
+<field name="composerSort">Ernesti, Karl</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Karl Ernesti</field>
+<field name="librettistSort">Ernesti, Karl</field>
+
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Witwerklub+Karl+Ernesti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101834</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur Deschalumeaux</field>
+<field name="titleSort">Monsieur Deschalumeaux</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Charles Bridault</field>
+<field name="librettistSort">Bridault, Charles</field>
+<field name="librettist">Gustave Perée</field>
+<field name="librettistSort">Perée, Gustave</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+Deschalumeaux+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

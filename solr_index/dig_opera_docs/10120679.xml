@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120679</field>
+<field name="genre">Operas</field>
+<field name="title">Friquette et Blaisot</field>
+<field name="titleSort">Friquette et Blaisot</field>
+<field name="composer">Albert Millet</field>
+<field name="composerSort">Millet, Albert</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Charles Narrey</field>
+<field name="librettistSort">Narrey, Charles</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Casino</field>
+<field name="city">Cabourg</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friquette+et+Blaisot+Albert+Millet&amp;search_field=search</field>
+</doc>
+</add>

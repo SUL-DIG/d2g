@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112616</field>
+<field name="genre">Operas</field>
+<field name="title">Iphigenia in Aulis</field>
+<field name="titleSort">Iphigenia in Aulis</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Georg Caspar Schürmann</field>
+<field name="librettistSort">Schürmann, Georg Caspar</field>
+<field name="theater">Grosses Theater in der Sommer-Messe</field>
+<field name="city">Wolfenbüttel</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iphigenia+in+Aulis+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

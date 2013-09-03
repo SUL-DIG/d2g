@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129810</field>
+<field name="genre">Operas</field>
+<field name="title">Die gefährliche Nachbarschaft</field>
+<field name="titleSort">gefährliche Nachbarschaft</field>
+<field name="composer">Johann Friedrich Stein</field>
+<field name="composerSort">Stein, Johann Friedrich</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+gefährliche+Nachbarschaft+Johann+Friedrich+Stein&amp;search_field=search</field>
+</doc>
+</add>

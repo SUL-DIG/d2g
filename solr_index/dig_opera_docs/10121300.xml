@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121300</field>
+<field name="genre">Operas</field>
+<field name="title">Le astuzie amorose</field>
+<field name="titleSort">astuzie amorose</field>
+<field name="composer">Michele Mortellari</field>
+<field name="composerSort">Mortellari, Michele</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Francesco Cerlone</field>
+<field name="librettistSort">Cerlone, Francesco</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+astuzie+amorose+Michele+Mortellari&amp;search_field=search</field>
+</doc>
+</add>

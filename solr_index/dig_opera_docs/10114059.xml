@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114059</field>
+<field name="genre">Operas</field>
+<field name="title">The Song Birds</field>
+<field name="titleSort">Song Birds</field>
+<field name="composer">Victor Herbert</field>
+<field name="composerSort">Herbert, Victor</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">George Vere Hobart</field>
+<field name="librettistSort">Hobart, George Vere</field>
+<field name="theater">Lambs Club</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Song+Birds+Victor+Herbert&amp;search_field=search</field>
+</doc>
+</add>

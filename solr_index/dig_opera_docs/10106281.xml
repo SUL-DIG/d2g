@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106281</field>
+<field name="genre">Operas</field>
+<field name="title">Le médecin de l'amour</field>
+<field name="titleSort">médecin de l'amour</field>
+<field name="composer">Horace Coignet</field>
+<field name="composerSort">Coignet, Horace</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Pierre-Augustin Lefebvre de Marcouville</field>
+<field name="librettistSort">Marcouville, Pierre-Augustin Lefebvre de</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+médecin+de+l'amour+Horace+Coignet&amp;search_field=search</field>
+</doc>
+</add>

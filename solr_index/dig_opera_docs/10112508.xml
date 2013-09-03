@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112508</field>
+<field name="genre">Operas</field>
+<field name="title">Nora e Dorina</field>
+<field name="titleSort">Nora e Dorina</field>
+<field name="composer">Emilio Gragnani</field>
+<field name="composerSort">Gragnani, Emilio</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Maurizio Basso</field>
+<field name="librettistSort">Basso, Maurizio</field>
+<field name="theater">Teatro Leopoldo</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nora+e+Dorina+Emilio+Gragnani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132638</field>
+<field name="genre">Operas</field>
+<field name="title">"Daniel in der Löwengrube, oder Baals Sturz</field>
+<field name="titleSort">"Daniel in der Löwengrube, oder Baals Sturz"</field>
+<field name="composer">Joseph Weigl</field>
+<field name="composerSort">Weigl, Joseph</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Johann Anton Friedrich Reil</field>
+<field name="librettistSort">Reil, Johann Anton Friedrich</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+in+der+Löwengrube,+oder+Baals+Sturz+Joseph+Weigl&amp;search_field=search</field>
+</doc>
+</add>

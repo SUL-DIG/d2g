@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103917</field>
+<field name="genre">Operas</field>
+<field name="title">Un mariage а la mer</field>
+<field name="titleSort">mariage а la mer</field>
+<field name="composer">Victor Bovery</field>
+<field name="composerSort">Bovery, Victor</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Victor Gresset</field>
+<field name="librettistSort">Gresset, Victor</field>
+<field name="librettist">[Arthur Jaworski] Arthur Verneuil</field>
+<field name="librettistSort">Verneuil, Arthur [Arthur Jaworski]</field>
+<field name="theater">Théâtre des Batignolles et Montmartre</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+mariage+а+la+mer+Victor+Bovery&amp;search_field=search</field>
+</doc>
+</add>

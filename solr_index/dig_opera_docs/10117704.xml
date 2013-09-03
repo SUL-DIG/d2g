@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117704</field>
+<field name="genre">Operas</field>
+<field name="title">"Madame Clara, somnambule</field>
+<field name="titleSort">"Madame Clara, somnambule"</field>
+<field name="composer">Isidore-Édouard Legouix</field>
+<field name="composerSort">Legouix, Isidore-Édouard</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Eugène Leterrier</field>
+<field name="librettistSort">Leterrier, Eugène</field>
+<field name="librettist">Albert Vanloo</field>
+<field name="librettistSort">Vanloo, Albert</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Clara,+somnambule+Isidore-Édouard+Legouix&amp;search_field=search</field>
+</doc>
+</add>

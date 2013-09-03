@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203410</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La pietа trionfante in Bologna a sollievo de fedeli defonti</field>
+		<field name="titleSort">pietа trionfante in Bologna a sollievo de fedeli defonti</field>
+		<field name="year">1701</field>
+		
+		
+		<field name="date">1701</field>
+		<field name="composer">Giacomo Gozzini</field>
+		<field name="composerSort">Gozzini, Giacomo</field>
+		<field name="librettist">Elia Vaiani de' Borghi</field>
+		<field name="librettistSort">Vaiani de' Borghi, Elia</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pietа+trionfante+in+Bologna+a+sollievo+de+fedeli+defonti+Giacomo+Gozzini&amp;search_field=search</field>
+	</doc></add>

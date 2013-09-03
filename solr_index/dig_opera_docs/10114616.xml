@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114616</field>
+<field name="genre">Operas</field>
+<field name="title">Ten O'Clock Call</field>
+<field name="titleSort">Ten O'Clock Call</field>
+<field name="composer">Antony Hopkins</field>
+<field name="composerSort">Hopkins, Antony</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Winifred Radford</field>
+<field name="librettistSort">Radford, Winifred</field>
+<field name="theater">Intimate Opera Company</field>
+<field name="city">Cheltenham</field>
+<field name="region">Gloucestershire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ten+O'Clock+Call+Antony+Hopkins&amp;search_field=search</field>
+</doc>
+</add>

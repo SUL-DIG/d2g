@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133800</field>
+<field name="genre">Operas</field>
+<field name="title">Udolphs Geheimnis</field>
+<field name="titleSort">Udolphs Geheimnis</field>
+<field name="composer">Friedrich Zwonecek</field>
+<field name="composerSort">Zwonecek, Friedrich</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Seraphin Mandelzweig</field>
+<field name="librettistSort">Mandelzweig, Seraphin</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Udolphs+Geheimnis+Friedrich+Zwonecek&amp;search_field=search</field>
+</doc>
+</add>

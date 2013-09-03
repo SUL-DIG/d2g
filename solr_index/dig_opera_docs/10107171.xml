@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107171</field>
+<field name="genre">Operas</field>
+<field name="title">Sous les Charmilles</field>
+<field name="titleSort">Sous les Charmilles</field>
+<field name="composer">Auguste-Lucien Dautresme</field>
+<field name="composerSort">Dautresme, Auguste-Lucien</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Sebastien Kauffmann</field>
+<field name="librettistSort">Kauffmann, Sebastien</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sous+les+Charmilles+Auguste-Lucien+Dautresme&amp;search_field=search</field>
+</doc>
+</add>

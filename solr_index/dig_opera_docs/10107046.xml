@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107046</field>
+<field name="genre">Operas</field>
+<field name="title">I congiurati</field>
+<field name="titleSort">congiurati</field>
+<field name="composer">Luigi Dall'Argine</field>
+<field name="composerSort">Dall'Argine, Luigi</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Guido Marangoni</field>
+<field name="librettistSort">Marangoni, Guido</field>
+
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+congiurati+Luigi+Dall'Argine&amp;search_field=search</field>
+</doc>
+</add>

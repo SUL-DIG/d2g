@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120677</field>
+<field name="genre">Operas</field>
+<field name="title">The Flying Machine</field>
+<field name="titleSort">Flying Machine</field>
+<field name="composer">Newton Miller</field>
+<field name="composerSort">Miller, Newton</field>
+<field name="year">1969</field>
+<field name="date">1969</field><field name="theater">Redlands University</field>
+<field name="city">Redlands</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Flying+Machine+Newton+Miller&amp;search_field=search</field>
+</doc>
+</add>

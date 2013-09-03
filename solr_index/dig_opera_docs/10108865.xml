@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108865</field>
+<field name="genre">Operas</field>
+<field name="title">La pegnoratrice del 20 per cento</field>
+<field name="titleSort">pegnoratrice del 20 per cento</field>
+<field name="composer">Carlo Emery Coen</field>
+<field name="composerSort">Coen, Carlo Emery</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Paolo Giaramicca</field>
+<field name="librettistSort">Giaramicca, Paolo</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pegnoratrice+del+20+per+cento+Carlo+Emery+Coen&amp;search_field=search</field>
+</doc>
+</add>

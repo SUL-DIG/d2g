@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133584</field>
+<field name="genre">Operas</field>
+<field name="title">Antigona delusa da Alceste</field>
+<field name="titleSort">Antigona delusa da Alceste</field>
+<field name="composer">Pietro Andrea Ziani</field>
+<field name="composerSort">Ziani, Pietro Andrea</field>
+<field name="year">1660</field>
+<field name="date">1660</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigona+delusa+da+Alceste+Pietro+Andrea+Ziani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116603</field>
+<field name="genre">Operas</field>
+<field name="title">Charlotte et Werther</field>
+<field name="titleSort">Charlotte et Werther</field>
+<field name="composer">Rodolphe Kreutzer</field>
+<field name="composerSort">Kreutzer, Rodolphe</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Jean-Élie-Bédéno Dejaure</field>
+<field name="librettistSort">Dejaure, Jean-Élie-Bédéno</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charlotte+et+Werther+Rodolphe+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203692</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sacra Esther historia</field>
+		<field name="titleSort">Sacra Esther historia</field>
+		<field name="year">1761</field>
+		<field name="month">September</field>
+		<field name="day">14</field>
+		<field name="date">September 14, 1761</field>
+		<field name="composer">Gaetano Latilla</field>
+		<field name="composerSort">Latilla, Gaetano</field>
+		
+		
+		<field name="theater">Ospedale della Pietа</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sacra+Esther+historia+Gaetano+Latilla&amp;search_field=search</field>
+	</doc></add>

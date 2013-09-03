@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129627</field>
+<field name="genre">Operas</field>
+<field name="title">Der Alchymist</field>
+<field name="titleSort">Alchymist</field>
+<field name="composer">Louis Spohr</field>
+<field name="composerSort">Spohr, Louis</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">[Karl Pfeiffer] Friedrich Georg Schmidt</field>
+<field name="librettistSort">Schmidt, Friedrich Georg [Karl Pfeiffer]</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Alchymist+Louis+Spohr&amp;search_field=search</field>
+</doc>
+</add>

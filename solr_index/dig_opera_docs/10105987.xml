@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105987</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze in garbuglio</field>
+<field name="titleSort">nozze in garbuglio</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Giuseppe Maria Diodati</field>
+<field name="librettistSort">Diodati, Giuseppe Maria</field>
+<field name="theater">Teatro della Munizione</field>
+<field name="city">Messina</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+in+garbuglio+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

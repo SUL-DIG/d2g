@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101889</field>
+<field name="genre">Operas</field>
+<field name="title">Casanova</field>
+<field name="titleSort">Casanova</field>
+<field name="composer">Izsó Barna</field>
+<field name="composerSort">Barna, Izsó</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Jenö Faragó</field>
+<field name="librettistSort">Faragó, Jenö</field>
+<field name="theater">Népszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casanova+Izsó+Barna&amp;search_field=search</field>
+</doc>
+</add>

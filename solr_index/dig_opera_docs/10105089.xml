@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105089</field>
+<field name="genre">Operas</field>
+<field name="title">Marcos Botsaris</field>
+<field name="titleSort">Marcos Botsaris</field>
+<field name="composer">Pavlos Carrer</field>
+<field name="composerSort">Carrer, Pavlos</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Giovanni Caccialupi</field>
+<field name="librettistSort">Caccialupi, Giovanni</field>
+<field name="librettist">Aristotelis Valaoritis</field>
+<field name="librettistSort">Valaoritis, Aristotelis</field>
+
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcos+Botsaris+Pavlos+Carrer&amp;search_field=search</field>
+</doc>
+</add>

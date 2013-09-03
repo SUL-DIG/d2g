@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114599</field>
+<field name="genre">Operas</field>
+<field name="title">Jack of Newbury</field>
+<field name="titleSort">Jack of Newbury</field>
+<field name="composer">James Hook</field>
+<field name="composerSort">Hook, James</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">James Hook (jr.)</field>
+<field name="librettistSort">Hook (jr.), James</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jack+of+Newbury+James+Hook&amp;search_field=search</field>
+</doc>
+</add>

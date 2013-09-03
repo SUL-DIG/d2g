@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118365</field>
+<field name="genre">Operas</field>
+<field name="title">Il cuore a gas</field>
+<field name="titleSort">cuore a gas</field>
+<field name="composer">Daniele Lombardi</field>
+<field name="composerSort">Lombardi, Daniele</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Tristan Tzara</field>
+<field name="librettistSort">Tzara, Tristan</field>
+<field name="theater">Teatro Flaiano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cuore+a+gas+Daniele+Lombardi&amp;search_field=search</field>
+</doc>
+</add>

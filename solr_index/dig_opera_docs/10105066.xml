@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105066</field>
+<field name="genre">Operas</field>
+<field name="title">Fayel</field>
+<field name="titleSort">Fayel</field>
+<field name="composer">Fernando Caronna</field>
+<field name="composerSort">Caronna, Fernando</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Giovanni Villanti</field>
+<field name="librettistSort">Villanti, Giovanni</field>
+<field name="theater">Teatro Costanzi</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fayel+Fernando+Caronna&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119657</field>
+<field name="genre">Operas</field>
+<field name="title">Salammbô</field>
+<field name="titleSort">Salammbô</field>
+<field name="composer">Nicolò Massa</field>
+<field name="composerSort">Massa, Nicolò</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Francesco Zanardini</field>
+<field name="librettistSort">Zanardini, Francesco</field>
+<field name="librettist">Gustave Flaubert</field>
+<field name="librettistSort">Flaubert, Gustave</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salammbô+Nicolò+Massa&amp;search_field=search</field>
+</doc>
+</add>

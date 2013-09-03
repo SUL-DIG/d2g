@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102719</field>
+<field name="genre">Operas</field>
+<field name="title">"Corisandre, ou La rose magique</field>
+<field name="titleSort">"Corisandre, ou La rose magique"</field>
+<field name="composer">Henri-Montan Berton</field>
+<field name="composerSort">Berton, Henri-Montan</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Jacques-Arsène Ancelot</field>
+<field name="librettistSort">Ancelot, Jacques-Arsène</field>
+<field name="librettist">[Joseph-Xavier Boniface] Xavier Saintine</field>
+<field name="librettistSort">Saintine, Xavier [Joseph-Xavier Boniface]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Corisandre,+ou+La+rose+magique+Henri-Montan+Berton&amp;search_field=search</field>
+</doc>
+</add>

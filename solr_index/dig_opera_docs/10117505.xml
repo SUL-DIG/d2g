@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117505</field>
+<field name="genre">Operas</field>
+<field name="title">Shylock</field>
+<field name="titleSort">Shylock</field>
+<field name="composer">Wesley La Violette</field>
+<field name="composerSort">Violette, Wesley La</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Wesley La Violette</field>
+<field name="librettistSort">La Violette, Wesley</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Casino Club</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shylock+Wesley+La+Violette&amp;search_field=search</field>
+</doc>
+</add>

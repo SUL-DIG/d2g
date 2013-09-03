@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203245</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Gesù Christo</field>
+		<field name="titleSort">passione di Gesù Christo</field>
+		<field name="year">1783</field>
+		<field name="month">March</field>
+		<field name="day">19</field>
+		<field name="date">March 19, 1783</field>
+		<field name="composer">Luciano Xavier Santos</field>
+		<field name="composerSort">Santos, Luciano Xavier</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Palácio de Ajuda</field>
+		<field name="city">Lisbon</field>
+		<field name="region">Lisboa</field>
+		<field name="country">Portugal</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Gesù+Christo+Luciano+Xavier+Santos&amp;search_field=search</field>
+	</doc></add>

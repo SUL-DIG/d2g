@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130740</field>
+<field name="genre">Operas</field>
+<field name="title">Kyose k'ehya (The Balding Elder)</field>
+<field name="titleSort">Kyose k'ehya (The Balding Elder)</field>
+<field name="composer">Tigran Tchukhatjian</field>
+<field name="composerSort">Tchukhatjian, Tigran</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Gabriel Rshtuni</field>
+<field name="librettistSort">Rshtuni, Gabriel</field>
+
+<field name="city">Istanbul</field>
+
+<field name="country">Turkey</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kyose+k'ehya+The+Balding+Elder+Tigran+Tchukhatjian&amp;search_field=search</field>
+</doc>
+</add>

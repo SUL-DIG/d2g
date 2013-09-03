@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109791</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo di Quinto Fabio</field>
+<field name="titleSort">trionfo di Quinto Fabio</field>
+<field name="composer">Vincenzo Fiodo</field>
+<field name="composerSort">Fiodo, Vincenzo</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Michele Angelo Prunetti</field>
+<field name="librettistSort">Prunetti, Michele Angelo</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Quinto+Fabio+Vincenzo+Fiodo&amp;search_field=search</field>
+</doc>
+</add>

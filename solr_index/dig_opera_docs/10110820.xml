@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110820</field>
+<field name="genre">Operas</field>
+<field name="title">Il savoiardo</field>
+<field name="titleSort">savoiardo</field>
+<field name="composer">Vincenzo Galassi</field>
+<field name="composerSort">Galassi, Vincenzo</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+savoiardo+Vincenzo+Galassi&amp;search_field=search</field>
+</doc>
+</add>

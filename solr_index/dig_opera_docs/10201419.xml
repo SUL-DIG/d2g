@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201419</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I funerali del Redentore</field>
+		<field name="titleSort">funerali del Redentore</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Giovanni Battista Brevi</field>
+		<field name="composerSort">Brevi, Giovanni Battista</field>
+		
+		
+		
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Entombment of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+funerali+del+Redentore+Giovanni+Battista+Brevi&amp;search_field=search</field>
+	</doc></add>

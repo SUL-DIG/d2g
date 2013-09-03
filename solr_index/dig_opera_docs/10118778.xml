@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118778</field>
+<field name="genre">Operas</field>
+<field name="title">King Charles II</field>
+<field name="titleSort">King Charles II</field>
+<field name="composer">George Alexander Macfarren</field>
+<field name="composerSort">Macfarren, George Alexander</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Desmond Ryan</field>
+<field name="librettistSort">Ryan, Desmond</field>
+<field name="librettist">John Howard Payne</field>
+<field name="librettistSort">Payne, John Howard</field>
+<field name="theater">Princess's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+Charles+II+George+Alexander+Macfarren&amp;search_field=search</field>
+</doc>
+</add>

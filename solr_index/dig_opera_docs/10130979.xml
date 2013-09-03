@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130979</field>
+<field name="genre">Operas</field>
+<field name="title">La pomme de Turquie</field>
+<field name="titleSort">pomme de Turquie</field>
+<field name="composer">Pauline Thys</field>
+<field name="composerSort">Thys, Pauline</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Pauline Thys</field>
+<field name="librettistSort">Thys, Pauline</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pomme+de+Turquie+Pauline+Thys&amp;search_field=search</field>
+</doc>
+</add>

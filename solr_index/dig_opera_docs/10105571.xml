@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105571</field>
+<field name="genre">Operas</field>
+<field name="title">"Le portrait, ou La divinité du sauvage</field>
+<field name="titleSort">"portrait, ou La divinité du sauvage"</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Guillaume Saulnier</field>
+<field name="librettistSort">Saulnier, Guillaume</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+portrait,+ou+La+divinité+du+sauvage+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

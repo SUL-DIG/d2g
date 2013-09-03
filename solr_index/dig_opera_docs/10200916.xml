@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200916</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Debbora</field>
+		<field name="titleSort">Debbora</field>
+		<field name="year">1734</field>
+		<field name="month">April</field>
+		<field name="day">26</field>
+		<field name="date">April 26, 1734</field>
+		<field name="composer">Ignazio Maria Conti</field>
+		<field name="composerSort">Conti, Ignazio Maria</field>
+		<field name="librettist">Francesca Manzoni</field>
+		<field name="librettistSort">Manzoni, Francesca</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Deborah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Debbora+Ignazio+Maria+Conti&amp;search_field=search</field>
+	</doc></add>

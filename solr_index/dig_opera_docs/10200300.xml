@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200300</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Auferstehung und Himmelfahrt Jesu</field>
+		<field name="titleSort">Auferstehung und Himmelfahrt Jesu</field>
+		<field name="year">1778</field>
+		<field name="month">March</field>
+		<field name="day">18</field>
+		<field name="date">March 18, 1778</field>
+		<field name="composer">Carl Philipp Emanuel Bach</field>
+		<field name="composerSort">Bach, Carl Philipp</field>
+		<field name="librettist">Karl Wilhelm Ramler</field>
+		<field name="librettistSort">Ramler, Karl Wilhelm</field>
+		
+		<field name="theater">Concertsaal auf dem Kamp</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">From the Resurrection to Pentecost</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Auferstehung+und+Himmelfahrt+Jesu+Carl+Philipp+Emanuel+Bach&amp;search_field=search</field>
+	</doc></add>

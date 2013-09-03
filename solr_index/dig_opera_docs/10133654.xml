@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133654</field>
+<field name="genre">Operas</field>
+<field name="title">Die Mühle von Sanssouci</field>
+<field name="titleSort">Mühle von Sanssouci</field>
+<field name="composer">Karl Zimmer</field>
+<field name="composerSort">Zimmer, Karl</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Armin Petersen</field>
+<field name="librettistSort">Petersen, Armin</field>
+
+<field name="city">Rudolstadt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Mühle+von+Sanssouci+Karl+Zimmer&amp;search_field=search</field>
+</doc>
+</add>

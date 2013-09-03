@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114963</field>
+<field name="genre">Operas</field>
+<field name="title">Aya no tsuzumi (The Damask Drum)</field>
+<field name="titleSort">Aya no tsuzumi (The Damask Drum)</field>
+<field name="composer">Yoshiro Irino</field>
+<field name="composerSort">Irino, Yoshiro</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Hiroshi Mizuo</field>
+<field name="librettistSort">Mizuo, Hiroshi</field>
+<field name="theater">NHK Television (Nippon Hoso Kyokai)</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aya+no+tsuzumi+The+Damask+Drum+Yoshiro+Irino&amp;search_field=search</field>
+</doc>
+</add>

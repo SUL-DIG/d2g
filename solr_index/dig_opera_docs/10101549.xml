@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101549</field>
+<field name="genre">Operas</field>
+<field name="title">Le sire de la noce</field>
+<field name="titleSort">sire de la noce</field>
+<field name="composer">Léon Bach</field>
+<field name="composerSort">Bach, Léon</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Albert de Bausset</field>
+<field name="librettistSort">Bausset, Albert de</field>
+<field name="librettist">__ Saint-Genet</field>
+<field name="librettistSort">Saint-Genet, __</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sire+de+la+noce+Léon+Bach&amp;search_field=search</field>
+</doc>
+</add>

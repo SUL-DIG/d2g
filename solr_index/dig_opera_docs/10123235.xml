@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123235</field>
+<field name="genre">Operas</field>
+<field name="title">The Cask of Amontillado</field>
+<field name="titleSort">Cask of Amontillado</field>
+<field name="composer">Donald Para</field>
+<field name="composerSort">Para, Donald</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">Western Michigan University</field>
+<field name="city">Kalamazoo</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cask+of+Amontillado+Donald+Para&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200377</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Belsazar</field>
+		<field name="titleSort">Belsazar</field>
+		<field name="year">1825</field>
+		<field name="month">October</field>
+		<field name="day">13</field>
+		<field name="date">October 13, 1825</field>
+		<field name="composer">Johann Heinrich Clasing</field>
+		<field name="composerSort">Clasing, Johann Heinrich</field>
+		<field name="librettist">Oskar Ludwig Bernhard Wolff</field>
+		<field name="librettistSort">Wolff, Oskar Ludwig Bernhar</field>
+		
+		
+		<field name="city">Weimar</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Belshazzar</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belsazar+Johann+Heinrich+Clasing&amp;search_field=search</field>
+	</doc></add>

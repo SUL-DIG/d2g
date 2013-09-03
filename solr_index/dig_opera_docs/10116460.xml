@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116460</field>
+<field name="genre">Operas</field>
+<field name="title">Les Crétois</field>
+<field name="titleSort">Crétois</field>
+<field name="composer">Henri Kowalski</field>
+<field name="composerSort">Kowalski, Henri</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Crétois+Henri+Kowalski&amp;search_field=search</field>
+</doc>
+</add>

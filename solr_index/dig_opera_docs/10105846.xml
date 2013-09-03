@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105846</field>
+<field name="genre">Operas</field>
+<field name="title">J'aime</field>
+<field name="titleSort">J'aime</field>
+<field name="composer">Henri Christiné</field>
+<field name="composerSort">Christiné, Henri</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Albert Willemetz</field>
+<field name="librettistSort">Willemetz, Albert</field>
+<field name="librettist">[Jean de Granier de Cassagnac] Saint-Granier</field>
+<field name="librettistSort">Saint-Granier, [Jean de Granier de Cassagnac]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=J'aime+Henri+Christiné&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127856</field>
+<field name="genre">Operas</field>
+<field name="title">Il Cid</field>
+<field name="titleSort">Cid</field>
+<field name="composer">Luigi Savi</field>
+<field name="composerSort">Savi, Luigi</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Nuovo Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Cid+Luigi+Savi&amp;search_field=search</field>
+</doc>
+</add>

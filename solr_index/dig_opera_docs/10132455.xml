@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132455</field>
+<field name="genre">Operas</field>
+<field name="title">Love's Triumph</field>
+<field name="titleSort">Love's Triumph</field>
+<field name="composer">William Vincent Wallace</field>
+<field name="composerSort">Wallace, William Vincent</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">James Robinson Planché</field>
+<field name="librettistSort">Planché, James Robinson</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love's+Triumph+William+Vincent+Wallace&amp;search_field=search</field>
+</doc>
+</add>

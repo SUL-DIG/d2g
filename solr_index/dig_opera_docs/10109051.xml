@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109051</field>
+<field name="genre">Operas</field>
+<field name="title">Les travestissements de l'amour</field>
+<field name="titleSort">travestissements de l'amour</field>
+<field name="composer">Émile Etesse</field>
+<field name="composerSort">Etesse, Émile</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Alfred de Besancenet</field>
+<field name="librettistSort">Besancenet, Alfred de</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Dunkerque</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+travestissements+de+l'amour+Émile+Etesse&amp;search_field=search</field>
+</doc>
+</add>

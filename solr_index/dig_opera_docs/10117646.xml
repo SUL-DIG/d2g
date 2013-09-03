@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117646</field>
+<field name="genre">Operas</field>
+<field name="title">Stella</field>
+<field name="titleSort">Stella</field>
+<field name="composer">Adolphe Lecomte</field>
+<field name="composerSort">Lecomte, Adolphe</field>
+<field name="year">1840</field>
+<field name="date">1840</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Le Havre</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stella+Adolphe+Lecomte&amp;search_field=search</field>
+</doc>
+</add>

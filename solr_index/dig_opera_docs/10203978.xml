@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203978</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Barbara</field>
+		<field name="titleSort">Santa Barbara</field>
+		<field name="year">1757</field>
+		<field name="month">December</field>
+		<field name="day">4</field>
+		<field name="date">December 4, 1757</field>
+		<field name="composer">Francesco Corselli</field>
+		<field name="composerSort">Corselli, Francesco</field>
+		
+		
+		<field name="theater">Real Colegio di Niсos Cantorcicos</field>
+		<field name="city">Madrid</field>
+		<field name="region">Madrid</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Barbara</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">December 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Barbara+Francesco+Corselli&amp;search_field=search</field>
+	</doc></add>

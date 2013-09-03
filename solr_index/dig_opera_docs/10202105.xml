@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202105</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">István király (Saint Stephen)</field>
+		<field name="titleSort">István király (Saint Stephen)</field>
+		<field name="year">1942</field>
+		
+		
+		<field name="date">1942</field>
+		<field name="composer">Rezsö Kókai</field>
+		<field name="composerSort">Kókai, Rezsö</field>
+		<field name="librettist">István Németh</field>
+		<field name="librettistSort">Németh, István</field>
+		
+		
+		<field name="city">Budapest</field>
+		
+		<field name="country">Hungary</field>
+		<field name="subject">Saint Stephen I, king of Hungary</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">2</field>
+		<field name="feastDate">August 2</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=István+király+(Saint+Stephen)+Rezsö+Kókai&amp;search_field=search</field>
+	</doc></add>

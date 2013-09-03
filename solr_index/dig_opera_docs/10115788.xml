@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115788</field>
+<field name="genre">Operas</field>
+<field name="title">Irene</field>
+<field name="titleSort">Irene</field>
+<field name="composer">Alfredo Keil</field>
+<field name="composerSort">Keil, Alfredo</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">César Féréal</field>
+<field name="librettistSort">Féréal, César</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Irene+Alfredo+Keil&amp;search_field=search</field>
+</doc>
+</add>

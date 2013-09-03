@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130250</field>
+<field name="genre">Operas</field>
+<field name="title">"Boufarelli, ou Le prevôt de Milan</field>
+<field name="titleSort">"Boufarelli, ou Le prevôt de Milan"</field>
+<field name="composer">Joseph Strunz</field>
+<field name="composerSort">Strunz, Joseph</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boufarelli,+ou+Le+prevôt+de+Milan+Joseph+Strunz&amp;search_field=search</field>
+</doc>
+</add>

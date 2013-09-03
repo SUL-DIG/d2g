@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130280</field>
+<field name="genre">Operas</field>
+<field name="title">"La rappressaglia, ossia Il contraccambio</field>
+<field name="titleSort">"rappressaglia, ossia Il contraccambio"</field>
+<field name="composer">Joseph Hartmann Stuntz</field>
+<field name="composerSort">Stuntz, Joseph Hartmann</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Cesare Sterbini</field>
+<field name="librettistSort">Sterbini, Cesare</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rappressaglia,+ossia+Il+contraccambio+Joseph+Hartmann+Stuntz&amp;search_field=search</field>
+</doc>
+</add>

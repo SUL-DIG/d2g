@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201536</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giacobbe</field>
+		<field name="titleSort">Giacobbe</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Pietro Filippo Scarlatti</field>
+		<field name="composerSort">Scarlatti, Pietro Filippo</field>
+		
+		
+		
+		<field name="city">Urbino</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jacob</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacobbe+Pietro+Filippo+Scarlatti&amp;search_field=search</field>
+	</doc></add>

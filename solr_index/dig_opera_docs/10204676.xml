@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204676</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Gedeone</field>
+		<field name="titleSort">trionfo di Gedeone</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Giuseppe Radicchi</field>
+		<field name="composerSort">Radicchi, Giuseppe</field>
+		<field name="librettist">Giovanni Francesco Fattiboni</field>
+		<field name="librettistSort">Fattiboni, Giovanni Frances</field>
+		
+		
+		<field name="city">Ostra</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Gedeone+Giuseppe+Radicchi&amp;search_field=search</field>
+	</doc></add>

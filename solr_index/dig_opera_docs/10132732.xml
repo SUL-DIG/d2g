@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132732</field>
+<field name="genre">Operas</field>
+<field name="title">Meister Andrea</field>
+<field name="titleSort">Meister Andrea</field>
+<field name="composer">Felix Weingartner</field>
+<field name="composerSort">Weingartner, Felix</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Felix Weingartner</field>
+<field name="librettistSort">Weingartner, Felix</field>
+<field name="librettist">Emanuel Geibel</field>
+<field name="librettistSort">Geibel, Emanuel</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meister+Andrea+Felix+Weingartner&amp;search_field=search</field>
+</doc>
+</add>

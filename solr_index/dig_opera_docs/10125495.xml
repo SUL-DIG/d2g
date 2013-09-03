@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125495</field>
+<field name="genre">Operas</field>
+<field name="title">Il presidente disgraziato</field>
+<field name="titleSort">presidente disgraziato</field>
+<field name="composer">Pietro Raimondi</field>
+<field name="composerSort">Raimondi, Pietro</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+presidente+disgraziato+Pietro+Raimondi&amp;search_field=search</field>
+</doc>
+</add>

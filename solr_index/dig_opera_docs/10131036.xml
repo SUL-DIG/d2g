@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131036</field>
+<field name="genre">Operas</field>
+<field name="title">"Krest'yane, ili Vstrecha nezvannïkh</field>
+<field name="titleSort">"Krest'yane, ili Vstrecha nezvannïkh"</field>
+<field name="composer">Sergey Nikolayevich Titov</field>
+<field name="composerSort">Titov, Sergey Nikolayevich</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Aleksandr Aleksandrovich Shakhovskoy</field>
+<field name="librettistSort">Shakhovskoy, Aleksandr Aleksandrovich</field>
+<field name="theater">Deutsches Opernhaus</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krest'yane,+ili+Vstrecha+nezvannïkh+Sergey+Nikolayevich+Titov&amp;search_field=search</field>
+</doc>
+</add>

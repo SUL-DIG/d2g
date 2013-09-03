@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124542</field>
+<field name="genre">Operas</field>
+<field name="title">Un bizzarro inganno</field>
+<field name="titleSort">bizzarro inganno</field>
+<field name="composer">Dionigi Pogliani Gagliardi</field>
+<field name="composerSort">Gagliardi, Dionigi Pogliani</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Andrea Leone Tottola</field>
+<field name="librettistSort">Tottola, Andrea Leone</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+bizzarro+inganno+Dionigi+Pogliani+Gagliardi&amp;search_field=search</field>
+</doc>
+</add>

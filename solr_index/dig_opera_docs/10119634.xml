@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119634</field>
+<field name="genre">Operas</field>
+<field name="title">Vindice</field>
+<field name="titleSort">Vindice</field>
+<field name="composer">Umberto Masetti</field>
+<field name="composerSort">Masetti, Umberto</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Giovanni Battista Palmieri</field>
+<field name="librettistSort">Palmieri, Giovanni Battista</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vindice+Umberto+Masetti&amp;search_field=search</field>
+</doc>
+</add>

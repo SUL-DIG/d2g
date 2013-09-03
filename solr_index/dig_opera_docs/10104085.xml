@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104085</field>
+<field name="genre">Operas</field>
+<field name="title">Der Engel von Prag</field>
+<field name="titleSort">Engel von Prag</field>
+<field name="composer">Cesar Bresgen</field>
+<field name="composerSort">Bresgen, Cesar</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Cesar Bresgen</field>
+<field name="librettistSort">Bresgen, Cesar</field>
+<field name="librettist">Leo Perutz</field>
+<field name="librettistSort">Perutz, Leo</field>
+<field name="theater">Kleines Festspielhaus</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Engel+von+Prag+Cesar+Bresgen&amp;search_field=search</field>
+</doc>
+</add>

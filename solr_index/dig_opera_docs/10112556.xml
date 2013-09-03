@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112556</field>
+<field name="genre">Operas</field>
+<field name="title">Atala</field>
+<field name="titleSort">Atala</field>
+<field name="composer">Marie Grandval</field>
+<field name="composerSort">Grandval, Marie</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="librettist">François René de Chateaubriand</field>
+<field name="librettistSort">Chateaubriand, François René de</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atala+Marie+Grandval&amp;search_field=search</field>
+</doc>
+</add>

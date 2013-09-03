@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202229</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Johann Hus</field>
+		<field name="titleSort">Johann Hus</field>
+		<field name="year">1840</field>
+		<field name="month">January</field>
+		<field name="day">11</field>
+		<field name="date">January 11, 1840</field>
+		<field name="composer">Carl Loewe</field>
+		<field name="composerSort">Loewe, Carl</field>
+		<field name="librettist">August Zeune</field>
+		<field name="librettistSort">Zeune, August</field>
+		
+		
+		<field name="city">Szczecin</field>
+		<field name="region">Zachodniopomorskie</field>
+		<field name="country">Poland</field>
+		<field name="subject">John Hus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Johann+Hus+Carl+Loewe&amp;search_field=search</field>
+	</doc></add>

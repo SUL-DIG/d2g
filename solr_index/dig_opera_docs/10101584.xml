@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101584</field>
+<field name="genre">Operas</field>
+<field name="title">A Tree on the Plains</field>
+<field name="titleSort">Tree on the Plains</field>
+<field name="composer">Ernst Bacon</field>
+<field name="composerSort">Bacon, Ernst</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Paul Horgan</field>
+<field name="librettistSort">Horgan, Paul</field>
+<field name="theater">Converse College</field>
+<field name="city">Spartanburg</field>
+<field name="region">South Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Tree+on+the+Plains+Ernst+Bacon&amp;search_field=search</field>
+</doc>
+</add>

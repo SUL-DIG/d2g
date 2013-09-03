@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107607</field>
+<field name="genre">Operas</field>
+<field name="title">Vénus et Adonis</field>
+<field name="titleSort">Vénus et Adonis</field>
+<field name="composer">Henry Desmarets</field>
+<field name="composerSort">Desmarets, Henry</field>
+<field name="year">1697</field>
+<field name="date">1697</field>
+<field name="librettist">Jean-Baptiste Rousseau</field>
+<field name="librettistSort">Rousseau, Jean-Baptiste</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vénus+et+Adonis+Henry+Desmarets&amp;search_field=search</field>
+</doc>
+</add>

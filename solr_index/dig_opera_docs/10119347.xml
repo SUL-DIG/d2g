@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119347</field>
+<field name="genre">Operas</field>
+<field name="title">Il bargello</field>
+<field name="titleSort">bargello</field>
+<field name="composer">Cesare Marilli</field>
+<field name="composerSort">Marilli, Cesare</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Angelo Bignotti</field>
+<field name="librettistSort">Bignotti, Angelo</field>
+<field name="theater">Teatro Pezzana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bargello+Cesare+Marilli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106019</field>
+<field name="genre">Operas</field>
+<field name="title">I diavoli in carne</field>
+<field name="titleSort">diavoli in carne</field>
+<field name="composer">Prospero Cisotti</field>
+<field name="composerSort">Cisotti, Prospero</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Francesco Zanotto</field>
+<field name="librettistSort">Zanotto, Francesco</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Cittadella</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+diavoli+in+carne+Prospero+Cisotti&amp;search_field=search</field>
+</doc>
+</add>

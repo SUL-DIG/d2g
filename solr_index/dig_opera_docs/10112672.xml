@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112672</field>
+<field name="genre">Operas</field>
+<field name="title">Goldhansel</field>
+<field name="titleSort">Goldhansel</field>
+<field name="composer">Charles Grélinger</field>
+<field name="composerSort">Grélinger, Charles</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Ferdinand Bastian</field>
+<field name="librettistSort">Bastian, Ferdinand</field>
+<field name="librettist">C. Hadinger</field>
+<field name="librettistSort">Hadinger, C.</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Mühlhausen</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goldhansel+Charles+Grélinger&amp;search_field=search</field>
+</doc>
+</add>

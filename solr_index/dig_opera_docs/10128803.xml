@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128803</field>
+<field name="genre">Operas</field>
+<field name="title">The Photo of the Colonel</field>
+<field name="titleSort">Photo of the Colonel</field>
+<field name="composer">Humphrey Searle</field>
+<field name="composerSort">Searle, Humphrey</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Humphrey Searle</field>
+<field name="librettistSort">Searle, Humphrey</field>
+<field name="librettist">Eugène Ionesco</field>
+<field name="librettistSort">Ionesco, Eugène</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Photo+of+the+Colonel+Humphrey+Searle&amp;search_field=search</field>
+</doc>
+</add>

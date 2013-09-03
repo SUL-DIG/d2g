@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112183</field>
+<field name="genre">Operas</field>
+<field name="title">Ipermestra</field>
+<field name="titleSort">Ipermestra</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ipermestra+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124445</field>
+<field name="genre">Operas</field>
+<field name="title">La sacra rappresentazione di Abram e d'Isaac</field>
+<field name="titleSort">sacra rappresentazione di Abram e d'Isaac</field>
+<field name="composer">Ildebrando Pizzetti</field>
+<field name="composerSort">Pizzetti, Ildebrando</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Onorato Castellino</field>
+<field name="librettistSort">Castellino, Onorato</field>
+<field name="librettist">Feo Belcari</field>
+<field name="librettistSort">Belcari, Feo</field>
+<field name="theater">Teatro Morlacchi</field>
+<field name="city">Perugia</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sacra+rappresentazione+di+Abram+e+d'Isaac+Ildebrando+Pizzetti&amp;search_field=search</field>
+</doc>
+</add>

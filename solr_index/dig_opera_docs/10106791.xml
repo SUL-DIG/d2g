@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106791</field>
+<field name="genre">Operas</field>
+<field name="title">Cordelia</field>
+<field name="titleSort">Cordelia</field>
+<field name="composer">Giulio Cottrau</field>
+<field name="composerSort">Cottrau, Giulio</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Giulio Cottrau</field>
+<field name="librettistSort">Cottrau, Giulio</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro del Corso</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cordelia+Giulio+Cottrau&amp;search_field=search</field>
+</doc>
+</add>

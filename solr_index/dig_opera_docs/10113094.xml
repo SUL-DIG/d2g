@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113094</field>
+<field name="genre">Operas</field>
+<field name="title">David</field>
+<field name="titleSort">David</field>
+<field name="composer">Vittorio Gui</field>
+<field name="composerSort">Gui, Vittorio</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Vittorio Gui</field>
+<field name="librettistSort">Gui, Vittorio</field>
+<field name="librettist">Corrado Cozza</field>
+<field name="librettistSort">Cozza, Corrado</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Vittorio+Gui&amp;search_field=search</field>
+</doc>
+</add>

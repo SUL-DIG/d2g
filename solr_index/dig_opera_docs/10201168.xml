@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201168</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Erscheinung Christi</field>
+		<field name="titleSort">Erscheinung Christi</field>
+		<field name="year">1787</field>
+		
+		
+		<field name="date">1787</field>
+		<field name="composer">Ernst Wilhelm Wolf</field>
+		<field name="composerSort">Wolf, Ernst Wilhelm</field>
+		<field name="librettist">Heinrich Julius Tode</field>
+		<field name="librettistSort">Tode, Heinrich Julius</field>
+		
+		
+		<field name="city">Weimar</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Erscheinung+Christi+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
+	</doc></add>

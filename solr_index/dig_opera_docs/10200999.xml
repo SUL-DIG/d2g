@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200999</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Dio sempre grande</field>
+		<field name="titleSort">Dio sempre grande</field>
+		<field name="year">1696</field>
+		<field name="month">March</field>
+		<field name="day">20</field>
+		<field name="date">March 20, 1696</field>
+		<field name="composer">Attilio Ariosti</field>
+		<field name="composerSort">Ariosti, Attilio</field>
+		<field name="librettist">Alessandro Gargieria</field>
+		<field name="librettistSort">Gargieria, Alessandro</field>
+		
+		
+		<field name="city">Mantua</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dio+sempre+grande+Attilio+Ariosti&amp;search_field=search</field>
+	</doc></add>

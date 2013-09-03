@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100989</field>
+<field name="genre">Operas</field>
+<field name="title">Postcard from Morocco</field>
+<field name="titleSort">Postcard from Morocco</field>
+<field name="composer">Dominick Argento</field>
+<field name="composerSort">Argento, Dominick</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">John Donahue</field>
+<field name="librettistSort">Donahue, John</field>
+<field name="theater">Cedar Village Theater</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Postcard+from+Morocco+Dominick+Argento&amp;search_field=search</field>
+</doc>
+</add>

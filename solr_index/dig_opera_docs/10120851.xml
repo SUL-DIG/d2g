@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120851</field>
+<field name="genre">Operas</field>
+<field name="title">Zori zdes' tikhiye (The Dawns are Quiet Here)</field>
+<field name="titleSort">Zori zdes' tikhiye (The Dawns are Quiet Here)</field>
+<field name="composer">Kirill Valdimirovich Molchanov</field>
+<field name="composerSort">Molchanov, Kirill Valdimirovich</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Kirill Valdimirovich Molchanov</field>
+<field name="librettistSort">Molchanov, Kirill Valdimirovich</field>
+<field name="librettist">Boris Vasil'yev</field>
+<field name="librettistSort">Vasil'yev, Boris</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zori+zdes'+tikhiye+The+Dawns+are+Quiet+Here+Kirill+Valdimirovich+Molchanov&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132383</field>
+<field name="genre">Operas</field>
+<field name="title">Jugend</field>
+<field name="titleSort">Jugend</field>
+<field name="composer">Ignatz Waghalter</field>
+<field name="composerSort">Waghalter, Ignatz</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Hans Richard Weinhöppel</field>
+<field name="librettistSort">Weinhöppel, Hans Richard</field>
+<field name="librettist">Max Halbe</field>
+<field name="librettistSort">Halbe, Max</field>
+<field name="theater">Deutsches Oper</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jugend+Ignatz+Waghalter&amp;search_field=search</field>
+</doc>
+</add>

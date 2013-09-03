@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126367</field>
+<field name="genre">Operas</field>
+<field name="title">Le singe et la mariée</field>
+<field name="titleSort">singe et la mariée</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Henry Buguet</field>
+<field name="librettistSort">Buguet, Henry</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+singe+et+la+mariée+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

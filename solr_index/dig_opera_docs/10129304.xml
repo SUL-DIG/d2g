@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129304</field>
+<field name="genre">Operas</field>
+<field name="title">Cockcrow</field>
+<field name="titleSort">Cockcrow</field>
+<field name="composer">Julia Smith</field>
+<field name="composerSort">Smith, Julia</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Constance D'Arcy Mackay</field>
+<field name="librettistSort">Mackay, Constance D'Arcy</field>
+<field name="theater">Driskill Hotel</field>
+<field name="city">Austin</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cockcrow+Julia+Smith&amp;search_field=search</field>
+</doc>
+</add>

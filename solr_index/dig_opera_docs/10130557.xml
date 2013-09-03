@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130557</field>
+<field name="genre">Operas</field>
+<field name="title">The Girl Behind the Counter</field>
+<field name="titleSort">Girl Behind the Counter</field>
+<field name="composer">Howard Talbot</field>
+<field name="composerSort">Talbot, Howard</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Leedham Bantock</field>
+<field name="librettistSort">Bantock, Leedham</field>
+<field name="librettist">Frederick Arthur Bertram Anderson</field>
+<field name="librettistSort">Anderson, Frederick Arthur Bertram</field>
+<field name="theater">Wyndham's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Girl+Behind+the+Counter+Howard+Talbot&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204563</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Transfiguration</field>
+		<field name="titleSort">Transfiguration</field>
+		<field name="year">1895</field>
+		
+		
+		<field name="date">1895</field>
+		<field name="composer">Frederick Hymen Cowen</field>
+		<field name="composerSort">Cowen, Frederick Hymen</field>
+		<field name="librettist">Joseph Bennett</field>
+		<field name="librettistSort">Bennett, Joseph</field>
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Gloucester</field>
+		<field name="region">Gloucestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Christ and the Widow of Nain</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Transfiguration+Frederick+Hymen+Cowen&amp;search_field=search</field>
+	</doc></add>

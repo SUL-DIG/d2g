@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130688</field>
+<field name="genre">Operas</field>
+<field name="title">Joggeli</field>
+<field name="titleSort">Joggeli</field>
+<field name="composer">Wilhelm Taubert</field>
+<field name="composerSort">Taubert, Wilhelm</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Hans Klöster</field>
+<field name="librettistSort">Klöster, Hans</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joggeli+Wilhelm+Taubert&amp;search_field=search</field>
+</doc>
+</add>

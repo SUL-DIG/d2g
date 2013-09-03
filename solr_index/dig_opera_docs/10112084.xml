@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112084</field>
+<field name="genre">Operas</field>
+<field name="title">Chi ha più giudizio più ne adopri</field>
+<field name="titleSort">Chi ha più giudizio più ne adopri</field>
+<field name="composer">Francesco Giuliani</field>
+<field name="composerSort">Giuliani, Francesco</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Cosimo Mazzini</field>
+<field name="librettistSort">Mazzini, Cosimo</field>
+<field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+ha+più+giudizio+più+ne+adopri+Francesco+Giuliani&amp;search_field=search</field>
+</doc>
+</add>

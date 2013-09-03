@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109545</field>
+<field name="genre">Operas</field>
+<field name="title">Ulto</field>
+<field name="titleSort">Ulto</field>
+<field name="composer">Aldo Ferloni</field>
+<field name="composerSort">Ferloni, Aldo</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Renzo Codara</field>
+<field name="librettistSort">Codara, Renzo</field>
+
+<field name="city">Como</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulto+Aldo+Ferloni&amp;search_field=search</field>
+</doc>
+</add>

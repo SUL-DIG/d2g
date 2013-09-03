@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131508</field>
+<field name="genre">Operas</field>
+<field name="title">Die Apotheke</field>
+<field name="titleSort">Apotheke</field>
+<field name="composer">Ignaz Umlauf</field>
+<field name="composerSort">Umlauf, Ignaz</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Johann Jacob Engel</field>
+<field name="librettistSort">Engel, Johann Jacob</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Apotheke+Ignaz+Umlauf&amp;search_field=search</field>
+</doc>
+</add>

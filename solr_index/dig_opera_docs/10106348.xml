@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106348</field>
+<field name="genre">Operas</field>
+<field name="title">Elena e Paride</field>
+<field name="titleSort">Elena e Paride</field>
+<field name="composer">Filippo Maria Collinelli</field>
+<field name="composerSort">Collinelli, Filippo Maria</field>
+<field name="year">1701</field>
+<field name="date">1701</field><field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elena+e+Paride+Filippo+Maria+Collinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203419</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Pilgrime auf Golgatha</field>
+		<field name="titleSort">Pilgrime auf Golgatha</field>
+		<field name="year">1769</field>
+		
+		
+		<field name="date">1769</field>
+		<field name="composer">Johann Christoph Friedrich Bach</field>
+		<field name="composerSort">Bach, Johann Christoph Friedrich</field>
+		<field name="librettist">Friedrich Wilhelm Zachariä</field>
+		<field name="librettistSort">Zachariä, Friedrich Wilhelm</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Pilgrime+auf+Golgatha+Johann+Christoph+Friedrich+Bach&amp;search_field=search</field>
+	</doc></add>

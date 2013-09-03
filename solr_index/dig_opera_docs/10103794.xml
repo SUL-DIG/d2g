@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103794</field>
+<field name="genre">Operas</field>
+<field name="title">Passa la ronda!</field>
+<field name="titleSort">Passa la ronda!</field>
+<field name="composer">Renzo Bossi</field>
+<field name="composerSort">Bossi, Renzo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Luigi Orsini</field>
+<field name="librettistSort">Orsini, Luigi</field>
+<field name="librettist">Robert Francheville</field>
+<field name="librettistSort">Francheville, Robert</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passa+la+ronda!+Renzo+Bossi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100142</field>
+<field name="genre">Operas</field>
+<field name="title">Perkins Warbeck</field>
+<field name="titleSort">Perkins Warbeck</field>
+<field name="composer">Adolphe Adam</field>
+<field name="composerSort">Adam, Adolphe</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="librettist">Nicolas Brazier</field>
+<field name="librettistSort">Brazier, Nicolas</field>
+<field name="theater">Théâtre du Gymnase</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Perkins+Warbeck+Adolphe+Adam&amp;search_field=search</field>
+</doc>
+</add>

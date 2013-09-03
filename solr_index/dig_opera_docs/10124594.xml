@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124594</field>
+<field name="genre">Operas</field>
+<field name="title">La rappressaglia</field>
+<field name="titleSort">rappressaglia</field>
+<field name="composer">Johann Nepomuk Poissl</field>
+<field name="composerSort">Poissl, Johann Nepomuk</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Johann Nepomuk Poissl</field>
+<field name="librettistSort">Poissl, Johann Nepomuk</field>
+<field name="librettist">Cesare Sterbini</field>
+<field name="librettistSort">Sterbini, Cesare</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rappressaglia+Johann+Nepomuk+Poissl&amp;search_field=search</field>
+</doc>
+</add>

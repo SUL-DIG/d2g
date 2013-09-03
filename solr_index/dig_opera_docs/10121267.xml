@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121267</field>
+<field name="genre">Operas</field>
+<field name="title">Gabriella Candiano</field>
+<field name="titleSort">Gabriella Candiano</field>
+<field name="composer">Augusto Moroder</field>
+<field name="composerSort">Moroder, Augusto</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabriella+Candiano+Augusto+Moroder&amp;search_field=search</field>
+</doc>
+</add>

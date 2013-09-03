@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114210</field>
+<field name="genre">Operas</field>
+<field name="title">La jeunesse d'Haydn</field>
+<field name="titleSort">jeunesse d'Haydn</field>
+<field name="composer">Charles Hetzel</field>
+<field name="composerSort">Hetzel, Charles</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">__ Duménil</field>
+<field name="librettistSort">Duménil, __</field>
+<field name="theater">Théâtre des Batignolles et Montmartre</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jeunesse+d'Haydn+Charles+Hetzel&amp;search_field=search</field>
+</doc>
+</add>

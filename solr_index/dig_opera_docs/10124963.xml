@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124963</field>
+<field name="genre">Operas</field>
+<field name="title">Fernando nel Messico</field>
+<field name="titleSort">Fernando nel Messico</field>
+<field name="composer">Marcos António Portugal</field>
+<field name="composerSort">Portugal, Marcos António</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Filippo Tarducci</field>
+<field name="librettistSort">Tarducci, Filippo</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fernando+nel+Messico+Marcos+António+Portugal&amp;search_field=search</field>
+</doc>
+</add>

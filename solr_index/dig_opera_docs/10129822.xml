@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129822</field>
+<field name="genre">Operas</field>
+<field name="title">Der Jägerwirt</field>
+<field name="titleSort">Jägerwirt</field>
+<field name="composer">Hans Steiner</field>
+<field name="composerSort">Steiner, Hans</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Alois Prach</field>
+<field name="librettistSort">Prach, Alois</field>
+<field name="librettist">Hermann Schmid</field>
+<field name="librettistSort">Schmid, Hermann</field>
+<field name="theater">Fürstlische Thurn und Taxissches-Theater im Ballsaale</field>
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Jägerwirt+Hans+Steiner&amp;search_field=search</field>
+</doc>
+</add>

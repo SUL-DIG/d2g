@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107525</field>
+<field name="genre">Operas</field>
+<field name="title">Wallenstein</field>
+<field name="titleSort">Wallenstein</field>
+<field name="composer">Luigi Denza</field>
+<field name="composerSort">Denza, Luigi</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Angelo Bruner</field>
+<field name="librettistSort">Bruner, Angelo</field>
+<field name="theater">Teatro Mercadante</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wallenstein+Luigi+Denza&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133732</field>
+<field name="genre">Operas</field>
+<field name="title">Faust</field>
+<field name="titleSort">Faust</field>
+<field name="composer">Heinrich Zöllner</field>
+<field name="composerSort">Zöllner, Heinrich</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Heinrich Zöllner</field>
+<field name="librettistSort">Zöllner, Heinrich</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faust+Heinrich+Zöllner&amp;search_field=search</field>
+</doc>
+</add>

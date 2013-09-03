@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102585</field>
+<field name="genre">Operas</field>
+<field name="title">The Child</field>
+<field name="titleSort">Child</field>
+<field name="composer">José Raoul Bernardo</field>
+<field name="composerSort">Bernardo, José Raoul</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">José Raoul Bernardo</field>
+<field name="librettistSort">Bernardo, José Raoul</field>
+<field name="librettist">José Martí</field>
+<field name="librettistSort">Martí, José</field>
+<field name="theater">State University of New York</field>
+<field name="city">Albany</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Child+José+Raoul+Bernardo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202350</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El juicio universal</field>
+		<field name="titleSort">juicio universal</field>
+		<field name="year">1787</field>
+		<field name="month">February</field>
+		<field name="day">20</field>
+		<field name="date">February 20, 1787</field>
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">The Last Judgment</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+juicio+universal+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

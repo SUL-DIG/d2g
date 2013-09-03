@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128105</field>
+<field name="genre">Operas</field>
+<field name="title">Robby - Ein Abenteuer</field>
+<field name="titleSort">Robby - Ein Abenteuer</field>
+<field name="composer">Hermann Schäfer</field>
+<field name="composerSort">Schäfer, Hermann</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Heinz Ufer</field>
+<field name="librettistSort">Ufer, Heinz</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robby+-+Ein+Abenteuer+Hermann+Schäfer&amp;search_field=search</field>
+</doc>
+</add>

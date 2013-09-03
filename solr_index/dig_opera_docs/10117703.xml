@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117703</field>
+<field name="genre">Operas</field>
+<field name="title">Ma fille</field>
+<field name="titleSort">Ma fille</field>
+<field name="composer">Isidore-Édouard Legouix</field>
+<field name="composerSort">Legouix, Isidore-Édouard</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Alexis Bouvier</field>
+<field name="librettistSort">Bouvier, Alexis</field>
+<field name="theater">Nouvelle Salle des Délassements-Comiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ma+fille+Isidore-Édouard+Legouix&amp;search_field=search</field>
+</doc>
+</add>

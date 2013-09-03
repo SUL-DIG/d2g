@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106814</field>
+<field name="genre">Operas</field>
+<field name="title">Signa</field>
+<field name="titleSort">Signa</field>
+<field name="composer">Frederick Hymen Cowen</field>
+<field name="composerSort">Cowen, Frederick Hymen</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Gilbert Arthur a'Beckett</field>
+<field name="librettistSort">a'Beckett, Gilbert Arthur</field>
+<field name="librettist">Henry Alexander Rudall</field>
+<field name="librettistSort">Rudall, Henry Alexander</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Signa+Frederick+Hymen+Cowen&amp;search_field=search</field>
+</doc>
+</add>

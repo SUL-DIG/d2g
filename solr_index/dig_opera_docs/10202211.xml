@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202211</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Joas</field>
+		<field name="titleSort">Joas</field>
+		<field name="year">1723</field>
+		
+		
+		<field name="date">1723</field>
+		<field name="composer">Federico Calderini</field>
+		<field name="composerSort">Calderini, Federico</field>
+		
+		
+		<field name="theater">Oratorio Filippino della Madonna di Galliera</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joas+Federico+Calderini&amp;search_field=search</field>
+	</doc></add>

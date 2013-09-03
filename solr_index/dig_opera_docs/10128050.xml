@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128050</field>
+<field name="genre">Operas</field>
+<field name="title">"Amiti e Ontario, o I selvaggi</field>
+<field name="titleSort">"Amiti e Ontario, o I selvaggi"</field>
+<field name="composer">Giuseppe Scarlatti</field>
+<field name="composerSort">Scarlatti, Giuseppe</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Raniero de' Calzabigi</field>
+<field name="librettistSort">Calzabigi, Raniero de'</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amiti+e+Ontario,+o+I+selvaggi+Giuseppe+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

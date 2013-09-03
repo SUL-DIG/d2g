@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105639</field>
+<field name="genre">Operas</field>
+<field name="title">Médée</field>
+<field name="titleSort">Médée</field>
+<field name="composer">Marc-Antoine Charpentier</field>
+<field name="composerSort">Charpentier, Marc-Antoine</field>
+<field name="year">1693</field>
+<field name="date">1693</field>
+<field name="librettist">Thomas Corneille</field>
+<field name="librettistSort">Corneille, Thomas</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Médée+Marc-Antoine+Charpentier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117941</field>
+<field name="genre">Operas</field>
+<field name="title">L'oracolo</field>
+<field name="titleSort">oracolo</field>
+<field name="composer">Franco Leoni</field>
+<field name="composerSort">Leoni, Franco</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Camillo Zanoni</field>
+<field name="librettistSort">Zanoni, Camillo</field>
+<field name="librettist">Chester Bailey Fernald</field>
+<field name="librettistSort">Fernald, Chester Bailey</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oracolo+Franco+Leoni&amp;search_field=search</field>
+</doc>
+</add>

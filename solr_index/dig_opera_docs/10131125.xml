@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131125</field>
+<field name="genre">Operas</field>
+<field name="title">Venceslao</field>
+<field name="titleSort">Venceslao</field>
+<field name="composer">Pietro Torri</field>
+<field name="composerSort">Torri, Pietro</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venceslao+Pietro+Torri&amp;search_field=search</field>
+</doc>
+</add>

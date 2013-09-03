@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117218</field>
+<field name="genre">Operas</field>
+<field name="title">Vikingeblod</field>
+<field name="titleSort">Vikingeblod</field>
+<field name="composer">Peter Erasmus Lange-Müller</field>
+<field name="composerSort">Lange-Müller, Peter Erasmus</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Einar Christiansen</field>
+<field name="librettistSort">Christiansen, Einar</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vikingeblod+Peter+Erasmus+Lange-Müller&amp;search_field=search</field>
+</doc>
+</add>

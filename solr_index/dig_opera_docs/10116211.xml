@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116211</field>
+<field name="genre">Operas</field>
+<field name="title">Die Waise auf Frywalden</field>
+<field name="titleSort">Waise auf Frywalden</field>
+<field name="composer">Johann Nepomuk Köck</field>
+<field name="composerSort">Köck, Johann Nepomuk</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Johann Nepomuk Köck</field>
+<field name="librettistSort">Köck, Johann Nepomuk</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Waise+auf+Frywalden+Johann+Nepomuk+Köck&amp;search_field=search</field>
+</doc>
+</add>

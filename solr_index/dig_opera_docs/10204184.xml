@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204184</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saulle ovvero Il trionfo di Davide</field>
+		<field name="titleSort">Saulle ovvero Il trionfo di Davide</field>
+		<field name="year">1805</field>
+		
+		
+		<field name="date">1805</field>
+		<field name="composer">Niccolò Antonio Zingarelli</field>
+		<field name="composerSort">Zingarelli, Niccolò Antonio</field>
+		<field name="librettist">Jacopo Ferretti</field>
+		<field name="librettistSort">Ferretti, Jacopo</field>
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saulle+ovvero+Il+trionfo+di+Davide+Niccolò+Antonio+Zingarelli&amp;search_field=search</field>
+	</doc></add>

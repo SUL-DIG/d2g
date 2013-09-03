@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130669</field>
+<field name="genre">Operas</field>
+<field name="title">Marcella</field>
+<field name="titleSort">Marcella</field>
+<field name="composer">Mario Tarenghi</field>
+<field name="composerSort">Tarenghi, Mario</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcella+Mario+Tarenghi&amp;search_field=search</field>
+</doc>
+</add>

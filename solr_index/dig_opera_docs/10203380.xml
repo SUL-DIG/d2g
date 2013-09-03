@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203380</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Petri Gefängniss</field>
+		<field name="titleSort">Petri Gefängniss</field>
+		<field name="year">1870</field>
+		
+		
+		<field name="date">1870</field>
+		<field name="composer">Friedrich Knoch</field>
+		<field name="composerSort">Knoch, Friedrich</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petri+Gefängniss+Friedrich+Knoch&amp;search_field=search</field>
+	</doc></add>

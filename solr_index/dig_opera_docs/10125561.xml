@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125561</field>
+<field name="genre">Operas</field>
+<field name="title">Il ragno azzurro</field>
+<field name="titleSort">ragno azzurro</field>
+<field name="composer">Alberto Iginio Randegger</field>
+<field name="composerSort">Randegger, Alberto Iginio</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Paolo Santarone</field>
+<field name="librettistSort">Santarone, Paolo</field>
+<field name="theater">Teatro Diana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ragno+azzurro+Alberto+Iginio+Randegger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102829</field>
+<field name="genre">Operas</field>
+<field name="title">Rosa di Maggio</field>
+<field name="titleSort">Rosa di Maggio</field>
+<field name="composer">Angelo Bettinelli</field>
+<field name="composerSort">Bettinelli, Angelo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosa+di+Maggio+Angelo+Bettinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110399</field>
+<field name="genre">Operas</field>
+<field name="title">Alceste</field>
+<field name="titleSort">Alceste</field>
+<field name="composer">Johann Wolfgang Franck</field>
+<field name="composerSort">Franck, Johann Wolfgang</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Johann Philipp Förtsch</field>
+<field name="librettistSort">Förtsch, Johann Philipp</field>
+<field name="librettist">__ Matsen</field>
+<field name="librettistSort">Matsen, __</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alceste+Johann+Wolfgang+Franck&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127669</field>
+<field name="genre">Operas</field>
+<field name="title">Il babbeo e l'intrigante (I pescatori di Napoli)</field>
+<field name="titleSort">babbeo e l'intrigante (I pescatori di Napoli)</field>
+<field name="composer">Enrico Sarria</field>
+<field name="composerSort">Sarria, Enrico</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Enrico Cofino</field>
+<field name="librettistSort">Cofino, Enrico</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+babbeo+e+l'intrigante+I+pescatori+di+Napoli+Enrico+Sarria&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131773</field>
+<field name="genre">Operas</field>
+<field name="title">Le commandant Laripète</field>
+<field name="titleSort">commandant Laripète</field>
+<field name="composer">Léon Vasseur</field>
+<field name="composerSort">Vasseur, Léon</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="librettist">[Paul Roucoux] Paul Burani</field>
+<field name="librettistSort">Burani, Paul [Paul Roucoux]</field>
+<field name="theater">Théâtre des Nouveautés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+commandant+Laripète+Léon+Vasseur&amp;search_field=search</field>
+</doc>
+</add>

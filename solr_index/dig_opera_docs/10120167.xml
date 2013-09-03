@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120167</field>
+<field name="genre">Operas</field>
+<field name="title">Il pazzo per forza</field>
+<field name="titleSort">pazzo per forza</field>
+<field name="composer">Jacopo Melani</field>
+<field name="composerSort">Melani, Jacopo</field>
+<field name="year">1658</field>
+<field name="date">1658</field>
+<field name="librettist">Giovanni Andrea Moniglia</field>
+<field name="librettistSort">Moniglia, Giovanni Andrea</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pazzo+per+forza+Jacopo+Melani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117482</field>
+<field name="genre">Operas</field>
+<field name="title">"Nérida, épisode de la conquête du Pérou</field>
+<field name="titleSort">"Nérida, épisode de la conquête du Pérou"</field>
+<field name="composer">Ferdinand Lavainne</field>
+<field name="composerSort">Lavainne, Ferdinand</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Henri Dupont</field>
+<field name="librettistSort">Dupont, Henri</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nérida,+épisode+de+la+conquête+du+Pérou+Ferdinand+Lavainne&amp;search_field=search</field>
+</doc>
+</add>

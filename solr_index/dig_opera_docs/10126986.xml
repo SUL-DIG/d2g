@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126986</field>
+<field name="genre">Operas</field>
+<field name="title">Endimione</field>
+<field name="titleSort">Endimione</field>
+<field name="composer">Antonio Rugarli</field>
+<field name="composerSort">Rugarli, Antonio</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Endimione+Antonio+Rugarli&amp;search_field=search</field>
+</doc>
+</add>

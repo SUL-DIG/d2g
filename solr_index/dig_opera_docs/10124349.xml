@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124349</field>
+<field name="genre">Operas</field>
+<field name="title">Der Gemsjäger</field>
+<field name="titleSort">Gemsjäger</field>
+<field name="composer">Ferdinand Pillwitz</field>
+<field name="composerSort">Pillwitz, Ferdinand</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Ferdinand Pillwitz</field>
+<field name="librettistSort">Pillwitz, Ferdinand</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Gemsjäger+Ferdinand+Pillwitz&amp;search_field=search</field>
+</doc>
+</add>

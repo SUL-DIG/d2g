@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132037</field>
+<field name="genre">Operas</field>
+<field name="title">Baldassare</field>
+<field name="titleSort">Baldassare</field>
+<field name="composer">Gaspar Villate</field>
+<field name="composerSort">Villate, Gaspar</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Carlo d'Ormeville</field>
+<field name="librettistSort">d'Ormeville, Carlo</field>
+<field name="librettist">Gertrudis Gomez de Avellaneda</field>
+<field name="librettistSort">Gomez de Avellaneda, Gertrudis</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baldassare+Gaspar+Villate&amp;search_field=search</field>
+</doc>
+</add>

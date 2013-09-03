@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126172</field>
+<field name="genre">Operas</field>
+<field name="title">Le savetier et le financier</field>
+<field name="titleSort">savetier et le financier</field>
+<field name="composer">Henri-Joseph Rigel</field>
+<field name="composerSort">Rigel, Henri-Joseph</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Jean-Baptiste Lourdet de Santerre</field>
+<field name="librettistSort">Lourdet de Santerre, Jean-Baptiste</field>
+<field name="librettist">Jean de La Fontaine</field>
+<field name="librettistSort">La Fontaine, Jean de</field>
+<field name="theater">Château de Marly</field>
+<field name="city">Marly-le-Roi</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+savetier+et+le+financier+Henri-Joseph+Rigel&amp;search_field=search</field>
+</doc>
+</add>

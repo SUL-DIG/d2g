@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118660</field>
+<field name="genre">Operas</field>
+<field name="title">Psyché</field>
+<field name="titleSort">Psyché</field>
+<field name="composer">Jean-Baptiste Lully</field>
+<field name="composerSort">Lully, Jean-Baptiste</field>
+<field name="year">1678</field>
+<field name="date">1678</field>
+<field name="librettist">Thomas Corneille</field>
+<field name="librettistSort">Corneille, Thomas</field>
+<field name="librettist">Bernard le Bovier de Fontenelle</field>
+<field name="librettistSort">Fontenelle, Bernard le Bovier de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Psyché+Jean-Baptiste+Lully&amp;search_field=search</field>
+</doc>
+</add>

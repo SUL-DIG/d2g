@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118813</field>
+<field name="genre">Operas</field>
+<field name="title">Guillem the Troubadour</field>
+<field name="titleSort">Guillem the Troubadour</field>
+<field name="composer">Alexander Mackenzie</field>
+<field name="composerSort">Mackenzie, Alexander</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Francis Hueffer</field>
+<field name="librettistSort">Hueffer, Francis</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guillem+the+Troubadour+Alexander+Mackenzie&amp;search_field=search</field>
+</doc>
+</add>

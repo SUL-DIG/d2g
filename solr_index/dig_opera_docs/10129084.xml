@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129084</field>
+<field name="genre">Operas</field>
+<field name="title">La grotte aux fées</field>
+<field name="titleSort">grotte aux fées</field>
+<field name="composer">Diogène Siciliano</field>
+<field name="composerSort">Siciliano, Diogène</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Henry de Benderitter] Henry Béri</field>
+<field name="librettistSort">Béri, Henry [Henry de Benderitter]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Le Havre</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grotte+aux+fées+Diogène+Siciliano&amp;search_field=search</field>
+</doc>
+</add>

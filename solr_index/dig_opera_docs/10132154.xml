@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132154</field>
+<field name="genre">Operas</field>
+<field name="title">Le temple des arts</field>
+<field name="titleSort">temple des arts</field>
+<field name="composer">Ignaz Vitzthumb</field>
+<field name="composerSort">Vitzthumb, Ignaz</field>
+<field name="year">1761</field>
+<field name="date">1761</field><field name="theater">Concerts-Bourgeois</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+temple+des+arts+Ignaz+Vitzthumb&amp;search_field=search</field>
+</doc>
+</add>

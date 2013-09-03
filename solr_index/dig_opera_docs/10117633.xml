@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117633</field>
+<field name="genre">Operas</field>
+<field name="title">Le pompon</field>
+<field name="titleSort">pompon</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Henri-Charles Chivot</field>
+<field name="librettistSort">Chivot, Henri-Charles</field>
+<field name="librettist">Alfred Duru</field>
+<field name="librettistSort">Duru, Alfred</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pompon+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

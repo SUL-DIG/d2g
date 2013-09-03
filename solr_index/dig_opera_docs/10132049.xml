@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132049</field>
+<field name="genre">Operas</field>
+<field name="title">La diva Lucrézia</field>
+<field name="titleSort">diva Lucrézia</field>
+<field name="composer">Aldé de Villebichot</field>
+<field name="composerSort">Villebichot, Aldé de</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Louis Houssot</field>
+<field name="librettistSort">Houssot, Louis</field>
+<field name="theater">Café-concert de l'Alcazar</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+diva+Lucrézia+Aldé+de+Villebichot&amp;search_field=search</field>
+</doc>
+</add>

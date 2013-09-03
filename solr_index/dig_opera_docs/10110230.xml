@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110230</field>
+<field name="genre">Operas</field>
+<field name="title">Die Passion des Johannes Hörder</field>
+<field name="titleSort">Passion des Johannes Hörder</field>
+<field name="composer">Jean Kurt Forest</field>
+<field name="composerSort">Forest, Jean Kurt</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Jean Kurt Forest</field>
+<field name="librettistSort">Forest, Jean Kurt</field>
+<field name="librettist">Johannes Robert Becher</field>
+<field name="librettistSort">Becher, Johannes Robert</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Stralsund</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Passion+des+Johannes+Hörder+Jean+Kurt+Forest&amp;search_field=search</field>
+</doc>
+</add>

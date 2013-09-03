@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106121</field>
+<field name="genre">Operas</field>
+<field name="title">The Nightingale</field>
+<field name="titleSort">Nightingale</field>
+<field name="composer">Joseph Waddell Clokey</field>
+<field name="composerSort">Clokey, Joseph Waddell</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Willis Knapp Jones</field>
+<field name="librettistSort">Jones, Willis Knapp</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Miami University</field>
+<field name="city">Miami</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Nightingale+Joseph+Waddell+Clokey&amp;search_field=search</field>
+</doc>
+</add>

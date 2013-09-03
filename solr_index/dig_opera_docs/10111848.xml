@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111848</field>
+<field name="genre">Operas</field>
+<field name="title">Deucalion et Pyrrhe</field>
+<field name="titleSort">Deucalion et Pyrrhe</field>
+<field name="composer">Paul-César Gilbert</field>
+<field name="composerSort">Gilbert, Paul-César</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Claude-Henri Watelet</field>
+<field name="librettistSort">Watelet, Claude-Henri</field>
+<field name="theater">Vauxhall de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deucalion+et+Pyrrhe+Paul-César+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

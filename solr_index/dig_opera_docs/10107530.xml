@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107530</field>
+<field name="genre">Operas</field>
+<field name="title">Ma vieille branche</field>
+<field name="titleSort">Ma vieille branche</field>
+<field name="composer">Édouard Deransart</field>
+<field name="composerSort">Deransart, Édouard</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">[Ange Édouard Hermil] Milher</field>
+<field name="librettistSort">Milher, [Ange Édouard Hermil]</field>
+<field name="librettist">[Armand-Juda Nunès] Armand Numès</field>
+<field name="librettistSort">Numès, Armand [Armand-Juda Nunès]</field>
+<field name="theater">Café-concert de l'Alcazar</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ma+vieille+branche+Édouard+Deransart&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125414</field>
+<field name="genre">Operas</field>
+<field name="title">Le contadine rivali</field>
+<field name="titleSort">contadine rivali</field>
+<field name="composer">Giuseppe Radicchi</field>
+<field name="composerSort">Radicchi, Giuseppe</field>
+<field name="year">1775</field>
+<field name="date">1775</field><field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contadine+rivali+Giuseppe+Radicchi&amp;search_field=search</field>
+</doc>
+</add>

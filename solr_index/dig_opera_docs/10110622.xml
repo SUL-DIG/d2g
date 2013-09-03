@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110622</field>
+<field name="genre">Operas</field>
+<field name="title">Un terno al lotto</field>
+<field name="titleSort">terno al lotto</field>
+<field name="composer">Angelo Frondoni</field>
+<field name="composerSort">Frondoni, Angelo</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Carlo Cambiaggio</field>
+<field name="librettistSort">Cambiaggio, Carlo</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+terno+al+lotto+Angelo+Frondoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113320</field>
+<field name="genre">Operas</field>
+<field name="title">Roman Fever</field>
+<field name="titleSort">Roman Fever</field>
+<field name="composer">Philip Hagemann</field>
+<field name="composerSort">Hagemann, Philip</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Philip Hagemann</field>
+<field name="librettistSort">Hagemann, Philip</field>
+<field name="librettist">Edith Wharton</field>
+<field name="librettistSort">Wharton, Edith</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roman+Fever+Philip+Hagemann&amp;search_field=search</field>
+</doc>
+</add>

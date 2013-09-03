@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102641</field>
+<field name="genre">Operas</field>
+<field name="title">A Quiet Place</field>
+<field name="titleSort">Quiet Place</field>
+<field name="composer">Leonard Bernstein</field>
+<field name="composerSort">Bernstein, Leonard</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Stephen Wadsworth</field>
+<field name="librettistSort">Wadsworth, Stephen</field>
+<field name="theater">Grand Opera</field>
+<field name="city">Houston</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Quiet+Place+Leonard+Bernstein&amp;search_field=search</field>
+</doc>
+</add>

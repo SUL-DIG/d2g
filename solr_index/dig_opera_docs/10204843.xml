@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204843</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Visitatio ad Praesepem</field>
+		<field name="titleSort">Visitatio ad Praesepem</field>
+		<field name="year">1750</field>
+		
+		
+		<field name="date">1750</field>
+		<field name="composer">Bartolomeo Cordans</field>
+		<field name="composerSort">Cordans, Bartolomeo</field>
+		
+		
+		
+		<field name="city">Udine</field>
+		<field name="region">Friuli-Venezia Giulia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Adoration of the Shepherds</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Visitatio+ad+Praesepem+Bartolomeo+Cordans&amp;search_field=search</field>
+	</doc></add>

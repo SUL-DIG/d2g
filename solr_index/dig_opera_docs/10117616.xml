@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117616</field>
+<field name="genre">Operas</field>
+<field name="title">Huis-clos</field>
+<field name="titleSort">Huis-clos</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Adolphe Guénée</field>
+<field name="librettistSort">Guénée, Adolphe</field>
+<field name="librettist">Adolphe Marquet</field>
+<field name="librettistSort">Marquet, Adolphe</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Huis-clos+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

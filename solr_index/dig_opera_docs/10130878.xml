@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130878</field>
+<field name="genre">Operas</field>
+<field name="title">Lucian</field>
+<field name="titleSort">Lucian</field>
+<field name="composer">Ivanna Themmen</field>
+<field name="composerSort">Themmen, Ivanna</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Norman Simon</field>
+<field name="librettistSort">Simon, Norman</field>
+<field name="theater">Hudson Guild Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucian+Ivanna+Themmen&amp;search_field=search</field>
+</doc>
+</add>

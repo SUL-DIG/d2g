@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101021</field>
+<field name="genre">Operas</field>
+<field name="title">Vespasiano</field>
+<field name="titleSort">Vespasiano</field>
+<field name="composer">Attilio Ariosti</field>
+<field name="composerSort">Ariosti, Attilio</field>
+<field name="year">1724</field>
+<field name="date">1724</field>
+<field name="librettist">Nicola Francesco Haym</field>
+<field name="librettistSort">Haym, Nicola Francesco</field>
+<field name="librettist">Giulio Cesare Corradi</field>
+<field name="librettistSort">Corradi, Giulio Cesare</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vespasiano+Attilio+Ariosti&amp;search_field=search</field>
+</doc>
+</add>

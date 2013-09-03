@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103906</field>
+<field name="genre">Operas</field>
+<field name="title">Jagues van Artevelde</field>
+<field name="titleSort">Jagues van Artevelde</field>
+<field name="composer">Jules Bovery</field>
+<field name="composerSort">Bovery, Jules</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Hippoliet van Peene</field>
+<field name="librettistSort">Peene, Hippoliet van</field>
+<field name="theater">Minard's Schouwburg</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jagues+van+Artevelde+Jules+Bovery&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110597</field>
+<field name="genre">Operas</field>
+<field name="title">Der Wiener in Paris</field>
+<field name="titleSort">Wiener in Paris</field>
+<field name="composer">Richard Fritsch</field>
+<field name="composerSort">Fritsch, Richard</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Richard Fritsch</field>
+<field name="librettistSort">Fritsch, Richard</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bydgoszcz</field>
+<field name="region">Kujawsko-Pomorskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Wiener+in+Paris+Richard+Fritsch&amp;search_field=search</field>
+</doc>
+</add>

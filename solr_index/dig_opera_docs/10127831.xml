@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127831</field>
+<field name="genre">Operas</field>
+<field name="title">Der Regent</field>
+<field name="titleSort">Regent</field>
+<field name="composer">Karl Saupe</field>
+<field name="composerSort">Saupe, Karl</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="city">Görlitz</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Regent+Karl+Saupe&amp;search_field=search</field>
+</doc>
+</add>

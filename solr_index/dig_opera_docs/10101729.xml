@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101729</field>
+<field name="genre">Operas</field>
+<field name="title">Fausta</field>
+<field name="titleSort">Fausta</field>
+<field name="composer">Primo Bandini</field>
+<field name="composerSort">Bandini, Primo</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Parmenio Bettoli</field>
+<field name="librettistSort">Bettoli, Parmenio</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fausta+Primo+Bandini&amp;search_field=search</field>
+</doc>
+</add>

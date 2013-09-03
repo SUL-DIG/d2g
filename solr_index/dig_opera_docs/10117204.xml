@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117204</field>
+<field name="genre">Operas</field>
+<field name="title">Modern Painters</field>
+<field name="titleSort">Modern Painters</field>
+<field name="composer">David Lang</field>
+<field name="composerSort">Lang, David</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Manuela Hoelterhoff</field>
+<field name="librettistSort">Hoelterhoff, Manuela</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Modern+Painters+David+Lang&amp;search_field=search</field>
+</doc>
+</add>

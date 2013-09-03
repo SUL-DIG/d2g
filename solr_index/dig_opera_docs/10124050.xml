@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124050</field>
+<field name="genre">Operas</field>
+<field name="title">"Les femmes vengées, ou Les feintes infidélities</field>
+<field name="titleSort">"femmes vengées, ou feintes infidélities"</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+femmes+vengées,+ou+Les+feintes+infidélities+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

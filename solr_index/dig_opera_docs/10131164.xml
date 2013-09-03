@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131164</field>
+<field name="genre">Operas</field>
+<field name="title">La rêve de Madame X</field>
+<field name="titleSort">rêve de Madame X</field>
+<field name="composer">Frédéric Toulmouche</field>
+<field name="composerSort">Toulmouche, Frédéric</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Louis Lagarde</field>
+<field name="librettistSort">Lagarde, Louis</field>
+<field name="librettist">Georges Montignac</field>
+<field name="librettistSort">Montignac, Georges</field>
+<field name="theater">Carillon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rêve+de+Madame+X+Frédéric+Toulmouche&amp;search_field=search</field>
+</doc>
+</add>

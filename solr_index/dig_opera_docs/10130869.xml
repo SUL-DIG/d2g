@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130869</field>
+<field name="genre">Operas</field>
+<field name="title">"Ruthards Abenteuer, oder Die beiden Sänger</field>
+<field name="titleSort">"Ruthards Abenteuer, oder Die beiden Sänger"</field>
+<field name="composer">Franz Teyber</field>
+<field name="composerSort">Teyber, Franz</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Wilhelm Neubauer</field>
+<field name="librettistSort">Neubauer, Wilhelm</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ruthards+Abenteuer,+oder+Die+beiden+Sänger+Franz+Teyber&amp;search_field=search</field>
+</doc>
+</add>

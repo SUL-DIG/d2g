@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101696</field>
+<field name="genre">Operas</field>
+<field name="title">L'étoile de Séville</field>
+<field name="titleSort">étoile de Séville</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Hippolyte Lucas</field>
+<field name="librettistSort">Lucas, Hippolyte</field>
+<field name="librettist">Lope de Vega</field>
+<field name="librettistSort">Vega, Lope de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'étoile+de+Séville+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

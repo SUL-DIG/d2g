@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113161</field>
+<field name="genre">Operas</field>
+<field name="title">Macías</field>
+<field name="titleSort">Macías</field>
+<field name="composer">Felipe Gutiérrez Espina</field>
+<field name="composerSort">Espina, Felipe Gutiérrez</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Alejandro Tapia y Rivera</field>
+<field name="librettistSort">Tapia y Rivera, Alejandro</field>
+<field name="librettist">Martín J. Travieso</field>
+<field name="librettistSort">Travieso, Martín J.</field>
+<field name="theater">Teatro Tapia</field>
+<field name="city">San Juan</field>
+<field name="region">Puerto Rico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Macías+Felipe+Gutiérrez+Espina&amp;search_field=search</field>
+</doc>
+</add>

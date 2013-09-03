@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106309</field>
+<field name="genre">Operas</field>
+<field name="title">Didone abbandonata</field>
+<field name="titleSort">Didone abbandonata</field>
+<field name="composer">Giuseppe Colla</field>
+<field name="composerSort">Colla, Giuseppe</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Didone+abbandonata+Giuseppe+Colla&amp;search_field=search</field>
+</doc>
+</add>

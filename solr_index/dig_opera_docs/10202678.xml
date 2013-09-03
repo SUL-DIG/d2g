@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202678</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Santa Sinforosa e dei sette santi suoi figliuoli nobili Tiburtini</field>
+		<field name="titleSort">martirio di Santa Sinforosa e dei sette santi suoi figliuoli nobili Tiburtini</field>
+		<field name="year">1737</field>
+		
+		
+		<field name="date">1737</field>
+		<field name="composer">Andrea Basili</field>
+		<field name="composerSort">Basili, Andrea</field>
+		<field name="librettist">[F. A. Lolli] Lisippo Imacheo</field>
+		<field name="librettistSort">Imacheo, Lisippo [F. A. Lolli] </field>
+		
+		
+		<field name="city">Tivoli</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Symphorosa</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">18</field>
+		<field name="feastDate">July 18</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Santa+Sinforosa+e+dei+sette+santi+suoi+figliuoli+nobili+Tiburtini+Andrea+Basili&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109706</field>
+<field name="genre">Operas</field>
+<field name="title">Smir Tantaluv (The Atonement of Tantalus)</field>
+<field name="titleSort">Smir Tantaluv (The Atonement of Tantalus)</field>
+<field name="composer">Zdenek Fibich</field>
+<field name="composerSort">Fibich, Zdenek</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Smir+Tantaluv+The+Atonement+of+Tantalus+Zdenek+Fibich&amp;search_field=search</field>
+</doc>
+</add>

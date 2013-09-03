@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123810</field>
+<field name="genre">Operas</field>
+<field name="title">The Cask of Amontillado</field>
+<field name="titleSort">Cask of Amontillado</field>
+<field name="composer">Julia Perry</field>
+<field name="composerSort">Perry, Julia</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Julia Perry</field>
+<field name="librettistSort">Perry, Julia</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">Columbia University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cask+of+Amontillado+Julia+Perry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103394</field>
+<field name="genre">Operas</field>
+<field name="title">"Amour et mystère, ou Lequel est mon cousin?</field>
+<field name="titleSort">"Amour et mystère, ou Lequel est mon cousin?"</field>
+<field name="composer">Adrien Boieldieu</field>
+<field name="composerSort">Boieldieu, Adrien</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Joseph Marie Pain</field>
+<field name="librettistSort">Pain, Joseph Marie</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amour+et+mystère,+ou+Lequel+est+mon+cousin?+Adrien+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

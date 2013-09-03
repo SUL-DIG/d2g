@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121085</field>
+<field name="genre">Operas</field>
+<field name="title">"La Floridea, regina di Cipro</field>
+<field name="titleSort">"Floridea, regina di Cipro"</field>
+<field name="composer">Carlo Ignazio Monza</field>
+<field name="composerSort">Monza, Carlo Ignazio</field>
+<field name="year">1722</field>
+<field name="date">1722</field><field name="theater">Teatro della Fenice</field>
+<field name="city">Ancona</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Floridea,+regina+di+Cipro+Carlo+Ignazio+Monza&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109624</field>
+<field name="genre">Operas</field>
+<field name="title">Regina Ester</field>
+<field name="titleSort">Regina Ester</field>
+<field name="composer">Luigi Ferrari-Trecate</field>
+<field name="composerSort">Ferrari-Trecate, Luigi</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Alberto Montanari</field>
+<field name="librettistSort">Montanari, Alberto</field>
+<field name="theater">Instituto Righi</field>
+<field name="city">Faenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Regina+Ester+Luigi+Ferrari-Trecate&amp;search_field=search</field>
+</doc>
+</add>

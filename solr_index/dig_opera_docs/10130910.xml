@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130910</field>
+<field name="genre">Operas</field>
+<field name="title">Mignon</field>
+<field name="titleSort">Mignon</field>
+<field name="composer">Ambroise Thomas</field>
+<field name="composerSort">Thomas, Ambroise</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mignon+Ambroise+Thomas&amp;search_field=search</field>
+</doc>
+</add>

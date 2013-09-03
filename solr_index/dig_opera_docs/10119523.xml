@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119523</field>
+<field name="genre">Operas</field>
+<field name="title">Hécube</field>
+<field name="titleSort">Hécube</field>
+<field name="composer">Jean Martinon</field>
+<field name="composerSort">Martinon, Jean</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Serge Moreux</field>
+<field name="librettistSort">Moreux, Serge</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hécube+Jean+Martinon&amp;search_field=search</field>
+</doc>
+</add>

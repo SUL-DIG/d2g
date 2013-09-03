@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123426</field>
+<field name="genre">Operas</field>
+<field name="title">Les chinois d'Edimbourg</field>
+<field name="titleSort">chinois d'Edimbourg</field>
+<field name="composer">[E. J. Weidinghen] Patrie</field>
+<field name="composerSort">Patrie, [E. J. Weidinghen]</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Léon Powyss</field>
+<field name="librettistSort">Powyss, Léon</field>
+<field name="theater">Cercle Drammatique</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chinois+d'Edimbourg+E.+J.+Weidinghen]+Patrie&amp;search_field=search</field>
+</doc>
+</add>

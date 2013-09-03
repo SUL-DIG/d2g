@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200955</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ein Denkmal für Dascha</field>
+		<field name="titleSort">Denkmal für Dascha</field>
+		<field name="year">1960</field>
+		
+		
+		<field name="date">1960</field>
+		<field name="composer">Wolfgang Schoor</field>
+		<field name="composerSort">Schoor, Wolfgang</field>
+		<field name="librettist">Paul Wiens</field>
+		<field name="librettistSort">Wiens, Paul</field>
+		
+		
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Denkmal+für+Dascha+Wolfgang+Schoor&amp;search_field=search</field>
+	</doc></add>

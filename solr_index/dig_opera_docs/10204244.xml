@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204244</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La sepoltura di Cristo</field>
+		<field name="titleSort">sepoltura di Cristo</field>
+		<field name="year">1704</field>
+		<field name="month">March</field>
+		<field name="day">21</field>
+		<field name="date">March 21, 1704</field>
+		<field name="composer">Giacomo Antonio Perti</field>
+		<field name="composerSort">Perti, Giacomo Antonio</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Holy Sepulcher</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sepoltura+di+Cristo+Giacomo+Antonio+Perti&amp;search_field=search</field>
+	</doc></add>

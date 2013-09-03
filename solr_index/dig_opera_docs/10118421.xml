@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118421</field>
+<field name="genre">Operas</field>
+<field name="title">Méditerranée</field>
+<field name="titleSort">Méditerranée</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="theater">Théâtre du Châtelet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Méditerranée+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110882</field>
+<field name="genre">Operas</field>
+<field name="title">Pastoral</field>
+<field name="titleSort">Pastoral</field>
+<field name="composer">James Galloway</field>
+<field name="composerSort">Galloway, James</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">James Morley</field>
+<field name="librettistSort">Morley, James</field>
+<field name="theater">Opera Southwest</field>
+<field name="city">Albuquerque</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastoral+James+Galloway&amp;search_field=search</field>
+</doc>
+</add>

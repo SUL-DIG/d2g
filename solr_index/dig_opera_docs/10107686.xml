@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107686</field>
+<field name="genre">Operas</field>
+<field name="title">"Fraxitèle, ou La ceinture</field>
+<field name="titleSort">"Fraxitèle, ou La ceinture"</field>
+<field name="composer">Jeanne Devismes</field>
+<field name="composerSort">Devismes, Jeanne</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Jean-Baptiste-Gabriel-Marie Milcent</field>
+<field name="librettistSort">Milcent, Jean-Baptiste-Gabriel-Marie</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fraxitèle,+ou+La+ceinture+Jeanne+Devismes&amp;search_field=search</field>
+</doc>
+</add>

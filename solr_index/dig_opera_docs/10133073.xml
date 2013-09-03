@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133073</field>
+<field name="genre">Operas</field>
+<field name="title">Tak jakby... (As Good as...)</field>
+<field name="titleSort">Tak jakby... (As Good as...)</field>
+<field name="composer">Zbigniew Wiszniewski</field>
+<field name="composerSort">Wiszniewski, Zbigniew</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Bronislaw Wiernik</field>
+<field name="librettistSort">Wiernik, Bronislaw</field>
+<field name="librettist">[Romain Kacew] Romain Gary</field>
+<field name="librettistSort">Gary, Romain [Romain Kacew]</field>
+<field name="theater">Opera Dolnoslaska</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tak+jakby...+As+Good+as...+Zbigniew+Wiszniewski&amp;search_field=search</field>
+</doc>
+</add>

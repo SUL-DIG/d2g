@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106965</field>
+<field name="genre">Operas</field>
+<field name="title">La reine s'amuse</field>
+<field name="titleSort">reine s'amuse</field>
+<field name="composer">Charles Cuvillier</field>
+<field name="composerSort">Cuvillier, Charles</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">André Barde</field>
+<field name="librettistSort">Barde, André</field>
+<field name="theater">Théâtre des Variétés-Casino</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+reine+s'amuse+Charles+Cuvillier&amp;search_field=search</field>
+</doc>
+</add>

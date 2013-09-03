@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113741</field>
+<field name="genre">Operas</field>
+<field name="title">"Alisbertha, die Kriegerin der Siebenbürge</field>
+<field name="titleSort">"Alisbertha, die Kriegerin der Siebenbürge"</field>
+<field name="composer">Karl Hassloch</field>
+<field name="composerSort">Hassloch, Karl</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">[Karl Gottlieb Theodor Winkler] Theodor Hell</field>
+<field name="librettistSort">Hell, Theodor [Karl Gottlieb Theodor Winkler]</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alisbertha,+die+Kriegerin+der+Siebenbürge+Karl+Hassloch&amp;search_field=search</field>
+</doc>
+</add>

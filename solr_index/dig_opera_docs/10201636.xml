@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201636</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuda Maccabeo</field>
+		<field name="titleSort">Giuda Maccabeo</field>
+		<field name="year">1859</field>
+		
+		
+		<field name="date">1859</field>
+		<field name="composer">Olimpo Mariotti</field>
+		<field name="composerSort">Mariotti, Olimpo</field>
+		<field name="librettist">Vincenzo Meini</field>
+		<field name="librettistSort">Meini, Vincenzo</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judas Maccabeus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuda+Maccabeo+Olimpo+Mariotti&amp;search_field=search</field>
+	</doc></add>

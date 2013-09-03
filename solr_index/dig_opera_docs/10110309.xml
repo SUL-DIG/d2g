@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110309</field>
+<field name="genre">Operas</field>
+<field name="title">Le Sultan Kêbir</field>
+<field name="titleSort">Sultan Kêbir</field>
+<field name="composer">Paul Fosse</field>
+<field name="composerSort">Fosse, Paul</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Henri Blerne</field>
+<field name="librettistSort">Blerne, Henri</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Sultan+Kêbir+Paul+Fosse&amp;search_field=search</field>
+</doc>
+</add>

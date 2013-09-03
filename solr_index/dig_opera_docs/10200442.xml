@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200442</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Blood on the Fields</field>
+		<field name="titleSort">Blood on the Fields</field>
+		<field name="year">1994</field>
+		
+		
+		<field name="date">1994</field>
+		<field name="composer">Wynton Marsalis</field>
+		<field name="composerSort">Marsalis, Wynton</field>
+		
+		
+		<field name="theater">Grand Hall of the Masonic Grand Lodge</field>
+		<field name="city">New York</field>
+		<field name="region">New York</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blood+on+the+Fields+Wynton+Marsalis&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102181</field>
+<field name="genre">Operas</field>
+<field name="title">The Sweet Bye and Bye</field>
+<field name="titleSort">Sweet Bye and Bye</field>
+<field name="composer">Jack Beeson</field>
+<field name="composerSort">Beeson, Jack</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Kenward Elmslie</field>
+<field name="librettistSort">Elmslie, Kenward</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sweet+Bye+and+Bye+Jack+Beeson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131781</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'zelle Crénom</field>
+<field name="titleSort">Mam'zelle Crénom</field>
+<field name="composer">Léon Vasseur</field>
+<field name="composerSort">Vasseur, Léon</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Adolphe Jaime</field>
+<field name="librettistSort">Jaime, Adolphe</field>
+<field name="librettist">[Claude Rieux] Georges Duval</field>
+<field name="librettistSort">Duval, Georges [Claude Rieux]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'zelle+Crénom+Léon+Vasseur&amp;search_field=search</field>
+</doc>
+</add>

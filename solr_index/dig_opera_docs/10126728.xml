@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126728</field>
+<field name="genre">Operas</field>
+<field name="title">I Roumakal</field>
+<field name="titleSort">Roumakal</field>
+<field name="composer">Federico Rossi</field>
+<field name="composerSort">Rossi, Federico</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Flaminio Furno</field>
+<field name="librettistSort">Furno, Flaminio</field>
+
+<field name="city">Vercelli</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Roumakal+Federico+Rossi&amp;search_field=search</field>
+</doc>
+</add>

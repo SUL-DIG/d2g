@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114896</field>
+<field name="genre">Operas</field>
+<field name="title">Det ondes magt</field>
+<field name="titleSort">ondes magt</field>
+<field name="composer">Helge Iberg</field>
+<field name="composerSort">Iberg, Helge</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Helge Iberg</field>
+<field name="librettistSort">Iberg, Helge</field>
+<field name="theater">NRK Radio (Norsk Rikskringkasting)</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Det+ondes+magt+Helge+Iberg&amp;search_field=search</field>
+</doc>
+</add>

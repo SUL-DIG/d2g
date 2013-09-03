@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123829</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro riconosciuto</field>
+<field name="titleSort">Ciro riconosciuto</field>
+<field name="composer">Pietro Persichini</field>
+<field name="composerSort">Persichini, Pietro</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Ujazdów Palace</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+riconosciuto+Pietro+Persichini&amp;search_field=search</field>
+</doc>
+</add>

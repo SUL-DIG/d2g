@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204029</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Elena al Calvario</field>
+		<field name="titleSort">Sant' Elena al Calvario</field>
+		<field name="year">1790</field>
+		
+		
+		<field name="date">1790</field>
+		<field name="composer">Antonio Tozzi</field>
+		<field name="composerSort">Tozzi, Antonio</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Madrid</field>
+		<field name="region">Madrid</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Helen</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">18</field>
+		<field name="feastDate">August 18</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Elena+al+Calvario+Antonio+Tozzi&amp;search_field=search</field>
+	</doc></add>

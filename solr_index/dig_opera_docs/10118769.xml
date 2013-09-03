@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118769</field>
+<field name="genre">Operas</field>
+<field name="title">"Agnes Bernauer, the Maid of Augsburg</field>
+<field name="titleSort">"Agnes Bernauer, the Maid of Augsburg"</field>
+<field name="composer">George Alexander Macfarren</field>
+<field name="composerSort">Macfarren, George Alexander</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Thomas James Serle</field>
+<field name="librettistSort">Serle, Thomas James</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnes+Bernauer,+the+Maid+of+Augsburg+George+Alexander+Macfarren&amp;search_field=search</field>
+</doc>
+</add>

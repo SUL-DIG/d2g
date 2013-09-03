@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101372</field>
+<field name="genre">Operas</field>
+<field name="title">"Haydée, ou Le secret</field>
+<field name="titleSort">"Haydée, ou Le secret"</field>
+<field name="composer">Daniel-François-Esprit Auber</field>
+<field name="composerSort">Auber, Daniel-François-Esprit</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Prosper Mérimée</field>
+<field name="librettistSort">Mérimée, Prosper</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haydée,+ou+Le+secret+Daniel-François-Esprit+Auber&amp;search_field=search</field>
+</doc>
+</add>

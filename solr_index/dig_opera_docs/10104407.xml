@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104407</field>
+<field name="genre">Operas</field>
+<field name="title">Armida delusa</field>
+<field name="titleSort">Armida delusa</field>
+<field name="composer">Giuseppe Maria Buini</field>
+<field name="composerSort">Buini, Giuseppe Maria</field>
+<field name="year">1720</field>
+<field name="date">1720</field>
+<field name="librettist">Giuseppe Maria Buini</field>
+<field name="librettistSort">Buini, Giuseppe Maria</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armida+delusa+Giuseppe+Maria+Buini&amp;search_field=search</field>
+</doc>
+</add>

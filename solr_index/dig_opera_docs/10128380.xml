@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128380</field>
+<field name="genre">Operas</field>
+<field name="title">Il barone di Dolsheim</field>
+<field name="titleSort">barone di Dolsheim</field>
+<field name="composer">Franz Schoberlechner</field>
+<field name="composerSort">Schoberlechner, Franz</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+barone+di+Dolsheim+Franz+Schoberlechner&amp;search_field=search</field>
+</doc>
+</add>

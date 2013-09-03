@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117463</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit poucet</field>
+<field name="titleSort">petit poucet</field>
+<field name="composer">François-Anatole Laurent de Rillé</field>
+<field name="composerSort">Rillé, François-Anatole Laurent de</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Eugène Leterrier</field>
+<field name="librettistSort">Leterrier, Eugène</field>
+<field name="librettist">Albert Vanloo</field>
+<field name="librettistSort">Vanloo, Albert</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+poucet+François-Anatole+Laurent+de+Rillé&amp;search_field=search</field>
+</doc>
+</add>

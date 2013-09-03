@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126699</field>
+<field name="genre">Operas</field>
+<field name="title">"Melchyora, die Wassernixe von Mühllacken</field>
+<field name="titleSort">"Melchyora, die Wassernixe von Mühllacken"</field>
+<field name="composer">Franz de Paula Roser</field>
+<field name="composerSort">Roser, Franz de Paula</field>
+<field name="year">1812</field>
+<field name="date">1812</field><field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Melchyora,+die+Wassernixe+von+Mühllacken+Franz+de+Paula+Roser&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125751</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schwur</field>
+<field name="titleSort">Schwur</field>
+<field name="composer">Wilhelm Reich</field>
+<field name="composerSort">Reich, Wilhelm</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Max Singer</field>
+<field name="librettistSort">Singer, Max</field>
+<field name="theater">Krollscher Wintergarten Königsaal</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schwur+Wilhelm+Reich&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117533</field>
+<field name="genre">Operas</field>
+<field name="title">Armor</field>
+<field name="titleSort">Armor</field>
+<field name="composer">Sylvio Lazzari</field>
+<field name="composerSort">Lazzari, Sylvio</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Ernest François Jaubert</field>
+<field name="librettistSort">Jaubert, Ernest François</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armor+Sylvio+Lazzari&amp;search_field=search</field>
+</doc>
+</add>

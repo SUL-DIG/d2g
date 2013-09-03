@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119903</field>
+<field name="genre">Operas</field>
+<field name="title">Der goldene Topf</field>
+<field name="titleSort">goldene Topf</field>
+<field name="composer">Eckehard Mayer</field>
+<field name="composerSort">Mayer, Eckehard</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Ingo Zimmermann</field>
+<field name="librettistSort">Zimmermann, Ingo</field>
+<field name="librettist">Ernst Theodor Amadeus Hoffmann</field>
+<field name="librettistSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+goldene+Topf+Eckehard+Mayer&amp;search_field=search</field>
+</doc>
+</add>

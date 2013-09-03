@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108255</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfatore de' centauri</field>
+<field name="titleSort">trionfatore de' centauri</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1674</field>
+<field name="date">1674</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Schönbrunner Tiergarten</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfatore+de'+centauri+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127036</field>
+<field name="genre">Operas</field>
+<field name="title">Der Eremit auf Formentara</field>
+<field name="titleSort">Eremit auf Formentara</field>
+<field name="composer">Karl Friedrich Rungenhagen</field>
+<field name="composerSort">Rungenhagen, Karl Friedrich</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Urania-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Eremit+auf+Formentara+Karl+Friedrich+Rungenhagen&amp;search_field=search</field>
+</doc>
+</add>

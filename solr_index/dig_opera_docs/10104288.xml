@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104288</field>
+<field name="genre">Operas</field>
+<field name="title">Il pazzo glorioso</field>
+<field name="titleSort">pazzo glorioso</field>
+<field name="composer">Antonio Brunetti</field>
+<field name="composerSort">Brunetti, Antonio</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pazzo+glorioso+Antonio+Brunetti&amp;search_field=search</field>
+</doc>
+</add>

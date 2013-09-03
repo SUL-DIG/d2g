@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129863</field>
+<field name="genre">Operas</field>
+<field name="title">La bambola</field>
+<field name="titleSort">bambola</field>
+<field name="composer">Arturo Sternajuolo</field>
+<field name="composerSort">Sternajuolo, Arturo</field>
+<field name="year">1899</field>
+<field name="date">1899</field><field name="theater">Teatro Pola</field>
+<field name="city">Portici</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bambola+Arturo+Sternajuolo&amp;search_field=search</field>
+</doc>
+</add>

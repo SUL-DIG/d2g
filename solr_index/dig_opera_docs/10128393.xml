@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128393</field>
+<field name="genre">Operas</field>
+<field name="title">Moses und Aron</field>
+<field name="titleSort">Moses und Aron</field>
+<field name="composer">Arnold Schoenberg</field>
+<field name="composerSort">Schoenberg, Arnold</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Arnold Schoenberg</field>
+<field name="librettistSort">Schoenberg, Arnold</field>
+<field name="theater">NDR Radio (Norddeutscher Rundfunk)</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+und+Aron+Arnold+Schoenberg&amp;search_field=search</field>
+</doc>
+</add>

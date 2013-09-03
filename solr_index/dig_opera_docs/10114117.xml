@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114117</field>
+<field name="genre">Operas</field>
+<field name="title">Le muletier</field>
+<field name="titleSort">muletier</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Paul de Kock</field>
+<field name="librettistSort">Kock, Paul de</field>
+<field name="librettist">Jean de La Fontaine</field>
+<field name="librettistSort">La Fontaine, Jean de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+muletier+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

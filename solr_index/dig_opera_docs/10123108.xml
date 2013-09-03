@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123108</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti della dote</field>
+<field name="titleSort">amanti della dote</field>
+<field name="composer">Silvestro Palma</field>
+<field name="composerSort">Palma, Silvestro</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Francesco Saverio Zini</field>
+<field name="librettistSort">Zini, Francesco Saverio</field>
+<field name="theater">Teatro di via Santa Maria</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+della+dote+Silvestro+Palma&amp;search_field=search</field>
+</doc>
+</add>

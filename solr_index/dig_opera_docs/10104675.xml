@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104675</field>
+<field name="genre">Operas</field>
+<field name="title">Pastorale (La costanza in amor vince l'inganno)</field>
+<field name="titleSort">Pastorale (La costanza in amor vince l'inganno)</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1701</field>
+<field name="date">1701</field><field name="theater">Teatro dei Comici</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastorale+La+costanza+in+amor+vince+l'inganno+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131977</field>
+<field name="genre">Operas</field>
+<field name="title">Once Upon a Moon</field>
+<field name="titleSort">Once Upon a Moon</field>
+<field name="composer">Gerard Victory</field>
+<field name="composerSort">Victory, Gerard</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">B. Roach</field>
+<field name="librettistSort">Roach, B.</field>
+<field name="theater">Phoenix Hall</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Once+Upon+a+Moon+Gerard+Victory&amp;search_field=search</field>
+</doc>
+</add>

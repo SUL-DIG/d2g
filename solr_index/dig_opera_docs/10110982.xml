@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110982</field>
+<field name="genre">Operas</field>
+<field name="title">Eufemio di Messina</field>
+<field name="titleSort">Eufemio di Messina</field>
+<field name="composer">Carlo Andrea Gambini</field>
+<field name="composerSort">Gambini, Carlo Andrea</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Giuseppe Torre</field>
+<field name="librettistSort">Torre, Giuseppe</field>
+<field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eufemio+di+Messina+Carlo+Andrea+Gambini&amp;search_field=search</field>
+</doc>
+</add>

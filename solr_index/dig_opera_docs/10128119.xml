@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128119</field>
+<field name="genre">Operas</field>
+<field name="title">L'amant diable</field>
+<field name="titleSort">amant diable</field>
+<field name="composer">Nicolaus Albert Schaffner</field>
+<field name="composerSort">Schaffner, Nicolaus Albert</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Alain René Lesage</field>
+<field name="librettistSort">Lesage, Alain René</field>
+<field name="theater">Théâtre Saint-Sebastian</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+diable+Nicolaus+Albert+Schaffner&amp;search_field=search</field>
+</doc>
+</add>

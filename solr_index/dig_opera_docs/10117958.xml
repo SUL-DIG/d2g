@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117958</field>
+<field name="genre">Operas</field>
+<field name="title">Penes Curcanul</field>
+<field name="titleSort">Penes Curcanul</field>
+<field name="composer">Emil Lerescu</field>
+<field name="composerSort">Lerescu, Emil</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Emil Lerescu</field>
+<field name="librettistSort">Lerescu, Emil</field>
+<field name="librettist">Vasile Alecsandri</field>
+<field name="librettistSort">Alecsandri, Vasile</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Iasi</field>
+<field name="region">Iasi</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Penes+Curcanul+Emil+Lerescu&amp;search_field=search</field>
+</doc>
+</add>

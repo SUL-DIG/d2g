@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101111</field>
+<field name="genre">Operas</field>
+<field name="title">Lilliput</field>
+<field name="titleSort">Lilliput</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">David Garrick</field>
+<field name="librettistSort">Garrick, David</field>
+<field name="librettist">Jonathan Swift</field>
+<field name="librettistSort">Swift, Jonathan</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lilliput+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

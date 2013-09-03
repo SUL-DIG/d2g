@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129295</field>
+<field name="genre">Operas</field>
+<field name="title">Magic Water</field>
+<field name="titleSort">Magic Water</field>
+<field name="composer">Leo Smit</field>
+<field name="composerSort">Smit, Leo</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Leo Smit</field>
+<field name="librettistSort">Smit, Leo</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">State University of New York</field>
+<field name="city">Buffalo</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magic+Water+Leo+Smit&amp;search_field=search</field>
+</doc>
+</add>

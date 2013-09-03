@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122137</field>
+<field name="genre">Operas</field>
+<field name="title">Latter i mørket (Laughter in the Darkness)</field>
+<field name="titleSort">Latter i mørket (Laughter in the Darkness)</field>
+<field name="composer">Tage Nielsen</field>
+<field name="composerSort">Nielsen, Tage</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Marianne Rosen</field>
+<field name="librettistSort">Rosen, Marianne</field>
+<field name="librettist">Vladimir Nabokov</field>
+<field name="librettistSort">Nabokov, Vladimir</field>
+<field name="theater">Den Jyske Opera</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Latter+i+mørket+Laughter+in+the+Darkness+Tage+Nielsen&amp;search_field=search</field>
+</doc>
+</add>

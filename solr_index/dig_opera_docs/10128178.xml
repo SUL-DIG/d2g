@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128178</field>
+<field name="genre">Operas</field>
+<field name="title">König Violon und Prinzessin Klarinette</field>
+<field name="titleSort">König Violon und Prinzessin Klarinette</field>
+<field name="composer">Konrad Scherber</field>
+<field name="composerSort">Scherber, Konrad</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">August Mahlmann</field>
+<field name="librettistSort">Mahlmann, August</field>
+<field name="theater">Urania-Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Violon+und+Prinzessin+Klarinette+Konrad+Scherber&amp;search_field=search</field>
+</doc>
+</add>

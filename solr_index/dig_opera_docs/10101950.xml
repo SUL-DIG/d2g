@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101950</field>
+<field name="genre">Operas</field>
+<field name="title">Svinedrengen</field>
+<field name="titleSort">Svinedrengen</field>
+<field name="composer">Johan Bartholdy</field>
+<field name="composerSort">Bartholdy, Johan</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Richard Schröder</field>
+<field name="librettistSort">Schröder, Richard</field>
+<field name="theater">Dagmarteatret</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svinedrengen+Johan+Bartholdy&amp;search_field=search</field>
+</doc>
+</add>

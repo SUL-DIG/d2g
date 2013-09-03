@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103647</field>
+<field name="genre">Operas</field>
+<field name="title">Silvio</field>
+<field name="titleSort">Silvio</field>
+<field name="composer">Gaston Borch</field>
+<field name="composerSort">Borch, Gaston</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Gaston Borch</field>
+<field name="librettistSort">Borch, Gaston</field>
+<field name="librettist">Oswald Augustus Smith</field>
+<field name="librettistSort">Smith, Oswald Augustus</field>
+
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvio+Gaston+Borch&amp;search_field=search</field>
+</doc>
+</add>

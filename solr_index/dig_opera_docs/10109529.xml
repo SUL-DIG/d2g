@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109529</field>
+<field name="genre">Operas</field>
+<field name="title">Arianna</field>
+<field name="titleSort">Arianna</field>
+<field name="composer">Francesco Feo</field>
+<field name="composerSort">Feo, Francesco</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arianna+Francesco+Feo&amp;search_field=search</field>
+</doc>
+</add>

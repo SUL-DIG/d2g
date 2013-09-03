@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132579</field>
+<field name="genre">Operas</field>
+<field name="title">Peter Schmoll und seine Nachbarn</field>
+<field name="titleSort">Peter Schmoll und seine Nachbarn</field>
+<field name="composer">Carl Maria von Weber</field>
+<field name="composerSort">Weber, Carl Maria von</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Joseph Türk</field>
+<field name="librettistSort">Türk, Joseph</field>
+<field name="librettist">Carl Gottlob Cramer</field>
+<field name="librettistSort">Cramer, Carl Gottlob</field>
+
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+Schmoll+und+seine+Nachbarn+Carl+Maria+von+Weber&amp;search_field=search</field>
+</doc>
+</add>

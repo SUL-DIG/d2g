@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119490</field>
+<field name="genre">Operas</field>
+<field name="title">L'Arsiade</field>
+<field name="titleSort">Arsiade</field>
+<field name="composer">Antonio Francesco Martinenghi</field>
+<field name="composerSort">Martinenghi, Antonio Francesco</field>
+<field name="year">1700</field>
+<field name="date">1700</field>
+<field name="librettist">Pietro d'Averara</field>
+<field name="librettistSort">d'Averara, Pietro</field>
+<field name="theater">Regio Ducal Teatro Nuovo</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Arsiade+Antonio+Francesco+Martinenghi&amp;search_field=search</field>
+</doc>
+</add>

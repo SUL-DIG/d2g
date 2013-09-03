@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113595</field>
+<field name="genre">Operas</field>
+<field name="title">Tanz der Schwäne</field>
+<field name="titleSort">Tanz der Schwäne</field>
+<field name="composer">Ross Talbot Harris</field>
+<field name="composerSort">Harris, Ross Talbot</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Witi Ihimaera</field>
+<field name="librettistSort">Ihimaera, Witi</field>
+<field name="theater">Victoria University</field>
+<field name="city">Wellington</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tanz+der+Schwäne+Ross+Talbot+Harris&amp;search_field=search</field>
+</doc>
+</add>

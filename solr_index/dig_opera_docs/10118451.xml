@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118451</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schneider Fips</field>
+<field name="titleSort">Schneider Fips</field>
+<field name="composer">Alfred Lorentz</field>
+<field name="composerSort">Lorentz, Alfred</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Friedrich Goeldner</field>
+<field name="librettistSort">Goeldner, Friedrich</field>
+<field name="librettist">Hans Bussard</field>
+<field name="librettistSort">Bussard, Hans</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schneider+Fips+Alfred+Lorentz&amp;search_field=search</field>
+</doc>
+</add>

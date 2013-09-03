@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132472</field>
+<field name="genre">Operas</field>
+<field name="title">Der ewige Student</field>
+<field name="titleSort">ewige Student</field>
+<field name="composer">Erich Walter</field>
+<field name="composerSort">Walter, Erich</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Karl Winter</field>
+<field name="librettistSort">Winter, Karl</field>
+<field name="theater">Neues Luisen-Theater</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+ewige+Student+Erich+Walter&amp;search_field=search</field>
+</doc>
+</add>

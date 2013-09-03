@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113104</field>
+<field name="genre">Operas</field>
+<field name="title">Les sabots de la reine Anne</field>
+<field name="titleSort">sabots de la reine Anne</field>
+<field name="composer">__ Guillermit</field>
+<field name="composerSort">Guillermit, __</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">[Gustave Héquet] Léon Durocher</field>
+<field name="librettistSort">Durocher, Léon [Gustave Héquet]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Brest</field>
+<field name="region">Finistère</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sabots+de+la+reine+Anne+__+Guillermit&amp;search_field=search</field>
+</doc>
+</add>

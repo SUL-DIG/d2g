@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130231</field>
+<field name="genre">Operas</field>
+<field name="title">Charlotte's Web</field>
+<field name="titleSort">Charlotte's Web</field>
+<field name="composer">Charles Strouse</field>
+<field name="composerSort">Strouse, Charles</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Joseph Robinette</field>
+<field name="librettistSort">Robinette, Joseph</field>
+<field name="librettist">Elwyn Brooks White</field>
+<field name="librettistSort">White, Elwyn Brooks</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Wilmington</field>
+<field name="region">Delaware</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charlotte's+Web+Charles+Strouse&amp;search_field=search</field>
+</doc>
+</add>

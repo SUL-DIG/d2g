@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101658</field>
+<field name="genre">Operas</field>
+<field name="title">Lucio Papirio</field>
+<field name="titleSort">Lucio Papirio</field>
+<field name="composer">Ignazio Balbi</field>
+<field name="composerSort">Balbi, Ignazio</field>
+<field name="year">1752</field>
+<field name="date">1752</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Papirio+Ignazio+Balbi&amp;search_field=search</field>
+</doc>
+</add>

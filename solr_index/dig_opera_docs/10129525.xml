@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129525</field>
+<field name="genre">Operas</field>
+<field name="title">Adiós a la bohemia</field>
+<field name="titleSort">Adiós a la bohemia</field>
+<field name="composer">Pablo Sorozábal</field>
+<field name="composerSort">Sorozábal, Pablo</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Pablo Sorozábal</field>
+<field name="librettistSort">Sorozábal, Pablo</field>
+<field name="librettist">Pío Baroja</field>
+<field name="librettistSort">Baroja, Pío</field>
+<field name="theater">Teatro Calderón</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adiós+a+la+bohemia+Pablo+Sorozábal&amp;search_field=search</field>
+</doc>
+</add>

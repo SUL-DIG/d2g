@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117434</field>
+<field name="genre">Operas</field>
+<field name="title">Simon</field>
+<field name="titleSort">Simon</field>
+<field name="composer">Herbert Lauermann</field>
+<field name="composerSort">Lauermann, Herbert</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Herbert Vogg</field>
+<field name="librettistSort">Vogg, Herbert</field>
+<field name="theater">Carinthian Summer Music Festival</field>
+<field name="city">Ossiach</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Simon+Herbert+Lauermann&amp;search_field=search</field>
+</doc>
+</add>

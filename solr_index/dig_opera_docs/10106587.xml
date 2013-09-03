@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106587</field>
+<field name="genre">Operas</field>
+<field name="title">Il marito imbrogliato</field>
+<field name="titleSort">marito imbrogliato</field>
+<field name="composer">Bernardino Corbellini</field>
+<field name="composerSort">Corbellini, Bernardino</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="city">Lanciano</field>
+<field name="region">Abruzzi</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+marito+imbrogliato+Bernardino+Corbellini&amp;search_field=search</field>
+</doc>
+</add>

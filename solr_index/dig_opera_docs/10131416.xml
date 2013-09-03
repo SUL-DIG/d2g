@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131416</field>
+<field name="genre">Operas</field>
+<field name="title">Kolotoc (The Merry-go-round)</field>
+<field name="titleSort">Kolotoc (The Merry-go-round)</field>
+<field name="composer">Václav Trojan</field>
+<field name="composerSort">Trojan, Václav</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Marie Charousová-Gardavská</field>
+<field name="librettistSort">Charousová-Gardavská, Marie</field>
+<field name="theater">Státní divadlo Zdenka Nejedlého</field>
+<field name="city">Ostrava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kolotoc+The+Merry-go-round+Václav+Trojan&amp;search_field=search</field>
+</doc>
+</add>

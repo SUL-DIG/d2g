@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120557</field>
+<field name="genre">Operas</field>
+<field name="title">Salominette</field>
+<field name="titleSort">Salominette</field>
+<field name="composer">Henri Michel</field>
+<field name="composerSort">Michel, Henri</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Henri Blerne</field>
+<field name="librettistSort">Blerne, Henri</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salominette+Henri+Michel&amp;search_field=search</field>
+</doc>
+</add>

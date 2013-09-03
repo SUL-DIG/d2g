@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107859</field>
+<field name="genre">Operas</field>
+<field name="title">L'ecstase</field>
+<field name="titleSort">ecstase</field>
+<field name="composer">Alexandre Pierre Joseph Doche</field>
+<field name="composerSort">Doche, Alexandre Pierre Joseph</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Auguste Arnould</field>
+<field name="librettistSort">Arnould, Auguste</field>
+<field name="librettist">[Joseph-Philippe Simon] Lockroy</field>
+<field name="librettistSort">Lockroy, [Joseph-Philippe Simon]</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'ecstase+Alexandre+Pierre+Joseph+Doche&amp;search_field=search</field>
+</doc>
+</add>

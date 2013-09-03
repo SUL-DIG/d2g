@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111578</field>
+<field name="genre">Operas</field>
+<field name="title">Yellow Wallpaper</field>
+<field name="titleSort">Yellow Wallpaper</field>
+<field name="composer">Miriam Gerberg</field>
+<field name="composerSort">Gerberg, Miriam</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Judy McGuire</field>
+<field name="librettistSort">McGuire, Judy</field>
+<field name="librettist">Charlotte Perkins Gilman</field>
+<field name="librettistSort">Gilman, Charlotte Perkins</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yellow+Wallpaper+Miriam+Gerberg&amp;search_field=search</field>
+</doc>
+</add>

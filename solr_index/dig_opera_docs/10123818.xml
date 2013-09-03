@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123818</field>
+<field name="genre">Operas</field>
+<field name="title">"Danao, re d'Argo</field>
+<field name="titleSort">"Danao, re d'Argo"</field>
+<field name="composer">Giuseppe Persiani</field>
+<field name="composerSort">Persiani, Giuseppe</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Danao,+re+d'Argo+Giuseppe+Persiani&amp;search_field=search</field>
+</doc>
+</add>

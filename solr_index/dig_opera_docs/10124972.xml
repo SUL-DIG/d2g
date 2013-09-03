@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124972</field>
+<field name="genre">Operas</field>
+<field name="title">Il muto per astuzia</field>
+<field name="titleSort">muto per astuzia</field>
+<field name="composer">Marcos António Portugal</field>
+<field name="composerSort">Portugal, Marcos António</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro Régio</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+muto+per+astuzia+Marcos+António+Portugal&amp;search_field=search</field>
+</doc>
+</add>

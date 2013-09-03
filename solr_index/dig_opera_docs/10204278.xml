@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204278</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Si, eres Ana el oprobio de Israel</field>
+		<field name="titleSort">Si, eres Ana el oprobio de Israel</field>
+		<field name="year">1758</field>
+		
+		
+		<field name="date">1758</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Si,+eres+Ana+el+oprobio+de+Israel+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

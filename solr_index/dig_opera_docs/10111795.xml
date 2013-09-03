@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111795</field>
+<field name="genre">Operas</field>
+<field name="title">Jo Being</field>
+<field name="titleSort">Jo Being</field>
+<field name="composer">Helen Gifford</field>
+<field name="composerSort">Gifford, Helen</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Peter Murphy</field>
+<field name="librettistSort">Murphy, Peter</field>
+
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jo+Being+Helen+Gifford&amp;search_field=search</field>
+</doc>
+</add>

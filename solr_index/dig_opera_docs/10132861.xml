@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132861</field>
+<field name="genre">Operas</field>
+<field name="title">Frage und Antwort</field>
+<field name="titleSort">Frage und Antwort</field>
+<field name="composer">Johann Wessely</field>
+<field name="composerSort">Wessely, Johann</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Schlosstheater</field>
+<field name="city">Ballenstedt</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frage+und+Antwort+Johann+Wessely&amp;search_field=search</field>
+</doc>
+</add>

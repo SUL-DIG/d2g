@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100420</field>
+<field name="genre">Operas</field>
+<field name="title">Bombastes Furioso</field>
+<field name="titleSort">Bombastes Furioso</field>
+<field name="composer">Pauline Alderman</field>
+<field name="composerSort">Alderman, Pauline</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">William Barnes Rhodes</field>
+<field name="librettistSort">Rhodes, William Barnes</field>
+<field name="theater">University of Southern California</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bombastes+Furioso+Pauline+Alderman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106359</field>
+<field name="genre">Operas</field>
+<field name="title">Amilcare in Cipro</field>
+<field name="titleSort">Amilcare in Cipro</field>
+<field name="composer">Giovanni Paolo Colonna</field>
+<field name="composerSort">Colonna, Giovanni Paolo</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">Alessandro Gargiuria</field>
+<field name="librettistSort">Gargiuria, Alessandro</field>
+<field name="theater">Teatro Malvezzi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amilcare+in+Cipro+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+</doc>
+</add>

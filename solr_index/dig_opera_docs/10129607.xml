@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129607</field>
+<field name="genre">Operas</field>
+<field name="title">La più giusta vendetta</field>
+<field name="titleSort">più giusta vendetta</field>
+<field name="composer">Alessandro Spinazzari</field>
+<field name="composerSort">Spinazzari, Alessandro</field>
+<field name="year">1674</field>
+<field name="date">1674</field>
+<field name="librettist">Pietro Antonio Bettanini</field>
+<field name="librettistSort">Bettanini, Pietro Antonio</field>
+
+<field name="city">Vicenza</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+più+giusta+vendetta+Alessandro+Spinazzari&amp;search_field=search</field>
+</doc>
+</add>

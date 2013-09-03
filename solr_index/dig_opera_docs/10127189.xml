@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127189</field>
+<field name="genre">Operas</field>
+<field name="title">Diomede punito da Alcide</field>
+<field name="titleSort">Diomede punito da Alcide</field>
+<field name="composer">Bernardo Sabadini</field>
+<field name="composerSort">Sabadini, Bernardo</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diomede+punito+da+Alcide+Bernardo+Sabadini&amp;search_field=search</field>
+</doc>
+</add>

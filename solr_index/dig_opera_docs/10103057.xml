@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103057</field>
+<field name="genre">Operas</field>
+<field name="title">"Siroe, re di Persia</field>
+<field name="titleSort">"Siroe, re di Persia"</field>
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Santo Burigotti</field>
+<field name="librettistSort">Burigotti, Santo</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Siroe,+re+di+Persia+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

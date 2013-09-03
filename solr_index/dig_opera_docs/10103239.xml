@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103239</field>
+<field name="genre">Operas</field>
+<field name="title">Tobias and the Angel</field>
+<field name="titleSort">Tobias and the Angel</field>
+<field name="composer">Arthur Bliss</field>
+<field name="composerSort">Bliss, Arthur</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Christopher Hassall</field>
+<field name="librettistSort">Hassall, Christopher</field>
+<field name="theater">BBC Television (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tobias+and+the+Angel+Arthur+Bliss&amp;search_field=search</field>
+</doc>
+</add>

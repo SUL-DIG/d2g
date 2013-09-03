@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101147</field>
+<field name="genre">Operas</field>
+<field name="title">La una 'n tel pess</field>
+<field name="titleSort">una 'n tel pess</field>
+<field name="composer">Colombino Arona</field>
+<field name="composerSort">Arona, Colombino</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Cesare de Maria</field>
+<field name="librettistSort">Maria, Cesare de</field>
+<field name="theater">Teatro del Parco Michelotti</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+una+'n+tel+pess+Colombino+Arona&amp;search_field=search</field>
+</doc>
+</add>

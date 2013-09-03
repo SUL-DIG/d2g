@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102539</field>
+<field name="genre">Operas</field>
+<field name="title">Patria</field>
+<field name="titleSort">Patria</field>
+<field name="composer">Enrico Bernardi</field>
+<field name="composerSort">Bernardi, Enrico</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Ferdinando Pagavini</field>
+<field name="librettistSort">Pagavini, Ferdinando</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Lodi</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patria+Enrico+Bernardi&amp;search_field=search</field>
+</doc>
+</add>

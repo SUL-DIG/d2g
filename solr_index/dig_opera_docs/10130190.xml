@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130190</field>
+<field name="genre">Operas</field>
+<field name="title">Die schweigsame Frau</field>
+<field name="titleSort">schweigsame Frau</field>
+<field name="composer">Richard Strauss</field>
+<field name="composerSort">Strauss, Richard</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Stefan Zweig</field>
+<field name="librettistSort">Zweig, Stefan</field>
+<field name="librettist">Ben Jonson</field>
+<field name="librettistSort">Jonson, Ben</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schweigsame+Frau+Richard+Strauss&amp;search_field=search</field>
+</doc>
+</add>

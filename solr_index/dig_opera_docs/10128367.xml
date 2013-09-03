@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128367</field>
+<field name="genre">Operas</field>
+<field name="title">Der Wahrsager</field>
+<field name="titleSort">Wahrsager</field>
+<field name="composer">Friedrich Schneider</field>
+<field name="composerSort">Schneider, Friedrich</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Johann Theodor Lingke</field>
+<field name="librettistSort">Lingke, Johann Theodor</field>
+<field name="theater">Theater am Rannstädter Tor</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Wahrsager+Friedrich+Schneider&amp;search_field=search</field>
+</doc>
+</add>

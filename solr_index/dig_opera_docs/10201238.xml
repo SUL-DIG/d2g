@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201238</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Exitus Israel de Aegypto</field>
+		<field name="titleSort">Exitus Israel de Aegypto</field>
+		<field name="year">1795</field>
+		<field name="month">August</field>
+		<field name="day">6</field>
+		<field name="date">August 6, 1795</field>
+		<field name="composer">Matteo Rauzzini</field>
+		<field name="composerSort">Rauzzini, Matteo</field>
+		
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses leads the Israelites out of Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Exitus+Israel+de+Aegypto+Matteo+Rauzzini&amp;search_field=search</field>
+	</doc></add>

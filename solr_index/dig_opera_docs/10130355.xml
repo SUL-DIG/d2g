@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130355</field>
+<field name="genre">Operas</field>
+<field name="title">Das Pensionat</field>
+<field name="titleSort">Pensionat</field>
+<field name="composer">Franz von Suppé</field>
+<field name="composerSort">Suppé, Franz von</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Josef Kaulich</field>
+<field name="librettistSort">Kaulich, Josef</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Pensionat+Franz+von+Suppé&amp;search_field=search</field>
+</doc>
+</add>

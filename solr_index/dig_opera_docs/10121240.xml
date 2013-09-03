@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121240</field>
+<field name="genre">Operas</field>
+<field name="title">Le contrat d'amour</field>
+<field name="titleSort">contrat d'amour</field>
+<field name="composer">Henry Morisson</field>
+<field name="composerSort">Morisson, Henry</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Valentin Tarault</field>
+<field name="librettistSort">Tarault, Valentin</field>
+<field name="librettist">Jean Kolb</field>
+<field name="librettistSort">Kolb, Jean</field>
+<field name="theater">Théâtre du Casino des Arts</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contrat+d'amour+Henry+Morisson&amp;search_field=search</field>
+</doc>
+</add>

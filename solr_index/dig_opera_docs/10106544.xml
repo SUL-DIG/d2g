@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106544</field>
+<field name="genre">Operas</field>
+<field name="title">Holy Blood and Crescent Moon</field>
+<field name="titleSort">Holy Blood and Crescent Moon</field>
+<field name="composer">Stewart Copeland</field>
+<field name="composerSort">Copeland, Stewart</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Susan Shirwen</field>
+<field name="librettistSort">Shirwen, Susan</field>
+<field name="theater">State Theater</field>
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Holy+Blood+and+Crescent+Moon+Stewart+Copeland&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100813</field>
+<field name="genre">Operas</field>
+<field name="title">"Ite, Missa est</field>
+<field name="titleSort">"Ite, Missa est"</field>
+<field name="composer">Augusto Angeloni</field>
+<field name="composerSort">Angeloni, Augusto</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Luigi Maroni</field>
+<field name="librettistSort">Maroni, Luigi</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ite,+Missa+est+Augusto+Angeloni&amp;search_field=search</field>
+</doc>
+</add>

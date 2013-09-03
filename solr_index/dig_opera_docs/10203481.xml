@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203481</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I principi cristiani chiamati al presepe</field>
+		<field name="titleSort">principi cristiani chiamati al presepe</field>
+		<field name="year">1685</field>
+		<field name="month">December</field>
+		<field name="day">24</field>
+		<field name="date">December 24, 1685</field>
+		<field name="composer">Giuseppe Pacieri</field>
+		<field name="composerSort">Pacieri, Giuseppe</field>
+		<field name="librettist">Carlo Amadio</field>
+		<field name="librettistSort">Amadio, Carlo</field>
+		
+		<field name="theater">Palazzo Apostolico</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+principi+cristiani+chiamati+al+presepe+Giuseppe+Pacieri&amp;search_field=search</field>
+	</doc></add>

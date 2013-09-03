@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102806</field>
+<field name="genre">Operas</field>
+<field name="title">Khrysé</field>
+<field name="titleSort">Khrysé</field>
+<field name="composer">Arturo Beruti</field>
+<field name="composerSort">Beruti, Arturo</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Giuseppe Paolo Pacchierotti</field>
+<field name="librettistSort">Pacchierotti, Giuseppe Paolo</field>
+<field name="librettist">[Pierre Louis] Pierre Louяs</field>
+<field name="librettistSort">Louяs, Pierre [Pierre Louis]</field>
+<field name="theater">Politeama Argentino</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khrysé+Arturo+Beruti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101476</field>
+<field name="genre">Operas</field>
+<field name="title">The Stepmother</field>
+<field name="titleSort">Stepmother</field>
+<field name="composer">Walter Austin</field>
+<field name="composerSort">Austin, Walter</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">[George Rose] Arthur Sketchley</field>
+<field name="librettistSort">Sketchley, Arthur [George Rose]</field>
+
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Stepmother+Walter+Austin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133510</field>
+<field name="genre">Operas</field>
+<field name="title">Zsu Zsu</field>
+<field name="titleSort">Zsu Zsu</field>
+<field name="composer">Béla Zerkovitz</field>
+<field name="composerSort">Zerkovitz, Béla</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="theater">Royal Orfeum</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zsu+Zsu+Béla+Zerkovitz&amp;search_field=search</field>
+</doc>
+</add>

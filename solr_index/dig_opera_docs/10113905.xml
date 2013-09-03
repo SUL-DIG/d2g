@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113905</field>
+<field name="genre">Operas</field>
+<field name="title">Messalina</field>
+<field name="titleSort">Messalina</field>
+<field name="composer">Hans Heller</field>
+<field name="composerSort">Heller, Hans</field>
+<field name="year">1928</field>
+<field name="date">1928</field><field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Messalina+Hans+Heller&amp;search_field=search</field>
+</doc>
+</add>

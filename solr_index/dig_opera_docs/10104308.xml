@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104308</field>
+<field name="genre">Operas</field>
+<field name="title">Célestine</field>
+<field name="titleSort">Célestine</field>
+<field name="composer">Antonio Bartolomeo Bruni</field>
+<field name="composerSort">Bruni, Antonio Bartolomeo</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">__ Magnitot</field>
+<field name="librettistSort">Magnitot, __</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Célestine+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
+</doc>
+</add>

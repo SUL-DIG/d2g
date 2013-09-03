@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104213</field>
+<field name="genre">Operas</field>
+<field name="title">Adriano in Siria</field>
+<field name="titleSort">Adriano in Siria</field>
+<field name="composer">Riccardo Broschi</field>
+<field name="composerSort">Broschi, Riccardo</field>
+<field name="year">1736</field>
+<field name="date">1736</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriano+in+Siria+Riccardo+Broschi&amp;search_field=search</field>
+</doc>
+</add>

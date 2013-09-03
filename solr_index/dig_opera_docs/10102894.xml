@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102894</field>
+<field name="genre">Operas</field>
+<field name="title">La finta principessa</field>
+<field name="titleSort">finta principessa</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Filippo Livigni</field>
+<field name="librettistSort">Livigni, Filippo</field>
+<field name="theater">Teatro Formagliari</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+principessa+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

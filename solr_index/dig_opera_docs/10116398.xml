@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116398</field>
+<field name="genre">Operas</field>
+<field name="title">Grand Hotel</field>
+<field name="titleSort">Grand Hotel</field>
+<field name="composer">Olli Kortekangas</field>
+<field name="composerSort">Kortekangas, Olli</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Arto Melleri</field>
+<field name="librettistSort">Melleri, Arto</field>
+<field name="librettist">Vicki Baum</field>
+<field name="librettistSort">Baum, Vicki</field>
+<field name="theater">Finnish Television (Oy Mainos-TV-Reklam Ab)</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grand+Hotel+Olli+Kortekangas&amp;search_field=search</field>
+</doc>
+</add>

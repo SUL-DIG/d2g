@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124748</field>
+<field name="genre">Operas</field>
+<field name="title">Protis</field>
+<field name="titleSort">Protis</field>
+<field name="composer">Henri Poncet</field>
+<field name="composerSort">Poncet, Henri</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Armand Barthet</field>
+<field name="librettistSort">Barthet, Armand</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Aix-en-Provence</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Protis+Henri+Poncet&amp;search_field=search</field>
+</doc>
+</add>

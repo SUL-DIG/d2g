@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108800</field>
+<field name="genre">Operas</field>
+<field name="title">Felicia</field>
+<field name="titleSort">Felicia</field>
+<field name="composer">Karl Traugott Eisrich</field>
+<field name="composerSort">Eisrich, Karl Traugott</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Friedrich Albert Gebhard</field>
+<field name="librettistSort">Gebhard, Friedrich Albert</field>
+<field name="theater">Liebhaber-Theater</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Felicia+Karl+Traugott+Eisrich&amp;search_field=search</field>
+</doc>
+</add>

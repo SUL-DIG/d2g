@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107628</field>
+<field name="genre">Operas</field>
+<field name="title">Le forgeur de merveilles</field>
+<field name="titleSort">forgeur de merveilles</field>
+<field name="composer">Yvonne Desportes</field>
+<field name="composerSort">Desportes, Yvonne</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Yvonne Desportes</field>
+<field name="librettistSort">Desportes, Yvonne</field>
+<field name="librettist">Fitz-James O'Brien</field>
+<field name="librettistSort">O'Brien, Fitz-James</field>
+<field name="theater">ORTF Radio (Office de Radiodiffusion Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+forgeur+de+merveilles+Yvonne+Desportes&amp;search_field=search</field>
+</doc>
+</add>

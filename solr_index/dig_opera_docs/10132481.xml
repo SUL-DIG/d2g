@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132481</field>
+<field name="genre">Operas</field>
+<field name="title">Doktor Faust</field>
+<field name="titleSort">Doktor Faust</field>
+<field name="composer">Ignaz Walter</field>
+<field name="composerSort">Walter, Ignaz</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Heinrich Gottlieb Schmieder</field>
+<field name="librettistSort">Schmieder, Heinrich Gottlieb</field>
+
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doktor+Faust+Ignaz+Walter&amp;search_field=search</field>
+</doc>
+</add>

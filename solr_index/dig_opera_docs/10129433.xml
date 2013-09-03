@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129433</field>
+<field name="genre">Operas</field>
+<field name="title">Quatre maris pour un</field>
+<field name="titleSort">Quatre maris pour un</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1801</field>
+<field name="date">1801</field>
+<field name="librettist">René-Charles Guilbert de Pixérécourt</field>
+<field name="librettistSort">Pixérécourt, René-Charles Guilbert de</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quatre+maris+pour+un+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

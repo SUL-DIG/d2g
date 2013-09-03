@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128391</field>
+<field name="genre">Operas</field>
+<field name="title">Erwartung</field>
+<field name="titleSort">Erwartung</field>
+<field name="composer">Arnold Schoenberg</field>
+<field name="composerSort">Schoenberg, Arnold</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Marie Pappenheim</field>
+<field name="librettistSort">Pappenheim, Marie</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erwartung+Arnold+Schoenberg&amp;search_field=search</field>
+</doc>
+</add>

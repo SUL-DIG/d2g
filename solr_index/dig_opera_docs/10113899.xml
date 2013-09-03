@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113899</field>
+<field name="genre">Operas</field>
+<field name="title">Drot og marsk (King and Marshal)</field>
+<field name="titleSort">Drot og marsk (King and Marshal)</field>
+<field name="composer">Peter Heise</field>
+<field name="composerSort">Heise, Peter</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Christian Richardt</field>
+<field name="librettistSort">Richardt, Christian</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drot+og+marsk+King+and+Marshal+Peter+Heise&amp;search_field=search</field>
+</doc>
+</add>

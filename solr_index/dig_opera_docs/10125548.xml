@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125548</field>
+<field name="genre">Operas</field>
+<field name="title">Armida in Damasco</field>
+<field name="titleSort">Armida in Damasco</field>
+<field name="composer">Giacomo Rampini</field>
+<field name="composerSort">Rampini, Giacomo</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armida+in+Damasco+Giacomo+Rampini&amp;search_field=search</field>
+</doc>
+</add>

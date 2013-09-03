@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102397</field>
+<field name="genre">Operas</field>
+<field name="title">Astolfo Cavalcanti</field>
+<field name="titleSort">Astolfo Cavalcanti</field>
+<field name="composer">Giuseppe Bensa</field>
+<field name="composerSort">Bensa, Giuseppe</field>
+<field name="year">1872</field>
+<field name="date">1872</field><field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astolfo+Cavalcanti+Giuseppe+Bensa&amp;search_field=search</field>
+</doc>
+</add>

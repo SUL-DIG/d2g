@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204048</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Giustina di Padova</field>
+		<field name="titleSort">Santa Giustina di Padova</field>
+		
+		
+		
+		
+		<field name="composer">Marco Marazzoli</field>
+		<field name="composerSort">Marazzoli, Marco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Justina of Padua</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">7</field>
+		<field name="feastDate">October 7</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Giustina+di+Padova+Marco+Marazzoli&amp;search_field=search</field>
+	</doc></add>

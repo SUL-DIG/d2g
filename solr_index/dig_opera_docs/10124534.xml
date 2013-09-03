@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124534</field>
+<field name="genre">Operas</field>
+<field name="title">Ornella d'Abruzzo</field>
+<field name="titleSort">Ornella d'Abruzzo</field>
+<field name="composer">Augusto Poggi</field>
+<field name="composerSort">Poggi, Augusto</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Giorgio Damara</field>
+<field name="librettistSort">Damara, Giorgio</field>
+<field name="theater">Teatro Reale</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ornella+d'Abruzzo+Augusto+Poggi&amp;search_field=search</field>
+</doc>
+</add>

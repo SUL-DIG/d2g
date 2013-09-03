@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200330</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Balaam and Balak</field>
+		<field name="titleSort">Balaam and Balak</field>
+		<field name="year">1896</field>
+		
+		
+		<field name="date">1896</field>
+		<field name="composer">Ferris Tozer</field>
+		<field name="composerSort">Tozer, Ferris</field>
+		<field name="librettist">Henry Knight</field>
+		<field name="librettistSort">Knight, Henry</field>
+		
+		
+		
+		
+		
+		<field name="subject">Balak and Balaam</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balaam+and+Balak+Ferris+Tozer&amp;search_field=search</field>
+	</doc></add>

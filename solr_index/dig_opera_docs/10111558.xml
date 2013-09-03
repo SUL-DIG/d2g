@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111558</field>
+<field name="genre">Operas</field>
+<field name="title">L'élixir de Maître Eloi ...?</field>
+<field name="titleSort">élixir de Maître Eloi ...?</field>
+<field name="composer">Georges George</field>
+<field name="composerSort">George, Georges</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">[Édouard Le Crosnier] Jacques Yveline</field>
+<field name="librettistSort">Yveline, Jacques [Édouard Le Crosnier]</field>
+<field name="theater">Théâtre-Français</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'élixir+de+Maître+Eloi+...?+Georges+George&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108603</field>
+<field name="genre">Operas</field>
+<field name="title">Cert a Káca (Kate and the Devil)</field>
+<field name="titleSort">Cert a Káca (Kate and the Devil)</field>
+<field name="composer">Antonín Dvorák</field>
+<field name="composerSort">Dvorák, Antonín</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Adolf Wenig</field>
+<field name="librettistSort">Wenig, Adolf</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cert+a+Káca+Kate+and+the+Devil+Antonín+Dvorák&amp;search_field=search</field>
+</doc>
+</add>

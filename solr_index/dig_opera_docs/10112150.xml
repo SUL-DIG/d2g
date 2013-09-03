@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112150</field>
+<field name="genre">Operas</field>
+<field name="title">Ulysses</field>
+<field name="titleSort">Ulysses</field>
+<field name="composer">Liviu Glodeanu</field>
+<field name="composerSort">Glodeanu, Liviu</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Liviu Glodeanu</field>
+<field name="librettistSort">Glodeanu, Liviu</field>
+<field name="librettist">Mihai Gureanu</field>
+<field name="librettistSort">Gureanu, Mihai</field>
+<field name="theater">SRTV Television (Societatea Româna de Televiziune)</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulysses+Liviu+Glodeanu&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118049</field>
+<field name="genre">Operas</field>
+<field name="title">Iginia d'Asti</field>
+<field name="titleSort">Iginia d'Asti</field>
+<field name="composer">Samuele Levi</field>
+<field name="composerSort">Levi, Samuele</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="librettist">Silvio Pellico</field>
+<field name="librettistSort">Pellico, Silvio</field>
+<field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iginia+d'Asti+Samuele+Levi&amp;search_field=search</field>
+</doc>
+</add>

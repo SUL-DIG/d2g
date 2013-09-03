@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128262</field>
+<field name="genre">Operas</field>
+<field name="title">En hellig aften (A Holy Evening)</field>
+<field name="titleSort">hellig aften (A Holy Evening)</field>
+<field name="composer">Gerhard Schjelderup</field>
+<field name="composerSort">Schjelderup, Gerhard</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Gerhard Schjelderup</field>
+<field name="librettistSort">Schjelderup, Gerhard</field>
+
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+hellig+aften+A+Holy+Evening+Gerhard+Schjelderup&amp;search_field=search</field>
+</doc>
+</add>

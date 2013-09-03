@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116987</field>
+<field name="genre">Operas</field>
+<field name="title">Télégone</field>
+<field name="titleSort">Télégone</field>
+<field name="composer">Louis de Lacoste</field>
+<field name="composerSort">Lacoste, Louis de</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Simon-Joseph Pellegrin</field>
+<field name="librettistSort">Pellegrin, Simon-Joseph</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Télégone+Louis+de+Lacoste&amp;search_field=search</field>
+</doc>
+</add>

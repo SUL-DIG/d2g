@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102464</field>
+<field name="genre">Operas</field>
+<field name="title">Le chevalier d'Éon</field>
+<field name="titleSort">chevalier d'Éon</field>
+<field name="composer">Rodolphe Berger</field>
+<field name="composerSort">Berger, Rodolphe</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="theater">Théâtre de la Porte-Saint-Martin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chevalier+d'Éon+Rodolphe+Berger&amp;search_field=search</field>
+</doc>
+</add>

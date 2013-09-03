@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201193</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ester</field>
+		<field name="titleSort">Ester</field>
+		<field name="year">1761</field>
+		
+		
+		<field name="date">1761</field>
+		<field name="composer">Nicola Bonifacio Logroscino</field>
+		<field name="composerSort">Logroscino, Nicola Bonifacio</field>
+		
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ester+Nicola+Bonifacio+Logroscino&amp;search_field=search</field>
+	</doc></add>

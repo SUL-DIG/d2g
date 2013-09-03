@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115555</field>
+<field name="genre">Operas</field>
+<field name="title">Az obsitos (The Soldier on Leave)</field>
+<field name="titleSort">obsitos (The Soldier on Leave)</field>
+<field name="composer">Imre Kálmán</field>
+<field name="composerSort">Kálmán, Imre</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Károly Bakonyi</field>
+<field name="librettistSort">Bakonyi, Károly</field>
+<field name="theater">Vigszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+obsitos+The+Soldier+on+Leave+Imre+Kálmán&amp;search_field=search</field>
+</doc>
+</add>

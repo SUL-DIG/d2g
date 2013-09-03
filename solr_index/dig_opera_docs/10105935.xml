@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105935</field>
+<field name="genre">Operas</field>
+<field name="title">Gloria</field>
+<field name="titleSort">Gloria</field>
+<field name="composer">Francesco Cilea</field>
+<field name="composerSort">Cilea, Francesco</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Arturo Colautti</field>
+<field name="librettistSort">Colautti, Arturo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gloria+Francesco+Cilea&amp;search_field=search</field>
+</doc>
+</add>

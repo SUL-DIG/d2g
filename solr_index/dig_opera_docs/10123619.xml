@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123619</field>
+<field name="genre">Operas</field>
+<field name="title">La vedova del Bengala</field>
+<field name="titleSort">vedova del Bengala</field>
+<field name="composer">Angelo Pellegrini</field>
+<field name="composerSort">Pellegrini, Angelo</field>
+<field name="year">1833</field>
+<field name="date">1833</field><field name="theater">Teatro della Cittа</field>
+<field name="city">Como</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedova+del+Bengala+Angelo+Pellegrini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108113</field>
+<field name="genre">Operas</field>
+<field name="title">Le trésor de la tante Bechut</field>
+<field name="titleSort">trésor de la tante Bechut</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">[Alfred-Philibert Soupé] Alfred Philibert</field>
+<field name="librettistSort">Philibert, Alfred [Alfred-Philibert Soupé]</field>
+<field name="theater">Théâtre de la Tertulia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+trésor+de+la+tante+Bechut+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

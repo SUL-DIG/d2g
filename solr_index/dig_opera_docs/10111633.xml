@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111633</field>
+<field name="genre">Operas</field>
+<field name="title">La fiera di Sinigaglia</field>
+<field name="titleSort">fiera di Sinigaglia</field>
+<field name="composer">Giuseppe Gessi</field>
+<field name="composerSort">Gessi, Giuseppe</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Giovanni Bagliano</field>
+<field name="librettistSort">Bagliano, Giovanni</field>
+<field name="theater">Teatro Principe Amadeo</field>
+<field name="city">San Remo</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiera+di+Sinigaglia+Giuseppe+Gessi&amp;search_field=search</field>
+</doc>
+</add>

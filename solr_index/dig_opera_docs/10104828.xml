@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104828</field>
+<field name="genre">Operas</field>
+<field name="title">Narcisco com dois pés</field>
+<field name="titleSort">Narcisco com dois pés</field>
+<field name="composer">José Cândido</field>
+<field name="composerSort">Cândido, José</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Alfredo de Mattos</field>
+<field name="librettistSort">Mattos, Alfredo de</field>
+
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Narcisco+com+dois+pés+José+Cândido&amp;search_field=search</field>
+</doc>
+</add>

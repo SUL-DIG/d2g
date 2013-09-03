@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204945</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Yaroslavna</field>
+		<field name="titleSort">Yaroslavna</field>
+		<field name="year">1980</field>
+		
+		
+		<field name="date">1980</field>
+		<field name="composer">Valery Yur'yevich Kalistratov</field>
+		<field name="composerSort">Kalistratov, Valery Yur'yevich</field>
+		<field name="librettist">Aleksandr Andrey'evich Prokof'ev</field>
+		<field name="librettistSort">Prokof'ev, Aleksandr Andrey</field>
+		<field name="librettist">Sergey Grigor'evich Ostrovoi</field>
+		<field name="librettistSort">Ostrovoi, Sergey Grigor'evich</field>
+		
+		
+		
+		
+		<field name="subject">Yaroslav I the Wise</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yaroslavna+Valery+Yur'yevich+Kalistratov&amp;search_field=search</field>
+	</doc></add>

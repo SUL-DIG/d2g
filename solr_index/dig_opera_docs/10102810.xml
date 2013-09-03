@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102810</field>
+<field name="genre">Operas</field>
+<field name="title">Yupanki</field>
+<field name="titleSort">Yupanki</field>
+<field name="composer">Arturo Beruti</field>
+<field name="composerSort">Beruti, Arturo</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Enríque Rodríguez Larreta</field>
+<field name="librettistSort">Rodríguez Larreta, Enríque</field>
+<field name="librettist">Vicente Fidel López</field>
+<field name="librettistSort">Fidel López, Vicente </field>
+<field name="theater">Teatro de la Opera</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yupanki+Arturo+Beruti&amp;search_field=search</field>
+</doc>
+</add>

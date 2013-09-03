@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132110</field>
+<field name="genre">Operas</field>
+<field name="title">Il bersagliere di Palestro</field>
+<field name="titleSort">bersagliere di Palestro</field>
+<field name="composer">Pietro Vinci</field>
+<field name="composerSort">Vinci, Pietro</field>
+<field name="year">1875</field>
+<field name="date">1875</field><field name="theater">Circolo Perajo</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bersagliere+di+Palestro+Pietro+Vinci&amp;search_field=search</field>
+</doc>
+</add>

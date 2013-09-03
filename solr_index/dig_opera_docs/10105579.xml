@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105579</field>
+<field name="genre">Operas</field>
+<field name="title">The Pot of Fat</field>
+<field name="titleSort">Pot of Fat</field>
+<field name="composer">Theodore Chanler</field>
+<field name="composerSort">Chanler, Theodore</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Hester Pickman</field>
+<field name="librettistSort">Pickman, Hester</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Longy School</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pot+of+Fat+Theodore+Chanler&amp;search_field=search</field>
+</doc>
+</add>

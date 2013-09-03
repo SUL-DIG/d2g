@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110003</field>
+<field name="genre">Operas</field>
+<field name="title">Aida di Scafatti</field>
+<field name="titleSort">Aida di Scafatti</field>
+<field name="composer">Matteo Luigi Fischetti</field>
+<field name="composerSort">Fischetti, Matteo Luigi</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Enrico Campanelli</field>
+<field name="librettistSort">Campanelli, Enrico</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aida+di+Scafatti+Matteo+Luigi+Fischetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105107</field>
+<field name="genre">Operas</field>
+<field name="title">I tre mariti</field>
+<field name="titleSort">tre mariti</field>
+<field name="composer">Gustavo Carulli</field>
+<field name="composerSort">Carulli, Gustavo</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+mariti+Gustavo+Carulli&amp;search_field=search</field>
+</doc>
+</add>

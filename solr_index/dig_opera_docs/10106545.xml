@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106545</field>
+<field name="genre">Operas</field>
+<field name="title">Una partita a scacchi</field>
+<field name="titleSort">partita a scacchi</field>
+<field name="composer">Giovanni Copello</field>
+<field name="composerSort">Copello, Giovanni</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Giuseppe Giacosa</field>
+<field name="librettistSort">Giacosa, Giuseppe</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+partita+a+scacchi+Giovanni+Copello&amp;search_field=search</field>
+</doc>
+</add>

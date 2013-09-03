@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105924</field>
+<field name="genre">Operas</field>
+<field name="title">Coriolanus</field>
+<field name="titleSort">Coriolanus</field>
+<field name="composer">Ján Cikker</field>
+<field name="composerSort">Cikker, Ján</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Ján Cikker</field>
+<field name="librettistSort">Cikker, Ján</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Smetanovo Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coriolanus+Ján+Cikker&amp;search_field=search</field>
+</doc>
+</add>

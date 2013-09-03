@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204068</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Pelagia</field>
+		<field name="titleSort">Santa Pelagia</field>
+		
+		
+		
+		
+		<field name="composer">Alessandro Stradella</field>
+		<field name="composerSort">Stradella, Alessandro</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Pelagia</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">9</field>
+		<field name="feastDate">June 9</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Pelagia+Alessandro+Stradella&amp;search_field=search</field>
+	</doc></add>

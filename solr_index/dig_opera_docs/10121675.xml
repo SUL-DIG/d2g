@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121675</field>
+<field name="genre">Operas</field>
+<field name="title">La cameriera astuta</field>
+<field name="titleSort">cameriera astuta</field>
+<field name="composer">Natale Nicola Mussini</field>
+<field name="composerSort">Mussini, Natale Nicola</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Schlosstheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cameriera+astuta+Natale+Nicola+Mussini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111095</field>
+<field name="genre">Operas</field>
+<field name="title">The Moon and Sixpence</field>
+<field name="titleSort">Moon and Sixpence</field>
+<field name="composer">John Gardner</field>
+<field name="composerSort">Gardner, John</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Patrick Terry</field>
+<field name="librettistSort">Terry, Patrick</field>
+<field name="librettist">William Somerset Maugham</field>
+<field name="librettistSort">Maugham, William Somerset</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Moon+and+Sixpence+John+Gardner&amp;search_field=search</field>
+</doc>
+</add>

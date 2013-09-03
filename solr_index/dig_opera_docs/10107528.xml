@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107528</field>
+<field name="genre">Operas</field>
+<field name="title">The True Story of the Three Little Pigs</field>
+<field name="titleSort">True Story of the Three Little Pigs</field>
+<field name="composer">Wallace DePue</field>
+<field name="composerSort">DePue, Wallace</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Wallace DePue</field>
+<field name="librettistSort">DePue, Wallace</field>
+<field name="theater">Bowling Green State University</field>
+<field name="city">Bowling Green</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+TRUE+Story+of+the+Three+Little+Pigs+Wallace+DePue&amp;search_field=search</field>
+</doc>
+</add>

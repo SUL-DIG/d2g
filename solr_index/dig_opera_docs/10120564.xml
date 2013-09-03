@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120564</field>
+<field name="genre">Operas</field>
+<field name="title">Roma liberata dalla congiura di Catilina</field>
+<field name="titleSort">Roma liberata dalla congiura di Catilina</field>
+<field name="composer">Antonio Micheli</field>
+<field name="composerSort">Micheli, Antonio</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Cristofano Martelli</field>
+<field name="librettistSort">Martelli, Cristofano</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roma+liberata+dalla+congiura+di+Catilina+Antonio+Micheli&amp;search_field=search</field>
+</doc>
+</add>

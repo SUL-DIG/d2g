@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126224</field>
+<field name="genre">Operas</field>
+<field name="title">La donna vendicativa</field>
+<field name="titleSort">donna vendicativa</field>
+<field name="composer">Rinaldo di Capua</field>
+<field name="composerSort">Capua, Rinaldo di</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Alessandro Pioli</field>
+<field name="librettistSort">Pioli, Alessandro</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+vendicativa+Rinaldo+di+Capua&amp;search_field=search</field>
+</doc>
+</add>

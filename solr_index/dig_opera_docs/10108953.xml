@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108953</field>
+<field name="genre">Operas</field>
+<field name="title">Masinka</field>
+<field name="titleSort">Masinka</field>
+<field name="composer">Jenö Erkel</field>
+<field name="composerSort">Erkel, Jenö</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Ferdinand Rössel</field>
+<field name="librettistSort">Rössel, Ferdinand</field>
+<field name="theater">Népszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Masinka+Jenö+Erkel&amp;search_field=search</field>
+</doc>
+</add>

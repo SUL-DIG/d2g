@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116379</field>
+<field name="genre">Operas</field>
+<field name="title">Der Mond ist für alle da</field>
+<field name="titleSort">Mond ist für alle da</field>
+<field name="composer">Viktor Korda</field>
+<field name="composerSort">Korda, Viktor</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Fritz Walden</field>
+<field name="librettistSort">Walden, Fritz</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Wiener Neustadt</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Mond+ist+für+alle+da+Viktor+Korda&amp;search_field=search</field>
+</doc>
+</add>

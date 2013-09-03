@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108022</field>
+<field name="genre">Operas</field>
+<field name="title">Le nain du Hasli</field>
+<field name="titleSort">nain du Hasli</field>
+<field name="composer">Gustave Doret</field>
+<field name="composerSort">Doret, Gustave</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">Daniel Baud-Bovy</field>
+<field name="librettistSort">Baud-Bovy, Daniel</field>
+<field name="theater">Théâtre de Neuve</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nain+du+Hasli+Gustave+Doret&amp;search_field=search</field>
+</doc>
+</add>

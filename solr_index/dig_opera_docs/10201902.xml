@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201902</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Homo erat pater familias</field>
+		<field name="titleSort">Homo erat pater familias</field>
+		
+		
+		
+		
+		<field name="composer">Marco Marazzoli</field>
+		<field name="composerSort">Marazzoli, Marco</field>
+		
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Vine</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Homo+erat+pater+familias+Marco+Marazzoli&amp;search_field=search</field>
+	</doc></add>

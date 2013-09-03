@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114384</field>
+<field name="genre">Operas</field>
+<field name="title">St. Carmen of the Main</field>
+<field name="titleSort">St. Carmen of the Main</field>
+<field name="composer">Sydney Hodkinson</field>
+<field name="composerSort">Hodkinson, Sydney</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Lee Devin</field>
+<field name="librettistSort">Devin, Lee</field>
+<field name="librettist">Michel Tremblay</field>
+<field name="librettistSort">Tremblay, Michel</field>
+<field name="theater">University Hockey Rink</field>
+<field name="city">Guelph</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+Carmen+of+the+Main+Sydney+Hodkinson&amp;search_field=search</field>
+</doc>
+</add>

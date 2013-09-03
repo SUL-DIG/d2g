@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128608</field>
+<field name="genre">Operas</field>
+<field name="title">Paukenemil und Trompete</field>
+<field name="titleSort">Paukenemil und Trompete</field>
+<field name="composer">Kurt Schwaen</field>
+<field name="composerSort">Schwaen, Kurt</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Kurt Schwaen</field>
+<field name="librettistSort">Schwaen, Kurt</field>
+<field name="theater">Opernhaus am Karl-Marx-Platz</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paukenemil+und+Trompete+Kurt+Schwaen&amp;search_field=search</field>
+</doc>
+</add>

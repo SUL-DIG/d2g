@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202156</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jephte</field>
+		<field name="titleSort">Jephte</field>
+		<field name="year">1680</field>
+		
+		
+		<field name="date">1680</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Giuseppe Filippo Apolloni</field>
+		<field name="librettistSort">Apolloni, Giuseppe Filippo</field>
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jephte+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109373</field>
+<field name="genre">Operas</field>
+<field name="title">La beffa</field>
+<field name="titleSort">beffa</field>
+<field name="composer">Federico Farlatti</field>
+<field name="composerSort">Farlatti, Federico</field>
+<field name="year">1914</field>
+<field name="date">1914</field><field name="theater">Teatro Minerva</field>
+<field name="city">Udine</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+beffa+Federico+Farlatti&amp;search_field=search</field>
+</doc>
+</add>

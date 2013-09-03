@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124532</field>
+<field name="genre">Operas</field>
+<field name="title">Un matrimonio sotto la repubblica</field>
+<field name="titleSort">matrimonio sotto la repubblica</field>
+<field name="composer">Carlo Podesta</field>
+<field name="composerSort">Podesta, Carlo</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Luigi Ratti</field>
+<field name="librettistSort">Ratti, Luigi</field>
+<field name="theater">Teatro Castelli</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+matrimonio+sotto+la+repubblica+Carlo+Podesta&amp;search_field=search</field>
+</doc>
+</add>

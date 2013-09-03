@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111786</field>
+<field name="genre">Operas</field>
+<field name="title">Sara</field>
+<field name="titleSort">Sara</field>
+<field name="composer">Luigi Gibelli</field>
+<field name="composerSort">Gibelli, Luigi</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatro Castelli</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sara+Luigi+Gibelli&amp;search_field=search</field>
+</doc>
+</add>

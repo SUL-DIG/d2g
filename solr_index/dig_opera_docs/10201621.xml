@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201621</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gionata</field>
+		<field name="titleSort">Gionata</field>
+		<field name="year">1792</field>
+		<field name="month">April</field>
+		<field name="day">3</field>
+		<field name="date">April 3, 1792</field>
+		<field name="composer">Niccolò Piccinni</field>
+		<field name="composerSort">Piccinni, Niccolò</field>
+		<field name="librettist">Carlo Sernicola</field>
+		<field name="librettistSort">Sernicola, Carlo</field>
+		
+		<field name="theater">Teatro San Carlo</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jonathan, son of Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gionata+Niccolò+Piccinni&amp;search_field=search</field>
+	</doc></add>

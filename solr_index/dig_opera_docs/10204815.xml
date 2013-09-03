@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204815</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il viaggio di Tobia</field>
+		<field name="titleSort">viaggio di Tobia</field>
+		<field name="year">1669</field>
+		
+		
+		<field name="date">1669</field>
+		<field name="composer">Maurizio Cazzati</field>
+		<field name="composerSort">Cazzati, Maurizio</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Tobias</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+viaggio+di+Tobia+Maurizio+Cazzati&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106656</field>
+<field name="genre">Operas</field>
+<field name="title">Claudia</field>
+<field name="titleSort">Claudia</field>
+<field name="composer">Gellio Benvenuto Coronaro</field>
+<field name="composerSort">Coronaro, Gellio Benvenuto</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Giovanni Domenico Bartocci-Fontana</field>
+<field name="librettistSort">Bartocci-Fontana, Giovanni Domenico</field>
+<field name="librettist">[Amandine Aurore Lucie Dupin] George Sand</field>
+<field name="librettistSort">Sand, George [Amandine Aurore Lucie Dupin]</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudia+Gellio+Benvenuto+Coronaro&amp;search_field=search</field>
+</doc>
+</add>

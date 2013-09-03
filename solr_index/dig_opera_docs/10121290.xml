@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121290</field>
+<field name="genre">Operas</field>
+<field name="title">Secchi e Sberlecchi</field>
+<field name="titleSort">Secchi e Sberlecchi</field>
+<field name="composer">Virgilio Mortari</field>
+<field name="composerSort">Mortari, Virgilio</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Antonio Beltramelli</field>
+<field name="librettistSort">Beltramelli, Antonio</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Udine</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Secchi+e+Sberlecchi+Virgilio+Mortari&amp;search_field=search</field>
+</doc>
+</add>

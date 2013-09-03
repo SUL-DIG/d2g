@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114254</field>
+<field name="genre">Operas</field>
+<field name="title">Celos aun del aire matan</field>
+<field name="titleSort">Celos aun del aire matan</field>
+<field name="composer">Juan Hidalgo</field>
+<field name="composerSort">Hidalgo, Juan</field>
+<field name="year">1660</field>
+<field name="date">1660</field>
+<field name="librettist">Pedro Calderón de la Barca</field>
+<field name="librettistSort">Calderón de la Barca, Pedro</field>
+<field name="theater">Salón del Palacio Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Celos+aun+del+aire+matan+Juan+Hidalgo&amp;search_field=search</field>
+</doc>
+</add>

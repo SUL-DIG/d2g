@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133733</field>
+<field name="genre">Operas</field>
+<field name="title">Frithjof</field>
+<field name="titleSort">Frithjof</field>
+<field name="composer">Heinrich Zöllner</field>
+<field name="composerSort">Zöllner, Heinrich</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Heinrich Zöllner</field>
+<field name="librettistSort">Zöllner, Heinrich</field>
+<field name="librettist">Esaias Tegnér</field>
+<field name="librettistSort">Tegnér, Esaias</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frithjof+Heinrich+Zöllner&amp;search_field=search</field>
+</doc>
+</add>

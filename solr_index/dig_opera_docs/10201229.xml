@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201229</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Eudossia e Paolo, o I martiri</field>
+		<field name="titleSort">Eudossia e Paolo, o I martiri</field>
+		<field name="year">1845</field>
+		<field name="month">June</field>
+		<field name="day">22</field>
+		<field name="date">June 22, 1845</field>
+		<field name="composer">Teodulo Mabellini</field>
+		<field name="composerSort">Mabellini, Teodulo</field>
+		<field name="librettist">Luigi Venturi</field>
+		<field name="librettistSort">Venturi, Luigi</field>
+		
+		<field name="theater">Palazzo Vecchio, Gran Sala</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Eudocia</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eudossia+e+Paolo,+o+I+martiri+Teodulo+Mabellini&amp;search_field=search</field>
+	</doc></add>

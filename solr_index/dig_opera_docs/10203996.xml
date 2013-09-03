@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203996</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Cecilia</field>
+		<field name="titleSort">Santa Cecilia</field>
+		
+		
+		
+		
+		<field name="composer">Giovanni Francesco Marcorelli</field>
+		<field name="composerSort">Marcorelli, Giovanni Francesco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Cecilia+Giovanni+Francesco+Marcorelli&amp;search_field=search</field>
+	</doc></add>

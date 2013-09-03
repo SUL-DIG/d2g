@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118999</field>
+<field name="genre">Operas</field>
+<field name="title">I capricci di Callot</field>
+<field name="titleSort">capricci di Callot</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="librettist">Ernst Theodor Amadeus Hoffmann</field>
+<field name="librettistSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="theater">Teatro Reale dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+capricci+di+Callot+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

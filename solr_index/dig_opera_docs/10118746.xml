@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118746</field>
+<field name="genre">Operas</field>
+<field name="title">Matilde e Toledo</field>
+<field name="titleSort">Matilde e Toledo</field>
+<field name="composer">Teodulo Mabellini</field>
+<field name="composerSort">Mabellini, Teodulo</field>
+<field name="year">1836</field>
+<field name="date">1836</field><field name="theater">Teatro Alfieri</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matilde+e+Toledo+Teodulo+Mabellini&amp;search_field=search</field>
+</doc>
+</add>

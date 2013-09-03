@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105912</field>
+<field name="genre">Operas</field>
+<field name="title">La jeunesse de la tour</field>
+<field name="titleSort">jeunesse de la tour</field>
+<field name="composer">Henri Maurice Cieutat</field>
+<field name="composerSort">Cieutat, Henri Maurice</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Adolphe Lepailleur</field>
+<field name="librettistSort">Lepailleur, Adolphe</field>
+
+<field name="city">Cambrai</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jeunesse+de+la+tour+Henri+Maurice+Cieutat&amp;search_field=search</field>
+</doc>
+</add>

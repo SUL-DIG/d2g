@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109691</field>
+<field name="genre">Operas</field>
+<field name="title">"Oletta, la fille du corse</field>
+<field name="titleSort">"Oletta, la fille du corse"</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">André Leroy</field>
+<field name="librettistSort">Leroy, André</field>
+<field name="librettist">[Paul de Choudens] Paul Bérel</field>
+<field name="librettistSort">Bérel, Paul [Paul de Choudens]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oletta,+la+fille+du+corse+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

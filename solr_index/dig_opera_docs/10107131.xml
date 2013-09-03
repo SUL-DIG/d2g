@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107131</field>
+<field name="genre">Operas</field>
+<field name="title">Les doublons de la ceinture</field>
+<field name="titleSort">doublons de la ceinture</field>
+<field name="composer">Joseph Darcier</field>
+<field name="composerSort">Darcier, Joseph</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Alfred Albert</field>
+<field name="librettistSort">Albert, Alfred</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+doublons+de+la+ceinture+Joseph+Darcier&amp;search_field=search</field>
+</doc>
+</add>

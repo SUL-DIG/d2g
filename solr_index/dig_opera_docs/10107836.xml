@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107836</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit des Figaro</field>
+<field name="titleSort">Hochzeit des Figaro</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Carl Ditters von Dittersdorf</field>
+<field name="librettistSort">Dittersdorf, Carl Ditters von</field>
+<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+des+Figaro+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

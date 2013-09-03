@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109031</field>
+<field name="genre">Operas</field>
+<field name="title">Camorra</field>
+<field name="titleSort">Camorra</field>
+<field name="composer">Michele Esposito</field>
+<field name="composerSort">Esposito, Michele</field>
+<field name="year">1903</field>
+<field name="date">1903</field><field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Camorra+Michele+Esposito&amp;search_field=search</field>
+</doc>
+</add>

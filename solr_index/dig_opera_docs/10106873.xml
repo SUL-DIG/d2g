@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106873</field>
+<field name="genre">Operas</field>
+<field name="title">L'amour d'un trombone</field>
+<field name="titleSort">amour d'un trombone</field>
+<field name="composer">Auguste de Croisilles</field>
+<field name="composerSort">Croisilles, Auguste de</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Édouard Duprez</field>
+<field name="librettistSort">Duprez, Édouard</field>
+<field name="librettist">Félix Dutertre de Véteuil</field>
+<field name="librettistSort">Dutertre de Véteuil, Félix</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Caen</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amour+d'un+trombone+Auguste+de+Croisilles&amp;search_field=search</field>
+</doc>
+</add>

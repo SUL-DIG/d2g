@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112347</field>
+<field name="genre">Operas</field>
+<field name="title">Krpan's Mare</field>
+<field name="titleSort">Krpan's Mare</field>
+<field name="composer">Jani Golob</field>
+<field name="composerSort">Golob, Jani</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Ervin Fritz</field>
+<field name="librettistSort">Fritz, Ervin</field>
+<field name="librettist">Fran Levstik</field>
+<field name="librettistSort">Levstik, Fran</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krpan's+Mare+Jani+Golob&amp;search_field=search</field>
+</doc>
+</add>

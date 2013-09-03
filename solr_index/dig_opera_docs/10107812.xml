@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107812</field>
+<field name="genre">Operas</field>
+<field name="title">Hunger und Durst</field>
+<field name="titleSort">Hunger und Durst</field>
+<field name="composer">Violeta Dinescu</field>
+<field name="composerSort">Dinescu, Violeta</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Eugène Ionesco</field>
+<field name="librettistSort">Ionesco, Eugène</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Freiburg im Breisgau</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hunger+und+Durst+Violeta+Dinescu&amp;search_field=search</field>
+</doc>
+</add>

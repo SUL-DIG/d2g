@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132966</field>
+<field name="genre">Operas</field>
+<field name="title">Alexander the Great</field>
+<field name="titleSort">Alexander the Great</field>
+<field name="composer">Jack Eric Williams</field>
+<field name="composerSort">Williams, Jack Eric</field>
+<field name="year">1971</field>
+<field name="date">1971</field><field name="theater">University of South Carolina</field>
+<field name="city">Columbia</field>
+<field name="region">South Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+the+Great+Jack+Eric+Williams&amp;search_field=search</field>
+</doc>
+</add>

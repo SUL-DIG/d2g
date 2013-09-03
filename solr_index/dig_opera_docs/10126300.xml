@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126300</field>
+<field name="genre">Operas</field>
+<field name="title">Temistocle</field>
+<field name="titleSort">Temistocle</field>
+<field name="composer">Giovanni Alberto Ristori</field>
+<field name="composerSort">Ristori, Giovanni Alberto</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Temistocle+Giovanni+Alberto+Ristori&amp;search_field=search</field>
+</doc>
+</add>

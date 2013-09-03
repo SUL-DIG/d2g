@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133293</field>
+<field name="genre">Operas</field>
+<field name="title">Der junge Helmbrecht</field>
+<field name="titleSort">junge Helmbrecht</field>
+<field name="composer">Julius Zaiczell-Blau-Menau</field>
+<field name="composerSort">Zaiczell-Blau-Menau, Julius</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Emil Alphons Rheinhardt</field>
+<field name="librettistSort">Rheinhardt, Emil Alphons</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+junge+Helmbrecht+Julius+Zaiczell-Blau-Menau&amp;search_field=search</field>
+</doc>
+</add>

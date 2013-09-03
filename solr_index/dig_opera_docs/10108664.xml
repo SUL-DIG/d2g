@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108664</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Heerschau, oder Der hölzerne Säbel</field>
+<field name="titleSort">"Heerschau, oder Der hölzerne Säbel"</field>
+<field name="composer">Carl Eberwein</field>
+<field name="composerSort">Eberwein, Carl</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Heerschau,+oder+Der+hölzerne+Säbel+Carl+Eberwein&amp;search_field=search</field>
+</doc>
+</add>

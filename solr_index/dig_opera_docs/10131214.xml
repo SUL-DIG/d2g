@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131214</field>
+<field name="genre">Operas</field>
+<field name="title">La francese a Malghera</field>
+<field name="titleSort">francese a Malghera</field>
+<field name="composer">Tommaso Traetta</field>
+<field name="composerSort">Traetta, Tommaso</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">Pietro Chiari</field>
+<field name="librettistSort">Chiari, Pietro</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+francese+a+Malghera+Tommaso+Traetta&amp;search_field=search</field>
+</doc>
+</add>

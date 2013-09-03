@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107760</field>
+<field name="genre">Operas</field>
+<field name="title">The Recruiting Sergeant</field>
+<field name="titleSort">Recruiting Sergeant</field>
+<field name="composer">Charles Dibdin</field>
+<field name="composerSort">Dibdin, Charles</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Isaac Bickerstaff</field>
+<field name="librettistSort">Bickerstaff, Isaac</field>
+<field name="theater">Ranelagh Gardens Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Recruiting+Sergeant+Charles+Dibdin&amp;search_field=search</field>
+</doc>
+</add>

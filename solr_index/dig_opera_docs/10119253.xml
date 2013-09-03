@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119253</field>
+<field name="genre">Operas</field>
+<field name="title">Nadeida</field>
+<field name="titleSort">Nadeida</field>
+<field name="composer">Francesco Marcacci</field>
+<field name="composerSort">Marcacci, Francesco</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Enzo Marcellusi</field>
+<field name="librettistSort">Marcellusi, Enzo</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nadeida+Francesco+Marcacci&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126873</field>
+<field name="genre">Operas</field>
+<field name="title">Carl Michael Bellman</field>
+<field name="titleSort">Carl Michael Bellman</field>
+<field name="composer">Heinz Röttger</field>
+<field name="composerSort">Röttger, Heinz</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Eva Johnn</field>
+<field name="librettistSort">Johnn, Eva</field>
+
+<field name="city">Köthen</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carl+Michael+Bellman+Heinz+Röttger&amp;search_field=search</field>
+</doc>
+</add>

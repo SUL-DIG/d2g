@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111752</field>
+<field name="genre">Operas</field>
+<field name="title">The Harvest</field>
+<field name="titleSort">Harvest</field>
+<field name="composer">Vittorio Giannini</field>
+<field name="composerSort">Giannini, Vittorio</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Karl Flaster</field>
+<field name="librettistSort">Flaster, Karl</field>
+<field name="theater">Civic Opera House</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Harvest+Vittorio+Giannini&amp;search_field=search</field>
+</doc>
+</add>

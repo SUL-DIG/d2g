@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107138</field>
+<field name="genre">Operas</field>
+<field name="title">L'intendant</field>
+<field name="titleSort">intendant</field>
+<field name="composer">François Joseph Darcis</field>
+<field name="composerSort">Darcis, François Joseph</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Nikolay Petrovich Nikolev</field>
+<field name="librettistSort">Nikolev, Nikolay Petrovich</field>
+<field name="theater">Vol'nïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'intendant+François+Joseph+Darcis&amp;search_field=search</field>
+</doc>
+</add>

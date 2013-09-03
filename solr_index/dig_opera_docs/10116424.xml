@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116424</field>
+<field name="genre">Operas</field>
+<field name="title">The Stronger</field>
+<field name="titleSort">Stronger</field>
+<field name="composer">Gregory Kosteck</field>
+<field name="composerSort">Kosteck, Gregory</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Gregory Kosteck</field>
+<field name="librettistSort">Kosteck, Gregory</field>
+<field name="librettist">August Strindberg</field>
+<field name="librettistSort">Strindberg, August</field>
+<field name="theater">East Carolina University</field>
+<field name="city">Greenville</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Stronger+Gregory+Kosteck&amp;search_field=search</field>
+</doc>
+</add>

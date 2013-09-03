@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107612</field>
+<field name="genre">Operas</field>
+<field name="title">La fête de village</field>
+<field name="titleSort">fête de village</field>
+<field name="composer">Léopold-Bastien Desormery</field>
+<field name="composerSort">Desormery, Léopold-Bastien</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">[Louis-François Archambault] Dorvigny</field>
+<field name="librettistSort">Dorvigny, [Louis-François Archambault]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+de+village+Léopold-Bastien+Desormery&amp;search_field=search</field>
+</doc>
+</add>

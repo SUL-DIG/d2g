@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203017</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nuvoletta d'Elia</field>
+		<field name="titleSort">nuvoletta d'Elia</field>
+		<field name="year">1798</field>
+		
+		
+		<field name="date">1798</field>
+		<field name="composer">Camillo Crescini</field>
+		<field name="composerSort">Crescini, Camillo</field>
+		<field name="librettist">Giovanni Battista Rasi</field>
+		<field name="librettistSort">Rasi, Giovanni Battista</field>
+		
+		<field name="theater">Oratorio dei Filippini di Santa Maria in Vallicella</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Elijah and the Prophets of Ba'al</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuvoletta+d'Elia+Camillo+Crescini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106991</field>
+<field name="genre">Operas</field>
+<field name="title">Vjosa</field>
+<field name="titleSort">Vjosa</field>
+<field name="composer">Tish Daija</field>
+<field name="composerSort">Daija, Tish</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Llazar Siliqi</field>
+<field name="librettistSort">Siliqi, Llazar</field>
+<field name="theater">Teatri i Operës dhe i Baletit</field>
+<field name="city">Tirana</field>
+<field name="region">Rrethi i Tiranës</field>
+<field name="country">Albania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vjosa+Tish+Daija&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129730</field>
+<field name="genre">Operas</field>
+<field name="title">Aparát (Machinery)</field>
+<field name="titleSort">Aparát (Machinery)</field>
+<field name="composer">Milos Stedron</field>
+<field name="composerSort">Stedron, Milos</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Milos Stedron</field>
+<field name="librettistSort">Stedron, Milos</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistSort">Kafka, Franz</field>
+<field name="theater">Dum Umení</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aparát+Machinery+Milos+Stedron&amp;search_field=search</field>
+</doc>
+</add>

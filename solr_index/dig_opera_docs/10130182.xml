@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130182</field>
+<field name="genre">Operas</field>
+<field name="title">Feuersnot</field>
+<field name="titleSort">Feuersnot</field>
+<field name="composer">Richard Strauss</field>
+<field name="composerSort">Strauss, Richard</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Ernest von Wolzogen</field>
+<field name="librettistSort">Wolzogen, Ernest von</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feuersnot+Richard+Strauss&amp;search_field=search</field>
+</doc>
+</add>

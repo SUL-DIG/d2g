@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201672</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il giudizio di Salomone</field>
+		<field name="titleSort">giudizio di Salomone</field>
+		<field name="year">1770</field>
+		
+		
+		<field name="date">1770</field>
+		<field name="composer">Giuseppe Maria Magherini</field>
+		<field name="composerSort">Magherini, Giuseppe Maria</field>
+		
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Judgment of Solomon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giudizio+di+Salomone+Giuseppe+Maria+Magherini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114559</field>
+<field name="genre">Operas</field>
+<field name="title">"Der lustige Schuster (Thiel II, Teufel ist los)</field>
+<field name="titleSort">"lustige Schuster (Thiel II, Teufel ist los)"</field>
+<field name="composer">Ondrej Frantisek Holý</field>
+<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Karl Franz Henisch</field>
+<field name="librettistSort">Henisch, Karl Franz</field>
+<field name="librettist">Charles Coffey</field>
+<field name="librettistSort">Coffey, Charles</field>
+<field name="theater">Kotzen Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lustige+Schuster+Thiel+II,+Teufel+ist+los+Ondrej+Frantisek+Holý&amp;search_field=search</field>
+</doc>
+</add>

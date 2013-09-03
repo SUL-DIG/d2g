@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103972</field>
+<field name="genre">Operas</field>
+<field name="title">Pipilet</field>
+<field name="titleSort">Pipilet</field>
+<field name="composer">Carlos Augusto Pereira Bramão</field>
+<field name="composerSort">Bramão, Carlos Augusto Pereira</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">António Isidoro Pereira Varela</field>
+<field name="librettistSort">Varela, António Isidoro Pereira</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pipilet+Carlos+Augusto+Pereira+Bramão&amp;search_field=search</field>
+</doc>
+</add>

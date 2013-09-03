@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124757</field>
+<field name="genre">Operas</field>
+<field name="title">La savoiarda</field>
+<field name="titleSort">savoiarda</field>
+<field name="composer">Amilcare Ponchielli</field>
+<field name="composerSort">Ponchielli, Amilcare</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="theater">Teatro della Concordia</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+savoiarda+Amilcare+Ponchielli&amp;search_field=search</field>
+</doc>
+</add>

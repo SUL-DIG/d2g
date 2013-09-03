@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121443</field>
+<field name="genre">Operas</field>
+<field name="title">Die Zauberflöte</field>
+<field name="titleSort">Zauberflöte</field>
+<field name="composer">Wolfgang Amadeus Mozart</field>
+<field name="composerSort">Mozart, Wolfgang Amadeus</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="librettist">[Johann Georg Metzler] Karl Ludwig Giesecke</field>
+<field name="librettistSort">Giesecke, Karl Ludwig [Johann Georg Metzler]</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Zauberflöte+Wolfgang+Amadeus+Mozart&amp;search_field=search</field>
+</doc>
+</add>

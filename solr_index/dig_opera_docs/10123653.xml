@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123653</field>
+<field name="genre">Operas</field>
+<field name="title">Ubu Rex</field>
+<field name="titleSort">Ubu Rex</field>
+<field name="composer">Krzysztof Penderecki</field>
+<field name="composerSort">Penderecki, Krzysztof</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Krzysztof Penderecki</field>
+<field name="librettistSort">Penderecki, Krzysztof</field>
+<field name="librettist">Alfred Jarry</field>
+<field name="librettistSort">Jarry, Alfred</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ubu+Rex+Krzysztof+Penderecki&amp;search_field=search</field>
+</doc>
+</add>

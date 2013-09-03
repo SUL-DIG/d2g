@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105848</field>
+<field name="genre">Operas</field>
+<field name="title">La madone du promenoir</field>
+<field name="titleSort">madone du promenoir</field>
+<field name="composer">Henri Christiné</field>
+<field name="composerSort">Christiné, Henri</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">André Barde</field>
+<field name="librettistSort">Barde, André</field>
+<field name="librettist">[Jean de Granier de Cassagnac] Saint-Granier</field>
+<field name="librettistSort">Saint-Granier, [Jean de Granier de Cassagnac]</field>
+<field name="theater">Concert-Mayol</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+madone+du+promenoir+Henri+Christiné&amp;search_field=search</field>
+</doc>
+</add>

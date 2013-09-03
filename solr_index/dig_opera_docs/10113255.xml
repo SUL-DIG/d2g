@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113255</field>
+<field name="genre">Operas</field>
+<field name="title">To koritsi tis yitonias</field>
+<field name="titleSort">koritsi tis yitonias</field>
+<field name="composer">Nikolaos Hadjiapostolou</field>
+<field name="composerSort">Hadjiapostolou, Nikolaos</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Zahos Thanos</field>
+<field name="librettistSort">Thanos, Zahos</field>
+<field name="theater">Alhambra Theatron</field>
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+koritsi+tis+yitonias+Nikolaos+Hadjiapostolou&amp;search_field=search</field>
+</doc>
+</add>

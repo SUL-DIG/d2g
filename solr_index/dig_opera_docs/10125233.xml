@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125233</field>
+<field name="genre">Operas</field>
+<field name="title">Manon Lescaut</field>
+<field name="titleSort">Manon Lescaut</field>
+<field name="composer">Giacomo Puccini (2)</field>
+<field name="composerSort">Puccini (2), Giacomo</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Marco Praga</field>
+<field name="librettistSort">Praga, Marco</field>
+<field name="librettist">Domenico Oliva</field>
+<field name="librettistSort">Oliva, Domenico</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manon+Lescaut+Giacomo+Puccini+-2&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100876</field>
+<field name="genre">Operas</field>
+<field name="title">Jeltoi Carlo</field>
+<field name="titleSort">Jeltoi Carlo</field>
+<field name="composer">Ferdinando Antonolini</field>
+<field name="composerSort">Antonolini, Ferdinando</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeltoi+Carlo+Ferdinando+Antonolini&amp;search_field=search</field>
+</doc>
+</add>

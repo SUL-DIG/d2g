@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101906</field>
+<field name="genre">Operas</field>
+<field name="title">"Édouard, ou Le frère par supercherie</field>
+<field name="titleSort">"Édouard, ou Le frère par supercherie"</field>
+<field name="composer">Camille Barni</field>
+<field name="composerSort">Barni, Camille</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Adelaïde Lesparat</field>
+<field name="librettistSort">Lesparat, Adelaïde</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Édouard,+ou+Le+frère+par+supercherie+Camille+Barni&amp;search_field=search</field>
+</doc>
+</add>

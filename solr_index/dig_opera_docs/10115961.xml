@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115961</field>
+<field name="genre">Operas</field>
+<field name="title">Hero und Leander</field>
+<field name="titleSort">Hero und Leander</field>
+<field name="composer">Paul Kick-Schmidt</field>
+<field name="composerSort">Kick-Schmidt, Paul</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Paul Kick-Schmidt</field>
+<field name="librettistSort">Kick-Schmidt, Paul</field>
+<field name="librettist">Franz Grillparzer</field>
+<field name="librettistSort">Grillparzer, Franz</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hero+und+Leander+Paul+Kick-Schmidt&amp;search_field=search</field>
+</doc>
+</add>

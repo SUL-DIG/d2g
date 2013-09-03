@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121334</field>
+<field name="genre">Operas</field>
+<field name="title">I due fratelli fuorusciti</field>
+<field name="titleSort">due fratelli fuorusciti</field>
+<field name="composer">Giuseppe Mosca</field>
+<field name="composerSort">Mosca, Giuseppe</field>
+<field name="year">1819</field>
+<field name="date">1819</field><field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+fratelli+fuorusciti+Giuseppe+Mosca&amp;search_field=search</field>
+</doc>
+</add>

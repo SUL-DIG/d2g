@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111785</field>
+<field name="genre">Operas</field>
+<field name="title">Don Pedro di Portogallo (Ines de Castro)</field>
+<field name="titleSort">Don Pedro di Portogallo (Ines de Castro)</field>
+<field name="composer">Luigi Gibelli</field>
+<field name="composerSort">Gibelli, Luigi</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Novara</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Pedro+di+Portogallo+Ines+de+Castro+Luigi+Gibelli&amp;search_field=search</field>
+</doc>
+</add>

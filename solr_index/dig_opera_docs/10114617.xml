@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114617</field>
+<field name="genre">Operas</field>
+<field name="title">Three's Company</field>
+<field name="titleSort">Three's Company</field>
+<field name="composer">Antony Hopkins</field>
+<field name="composerSort">Hopkins, Antony</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Michael Flanders</field>
+<field name="librettistSort">Flanders, Michael</field>
+<field name="theater">Cheshire County Training Center</field>
+<field name="city">Crewe</field>
+<field name="region">Cheshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Three's+Company+Antony+Hopkins&amp;search_field=search</field>
+</doc>
+</add>

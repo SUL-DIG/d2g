@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129280</field>
+<field name="genre">Operas</field>
+<field name="title">La notte di San Silvestro</field>
+<field name="titleSort">notte di San Silvestro</field>
+<field name="composer">Giulio Smareglia</field>
+<field name="composerSort">Smareglia, Giulio</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">C. Bisiak</field>
+<field name="librettistSort">Bisiak, C.</field>
+<field name="theater">Politeama Ciscutti</field>
+<field name="city">Pula</field>
+<field name="region">Istria</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+notte+di+San+Silvestro+Giulio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

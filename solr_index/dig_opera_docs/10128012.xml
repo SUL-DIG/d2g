@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128012</field>
+<field name="genre">Operas</field>
+<field name="title">Il Teodosio</field>
+<field name="titleSort">Teodosio</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1709</field>
+<field name="date">1709</field>
+<field name="librettist">Vincenzo Grimani</field>
+<field name="librettistSort">Grimani, Vincenzo</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Teodosio+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

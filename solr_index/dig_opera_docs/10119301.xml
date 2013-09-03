@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119301</field>
+<field name="genre">Operas</field>
+<field name="title">Zelinda</field>
+<field name="titleSort">Zelinda</field>
+<field name="composer">Luigi Marconi</field>
+<field name="composerSort">Marconi, Luigi</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Teatro Grande</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zelinda+Luigi+Marconi&amp;search_field=search</field>
+</doc>
+</add>

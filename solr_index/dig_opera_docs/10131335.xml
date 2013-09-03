@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131335</field>
+<field name="genre">Operas</field>
+<field name="title">Der Dukatenprinz</field>
+<field name="titleSort">Dukatenprinz</field>
+<field name="composer">Bernhard Triebel</field>
+<field name="composerSort">Triebel, Bernhard</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Wilhelm Jacoby</field>
+<field name="librettistSort">Jacoby, Wilhelm</field>
+
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Dukatenprinz+Bernhard+Triebel&amp;search_field=search</field>
+</doc>
+</add>

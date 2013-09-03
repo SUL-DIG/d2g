@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122862</field>
+<field name="genre">Operas</field>
+<field name="title">Symphonie Portugaise</field>
+<field name="titleSort">Symphonie Portugaise</field>
+<field name="composer">José Padilla</field>
+<field name="composerSort">Padilla, José</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">[Marcel Cabridens] Marc-Cab</field>
+<field name="librettistSort">Marc-Cab, [Marcel Cabridens]</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Symphonie+Portugaise+José+Padilla&amp;search_field=search</field>
+</doc>
+</add>

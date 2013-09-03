@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104369</field>
+<field name="genre">Operas</field>
+<field name="title">Tale for a Deaf Ear</field>
+<field name="titleSort">Tale for a Deaf Ear</field>
+<field name="composer">Mark Bucci</field>
+<field name="composerSort">Bucci, Mark</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Mark Bucci</field>
+<field name="librettistSort">Bucci, Mark</field>
+<field name="librettist">Elizabeth Enright</field>
+<field name="librettistSort">Enright, Elizabeth</field>
+<field name="theater">Berkshire Music Festival</field>
+<field name="city">Lenox</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tale+for+a+Deaf+Ear+Mark+Bucci&amp;search_field=search</field>
+</doc>
+</add>

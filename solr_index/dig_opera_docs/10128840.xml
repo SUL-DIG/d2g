@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128840</field>
+<field name="genre">Operas</field>
+<field name="title">König Nussknacker</field>
+<field name="titleSort">König Nussknacker</field>
+<field name="composer">Carl Seidemann</field>
+<field name="composerSort">Seidemann, Carl</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Fritz Heinz Chelius</field>
+<field name="librettistSort">Chelius, Fritz Heinz</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Hagen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Nussknacker+Carl+Seidemann&amp;search_field=search</field>
+</doc>
+</add>

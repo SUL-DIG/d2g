@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117245</field>
+<field name="genre">Operas</field>
+<field name="title">L'enfant de l'amour</field>
+<field name="titleSort">enfant de l'amour</field>
+<field name="composer">J. Lanusse</field>
+<field name="composerSort">Lanusse, J.</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Louis-Charles Caigniez</field>
+<field name="librettistSort">Caigniez, Louis-Charles</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Théâtre de l'Ambigu-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enfant+de+l'amour+J.+Lanusse&amp;search_field=search</field>
+</doc>
+</add>

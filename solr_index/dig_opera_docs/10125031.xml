@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125031</field>
+<field name="genre">Operas</field>
+<field name="title">"Alain et Rosette, ou La bergère ingenue</field>
+<field name="titleSort">"Alain et Rosette, ou La bergère ingenue"</field>
+<field name="composer">Joseph Pouteau</field>
+<field name="composerSort">Pouteau, Joseph</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Maximilien-Jean Boutellier</field>
+<field name="librettistSort">Boutellier, Maximilien-Jean</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alain+et+Rosette,+ou+La+bergère+ingenue+Joseph+Pouteau&amp;search_field=search</field>
+</doc>
+</add>

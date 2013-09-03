@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113993</field>
+<field name="genre">Operas</field>
+<field name="title">Au clair de la lune</field>
+<field name="titleSort">Au clair de la lune</field>
+<field name="composer">Louis Charles Henry</field>
+<field name="composerSort">Henry, Louis Charles</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Charles Périer</field>
+<field name="librettistSort">Périer, Charles</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+clair+de+la+lune+Louis+Charles+Henry&amp;search_field=search</field>
+</doc>
+</add>

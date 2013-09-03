@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104217</field>
+<field name="genre">Operas</field>
+<field name="title">L'isola di Alcina</field>
+<field name="titleSort">isola di Alcina</field>
+<field name="composer">Riccardo Broschi</field>
+<field name="composerSort">Broschi, Riccardo</field>
+<field name="year">1728</field>
+<field name="date">1728</field>
+<field name="librettist">Antonio Fanzaglia</field>
+<field name="librettistSort">Fanzaglia, Antonio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Tordinona</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'isola+di+Alcina+Riccardo+Broschi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111541</field>
+<field name="genre">Operas</field>
+<field name="title">La battaglia di Lepanto</field>
+<field name="titleSort">battaglia di Lepanto</field>
+<field name="composer">Tomás Genovés y Lapetra</field>
+<field name="composerSort">Lapetra, Tomás Genovés y</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Leopoldo Tarantini</field>
+<field name="librettistSort">Tarantini, Leopoldo</field>
+<field name="librettist">Charles-Victor Prévost d'Arlincourt</field>
+<field name="librettistSort">Prévost d'Arlincourt, Charles-Victor</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+battaglia+di+Lepanto+Tomás+Genovés+y+Lapetra&amp;search_field=search</field>
+</doc>
+</add>

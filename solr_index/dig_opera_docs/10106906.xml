@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106906</field>
+<field name="genre">Operas</field>
+<field name="title">Pir vo vremya chumï (A Feast in Time of Plague)</field>
+<field name="titleSort">Pir vo vremya chumï (A Feast in Time of Plague)</field>
+<field name="composer">César Antonovich Cui</field>
+<field name="composerSort">Cui, César Antonovich</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">New Theater</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pir+vo+vremya+chumï+A+Feast+in+Time+of+Plague+César+Antonovich+Cui&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120435</field>
+<field name="genre">Operas</field>
+<field name="title">The Crossing</field>
+<field name="titleSort">Crossing</field>
+<field name="composer">John Metcalf</field>
+<field name="composerSort">Metcalf, John</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">John Metcalf</field>
+<field name="librettistSort">Metcalf, John</field>
+<field name="librettist">Geoff Gilham</field>
+<field name="librettistSort">Gilham, Geoff</field>
+<field name="theater">Chapter Arts Centre</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Crossing+John+Metcalf&amp;search_field=search</field>
+</doc>
+</add>

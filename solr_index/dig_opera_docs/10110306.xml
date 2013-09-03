@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110306</field>
+<field name="genre">Operas</field>
+<field name="title">Introductions and Good-Byes</field>
+<field name="titleSort">Introductions and Good-Byes</field>
+<field name="composer">Lukas Foss</field>
+<field name="composerSort">Foss, Lukas</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Gian Carlo Menotti</field>
+<field name="librettistSort">Menotti, Gian Carlo</field>
+<field name="theater">Carnegie Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Introductions+and+Good-Byes+Lukas+Foss&amp;search_field=search</field>
+</doc>
+</add>

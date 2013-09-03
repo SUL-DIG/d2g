@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122567</field>
+<field name="genre">Operas</field>
+<field name="title">L'infermo ad arte</field>
+<field name="titleSort">infermo ad arte</field>
+<field name="composer">Raffaele Orgitano</field>
+<field name="composerSort">Orgitano, Raffaele</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'infermo+ad+arte+Raffaele+Orgitano&amp;search_field=search</field>
+</doc>
+</add>

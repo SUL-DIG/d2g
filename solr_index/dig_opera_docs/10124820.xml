@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124820</field>
+<field name="genre">Operas</field>
+<field name="title">La belle Dinde</field>
+<field name="titleSort">belle Dinde</field>
+<field name="composer">A. Porinelly</field>
+<field name="composerSort">Porinelly, A.</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">__ Aubry</field>
+<field name="librettistSort">Aubry, __</field>
+<field name="librettist">__ Mestre</field>
+<field name="librettistSort">Mestre, __</field>
+<field name="theater">Théâtre de l'Alcazar</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+Dinde+A.+Porinelly&amp;search_field=search</field>
+</doc>
+</add>

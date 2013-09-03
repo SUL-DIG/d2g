@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107927</field>
+<field name="genre">Operas</field>
+<field name="title">Soleidas bunter Vogel</field>
+<field name="titleSort">Soleidas bunter Vogel</field>
+<field name="composer">Max Donisch</field>
+<field name="composerSort">Donisch, Max</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Curt Böhmer</field>
+<field name="librettistSort">Böhmer, Curt</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Rostock</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soleidas+bunter+Vogel+Max+Donisch&amp;search_field=search</field>
+</doc>
+</add>

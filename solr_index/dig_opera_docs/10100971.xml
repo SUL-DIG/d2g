@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100971</field>
+<field name="genre">Operas</field>
+<field name="title">Son na Volge</field>
+<field name="titleSort">Son na Volge</field>
+<field name="composer">Anton Stepanovich Arensky</field>
+<field name="composerSort">Arensky, Anton Stepanovich</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Aleksandr Nikolayevich Ostrovsky</field>
+<field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
+<field name="librettist">Pyotr Il'yich Tchaikovsky</field>
+<field name="librettistSort">Tchaikovsky, Pyotr Il'yich</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Son+na+Volge+Anton+Stepanovich+Arensky&amp;search_field=search</field>
+</doc>
+</add>

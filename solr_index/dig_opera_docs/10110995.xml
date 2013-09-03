@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110995</field>
+<field name="genre">Operas</field>
+<field name="title">Jaufré Rudel</field>
+<field name="titleSort">Jaufré Rudel</field>
+<field name="composer">Adolfo Gandino</field>
+<field name="composerSort">Gandino, Adolfo</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Carlo Zangarini</field>
+<field name="librettistSort">Zangarini, Carlo</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jaufré+Rudel+Adolfo+Gandino&amp;search_field=search</field>
+</doc>
+</add>

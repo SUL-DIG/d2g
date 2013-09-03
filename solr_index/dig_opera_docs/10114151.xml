@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114151</field>
+<field name="genre">Operas</field>
+<field name="title">Femme а vendre</field>
+<field name="titleSort">Femme а vendre</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Paul de Kock</field>
+<field name="librettistSort">Kock, Paul de</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Femme+а+vendre+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110064</field>
+<field name="genre">Operas</field>
+<field name="title">Fernando</field>
+<field name="titleSort">Fernando</field>
+<field name="composer">Wilhelm Floderer</field>
+<field name="composerSort">Floderer, Wilhelm</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Otto Prechtler</field>
+<field name="librettistSort">Prechtler, Otto</field>
+<field name="librettist">Manuel Bretón de los Herreros</field>
+<field name="librettistSort">Bretón de los Herreros, Manuel</field>
+<field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fernando+Wilhelm+Floderer&amp;search_field=search</field>
+</doc>
+</add>

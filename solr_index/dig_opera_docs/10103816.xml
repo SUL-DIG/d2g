@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103816</field>
+<field name="genre">Operas</field>
+<field name="title">Ali Babа</field>
+<field name="titleSort">Ali Babа</field>
+<field name="composer">Giovanni Bottesini</field>
+<field name="composerSort">Bottesini, Giovanni</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Emilio Taddei</field>
+<field name="librettistSort">Taddei, Emilio</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ali+Babа+Giovanni+Bottesini&amp;search_field=search</field>
+</doc>
+</add>

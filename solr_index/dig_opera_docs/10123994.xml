@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123994</field>
+<field name="genre">Operas</field>
+<field name="title">La mosca</field>
+<field name="titleSort">mosca</field>
+<field name="composer">Angelo Pettenghi</field>
+<field name="composerSort">Pettenghi, Angelo</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">[Carlo Righetti] Cletto Arrighi</field>
+<field name="librettistSort">Arrighi, Cletto [Carlo Righetti]</field>
+<field name="theater">Teatro Milanese</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mosca+Angelo+Pettenghi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107221</field>
+<field name="genre">Operas</field>
+<field name="title">Under the Double Moon</field>
+<field name="titleSort">Under the Double Moon</field>
+<field name="composer">Anthony Davis</field>
+<field name="composerSort">Davis, Anthony</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Deborah Atherton</field>
+<field name="librettistSort">Atherton, Deborah</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Under+the+Double+Moon+Anthony+Davis&amp;search_field=search</field>
+</doc>
+</add>

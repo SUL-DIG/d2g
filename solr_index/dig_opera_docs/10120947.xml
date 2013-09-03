@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120947</field>
+<field name="genre">Operas</field>
+<field name="title">Walka muzyków (The Musician's Struggle)</field>
+<field name="titleSort">Walka muzyków (The Musician's Struggle)</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+
+
+<field name="librettist">Vincuk Dunin-Martsinkevich</field>
+<field name="librettistSort">Dunin-Martsinkevich, Vincuk"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walka+muzyków+The+Musician's+Struggle+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

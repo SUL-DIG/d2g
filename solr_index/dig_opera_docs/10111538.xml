@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111538</field>
+<field name="genre">Operas</field>
+<field name="title">Ellaydée</field>
+<field name="titleSort">Ellaydée</field>
+<field name="composer">Felix Genoese di Geria</field>
+<field name="composerSort">Geria, Felix Genoese di</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Felix Genoese di Geria</field>
+<field name="librettistSort">Geria, Felix Genoese di</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ellaydée+Felix+Genoese+di+Geria&amp;search_field=search</field>
+</doc>
+</add>

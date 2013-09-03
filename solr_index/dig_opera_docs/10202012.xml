@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202012</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'innocenza intatta</field>
+		<field name="titleSort">innocenza intatta</field>
+		<field name="year">1743</field>
+		<field name="month">April</field>
+		<field name="day">16</field>
+		<field name="date">April 16, 1743</field>
+		<field name="composer">Nicola Sabatino</field>
+		<field name="composerSort">Sabatino, Nicola</field>
+		
+		
+		
+		<field name="city">Spello</field>
+		<field name="region">Umbria</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'innocenza+intatta+Nicola+Sabatino&amp;search_field=search</field>
+	</doc></add>

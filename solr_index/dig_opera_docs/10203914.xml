@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203914</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Ranieri</field>
+		<field name="titleSort">San Ranieri</field>
+		<field name="year">1909</field>
+		<field name="month">October</field>
+		<field name="day">20</field>
+		<field name="date">October 20, 1909</field>
+		<field name="composer">Francesco Bagnoli</field>
+		<field name="composerSort">Bagnoli, Francesco</field>
+		<field name="librettist">Professore Bauci</field>
+		<field name="librettistSort">Bauci, Professore</field>
+		
+		
+		<field name="city">Pisa</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Raninerius of Pisa</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">17</field>
+		<field name="feastDate">June 17</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Ranieri+Francesco+Bagnoli&amp;search_field=search</field>
+	</doc></add>

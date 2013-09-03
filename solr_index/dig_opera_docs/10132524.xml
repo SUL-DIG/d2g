@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132524</field>
+<field name="genre">Operas</field>
+<field name="title">Roman Fever</field>
+<field name="titleSort">Roman Fever</field>
+<field name="composer">Robert Ward</field>
+<field name="composerSort">Ward, Robert</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Roger Brunyate</field>
+<field name="librettistSort">Brunyate, Roger</field>
+<field name="librettist">Edith Wharton</field>
+<field name="librettistSort">Wharton, Edith</field>
+<field name="theater">Triangle Opera Theater</field>
+<field name="city">Durham</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roman+Fever+Robert+Ward&amp;search_field=search</field>
+</doc>
+</add>

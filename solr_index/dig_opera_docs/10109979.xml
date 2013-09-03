@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109979</field>
+<field name="genre">Operas</field>
+<field name="title">Das heilige Käpplein</field>
+<field name="titleSort">heilige Käpplein</field>
+<field name="composer">Erich Fischer</field>
+<field name="composerSort">Fischer, Erich</field>
+<field name="year">1912</field>
+<field name="date">1912</field><field name="theater">Stadttheater</field>
+<field name="city">Ulm</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+heilige+Käpplein+Erich+Fischer&amp;search_field=search</field>
+</doc>
+</add>

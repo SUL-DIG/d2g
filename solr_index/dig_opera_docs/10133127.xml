@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133127</field>
+<field name="genre">Operas</field>
+<field name="title">Snow White and the Seven Dwarfs</field>
+<field name="titleSort">Snow White and the Seven Dwarfs</field>
+<field name="composer">Sally Wolf</field>
+<field name="composerSort">Wolf, Sally</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Lurrine Burgess</field>
+<field name="librettistSort">Burgess, Lurrine</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Southern California Conservatory of Music</field>
+<field name="city">Sun Valley</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snow+White+and+the+Seven+Dwarfs+Sally+Wolf&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115690</field>
+<field name="genre">Operas</field>
+<field name="title">Das Buch des Teufels</field>
+<field name="titleSort">Buch des Teufels</field>
+<field name="composer">Stephan von Kassás</field>
+<field name="composerSort">Kassás, Stephan von</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Louis Schnitzer</field>
+<field name="librettistSort">Schnitzer, Louis</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Buch+des+Teufels+Stephan+von+Kassás&amp;search_field=search</field>
+</doc>
+</add>

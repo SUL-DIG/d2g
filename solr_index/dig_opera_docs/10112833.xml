@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112833</field>
+<field name="genre">Operas</field>
+<field name="title">Wirri-Warri</field>
+<field name="titleSort">Wirri-Warri</field>
+<field name="composer">Rudolf Gross</field>
+<field name="composerSort">Gross, Rudolf</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Josef Kellerer</field>
+<field name="librettistSort">Kellerer, Josef</field>
+<field name="librettist">Fritz Neff</field>
+<field name="librettistSort">Neff, Fritz</field>
+<field name="theater">Centralhallen-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wirri-Warri+Rudolf+Gross&amp;search_field=search</field>
+</doc>
+</add>

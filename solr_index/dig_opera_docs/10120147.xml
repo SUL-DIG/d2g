@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120147</field>
+<field name="genre">Operas</field>
+<field name="title">Fridolin</field>
+<field name="titleSort">Fridolin</field>
+<field name="composer">Franz Mejo</field>
+<field name="composerSort">Mejo, Franz</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Karl Fischer</field>
+<field name="librettistSort">Fischer, Karl</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fridolin+Franz+Mejo&amp;search_field=search</field>
+</doc>
+</add>

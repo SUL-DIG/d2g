@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104955</field>
+<field name="genre">Operas</field>
+<field name="title">La capricciosa ed il soldato</field>
+<field name="titleSort">capricciosa ed il soldato</field>
+<field name="composer">Michele Carafa</field>
+<field name="composerSort">Carafa, Michele</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+capricciosa+ed+il+soldato+Michele+Carafa&amp;search_field=search</field>
+</doc>
+</add>

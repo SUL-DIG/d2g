@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119481</field>
+<field name="genre">Operas</field>
+<field name="title">L'isola del piacere</field>
+<field name="titleSort">isola del piacere</field>
+<field name="composer">Vincent Martín y Soler</field>
+<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Lorenzo Da Ponte</field>
+<field name="librettistSort">Da Ponte, Lorenzo</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'isola+del+piacere+Vincent+Martín+y+Soler&amp;search_field=search</field>
+</doc>
+</add>

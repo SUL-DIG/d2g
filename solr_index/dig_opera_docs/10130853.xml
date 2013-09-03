@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130853</field>
+<field name="genre">Operas</field>
+<field name="title">La Celestina</field>
+<field name="titleSort">Celestina</field>
+<field name="composer">Flavio Testi</field>
+<field name="composerSort">Testi, Flavio</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Renato Prinzhofer</field>
+<field name="librettistSort">Prinzhofer, Renato</field>
+<field name="librettist">Fernando de Rojas</field>
+<field name="librettistSort">Rojas, Fernando de</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Celestina+Flavio+Testi&amp;search_field=search</field>
+</doc>
+</add>

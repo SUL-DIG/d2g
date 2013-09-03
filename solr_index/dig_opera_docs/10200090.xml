@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200090</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Adam</field>
+		<field name="titleSort">Adam</field>
+		<field name="year">1890</field>
+		
+		
+		<field name="date">1890</field>
+		<field name="composer">Horace Wadham Nicholl</field>
+		<field name="composerSort">Nicholl, Horace Wadham</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Adam and Eve</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adam+Horace+Wadham+Nicholl&amp;search_field=search</field>
+	</doc></add>

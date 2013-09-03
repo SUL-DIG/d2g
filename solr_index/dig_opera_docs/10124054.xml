@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124054</field>
+<field name="genre">Operas</field>
+<field name="title">Le jardinier et son seigneur</field>
+<field name="titleSort">jardinier et son seigneur</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1761</field>
+<field name="date">1761</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Théâtre de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardinier+et+son+seigneur+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

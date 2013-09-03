@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121272</field>
+<field name="genre">Operas</field>
+<field name="title">Nella</field>
+<field name="titleSort">Nella</field>
+<field name="composer">Andrea Morosini</field>
+<field name="composerSort">Morosini, Andrea</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Umberto Pedrini</field>
+<field name="librettistSort">Pedrini, Umberto</field>
+
+<field name="city">Oneglia</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nella+Andrea+Morosini&amp;search_field=search</field>
+</doc>
+</add>

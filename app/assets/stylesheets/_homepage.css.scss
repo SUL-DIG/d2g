@@ -1,0 +1,131 @@
+.highlights-link {
+  float: right;
+  font-size: 12px;
+  text-transform: none;
+  a {
+    background-color: $header_bg_color;
+    border: 1px solid darken($header_bg_color, 5%);
+    border-radius: 6px;
+    padding: 5px 12px;
+    margin-right: 2px;
+    line-height: 14px
+  }
+  a:hover {
+    background-color: darken($header_bg_color, 5%);
+    text-decoration: none;
+  }
+}
+
+.featured-collections {
+  margin-bottom: 10px;
+  h3.collection-title {
+    margin-bottom: 0;
+    margin-left: 5px;
+    margin-top: 6px;
+    padding: 0;
+    > a {
+      color: $active_heading_link_color;
+      &:hover {
+        border-bottom: 1px dotted $active_heading_link_color;
+        text-decoration: none;
+      }
+    }
+  }
+  img {
+    max-height: 200px;
+    width: 90%;
+    @include image-border;
+  }
+  span {
+    color: #555;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+}
+.about-dl {
+  div {margin-top: 20px;}
+  p {
+    width: 95%;
+    &.collection-desc {margin-top: 6px;}
+  }
+  a.heading-link {
+    border-bottom: 1px dotted $active_heading_link_color;
+    color: $active_heading_link_color;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  img {
+    border: 1px solid #CCC;
+    float: left;
+    margin: 4px 15px 20px 0;
+    padding: 4px;
+  }
+}
+
+.overview.tabbable {
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: -4px;
+  float: right;
+  font-size: 13px;
+  .nav-pills {
+    margin-bottom: 0;
+    li > a {
+      background-color: $header_bg_color;
+      border: 1px solid darken($header_bg_color, 5%);
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+    li > a:hover {
+      background-color: darken($header_bg_color, 5%);
+    }
+    .active > a, .active > a:hover {
+      background-color: darken($header_bg_color, 10%);
+      border: 1px solid darken($header_bg_color, 10%);
+      color: $active_link_color;
+    }
+  }
+}
+
+.overview-area {
+  border: 2px solid darken($header_bg_color, 8%);
+  clear: both;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+#result_map {
+	height: 375px;
+	width: 100%;
+}
+
+#result_map img { max-width:none; }
+
+/* Responsive styles */
+@media (min-width: 1200px) {
+  .about-dl {
+    img {
+      margin-bottom: 5px;
+    }
+    div {
+      margin-bottom: 30px;
+    }
+  }
+}
+
+@media (max-width: 979px) {
+  .about-dl img {
+    margin-bottom: 5px;
+  }
+}
+
+@media (max-width: 767px) {
+  .featured-collections .featured-collection {
+    margin-bottom: 20px;
+    &:last-child {margin-bottom: 0;}
+    img {max-width: 300px;}
+  }
+  .about-dl img {
+    max-width: 100px;
+  }
+}

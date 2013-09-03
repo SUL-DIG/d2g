@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101703</field>
+<field name="genre">Operas</field>
+<field name="title">Le puits d'amour</field>
+<field name="titleSort">puits d'amour</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+puits+d'amour+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

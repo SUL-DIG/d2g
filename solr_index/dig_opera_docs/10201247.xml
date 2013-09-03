@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201247</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ezechias</field>
+		<field name="titleSort">Ezechias</field>
+		
+		
+		
+		
+		<field name="composer">Giacomo Carissimi</field>
+		<field name="composerSort">Carissimi, Giacomo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Ezekiel</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">10</field>
+		<field name="feastDate">April 10</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ezechias+Giacomo+Carissimi&amp;search_field=search</field>
+	</doc></add>

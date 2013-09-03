@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122237</field>
+<field name="genre">Operas</field>
+<field name="title">L'aigle</field>
+<field name="titleSort">aigle</field>
+<field name="composer">Jean Nouguès</field>
+<field name="composerSort">Nouguès, Jean</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Rouen</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aigle+Jean+Nouguès&amp;search_field=search</field>
+</doc>
+</add>

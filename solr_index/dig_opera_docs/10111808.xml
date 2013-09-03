@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111808</field>
+<field name="genre">Operas</field>
+<field name="title">Blondinchen</field>
+<field name="titleSort">Blondinchen</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Kurt Kraatz</field>
+<field name="librettistSort">Kraatz, Kurt</field>
+<field name="librettist">Jean Kren</field>
+<field name="librettistSort">Kren, Jean</field>
+<field name="theater">Thalia-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blondinchen+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

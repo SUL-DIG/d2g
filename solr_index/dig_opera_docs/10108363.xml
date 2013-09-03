@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108363</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux charlatans</field>
+<field name="titleSort">deux charlatans</field>
+<field name="composer">Émile Ducellier</field>
+<field name="composerSort">Ducellier, Émile</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Édouard Doyen</field>
+<field name="librettistSort">Doyen, Édouard</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+charlatans+Émile+Ducellier&amp;search_field=search</field>
+</doc>
+</add>

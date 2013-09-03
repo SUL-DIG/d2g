@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202757</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mistr Jan Hus</field>
+		<field name="titleSort">Mistr Jan Hus</field>
+		<field name="year">1920</field>
+		<field name="month">June</field>
+		<field name="day">1</field>
+		<field name="date">June 1, 1920</field>
+		<field name="composer">Jaroslav Jeremiás</field>
+		<field name="composerSort">Jeremiás, Jaroslav</field>
+		<field name="librettist">Frantisek Serafinský Procházka</field>
+		<field name="librettistSort">Procházka, Frantisek Serafi</field>
+		
+		
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">John Hus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mistr+Jan+Hus+Jaroslav+Jeremiás&amp;search_field=search</field>
+	</doc></add>

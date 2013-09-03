@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118705</field>
+<field name="genre">Operas</field>
+<field name="title">Das Märchen von der Liebe</field>
+<field name="titleSort">Märchen von der Liebe</field>
+<field name="composer">Walter Lutze</field>
+<field name="composerSort">Lutze, Walter</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Gustav Burchard</field>
+<field name="librettistSort">Burchard, Gustav</field>
+<field name="theater">Mecklenburgisches Landestheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Märchen+von+der+Liebe+Walter+Lutze&amp;search_field=search</field>
+</doc>
+</add>

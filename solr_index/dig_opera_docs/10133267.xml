@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133267</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della pietа</field>
+<field name="titleSort">trionfo della pietа</field>
+<field name="composer">Andrea Zabarella</field>
+<field name="composerSort">Zabarella, Andrea</field>
+<field name="year">1696</field>
+<field name="date">1696</field>
+<field name="librettist">Andrea Zabarella</field>
+<field name="librettistSort">Zabarella, Andrea</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+pietа+Andrea+Zabarella&amp;search_field=search</field>
+</doc>
+</add>

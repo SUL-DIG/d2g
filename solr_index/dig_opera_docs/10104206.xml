@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104206</field>
+<field name="genre">Operas</field>
+<field name="title">Zolotoy ostrov (The Golden Island)</field>
+<field name="titleSort">Zolotoy ostrov (The Golden Island)</field>
+<field name="composer">Mikhail Borisovich Bronner</field>
+<field name="composerSort">Bronner, Mikhail Borisovich</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Sergey Kozlov</field>
+<field name="librettistSort">Kozlov, Sergey</field>
+<field name="theater">Nataliya Sats Academic Children's Music Theater</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zolotoy+ostrov+The+Golden+Island+Mikhail+Borisovich+Bronner&amp;search_field=search</field>
+</doc>
+</add>

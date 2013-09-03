@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119044</field>
+<field name="genre">Operas</field>
+<field name="title">Un amour au village</field>
+<field name="titleSort">amour au village</field>
+<field name="composer">Charles Malo</field>
+<field name="composerSort">Malo, Charles</field>
+<field name="year">1860</field>
+<field name="date">1860</field><field name="theater">Théâtre du Gymnase</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+amour+au+village+Charles+Malo&amp;search_field=search</field>
+</doc>
+</add>

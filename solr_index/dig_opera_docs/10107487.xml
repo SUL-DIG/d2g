@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107487</field>
+<field name="genre">Operas</field>
+<field name="title">Une aventure de Mme. Favart</field>
+<field name="titleSort">aventure de Mme. Favart</field>
+<field name="composer">[Georges Thiébost] Hugues Delorme</field>
+<field name="composerSort">Delorme, [Georges Thiébost] Hugues</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Lucien Boyer</field>
+<field name="librettistSort">Boyer, Lucien</field>
+<field name="theater">Théâtre de l'Olympia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+aventure+de+Mme.+Favart+Georges+Thiébost]+Hugues+Delorme&amp;search_field=search</field>
+</doc>
+</add>

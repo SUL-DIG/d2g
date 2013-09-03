@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104039</field>
+<field name="genre">Operas</field>
+<field name="title">Don Gil von den grünen Hosen</field>
+<field name="titleSort">Don Gil von den grünen Hosen</field>
+<field name="composer">Walter Braunfels</field>
+<field name="composerSort">Braunfels, Walter</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Walter Braunfels</field>
+<field name="librettistSort">Braunfels, Walter</field>
+<field name="librettist">[Gabriel Téllez] Tirso de Molina</field>
+<field name="librettistSort">Tirso de Molina, [Gabriel Téllez]</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Gil+von+den+grünen+Hosen+Walter+Braunfels&amp;search_field=search</field>
+</doc>
+</add>

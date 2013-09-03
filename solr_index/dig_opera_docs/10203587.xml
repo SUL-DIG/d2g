@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203587</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La representazione di Sant' Orsola</field>
+		<field name="titleSort">representazione di Sant' Orsola</field>
+		
+		
+		
+		
+		<field name="composer">Francesco Maria Bazzani</field>
+		<field name="composerSort">Bazzani, Francesco Maria</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Ursula</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">October 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+representazione+di+Sant'+Orsola+Francesco+Maria+Bazzani&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200878</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davide pentito</field>
+		<field name="titleSort">Davide pentito</field>
+		<field name="year">1692</field>
+		
+		
+		<field name="date">1692</field>
+		<field name="composer">Pietro Romolo Pignatta</field>
+		<field name="composerSort">Pignatta, Pietro Romolo</field>
+		
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davide+pentito+Pietro+Romolo+Pignatta&amp;search_field=search</field>
+	</doc></add>

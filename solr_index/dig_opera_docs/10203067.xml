@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203067</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio a la colocacion de la gloriosa Virgen, y Proto-Martyr Santa Tecla</field>
+		<field name="titleSort">Oratorio a la colocacion de la gloriosa Virgen, y Proto-Martyr Santa Tecla</field>
+		<field name="year">1736</field>
+		
+		
+		<field name="date">1736</field>
+		<field name="composer">Francisco Hernández de Illana</field>
+		<field name="composerSort">Hernández de Illana, Francisco</field>
+		
+		
+		<field name="theater">Metropolitana Chiesa di Santa Iglesia</field>
+		<field name="city">Burgos</field>
+		<field name="region">Castilla-León</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Thecla</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+a+la+colocacion+de+la+gloriosa+Virgen,+y+Proto-Martyr+Santa+Tecla+Francisco+Hernández+de+Illana&amp;search_field=search</field>
+	</doc></add>

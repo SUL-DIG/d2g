@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131324</field>
+<field name="genre">Operas</field>
+<field name="title">"La cause et les effets, ou Le réveil du peuple</field>
+<field name="titleSort">"cause et les effets, ou Le réveil du peuple"</field>
+<field name="composer">Armand-Emmanuel Trial</field>
+<field name="composerSort">Trial, Armand-Emmanuel</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">__ Joigny</field>
+<field name="librettistSort">Joigny, __</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cause+et+les+effets,+ou+Le+réveil+du+peuple+Armand-Emmanuel+Trial&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109758</field>
+<field name="genre">Operas</field>
+<field name="title">Goodman Brown</field>
+<field name="titleSort">Goodman Brown</field>
+<field name="composer">Harold Fink</field>
+<field name="composerSort">Fink, Harold</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Edward J. Megroth</field>
+<field name="librettistSort">Megroth, Edward J.</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goodman+Brown+Harold+Fink&amp;search_field=search</field>
+</doc>
+</add>

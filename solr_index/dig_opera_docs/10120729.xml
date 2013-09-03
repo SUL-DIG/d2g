@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120729</field>
+<field name="genre">Operas</field>
+<field name="title">L'année galante</field>
+<field name="titleSort">année galante</field>
+<field name="composer">Charles-Louis Mion</field>
+<field name="composerSort">Mion, Charles-Louis</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Pierre-Charles Roy</field>
+<field name="librettistSort">Roy, Pierre-Charles</field>
+<field name="theater">Théâtre de Manège</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'année+galante+Charles-Louis+Mion&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120470</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori di Teolinda</field>
+<field name="titleSort">amori di Teolinda</field>
+<field name="composer">Giacomo Meyerbeer</field>
+<field name="composerSort">Meyerbeer, Giacomo</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+Teolinda+Giacomo+Meyerbeer&amp;search_field=search</field>
+</doc>
+</add>

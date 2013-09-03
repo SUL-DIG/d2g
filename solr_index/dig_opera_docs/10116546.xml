@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116546</field>
+<field name="genre">Operas</field>
+<field name="title">Das Fischermädchen vom Prohner Wieck</field>
+<field name="titleSort">Fischermädchen vom Prohner Wieck</field>
+<field name="composer">Emanuel Kretschmer</field>
+<field name="composerSort">Kretschmer, Emanuel</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">M. Horstmann</field>
+<field name="librettistSort">Horstmann, M.</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fischermädchen+vom+Prohner+Wieck+Emanuel+Kretschmer&amp;search_field=search</field>
+</doc>
+</add>

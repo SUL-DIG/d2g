@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123115</field>
+<field name="genre">Operas</field>
+<field name="title">Le miniere di Polonia</field>
+<field name="titleSort">miniere di Polonia</field>
+<field name="composer">Silvestro Palma</field>
+<field name="composerSort">Palma, Silvestro</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Giuseppe Giannetti</field>
+<field name="librettistSort">Giannetti, Giuseppe</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+miniere+di+Polonia+Silvestro+Palma&amp;search_field=search</field>
+</doc>
+</add>

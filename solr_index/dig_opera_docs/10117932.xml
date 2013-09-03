@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117932</field>
+<field name="genre">Operas</field>
+<field name="title">Zazа</field>
+<field name="titleSort">Zazа</field>
+<field name="composer">Ruggero Leoncavallo</field>
+<field name="composerSort">Leoncavallo, Ruggero</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Ruggero Leoncavallo</field>
+<field name="librettistSort">Leoncavallo, Ruggero</field>
+<field name="librettist">Pierre Berton</field>
+<field name="librettistSort">Berton, Pierre</field>
+<field name="theater">Teatro Lirico</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zazа+Ruggero+Leoncavallo&amp;search_field=search</field>
+</doc>
+</add>

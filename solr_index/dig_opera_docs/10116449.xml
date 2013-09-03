@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116449</field>
+<field name="genre">Operas</field>
+<field name="title">Sevastopol'tsï (Inhabitants of Sevastopol)</field>
+<field name="titleSort">Sevastopol'tsï (Inhabitants of Sevastopol)</field>
+<field name="composer">Marian Viktorovich Koval'</field>
+<field name="composerSort">Koval', Marian Viktorovich</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Sergey Dmitryevich Spassky</field>
+<field name="librettistSort">Spassky, Sergey Dmitryevich</field>
+<field name="librettist">Nikolay Leopoldovich Braun</field>
+<field name="librettistSort">Braun, Nikolay Leopoldovich</field>
+
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sevastopol'tsï+Inhabitants+of+Sevastopol+Marian+Viktorovich+Koval'&amp;search_field=search</field>
+</doc>
+</add>

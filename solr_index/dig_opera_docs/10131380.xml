@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131380</field>
+<field name="genre">Operas</field>
+<field name="title">Li furbi</field>
+<field name="titleSort">furbi</field>
+<field name="composer">Giacomo Tritto</field>
+<field name="composerSort">Tritto, Giacomo</field>
+<field name="year">1765</field>
+<field name="date">1765</field><field name="theater">Convento di Santa Chiara</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+furbi+Giacomo+Tritto&amp;search_field=search</field>
+</doc>
+</add>

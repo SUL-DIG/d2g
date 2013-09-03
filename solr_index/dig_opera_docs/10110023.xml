@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110023</field>
+<field name="genre">Operas</field>
+<field name="title">La ritornata di Londra</field>
+<field name="titleSort">ritornata di Londra</field>
+<field name="composer">Domenico Fischietti</field>
+<field name="composerSort">Fischietti, Domenico</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">[Carlo Goldoni] Polisseno Fegeio</field>
+<field name="librettistSort">Fegeio, Polisseno [Carlo Goldoni]</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ritornata+di+Londra+Domenico+Fischietti&amp;search_field=search</field>
+</doc>
+</add>

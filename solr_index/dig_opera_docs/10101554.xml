@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101554</field>
+<field name="genre">Operas</field>
+<field name="title">The Lady of Longford</field>
+<field name="titleSort">Lady of Longford</field>
+<field name="composer">Leonhard Emil Bach</field>
+<field name="composerSort">Bach, Leonhard Emil</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Augustus Henry Harris</field>
+<field name="librettistSort">Harris, Augustus Henry</field>
+<field name="librettist">Frederick Edwards Weatherly</field>
+<field name="librettistSort">Weatherly, Frederick Edwards</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lady+of+Longford+Leonhard+Emil+Bach&amp;search_field=search</field>
+</doc>
+</add>

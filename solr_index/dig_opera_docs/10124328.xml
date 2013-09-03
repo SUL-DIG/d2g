@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124328</field>
+<field name="genre">Operas</field>
+<field name="title">Jacques et Jacqueline</field>
+<field name="titleSort">Jacques et Jacqueline</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">[Mme. Auguste Pilati] Théodore Julian</field>
+<field name="librettistSort">Julian, Théodore [Mme. Auguste Pilati]</field>
+
+<field name="city">Sèvres</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacques+et+Jacqueline+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

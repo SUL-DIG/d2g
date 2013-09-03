@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203314</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Paul the Apostle</field>
+		<field name="titleSort">Paul the Apostle</field>
+		<field name="year">1895</field>
+		
+		
+		<field name="date">1895</field>
+		<field name="composer">John Eliot Trowbridge</field>
+		<field name="composerSort">Trowbridge, John Eliot</field>
+		<field name="librettist">Grace Brown Putnam</field>
+		<field name="librettistSort">Putnam, Grace Brown</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Paul</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paul+the+Apostle+John+Eliot+Trowbridge&amp;search_field=search</field>
+	</doc></add>

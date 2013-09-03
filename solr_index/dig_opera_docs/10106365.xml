@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106365</field>
+<field name="genre">Operas</field>
+<field name="title">Adelaide di Franconia</field>
+<field name="titleSort">Adelaide di Franconia</field>
+<field name="composer">Pietro Combi</field>
+<field name="composerSort">Combi, Pietro</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Pietro Cominazzi</field>
+<field name="librettistSort">Cominazzi, Pietro</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelaide+di+Franconia+Pietro+Combi&amp;search_field=search</field>
+</doc>
+</add>

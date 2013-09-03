@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124052</field>
+<field name="genre">Operas</field>
+<field name="title">L'huître et les plaideurs</field>
+<field name="titleSort">huître et les plaideurs</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'huître+et+les+plaideurs+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

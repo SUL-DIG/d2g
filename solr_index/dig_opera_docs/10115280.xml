@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115280</field>
+<field name="genre">Operas</field>
+<field name="title">Yvonne</field>
+<field name="titleSort">Yvonne</field>
+<field name="composer">Josef John</field>
+<field name="composerSort">John, Josef</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Rudolf Kadera</field>
+<field name="librettistSort">Kadera, Rudolf</field>
+<field name="theater">Militär-Casino</field>
+<field name="city">Terezin</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yvonne+Josef+John&amp;search_field=search</field>
+</doc>
+</add>

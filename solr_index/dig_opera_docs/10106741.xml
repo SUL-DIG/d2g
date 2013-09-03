@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106741</field>
+<field name="genre">Operas</field>
+<field name="title">A moira de silvas</field>
+<field name="titleSort">moira de silvas</field>
+<field name="composer">João Guerreiro da Costa</field>
+<field name="composerSort">Costa, João Guerreiro da</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Lorjó Tavares</field>
+<field name="librettistSort">Tavares, Lorjó</field>
+<field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+moira+de+silvas+João+Guerreiro+da+Costa&amp;search_field=search</field>
+</doc>
+</add>

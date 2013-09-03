@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120813</field>
+<field name="genre">Operas</field>
+<field name="title">Nozze infauste</field>
+<field name="titleSort">Nozze infauste</field>
+<field name="composer">Augusto Modoni</field>
+<field name="composerSort">Modoni, Augusto</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Enrico Fantelli</field>
+<field name="librettistSort">Fantelli, Enrico</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Medicina</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nozze+infauste+Augusto+Modoni&amp;search_field=search</field>
+</doc>
+</add>

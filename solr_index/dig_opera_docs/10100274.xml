@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100274</field>
+<field name="genre">Operas</field>
+<field name="title">Les jeux floraux</field>
+<field name="titleSort">jeux floraux</field>
+<field name="composer">Pamphile-Léopold-François Aimon</field>
+<field name="composerSort">Aimon, Pamphile-Léopold-François</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Jean-Nicolas Bouilly</field>
+<field name="librettistSort">Bouilly, Jean-Nicolas</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+jeux+floraux+Pamphile-Léopold-François+Aimon&amp;search_field=search</field>
+</doc>
+</add>

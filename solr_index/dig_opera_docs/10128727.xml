@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128727</field>
+<field name="genre">Operas</field>
+<field name="title">Chi tutto abbraccia nulla stringe</field>
+<field name="titleSort">Chi tutto abbraccia nulla stringe</field>
+<field name="composer">Giuseppe Scolari</field>
+<field name="composerSort">Scolari, Giuseppe</field>
+<field name="year">1753</field>
+<field name="date">1753</field>
+<field name="librettist">Bartolomeo Vitturi</field>
+<field name="librettistSort">Vitturi, Bartolomeo</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+tutto+abbraccia+nulla+stringe+Giuseppe+Scolari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204222</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il segno dell'humana salute</field>
+		<field name="titleSort">segno dell'humana salute</field>
+		<field name="year">1684</field>
+		<field name="month">March</field>
+		<field name="day">31</field>
+		<field name="date">March 31, 1684</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Nicolò Minato</field>
+		<field name="librettistSort">Minato, Nicolò</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+segno+dell'humana+salute+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109486</field>
+<field name="genre">Operas</field>
+<field name="title">Orestès</field>
+<field name="titleSort">Orestès</field>
+<field name="composer">Eric Feldbusch</field>
+<field name="composerSort">Feldbusch, Eric</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Louis Bourgaux</field>
+<field name="librettistSort">Bourgaux, Louis</field>
+<field name="theater">Belgian Radio (Radio Télévision Belge)</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orestès+Eric+Feldbusch&amp;search_field=search</field>
+</doc>
+</add>

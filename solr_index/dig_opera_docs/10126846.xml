@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126846</field>
+<field name="genre">Operas</field>
+<field name="title">Moro der Einsiedler</field>
+<field name="titleSort">Moro der Einsiedler</field>
+<field name="composer">Franz Roth</field>
+<field name="composerSort">Roth, Franz</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Karl Wolff</field>
+<field name="librettistSort">Wolff, Karl</field>
+<field name="theater">Fürsttheater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moro+der+Einsiedler+Franz+Roth&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113589</field>
+<field name="genre">Operas</field>
+<field name="title">Hedda Gabler</field>
+<field name="titleSort">Hedda Gabler</field>
+<field name="composer">Edward Harper</field>
+<field name="composerSort">Harper, Edward</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Edward Harper</field>
+<field name="librettistSort">Harper, Edward</field>
+<field name="librettist">Henrik Ibsen</field>
+<field name="librettistSort">Ibsen, Henrik</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Glasgow</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hedda+Gabler+Edward+Harper&amp;search_field=search</field>
+</doc>
+</add>

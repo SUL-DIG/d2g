@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115129</field>
+<field name="genre">Operas</field>
+<field name="title">L'infante de Zamora</field>
+<field name="titleSort">infante de Zamora</field>
+<field name="composer">Manuel Jagarte</field>
+<field name="composerSort">Jagarte, Manuel</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'infante+de+Zamora+Manuel+Jagarte&amp;search_field=search</field>
+</doc>
+</add>

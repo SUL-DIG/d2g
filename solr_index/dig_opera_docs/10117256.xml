@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117256</field>
+<field name="genre">Operas</field>
+<field name="title">Die Alpenhütte</field>
+<field name="titleSort">Alpenhütte</field>
+<field name="composer">Wolfgang Josef Lanz</field>
+<field name="composerSort">Lanz, Wolfgang Josef</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Theater bei Hof</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Alpenhütte+Wolfgang+Josef+Lanz&amp;search_field=search</field>
+</doc>
+</add>

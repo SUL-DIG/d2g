@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102355</field>
+<field name="genre">Operas</field>
+<field name="title">Giacinta ed Ernesto</field>
+<field name="titleSort">Giacinta ed Ernesto</field>
+<field name="composer">Julius Benedict</field>
+<field name="composerSort">Benedict, Julius</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Luigi Ricciuti</field>
+<field name="librettistSort">Ricciuti, Luigi</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacinta+ed+Ernesto+Julius+Benedict&amp;search_field=search</field>
+</doc>
+</add>

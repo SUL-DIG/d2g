@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116895</field>
+<field name="genre">Operas</field>
+<field name="title">"Le ménétrier, ou Les deux duchesses</field>
+<field name="titleSort">"ménétrier, ou Les deux duchesses"</field>
+<field name="composer">Théodore Labarre</field>
+<field name="composerSort">Labarre, Théodore</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+ménétrier,+ou+Les+deux+duchesses+Théodore+Labarre&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119644</field>
+<field name="genre">Operas</field>
+<field name="title">Lo sposalizio per puntiglio</field>
+<field name="titleSort">sposalizio per puntiglio</field>
+<field name="composer">Girolamo Masi</field>
+<field name="composerSort">Masi, Girolamo</field>
+<field name="year">1788</field>
+<field name="date">1788</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+sposalizio+per+puntiglio+Girolamo+Masi&amp;search_field=search</field>
+</doc>
+</add>

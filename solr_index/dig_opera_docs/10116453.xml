@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116453</field>
+<field name="genre">Operas</field>
+<field name="title">Ukradený mesic</field>
+<field name="titleSort">Ukradený mesic</field>
+<field name="composer">Frantisek Kovaricek</field>
+<field name="composerSort">Kovaricek, Frantisek</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Ludvík Askenázy</field>
+<field name="librettistSort">Askenázy, Ludvík</field>
+<field name="librettist">Vladimír Mikes</field>
+<field name="librettistSort">Mikes, Vladimír</field>
+<field name="theater">Czech Radio</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ukradený+mesic+Frantisek+Kovaricek&amp;search_field=search</field>
+</doc>
+</add>

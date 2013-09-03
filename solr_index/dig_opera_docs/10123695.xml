@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123695</field>
+<field name="genre">Operas</field>
+<field name="title">Andromaca</field>
+<field name="titleSort">Andromaca</field>
+<field name="composer">David Perez</field>
+<field name="composerSort">Perez, David</field>
+<field name="year">1750</field>
+<field name="date">1750</field><field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromaca+David+Perez&amp;search_field=search</field>
+</doc>
+</add>

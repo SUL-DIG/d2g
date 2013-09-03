@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111993</field>
+<field name="genre">Operas</field>
+<field name="title">Fernando nel Messico</field>
+<field name="titleSort">Fernando nel Messico</field>
+<field name="composer">Giuseppe Giordani</field>
+<field name="composerSort">Giordani, Giuseppe</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Filippo Tarducci</field>
+<field name="librettistSort">Tarducci, Filippo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fernando+nel+Messico+Giuseppe+Giordani&amp;search_field=search</field>
+</doc>
+</add>

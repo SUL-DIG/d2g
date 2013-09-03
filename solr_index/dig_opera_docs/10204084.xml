@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204084</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Teresa</field>
+		<field name="titleSort">Santa Teresa</field>
+		
+		
+		
+		
+		<field name="composer">Caterina Benedicta Grazianini</field>
+		<field name="composerSort">Grazianini, Caterina Benedicta</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Teresa+Caterina+Benedicta+Grazianini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107705</field>
+<field name="genre">Operas</field>
+<field name="title">"Zulima, ou L'art et la nature</field>
+<field name="titleSort">"Zulima, ou L'art et la nature"</field>
+<field name="composer">Nicolas Dezède</field>
+<field name="composerSort">Dezède, Nicolas</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">P. de Montignac</field>
+<field name="librettistSort">Montignac, P. de</field>
+<field name="librettist">[Jean-Baptiste Sauvé] De Lanoue</field>
+<field name="librettistSort">De Lanoue, [Jean-Baptiste Sauvé]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zulima,+ou+L'art+et+la+nature+Nicolas+Dezède&amp;search_field=search</field>
+</doc>
+</add>

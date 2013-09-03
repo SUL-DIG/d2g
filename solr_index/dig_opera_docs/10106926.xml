@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106926</field>
+<field name="genre">Operas</field>
+<field name="title">Giulio Cesare in Egitto</field>
+<field name="titleSort">Giulio Cesare in Egitto</field>
+<field name="composer">Giuseppe Maria Curcio</field>
+<field name="composerSort">Curcio, Giuseppe Maria</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Francesco Ballani</field>
+<field name="librettistSort">Ballani, Francesco</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulio+Cesare+in+Egitto+Giuseppe+Maria+Curcio&amp;search_field=search</field>
+</doc>
+</add>

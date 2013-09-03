@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128373</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit im Bade</field>
+<field name="titleSort">Hochzeit im Bade</field>
+<field name="composer">Georg Lorenz Schneider</field>
+<field name="composerSort">Schneider, Georg Lorenz</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Karl von Wagenheim</field>
+<field name="librettistSort">Wagenheim, Karl von</field>
+
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+im+Bade+Georg+Lorenz+Schneider&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131954</field>
+<field name="genre">Operas</field>
+<field name="title">Le lauréat</field>
+<field name="titleSort">lauréat</field>
+<field name="composer">Joseph Vézina</field>
+<field name="composerSort">Vézina, Joseph</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Félix-Gabriel Marchand</field>
+<field name="librettistSort">Marchand, Félix-Gabriel</field>
+<field name="theater">Laval University</field>
+<field name="city">Quebec City</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+lauréat+Joseph+Vézina&amp;search_field=search</field>
+</doc>
+</add>

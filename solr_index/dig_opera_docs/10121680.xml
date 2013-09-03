@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121680</field>
+<field name="genre">Operas</field>
+<field name="title">Khovanshchina</field>
+<field name="titleSort">Khovanshchina</field>
+<field name="composer">Modest Petrovich Mussorgsky</field>
+<field name="composerSort">Mussorgsky, Modest Petrovich</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Modest Petrovich Mussorgsky</field>
+<field name="librettistSort">Mussorgsky, Modest Petrovich</field>
+<field name="librettist">Vladimir Vasil'yevich Stasov</field>
+<field name="librettistSort">Stasov, Vladimir Vasil'yevich</field>
+<field name="theater">Kononov Auditorium</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khovanshchina+Modest+Petrovich+Mussorgsky&amp;search_field=search</field>
+</doc>
+</add>

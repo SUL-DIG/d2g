@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119655</field>
+<field name="genre">Operas</field>
+<field name="title">Eros</field>
+<field name="titleSort">Eros</field>
+<field name="composer">Nicolò Massa</field>
+<field name="composerSort">Massa, Nicolò</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Gemma Bellincioni</field>
+<field name="librettistSort">Bellincioni, Gemma</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eros+Nicolò+Massa&amp;search_field=search</field>
+</doc>
+</add>

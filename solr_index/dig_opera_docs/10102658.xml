@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102658</field>
+<field name="genre">Operas</field>
+<field name="title">Il nipote di Fra Diavolo</field>
+<field name="titleSort">nipote di Fra Diavolo</field>
+<field name="composer">Domenico Bertaggia</field>
+<field name="composerSort">Bertaggia, Domenico</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Enrico Campanelli</field>
+<field name="librettistSort">Campanelli, Enrico</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+nipote+di+Fra+Diavolo+Domenico+Bertaggia&amp;search_field=search</field>
+</doc>
+</add>

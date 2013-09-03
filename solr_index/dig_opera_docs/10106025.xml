@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106025</field>
+<field name="genre">Operas</field>
+<field name="title">La grande Bretèche</field>
+<field name="titleSort">grande Bretèche</field>
+<field name="composer">Avery Claflin</field>
+<field name="composerSort">Claflin, Avery</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">George R. Mills</field>
+<field name="librettistSort">Mills, George R.</field>
+<field name="librettist">Honoré de Balzac</field>
+<field name="librettistSort">Balzac, Honoré de</field>
+<field name="theater">NBC Television (National Broadcasting Company)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grande+Bretèche+Avery+Claflin&amp;search_field=search</field>
+</doc>
+</add>

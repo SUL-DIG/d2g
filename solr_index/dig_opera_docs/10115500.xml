@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115500</field>
+<field name="genre">Operas</field>
+<field name="title">Die lombardische Schule</field>
+<field name="titleSort">lombardische Schule</field>
+<field name="composer">Leo Kahler</field>
+<field name="composerSort">Kahler, Leo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Leo Kahler</field>
+<field name="librettistSort">Kahler, Leo</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+lombardische+Schule+Leo+Kahler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101149</field>
+<field name="genre">Operas</field>
+<field name="title">Le bon hermite</field>
+<field name="titleSort">bon hermite</field>
+<field name="composer">Joseph Arquier</field>
+<field name="composerSort">Arquier, Joseph</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">P. Prévost-Montfort</field>
+<field name="librettistSort">Prévost-Montfort, P.</field>
+<field name="theater">Théâtre de la Cité-Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bon+hermite+Joseph+Arquier&amp;search_field=search</field>
+</doc>
+</add>

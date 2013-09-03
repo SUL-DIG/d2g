@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116882</field>
+<field name="genre">Operas</field>
+<field name="title">Drømmen om den 13. time</field>
+<field name="titleSort">Drømmen om den 13. time</field>
+<field name="composer">Oddvar S. Kvam</field>
+<field name="composerSort">Kvam, Oddvar S.</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Oddvar S. Kvam</field>
+<field name="librettistSort">Kvam, Oddvar S.</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Drømmen+om+den+13+time+Oddvar+S.+Kvam&amp;search_field=search</field>
+</doc>
+</add>

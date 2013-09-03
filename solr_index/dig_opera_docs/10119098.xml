@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119098</field>
+<field name="genre">Operas</field>
+<field name="title">Orontea</field>
+<field name="titleSort">Orontea</field>
+<field name="composer">Francesco Mancini</field>
+<field name="composerSort">Mancini, Francesco</field>
+<field name="year">1729</field>
+<field name="date">1729</field>
+<field name="librettist">Giacinto Andrea Cicognini</field>
+<field name="librettistSort">Cicognini, Giacinto Andrea</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orontea+Francesco+Mancini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119385</field>
+<field name="genre">Operas</field>
+<field name="title">Barberina</field>
+<field name="titleSort">Barberina</field>
+<field name="composer">Gino Marinuzzi</field>
+<field name="composerSort">Marinuzzi, Gino</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Filippo Nu Mancuso</field>
+<field name="librettistSort">Mancuso, Filippo Nu</field>
+<field name="librettist">Alfred de Musset</field>
+<field name="librettistSort">Musset, Alfred de</field>
+<field name="theater">Teatro Massimo</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Barberina+Gino+Marinuzzi&amp;search_field=search</field>
+</doc>
+</add>

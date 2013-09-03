@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110718</field>
+<field name="genre">Operas</field>
+<field name="title">Les filles du doge</field>
+<field name="titleSort">filles du doge</field>
+<field name="composer">__ Gabriel</field>
+<field name="composerSort">Gabriel, __</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Ernest Boisse</field>
+<field name="librettistSort">Boisse, Ernest</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+filles+du+doge+__+Gabriel&amp;search_field=search</field>
+</doc>
+</add>

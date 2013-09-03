@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118620</field>
+<field name="genre">Operas</field>
+<field name="title">The Gypsy</field>
+<field name="titleSort">Gypsy</field>
+<field name="composer">Gustave Luders</field>
+<field name="composerSort">Luders, Gustave</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Frank Pixley</field>
+<field name="librettistSort">Pixley, Frank</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Gypsy+Gustave+Luders&amp;search_field=search</field>
+</doc>
+</add>

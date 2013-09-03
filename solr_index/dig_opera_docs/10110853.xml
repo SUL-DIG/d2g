@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110853</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanni dei Cortuso</field>
+<field name="titleSort">Giovanni dei Cortuso</field>
+<field name="composer">Andrea Galli</field>
+<field name="composerSort">Galli, Andrea</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Antonio Antonini</field>
+<field name="librettistSort">Antonini, Antonio</field>
+<field name="theater">Teatro della Concordia</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanni+dei+Cortuso+Andrea+Galli&amp;search_field=search</field>
+</doc>
+</add>

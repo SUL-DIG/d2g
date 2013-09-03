@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100951</field>
+<field name="genre">Operas</field>
+<field name="title">The Meal</field>
+<field name="titleSort">Meal</field>
+<field name="composer">Violet Archer</field>
+<field name="composerSort">Archer, Violet</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Rowland Holt Wilson</field>
+<field name="librettistSort">Wilson, Rowland Holt</field>
+
+<field name="city">Edmonton</field>
+<field name="region">Alberta</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Meal+Violet+Archer&amp;search_field=search</field>
+</doc>
+</add>

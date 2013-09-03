@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200474</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La caduta di Gerico</field>
+		<field name="titleSort">caduta di Gerico</field>
+		<field name="year">1719</field>
+		
+		
+		<field name="date">1719</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Alessandro Gargieria</field>
+		<field name="librettistSort">Gargieria, Alessandro</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Destruction of Jericho</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caduta+di+Gerico+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

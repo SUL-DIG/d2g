@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130607</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto sordo</field>
+<field name="titleSort">finto sordo</field>
+<field name="composer">Pasquale Tarantino</field>
+<field name="composerSort">Tarantino, Pasquale</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Pasquale Mililotti</field>
+<field name="librettistSort">Mililotti, Pasquale</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+sordo+Pasquale+Tarantino&amp;search_field=search</field>
+</doc>
+</add>

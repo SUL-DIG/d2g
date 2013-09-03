@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107782</field>
+<field name="genre">Operas</field>
+<field name="title">Die Dorfdeputirten</field>
+<field name="titleSort">Dorfdeputirten</field>
+<field name="composer">Christian Ludwig Dieter</field>
+<field name="composerSort">Dieter, Christian Ludwig</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Gottlob Ephraim Heermann</field>
+<field name="librettistSort">Heermann, Gottlob Ephraim</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Kleines Schauspielhaus auf der Planie</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Dorfdeputirten+Christian+Ludwig+Dieter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203220</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione</field>
+		<field name="titleSort">passione</field>
+		<field name="year">1904</field>
+		<field name="month">September</field>
+		<field name="day">3</field>
+		<field name="date">September 3, 1904</field>
+		<field name="composer">Francesco Barbera</field>
+		<field name="composerSort">Barbera, Francesco</field>
+		
+		
+		<field name="theater">Teatro Nazionale</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+Francesco+Barbera&amp;search_field=search</field>
+	</doc></add>

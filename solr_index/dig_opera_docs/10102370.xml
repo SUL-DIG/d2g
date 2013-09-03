@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102370</field>
+<field name="genre">Operas</field>
+<field name="title">Maсana</field>
+<field name="titleSort">Maсana</field>
+<field name="composer">Arthur Benjamin</field>
+<field name="composerSort">Benjamin, Arthur</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Caryl Brahms</field>
+<field name="librettistSort">Brahms, Caryl</field>
+<field name="librettist">[George Ronald Raphael Foa] Giorgio R. Foa</field>
+<field name="librettistSort">Foa, Giorgio R. [George Ronald Raphael Foa]</field>
+<field name="theater">BBC Television (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maсana+Arthur+Benjamin&amp;search_field=search</field>
+</doc>
+</add>

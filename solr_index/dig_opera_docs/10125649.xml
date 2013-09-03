@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125649</field>
+<field name="genre">Operas</field>
+<field name="title">"La vestale, o sia L'amore dal cielo</field>
+<field name="titleSort">"vestale, o sia L'amore dal cielo"</field>
+<field name="composer">Venanzio Rauzzini</field>
+<field name="composerSort">Rauzzini, Venanzio</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Carlo Francesco Badini</field>
+<field name="librettistSort">Badini, Carlo Francesco</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vestale,+o+sia+L'amore+dal+cielo+Venanzio+Rauzzini&amp;search_field=search</field>
+</doc>
+</add>

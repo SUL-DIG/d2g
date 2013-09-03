@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133178</field>
+<field name="genre">Operas</field>
+<field name="title">"Carina, or Twelve o'Clock</field>
+<field name="titleSort">"Carina, or Twelve o'Clock"</field>
+<field name="composer">Julia Woolf</field>
+<field name="composerSort">Woolf, Julia</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Cunningham V. Bridgman</field>
+<field name="librettistSort">Bridgman, Cunningham V.</field>
+<field name="librettist">Edward Litt Blanchard</field>
+<field name="librettistSort">Blanchard, Edward Litt</field>
+<field name="theater">Opera Comique Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carina,+or+Twelve+o'Clock+Julia+Woolf&amp;search_field=search</field>
+</doc>
+</add>

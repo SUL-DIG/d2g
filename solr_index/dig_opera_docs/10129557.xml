@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129557</field>
+<field name="genre">Operas</field>
+<field name="title">De Rat in de val</field>
+<field name="titleSort">Rat in de val</field>
+<field name="composer">[Charles Joseph Cerf] Souweine</field>
+<field name="composerSort">Souweine, [Charles Joseph Cerf]</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Karel Versnaeyen</field>
+<field name="librettistSort">Versnaeyen, Karel</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Rat+in+de+val+Charles+Joseph+Cerf]+Souweine&amp;search_field=search</field>
+</doc>
+</add>

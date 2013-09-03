@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127034</field>
+<field name="genre">Operas</field>
+<field name="title">Flugt og Farce</field>
+<field name="titleSort">Flugt og Farce</field>
+<field name="composer">Henrik Rung</field>
+<field name="composerSort">Rung, Henrik</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">Sille Beyer</field>
+<field name="librettistSort">Beyer, Sille</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Flugt+og+Farce+Henrik+Rung&amp;search_field=search</field>
+</doc>
+</add>

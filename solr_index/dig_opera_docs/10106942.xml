@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106942</field>
+<field name="genre">Operas</field>
+<field name="title">Gustavo d'Orxa</field>
+<field name="titleSort">Gustavo d'Orxa</field>
+<field name="composer">Alessandro Curmi</field>
+<field name="composerSort">Curmi, Alessandro</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Domenico Gilardoni</field>
+<field name="librettistSort">Gilardoni, Domenico</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gustavo+d'Orxa+Alessandro+Curmi&amp;search_field=search</field>
+</doc>
+</add>

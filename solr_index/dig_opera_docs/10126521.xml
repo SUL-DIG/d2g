@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126521</field>
+<field name="genre">Operas</field>
+<field name="title">Une fausse alerte</field>
+<field name="titleSort">fausse alerte</field>
+<field name="composer">__ Rolly</field>
+<field name="composerSort">Rolly, __</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+fausse+alerte+__+Rolly&amp;search_field=search</field>
+</doc>
+</add>

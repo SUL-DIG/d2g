@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201226</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther, the Beautiful Queen</field>
+		<field name="titleSort">Esther, the Beautiful Queen</field>
+		<field name="year">1856</field>
+		<field name="month">October</field>
+		<field name="day">24</field>
+		<field name="date">October 24, 1856</field>
+		<field name="composer">William Batchelder Bradbury</field>
+		<field name="composerSort">Bradbury, William Batchelder</field>
+		<field name="librettist">Chauncey Marvin Cady</field>
+		<field name="librettistSort">Cady, Chauncey Marvin</field>
+		
+		
+		<field name="city">Peoria</field>
+		<field name="region">Illinois</field>
+		<field name="country">United States</field>
+		<field name="subject">Ahasuerus makes Esther his Queen</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther,+the+Beautiful+Queen+William+Batchelder+Bradbury&amp;search_field=search</field>
+	</doc></add>

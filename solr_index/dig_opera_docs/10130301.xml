@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130301</field>
+<field name="genre">Operas</field>
+<field name="title">"Cox and Box, or The Long-Lost Brothers</field>
+<field name="titleSort">"Cox and Box, or The Long-Lost Brothers"</field>
+<field name="composer">Arthur Sullivan</field>
+<field name="composerSort">Sullivan, Arthur</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Francis Cowley Burnand</field>
+<field name="librettistSort">Burnand, Francis Cowley</field>
+<field name="librettist">John Maddison Morton</field>
+<field name="librettistSort">Morton, John Maddison</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cox+and+Box,+or+The+Long-Lost+Brothers+Arthur+Sullivan&amp;search_field=search</field>
+</doc>
+</add>

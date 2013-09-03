@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106841</field>
+<field name="genre">Operas</field>
+<field name="title">Mac Hulott</field>
+<field name="titleSort">Mac Hulott</field>
+<field name="composer">Paul Cressonois</field>
+<field name="composerSort">Cressonois, Paul</field>
+<field name="year">1875</field>
+<field name="date">1875</field><field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mac+Hulott+Paul+Cressonois&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113311</field>
+<field name="genre">Operas</field>
+<field name="title">Nichts Neues aus Perugia</field>
+<field name="titleSort">Nichts Neues aus Perugia</field>
+<field name="composer">Werner Haentjes</field>
+<field name="composerSort">Haentjes, Werner</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Werner Haentjes</field>
+<field name="librettistSort">Haentjes, Werner</field>
+<field name="librettist">Helmut Reinhold</field>
+<field name="librettistSort">Reinhold, Helmut</field>
+<field name="theater">Opera der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nichts+Neues+aus+Perugia+Werner+Haentjes&amp;search_field=search</field>
+</doc>
+</add>

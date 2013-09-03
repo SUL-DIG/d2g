@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130917</field>
+<field name="genre">Operas</field>
+<field name="title">Le songe d'une nuit d'été</field>
+<field name="titleSort">songe d'une nuit d'été</field>
+<field name="composer">Ambroise Thomas</field>
+<field name="composerSort">Thomas, Ambroise</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Joseph-Bernard Rosier</field>
+<field name="librettistSort">Rosier, Joseph-Bernard</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+songe+d'une+nuit+d'été+Ambroise+Thomas&amp;search_field=search</field>
+</doc>
+</add>

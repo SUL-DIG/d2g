@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113295</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Hani</field>
+<field name="titleSort">Legend of Hani</field>
+<field name="composer">Henry Hadley</field>
+<field name="composerSort">Hadley, Henry</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Junius Cravens</field>
+<field name="librettistSort">Cravens, Junius</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Hani+Henry+Hadley&amp;search_field=search</field>
+</doc>
+</add>

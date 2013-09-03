@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107669</field>
+<field name="genre">Operas</field>
+<field name="title">Lourdes</field>
+<field name="titleSort">Lourdes</field>
+<field name="composer">Lorenzo Devalle</field>
+<field name="composerSort">Devalle, Lorenzo</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Emilio Perugini</field>
+<field name="librettistSort">Perugini, Emilio</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Dogliani</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lourdes+Lorenzo+Devalle&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107047</field>
+<field name="genre">Operas</field>
+<field name="title">La corte di Napoleone</field>
+<field name="titleSort">corte di Napoleone</field>
+<field name="composer">Luigi Dall'Argine</field>
+<field name="composerSort">Dall'Argine, Luigi</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Luigi Dall'Argine</field>
+<field name="librettistSort">Dall'Argine, Luigi</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="theater">Teatro Nacional</field>
+<field name="city">Montevideo</field>
+
+<field name="country">Uruguay</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+corte+di+Napoleone+Luigi+Dall'Argine&amp;search_field=search</field>
+</doc>
+</add>

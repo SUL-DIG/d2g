@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110047</field>
+<field name="genre">Operas</field>
+<field name="title">The Sisters</field>
+<field name="titleSort">Sisters</field>
+<field name="composer">Nicolas Flagello</field>
+<field name="composerSort">Flagello, Nicolas</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Dean Mundy</field>
+<field name="librettistSort">Mundy, Dean</field>
+<field name="theater">Manhattan School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sisters+Nicolas+Flagello&amp;search_field=search</field>
+</doc>
+</add>

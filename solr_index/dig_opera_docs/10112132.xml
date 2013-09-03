@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112132</field>
+<field name="genre">Operas</field>
+<field name="title">Hydrogen Jukebox</field>
+<field name="titleSort">Hydrogen Jukebox</field>
+<field name="composer">Philip Glass</field>
+<field name="composerSort">Glass, Philip</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Allen Ginsberg</field>
+<field name="librettistSort">Ginsberg, Allen</field>
+<field name="theater">American Music Theater Festival</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hydrogen+Jukebox+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

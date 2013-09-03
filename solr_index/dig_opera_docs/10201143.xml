@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201143</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'Epulone</field>
+		<field name="titleSort">Epulone</field>
+		<field name="year">1675</field>
+		
+		
+		<field name="date">1675</field>
+		<field name="composer">Giovanni Battista Bassani</field>
+		<field name="composerSort">Bassani, Giovanni Battista</field>
+		
+		
+		<field name="theater">Confraternita della Morte</field>
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Rich Man and Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Epulone+Giovanni+Battista+Bassani&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101743</field>
+<field name="genre">Operas</field>
+<field name="title">La pomme d'Adam</field>
+<field name="titleSort">pomme d'Adam</field>
+<field name="composer">Antoine Banès</field>
+<field name="composerSort">Banès, Antoine</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Lucien Augé de Lassus</field>
+<field name="librettistSort">Augé de Lassus, Lucien</field>
+<field name="theater">Casino</field>
+<field name="city">Trouville-sur-Mer</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pomme+d'Adam+Antoine+Banès&amp;search_field=search</field>
+</doc>
+</add>

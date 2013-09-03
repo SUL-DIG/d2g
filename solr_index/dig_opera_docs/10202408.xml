@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202408</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Kosciuszko</field>
+		<field name="titleSort">Kosciuszko</field>
+		<field name="year">1924</field>
+		
+		
+		<field name="date">1924</field>
+		<field name="composer">Feliks Nowowiejski</field>
+		<field name="composerSort">Nowowiejski, Feliks</field>
+		<field name="librettist">Wladyslaw Mieczyslaw Kozlowski</field>
+		<field name="librettistSort">Kozlowski, Wladyslaw Mieczy</field>
+		
+		
+		
+		
+		
+		<field name="subject">Thaddeus Kosciusko</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kosciuszko+Feliks+Nowowiejski&amp;search_field=search</field>
+	</doc></add>

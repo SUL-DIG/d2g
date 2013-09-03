@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123866</field>
+<field name="genre">Operas</field>
+<field name="title">"Rodelinda, regina de' langobardi</field>
+<field name="titleSort">"Rodelinda, regina de' langobardi"</field>
+<field name="composer">Giacomo Antonio Perti</field>
+<field name="composerSort">Perti, Giacomo Antonio</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="librettist">Pierre Corneille</field>
+<field name="librettistSort">Corneille, Pierre</field>
+<field name="theater">Villa Medicea</field>
+<field name="city">Pratolino</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rodelinda,+regina+de'+langobardi+Giacomo+Antonio+Perti&amp;search_field=search</field>
+</doc>
+</add>

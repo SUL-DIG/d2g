@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104264</field>
+<field name="genre">Operas</field>
+<field name="title">The Two Suitors</field>
+<field name="titleSort">Two Suitors</field>
+<field name="composer">Colin Brumby</field>
+<field name="composerSort">Brumby, Colin</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Colin Brumby</field>
+<field name="librettistSort">Brumby, Colin</field>
+
+<field name="city">Rockhampton</field>
+<field name="region">Queensland</field>
+<field name="country">Australia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Two+Suitors+Colin+Brumby&amp;search_field=search</field>
+</doc>
+</add>

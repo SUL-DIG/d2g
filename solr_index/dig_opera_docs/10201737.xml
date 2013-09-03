@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201737</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die glück-seeligst vermählte and bis zum höchsten Gipfel der ehren erhobene Durchläuchtige Braut Esther</field>
+		<field name="titleSort">glück-seeligst vermählte and bis zum höchsten Gipfel der ehren erhobene Durchläuchtige Braut Esther</field>
+		<field name="year">1746</field>
+		<field name="month">April</field>
+		<field name="day">8</field>
+		<field name="date">April 8, 1746</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">Ahasuerus makes Esther his Queen</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+glück-seeligst+vermählte+and+bis+zum+höchsten+Gipfel+der+ehren+erhobene+Durchläuchtige+Braut+Esther+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

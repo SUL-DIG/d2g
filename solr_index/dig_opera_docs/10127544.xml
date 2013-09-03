@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127544</field>
+<field name="genre">Operas</field>
+<field name="title">Tarass Boulba</field>
+<field name="titleSort">Tarass Boulba</field>
+<field name="composer">Marcel Samuel-Rousseau</field>
+<field name="composerSort">Samuel-Rousseau, Marcel</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Louis de Gramont</field>
+<field name="librettistSort">Gramont, Louis de</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Théâtre-Lyrique du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tarass+Boulba+Marcel+Samuel-Rousseau&amp;search_field=search</field>
+</doc>
+</add>

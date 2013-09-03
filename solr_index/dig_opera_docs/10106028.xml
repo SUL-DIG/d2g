@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106028</field>
+<field name="genre">Operas</field>
+<field name="title">Charbonnier et maître chez lui</field>
+<field name="titleSort">Charbonnier et maître chez lui</field>
+<field name="composer">[Édouard Nicolaïe] Clairville (fils)</field>
+<field name="composerSort">Clairville (fils), [Édouard Nicolaïe]</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">[Louis-François Nicolaïe] Clairville</field>
+<field name="librettistSort">Clairville, [Louis-François Nicolaïe]</field>
+<field name="librettist">William Busnach</field>
+<field name="librettistSort">Busnach, William</field>
+<field name="theater">Théâtre du Château d'eau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Charbonnier+et+maître+chez+lui+Édouard+Nicolaïe]+Clairville+fils&amp;search_field=search</field>
+</doc>
+</add>

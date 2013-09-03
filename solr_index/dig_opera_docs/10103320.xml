@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103320</field>
+<field name="genre">Operas</field>
+<field name="title">Dorval e Virginia</field>
+<field name="titleSort">Dorval e Virginia</field>
+<field name="composer">Luigi Boccherini</field>
+<field name="composerSort">Boccherini, Luigi</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dorval+e+Virginia+Luigi+Boccherini&amp;search_field=search</field>
+</doc>
+</add>

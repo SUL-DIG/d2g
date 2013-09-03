@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119886</field>
+<field name="genre">Operas</field>
+<field name="title">Fräulein Blaubart</field>
+<field name="titleSort">Fräulein Blaubart</field>
+<field name="composer">Hans May</field>
+<field name="composerSort">May, Hans</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Alexander Pordes-Milo</field>
+<field name="librettistSort">Pordes-Milo, Alexander</field>
+<field name="librettist">Ernst Neubach</field>
+<field name="librettistSort">Neubach, Ernst</field>
+<field name="theater">Lustspieltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fräulein+Blaubart+Hans+May&amp;search_field=search</field>
+</doc>
+</add>

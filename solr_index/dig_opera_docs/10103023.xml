@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103023</field>
+<field name="genre">Operas</field>
+<field name="title">Premier Aoыt</field>
+<field name="titleSort">Premier Aoыt</field>
+<field name="composer">Jean Binet</field>
+<field name="composerSort">Binet, Jean</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">William Aguet</field>
+<field name="librettistSort">Aguet, William</field>
+<field name="theater">SSR Radio (Société Suisse de Radiodiffusion)</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Premier+Aoыt+Jean+Binet&amp;search_field=search</field>
+</doc>
+</add>

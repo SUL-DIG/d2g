@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102471</field>
+<field name="genre">Operas</field>
+<field name="title">Det sjungande trädet (The Singing Tree)</field>
+<field name="titleSort">sjungande trädet (The Singing Tree)</field>
+<field name="composer">Erik Bergman</field>
+<field name="composerSort">Bergman, Erik</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Bo Carpelan</field>
+<field name="librettistSort">Carpelan, Bo</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Det+sjungande+trädet+The+Singing+Tree+Erik+Bergman&amp;search_field=search</field>
+</doc>
+</add>

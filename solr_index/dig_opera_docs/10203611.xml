@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203611</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Revelation or Vision of Saint John in the Isle of Patmos</field>
+		<field name="titleSort">Revelation or Vision of Saint John in the Isle of Patmos</field>
+		<field name="year">1882</field>
+		
+		
+		<field name="date">1882</field>
+		<field name="composer">George William Torrance</field>
+		<field name="composerSort">Torrance, George William</field>
+		
+		
+		<field name="theater">Holy Trinity Church</field>
+		<field name="city">Balaclava (Melbourne)</field>
+		<field name="region">Victoria</field>
+		<field name="country">Australia</field>
+		<field name="subject">The Apocalypse</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Revelation+or+Vision+of+Saint+John+in+the+Isle+of+Patmos+George+William+Torrance&amp;search_field=search</field>
+	</doc></add>

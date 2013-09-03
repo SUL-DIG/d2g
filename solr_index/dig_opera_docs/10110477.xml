@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110477</field>
+<field name="genre">Operas</field>
+<field name="title">The Chilkoot Maiden</field>
+<field name="titleSort">Chilkoot Maiden</field>
+<field name="composer">Eleanor Everest Freer</field>
+<field name="composerSort">Freer, Eleanor Everest</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Eleanor Everest Freer</field>
+<field name="librettistSort">Freer, Eleanor Everest</field>
+
+<field name="city">Skagway</field>
+<field name="region">Alaska</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Chilkoot+Maiden+Eleanor+Everest+Freer&amp;search_field=search</field>
+</doc>
+</add>

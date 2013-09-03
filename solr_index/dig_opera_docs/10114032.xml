@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114032</field>
+<field name="genre">Operas</field>
+<field name="title">Lavinia</field>
+<field name="titleSort">Lavinia</field>
+<field name="composer">Chevalier d'Herbain</field>
+<field name="composerSort">d'Herbain, Chevalier</field>
+<field name="year">1753</field>
+<field name="date">1753</field><field name="theater">Teatro Pubblico</field>
+<field name="city">Bastia</field>
+<field name="region">Corsica</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lavinia+Chevalier+d'Herbain&amp;search_field=search</field>
+</doc>
+</add>

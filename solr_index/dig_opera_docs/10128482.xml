@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128482</field>
+<field name="genre">Operas</field>
+<field name="title">Vor der Hochzeit</field>
+<field name="titleSort">Vor der Hochzeit</field>
+<field name="composer">Louis Schubert</field>
+<field name="composerSort">Schubert, Louis</field>
+<field name="year">1880</field>
+<field name="date">1880</field><field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vor+der+Hochzeit+Louis+Schubert&amp;search_field=search</field>
+</doc>
+</add>

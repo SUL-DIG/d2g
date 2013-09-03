@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101785</field>
+<field name="genre">Operas</field>
+<field name="title">Clara de Belleville</field>
+<field name="titleSort">Clara de Belleville</field>
+<field name="composer">Marc'Antonio Barbabietola</field>
+<field name="composerSort">Barbabietola, Marc'Antonio</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Giuseppe Nicossa</field>
+<field name="librettistSort">Nicossa, Giuseppe</field>
+<field name="theater">Politeama Pacini</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clara+de+Belleville+Marc'Antonio+Barbabietola&amp;search_field=search</field>
+</doc>
+</add>

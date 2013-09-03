@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117585</field>
+<field name="genre">Operas</field>
+<field name="title">"Emilie et Melcour, ou La leçon villageoise</field>
+<field name="titleSort">"Emilie et Melcour, ou La leçon villageoise"</field>
+<field name="composer">Louis-Sébastien Lebrun</field>
+<field name="composerSort">Lebrun, Louis-Sébastien</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Louis Hennequin</field>
+<field name="librettistSort">Hennequin, Louis</field>
+<field name="theater">Salle de la rue Louvois</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emilie+et+Melcour,+ou+La+leçon+villageoise+Louis-Sébastien+Lebrun&amp;search_field=search</field>
+</doc>
+</add>

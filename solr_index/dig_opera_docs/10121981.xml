@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121981</field>
+<field name="genre">Operas</field>
+<field name="title">Die Königin von Gamarra</field>
+<field name="titleSort">Königin von Gamarra</field>
+<field name="composer">Alexander Neumann</field>
+<field name="composerSort">Neumann, Alexander</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Königin+von+Gamarra+Alexander+Neumann&amp;search_field=search</field>
+</doc>
+</add>

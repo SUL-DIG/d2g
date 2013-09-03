@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107122</field>
+<field name="genre">Operas</field>
+<field name="title">Der Sylphe</field>
+<field name="titleSort">Sylphe</field>
+<field name="composer">Franz Danzi</field>
+<field name="composerSort">Danzi, Franz</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Friedrich Ludwig Wilhelm Meyer</field>
+<field name="librettistSort">Meyer, Friedrich Ludwig Wilhelm</field>
+
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sylphe+Franz+Danzi&amp;search_field=search</field>
+</doc>
+</add>

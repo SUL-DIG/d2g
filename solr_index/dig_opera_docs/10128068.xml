@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128068</field>
+<field name="genre">Operas</field>
+<field name="title">Merope</field>
+<field name="titleSort">Merope</field>
+<field name="composer">Giuseppe Scarlatti</field>
+<field name="composerSort">Scarlatti, Giuseppe</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Merope+Giuseppe+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

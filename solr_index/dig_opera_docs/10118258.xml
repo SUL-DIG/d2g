@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118258</field>
+<field name="genre">Operas</field>
+<field name="title">La presa d'Egea</field>
+<field name="titleSort">presa d'Egea</field>
+<field name="composer">Giovanni Liverati</field>
+<field name="composerSort">Liverati, Giovanni</field>
+<field name="year">1809</field>
+<field name="date">1809</field><field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+presa+d'Egea+Giovanni+Liverati&amp;search_field=search</field>
+</doc>
+</add>

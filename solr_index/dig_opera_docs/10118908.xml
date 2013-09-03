@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118908</field>
+<field name="genre">Operas</field>
+<field name="title">La Tolédane</field>
+<field name="titleSort">Tolédane</field>
+<field name="composer">[Magnus Deutz] Magnus</field>
+<field name="composerSort">Magnus, [Magnus Deutz]</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Bernard de Lopez</field>
+<field name="librettistSort">Lopez, Bernard de</field>
+<field name="theater">Théâtre Taitbout</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Tolédane+Magnus+Deutz]+Magnus&amp;search_field=search</field>
+</doc>
+</add>

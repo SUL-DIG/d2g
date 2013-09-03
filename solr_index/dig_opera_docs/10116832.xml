@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116832</field>
+<field name="genre">Operas</field>
+<field name="title">Laska Imperatora (The Emperor's Staff)</field>
+<field name="titleSort">Laska Imperatora (The Emperor's Staff)</field>
+<field name="composer">Karol Kazimierz Kurpinski</field>
+<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Ludwik Adam Dmuszewski</field>
+<field name="librettistSort">Dmuszewski, Ludwik Adam</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laska+Imperatora+The+Emperor's+Staff+Karol+Kazimierz+Kurpinski&amp;search_field=search</field>
+</doc>
+</add>

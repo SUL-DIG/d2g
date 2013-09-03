@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133227</field>
+<field name="genre">Operas</field>
+<field name="title">Codrillo</field>
+<field name="titleSort">Codrillo</field>
+<field name="composer">Rudolf Wurmb</field>
+<field name="composerSort">Wurmb, Rudolf</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Rudolf Wurmb</field>
+<field name="librettistSort">Wurmb, Rudolf</field>
+<field name="theater">Schloss Esterháza</field>
+<field name="city">Fertöd</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Codrillo+Rudolf+Wurmb&amp;search_field=search</field>
+</doc>
+</add>

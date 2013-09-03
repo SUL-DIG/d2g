@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126143</field>
+<field name="genre">Operas</field>
+<field name="title">Die Mitschuldigen</field>
+<field name="titleSort">Mitschuldigen</field>
+<field name="composer">Helmut Riethmüller</field>
+<field name="composerSort">Riethmüller, Helmut</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Helmut Riethmüller</field>
+<field name="librettistSort">Riethmüller, Helmut</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Mitschuldigen+Helmut+Riethmüller&amp;search_field=search</field>
+</doc>
+</add>

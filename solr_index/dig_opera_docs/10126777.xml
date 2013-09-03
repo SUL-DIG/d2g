@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126777</field>
+<field name="genre">Operas</field>
+<field name="title">Il palazzo incantato</field>
+<field name="titleSort">palazzo incantato</field>
+<field name="composer">Luigi Rossi</field>
+<field name="composerSort">Rossi, Luigi</field>
+<field name="year">1642</field>
+<field name="date">1642</field>
+<field name="librettist">Giulio Rospigliosi</field>
+<field name="librettistSort">Rospigliosi, Giulio</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Palazzo Barberini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+palazzo+incantato+Luigi+Rossi&amp;search_field=search</field>
+</doc>
+</add>

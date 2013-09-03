@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130413</field>
+<field name="genre">Operas</field>
+<field name="title">Ugrabitev z Laudaskega jezera</field>
+<field name="titleSort">Ugrabitev z Laudaskega jezera</field>
+<field name="composer">Tomaz Svete</field>
+<field name="composerSort">Svete, Tomaz</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Tomaz Svete</field>
+<field name="librettistSort">Svete, Tomaz</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ugrabitev+z+Laudaskega+jezera+Tomaz+Svete&amp;search_field=search</field>
+</doc>
+</add>

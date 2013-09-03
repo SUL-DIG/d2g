@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109694</field>
+<field name="genre">Operas</field>
+<field name="title">Le calze di Rosetta</field>
+<field name="titleSort">calze di Rosetta</field>
+<field name="composer">Edoardo Fiaccone</field>
+<field name="composerSort">Fiaccone, Edoardo</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Giovanni dei Baciccia] Dottor Magerta</field>
+<field name="librettistSort">Magerta, Dottor [Giovanni dei Baciccia]</field>
+
+<field name="city">Stresa</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+calze+di+Rosetta+Edoardo+Fiaccone&amp;search_field=search</field>
+</doc>
+</add>

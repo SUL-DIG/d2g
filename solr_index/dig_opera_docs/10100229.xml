@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100229</field>
+<field name="genre">Operas</field>
+<field name="title">Il cavaliere del sogno</field>
+<field name="titleSort">cavaliere del sogno</field>
+<field name="composer">Mezio Agostini</field>
+<field name="composerSort">Agostini, Mezio</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Alfredo Saviotti</field>
+<field name="librettistSort">Saviotti, Alfredo</field>
+<field name="librettist">Giovanni Mangaroni-Brancati</field>
+<field name="librettistSort">Mangaroni-Brancati, Giovanni</field>
+<field name="theater">Teatro della Fortuna</field>
+<field name="city">Fano</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cavaliere+del+sogno+Mezio+Agostini&amp;search_field=search</field>
+</doc>
+</add>

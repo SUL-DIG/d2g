@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126868</field>
+<field name="genre">Operas</field>
+<field name="title">Il sogno d'una notte d'estate</field>
+<field name="titleSort">sogno d'una notte d'estate</field>
+<field name="composer">Ugo Roti</field>
+<field name="composerSort">Roti, Ugo</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Mario Olmi</field>
+<field name="librettistSort">Olmi, Mario</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Palestra Ristori</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+d'una+notte+d'estate+Ugo+Roti&amp;search_field=search</field>
+</doc>
+</add>

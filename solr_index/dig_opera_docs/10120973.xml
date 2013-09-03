@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120973</field>
+<field name="genre">Operas</field>
+<field name="title">Le déserteur</field>
+<field name="titleSort">déserteur</field>
+<field name="composer">Pierre-Alexandre Monsigny</field>
+<field name="composerSort">Monsigny, Pierre-Alexandre</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+déserteur+Pierre-Alexandre+Monsigny&amp;search_field=search</field>
+</doc>
+</add>

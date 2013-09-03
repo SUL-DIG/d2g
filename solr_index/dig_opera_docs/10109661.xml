@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109661</field>
+<field name="genre">Operas</field>
+<field name="title">La battaglia di dame</field>
+<field name="titleSort">battaglia di dame</field>
+<field name="composer">Giovanni Ferrua</field>
+<field name="composerSort">Ferrua, Giovanni</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Maurizio Toussaint</field>
+<field name="librettistSort">Toussaint, Maurizio</field>
+<field name="theater">Circolo degli Artisti</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+battaglia+di+dame+Giovanni+Ferrua&amp;search_field=search</field>
+</doc>
+</add>

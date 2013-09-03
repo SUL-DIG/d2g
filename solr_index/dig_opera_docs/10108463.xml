@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108463</field>
+<field name="genre">Operas</field>
+<field name="title">Korylla</field>
+<field name="titleSort">Korylla</field>
+<field name="composer">Stanislaw Duniecki</field>
+<field name="composerSort">Duniecki, Stanislaw</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Pawel Duniecki</field>
+<field name="librettistSort">Duniecki, Pawel</field>
+
+<field name="city">L'viv</field>
+<field name="region">L'vivs'ka Oblast</field>
+<field name="country">Ukraine</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Korylla+Stanislaw+Duniecki&amp;search_field=search</field>
+</doc>
+</add>

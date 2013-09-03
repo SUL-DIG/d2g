@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126135</field>
+<field name="genre">Operas</field>
+<field name="title">Bianca Siffredi</field>
+<field name="titleSort">Bianca Siffredi</field>
+<field name="composer">Robert Riemann</field>
+<field name="composerSort">Riemann, Robert</field>
+<field name="year">1882</field>
+<field name="date">1882</field><field name="theater">Fürstliches Theater</field>
+<field name="city">Sondershausen</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bianca+Siffredi+Robert+Riemann&amp;search_field=search</field>
+</doc>
+</add>

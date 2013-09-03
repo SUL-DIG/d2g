@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112303</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Flirt</field>
+<field name="titleSort">Madame Flirt</field>
+<field name="composer">Anselm Goetzl</field>
+<field name="composerSort">Goetzl, Anselm</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Fritz Grünbaum</field>
+<field name="librettistSort">Grünbaum, Fritz</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Flirt+Anselm+Goetzl&amp;search_field=search</field>
+</doc>
+</add>

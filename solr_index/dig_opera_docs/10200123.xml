@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200123</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Agare</field>
+		<field name="titleSort">Agare</field>
+		<field name="year">1671</field>
+		<field name="month">February</field>
+		
+		<field name="date">February 1671</field>
+		<field name="composer">Giovanni Battista Vitali</field>
+		<field name="composerSort">Vitali, Giovanni Battista</field>
+		<field name="librettist">Giovanni Battista Mauritio</field>
+		<field name="librettistSort">Mauritio, Giovanni Battista</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Hagar and Ishmael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agare+Giovanni+Battista+Vitali&amp;search_field=search</field>
+	</doc></add>

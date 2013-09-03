@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201146</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Erat quidam languens</field>
+		<field name="titleSort">Erat quidam languens</field>
+		
+		
+		
+		
+		<field name="composer">Marco Marazzoli</field>
+		<field name="composerSort">Marazzoli, Marco</field>
+		
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erat+quidam+languens+Marco+Marazzoli&amp;search_field=search</field>
+	</doc></add>

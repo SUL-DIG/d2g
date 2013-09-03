@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128845</field>
+<field name="genre">Operas</field>
+<field name="title">Tout s'arrange</field>
+<field name="titleSort">Tout s'arrange</field>
+<field name="composer">Georges de Seigneux</field>
+<field name="composerSort">Seigneux, Georges de</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Georges de Seigneux</field>
+<field name="librettistSort">Seigneux, Georges de</field>
+<field name="theater">Casino de Saint-Pierre</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tout+s'arrange+Georges+de+Seigneux&amp;search_field=search</field>
+</doc>
+</add>

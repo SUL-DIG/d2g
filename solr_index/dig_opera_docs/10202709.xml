@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202709</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il matrimonio di Mosè</field>
+		<field name="titleSort">matrimonio di Mosè</field>
+		<field name="year">1684</field>
+		
+		
+		<field name="date">1684</field>
+		<field name="composer">Vincenzo De Grandis</field>
+		<field name="composerSort">De Grandis, Vincenzo</field>
+		<field name="librettist">Giovanni Battista Giardini</field>
+		<field name="librettistSort">Giardini, Giovanni Battista</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses marries Zipporah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+di+Mosè+Vincenzo+De+Grandis&amp;search_field=search</field>
+	</doc></add>

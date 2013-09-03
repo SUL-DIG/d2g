@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120005</field>
+<field name="genre">Operas</field>
+<field name="title">Laerte Porsenna</field>
+<field name="titleSort">Laerte Porsenna</field>
+<field name="composer">Prospero Mazzi</field>
+<field name="composerSort">Mazzi, Prospero</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laerte+Porsenna+Prospero+Mazzi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133133</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore medico</field>
+<field name="titleSort">amore medico</field>
+<field name="composer">Ermanno Wolf-Ferrari</field>
+<field name="composerSort">Wolf-Ferrari, Ermanno</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+medico+Ermanno+Wolf-Ferrari&amp;search_field=search</field>
+</doc>
+</add>

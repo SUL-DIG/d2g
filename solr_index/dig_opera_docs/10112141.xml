@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112141</field>
+<field name="genre">Operas</field>
+<field name="title">Buffalmacco</field>
+<field name="titleSort">Buffalmacco</field>
+<field name="composer">Rudolf Glickh</field>
+<field name="composerSort">Glickh, Rudolf</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Balduin Gröller</field>
+<field name="librettistSort">Gröller, Balduin</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Buffalmacco+Rudolf+Glickh&amp;search_field=search</field>
+</doc>
+</add>

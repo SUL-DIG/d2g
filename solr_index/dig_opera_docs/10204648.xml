@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204648</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della penitenza</field>
+		<field name="titleSort">trionfo della penitenza</field>
+		<field name="year">1709</field>
+		
+		
+		<field name="date">1709</field>
+		<field name="composer">Gordiano Moretti</field>
+		<field name="composerSort">Moretti, Gordiano</field>
+		<field name="librettist">Giovanni Giuseppe Antonelli</field>
+		<field name="librettistSort">Antonelli, Giovanni Giusepp</field>
+		
+		
+		<field name="city">Palestrina</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+penitenza+Gordiano+Moretti&amp;search_field=search</field>
+	</doc></add>

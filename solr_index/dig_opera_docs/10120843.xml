@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120843</field>
+<field name="genre">Operas</field>
+<field name="title">La storia del fi</field>
+<field name="titleSort">storia del fi</field>
+<field name="composer">Cesare Molar</field>
+<field name="composerSort">Molar, Cesare</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Enrico Maria Chiappa</field>
+<field name="librettistSort">Chiappa, Enrico Maria</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+storia+del+fi+Cesare+Molar&amp;search_field=search</field>
+</doc>
+</add>

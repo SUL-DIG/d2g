@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201685</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuseppe in Galaad</field>
+		<field name="titleSort">Giuseppe in Galaad</field>
+		<field name="year">1785</field>
+		
+		
+		<field name="date">1785</field>
+		<field name="composer">Bonifazio Asioli</field>
+		<field name="composerSort">Asioli, Bonifazio</field>
+		
+		
+		
+		<field name="city">Correggio</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuseppe+in+Galaad+Bonifazio+Asioli&amp;search_field=search</field>
+	</doc></add>

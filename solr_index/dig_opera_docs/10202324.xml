@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202324</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Judith</field>
+		<field name="titleSort">Judith</field>
+		<field name="year">1646</field>
+		
+		
+		<field name="date">1646</field>
+		<field name="composer">Matthäus Apelles Löwenstein</field>
+		<field name="composerSort">Löwenstein, Matthäus Apelles</field>
+		<field name="librettist">Martin Opitz</field>
+		<field name="librettistSort">Opitz, Martin</field>
+		
+		
+		
+		
+		
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Judith+Matthäus+Apelles+Löwenstein&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131414</field>
+<field name="genre">Operas</field>
+<field name="title">The Wandering Scholar</field>
+<field name="titleSort">Wandering Scholar</field>
+<field name="composer">Stanley Trogen</field>
+<field name="composerSort">Trogen, Stanley</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Hans Sachs</field>
+<field name="librettistSort">Sachs, Hans</field>
+<field name="theater">Premier Productions</field>
+<field name="city">Portland</field>
+<field name="region">Oregon</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wandering+Scholar+Stanley+Trogen&amp;search_field=search</field>
+</doc>
+</add>

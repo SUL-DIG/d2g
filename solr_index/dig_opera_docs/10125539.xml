@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125539</field>
+<field name="genre">Operas</field>
+<field name="title">Les sybarites</field>
+<field name="titleSort">sybarites</field>
+<field name="composer">Jean-Philippe Rameau</field>
+<field name="composerSort">Rameau, Jean-Philippe</field>
+<field name="year">1753</field>
+<field name="date">1753</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sybarites+Jean-Philippe+Rameau&amp;search_field=search</field>
+</doc>
+</add>

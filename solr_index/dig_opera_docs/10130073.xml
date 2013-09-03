@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130073</field>
+<field name="genre">Operas</field>
+<field name="title">Löwen im Dorfe</field>
+<field name="titleSort">Löwen im Dorfe</field>
+<field name="composer">Anton Maria Storch</field>
+<field name="composerSort">Storch, Anton Maria</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">[Leopold Karl Dittmar Kohl von Kohlenegg] Poly Henrion</field>
+<field name="librettistSort">Henrion, Poly [Leopold Karl Dittmar Kohl von Kohlenegg]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Löwen+im+Dorfe+Anton+Maria+Storch&amp;search_field=search</field>
+</doc>
+</add>

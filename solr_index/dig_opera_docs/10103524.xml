@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103524</field>
+<field name="genre">Operas</field>
+<field name="title">Gli sdegni d'amore</field>
+<field name="titleSort">sdegni d'amore</field>
+<field name="composer">Francesco Bonini</field>
+<field name="composerSort">Bonini, Francesco</field>
+<field name="year">1646</field>
+<field name="date">1646</field>
+<field name="librettist">Nicolò Turchi Zoppio</field>
+<field name="librettistSort">Turchi Zoppio, Nicolò</field>
+<field name="theater">Teatro Guastavillani</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+sdegni+d'amore+Francesco+Bonini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121376</field>
+<field name="genre">Operas</field>
+<field name="title">Le stravaganze d'amore</field>
+<field name="titleSort">stravaganze d'amore</field>
+<field name="composer">Luigi Mosca</field>
+<field name="composerSort">Mosca, Luigi</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Francesco Saverio Zini</field>
+<field name="librettistSort">Zini, Francesco Saverio</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+stravaganze+d'amore+Luigi+Mosca&amp;search_field=search</field>
+</doc>
+</add>

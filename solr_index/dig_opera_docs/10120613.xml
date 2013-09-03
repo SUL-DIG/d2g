@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120613</field>
+<field name="genre">Operas</field>
+<field name="title">Eliána</field>
+<field name="titleSort">Eliána</field>
+<field name="composer">Ödön Mihalovich</field>
+<field name="composerSort">Mihalovich, Ödön</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Hans Herrig</field>
+<field name="librettistSort">Herrig, Hans</field>
+<field name="librettist">"Alfred, Lord Tennyson"</field>
+<field name="librettistSort">Tennyson, Alfred, Lord</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eliána+Ödön+Mihalovich&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120852</field>
+<field name="genre">Operas</field>
+<field name="title">Les barbets</field>
+<field name="titleSort">barbets</field>
+<field name="composer">Charles Molé</field>
+<field name="composerSort">Molé, Charles</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+barbets+Charles+Molé&amp;search_field=search</field>
+</doc>
+</add>

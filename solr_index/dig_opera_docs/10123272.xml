@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123272</field>
+<field name="genre">Operas</field>
+<field name="title">Jenny</field>
+<field name="titleSort">Jenny</field>
+<field name="composer">Federico Parisini</field>
+<field name="composerSort">Parisini, Federico</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Filippo Calvi</field>
+<field name="librettistSort">Calvi, Filippo</field>
+<field name="theater">Scuola Normale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jenny+Federico+Parisini&amp;search_field=search</field>
+</doc>
+</add>

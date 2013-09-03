@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101081</field>
+<field name="genre">Operas</field>
+<field name="title">Love in Transit</field>
+<field name="titleSort">Love in Transit</field>
+<field name="composer">Richard Arnell</field>
+<field name="composerSort">Arnell, Richard</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Hal Burton</field>
+<field name="librettistSort">Burton, Hal"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+in+Transit+Richard+Arnell&amp;search_field=search</field>
+</doc>
+</add>

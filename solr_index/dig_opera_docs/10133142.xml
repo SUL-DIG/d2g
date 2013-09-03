@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133142</field>
+<field name="genre">Operas</field>
+<field name="title">Il segreto di Susanna</field>
+<field name="titleSort">segreto di Susanna</field>
+<field name="composer">Ermanno Wolf-Ferrari</field>
+<field name="composerSort">Wolf-Ferrari, Ermanno</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+segreto+di+Susanna+Ermanno+Wolf-Ferrari&amp;search_field=search</field>
+</doc>
+</add>

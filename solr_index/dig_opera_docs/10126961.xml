@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126961</field>
+<field name="genre">Operas</field>
+<field name="title">Moses</field>
+<field name="titleSort">Moses</field>
+<field name="composer">Anton Rubinstein</field>
+<field name="composerSort">Rubinstein, Anton</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Salomon Hermann Mosenthal</field>
+<field name="librettistSort">Mosenthal, Salomon Hermann</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+Anton+Rubinstein&amp;search_field=search</field>
+</doc>
+</add>

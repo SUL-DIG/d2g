@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115035</field>
+<field name="genre">Operas</field>
+<field name="title">Winnie the Pooh</field>
+<field name="titleSort">Winnie the Pooh</field>
+<field name="composer">Brian Israel</field>
+<field name="composerSort">Israel, Brian</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Joseph Israel</field>
+<field name="librettistSort">Israel, Joseph</field>
+<field name="librettist">Alan Alexander Milne</field>
+<field name="librettistSort">Milne, Alan Alexander</field>
+<field name="theater">Opera Theater</field>
+<field name="city">Syracuse</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Winnie+the+Pooh+Brian+Israel&amp;search_field=search</field>
+</doc>
+</add>

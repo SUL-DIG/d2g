@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129972</field>
+<field name="genre">Operas</field>
+<field name="title">"Behalt mich lieb, Chérie</field>
+<field name="titleSort">"Behalt mich lieb, Chérie"</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Alfred Morenau</field>
+<field name="librettistSort">Morenau, Alfred</field>
+<field name="theater">Radio Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Behalt+mich+lieb,+Chérie+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

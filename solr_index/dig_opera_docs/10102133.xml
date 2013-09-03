@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102133</field>
+<field name="genre">Operas</field>
+<field name="title">Le jugement d'Apollon</field>
+<field name="titleSort">jugement d'Apollon</field>
+<field name="composer">Franz Ignaz Beck</field>
+<field name="composerSort">Beck, Franz Ignaz</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">__ Blincourt</field>
+<field name="librettistSort">Blincourt, __</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jugement+d'Apollon+Franz+Ignaz+Beck&amp;search_field=search</field>
+</doc>
+</add>

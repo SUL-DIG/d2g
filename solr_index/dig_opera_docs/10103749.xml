@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103749</field>
+<field name="genre">Operas</field>
+<field name="title">"Le Klapperman, ou Le crieur de nuit d'Amsterdam</field>
+<field name="titleSort">"Klapperman, ou crieur de nuit d'Amsterdam"</field>
+<field name="composer">Joseph Borremans</field>
+<field name="composerSort">Borremans, Joseph</field>
+<field name="year">1804</field>
+<field name="date">1804</field><field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Klapperman,+ou+Le+crieur+de+nuit+d'Amsterdam+Joseph+Borremans&amp;search_field=search</field>
+</doc>
+</add>

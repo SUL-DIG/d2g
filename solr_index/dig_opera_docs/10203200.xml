@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203200</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Passion</field>
+		<field name="titleSort">Passion</field>
+		<field name="year">1997</field>
+		
+		
+		<field name="date">1997</field>
+		<field name="composer">György Orbán</field>
+		<field name="composerSort">Orbán, György</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+György+Orbán&amp;search_field=search</field>
+	</doc></add>

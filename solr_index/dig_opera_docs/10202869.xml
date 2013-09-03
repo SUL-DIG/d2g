@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202869</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moses</field>
+		<field name="titleSort">Moses</field>
+		<field name="year">1836</field>
+		<field name="month">December</field>
+		<field name="day">25</field>
+		<field name="date">December 25, 1836</field>
+		<field name="composer">Franz Lachner</field>
+		<field name="composerSort">Lachner, Franz</field>
+		<field name="librettist">Eduard von Bauernfeld</field>
+		<field name="librettistSort">Bauernfeld, Eduard von</field>
+		
+		
+		<field name="city">Munich</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">Moses</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+Franz+Lachner&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118589</field>
+<field name="genre">Operas</field>
+<field name="title">Il giocatore amoroso</field>
+<field name="titleSort">giocatore amoroso</field>
+<field name="composer">Andrea Lucchesi</field>
+<field name="composerSort">Lucchesi, Andrea</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Private Performance</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giocatore+amoroso+Andrea+Lucchesi&amp;search_field=search</field>
+</doc>
+</add>

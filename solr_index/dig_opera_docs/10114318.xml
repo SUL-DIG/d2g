@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114318</field>
+<field name="genre">Operas</field>
+<field name="title">Les sept baisers capitaux</field>
+<field name="titleSort">sept baisers capitaux</field>
+<field name="composer">Louis Hillier</field>
+<field name="composerSort">Hillier, Louis</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Yoris de Hansewick</field>
+<field name="librettistSort">Hansewick, Yoris de</field>
+<field name="librettist">Pierre de Wattyne</field>
+<field name="librettistSort">Wattyne, Pierre de</field>
+<field name="theater">Théâtre Impérial</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sept+baisers+capitaux+Louis+Hillier&amp;search_field=search</field>
+</doc>
+</add>

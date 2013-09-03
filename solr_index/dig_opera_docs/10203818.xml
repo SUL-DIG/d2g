@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203818</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Andrea apostolo</field>
+		<field name="titleSort">San Andrea apostolo</field>
+		
+		
+		
+		
+		<field name="composer">Giovanni Francesco Gambogi</field>
+		<field name="composerSort">Gambogi, Giovanni Francesco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Andrew the Apostle</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">30</field>
+		<field name="feastDate">November 30</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Andrea+apostolo+Giovanni+Francesco+Gambogi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107397</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit poucet</field>
+<field name="titleSort">petit poucet</field>
+<field name="composer">Léon Delcroix</field>
+<field name="composerSort">Delcroix, Léon</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Jean-François Elslander</field>
+<field name="librettistSort">Elslander, Jean-François</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+poucet+Léon+Delcroix&amp;search_field=search</field>
+</doc>
+</add>

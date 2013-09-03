@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119731</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur Némuphar</field>
+<field name="titleSort">Monsieur Némuphar</field>
+<field name="composer">Édouard Mathé</field>
+<field name="composerSort">Mathé, Édouard</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Ludovic Fortolis</field>
+<field name="librettistSort">Fortolis, Ludovic</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Dijon</field>
+<field name="region">Côtes-d'Or</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+Némuphar+Édouard+Mathé&amp;search_field=search</field>
+</doc>
+</add>

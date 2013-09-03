@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107079</field>
+<field name="genre">Operas</field>
+<field name="title">The Dove of Peace</field>
+<field name="titleSort">Dove of Peace</field>
+<field name="composer">Walter Damrosch</field>
+<field name="composerSort">Damrosch, Walter</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Wallace Irwin</field>
+<field name="librettistSort">Irwin, Wallace</field>
+<field name="theater">Lyric Theater</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Dove+of+Peace+Walter+Damrosch&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124616</field>
+<field name="genre">Operas</field>
+<field name="title">Himfy</field>
+<field name="titleSort">Himfy</field>
+<field name="composer">Ede Poldini</field>
+<field name="composerSort">Poldini, Ede</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Pál Bodrogh</field>
+<field name="librettistSort">Bodrogh, Pál</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Himfy+Ede+Poldini&amp;search_field=search</field>
+</doc>
+</add>

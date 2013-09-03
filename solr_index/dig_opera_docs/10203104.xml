@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203104</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio per la festa del Santo Natale</field>
+		<field name="titleSort">Oratorio per la festa del Santo Natale</field>
+		<field name="year">1756</field>
+		
+		
+		<field name="date">1756</field>
+		<field name="composer">Pietro Pompeo Sales</field>
+		<field name="composerSort">Sales, Pietro Pompeo</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Fürstbischöfliche Hofkapelle</field>
+		<field name="city">Augsburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+per+la+festa+del+Santo+Natale+Pietro+Pompeo+Sales&amp;search_field=search</field>
+	</doc></add>

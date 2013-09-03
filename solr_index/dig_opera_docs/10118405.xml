@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118405</field>
+<field name="genre">Operas</field>
+<field name="title">El aguila de fuego</field>
+<field name="titleSort">aguila de fuego</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Arturo Rigel</field>
+<field name="librettistSort">Rigel, Arturo</field>
+<field name="librettist">Francisco Ramos de Castro</field>
+<field name="librettistSort">Ramos de Castro, Francisco</field>
+<field name="theater">Teatro Maravillas</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+aguila+de+fuego+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

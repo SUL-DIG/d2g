@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113221</field>
+<field name="genre">Operas</field>
+<field name="title">Matka (The Mother)</field>
+<field name="titleSort">Matka (The Mother)</field>
+<field name="composer">Alois Hába</field>
+<field name="composerSort">Hába, Alois</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Alois Hába</field>
+<field name="librettistSort">Hába, Alois</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matka+The+Mother+Alois+Hába&amp;search_field=search</field>
+</doc>
+</add>

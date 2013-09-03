@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106855</field>
+<field name="genre">Operas</field>
+<field name="title">Vespina serva astuta</field>
+<field name="titleSort">Vespina serva astuta</field>
+<field name="composer">Pietro Crispi</field>
+<field name="composerSort">Crispi, Pietro</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Antonio Gatta</field>
+<field name="librettistSort">Gatta, Antonio</field>
+<field name="theater">Teatro Pallacorda di Firenze</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vespina+serva+astuta+Pietro+Crispi&amp;search_field=search</field>
+</doc>
+</add>

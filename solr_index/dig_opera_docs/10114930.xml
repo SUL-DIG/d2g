@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114930</field>
+<field name="genre">Operas</field>
+<field name="title">Arianna e Teseo</field>
+<field name="titleSort">Arianna e Teseo</field>
+<field name="composer">Giacomo Insanguine</field>
+<field name="composerSort">Insanguine, Giacomo</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arianna+e+Teseo+Giacomo+Insanguine&amp;search_field=search</field>
+</doc>
+</add>

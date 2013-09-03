@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133095</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Jumelt</field>
+<field name="titleSort">Madame Jumelt</field>
+<field name="composer">Anton Wolf</field>
+<field name="composerSort">Wolf, Anton</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Roger Squire</field>
+<field name="librettistSort">Squire, Roger</field>
+<field name="theater">State University of New York</field>
+<field name="city">Buffalo</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Jumelt+Anton+Wolf&amp;search_field=search</field>
+</doc>
+</add>

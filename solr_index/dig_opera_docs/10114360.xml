@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114360</field>
+<field name="genre">Operas</field>
+<field name="title">La petite Manon</field>
+<field name="titleSort">petite Manon</field>
+<field name="composer">Henri Hirschmann</field>
+<field name="composerSort">Hirschmann, Henri</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Maurice Ordonneau</field>
+<field name="librettistSort">Ordonneau, Maurice</field>
+<field name="librettist">André Heuzé</field>
+<field name="librettistSort">Heuzé, André</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+petite+Manon+Henri+Hirschmann&amp;search_field=search</field>
+</doc>
+</add>

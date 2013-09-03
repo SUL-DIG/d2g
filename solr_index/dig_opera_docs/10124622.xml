@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124622</field>
+<field name="genre">Operas</field>
+<field name="title">Kérok (The Suitors)</field>
+<field name="titleSort">Kérok (The Suitors)</field>
+<field name="composer">Tibor Polgar</field>
+<field name="composerSort">Polgar, Tibor</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Kostas Kotziás</field>
+<field name="librettistSort">Kotziás, Kostas</field>
+<field name="theater">Magyar Allami Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kérok+The+Suitors+Tibor+Polgar&amp;search_field=search</field>
+</doc>
+</add>

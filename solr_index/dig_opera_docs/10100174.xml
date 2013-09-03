@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100174</field>
+<field name="genre">Operas</field>
+<field name="title">The Lodge of Shadows</field>
+<field name="titleSort">Lodge of Shadows</field>
+<field name="composer">Samuel Adler</field>
+<field name="composerSort">Adler, Samuel</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Jarold Ramsey</field>
+<field name="librettistSort">Ramsey, Jarold</field>
+<field name="theater">Texas Christian University</field>
+<field name="city">Fort Worth</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lodge+of+Shadows+Samuel+Adler&amp;search_field=search</field>
+</doc>
+</add>

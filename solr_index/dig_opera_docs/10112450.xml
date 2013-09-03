@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112450</field>
+<field name="genre">Operas</field>
+<field name="title">La tigresse du Bengale</field>
+<field name="titleSort">tigresse du Bengale</field>
+<field name="composer">Louis Goudesone</field>
+<field name="composerSort">Goudesone, Louis</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Edmé Thomas</field>
+<field name="librettistSort">Thomas, Edmé</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tigresse+du+Bengale+Louis+Goudesone&amp;search_field=search</field>
+</doc>
+</add>

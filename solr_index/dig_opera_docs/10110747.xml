@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110747</field>
+<field name="genre">Operas</field>
+<field name="title">Il gemello</field>
+<field name="titleSort">gemello</field>
+<field name="composer">Nicolò Gabrielli</field>
+<field name="composerSort">Gabrielli, Nicolò</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Achille de Lauzières</field>
+<field name="librettistSort">Lauzières, Achille de</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gemello+Nicolò+Gabrielli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107304</field>
+<field name="genre">Operas</field>
+<field name="title">Thriller</field>
+<field name="titleSort">Thriller</field>
+<field name="composer">René Defossez</field>
+<field name="composerSort">Defossez, René</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Charles Fraikin</field>
+<field name="librettistSort">Fraikin, Charles</field>
+<field name="theater">Conservatoire Royal de Musique</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thriller+René+Defossez&amp;search_field=search</field>
+</doc>
+</add>

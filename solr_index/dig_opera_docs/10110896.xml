@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110896</field>
+<field name="genre">Operas</field>
+<field name="title">"Arcifanfano, re dei matti</field>
+<field name="titleSort">"Arcifanfano, re dei matti"</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arcifanfano,+re+dei+matti+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

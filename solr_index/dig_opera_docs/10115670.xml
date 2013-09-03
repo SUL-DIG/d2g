@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115670</field>
+<field name="genre">Operas</field>
+<field name="title">Die Historie von der schönen Lau</field>
+<field name="titleSort">Historie von der schönen Lau</field>
+<field name="composer">Friedrich Karl</field>
+<field name="composerSort">Karl, Friedrich</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Friedrich Karl</field>
+<field name="librettistSort">Karl, Friedrich</field>
+
+<field name="city">Schwäbisch Hall</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Historie+von+der+schönen+Lau+Friedrich+Karl&amp;search_field=search</field>
+</doc>
+</add>

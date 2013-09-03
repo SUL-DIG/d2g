@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127594</field>
+<field name="genre">Operas</field>
+<field name="title">Goretta</field>
+<field name="titleSort">Goretta</field>
+<field name="composer">Luigi Sangermano</field>
+<field name="composerSort">Sangermano, Luigi</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Alfredo Morgigni</field>
+<field name="librettistSort">Morgigni, Alfredo</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goretta+Luigi+Sangermano&amp;search_field=search</field>
+</doc>
+</add>

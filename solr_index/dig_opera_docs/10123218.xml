@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123218</field>
+<field name="genre">Operas</field>
+<field name="title">Amfitrion</field>
+<field name="titleSort">Amfitrion</field>
+<field name="composer">Boris Papandopulo</field>
+<field name="composerSort">Papandopulo, Boris</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Mijo Stimac</field>
+<field name="librettistSort">Stimac, Mijo</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amfitrion+Boris+Papandopulo&amp;search_field=search</field>
+</doc>
+</add>

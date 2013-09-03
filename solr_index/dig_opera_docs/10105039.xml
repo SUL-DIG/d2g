@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105039</field>
+<field name="genre">Operas</field>
+<field name="title">Implications of Melissa</field>
+<field name="titleSort">Implications of Melissa</field>
+<field name="composer">Philip Carlsen</field>
+<field name="composerSort">Carlsen, Philip</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Philip Carlsen</field>
+<field name="librettistSort">Carlsen, Philip</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Implications+of+Melissa+Philip+Carlsen&amp;search_field=search</field>
+</doc>
+</add>

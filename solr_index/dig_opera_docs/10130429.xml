@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130429</field>
+<field name="genre">Operas</field>
+<field name="title">Opera for Six Voices</field>
+<field name="titleSort">Opera for Six Voices</field>
+<field name="composer">Norman Symonds</field>
+<field name="composerSort">Symonds, Norman</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">John Reeves</field>
+<field name="librettistSort">Reeves, John</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Opera+for+Six+Voices+Norman+Symonds&amp;search_field=search</field>
+</doc>
+</add>

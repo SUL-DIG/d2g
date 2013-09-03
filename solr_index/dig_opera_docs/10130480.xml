@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130480</field>
+<field name="genre">Operas</field>
+<field name="title">Jean le duc</field>
+<field name="titleSort">Jean le duc</field>
+<field name="composer">__ Tac-Coen</field>
+<field name="composerSort">Tac-Coen, __</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">[Édouard Bureau &amp; Fernand Jattiot] Bureau-Jattiot</field>
+<field name="librettistSort">Bureau-Jattiot, [Édouard Bureau &amp; Fernand Jattiot]</field>
+
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+le+duc+__+Tac-Coen&amp;search_field=search</field>
+</doc>
+</add>

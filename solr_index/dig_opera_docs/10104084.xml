@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104084</field>
+<field name="genre">Operas</field>
+<field name="title">Dornröschen</field>
+<field name="titleSort">Dornröschen</field>
+<field name="composer">Cesar Bresgen</field>
+<field name="composerSort">Bresgen, Cesar</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Otto Reuther</field>
+<field name="librettistSort">Reuther, Otto</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Cesar+Bresgen&amp;search_field=search</field>
+</doc>
+</add>

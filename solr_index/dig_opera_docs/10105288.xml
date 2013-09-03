@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105288</field>
+<field name="genre">Operas</field>
+<field name="title">La hija de Rappaccini</field>
+<field name="titleSort">hija de Rappaccini</field>
+<field name="composer">Daniel Catán</field>
+<field name="composerSort">Catán, Daniel</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Octavio Paz</field>
+<field name="librettistSort">Paz, Octavio</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">Palácio de Bellas Artes</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+hija+de+Rappaccini+Daniel+Catán&amp;search_field=search</field>
+</doc>
+</add>

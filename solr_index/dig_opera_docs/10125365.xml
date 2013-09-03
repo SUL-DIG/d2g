@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125365</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur et Madame Robinson</field>
+<field name="titleSort">Monsieur et Madame Robinson</field>
+<field name="composer">__ Quesnel</field>
+<field name="composerSort">Quesnel, __</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Eugène Furpille</field>
+<field name="librettistSort">Furpille, Eugène</field>
+<field name="theater">Théâtre Deburau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+et+Madame+Robinson+__+Quesnel&amp;search_field=search</field>
+</doc>
+</add>

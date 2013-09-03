@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203729</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrifizio d'Abramo</field>
+		<field name="titleSort">sacrifizio d'Abramo</field>
+		<field name="year">1660</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1660</field>
+		<field name="composer">Leopold I Kaiser von Deutschland</field>
+		<field name="composerSort">Leopold I Kaiser von Deutschland, </field>
+		<field name="librettist">Conte Caldana</field>
+		<field name="librettistSort">Caldana, Conte</field>
+		
+		<field name="theater">Hofburg, Tanzsaal</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrifizio+d'Abramo+Leopold+I+Kaiser+von+Deutschland&amp;search_field=search</field>
+	</doc></add>

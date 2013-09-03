@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133536</field>
+<field name="genre">Operas</field>
+<field name="title">Volzhskaya ballada (Volga Ballad)</field>
+<field name="titleSort">Volzhskaya ballada (Volga Ballad)</field>
+<field name="composer">German Leont'yevich Zhukovsky</field>
+<field name="composerSort">Zhukovsky, German Leont'yevich</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Violetta Bagmet</field>
+<field name="librettistSort">Bagmet, Violetta</field>
+<field name="librettist">Lev Ivanovich Oshanin</field>
+<field name="librettistSort">Oshanin, Lev Ivanovich</field>
+<field name="theater">Derzhavnyy Akademichnyy Teatr Opery ta Baletu imeni T. H. Shevchenka</field>
+<field name="city">Kiev</field>
+<field name="region">Kyïvs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volzhskaya+ballada+Volga+Ballad+German+Leont'yevich+Zhukovsky&amp;search_field=search</field>
+</doc>
+</add>

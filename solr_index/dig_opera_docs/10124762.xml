@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124762</field>
+<field name="genre">Operas</field>
+<field name="title">La fille de roy</field>
+<field name="titleSort">fille de roy</field>
+<field name="composer">Eugène Poncin</field>
+<field name="composerSort">Poncin, Eugène</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Émile Codey</field>
+<field name="librettistSort">Codey, Émile</field>
+<field name="librettist">Henri Bocage</field>
+<field name="librettistSort">Bocage, Henri</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+de+roy+Eugène+Poncin&amp;search_field=search</field>
+</doc>
+</add>

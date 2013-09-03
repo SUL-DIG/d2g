@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103251</field>
+<field name="genre">Operas</field>
+<field name="title">Maïda</field>
+<field name="titleSort">Maïda</field>
+<field name="composer">André Bloch</field>
+<field name="composerSort">Bloch, André</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Charles Rety-Darcours</field>
+<field name="librettistSort">Rety-Darcours, Charles</field>
+<field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maïda+André+Bloch&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201303</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Festivа del Santissimo Natali</field>
+		<field name="titleSort">Festivа del Santissimo Natali</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Francesco Antonio Baldassare Uttini</field>
+		<field name="composerSort">Uttini, Francesco Antonio Baldassare</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Festivа+del+Santissimo+Natali+Francesco+Antonio+Baldassare+Uttini&amp;search_field=search</field>
+	</doc></add>

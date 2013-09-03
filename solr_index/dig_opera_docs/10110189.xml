@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110189</field>
+<field name="genre">Operas</field>
+<field name="title">Rosedda</field>
+<field name="titleSort">Rosedda</field>
+<field name="composer">Luigi Fontana</field>
+<field name="composerSort">Fontana, Luigi</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Leonelli Baccarini</field>
+<field name="librettistSort">Baccarini, Leonelli</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosedda+Luigi+Fontana&amp;search_field=search</field>
+</doc>
+</add>

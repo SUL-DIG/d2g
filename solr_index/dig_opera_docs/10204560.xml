@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204560</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Totenfeier</field>
+		<field name="titleSort">Totenfeier</field>
+		<field name="year">1821</field>
+		
+		
+		<field name="date">1821</field>
+		<field name="composer">Friedrich Schneider</field>
+		<field name="composerSort">Schneider, Friedrich</field>
+		<field name="librettist">August Hermann Niemeyer</field>
+		<field name="librettistSort">Niemeyer, August Hermann</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Totenfeier+Friedrich+Schneider&amp;search_field=search</field>
+	</doc></add>

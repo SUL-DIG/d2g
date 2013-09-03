@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200436</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Binding</field>
+		<field name="titleSort">Binding</field>
+		<field name="year">1967</field>
+		
+		
+		<field name="date">1967</field>
+		<field name="composer">Samuel Adler</field>
+		<field name="composerSort">Adler, Samuel</field>
+		<field name="librettist">Albert Friedlander</field>
+		<field name="librettistSort">Friedlander, Albert</field>
+		<field name="librettist">Hugo Charles Adler</field>
+		<field name="librettistSort">Adler, Hugo Charles</field>
+		
+		
+		
+		
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Binding+Samuel+Adler&amp;search_field=search</field>
+	</doc></add>

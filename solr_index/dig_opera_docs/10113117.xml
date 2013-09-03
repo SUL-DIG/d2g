@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113117</field>
+<field name="genre">Operas</field>
+<field name="title">Zaporozhets za Denayem</field>
+<field name="titleSort">Zaporozhets za Denayem</field>
+<field name="composer">Semon Stepanovich Gulak-Artemovsky</field>
+<field name="composerSort">Gulak-Artemovsky, Semon Stepanovich</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Semon Stepanovich Gulak-Artemovsky</field>
+<field name="librettistSort">Gulak-Artemovsky, Semon Stepanovich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaporozhets+za+Denayem+Semon+Stepanovich+Gulak-Artemovsky&amp;search_field=search</field>
+</doc>
+</add>

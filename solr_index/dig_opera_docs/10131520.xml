@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131520</field>
+<field name="genre">Operas</field>
+<field name="title">Jorinda and Joringel</field>
+<field name="titleSort">Jorinda and Joringel</field>
+<field name="composer">William Underwood</field>
+<field name="composerSort">Underwood, William</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Arkansas Opera Theater</field>
+<field name="city">Little Rock</field>
+<field name="region">Arkansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jorinda+and+Joringel+William+Underwood&amp;search_field=search</field>
+</doc>
+</add>

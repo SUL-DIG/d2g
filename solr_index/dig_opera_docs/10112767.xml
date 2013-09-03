@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112767</field>
+<field name="genre">Operas</field>
+<field name="title">La fede ne' tradimenti</field>
+<field name="titleSort">fede ne' tradimenti</field>
+<field name="composer">Giacomo Griffino</field>
+<field name="composerSort">Griffino, Giacomo</field>
+<field name="year">1691</field>
+<field name="date">1691</field>
+<field name="librettist">Girolamo Gigli</field>
+<field name="librettistSort">Gigli, Girolamo</field>
+<field name="theater">Teatro dell'Accademia</field>
+<field name="city">Lodi</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fede+ne'+tradimenti+Giacomo+Griffino&amp;search_field=search</field>
+</doc>
+</add>

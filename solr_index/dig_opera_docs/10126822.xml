@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126822</field>
+<field name="genre">Operas</field>
+<field name="title">Il viaggio a Reims</field>
+<field name="titleSort">viaggio a Reims</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Luigi Balocchi</field>
+<field name="librettistSort">Balocchi, Luigi</field>
+<field name="theater">Théâtre-Italien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+viaggio+a+Reims+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129587</field>
+<field name="genre">Operas</field>
+<field name="title">Almast</field>
+<field name="titleSort">Almast</field>
+<field name="composer">Aleksandr Spendiaryan</field>
+<field name="composerSort">Spendiaryan, Aleksandr</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Aleksandr Spendiaryan</field>
+<field name="librettistSort">Spendiaryan, Aleksandr</field>
+<field name="librettist">Sofya Parnok</field>
+<field name="librettistSort">Parnok, Sofya</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almast+Aleksandr+Spendiaryan&amp;search_field=search</field>
+</doc>
+</add>

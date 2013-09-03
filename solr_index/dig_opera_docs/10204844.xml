@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204844</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La visitazione di Santa Elisabetta</field>
+		<field name="titleSort">visitazione di Santa Elisabetta</field>
+		<field name="year">1713</field>
+		
+		
+		<field name="date">1713</field>
+		<field name="composer">Maria Margherita Grimani</field>
+		<field name="composerSort">Grimani, Maria Margherita</field>
+		
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Visitation</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">31</field>
+		<field name="feastDate">May 31</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+visitazione+di+Santa+Elisabetta+Maria+Margherita+Grimani&amp;search_field=search</field>
+	</doc></add>

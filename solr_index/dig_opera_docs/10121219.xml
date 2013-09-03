@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121219</field>
+<field name="genre">Operas</field>
+<field name="title">Il premio della Rosa</field>
+<field name="titleSort">premio della Rosa</field>
+<field name="composer">Giovanni Moretti</field>
+<field name="composerSort">Moretti, Giovanni</field>
+<field name="year">1829</field>
+<field name="date">1829</field><field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+premio+della+Rosa+Giovanni+Moretti&amp;search_field=search</field>
+</doc>
+</add>

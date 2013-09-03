@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115248</field>
+<field name="genre">Operas</field>
+<field name="title">Meine Tochter Otto</field>
+<field name="titleSort">Meine Tochter Otto</field>
+<field name="composer">Leon Jessel</field>
+<field name="composerSort">Jessel, Leon</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Fritz Grünbaum</field>
+<field name="librettistSort">Grünbaum, Fritz</field>
+<field name="librettist">Willy Sterk</field>
+<field name="librettistSort">Sterk, Willy</field>
+<field name="theater">Rolandbühne</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meine+Tochter+Otto+Leon+Jessel&amp;search_field=search</field>
+</doc>
+</add>

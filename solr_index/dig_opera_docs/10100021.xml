@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100021</field>
+<field name="genre">Operas</field>
+<field name="title">Anna von Landscron</field>
+<field name="titleSort">Anna von Landscron</field>
+<field name="composer">Johann Joseph Abert</field>
+<field name="composerSort">Abert, Johann Joseph</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Christian Gottfried Nehrlich</field>
+<field name="librettistSort">Nehrlich, Christian Gottfried</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna+von+Landscron+Johann+Joseph+Abert&amp;search_field=search</field>
+</doc>
+</add>

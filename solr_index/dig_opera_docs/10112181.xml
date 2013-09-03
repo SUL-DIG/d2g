@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112181</field>
+<field name="genre">Operas</field>
+<field name="title">"L'île de Merlin, ou Le monde renversé</field>
+<field name="titleSort">"île de Merlin, ou Le monde renversé"</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="librettist">Alain René Lesage</field>
+<field name="librettistSort">Lesage, Alain René</field>
+<field name="theater">Schönbrunner Schlosstheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'île+de+Merlin,+ou+Le+monde+renversé+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

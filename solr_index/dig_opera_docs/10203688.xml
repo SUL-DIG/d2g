@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203688</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le sabbat</field>
+		<field name="titleSort">sabbat</field>
+		<field name="year">1870</field>
+		
+		
+		<field name="date">1870</field>
+		<field name="composer">Charles-Louis Hanssens</field>
+		<field name="composerSort">Hanssens, Charles-Louis</field>
+		
+		
+		
+		<field name="city">Brussels</field>
+		<field name="region">Brabant</field>
+		<field name="country">Belgium</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sabbat+Charles-Louis+Hanssens&amp;search_field=search</field>
+	</doc></add>

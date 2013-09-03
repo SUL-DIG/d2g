@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113936</field>
+<field name="genre">Operas</field>
+<field name="title">Wien bei Nacht</field>
+<field name="titleSort">Wien bei Nacht</field>
+<field name="composer">Joseph Hellmesberger</field>
+<field name="composerSort">Hellmesberger, Joseph</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Carl Lindau</field>
+<field name="librettistSort">Lindau, Carl</field>
+<field name="librettist">Julius Wilhelm</field>
+<field name="librettistSort">Wilhelm, Julius</field>
+<field name="theater">Danzers Orpheum Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wien+bei+Nacht+Joseph+Hellmesberger&amp;search_field=search</field>
+</doc>
+</add>

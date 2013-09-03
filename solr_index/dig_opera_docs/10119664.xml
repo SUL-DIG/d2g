@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119664</field>
+<field name="genre">Operas</field>
+<field name="title">La donna nel pozzo</field>
+<field name="titleSort">donna nel pozzo</field>
+<field name="composer">Renzo Massarani</field>
+<field name="composerSort">Massarani, Renzo</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+donna+nel+pozzo+Renzo+Massarani&amp;search_field=search</field>
+</doc>
+</add>

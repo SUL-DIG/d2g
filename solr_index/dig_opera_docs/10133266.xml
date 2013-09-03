@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133266</field>
+<field name="genre">Operas</field>
+<field name="title">Marcia</field>
+<field name="titleSort">Marcia</field>
+<field name="composer">Cleto Zabala y Arrambari</field>
+<field name="composerSort">Zabala yArrambari, Cleto</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Gonzalvo Canto</field>
+<field name="librettistSort">Canto, Gonzalvo</field>
+
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcia+Cleto+Zabala+y+Arrambari&amp;search_field=search</field>
+</doc>
+</add>

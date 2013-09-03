@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109406</field>
+<field name="genre">Operas</field>
+<field name="title">Urania</field>
+<field name="titleSort">Urania</field>
+<field name="composer">Alberto Favara Mistretta</field>
+<field name="composerSort">Mistretta, Alberto Favara</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Ugo Fleres</field>
+<field name="librettistSort">Fleres, Ugo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Urania+Alberto+Favara+Mistretta&amp;search_field=search</field>
+</doc>
+</add>

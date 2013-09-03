@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103164</field>
+<field name="genre">Operas</field>
+<field name="title">Le chanteur de romances</field>
+<field name="titleSort">chanteur de romances</field>
+<field name="composer">Felice Blangini</field>
+<field name="composerSort">Blangini, Felice</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Achille Dartois</field>
+<field name="librettistSort">Dartois, Achille</field>
+<field name="librettist">Armand Dartois</field>
+<field name="librettistSort">Dartois, Armand</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chanteur+de+romances+Felice+Blangini&amp;search_field=search</field>
+</doc>
+</add>

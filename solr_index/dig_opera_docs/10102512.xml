@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102512</field>
+<field name="genre">Operas</field>
+<field name="title">Béatrice et Bénédict</field>
+<field name="titleSort">Béatrice et Bénédict</field>
+<field name="composer">Hector Berlioz</field>
+<field name="composerSort">Berlioz, Hector</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Hector Berlioz</field>
+<field name="librettistSort">Berlioz, Hector</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Baden-Baden</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Béatrice+et+Bénédict+Hector+Berlioz&amp;search_field=search</field>
+</doc>
+</add>

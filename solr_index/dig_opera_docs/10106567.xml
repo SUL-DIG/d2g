@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106567</field>
+<field name="genre">Operas</field>
+<field name="title">I due fratelli persequitati</field>
+<field name="titleSort">due fratelli persequitati</field>
+<field name="composer">Giuseppe Coppola</field>
+<field name="composerSort">Coppola, Giuseppe</field>
+
+
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+fratelli+persequitati+Giuseppe+Coppola&amp;search_field=search</field>
+</doc>
+</add>

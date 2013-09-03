@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204572</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il transporto delle reliquie di Sant' Agata vergine e martire Catanese da Costantinopoli a Catania</field>
+		<field name="titleSort">transporto delle reliquie di Sant' Agata vergine e martire Catanese da Costantinopoli a Catania</field>
+		<field name="year">1797</field>
+		
+		
+		<field name="date">1797</field>
+		<field name="composer">Vincenzo Tobia Nicola Bellini</field>
+		<field name="composerSort">Bellini, Vincenzo Tobia Nicola</field>
+		<field name="librettist">Giuseppe Maria La Rosa</field>
+		<field name="librettistSort">La Rosa, Giuseppe Maria</field>
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Agatha</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">5</field>
+		<field name="feastDate">February 5</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+transporto+delle+reliquie+di+Sant'+Agata+vergine+e+martire+Catanese+da+Costantinopoli+a+Catania+Vincenzo+Tobia+Nicola+Bellini&amp;search_field=search</field>
+	</doc></add>

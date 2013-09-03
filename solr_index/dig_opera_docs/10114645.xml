@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114645</field>
+<field name="genre">Operas</field>
+<field name="title">Nadir and Zuleika</field>
+<field name="titleSort">Nadir and Zuleika</field>
+<field name="composer">Charles Edward Horn</field>
+<field name="composerSort">Horn, Charles Edward</field>
+<field name="year">1832</field>
+<field name="date">1832</field><field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nadir+and+Zuleika+Charles+Edward+Horn&amp;search_field=search</field>
+</doc>
+</add>

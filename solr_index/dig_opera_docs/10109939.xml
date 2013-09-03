@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109939</field>
+<field name="genre">Operas</field>
+<field name="title">"Astiage, re di Medi</field>
+<field name="titleSort">"Astiage, re di Medi"</field>
+<field name="composer">Ignazio Fiorillo</field>
+<field name="composerSort">Fiorillo, Ignazio</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">Giovanni Filippo Apolloni</field>
+<field name="librettistSort">Apolloni, Giovanni Filippo</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Astiage,+re+di+Medi+Ignazio+Fiorillo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125844</field>
+<field name="genre">Operas</field>
+<field name="title">Le cuvier</field>
+<field name="titleSort">cuvier</field>
+<field name="composer">__ Renaud</field>
+<field name="composerSort">Renaud, __</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Charles-Emmanuel Gaulard de Saudray</field>
+<field name="librettistSort">Gaulard de Saudray, Charles-Emmanuel</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cuvier+__+Renaud&amp;search_field=search</field>
+</doc>
+</add>

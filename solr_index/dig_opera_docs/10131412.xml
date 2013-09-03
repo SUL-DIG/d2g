@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131412</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geigenmacher von Cremona</field>
+<field name="titleSort">Geigenmacher von Cremona</field>
+<field name="composer">Hanus Trnecek</field>
+<field name="composerSort">Trnecek, Hanus</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Leopold Günther</field>
+<field name="librettistSort">Günther, Leopold</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geigenmacher+von+Cremona+Hanus+Trnecek&amp;search_field=search</field>
+</doc>
+</add>

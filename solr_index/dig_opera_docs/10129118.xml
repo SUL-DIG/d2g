@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129118</field>
+<field name="genre">Operas</field>
+<field name="title">A morte d'Orpheu</field>
+<field name="titleSort">morte d'Orpheu</field>
+<field name="composer">Fernando de Azevedo e Silva</field>
+<field name="composerSort">Silva, Fernando de Azevedo e</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Fernando de Azevedo e Silva</field>
+<field name="librettistSort">Silva, Fernando de Azevedo e</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+morte+d'Orpheu+Fernando+de+Azevedo+e+Silva&amp;search_field=search</field>
+</doc>
+</add>

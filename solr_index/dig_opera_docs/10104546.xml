@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104546</field>
+<field name="genre">Operas</field>
+<field name="title">The Mysterious Musician</field>
+<field name="titleSort">Mysterious Musician</field>
+<field name="composer">George W. Byng</field>
+<field name="composerSort">Byng, George W.</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Guy Eden</field>
+<field name="librettistSort">Eden, Guy</field>
+<field name="theater">Terry's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mysterious+Musician+George+W.+Byng&amp;search_field=search</field>
+</doc>
+</add>

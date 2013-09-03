@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114727</field>
+<field name="genre">Operas</field>
+<field name="title">Les femmes qui font des scènes</field>
+<field name="titleSort">femmes qui font des scènes</field>
+<field name="composer">Charles Hubans</field>
+<field name="composerSort">Hubans, Charles</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Charles Pierre Monselet</field>
+<field name="librettistSort">Monselet, Charles Pierre</field>
+<field name="librettist">Alphonse Lemonnier</field>
+<field name="librettistSort">Lemonnier, Alphonse</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+femmes+qui+font+des+scènes+Charles+Hubans&amp;search_field=search</field>
+</doc>
+</add>

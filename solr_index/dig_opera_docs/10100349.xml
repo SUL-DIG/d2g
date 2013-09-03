@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100349</field>
+<field name="genre">Operas</field>
+<field name="title">Il grembialino rosa</field>
+<field name="titleSort">grembialino rosa</field>
+<field name="composer">Azzo Albertoni</field>
+<field name="composerSort">Albertoni, Azzo</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Azzo Albertoni</field>
+<field name="librettistSort">Albertoni, Azzo</field>
+
+<field name="city">Castelfranco Veneto</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+grembialino+rosa+Azzo+Albertoni&amp;search_field=search</field>
+</doc>
+</add>

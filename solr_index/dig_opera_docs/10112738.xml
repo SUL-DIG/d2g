@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112738</field>
+<field name="genre">Operas</field>
+<field name="title">Momus sur la terre</field>
+<field name="titleSort">Momus sur la terre</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Claude-Henri Watelet</field>
+<field name="librettistSort">Watelet, Claude-Henri</field>
+<field name="theater">Château de La Roche-Guyon</field>
+<field name="city">La Roche-Guyon</field>
+<field name="region">Val-d'Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Momus+sur+la+terre+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

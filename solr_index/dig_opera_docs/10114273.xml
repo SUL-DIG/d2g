@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114273</field>
+<field name="genre">Operas</field>
+<field name="title">Auster</field>
+<field name="titleSort">Auster</field>
+<field name="composer">Alfred Hill</field>
+<field name="composerSort">Hill, Alfred</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Emily Coungeau</field>
+<field name="librettistSort">Coungeau, Emily</field>
+<field name="theater">Town Hall</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auster+Alfred+Hill&amp;search_field=search</field>
+</doc>
+</add>

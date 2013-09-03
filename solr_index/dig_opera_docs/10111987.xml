@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111987</field>
+<field name="genre">Operas</field>
+<field name="title">Il corrivo</field>
+<field name="titleSort">corrivo</field>
+<field name="composer">Giuseppe Giordani</field>
+<field name="composerSort">Giordani, Giuseppe</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Giuseppe Maria Diodati</field>
+<field name="librettistSort">Diodati, Giuseppe Maria</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+corrivo+Giuseppe+Giordani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203894</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Mauro abate</field>
+		<field name="titleSort">San Mauro abate</field>
+		
+		
+		
+		
+		<field name="composer">Giuseppe Gazzaniga</field>
+		<field name="composerSort">Gazzaniga, Giuseppe</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Maurus</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">January 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Mauro+abate+Giuseppe+Gazzaniga&amp;search_field=search</field>
+	</doc></add>

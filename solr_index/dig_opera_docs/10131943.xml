@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131943</field>
+<field name="genre">Operas</field>
+<field name="title">Naimychka (The Maid)</field>
+<field name="titleSort">Naimychka (The Maid)</field>
+<field name="composer">Mykhailo Ivanovych Verykivs'ky</field>
+<field name="composerSort">Verykivs'ky, Mykhailo Ivanovych</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Mykhailo Ivanovych Verykivs'ky</field>
+<field name="librettistSort">Verykivs'ky, Mykhailo Ivanovych</field>
+<field name="librettist">Kostiantyn Mykailovych Herasymenko</field>
+<field name="librettistSort">Herasymenko, Kostiantyn Mykailovych</field>
+
+<field name="city">Irkutsk</field>
+<field name="region">Irkutsk Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Naimychka+The+Maid+Mykhailo+Ivanovych+Verykivs'ky&amp;search_field=search</field>
+</doc>
+</add>

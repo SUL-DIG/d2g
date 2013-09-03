@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102351</field>
+<field name="genre">Operas</field>
+<field name="title">Un anno ed un giorno</field>
+<field name="titleSort">anno ed un giorno</field>
+<field name="composer">Julius Benedict</field>
+<field name="composerSort">Benedict, Julius</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Domenico Andreotti</field>
+<field name="librettistSort">Andreotti, Domenico</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+anno+ed+un+giorno+Julius+Benedict&amp;search_field=search</field>
+</doc>
+</add>

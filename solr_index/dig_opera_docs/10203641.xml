@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203641</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il ritorno di Tobia</field>
+		<field name="titleSort">ritorno di Tobia</field>
+		<field name="year">1775</field>
+		<field name="month">April</field>
+		<field name="day">2</field>
+		<field name="date">April 2, 1775</field>
+		<field name="composer">Joseph Haydn</field>
+		<field name="composerSort">Haydn, Joseph</field>
+		<field name="librettist">Giovanni Gastone Boccherini</field>
+		<field name="librettistSort">Boccherini, Giovanni Gaston</field>
+		
+		<field name="theater">Tonkünstler-Societät</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Tobias Returns</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritorno+di+Tobia+Joseph+Haydn&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121165</field>
+<field name="genre">Operas</field>
+<field name="title">Les petits Auvergnats</field>
+<field name="titleSort">petits Auvergnats</field>
+<field name="composer">L. Morange</field>
+<field name="composerSort">Morange, L.</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Jean-Guillaume-Auguste Cuvelier de Trie</field>
+<field name="librettistSort">Cuvelier de Trie, Jean-Guillaume-Auguste</field>
+<field name="librettist">Jean-Baptiste-Augustin Hapdé</field>
+<field name="librettistSort">Hapdé, Jean-Baptiste-Augustin</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+petits+Auvergnats+L.+Morange&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121121</field>
+<field name="genre">Operas</field>
+<field name="title">Louis XIV</field>
+<field name="titleSort">Louis XIV</field>
+<field name="composer">Homer Moore</field>
+<field name="composerSort">Moore, Homer</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Homer Moore</field>
+<field name="librettistSort">Moore, Homer</field>
+<field name="theater">Odeon Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Louis+XIV+Homer+Moore&amp;search_field=search</field>
+</doc>
+</add>

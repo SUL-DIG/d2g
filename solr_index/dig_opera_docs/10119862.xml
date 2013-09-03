@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119862</field>
+<field name="genre">Operas</field>
+<field name="title">Josepha</field>
+<field name="titleSort">Josepha</field>
+<field name="composer">Alphonse Maurice</field>
+<field name="composerSort">Maurice, Alphonse</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Julius Zähler</field>
+<field name="librettistSort">Zähler, Julius</field>
+<field name="librettist">Wilhelm Schriefer</field>
+<field name="librettistSort">Schriefer, Wilhelm</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Josepha+Alphonse+Maurice&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119915</field>
+<field name="genre">Operas</field>
+<field name="title">A Death in the Family</field>
+<field name="titleSort">Death in the Family</field>
+<field name="composer">William Mayer</field>
+<field name="composerSort">Mayer, William</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">William Mayer</field>
+<field name="librettistSort">Mayer, William</field>
+<field name="librettist">Tad Mosel</field>
+<field name="librettistSort">Mosel, Tad</field>
+<field name="theater">Ordway Theater</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Death+in+the+Family+William+Mayer&amp;search_field=search</field>
+</doc>
+</add>

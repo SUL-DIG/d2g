@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133254</field>
+<field name="genre">Operas</field>
+<field name="title">The Tailor of Gloucester</field>
+<field name="titleSort">Tailor of Gloucester</field>
+<field name="composer">Douglas Young</field>
+<field name="composerSort">Young, Douglas</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Douglas Young</field>
+<field name="librettistSort">Young, Douglas</field>
+<field name="librettist">Beatrix Potter</field>
+<field name="librettistSort">Potter, Beatrix</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tailor+of+Gloucester+Douglas+Young&amp;search_field=search</field>
+</doc>
+</add>

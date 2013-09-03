@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130920</field>
+<field name="genre">Operas</field>
+<field name="title">The Golden Web</field>
+<field name="titleSort">Golden Web</field>
+<field name="composer">Arthur Goring Thomas</field>
+<field name="composerSort">Thomas, Arthur Goring</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Frederick Corder</field>
+<field name="librettistSort">Corder, Frederick</field>
+<field name="librettist">Benjamin Charles Stephenson</field>
+<field name="librettistSort">Stephenson, Benjamin Charles</field>
+<field name="theater">Royal Court Theatre</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golden+Web+Arthur+Goring+Thomas&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118523</field>
+<field name="genre">Operas</field>
+<field name="title">Brelan de Dames</field>
+<field name="titleSort">Brelan de Dames</field>
+<field name="composer">Nicolas Louis</field>
+<field name="composerSort">Louis, Nicolas</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Laurent-Joseph Morin</field>
+<field name="librettistSort">Morin, Laurent-Joseph</field>
+<field name="theater">Salle du Jeu-de-Paume</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brelan+de+Dames+Nicolas+Louis&amp;search_field=search</field>
+</doc>
+</add>

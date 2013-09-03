@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112981</field>
+<field name="genre">Operas</field>
+<field name="title">Enea e Lavinia</field>
+<field name="titleSort">Enea e Lavinia</field>
+<field name="composer">Pietro Alessandro Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Alessandro</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Vincenzo de Stefani</field>
+<field name="librettistSort">Stefani, Vincenzo de</field>
+<field name="librettist">Gaetano Sertor</field>
+<field name="librettistSort">Sertor, Gaetano</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enea+e+Lavinia+Pietro+Alessandro+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

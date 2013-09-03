@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118027</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux trésors</field>
+<field name="titleSort">deux trésors</field>
+<field name="composer">Auguste Léveillé</field>
+<field name="composerSort">Léveillé, Auguste</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Alphonse Lemonnier</field>
+<field name="librettistSort">Lemonnier, Alphonse</field>
+<field name="theater">Théâtre de la Tour d'Auvergne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+trésors+Auguste+Léveillé&amp;search_field=search</field>
+</doc>
+</add>

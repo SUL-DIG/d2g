@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127841</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux cousines</field>
+<field name="titleSort">deux cousines</field>
+<field name="composer">Louis Sauvage-Trudin</field>
+<field name="composerSort">Sauvage-Trudin, Louis</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Charles Raymond</field>
+<field name="librettistSort">Raymond, Charles</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Boulogne-sur-Mer</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+cousines+Louis+Sauvage-Trudin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126388</field>
+<field name="genre">Operas</field>
+<field name="title">The Yankee Tourist</field>
+<field name="titleSort">Yankee Tourist</field>
+<field name="composer">Alfred George Robyn</field>
+<field name="composerSort">Robyn, Alfred George</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Richard Harding Davis</field>
+<field name="librettistSort">Davis, Richard Harding</field>
+<field name="librettist">Wallace Irwin</field>
+<field name="librettistSort">Irwin, Wallace</field>
+<field name="theater">Elyria Theater</field>
+<field name="city">Elyria</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Yankee+Tourist+Alfred+George+Robyn&amp;search_field=search</field>
+</doc>
+</add>

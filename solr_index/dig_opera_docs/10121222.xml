@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121222</field>
+<field name="genre">Operas</field>
+<field name="title">Il tenente e il colonello</field>
+<field name="titleSort">tenente e il colonello</field>
+<field name="composer">Giovanni Moretti</field>
+<field name="composerSort">Moretti, Giovanni</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Francesco Regli</field>
+<field name="librettistSort">Regli, Francesco</field>
+
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tenente+e+il+colonello+Giovanni+Moretti&amp;search_field=search</field>
+</doc>
+</add>

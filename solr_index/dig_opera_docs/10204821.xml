@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204821</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Vidapura</field>
+		<field name="titleSort">Vidapura</field>
+		<field name="year">1922</field>
+		<field name="month">November</field>
+		<field name="day">12</field>
+		<field name="date">November 12, 1922</field>
+		<field name="composer">Heitor Villa-Lobos</field>
+		<field name="composerSort">Villa-Lobos, Heitor</field>
+		
+		
+		<field name="theater">Teatro Municipal</field>
+		<field name="city">Rio de Janeiro</field>
+		<field name="region">Rio de Janeiro</field>
+		<field name="country">Brazil</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vidapura+Heitor+Villa-Lobos&amp;search_field=search</field>
+	</doc></add>

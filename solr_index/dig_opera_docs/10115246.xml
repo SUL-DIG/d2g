@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115246</field>
+<field name="genre">Operas</field>
+<field name="title">Die Luxuskabine</field>
+<field name="titleSort">Luxuskabine</field>
+<field name="composer">Leon Jessel</field>
+<field name="composerSort">Jessel, Leon</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">August Neidhardt</field>
+<field name="librettistSort">Neidhardt, August</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Luxuskabine+Leon+Jessel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111054</field>
+<field name="genre">Operas</field>
+<field name="title">Zemira ed Azor</field>
+<field name="titleSort">Zemira ed Azor</field>
+<field name="composer">Manuel García</field>
+<field name="composerSort">García, Manuel</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="librettist">Jeanne Marie Leprince de Beaumont</field>
+<field name="librettistSort">Leprince de Beaumont, Jeanne Marie</field>
+<field name="theater">Teatro Provisional</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zemira+ed+Azor+Manuel+García&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118945</field>
+<field name="genre">Operas</field>
+<field name="title">La constancia dichosa</field>
+<field name="titleSort">constancia dichosa</field>
+<field name="composer">Gian Francesco de Majo</field>
+<field name="composerSort">Majo, Gian Francesco de</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">Luis Savioli Fontana</field>
+<field name="librettistSort">Savioli Fontana, Luis</field>
+<field name="theater">Casa del Lorenzani</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+constancia+dichosa+Gian+Francesco+de+Majo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104212</field>
+<field name="genre">Operas</field>
+<field name="title">Rapunzel</field>
+<field name="titleSort">Rapunzel</field>
+<field name="composer">Richard Brooks</field>
+<field name="composerSort">Brooks, Richard</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Harold Mason</field>
+<field name="librettistSort">Mason, Harold</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Tri-Cities Opera</field>
+<field name="city">Binghampton</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rapunzel+Richard+Brooks&amp;search_field=search</field>
+</doc>
+</add>

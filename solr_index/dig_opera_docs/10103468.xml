@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103468</field>
+<field name="genre">Operas</field>
+<field name="title">La creanza</field>
+<field name="titleSort">creanza</field>
+<field name="composer">Lorenzo Bologna</field>
+<field name="composerSort">Bologna, Lorenzo</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+creanza+Lorenzo+Bologna&amp;search_field=search</field>
+</doc>
+</add>

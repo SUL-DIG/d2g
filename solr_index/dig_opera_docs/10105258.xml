@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105258</field>
+<field name="genre">Operas</field>
+<field name="title">Le réception de Péroulios</field>
+<field name="titleSort">réception de Péroulios</field>
+<field name="composer">__ Castelain-Meyrardes</field>
+<field name="composerSort">Castelain-Meyrardes, __</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">__ Castelain-Meyrardes</field>
+<field name="librettistSort">Castelain-Meyrardes, __</field>
+<field name="theater">Café-concert de Bataclan</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+réception+de+Péroulios+__+Castelain-Meyrardes&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116135</field>
+<field name="genre">Operas</field>
+<field name="title">Feodora</field>
+<field name="titleSort">Feodora</field>
+<field name="composer">Justin Heinrich Knecht</field>
+<field name="composerSort">Knecht, Justin Heinrich</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Biberach an der Riss</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Feodora+Justin+Heinrich+Knecht&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111586</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Tubéreuse</field>
+<field name="titleSort">Madame Tubéreuse</field>
+<field name="composer">Charles Gérin</field>
+<field name="composerSort">Gérin, Charles</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Maurice T'ar Nemo</field>
+<field name="librettistSort">T'ar Nemo, Maurice</field>
+<field name="librettist">Félix Celval</field>
+<field name="librettistSort">Celval, Félix</field>
+
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Tubéreuse+Charles+Gérin&amp;search_field=search</field>
+</doc>
+</add>

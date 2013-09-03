@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202500</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La liberazione d'Israele</field>
+		<field name="titleSort">liberazione d'Israele</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Josef Myslivecek</field>
+		<field name="composerSort">Myslivecek, Josef</field>
+		<field name="librettist">Giovanni Battista Basso-Bassi</field>
+		<field name="librettistSort">Basso-Bassi, Giovanni Batti</field>
+		
+		<field name="theater">Sacro Ordine Militare de Crocigeri con la Stella Rossa nella Chiesa di San Francesco</field>
+		<field name="city">Prague</field>
+		
+		<field name="country">Czech Republic</field>
+		<field name="subject">Esther saves her people</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+liberazione+d'Israele+Josef+Myslivecek&amp;search_field=search</field>
+	</doc></add>

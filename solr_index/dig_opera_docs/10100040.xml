@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100040</field>
+<field name="genre">Operas</field>
+<field name="title">Ball im Savoy</field>
+<field name="titleSort">Ball im Savoy</field>
+<field name="composer">Pál Abrahám</field>
+<field name="composerSort">Abrahám, Pál</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Fritz Löhner</field>
+<field name="librettistSort">Löhner, Fritz</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="theater">Grosses Schauspielhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ball+im+Savoy+Pál+Abrahám&amp;search_field=search</field>
+</doc>
+</add>

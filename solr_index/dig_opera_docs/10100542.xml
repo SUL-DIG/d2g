@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100542</field>
+<field name="genre">Operas</field>
+<field name="title">The Piper of Hamelin</field>
+<field name="titleSort">Piper of Hamelin</field>
+<field name="composer">Frederick William Allwood</field>
+<field name="composerSort">Allwood, Frederick William</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Robert Buchanan</field>
+<field name="librettistSort">Buchanan, Robert</field>
+<field name="theater">Comedy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Piper+of+Hamelin+Frederick+William+Allwood&amp;search_field=search</field>
+</doc>
+</add>

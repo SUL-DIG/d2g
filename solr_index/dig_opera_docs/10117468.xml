@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117468</field>
+<field name="genre">Operas</field>
+<field name="title">Attilio Regolo in Africa</field>
+<field name="titleSort">Attilio Regolo in Africa</field>
+<field name="composer">Pietro Paolo Laurenti</field>
+<field name="composerSort">Laurenti, Pietro Paolo</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Tommaso Stanzani</field>
+<field name="librettistSort">Stanzani, Tommaso</field>
+<field name="theater">Palazzo Bevilacqua</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Attilio+Regolo+in+Africa+Pietro+Paolo+Laurenti&amp;search_field=search</field>
+</doc>
+</add>

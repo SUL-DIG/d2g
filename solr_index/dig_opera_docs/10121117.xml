@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121117</field>
+<field name="genre">Operas</field>
+<field name="title">Puss in Boots</field>
+<field name="titleSort">Puss in Boots</field>
+<field name="composer">Douglas Moore</field>
+<field name="composerSort">Moore, Douglas</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Raymond Abrashkin</field>
+<field name="librettistSort">Abrashkin, Raymond</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Town Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Puss+in+Boots+Douglas+Moore&amp;search_field=search</field>
+</doc>
+</add>

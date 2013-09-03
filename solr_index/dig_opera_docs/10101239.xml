@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101239</field>
+<field name="genre">Operas</field>
+<field name="title">Sonja</field>
+<field name="titleSort">Sonja</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Leo Walther Stein</field>
+<field name="librettistSort">Stein, Leo Walther</field>
+<field name="librettist">Rudolf Presber</field>
+<field name="librettistSort">Presber, Rudolf</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sonja+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108211</field>
+<field name="genre">Operas</field>
+<field name="title">La patienza di Socrate con due moglie</field>
+<field name="titleSort">patienza di Socrate con due moglie</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Hradcin</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+patienza+di+Socrate+con+due+moglie+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

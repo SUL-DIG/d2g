@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119729</field>
+<field name="genre">Operas</field>
+<field name="title">Little Jap</field>
+<field name="titleSort">Little Jap</field>
+<field name="composer">Édouard Mathé</field>
+<field name="composerSort">Mathé, Édouard</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Paul Franck</field>
+<field name="librettistSort">Franck, Paul</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Jap+Édouard+Mathé&amp;search_field=search</field>
+</doc>
+</add>

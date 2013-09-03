@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200853</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David trionfante figura di San Antonio de Padua</field>
+		<field name="titleSort">David trionfante figura di San Antonio de Padua</field>
+		
+		
+		
+		
+		<field name="composer">Pedro Antonío Monlleó</field>
+		<field name="composerSort">Monlleó, Pedro Antonío</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Antony of Padua</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">13</field>
+		<field name="feastDate">June 13</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+trionfante+figura+di+San+Antonio+de+Padua+Pedro+Antonío+Monlleó&amp;search_field=search</field>
+	</doc></add>

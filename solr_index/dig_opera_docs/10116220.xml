@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116220</field>
+<field name="genre">Operas</field>
+<field name="title">La marche de Radetzky</field>
+<field name="titleSort">marche de Radetzky</field>
+<field name="composer">René Koering</field>
+<field name="composerSort">Koering, René</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Daniel Besnehard</field>
+<field name="librettistSort">Besnehard, Daniel</field>
+<field name="librettist">Joseph Roth</field>
+<field name="librettistSort">Roth, Joseph</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+marche+de+Radetzky+René+Koering&amp;search_field=search</field>
+</doc>
+</add>

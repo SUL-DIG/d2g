@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123620</field>
+<field name="genre">Operas</field>
+<field name="title">Mercedes</field>
+<field name="titleSort">Mercedes</field>
+<field name="composer">Daniele Pellegrini</field>
+<field name="composerSort">Pellegrini, Daniele</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Augusto Ardari</field>
+<field name="librettistSort">Ardari, Augusto</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mercedes+Daniele+Pellegrini&amp;search_field=search</field>
+</doc>
+</add>

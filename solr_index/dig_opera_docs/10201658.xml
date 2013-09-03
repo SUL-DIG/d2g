@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201658</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Giuditta</field>
+		<field name="titleSort">Giuditta</field>
+		<field name="year">1710</field>
+		
+		
+		<field name="date">1710</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		<field name="librettist">Nunzio Stampiglia</field>
+		<field name="librettistSort">Stampiglia, Nunzio</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Giuditta+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

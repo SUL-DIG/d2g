@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201122</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Emmaus</field>
+		<field name="titleSort">Emmaus</field>
+		<field name="year">1901</field>
+		
+		
+		<field name="date">1901</field>
+		<field name="composer">Alfred Herbert Brewer</field>
+		<field name="composerSort">Brewer, Alfred Herbert</field>
+		<field name="librettist">Joseph Bennett</field>
+		<field name="librettistSort">Bennett, Joseph</field>
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Gloucester</field>
+		<field name="region">Gloucestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Road to Emmaus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Emmaus+Alfred+Herbert+Brewer&amp;search_field=search</field>
+	</doc></add>

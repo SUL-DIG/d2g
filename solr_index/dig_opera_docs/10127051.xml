@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127051</field>
+<field name="genre">Operas</field>
+<field name="title">Das natürliche Wunder</field>
+<field name="titleSort">natürliche Wunder</field>
+<field name="composer">Stephan Ruprecht</field>
+<field name="composerSort">Ruprecht, Stephan</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+natürliche+Wunder+Stephan+Ruprecht&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106302</field>
+<field name="genre">Operas</field>
+<field name="title">Something's Gonna Happen</field>
+<field name="titleSort">Something's Gonna Happen</field>
+<field name="composer">Michael Colgrass</field>
+<field name="composerSort">Colgrass, Michael</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Michael Colgrass</field>
+<field name="librettistSort">Colgrass, Michael</field>
+<field name="theater">Huron Elementary School</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Something's+Gonna+Happen+Michael+Colgrass&amp;search_field=search</field>
+</doc>
+</add>

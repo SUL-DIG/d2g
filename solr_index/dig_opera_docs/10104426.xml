@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104426</field>
+<field name="genre">Operas</field>
+<field name="title">Il savio delirante (Le frenesie d'amore)</field>
+<field name="titleSort">savio delirante (Le frenesie d'amore)</field>
+<field name="composer">Giuseppe Maria Buini</field>
+<field name="composerSort">Buini, Giuseppe Maria</field>
+<field name="year">1726</field>
+<field name="date">1726</field>
+<field name="librettist">Giuseppe Maria Buini</field>
+<field name="librettistSort">Buini, Giuseppe Maria</field>
+<field name="theater">Teatro Formagliari</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+savio+delirante+Le+frenesie+d'amore+Giuseppe+Maria+Buini&amp;search_field=search</field>
+</doc>
+</add>

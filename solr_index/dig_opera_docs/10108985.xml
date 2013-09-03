@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108985</field>
+<field name="genre">Operas</field>
+<field name="title">Käsi käes (Hand in Hand)</field>
+<field name="titleSort">Käsi käes (Hand in Hand)</field>
+<field name="composer">Gustav Gustavovich Ernesaks</field>
+<field name="composerSort">Ernesaks, Gustav Gustavovich</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Paul-Earik Rummo</field>
+<field name="librettistSort">Rummo, Paul-Earik</field>
+<field name="librettist">Kersti Merilaas</field>
+<field name="librettistSort">Merilaas, Kersti</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Käsi+käes+Hand+in+Hand+Gustav+Gustavovich+Ernesaks&amp;search_field=search</field>
+</doc>
+</add>

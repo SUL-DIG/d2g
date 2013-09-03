@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128154</field>
+<field name="genre">Operas</field>
+<field name="title">Das versteinerte Glück</field>
+<field name="titleSort">versteinerte Glück</field>
+<field name="composer">Helmut Scheck</field>
+<field name="composerSort">Scheck, Helmut</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Ute Kulke</field>
+<field name="librettistSort">Kulke, Ute</field>
+
+<field name="city">Münnerstadt</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+versteinerte+Glück+Helmut+Scheck&amp;search_field=search</field>
+</doc>
+</add>

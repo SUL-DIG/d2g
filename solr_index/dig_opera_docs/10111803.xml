@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111803</field>
+<field name="genre">Operas</field>
+<field name="title">Adina</field>
+<field name="titleSort">Adina</field>
+<field name="composer">Giovanni Battista Gilardi</field>
+<field name="composerSort">Gilardi, Giovanni Battista</field>
+<field name="year">1873</field>
+<field name="date">1873</field><field name="theater">Teatro Balbo</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adina+Giovanni+Battista+Gilardi&amp;search_field=search</field>
+</doc>
+</add>

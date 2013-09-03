@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131735</field>
+<field name="genre">Operas</field>
+<field name="title">Joséphine</field>
+<field name="titleSort">Joséphine</field>
+<field name="composer">Louis Varney</field>
+<field name="composerSort">Varney, Louis</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Albert Millaud</field>
+<field name="librettistSort">Millaud, Albert</field>
+<field name="theater">Casino</field>
+<field name="city">Trouville-sur-Mer</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joséphine+Louis+Varney&amp;search_field=search</field>
+</doc>
+</add>

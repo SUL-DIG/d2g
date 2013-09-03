@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104436</field>
+<field name="genre">Operas</field>
+<field name="title">Steuben</field>
+<field name="titleSort">Steuben</field>
+<field name="composer">Hans Bullerian</field>
+<field name="composerSort">Bullerian, Hans</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Hans Martin Cremer</field>
+<field name="librettistSort">Cremer, Hans Martin</field>
+<field name="theater">Opera der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Steuben+Hans+Bullerian&amp;search_field=search</field>
+</doc>
+</add>

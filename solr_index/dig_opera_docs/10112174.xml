@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112174</field>
+<field name="genre">Operas</field>
+<field name="title">Demetrio</field>
+<field name="titleSort">Demetrio</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1742</field>
+<field name="date">1742</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demetrio+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

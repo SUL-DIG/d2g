@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124261</field>
+<field name="genre">Operas</field>
+<field name="title">Notturno romantico</field>
+<field name="titleSort">Notturno romantico</field>
+<field name="composer">Riccardo Pick-Mangiagalli</field>
+<field name="composerSort">Pick-Mangiagalli, Riccardo</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="theater">Teatro Reale dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Notturno+romantico+Riccardo+Pick-Mangiagalli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122014</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Schamlosen, oder Ein Spektakel</field>
+<field name="titleSort">"Schamlosen, oder Ein Spektakel"</field>
+<field name="composer">Olga Neuwirth</field>
+<field name="composerSort">Neuwirth, Olga</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Daniil Charms</field>
+<field name="librettistSort">Charms, Daniil</field>
+<field name="librettist">Sylvia Plath</field>
+<field name="librettistSort">Plath, Sylvia</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schamlosen,+oder+Ein+Spektakel+Olga+Neuwirth&amp;search_field=search</field>
+</doc>
+</add>

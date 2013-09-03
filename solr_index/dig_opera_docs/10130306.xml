@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130306</field>
+<field name="genre">Operas</field>
+<field name="title">"HMS Pinafore, or The Lass that Loved a Sailor</field>
+<field name="titleSort">"HMS Pinafore, or The Lass that Loved a Sailor"</field>
+<field name="composer">Arthur Sullivan</field>
+<field name="composerSort">Sullivan, Arthur</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">William Schwenck Gilbert</field>
+<field name="librettistSort">Gilbert, William Schwenck</field>
+<field name="theater">Opera Comique Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=HMS+Pinafore,+or+The+Lass+that+Loved+a+Sailor+Arthur+Sullivan&amp;search_field=search</field>
+</doc>
+</add>

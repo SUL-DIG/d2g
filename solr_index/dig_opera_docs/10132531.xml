@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132531</field>
+<field name="genre">Operas</field>
+<field name="title">Andalousie</field>
+<field name="titleSort">Andalousie</field>
+<field name="composer">Ferdinand Warnecke</field>
+<field name="composerSort">Warnecke, Ferdinand</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Enrico Manfürte</field>
+<field name="librettistSort">Manfürte, Enrico</field>
+<field name="librettist">Alwin Vorweng</field>
+<field name="librettistSort">Vorweng, Alwin</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Kiel</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andalousie+Ferdinand+Warnecke&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107538</field>
+<field name="genre">Operas</field>
+<field name="title">Comment l'esprit vient aux garçons</field>
+<field name="titleSort">Comment l'esprit vient aux garçons</field>
+<field name="composer">Ferdinand Deroo</field>
+<field name="composerSort">Deroo, Ferdinand</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">A. F. Géroldan</field>
+<field name="librettistSort">Géroldan, A. F.</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Comment+l'esprit+vient+aux+garçons+Ferdinand+Deroo&amp;search_field=search</field>
+</doc>
+</add>

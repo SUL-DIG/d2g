@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104377</field>
+<field name="genre">Operas</field>
+<field name="title">Do Re Mi</field>
+<field name="titleSort">Do Re Mi</field>
+<field name="composer">Walter Buczynski</field>
+<field name="composerSort">Buczynski, Walter</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Lilly Barnes</field>
+<field name="librettistSort">Barnes, Lilly</field>
+<field name="theater">CBC Radio (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Do+Re+Mi+Walter+Buczynski&amp;search_field=search</field>
+</doc>
+</add>

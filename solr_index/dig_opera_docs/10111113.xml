@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111113</field>
+<field name="genre">Operas</field>
+<field name="title">La sugestión</field>
+<field name="titleSort">sugestión</field>
+<field name="composer">Pablo Garrido</field>
+<field name="composerSort">Garrido, Pablo</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Cipriano Rivas Cherif</field>
+<field name="librettistSort">Cherif, Cipriano Rivas</field>
+<field name="theater">Teatro Municipal</field>
+<field name="city">Santiago</field>
+
+<field name="country">Chile</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sugestión+Pablo+Garrido&amp;search_field=search</field>
+</doc>
+</add>

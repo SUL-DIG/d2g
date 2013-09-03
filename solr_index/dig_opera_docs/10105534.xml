@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105534</field>
+<field name="genre">Operas</field>
+<field name="title">Ferrovia sopraelevata</field>
+<field name="titleSort">Ferrovia sopraelevata</field>
+<field name="composer">Luciano Chailly</field>
+<field name="composerSort">Chailly, Luciano</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Dino Buzzati</field>
+<field name="librettistSort">Buzzati, Dino</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ferrovia+sopraelevata+Luciano+Chailly&amp;search_field=search</field>
+</doc>
+</add>

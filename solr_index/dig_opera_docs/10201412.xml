@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201412</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fuga in Egitto</field>
+		<field name="titleSort">fuga in Egitto</field>
+		<field name="year">1721</field>
+		
+		
+		<field name="date">1721</field>
+		<field name="composer">Pietro Baldassari</field>
+		<field name="composerSort">Baldassari, Pietro</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Flight to Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fuga+in+Egitto+Pietro+Baldassari&amp;search_field=search</field>
+	</doc></add>

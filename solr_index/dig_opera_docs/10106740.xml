@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106740</field>
+<field name="genre">Operas</field>
+<field name="title">Egilda di Provenza</field>
+<field name="titleSort">Egilda di Provenza</field>
+<field name="composer">João Evangelista Pereira da Costa</field>
+<field name="composerSort">Costa, João Evangelista Pereira da</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Egilda+di+Provenza+João+Evangelista+Pereira+da+Costa&amp;search_field=search</field>
+</doc>
+</add>

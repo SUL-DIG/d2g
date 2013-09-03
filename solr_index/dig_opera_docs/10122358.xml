@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122358</field>
+<field name="genre">Operas</field>
+<field name="title">Le corsaire noir (Der schwarze Corsar)</field>
+<field name="titleSort">corsaire noir (Der schwarze Corsar)</field>
+<field name="composer">Jacques Offenbach</field>
+<field name="composerSort">Offenbach, Jacques</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+<field name="librettist">Étienne Tréfeu</field>
+<field name="librettistSort">Tréfeu, Étienne</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+corsaire+noir+Der+schwarze+Corsar+Jacques+Offenbach&amp;search_field=search</field>
+</doc>
+</add>

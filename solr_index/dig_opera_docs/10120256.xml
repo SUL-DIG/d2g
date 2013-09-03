@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120256</field>
+<field name="genre">Operas</field>
+<field name="title">"La dame voilée, ou L'adresse de l'amour</field>
+<field name="titleSort">"dame voilée, ou L'adresse de l'amour"</field>
+<field name="composer">Bernardo Mengozzi</field>
+<field name="composerSort">Mengozzi, Bernardo</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Alexandre de Ségur (fils)</field>
+<field name="librettistSort">Ségur (fils), Alexandre de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dame+voilée,+ou+L'adresse+de+l'amour+Bernardo+Mengozzi&amp;search_field=search</field>
+</doc>
+</add>

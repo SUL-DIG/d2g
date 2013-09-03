@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133255</field>
+<field name="genre">Operas</field>
+<field name="title">Mr. Sampson of Omaha</field>
+<field name="titleSort">Mr. Sampson of Omaha</field>
+<field name="composer">Eliza Mazzucato Young</field>
+<field name="composerSort">Young, Eliza Mazzucato</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Fred Nye</field>
+<field name="librettistSort">Nye, Fred</field>
+<field name="theater">Boyd's Opera House</field>
+<field name="city">Omaha</field>
+<field name="region">Nebraska</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Sampson+of+Omaha+Eliza+Mazzucato+Young&amp;search_field=search</field>
+</doc>
+</add>

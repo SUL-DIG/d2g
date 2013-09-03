@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106802</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Bridge</field>
+<field name="titleSort">Miss Bridge</field>
+<field name="composer">__ Couturel</field>
+<field name="composerSort">Couturel, __</field>
+<field name="year">1909</field>
+<field name="date">1909</field><field name="theater">Casino Eldorado</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Bridge+__+Couturel&amp;search_field=search</field>
+</doc>
+</add>

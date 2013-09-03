@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110754</field>
+<field name="genre">Operas</field>
+<field name="title">Una passeggiata sul palchetto a vapore</field>
+<field name="titleSort">passeggiata sul palchetto a vapore</field>
+<field name="composer">Nicolò Gabrielli</field>
+<field name="composerSort">Gabrielli, Nicolò</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Nicola Tauro</field>
+<field name="librettistSort">Tauro, Nicola</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+passeggiata+sul+palchetto+a+vapore+Nicolò+Gabrielli&amp;search_field=search</field>
+</doc>
+</add>

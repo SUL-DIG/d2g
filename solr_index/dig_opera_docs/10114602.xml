@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114602</field>
+<field name="genre">Operas</field>
+<field name="title">Love and Innocence</field>
+<field name="titleSort">Love and Innocence</field>
+<field name="composer">James Hook</field>
+<field name="composerSort">Hook, James</field>
+<field name="year">1769</field>
+<field name="date">1769</field><field name="theater">Marleybone Gardens Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+and+Innocence+James+Hook&amp;search_field=search</field>
+</doc>
+</add>

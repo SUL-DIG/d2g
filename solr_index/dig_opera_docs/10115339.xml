@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115339</field>
+<field name="genre">Operas</field>
+<field name="title">Didone abbandonata</field>
+<field name="titleSort">Didone abbandonata</field>
+<field name="composer">Niccolò Jommelli</field>
+<field name="composerSort">Jommelli, Niccolò</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Didone+abbandonata+Niccolò+Jommelli&amp;search_field=search</field>
+</doc>
+</add>

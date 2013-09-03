@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109018</field>
+<field name="genre">Operas</field>
+<field name="title">Still Dark Clouds</field>
+<field name="titleSort">Still Dark Clouds</field>
+<field name="composer">Joseph Esile</field>
+<field name="composerSort">Esile, Joseph</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Frank Langer</field>
+<field name="librettistSort">Langer, Frank</field>
+<field name="theater">Scottsdale Opera Company</field>
+<field name="city">Scottsdale</field>
+<field name="region">Arizona</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Still+Dark+Clouds+Joseph+Esile&amp;search_field=search</field>
+</doc>
+</add>

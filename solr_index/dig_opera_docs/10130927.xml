@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130927</field>
+<field name="genre">Operas</field>
+<field name="title">Un bartholo de carnaval</field>
+<field name="titleSort">bartholo de carnaval</field>
+<field name="composer">Louis Thomas</field>
+<field name="composerSort">Thomas, Louis</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Victor Poupin</field>
+<field name="librettistSort">Poupin, Victor</field>
+<field name="librettist">Manuel Bretón de los Herreros</field>
+<field name="librettistSort">Bretón de los Herreros, Manuel</field>
+<field name="theater">Théâtre du Luxembourg</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+bartholo+de+carnaval+Louis+Thomas&amp;search_field=search</field>
+</doc>
+</add>

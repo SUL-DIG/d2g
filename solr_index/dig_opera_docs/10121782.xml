@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121782</field>
+<field name="genre">Operas</field>
+<field name="title">Eugenia</field>
+<field name="titleSort">Eugenia</field>
+<field name="composer">Sebastiano Nasolini</field>
+<field name="composerSort">Nasolini, Sebastiano</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eugenia+Sebastiano+Nasolini&amp;search_field=search</field>
+</doc>
+</add>

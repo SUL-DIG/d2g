@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119234</field>
+<field name="genre">Operas</field>
+<field name="title">Anna e Gualberto</field>
+<field name="titleSort">Anna e Gualberto</field>
+<field name="composer">Luigi Mapelli</field>
+<field name="composerSort">Mapelli, Luigi</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Ferdinando Fontana</field>
+<field name="librettistSort">Fontana, Ferdinando</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna+e+Gualberto+Luigi+Mapelli&amp;search_field=search</field>
+</doc>
+</add>

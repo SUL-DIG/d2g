@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116883</field>
+<field name="genre">Operas</field>
+<field name="title">Skapet</field>
+<field name="titleSort">Skapet</field>
+<field name="composer">Oddvar S. Kvam</field>
+<field name="composerSort">Kvam, Oddvar S.</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Marit Hoem</field>
+<field name="librettistSort">Hoem, Marit</field>
+<field name="theater">Kunstindustrimuseet</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skapet+Oddvar+S.+Kvam&amp;search_field=search</field>
+</doc>
+</add>

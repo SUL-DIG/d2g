@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114242</field>
+<field name="genre">Operas</field>
+<field name="title">Wood Daemon</field>
+<field name="titleSort">Wood Daemon</field>
+<field name="composer">James Hewitt</field>
+<field name="composerSort">Hewitt, James</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Matthew Gregory Lewis</field>
+<field name="librettistSort">Lewis, Matthew Gregory</field>
+<field name="theater">Boston Theater</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wood+Daemon+James+Hewitt&amp;search_field=search</field>
+</doc>
+</add>

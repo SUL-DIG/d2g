@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106801</field>
+<field name="genre">Operas</field>
+<field name="title">Lanzelot und Elaine</field>
+<field name="titleSort">Lanzelot und Elaine</field>
+<field name="composer">Walter Courvoisier</field>
+<field name="composerSort">Courvoisier, Walter</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">[Bertha Thiersch] Walter Bergh</field>
+<field name="librettistSort">Bergh, Walter [Bertha Thiersch]</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lanzelot+und+Elaine+Walter+Courvoisier&amp;search_field=search</field>
+</doc>
+</add>

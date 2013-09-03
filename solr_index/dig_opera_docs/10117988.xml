@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117988</field>
+<field name="genre">Operas</field>
+<field name="title">La fête de Thémire</field>
+<field name="titleSort">fête de Thémire</field>
+<field name="composer">C. François Lescot</field>
+<field name="composerSort">Lescot, C. François</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">C. François Lescot</field>
+<field name="librettistSort">Lescot, C. François</field>
+
+<field name="city">Auch</field>
+<field name="region">Gers</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+de+Thémire+C.+François+Lescot&amp;search_field=search</field>
+</doc>
+</add>

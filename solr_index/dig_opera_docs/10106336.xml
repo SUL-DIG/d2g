@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106336</field>
+<field name="genre">Operas</field>
+<field name="title">Les noces d'or</field>
+<field name="titleSort">noces d'or</field>
+<field name="composer">Lucien Collin</field>
+<field name="composerSort">Collin, Lucien</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Benjamin Lebreton</field>
+<field name="librettistSort">Lebreton, Benjamin</field>
+<field name="librettist">Henry Moreau</field>
+<field name="librettistSort">Moreau, Henry</field>
+
+<field name="city">Bourbonne-les-Bains</field>
+<field name="region">Haute-Marne</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+noces+d'or+Lucien+Collin&amp;search_field=search</field>
+</doc>
+</add>

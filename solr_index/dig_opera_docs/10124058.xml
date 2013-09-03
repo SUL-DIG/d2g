@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124058</field>
+<field name="genre">Operas</field>
+<field name="title">Persée</field>
+<field name="titleSort">Persée</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Persée+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

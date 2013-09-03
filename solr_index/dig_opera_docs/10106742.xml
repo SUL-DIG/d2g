@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106742</field>
+<field name="genre">Operas</field>
+<field name="title">Il capitan Fracassa</field>
+<field name="titleSort">capitan Fracassa</field>
+<field name="composer">Mario Costa</field>
+<field name="composerSort">Costa, Mario</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">O. Magici</field>
+<field name="librettistSort">Magici, O.</field>
+<field name="librettist">Guglielmo Emanuel</field>
+<field name="librettistSort">Emanuel, Guglielmo</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+capitan+Fracassa+Mario+Costa&amp;search_field=search</field>
+</doc>
+</add>

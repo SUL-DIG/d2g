@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119739</field>
+<field name="genre">Operas</field>
+<field name="title">The Servants</field>
+<field name="titleSort">Servants</field>
+<field name="composer">William Mathias</field>
+<field name="composerSort">Mathias, William</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Iris Murdoch</field>
+<field name="librettistSort">Murdoch, Iris</field>
+<field name="theater">New Theatre</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Servants+William+Mathias&amp;search_field=search</field>
+</doc>
+</add>

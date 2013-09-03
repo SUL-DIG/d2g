@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126102</field>
+<field name="genre">Operas</field>
+<field name="title">Sekundenoper</field>
+<field name="titleSort">Sekundenoper</field>
+<field name="composer">Kurt-Dietmar Richter</field>
+<field name="composerSort">Richter, Kurt-Dietmar</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Hubertus Mathe</field>
+<field name="librettistSort">Mathe, Hubertus</field>
+
+<field name="city">Greifswald</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sekundenoper+Kurt-Dietmar+Richter&amp;search_field=search</field>
+</doc>
+</add>

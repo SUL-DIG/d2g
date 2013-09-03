@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123612</field>
+<field name="genre">Operas</field>
+<field name="title">La rose de Bakawali</field>
+<field name="titleSort">rose de Bakawali</field>
+<field name="composer">Willem Pelemans</field>
+<field name="composerSort">Pelemans, Willem</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Albert Lepage</field>
+<field name="librettistSort">Lepage, Albert"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rose+de+Bakawali+Willem+Pelemans&amp;search_field=search</field>
+</doc>
+</add>

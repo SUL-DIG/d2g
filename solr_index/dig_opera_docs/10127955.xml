@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127955</field>
+<field name="genre">Operas</field>
+<field name="title">"Diana, Amore, Venere</field>
+<field name="titleSort">"Diana, Amore, Venere"</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+
+
+
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diana,+Amore,+Venere+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

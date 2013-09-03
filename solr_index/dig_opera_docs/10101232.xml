@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101232</field>
+<field name="genre">Operas</field>
+<field name="title">Der Künstlerpreis</field>
+<field name="titleSort">Künstlerpreis</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Rudolf Oesterreicher</field>
+<field name="librettistSort">Oesterreicher, Rudolf</field>
+<field name="librettist">[Joseph Hostasch] Julius Horst</field>
+<field name="librettistSort">Horst, Julius [Joseph Hostasch]</field>
+<field name="theater">Apollotheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Künstlerpreis+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

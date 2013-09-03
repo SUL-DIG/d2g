@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123541</field>
+<field name="genre">Operas</field>
+<field name="title">Gil Draze</field>
+<field name="titleSort">Gil Draze</field>
+<field name="composer">E. Françoise Péan de la Roche-Jagu</field>
+<field name="composerSort">Roche-Jagu, E. Françoise Péan de la</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gil+Draze+E.+Françoise+Péan+de+la+Roche-Jagu&amp;search_field=search</field>
+</doc>
+</add>

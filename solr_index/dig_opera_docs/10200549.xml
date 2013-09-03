@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200549</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Casta Susana</field>
+		<field name="titleSort">Casta Susana</field>
+		<field name="year">1799</field>
+		
+		
+		<field name="date">1799</field>
+		<field name="composer">Josep Cau</field>
+		<field name="composerSort">Cau, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Susanna and the Elders</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casta+Susana+Josep+Cau&amp;search_field=search</field>
+	</doc></add>

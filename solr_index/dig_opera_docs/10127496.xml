@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127496</field>
+<field name="genre">Operas</field>
+<field name="title">I burgravi</field>
+<field name="titleSort">burgravi</field>
+<field name="composer">Matteo Salvi</field>
+<field name="composerSort">Salvi, Matteo</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Giacomo Sacchèro</field>
+<field name="librettistSort">Sacchèro, Giacomo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+burgravi+Matteo+Salvi&amp;search_field=search</field>
+</doc>
+</add>

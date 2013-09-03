@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101553</field>
+<field name="genre">Operas</field>
+<field name="title">Des Königs Garde</field>
+<field name="titleSort">Königs Garde</field>
+<field name="composer">Leonhard Emil Bach</field>
+<field name="composerSort">Bach, Leonhard Emil</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Max Brandes</field>
+<field name="librettistSort">Brandes, Max</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Königs+Garde+Leonhard+Emil+Bach&amp;search_field=search</field>
+</doc>
+</add>

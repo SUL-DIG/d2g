@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114718</field>
+<field name="genre">Operas</field>
+<field name="title">Zaklety princ (The Enchanted Prince)</field>
+<field name="titleSort">Zaklety princ (The Enchanted Prince)</field>
+<field name="composer">Voytech Hrimalý</field>
+<field name="composerSort">Hrimalý, Voytech</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Jindrich Böhm</field>
+<field name="librettistSort">Böhm, Jindrich</field>
+<field name="theater">Novomestské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaklety+princ+The+Enchanted+Prince+Voytech+Hrimalý&amp;search_field=search</field>
+</doc>
+</add>

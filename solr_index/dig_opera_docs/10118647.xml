@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118647</field>
+<field name="genre">Operas</field>
+<field name="title">Achille et Polyxène</field>
+<field name="titleSort">Achille et Polyxène</field>
+<field name="composer">Jean-Baptiste Lully</field>
+<field name="composerSort">Lully, Jean-Baptiste</field>
+<field name="year">1687</field>
+<field name="date">1687</field>
+<field name="librettist">Jean Galbert de Campistron</field>
+<field name="librettistSort">Campistron, Jean Galbert de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Achille+et+Polyxène+Jean-Baptiste+Lully&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126466</field>
+<field name="genre">Operas</field>
+<field name="title">Schuster Jahn</field>
+<field name="titleSort">Schuster Jahn</field>
+<field name="composer">Gustav Roessler</field>
+<field name="composerSort">Roessler, Gustav</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Gustav Roessler</field>
+<field name="librettistSort">Roessler, Gustav</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schuster+Jahn+Gustav+Roessler&amp;search_field=search</field>
+</doc>
+</add>

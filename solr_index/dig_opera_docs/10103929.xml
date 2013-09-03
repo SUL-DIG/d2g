@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103929</field>
+<field name="genre">Operas</field>
+<field name="title">The Secular Masque</field>
+<field name="titleSort">Secular Masque</field>
+<field name="composer">William Boyce</field>
+<field name="composerSort">Boyce, William</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">John Dryden</field>
+<field name="librettistSort">Dryden, John</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Secular+Masque+William+Boyce&amp;search_field=search</field>
+</doc>
+</add>

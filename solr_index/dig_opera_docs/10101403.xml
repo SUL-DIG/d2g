@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101403</field>
+<field name="genre">Operas</field>
+<field name="title">La forêt bleue</field>
+<field name="titleSort">forêt bleue</field>
+<field name="composer">Louis François Marie Aubert</field>
+<field name="composerSort">Aubert, Louis François Marie</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Jacques Chenevière</field>
+<field name="librettistSort">Chenevière, Jacques</field>
+<field name="theater">Opera House</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forêt+bleue+Louis+François+Marie+Aubert&amp;search_field=search</field>
+</doc>
+</add>

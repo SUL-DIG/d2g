@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128301</field>
+<field name="genre">Operas</field>
+<field name="title">Die Walzerkönigin</field>
+<field name="titleSort">Walzerkönigin</field>
+<field name="composer">Ludwig Schmidseder</field>
+<field name="composerSort">Schmidseder, Ludwig</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Hubert Marischka</field>
+<field name="librettistSort">Marischka, Hubert</field>
+<field name="librettist">Aldo Pinelli</field>
+<field name="librettistSort">Pinelli, Aldo</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Walzerkönigin+Ludwig+Schmidseder&amp;search_field=search</field>
+</doc>
+</add>

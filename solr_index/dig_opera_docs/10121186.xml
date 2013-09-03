@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121186</field>
+<field name="genre">Operas</field>
+<field name="title">"Raollo, signore di Crequi</field>
+<field name="titleSort">"Raollo, signore di Crequi"</field>
+<field name="composer">António Leal Moreira</field>
+<field name="composerSort">Moreira, António Leal</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Jacques-Marie Boutet de Monvel</field>
+<field name="librettistSort">Monvel, Jacques-Marie Boutet de</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raollo,+signore+di+Crequi+António+Leal+Moreira&amp;search_field=search</field>
+</doc>
+</add>

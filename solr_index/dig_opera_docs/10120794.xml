@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120794</field>
+<field name="genre">Operas</field>
+<field name="title">Leur femme</field>
+<field name="titleSort">Leur femme</field>
+<field name="composer">Edmond Jean Louis Missa</field>
+<field name="composerSort">Missa, Edmond Jean Louis</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Paul Fournier</field>
+<field name="librettistSort">Fournier, Paul</field>
+<field name="theater">Théâtre de l'Olympia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leur+femme+Edmond+Jean+Louis+Missa&amp;search_field=search</field>
+</doc>
+</add>

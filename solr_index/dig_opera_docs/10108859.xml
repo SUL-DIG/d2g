@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108859</field>
+<field name="genre">Operas</field>
+<field name="title">Richard und Blondel</field>
+<field name="titleSort">Richard und Blondel</field>
+<field name="composer">Daniel Elster</field>
+<field name="composerSort">Elster, Daniel</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">[Friedrich Adami] Paul Frohberg</field>
+<field name="librettistSort">Frohberg, Paul [Friedrich Adami]</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Meiningen</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Richard+und+Blondel+Daniel+Elster&amp;search_field=search</field>
+</doc>
+</add>

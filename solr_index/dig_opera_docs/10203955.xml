@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203955</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sankt Odilia</field>
+		<field name="titleSort">Sankt Odilia</field>
+		<field name="year">1934</field>
+		
+		
+		<field name="date">1934</field>
+		<field name="composer">Jules Weyer</field>
+		<field name="composerSort">Weyer, Jules</field>
+		<field name="librettist">Paul Schneider</field>
+		<field name="librettistSort">Schneider, Paul</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Odilia</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">13</field>
+		<field name="feastDate">December 13</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sankt+Odilia+Jules+Weyer&amp;search_field=search</field>
+	</doc></add>

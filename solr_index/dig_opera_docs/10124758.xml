@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124758</field>
+<field name="genre">Operas</field>
+<field name="title">La belle aux cheveux d'or</field>
+<field name="titleSort">belle aux cheveux d'or</field>
+<field name="composer">Eugène Poncin</field>
+<field name="composerSort">Poncin, Eugène</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Louis Bouvet</field>
+<field name="librettistSort">Bouvet, Louis</field>
+<field name="librettist">Émile Herbel</field>
+<field name="librettistSort">Herbel, Émile</field>
+<field name="theater">Théâtre des Variétés-Casino</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+aux+cheveux+d'or+Eugène+Poncin&amp;search_field=search</field>
+</doc>
+</add>

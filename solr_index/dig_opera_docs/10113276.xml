@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113276</field>
+<field name="genre">Operas</field>
+<field name="title">Joan Kukuzel</field>
+<field name="titleSort">Joan Kukuzel</field>
+<field name="composer">Parashkev Hadjiev</field>
+<field name="composerSort">Hadjiev, Parashkev</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Vasil Mirchovski</field>
+<field name="librettistSort">Mirchovski, Vasil</field>
+<field name="theater">Sofiyska Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joan+Kukuzel+Parashkev+Hadjiev&amp;search_field=search</field>
+</doc>
+</add>

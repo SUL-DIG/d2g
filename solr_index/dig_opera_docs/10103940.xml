@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103940</field>
+<field name="genre">Operas</field>
+<field name="title">Telmah</field>
+<field name="titleSort">Telmah</field>
+<field name="composer">Darijan Bozic</field>
+<field name="composerSort">Bozic, Darijan</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="librettist">Robert Bolt</field>
+<field name="librettistSort">Bolt, Robert</field>
+<field name="theater">Kazaliste</field>
+<field name="city">Opatija</field>
+<field name="region">Primorje-Gorski</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Telmah+Darijan+Bozic&amp;search_field=search</field>
+</doc>
+</add>

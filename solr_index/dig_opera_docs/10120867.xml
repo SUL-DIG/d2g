@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120867</field>
+<field name="genre">Operas</field>
+<field name="title">"Arlequin Cendrillon, ou Le chien merveilleux</field>
+<field name="titleSort">"Arlequin Cendrillon, ou Le chien merveilleux"</field>
+<field name="composer">Jerôme-Joseph de Momigny</field>
+<field name="composerSort">Momigny, Jerôme-Joseph de</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arlequin+Cendrillon,+ou+Le+chien+merveilleux+Jerôme-Joseph+de+Momigny&amp;search_field=search</field>
+</doc>
+</add>

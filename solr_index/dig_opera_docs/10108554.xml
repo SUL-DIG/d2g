@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108554</field>
+<field name="genre">Operas</field>
+<field name="title">La caffettiera di spirito</field>
+<field name="titleSort">caffettiera di spirito</field>
+<field name="composer">Josef Dussek</field>
+<field name="composerSort">Dussek, Josef</field>
+<field name="year">1806</field>
+<field name="date">1806</field><field name="theater">Teatro Carcano</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caffettiera+di+spirito+Josef+Dussek&amp;search_field=search</field>
+</doc>
+</add>

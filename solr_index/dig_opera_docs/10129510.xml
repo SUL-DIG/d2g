@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129510</field>
+<field name="genre">Operas</field>
+<field name="title">Haavruuva (The Mermaid)</field>
+<field name="titleSort">Haavruuva (The Mermaid)</field>
+<field name="composer">Ahti Sonninen</field>
+<field name="composerSort">Sonninen, Ahti</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Paavo Pitkänen</field>
+<field name="librettistSort">Pitkänen, Paavo</field>
+<field name="theater">Tampere Opera</field>
+<field name="city">Tampere</field>
+<field name="region">Hämeen</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Haavruuva+The+Mermaid+Ahti+Sonninen&amp;search_field=search</field>
+</doc>
+</add>

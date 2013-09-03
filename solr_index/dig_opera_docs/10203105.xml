@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203105</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Oratorio per la festivitа del glorioso San Nicola, vescovo di Mira</field>
+		<field name="titleSort">Oratorio per la festivitа del glorioso San Nicola, vescovo di Mira</field>
+		<field name="year">1709</field>
+		<field name="month">December</field>
+		
+		<field name="date">December 1709</field>
+		<field name="composer">Michele de Falco</field>
+		<field name="composerSort">Falco, Michele de</field>
+		
+		
+		<field name="theater">Giovinazzo, casa di Domenico Francesco Celentano</field>
+		<field name="city">Bari</field>
+		<field name="region">Puglia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Nicholas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">December 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oratorio+per+la+festivitа+del+glorioso+San+Nicola,+vescovo+di+Mira+Michele+de+Falco&amp;search_field=search</field>
+	</doc></add>

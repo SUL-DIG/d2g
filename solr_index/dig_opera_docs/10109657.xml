@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109657</field>
+<field name="genre">Operas</field>
+<field name="title">Ettore Fieramosca</field>
+<field name="titleSort">Ettore Fieramosca</field>
+<field name="composer">Vincenzo Ferroni</field>
+<field name="composerSort">Ferroni, Vincenzo</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Vincenzo Ferroni</field>
+<field name="librettistSort">Ferroni, Vincenzo</field>
+
+<field name="city">Como</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ettore+Fieramosca+Vincenzo+Ferroni&amp;search_field=search</field>
+</doc>
+</add>

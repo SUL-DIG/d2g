@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204884</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il voto di Jefte</field>
+		<field name="titleSort">voto di Jefte</field>
+		<field name="year">1771</field>
+		
+		
+		<field name="date">1771</field>
+		<field name="composer">Pietro Avondano</field>
+		<field name="composerSort">Avondano, Pietro</field>
+		<field name="librettist">Girolamo Tonioli</field>
+		<field name="librettistSort">Tonioli, Girolamo</field>
+		
+		
+		<field name="city">Lisbon</field>
+		<field name="region">Lisboa</field>
+		<field name="country">Portugal</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+voto+di+Jefte+Pietro+Avondano&amp;search_field=search</field>
+	</doc></add>

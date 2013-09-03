@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104344</field>
+<field name="genre">Operas</field>
+<field name="title">Zhalbir</field>
+<field name="titleSort">Zhalbir</field>
+<field name="composer">Yevgeny Grigor'yevich Brusilovsky</field>
+<field name="composerSort">Brusilovsky, Yevgeny Grigor'yevich</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Beimbet Maylin</field>
+<field name="librettistSort">Maylin, Beimbet</field>
+<field name="theater">Kazakhskiy Gosudarstvennïy Teatr</field>
+<field name="city">Alma-Ata</field>
+
+<field name="country">Kazakhstan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zhalbir+Yevgeny+Grigor'yevich+Brusilovsky&amp;search_field=search</field>
+</doc>
+</add>

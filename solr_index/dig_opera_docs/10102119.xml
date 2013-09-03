@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102119</field>
+<field name="genre">Operas</field>
+<field name="title">Les législatrices</field>
+<field name="titleSort">législatrices</field>
+<field name="composer">[Henriette-Adélaïde Villard] Beaumesnil</field>
+<field name="composerSort">Beaumesnil, [Henriette-Adélaïde Villard]</field>
+<field name="year">1786</field>
+<field name="date">1786</field><field name="theater">Théâtre de la Montagne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+législatrices+Henriette-Adélaïde+Villard]+Beaumesnil&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126007</field>
+<field name="genre">Operas</field>
+<field name="title">Tenor und Bass</field>
+<field name="titleSort">Tenor und Bass</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1934</field>
+<field name="date">1934</field><field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tenor+und+Bass+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

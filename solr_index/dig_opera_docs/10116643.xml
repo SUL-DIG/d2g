@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116643</field>
+<field name="genre">Operas</field>
+<field name="title">Die vierte Monarchie</field>
+<field name="titleSort">vierte Monarchie</field>
+<field name="composer">Johann Krieger</field>
+<field name="composerSort">Krieger, Johann</field>
+<field name="year">1684</field>
+<field name="date">1684</field><field name="theater">Christiansburg Schlosstheater</field>
+<field name="city">Eisenberg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+vierte+Monarchie+Johann+Krieger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129311</field>
+<field name="genre">Operas</field>
+<field name="title">The Unicorn in the Garden</field>
+<field name="titleSort">Unicorn in the Garden</field>
+<field name="composer">Russell Smith</field>
+<field name="composerSort">Smith, Russell</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">James Thurber</field>
+<field name="librettistSort">Thurber, James</field>
+<field name="theater">Hartt School of Music</field>
+<field name="city">Hartford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Unicorn+in+the+Garden+Russell+Smith&amp;search_field=search</field>
+</doc>
+</add>

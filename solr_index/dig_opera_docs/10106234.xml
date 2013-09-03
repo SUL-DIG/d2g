@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106234</field>
+<field name="genre">Operas</field>
+<field name="title">Eloisa d'Aix</field>
+<field name="titleSort">Eloisa d'Aix</field>
+<field name="composer">Filippo Codivilla</field>
+<field name="composerSort">Codivilla, Filippo</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Ugo Bassini</field>
+<field name="librettistSort">Bassini, Ugo</field>
+<field name="theater">Teatro del Corso</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eloisa+d'Aix+Filippo+Codivilla&amp;search_field=search</field>
+</doc>
+</add>

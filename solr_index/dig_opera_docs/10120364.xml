@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120364</field>
+<field name="genre">Operas</field>
+<field name="title">Cecilia</field>
+<field name="titleSort">Cecilia</field>
+<field name="composer">Armando Mercuri</field>
+<field name="composerSort">Mercuri, Armando</field>
+<field name="year">1910</field>
+<field name="date">1910</field><field name="theater">Teatro Morlacchi</field>
+<field name="city">Perugia</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cecilia+Armando+Mercuri&amp;search_field=search</field>
+</doc>
+</add>

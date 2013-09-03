@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117904</field>
+<field name="genre">Operas</field>
+<field name="title">Der schwarze Tenor</field>
+<field name="titleSort">schwarze Tenor</field>
+<field name="composer">August Léon</field>
+<field name="composerSort">Léon, August</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Hugo Wittmann</field>
+<field name="librettistSort">Wittmann, Hugo</field>
+<field name="librettist">Richard Manz</field>
+<field name="librettistSort">Manz, Richard</field>
+<field name="theater">Sommer-Theater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+schwarze+Tenor+August+Léon&amp;search_field=search</field>
+</doc>
+</add>

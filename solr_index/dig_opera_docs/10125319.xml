@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125319</field>
+<field name="genre">Operas</field>
+<field name="title">The Fairy Queen</field>
+<field name="titleSort">Fairy Queen</field>
+<field name="composer">Henry Purcell</field>
+<field name="composerSort">Purcell, Henry</field>
+<field name="year">1692</field>
+<field name="date">1692</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">"Duke's Theatre, Dorset Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fairy+Queen+Henry+Purcell&amp;search_field=search</field>
+</doc>
+</add>

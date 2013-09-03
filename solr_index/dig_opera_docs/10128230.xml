@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128230</field>
+<field name="genre">Operas</field>
+<field name="title">Mona Lisa</field>
+<field name="titleSort">Mona Lisa</field>
+<field name="composer">Max von Schillings</field>
+<field name="composerSort">Schillings, Max von</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">[Beatrice Freiin von Vay] Beatrice Dovsky</field>
+<field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mona+Lisa+Max+von+Schillings&amp;search_field=search</field>
+</doc>
+</add>

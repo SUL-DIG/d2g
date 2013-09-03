@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107294</field>
+<field name="genre">Operas</field>
+<field name="title">Valse et menuet</field>
+<field name="titleSort">Valse et menuet</field>
+<field name="composer">Louis Deffès</field>
+<field name="composerSort">Deffès, Louis</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Jules Adénis</field>
+<field name="librettistSort">Adénis, Jules</field>
+<field name="librettist">Joseph Méry</field>
+<field name="librettistSort">Méry, Joseph</field>
+<field name="theater">Kursaal</field>
+<field name="city">Bad Ems</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Valse+et+menuet+Louis+Deffès&amp;search_field=search</field>
+</doc>
+</add>

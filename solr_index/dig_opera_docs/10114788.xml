@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114788</field>
+<field name="genre">Operas</field>
+<field name="title">Serch yw'r Doctor (Love's the Doctor)</field>
+<field name="titleSort">Serch yw'r Doctor (Love's the Doctor)</field>
+<field name="composer">Arwel Hughes</field>
+<field name="composerSort">Hughes, Arwel</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Saunders Lewis</field>
+<field name="librettistSort">Lewis, Saunders</field>
+<field name="theater">Sophia Gardens Pavilion</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Serch+yw'r+Doctor+Love's+the+Doctor+Arwel+Hughes&amp;search_field=search</field>
+</doc>
+</add>

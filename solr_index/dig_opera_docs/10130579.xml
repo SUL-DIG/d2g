@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130579</field>
+<field name="genre">Operas</field>
+<field name="title">The Dybbuk</field>
+<field name="titleSort">Dybbuk</field>
+<field name="composer">David Tamkin</field>
+<field name="composerSort">Tamkin, David</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Alex Tamkin</field>
+<field name="librettistSort">Tamkin, Alex</field>
+<field name="librettist">[Shloyme Zaynv Rapoport] An-ski</field>
+<field name="librettistSort">An-ski, [Shloyme Zaynv Rapoport]</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Dybbuk+David+Tamkin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107490</field>
+<field name="genre">Operas</field>
+<field name="title">Il ratto d'Irene</field>
+<field name="titleSort">ratto d'Irene</field>
+<field name="composer">Francesco Del Prete</field>
+<field name="composerSort">Prete, Francesco Del</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="city">Viareggio</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ratto+d'Irene+Francesco+Del+Prete&amp;search_field=search</field>
+</doc>
+</add>

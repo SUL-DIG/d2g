@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114235</field>
+<field name="genre">Operas</field>
+<field name="title">"Pizarro in Peru, or The Death of Rolla</field>
+<field name="titleSort">"Pizarro in Peru, or The Death of Rolla"</field>
+<field name="composer">James Hewitt</field>
+<field name="composerSort">Hewitt, James</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">William Dunlap</field>
+<field name="librettistSort">Dunlap, William</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pizarro+in+Peru,+or+The+Death+of+Rolla+James+Hewitt&amp;search_field=search</field>
+</doc>
+</add>

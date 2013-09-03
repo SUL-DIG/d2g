@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101053</field>
+<field name="genre">Operas</field>
+<field name="title">"Henry and Emma, or The Nut-brown Maid</field>
+<field name="titleSort">"Henry and Emma, or The Nut-brown Maid"</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">Matthew Prior</field>
+<field name="librettistSort">Prior, Matthew</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Henry+and+Emma,+or+The+Nut-brown+Maid+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

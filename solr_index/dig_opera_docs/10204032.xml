@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204032</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Eufrosina</field>
+		<field name="titleSort">Sant' Eufrosina</field>
+		<field name="year">1713</field>
+		
+		
+		<field name="date">1713</field>
+		<field name="composer">Marc Antonio Ziani</field>
+		<field name="composerSort">Ziani, Marc Antonio</field>
+		<field name="librettist">Paolo Antonio del Negro</field>
+		<field name="librettistSort">Negro, Paolo Antonio del</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Euphrosyne of Polotsk</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">23</field>
+		<field name="feastDate">May 23</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Eufrosina+Marc+Antonio+Ziani&amp;search_field=search</field>
+	</doc></add>

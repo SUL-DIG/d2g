@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133409</field>
+<field name="genre">Operas</field>
+<field name="title">Fait divers</field>
+<field name="titleSort">Fait divers</field>
+<field name="composer">Julien-François Zbinden</field>
+<field name="composerSort">Zbinden, Julien-François</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Marcel Sénéchaud</field>
+<field name="librettistSort">Sénéchaud, Marcel</field>
+<field name="theater">Radio Suisse Romande</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fait+divers+Julien-François+Zbinden&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204935</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Word</field>
+		<field name="titleSort">Word</field>
+		<field name="year">1945</field>
+		
+		
+		<field name="date">1945</field>
+		<field name="composer">Edna Anne Hall</field>
+		<field name="composerSort">Hall, Edna Anne</field>
+		<field name="librettist">Eleanor Flock</field>
+		<field name="librettistSort">Flock, Eleanor</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Word of God</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Word+Edna+Anne+Hall&amp;search_field=search</field>
+	</doc></add>

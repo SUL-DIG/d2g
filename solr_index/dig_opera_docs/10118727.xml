@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118727</field>
+<field name="genre">Operas</field>
+<field name="title">Koza-Dereza (The Nanny-Goat)</field>
+<field name="titleSort">Koza-Dereza (The Nanny-Goat)</field>
+<field name="composer">Mykola Vitaliyovych Lysenko</field>
+<field name="composerSort">Lysenko, Mykola Vitaliyovych</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Lyudmyla Vasil'yevskaya</field>
+<field name="librettistSort">Vasil'yevskaya, Lyudmyla</field>
+<field name="theater">Hall of Commerce</field>
+<field name="city">Kiev</field>
+<field name="region">Kyïvs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Koza-Dereza+The+Nanny-Goat+Mykola+Vitaliyovych+Lysenko&amp;search_field=search</field>
+</doc>
+</add>

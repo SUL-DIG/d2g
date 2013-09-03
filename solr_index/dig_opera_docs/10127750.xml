@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127750</field>
+<field name="genre">Operas</field>
+<field name="title">I finti eredi</field>
+<field name="titleSort">finti eredi</field>
+<field name="composer">Giuseppe Sarti</field>
+<field name="composerSort">Sarti, Giuseppe</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">"Kamennïy Ostrov, Kamennoostrovsky Palace"</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+finti+eredi+Giuseppe+Sarti&amp;search_field=search</field>
+</doc>
+</add>

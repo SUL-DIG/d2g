@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115474</field>
+<field name="genre">Operas</field>
+<field name="title">V ogne: pod Moskvoi (Into the Fire)</field>
+<field name="titleSort">V ogne: pod Moskvoi (Into the Fire)</field>
+<field name="composer">Dmitry Borisovich Kabalevsky</field>
+<field name="composerSort">Kabalevsky, Dmitry Borisovich</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Tsezar Samoilovich Solodar'</field>
+<field name="librettistSort">Solodar', Tsezar Samoilovich</field>
+<field name="theater">Bol'shoy Branch</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=V+ogne:+pod+Moskvoi+Into+the+Fire+Dmitry+Borisovich+Kabalevsky&amp;search_field=search</field>
+</doc>
+</add>

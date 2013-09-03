@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125735</field>
+<field name="genre">Operas</field>
+<field name="title">Hobson's Choice</field>
+<field name="titleSort">Hobson's Choice</field>
+<field name="composer">William Reeve</field>
+<field name="composerSort">Reeve, William</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Walley Chamberlain Oulton</field>
+<field name="librettistSort">Oulton, Walley Chamberlain</field>
+<field name="theater">Royalty Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hobson's+Choice+William+Reeve&amp;search_field=search</field>
+</doc>
+</add>

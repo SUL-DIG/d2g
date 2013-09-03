@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127269</field>
+<field name="genre">Operas</field>
+<field name="title">Bellerofonte</field>
+<field name="titleSort">Bellerofonte</field>
+<field name="composer">Francesco Sacrati</field>
+<field name="composerSort">Sacrati, Francesco</field>
+<field name="year">1642</field>
+<field name="date">1642</field>
+<field name="librettist">Vincenzo Nolfi</field>
+<field name="librettistSort">Nolfi, Vincenzo</field>
+<field name="theater">Teatro Novissimo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bellerofonte+Francesco+Sacrati&amp;search_field=search</field>
+</doc>
+</add>

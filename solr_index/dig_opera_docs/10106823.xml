@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106823</field>
+<field name="genre">Operas</field>
+<field name="title">The Nightingale</field>
+<field name="titleSort">Nightingale</field>
+<field name="composer">Dorothy Lamb Crawford</field>
+<field name="composerSort">Crawford, Dorothy Lamb</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Vassar College</field>
+<field name="city">Poughkeepsie</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Nightingale+Dorothy+Lamb+Crawford&amp;search_field=search</field>
+</doc>
+</add>

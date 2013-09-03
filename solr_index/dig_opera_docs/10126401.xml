@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126401</field>
+<field name="genre">Operas</field>
+<field name="title">Ariane</field>
+<field name="titleSort">Ariane</field>
+<field name="composer">Jean-Baptiste Rochefort</field>
+<field name="composerSort">Rochefort, Jean-Baptiste</field>
+<field name="year">1788</field>
+<field name="date">1788</field><field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariane+Jean-Baptiste+Rochefort&amp;search_field=search</field>
+</doc>
+</add>

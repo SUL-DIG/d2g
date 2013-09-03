@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103777</field>
+<field name="genre">Operas</field>
+<field name="title">Die Brüder</field>
+<field name="titleSort">Brüder</field>
+<field name="composer">Viktor Boschetti</field>
+<field name="composerSort">Boschetti, Viktor</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Joseph von Wenz</field>
+<field name="librettistSort">Wenz, Joseph von</field>
+<field name="theater">Neue Ständische Theater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Brüder+Viktor+Boschetti&amp;search_field=search</field>
+</doc>
+</add>

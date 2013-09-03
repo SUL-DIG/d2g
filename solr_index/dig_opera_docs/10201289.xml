@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201289</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Feier der Christen auf Golgatha</field>
+		<field name="titleSort">Feier der Christen auf Golgatha</field>
+		<field name="year">1784</field>
+		
+		
+		<field name="date">1784</field>
+		<field name="composer">Johann Gottfried Schicht</field>
+		<field name="composerSort">Schicht, Johann Gottfried</field>
+		<field name="librettist">Carl Christophorus Hieremias Rost</field>
+		<field name="librettistSort">Rost, Carl Christophorus Hi</field>
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Crucifixion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Feier+der+Christen+auf+Golgatha+Johann+Gottfried+Schicht&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201334</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il figliuolo prodigo</field>
+		<field name="titleSort">figliuolo prodigo</field>
+		<field name="year">1735</field>
+		<field name="month">March</field>
+		<field name="day">10</field>
+		<field name="date">March 10, 1735</field>
+		<field name="composer">Ignazio Maria Conti</field>
+		<field name="composerSort">Conti, Ignazio Maria</field>
+		<field name="librettist">Giovanni Claudio Pasquini</field>
+		<field name="librettistSort">Pasquini, Giovanni Claudio</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figliuolo+prodigo+Ignazio+Maria+Conti&amp;search_field=search</field>
+	</doc></add>

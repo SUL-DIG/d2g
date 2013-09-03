@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118624</field>
+<field name="genre">Operas</field>
+<field name="title">Mam'selle Napoleon</field>
+<field name="titleSort">Mam'selle Napoleon</field>
+<field name="composer">Gustave Luders</field>
+<field name="composerSort">Luders, Gustave</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Joseph William Herbert</field>
+<field name="librettistSort">Herbert, Joseph William</field>
+<field name="theater">Knickerbocker Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mam'selle+Napoleon+Gustave+Luders&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122292</field>
+<field name="genre">Operas</field>
+<field name="title">Herr Arnes Penningar (Mr. Arne's Treasure)</field>
+<field name="titleSort">Herr Arnes Penningar (Mr. Arne's Treasure)</field>
+<field name="composer">Gosta Nyström</field>
+<field name="composerSort">Nyström, Gosta</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Bertil Malmberg</field>
+<field name="librettistSort">Malmberg, Bertil</field>
+<field name="librettist">Selma Lagerlöf</field>
+<field name="librettistSort">Lagerlöf, Selma</field>
+<field name="theater">SR Radio (Sveriges Radio)</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Herr+Arnes+Penningar+Mr.+Arne's+Treasure+Gosta+Nyström&amp;search_field=search</field>
+</doc>
+</add>

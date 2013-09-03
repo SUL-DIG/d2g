@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122475</field>
+<field name="genre">Operas</field>
+<field name="title">The Girl and the Unicorn</field>
+<field name="titleSort">Girl and the Unicorn</field>
+<field name="composer">Stephen Oliver</field>
+<field name="composerSort">Oliver, Stephen</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Stephen Oliver</field>
+<field name="librettistSort">Oliver, Stephen</field>
+<field name="theater">Saint James Norland Church</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Girl+and+the+Unicorn+Stephen+Oliver&amp;search_field=search</field>
+</doc>
+</add>

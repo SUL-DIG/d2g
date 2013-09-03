@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109547</field>
+<field name="genre">Operas</field>
+<field name="title">Sin de monio no hay fortuna</field>
+<field name="titleSort">Sin de monio no hay fortuna</field>
+<field name="composer">Jorge Fernández Guerra</field>
+<field name="composerSort">Guerra, Jorge Fernández</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Leopoldo Alas</field>
+<field name="librettistSort">Alas, Leopoldo</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sin+de+monio+no+hay+fortuna+Jorge+Fernández+Guerra&amp;search_field=search</field>
+</doc>
+</add>

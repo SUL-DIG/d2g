@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109424</field>
+<field name="genre">Operas</field>
+<field name="title">Camilla</field>
+<field name="titleSort">Camilla</field>
+<field name="composer">Guszti Fay</field>
+<field name="composerSort">Fay, Guszti</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Albert Fay</field>
+<field name="librettistSort">Fay, Albert</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Camilla+Guszti+Fay&amp;search_field=search</field>
+</doc>
+</add>

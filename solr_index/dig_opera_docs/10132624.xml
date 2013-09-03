@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132624</field>
+<field name="genre">Operas</field>
+<field name="title">Dracula</field>
+<field name="titleSort">Dracula</field>
+<field name="composer">Ron Weidberg</field>
+<field name="composerSort">Weidberg, Ron</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Irwin Donald Nier</field>
+<field name="librettistSort">Nier, Irwin Donald</field>
+<field name="librettist">Bram Stoker</field>
+<field name="librettistSort">Stoker, Bram</field>
+<field name="theater">Greenwich House Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dracula+Ron+Weidberg&amp;search_field=search</field>
+</doc>
+</add>

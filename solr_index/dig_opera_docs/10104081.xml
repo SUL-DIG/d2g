@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104081</field>
+<field name="genre">Operas</field>
+<field name="title">La fiera di Frascati</field>
+<field name="titleSort">fiera di Frascati</field>
+<field name="composer">Pietro Bresciani</field>
+<field name="composerSort">Bresciani, Pietro</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">Paolo Pola</field>
+<field name="librettistSort">Pola, Paolo</field>
+<field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiera+di+Frascati+Pietro+Bresciani&amp;search_field=search</field>
+</doc>
+</add>

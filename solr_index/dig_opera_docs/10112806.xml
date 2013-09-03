@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112806</field>
+<field name="genre">Operas</field>
+<field name="title">Le petit Abbé</field>
+<field name="titleSort">petit Abbé</field>
+<field name="composer">Charles Grisart</field>
+<field name="composerSort">Grisart, Charles</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">[Georges Degas] Armand Liorat</field>
+<field name="librettistSort">Liorat, Armand [Georges Degas]</field>
+<field name="librettist">Henri Bocage</field>
+<field name="librettistSort">Bocage, Henri</field>
+<field name="theater">Théâtre du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+petit+Abbé+Charles+Grisart&amp;search_field=search</field>
+</doc>
+</add>

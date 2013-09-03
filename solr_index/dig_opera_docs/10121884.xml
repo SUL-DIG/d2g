@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121884</field>
+<field name="genre">Operas</field>
+<field name="title">Una ragazza arrivò</field>
+<field name="titleSort">ragazza arrivò</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Gino Negri</field>
+<field name="librettistSort">Negri, Gino</field>
+<field name="librettist">Dino Buzzati</field>
+<field name="librettistSort">Buzzati, Dino"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+ragazza+arrivò+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116269</field>
+<field name="genre">Operas</field>
+<field name="title">Die Männer sind mal so</field>
+<field name="titleSort">Männer sind mal so</field>
+<field name="composer">Walter Kollo</field>
+<field name="composerSort">Kollo, Walter</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Theo Halton</field>
+<field name="librettistSort">Halton, Theo</field>
+<field name="librettist">[Fritz Oliven] Rideamus</field>
+<field name="librettistSort">Rideamus, [Fritz Oliven]</field>
+<field name="theater">Schillertheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Männer+sind+mal+so+Walter+Kollo&amp;search_field=search</field>
+</doc>
+</add>

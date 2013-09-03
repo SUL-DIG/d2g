@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110556</field>
+<field name="genre">Operas</field>
+<field name="title">Dafne vendicata</field>
+<field name="titleSort">Dafne vendicata</field>
+<field name="composer">Joseph Friebert</field>
+<field name="composerSort">Friebert, Joseph</field>
+
+<field name="date">theaterJesuit College</field>
+<field name="city">Opava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dafne+vendicata+Joseph+Friebert&amp;search_field=search</field>
+</doc>
+</add>

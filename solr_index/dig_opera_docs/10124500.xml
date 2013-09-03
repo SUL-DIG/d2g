@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124500</field>
+<field name="genre">Operas</field>
+<field name="title">Krieg über Sonja</field>
+<field name="titleSort">Krieg über Sonja</field>
+<field name="composer">Horst Platen</field>
+<field name="composerSort">Platen, Horst</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Peter Franz Stubmann</field>
+<field name="librettistSort">Stubmann, Peter Franz</field>
+<field name="theater">NORAG Radio (Nordische Rundfunk)</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krieg+über+Sonja+Horst+Platen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204761</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Veil</field>
+		<field name="titleSort">Veil</field>
+		<field name="year">1910</field>
+		
+		
+		<field name="date">1910</field>
+		<field name="composer">Frederick Hymen Cowen</field>
+		<field name="composerSort">Cowen, Frederick Hymen</field>
+		<field name="librettist">Robert Buchanan</field>
+		<field name="librettistSort">Buchanan, Robert</field>
+		
+		<field name="theater">Cardiff Festival</field>
+		<field name="city">Cardiff</field>
+		<field name="region">Wales</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint Veronica</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">12</field>
+		<field name="feastDate">July 12</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Veil+Frederick+Hymen+Cowen&amp;search_field=search</field>
+	</doc></add>

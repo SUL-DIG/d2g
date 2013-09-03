@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116524</field>
+<field name="genre">Operas</field>
+<field name="title">Dark Waters</field>
+<field name="titleSort">Dark Waters</field>
+<field name="composer">Ernst Krenek</field>
+<field name="composerSort">Krenek, Ernst</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Ernst Krenek</field>
+<field name="librettistSort">Krenek, Ernst</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistSort">Melville, Herman</field>
+<field name="theater">University of California</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dark+Waters+Ernst+Krenek&amp;search_field=search</field>
+</doc>
+</add>

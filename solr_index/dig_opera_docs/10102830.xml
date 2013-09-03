@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102830</field>
+<field name="genre">Operas</field>
+<field name="title">Count Down</field>
+<field name="titleSort">Count Down</field>
+<field name="composer">Bruno Bettinelli</field>
+<field name="composerSort">Bettinelli, Bruno</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Antonello Madau Diaz</field>
+<field name="librettistSort">Madau Diaz, Antonello</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Count+Down+Bruno+Bettinelli&amp;search_field=search</field>
+</doc>
+</add>

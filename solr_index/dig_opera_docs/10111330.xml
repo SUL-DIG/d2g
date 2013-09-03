@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111330</field>
+<field name="genre">Operas</field>
+<field name="title">A cigarra</field>
+<field name="titleSort">cigarra</field>
+<field name="composer">Francisco de Freitas Gazul</field>
+<field name="composerSort">Gazul, Francisco de Freitas</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Acácio Antunes</field>
+<field name="librettistSort">Antunes, Acácio</field>
+<field name="librettist">José Sebastião Machado Correia</field>
+<field name="librettistSort">Correia, José Sebastião Machado</field>
+<field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+cigarra+Francisco+de+Freitas+Gazul&amp;search_field=search</field>
+</doc>
+</add>

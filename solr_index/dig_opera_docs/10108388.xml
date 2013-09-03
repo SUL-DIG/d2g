@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108388</field>
+<field name="genre">Operas</field>
+<field name="title">Le faux Pacha</field>
+<field name="titleSort">faux Pacha</field>
+<field name="composer">Émile Duhem</field>
+<field name="composerSort">Duhem, Émile</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Louis Martin</field>
+<field name="librettistSort">Martin, Louis</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+faux+Pacha+Émile+Duhem&amp;search_field=search</field>
+</doc>
+</add>

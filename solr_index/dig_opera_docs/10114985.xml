@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114985</field>
+<field name="genre">Operas</field>
+<field name="title">La fata bianca</field>
+<field name="titleSort">fata bianca</field>
+<field name="composer">A. Isidori</field>
+<field name="composerSort">Isidori, A.</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">E. Leoni</field>
+<field name="librettistSort">Leoni, E.</field>
+
+<field name="city">Rocca San Casciano</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fata+bianca+A.+Isidori&amp;search_field=search</field>
+</doc>
+</add>

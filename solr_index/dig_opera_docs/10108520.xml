@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108520</field>
+<field name="genre">Operas</field>
+<field name="title">De ädelmodiga bönderna (The Noble Peasant)</field>
+<field name="titleSort">ädelmodiga bönderna (The Noble Peasant)</field>
+<field name="composer">Édouard Du Puy</field>
+<field name="composerSort">Puy, Édouard Du</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Carl Johan Lindegren</field>
+<field name="librettistSort">Lindegren, Carl Johan</field>
+<field name="theater">Arsenalsteatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+ädelmodiga+bönderna+The+Noble+Peasant+Édouard+Du+Puy&amp;search_field=search</field>
+</doc>
+</add>

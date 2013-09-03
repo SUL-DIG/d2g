@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129411</field>
+<field name="genre">Operas</field>
+<field name="title">"Le diable а quatre, ou La femme acariâtre</field>
+<field name="titleSort">"diable а quatre, ou La femme acariâtre"</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Augustin-François Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+а+quatre,+ou+La+femme+acariâtre+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

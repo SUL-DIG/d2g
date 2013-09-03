@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108697</field>
+<field name="genre">Operas</field>
+<field name="title">Clotildens Hochzeit</field>
+<field name="titleSort">Clotildens Hochzeit</field>
+<field name="composer">Hans Zois von Edelstein</field>
+<field name="composerSort">Edelstein, Hans Zois von</field>
+<field name="year">1898</field>
+<field name="date">1898</field><field name="theater">Fürstlische Thurn und Taxissches-Theater im Ballsaale</field>
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clotildens+Hochzeit+Hans+Zois+von+Edelstein&amp;search_field=search</field>
+</doc>
+</add>

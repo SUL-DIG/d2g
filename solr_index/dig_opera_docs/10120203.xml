@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120203</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto matrimonio</field>
+<field name="titleSort">finto matrimonio</field>
+<field name="composer">Carlo Mellara</field>
+<field name="composerSort">Mellara, Carlo</field>
+<field name="year">1814</field>
+<field name="date">1814</field><field name="theater">Teatro della Concordia</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+matrimonio+Carlo+Mellara&amp;search_field=search</field>
+</doc>
+</add>

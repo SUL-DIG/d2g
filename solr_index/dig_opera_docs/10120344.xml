@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120344</field>
+<field name="genre">Operas</field>
+<field name="title">La solitaria delle Asturie</field>
+<field name="titleSort">solitaria delle Asturie</field>
+<field name="composer">Saverio Mercadante</field>
+<field name="composerSort">Mercadante, Saverio</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+solitaria+delle+Asturie+Saverio+Mercadante&amp;search_field=search</field>
+</doc>
+</add>

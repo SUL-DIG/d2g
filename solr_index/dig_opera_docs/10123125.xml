@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123125</field>
+<field name="genre">Operas</field>
+<field name="title">Calhoun's Christmas</field>
+<field name="titleSort">Calhoun's Christmas</field>
+<field name="composer">Carleton Palmer</field>
+<field name="composerSort">Palmer, Carleton</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Blanche Thebom</field>
+<field name="librettistSort">Thebom, Blanche</field>
+<field name="theater">University of Arkansas</field>
+<field name="city">Little Rock</field>
+<field name="region">Arkansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Calhoun's+Christmas+Carleton+Palmer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131435</field>
+<field name="genre">Operas</field>
+<field name="title">"Dämona, das kleine Höckerweibchen</field>
+<field name="titleSort">"Dämona, das kleine Höckerweibchen"</field>
+<field name="composer">Vincenc Tucek</field>
+<field name="composerSort">Tucek, Vincenc</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Joseph Bullinger</field>
+<field name="librettistSort">Bullinger, Joseph</field>
+<field name="theater">Rondella</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dämona,+das+kleine+Höckerweibchen+Vincenc+Tucek&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200003</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">5 pesen Rossii</field>
+		<field name="titleSort">5 pesen Rossii</field>
+		<field name="year">1967</field>
+		
+		
+		<field name="date">1967</field>
+		<field name="composer">Georgy Vasil'yevich Sviridov</field>
+		<field name="composerSort">Sviridov, Georgy Vasil'yevich</field>
+		<field name="librettist">Aleksandr Aleksandrovich Blok</field>
+		<field name="librettistSort">Blok, Aleksandr Aleksandrov</field>
+		
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=5+pesen+Rossii+Georgy+Vasil'yevich+Sviridov&amp;search_field=search</field>
+	</doc></add>

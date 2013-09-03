@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101051</field>
+<field name="genre">Operas</field>
+<field name="title">The Fall of Phaeton</field>
+<field name="titleSort">Fall of Phaeton</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1736</field>
+<field name="date">1736</field>
+<field name="librettist">Hannah Pritchard</field>
+<field name="librettistSort">Pritchard, Hannah</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fall+of+Phaeton+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

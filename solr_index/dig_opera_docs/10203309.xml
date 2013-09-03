@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203309</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La patienza ricompensata negli avvenimenti di Tobia</field>
+		<field name="titleSort">patienza ricompensata negli avvenimenti di Tobia</field>
+		<field name="year">1771</field>
+		
+		
+		<field name="date">1771</field>
+		<field name="composer">Domenico Barbieri</field>
+		<field name="composerSort">Barbieri, Domenico</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Tobias Returns</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+patienza+ricompensata+negli+avvenimenti+di+Tobia+Domenico+Barbieri&amp;search_field=search</field>
+	</doc></add>

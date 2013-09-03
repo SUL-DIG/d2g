@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110392</field>
+<field name="genre">Operas</field>
+<field name="title">Babet et Colin</field>
+<field name="titleSort">Babet et Colin</field>
+<field name="composer">Raffaela Franchino</field>
+<field name="composerSort">Franchino, Raffaela</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="city">Chateaudun</field>
+<field name="region">Eure-et-Loir</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Babet+et+Colin+Raffaela+Franchino&amp;search_field=search</field>
+</doc>
+</add>

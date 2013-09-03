@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109884</field>
+<field name="genre">Operas</field>
+<field name="title">È lui o non è lui</field>
+<field name="titleSort">È lui o non è lui</field>
+<field name="composer">Vincenzo Fioravanti</field>
+<field name="composerSort">Fioravanti, Vincenzo</field>
+<field name="year">1849</field>
+<field name="date">1849</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=È+lui+o+non+è+lui+Vincenzo+Fioravanti&amp;search_field=search</field>
+</doc>
+</add>

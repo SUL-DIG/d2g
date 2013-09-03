@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113152</field>
+<field name="genre">Operas</field>
+<field name="title">Hans Max Giesbrecht von der Humpenburg</field>
+<field name="titleSort">Hans Max Giesbrecht von der Humpenburg</field>
+<field name="composer">Josef August Gürrlich</field>
+<field name="composerSort">Gürrlich, Josef August</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+Max+Giesbrecht+von+der+Humpenburg+Josef+August+Gürrlich&amp;search_field=search</field>
+</doc>
+</add>

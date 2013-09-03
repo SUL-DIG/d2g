@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106902</field>
+<field name="genre">Operas</field>
+<field name="title">Kot v sopogakh (Puss in Boots)</field>
+<field name="titleSort">Kot v sopogakh (Puss in Boots)</field>
+<field name="composer">César Antonovich Cui</field>
+<field name="composerSort">Cui, César Antonovich</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Marina Stanislavovna Pol'</field>
+<field name="librettistSort">Pol', Marina Stanislavovna</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Kazyonnïy Teatr</field>
+<field name="city">Tbilisi</field>
+
+<field name="country">Georgia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kot+v+sopogakh+Puss+in+Boots+César+Antonovich+Cui&amp;search_field=search</field>
+</doc>
+</add>

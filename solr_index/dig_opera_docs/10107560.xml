@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107560</field>
+<field name="genre">Operas</field>
+<field name="title">Les menhirs de Carnac</field>
+<field name="titleSort">menhirs de Carnac</field>
+<field name="composer">Henriette Descat</field>
+<field name="composerSort">Descat, Henriette</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Raymond Labruyère</field>
+<field name="librettistSort">Labruyère, Raymond</field>
+<field name="theater">Théâtre Sarah-Bernhardt</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+menhirs+de+Carnac+Henriette+Descat&amp;search_field=search</field>
+</doc>
+</add>

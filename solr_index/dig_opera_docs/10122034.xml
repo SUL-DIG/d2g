@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122034</field>
+<field name="genre">Operas</field>
+<field name="title">L'alibi</field>
+<field name="titleSort">alibi</field>
+<field name="composer">Adolphe André Nibelle</field>
+<field name="composerSort">Nibelle, Adolphe André</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Jules Moinaux</field>
+<field name="librettistSort">Moinaux, Jules</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'alibi+Adolphe+André+Nibelle&amp;search_field=search</field>
+</doc>
+</add>

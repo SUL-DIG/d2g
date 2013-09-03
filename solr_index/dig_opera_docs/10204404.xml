@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204404</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Sulamite</field>
+		<field name="titleSort">Sulamite</field>
+		<field name="year">1877</field>
+		
+		
+		<field name="date">1877</field>
+		<field name="composer">Edmond Audran</field>
+		<field name="composerSort">Audran, Edmond</field>
+		
+		
+		<field name="theater">Salle Herz</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Sulamith</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Sulamite+Edmond+Audran&amp;search_field=search</field>
+	</doc></add>

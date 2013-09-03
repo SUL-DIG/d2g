@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113284</field>
+<field name="genre">Operas</field>
+<field name="title">Ritsaryat (The Knight)</field>
+<field name="titleSort">Ritsaryat (The Knight)</field>
+<field name="composer">Parashkev Hadjiev</field>
+<field name="composerSort">Hadjiev, Parashkev</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Pavel Spasov</field>
+<field name="librettistSort">Spasov, Pavel</field>
+<field name="theater">Varnenska Narodna Opera</field>
+<field name="city">Varna</field>
+<field name="region">Varna Oblast</field>
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ritsaryat+The+Knight+Parashkev+Hadjiev&amp;search_field=search</field>
+</doc>
+</add>

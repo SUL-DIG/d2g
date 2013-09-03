@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203908</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Petronio, vescovio e protettore di Bologna</field>
+		<field name="titleSort">San Petronio, vescovio e protettore di Bologna</field>
+		<field name="year">1721</field>
+		
+		
+		<field name="date">1721</field>
+		<field name="composer">Giuseppe Maria Buini</field>
+		<field name="composerSort">Buini, Giuseppe Maria</field>
+		<field name="librettist">Antonio Zaniboni</field>
+		<field name="librettistSort">Zaniboni, Antonio</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Petronius</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Petronio,+vescovio+e+protettore+di+Bologna+Giuseppe+Maria+Buini&amp;search_field=search</field>
+	</doc></add>

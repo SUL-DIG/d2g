@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108398</field>
+<field name="genre">Operas</field>
+<field name="title">Mistress into Maid</field>
+<field name="titleSort">Mistress into Maid</field>
+<field name="composer">Vernon Duke</field>
+<field name="composerSort">Duke, Vernon</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Vernon Duke</field>
+<field name="librettistSort">Duke, Vernon</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">University of California</field>
+<field name="city">Santa Barbara</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mistress+into+Maid+Vernon+Duke&amp;search_field=search</field>
+</doc>
+</add>

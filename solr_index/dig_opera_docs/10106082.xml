@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106082</field>
+<field name="genre">Operas</field>
+<field name="title">Constance</field>
+<field name="titleSort">Constance</field>
+<field name="composer">Frederic Emes Clay</field>
+<field name="composerSort">Clay, Frederic Emes</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Thomas William Robertson</field>
+<field name="librettistSort">Robertson, Thomas William</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Constance+Frederic+Emes+Clay&amp;search_field=search</field>
+</doc>
+</add>

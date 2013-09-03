@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110558</field>
+<field name="genre">Operas</field>
+<field name="title">Il natal di Giove</field>
+<field name="titleSort">natal di Giove</field>
+<field name="composer">Joseph Friebert</field>
+<field name="composerSort">Friebert, Joseph</field>
+
+
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Jesuit College</field>
+<field name="city">Opava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+natal+di+Giove+Joseph+Friebert&amp;search_field=search</field>
+</doc>
+</add>

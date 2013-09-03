@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105273</field>
+<field name="genre">Operas</field>
+<field name="title">Proserpina y el extranjero</field>
+<field name="titleSort">Proserpina y el extranjero</field>
+<field name="composer">Juan José Castro</field>
+<field name="composerSort">Castro, Juan José</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Omar del Carlo</field>
+<field name="librettistSort">Carlo, Omar del</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Proserpina+y+el+extranjero+Juan+José+Castro&amp;search_field=search</field>
+</doc>
+</add>

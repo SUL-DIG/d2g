@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100872</field>
+<field name="genre">Operas</field>
+<field name="title">Il Franco-Bersagliere</field>
+<field name="titleSort">Franco-Bersagliere</field>
+<field name="composer">Daniele Antonietti</field>
+<field name="composerSort">Antonietti, Daniele</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="librettist">Johann Friedrich Kind</field>
+<field name="librettistSort">Kind, Johann Friedrich</field>
+
+<field name="city">Taganrog</field>
+<field name="region">Rostov Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Franco-Bersagliere+Daniele+Antonietti&amp;search_field=search</field>
+</doc>
+</add>

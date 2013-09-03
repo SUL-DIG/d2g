@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120032</field>
+<field name="genre">Operas</field>
+<field name="title">Il viaggiatore ridicolo</field>
+<field name="titleSort">viaggiatore ridicolo</field>
+<field name="composer">Antonio Maria Mazzoni</field>
+<field name="composerSort">Mazzoni, Antonio Maria</field>
+<field name="year">1757</field>
+<field name="date">1757</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+viaggiatore+ridicolo+Antonio+Maria+Mazzoni&amp;search_field=search</field>
+</doc>
+</add>

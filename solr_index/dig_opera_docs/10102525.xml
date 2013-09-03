@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102525</field>
+<field name="genre">Operas</field>
+<field name="title">Il segreto d'amore in petto del Savio</field>
+<field name="titleSort">segreto d'amore in petto del Savio</field>
+<field name="composer">Giuseppe Antonio Bernabei</field>
+<field name="composerSort">Bernabei, Giuseppe Antonio</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Luigi Orlandi</field>
+<field name="librettistSort">Orlandi, Luigi</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+segreto+d'amore+in+petto+del+Savio+Giuseppe+Antonio+Bernabei&amp;search_field=search</field>
+</doc>
+</add>

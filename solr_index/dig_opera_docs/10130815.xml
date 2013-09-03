@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130815</field>
+<field name="genre">Operas</field>
+<field name="title">Le coq d'Inde</field>
+<field name="titleSort">coq d'Inde</field>
+<field name="composer">Claude Terrasse</field>
+<field name="composerSort">Terrasse, Claude</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">[Georges Thenon] Rip</field>
+<field name="librettistSort">Rip, [Georges Thenon]</field>
+<field name="theater">Théâtre des Capucines</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+coq+d'Inde+Claude+Terrasse&amp;search_field=search</field>
+</doc>
+</add>

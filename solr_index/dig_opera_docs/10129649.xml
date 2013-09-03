@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129649</field>
+<field name="genre">Operas</field>
+<field name="title">"Julie, ou Le pot de fleurs</field>
+<field name="titleSort">"Julie, ou Le pot de fleurs"</field>
+<field name="composer">Gasparo Spontini</field>
+<field name="composerSort">Spontini, Gasparo</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Antoine Gabriel Jars</field>
+<field name="librettistSort">Jars, Antoine Gabriel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julie,+ou+Le+pot+de+fleurs+Gasparo+Spontini&amp;search_field=search</field>
+</doc>
+</add>

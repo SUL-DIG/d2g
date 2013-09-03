@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129231</field>
+<field name="genre">Operas</field>
+<field name="title">Rinaldo</field>
+<field name="titleSort">Rinaldo</field>
+<field name="composer">Pietro Skokoff</field>
+<field name="composerSort">Skokoff, Pietro</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Jean-Joseph Leboeuf</field>
+<field name="librettistSort">Leboeuf, Jean-Joseph</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinaldo+Pietro+Skokoff&amp;search_field=search</field>
+</doc>
+</add>

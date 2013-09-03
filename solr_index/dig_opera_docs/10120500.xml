@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120500</field>
+<field name="genre">Operas</field>
+<field name="title">Anna Karenina</field>
+<field name="titleSort">Anna Karenina</field>
+<field name="composer">Yuly Sergeyevich Meytus</field>
+<field name="composerSort">Meytus, Yuly Sergeyevich</field>
+
+
+<field name="librettist">Antonina Vasyl'yeva</field>
+<field name="librettistSort">Vasyl'yeva, Antonina</field>
+<field name="librettist">Lev Vasil'yevich Smirnov</field>
+<field name="librettistSort">Smirnov, Lev Vasil'yevich"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anna+Karenina+Yuly+Sergeyevich+Meytus&amp;search_field=search</field>
+</doc>
+</add>

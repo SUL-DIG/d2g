@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120417</field>
+<field name="genre">Operas</field>
+<field name="title">Isoline</field>
+<field name="titleSort">Isoline</field>
+<field name="composer">André Messager</field>
+<field name="composerSort">Messager, André</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Catulle Mendès</field>
+<field name="librettistSort">Mendès, Catulle</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isoline+André+Messager&amp;search_field=search</field>
+</doc>
+</add>

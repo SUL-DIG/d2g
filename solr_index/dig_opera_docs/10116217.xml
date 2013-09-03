@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116217</field>
+<field name="genre">Operas</field>
+<field name="title">Czinka Panna</field>
+<field name="titleSort">Czinka Panna</field>
+<field name="composer">Zoltán Kodály</field>
+<field name="composerSort">Kodály, Zoltán</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Béla Balázs</field>
+<field name="librettistSort">Balázs, Béla</field>
+<field name="theater">Magyar Allami Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Czinka+Panna+Zoltán+Kodály&amp;search_field=search</field>
+</doc>
+</add>

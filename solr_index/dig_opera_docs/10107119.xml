@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107119</field>
+<field name="genre">Operas</field>
+<field name="title">Malvina</field>
+<field name="titleSort">Malvina</field>
+<field name="composer">Franz Danzi</field>
+<field name="composerSort">Danzi, Franz</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Georg Römer</field>
+<field name="librettistSort">Römer, Georg</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malvina+Franz+Danzi&amp;search_field=search</field>
+</doc>
+</add>

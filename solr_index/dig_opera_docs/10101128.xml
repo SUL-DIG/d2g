@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101128</field>
+<field name="genre">Operas</field>
+<field name="title">The Spanish Barber</field>
+<field name="titleSort">Spanish Barber</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">George Colman the elder</field>
+<field name="librettistSort">Colman the elder, George</field>
+<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Spanish+Barber+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

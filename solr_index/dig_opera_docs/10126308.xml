@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126308</field>
+<field name="genre">Operas</field>
+<field name="title">Ahasver</field>
+<field name="titleSort">Ahasver</field>
+<field name="composer">Fritz Ritter</field>
+<field name="composerSort">Ritter, Fritz</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Paul Raché</field>
+<field name="librettistSort">Raché, Paul</field>
+<field name="librettist">Herman Heijermans</field>
+<field name="librettistSort">Heijermans, Herman</field>
+<field name="theater">Volksoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ahasver+Fritz+Ritter&amp;search_field=search</field>
+</doc>
+</add>

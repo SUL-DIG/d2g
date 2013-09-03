@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132606</field>
+<field name="genre">Operas</field>
+<field name="title">Tout est bien qui finit bien</field>
+<field name="titleSort">Tout est bien qui finit bien</field>
+<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Jules Malberbe</field>
+<field name="librettistSort">Malberbe, Jules</field>
+<field name="theater">Théâtre Taitbout</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tout+est+bien+qui+finit+bien+Jean-Baptiste-Théodore+Weckerlin&amp;search_field=search</field>
+</doc>
+</add>

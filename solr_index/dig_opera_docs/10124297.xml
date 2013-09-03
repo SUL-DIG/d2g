@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124297</field>
+<field name="genre">Operas</field>
+<field name="title">Gioconda Zappaterra</field>
+<field name="titleSort">Gioconda Zappaterra</field>
+<field name="composer">Giuseppe Pietri</field>
+<field name="composerSort">Pietri, Giuseppe</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Giulio Bucciolini</field>
+<field name="librettistSort">Bucciolini, Giulio</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioconda+Zappaterra+Giuseppe+Pietri&amp;search_field=search</field>
+</doc>
+</add>

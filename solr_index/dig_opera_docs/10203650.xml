@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203650</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Rose of Sharon</field>
+		<field name="titleSort">Rose of Sharon</field>
+		<field name="year">1884</field>
+		<field name="month">October</field>
+		<field name="day">16</field>
+		<field name="date">October 16, 1884</field>
+		<field name="composer">Alexander Campbell Mackenzie</field>
+		<field name="composerSort">Mackenzie, Alexander Campbell</field>
+		<field name="librettist">Joseph Bennett</field>
+		<field name="librettistSort">Bennett, Joseph</field>
+		
+		<field name="theater">Norfolk and Norwich Triennial Musical Festival</field>
+		<field name="city">Norwich</field>
+		<field name="region">Norfolk</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Rose of Sharon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rose+of+Sharon+Alexander+Campbell+Mackenzie&amp;search_field=search</field>
+	</doc></add>

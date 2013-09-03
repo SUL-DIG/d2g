@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116283</field>
+<field name="genre">Operas</field>
+<field name="title">Antoinette</field>
+<field name="titleSort">Antoinette</field>
+<field name="composer">Károly Komjáti</field>
+<field name="composerSort">Komjáti, Károly</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="librettist">Armand Szántó</field>
+<field name="librettistSort">Szántó, Armand</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antoinette+Károly+Komjáti&amp;search_field=search</field>
+</doc>
+</add>

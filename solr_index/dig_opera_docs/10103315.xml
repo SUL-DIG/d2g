@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103315</field>
+<field name="genre">Operas</field>
+<field name="title">Inès</field>
+<field name="titleSort">Inès</field>
+<field name="composer">Nikolay Boborykine</field>
+<field name="composerSort">Boborykine, Nikolay</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">[Anatole Charles Le Querrac] Yves Mirande</field>
+<field name="librettistSort">Mirande, Yves [Anatole Charles Le Querrac]</field>
+<field name="theater">Casino Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inès+Nikolay+Boborykine&amp;search_field=search</field>
+</doc>
+</add>

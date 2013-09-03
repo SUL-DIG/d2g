@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117964</field>
+<field name="genre">Operas</field>
+<field name="title">Soeur Marthe</field>
+<field name="titleSort">Soeur Marthe</field>
+<field name="composer">Frédéric Le Rey</field>
+<field name="composerSort">Rey, Frédéric Le</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Octave Houdaille</field>
+<field name="librettistSort">Houdaille, Octave</field>
+<field name="librettist">Charles Épheyre</field>
+<field name="librettistSort">Épheyre, Charles</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soeur+Marthe+Frédéric+Le+Rey&amp;search_field=search</field>
+</doc>
+</add>

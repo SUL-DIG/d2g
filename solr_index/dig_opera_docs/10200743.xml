@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200743</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Cristo condannato a morte dalla giustizia e dall'amore</field>
+		<field name="titleSort">Cristo condannato a morte dalla giustizia e dall'amore</field>
+		<field name="year">1698</field>
+		
+		
+		<field name="date">1698</field>
+		<field name="composer">Pietro Antonio Galerini</field>
+		<field name="composerSort">Galerini, Pietro Antonio</field>
+		<field name="librettist">Agostino Panizzi</field>
+		<field name="librettistSort">Panizzi, Agostino</field>
+		
+		
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christ before Pilate</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristo+condannato+a+morte+dalla+giustizia+e+dall'amore+Pietro+Antonio+Galerini&amp;search_field=search</field>
+	</doc></add>

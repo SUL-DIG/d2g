@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111387</field>
+<field name="genre">Operas</field>
+<field name="title">Il regno dei pazzi</field>
+<field name="titleSort">regno dei pazzi</field>
+<field name="composer">Giuseppe Gazzaniga</field>
+<field name="composerSort">Gazzaniga, Giuseppe</field>
+<field name="year">1777</field>
+<field name="date">1777</field><field name="theater">Casa Bonacossa</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+regno+dei+pazzi+Giuseppe+Gazzaniga&amp;search_field=search</field>
+</doc>
+</add>

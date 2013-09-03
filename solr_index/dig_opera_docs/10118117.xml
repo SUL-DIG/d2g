@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118117</field>
+<field name="genre">Operas</field>
+<field name="title">La forêt</field>
+<field name="titleSort">forêt</field>
+<field name="composer">Rolf Liebermann</field>
+<field name="composerSort">Liebermann, Rolf</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Hélène Vidal</field>
+<field name="librettistSort">Vidal, Hélène</field>
+<field name="librettist">Aleksandr Nikolayevich Ostrovsky</field>
+<field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Geneva</field>
+<field name="region">Genève</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forêt+Rolf+Liebermann&amp;search_field=search</field>
+</doc>
+</add>

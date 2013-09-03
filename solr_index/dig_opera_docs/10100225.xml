@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100225</field>
+<field name="genre">Operas</field>
+<field name="title">La première de Fridolin</field>
+<field name="titleSort">première de Fridolin</field>
+<field name="composer">Émile Agniez</field>
+<field name="composerSort">Agniez, Émile</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Léon Docquier</field>
+<field name="librettistSort">Docquier, Léon</field>
+<field name="librettist">__ Courtier</field>
+<field name="librettistSort">Courtier, __</field>
+<field name="theater">Private Performance</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+première+de+Fridolin+Émile+Agniez&amp;search_field=search</field>
+</doc>
+</add>

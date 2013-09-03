@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108823</field>
+<field name="genre">Operas</field>
+<field name="title">The Outcasts of Poker Flat</field>
+<field name="titleSort">Outcasts of Poker Flat</field>
+<field name="composer">Jonathan Elkus</field>
+<field name="composerSort">Elkus, Jonathan</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Robert Gene Bander</field>
+<field name="librettistSort">Bander, Robert Gene</field>
+<field name="librettist">Bret Harte</field>
+<field name="librettistSort">Harte, Bret</field>
+<field name="theater">Lehigh University</field>
+<field name="city">Bethlehem</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Outcasts+of+Poker+Flat+Jonathan+Elkus&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129683</field>
+<field name="genre">Operas</field>
+<field name="title">Le bois du Daphné</field>
+<field name="titleSort">bois du Daphné</field>
+<field name="composer">Eugène de Stadler</field>
+<field name="composerSort">Stadler, Eugène de</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Eugène de Stadler</field>
+<field name="librettistSort">Stadler, Eugène de</field>
+<field name="theater">Soirées de madame Émilie Gaveau-Sabatier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bois+du+Daphné+Eugène+de+Stadler&amp;search_field=search</field>
+</doc>
+</add>

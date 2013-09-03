@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127892</field>
+<field name="genre">Operas</field>
+<field name="title">L'addio delle Muse</field>
+<field name="titleSort">addio delle Muse</field>
+<field name="composer">Paolo Scalabrini</field>
+<field name="composerSort">Scalabrini, Paolo</field>
+<field name="year">1747</field>
+<field name="date">1747</field><field name="theater">Theater beim Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'addio+delle+Muse+Paolo+Scalabrini&amp;search_field=search</field>
+</doc>
+</add>

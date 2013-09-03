@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113823</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando paladino</field>
+<field name="titleSort">Orlando paladino</field>
+<field name="composer">Joseph Haydn</field>
+<field name="composerSort">Haydn, Joseph</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Carlo Francesco Badini</field>
+<field name="librettistSort">Badini, Carlo Francesco</field>
+<field name="librettist">Nunziato Porta</field>
+<field name="librettistSort">Porta, Nunziato</field>
+<field name="theater">Schloss Esterháza</field>
+<field name="city">Fertöd</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+paladino+Joseph+Haydn&amp;search_field=search</field>
+</doc>
+</add>

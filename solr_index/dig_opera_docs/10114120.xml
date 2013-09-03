@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114120</field>
+<field name="genre">Operas</field>
+<field name="title">"Le roi René, ou La Provence au XVe siècle</field>
+<field name="titleSort">"roi René, ou La Provence au XVe siècle"</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Gabriel-Alexandre Belle</field>
+<field name="librettistSort">Belle, Gabriel-Alexandre</field>
+<field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>
+<field name="librettistSort">Sewrin, [Charles-Augustin Bassompierre]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+René,+ou+La+Provence+au+XVe+siècle+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

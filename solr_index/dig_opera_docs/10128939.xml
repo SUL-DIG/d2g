@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128939</field>
+<field name="genre">Operas</field>
+<field name="title">Mitridates</field>
+<field name="titleSort">Mitridates</field>
+<field name="composer">Emilio Serrano</field>
+<field name="composerSort">Serrano, Emilio</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Mariano Capdepón y Maseres</field>
+<field name="librettistSort">Capdepón y Maseres, Mariano</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridates+Emilio+Serrano&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107014</field>
+<field name="genre">Operas</field>
+<field name="title">Renaud d'Ast</field>
+<field name="titleSort">Renaud d'Ast</field>
+<field name="composer">Nicolas-Marie Dalayrac</field>
+<field name="composerSort">Dalayrac, Nicolas-Marie</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Pierre-Yon Barré</field>
+<field name="librettistSort">Barré, Pierre-Yon</field>
+<field name="librettist">Jean-Baptiste Radet</field>
+<field name="librettistSort">Radet, Jean-Baptiste</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Renaud+d'Ast+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
+</doc>
+</add>

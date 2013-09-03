@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104320</field>
+<field name="genre">Operas</field>
+<field name="title">Le rencontre en voyage</field>
+<field name="titleSort">rencontre en voyage</field>
+<field name="composer">Antonio Bartolomeo Bruni</field>
+<field name="composerSort">Bruni, Antonio Bartolomeo</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Jean-Baptiste Pujoulx</field>
+<field name="librettistSort">Pujoulx, Jean-Baptiste</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rencontre+en+voyage+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
+</doc>
+</add>

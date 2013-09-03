@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202765</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il mondo in pace</field>
+		<field name="titleSort">mondo in pace</field>
+		<field name="year">1682</field>
+		<field name="month">December</field>
+		<field name="day">24</field>
+		<field name="date">December 24, 1682</field>
+		<field name="composer">Giuseppe Pacieri</field>
+		<field name="composerSort">Pacieri, Giuseppe</field>
+		
+		
+		<field name="theater">Palazzo Apostolico</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mondo+in+pace+Giuseppe+Pacieri&amp;search_field=search</field>
+	</doc></add>

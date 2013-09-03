@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129602</field>
+<field name="genre">Operas</field>
+<field name="title">Celeste</field>
+<field name="titleSort">Celeste</field>
+<field name="composer">Francesco Spetrino</field>
+<field name="composerSort">Spetrino, Francesco</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Celeste+Francesco+Spetrino&amp;search_field=search</field>
+</doc>
+</add>

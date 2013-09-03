@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109699</field>
+<field name="genre">Operas</field>
+<field name="title">Boure (The Tempest)</field>
+<field name="titleSort">Boure (The Tempest)</field>
+<field name="composer">Zdenek Fibich</field>
+<field name="composerSort">Fibich, Zdenek</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+<field name="librettistSort">Vrchlický, Jaroslav [Emil Bohus Frída]</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boure+The+Tempest+Zdenek+Fibich&amp;search_field=search</field>
+</doc>
+</add>

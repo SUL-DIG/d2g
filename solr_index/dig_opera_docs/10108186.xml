@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108186</field>
+<field name="genre">Operas</field>
+<field name="title">Gundeberga</field>
+<field name="titleSort">Gundeberga</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Theater auf der Cortina</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gundeberga+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

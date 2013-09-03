@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127596</field>
+<field name="genre">Operas</field>
+<field name="title">San Giovanni Decollato</field>
+<field name="titleSort">San Giovanni Decollato</field>
+<field name="composer">Alfredo Sangiorgi</field>
+<field name="composerSort">Sangiorgi, Alfredo</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Nino Martoglio</field>
+<field name="librettistSort">Martoglio, Nino</field>
+<field name="theater">Teatro Massimo Bellini</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Giovanni+Decollato+Alfredo+Sangiorgi&amp;search_field=search</field>
+</doc>
+</add>

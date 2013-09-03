@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118486</field>
+<field name="genre">Operas</field>
+<field name="title">Momo und die Zeitdiebe</field>
+<field name="titleSort">Momo und die Zeitdiebe</field>
+<field name="composer">Mark Lothar</field>
+<field name="composerSort">Lothar, Mark</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Michael Ende</field>
+<field name="librettistSort">Ende, Michael</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Momo+und+die+Zeitdiebe+Mark+Lothar&amp;search_field=search</field>
+</doc>
+</add>

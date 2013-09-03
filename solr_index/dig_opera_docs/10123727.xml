@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123727</field>
+<field name="genre">Operas</field>
+<field name="title">Li travestimenti amorosi</field>
+<field name="titleSort">travestimenti amorosi</field>
+<field name="composer">David Perez</field>
+<field name="composerSort">Perez, David</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Antonio Palomba</field>
+<field name="librettistSort">Palomba, Antonio</field>
+<field name="theater">Palazzo Reale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Li+travestimenti+amorosi+David+Perez&amp;search_field=search</field>
+</doc>
+</add>

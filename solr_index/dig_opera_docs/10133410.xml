@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133410</field>
+<field name="genre">Operas</field>
+<field name="title">"La conversazione, ossia La farsa in casa</field>
+<field name="titleSort">"conversazione, ossia farsa in casa"</field>
+<field name="composer">Francesco Zecchini</field>
+<field name="composerSort">Zecchini, Francesco</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Enrico Topai</field>
+<field name="librettistSort">Topai, Enrico</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversazione,+ossia+La+farsa+in+casa+Francesco+Zecchini&amp;search_field=search</field>
+</doc>
+</add>

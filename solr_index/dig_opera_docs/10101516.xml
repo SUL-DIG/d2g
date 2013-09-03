@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101516</field>
+<field name="genre">Operas</field>
+<field name="title">Consalvo</field>
+<field name="titleSort">Consalvo</field>
+<field name="composer">Italo Azzoni</field>
+<field name="composerSort">Azzoni, Italo</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Attilio Catelli</field>
+<field name="librettistSort">Catelli, Attilio</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Consalvo+Italo+Azzoni&amp;search_field=search</field>
+</doc>
+</add>

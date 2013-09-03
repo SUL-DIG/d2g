@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101634</field>
+<field name="genre">Operas</field>
+<field name="title">L'Angélus</field>
+<field name="titleSort">Angélus</field>
+<field name="composer">Casimir Baille</field>
+<field name="composerSort">Baille, Casimir</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Gaston Mitchell</field>
+<field name="librettistSort">Mitchell, Gaston</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Angélus+Casimir+Baille&amp;search_field=search</field>
+</doc>
+</add>

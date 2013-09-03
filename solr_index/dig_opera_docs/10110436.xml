@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110436</field>
+<field name="genre">Operas</field>
+<field name="title">Claudine von Villa Bella</field>
+<field name="titleSort">Claudine von Villa Bella</field>
+<field name="composer">[Hans Heinrich Bolko Hochberg] J. H. Franz</field>
+<field name="composerSort">Franz, [Hans Heinrich Bolko Hochberg] J. H. </field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Christian Garve</field>
+<field name="librettistSort">Garve, Christian</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudine+von+Villa+Bella+Hans+Heinrich+Bolko+Hochberg]+J.+H.+Franz&amp;search_field=search</field>
+</doc>
+</add>

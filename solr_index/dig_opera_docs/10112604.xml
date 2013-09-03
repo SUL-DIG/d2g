@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112604</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare e Cleopatra</field>
+<field name="titleSort">Cesare e Cleopatra</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1742</field>
+<field name="date">1742</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="librettist">Pierre Corneille</field>
+<field name="librettistSort">Corneille, Pierre</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+e+Cleopatra+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

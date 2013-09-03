@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125656</field>
+<field name="genre">Operas</field>
+<field name="title">Plaquage en règle</field>
+<field name="titleSort">Plaquage en règle</field>
+<field name="composer">Marcel Ray</field>
+<field name="composerSort">Ray, Marcel</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Henry Gambart</field>
+<field name="librettistSort">Gambart, Henry</field>
+<field name="librettist">Raphaël Mayet</field>
+<field name="librettistSort">Mayet, Raphaël</field>
+<field name="theater">Éden-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plaquage+en+règle+Marcel+Ray&amp;search_field=search</field>
+</doc>
+</add>

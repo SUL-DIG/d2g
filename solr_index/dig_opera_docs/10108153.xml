@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108153</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'amori di Cefalo e Procri</field>
+<field name="titleSort">amori di Cefalo e Procri</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1668</field>
+<field name="date">1668</field>
+<field name="librettist">Antonio Draghi</field>
+<field name="librettistSort">Draghi, Antonio</field>
+<field name="theater">Theater auf der Cortina</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'amori+di+Cefalo+e+Procri+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

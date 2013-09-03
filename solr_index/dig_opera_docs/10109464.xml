@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109464</field>
+<field name="genre">Operas</field>
+<field name="title">L'usurpatore innocente (Demofoonte)</field>
+<field name="titleSort">usurpatore innocente (Demofoonte)</field>
+<field name="composer">Vincenzo Federici</field>
+<field name="composerSort">Federici, Vincenzo</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'usurpatore+innocente+Demofoonte+Vincenzo+Federici&amp;search_field=search</field>
+</doc>
+</add>

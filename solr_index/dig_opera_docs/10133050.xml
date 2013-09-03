@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133050</field>
+<field name="genre">Operas</field>
+<field name="title">Die Thomasnacht</field>
+<field name="titleSort">Thomasnacht</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1795</field>
+<field name="date">1795</field><field name="theater">Markgräfliches Opernhaus</field>
+<field name="city">Bayreuth</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Thomasnacht+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

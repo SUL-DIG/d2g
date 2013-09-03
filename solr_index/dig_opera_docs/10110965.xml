@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110965</field>
+<field name="genre">Operas</field>
+<field name="title">Tamiri</field>
+<field name="titleSort">Tamiri</field>
+<field name="composer">Baldassare Galuppi</field>
+<field name="composerSort">Galuppi, Baldassare</field>
+<field name="year">1734</field>
+<field name="date">1734</field>
+<field name="librettist">Bartolomeo Vitturi</field>
+<field name="librettistSort">Vitturi, Bartolomeo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tamiri+Baldassare+Galuppi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202879</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Moses infantalus Nilo expeditus</field>
+		<field name="titleSort">Moses infantalus Nilo expeditus</field>
+		<field name="year">1710</field>
+		
+		
+		<field name="date">1710</field>
+		<field name="composer">Giovanni Battista Pioselli</field>
+		<field name="composerSort">Pioselli, Giovanni Battista</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses in the Nile</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moses+infantalus+Nilo+expeditus+Giovanni+Battista+Pioselli&amp;search_field=search</field>
+	</doc></add>

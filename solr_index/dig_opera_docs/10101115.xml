@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101115</field>
+<field name="genre">Operas</field>
+<field name="title">New Spain or Love in Mexico</field>
+<field name="titleSort">New Spain or Love in Mexico</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">John Scawen</field>
+<field name="librettistSort">Scawen, John</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=New+Spain+or+Love+in+Mexico+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

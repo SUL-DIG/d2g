@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118369</field>
+<field name="genre">Operas</field>
+<field name="title">Elfrida</field>
+<field name="titleSort">Elfrida</field>
+<field name="composer">Giacomo Lombardi</field>
+<field name="composerSort">Lombardi, Giacomo</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="city">Lecco</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfrida+Giacomo+Lombardi&amp;search_field=search</field>
+</doc>
+</add>

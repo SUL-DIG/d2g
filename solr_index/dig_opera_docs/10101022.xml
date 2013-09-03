@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101022</field>
+<field name="genre">Operas</field>
+<field name="title">Ballad of the Bremen Band</field>
+<field name="titleSort">Ballad of the Bremen Band</field>
+<field name="composer">Dennis Arlan</field>
+<field name="composerSort">Arlan, Dennis</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">James Billings</field>
+<field name="librettistSort">Billings, James</field>
+<field name="theater">Caramoor Festival</field>
+<field name="city">Katonah</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ballad+of+the+Bremen+Band+Dennis+Arlan&amp;search_field=search</field>
+</doc>
+</add>

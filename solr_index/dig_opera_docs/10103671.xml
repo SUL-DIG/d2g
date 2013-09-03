@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103671</field>
+<field name="genre">Operas</field>
+<field name="title">Christymas Playe</field>
+<field name="titleSort">Christymas Playe</field>
+<field name="composer">Murray Boren</field>
+<field name="composerSort">Boren, Murray</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Murray Boren</field>
+<field name="librettistSort">Boren, Murray</field>
+<field name="theater">Brigham Young University</field>
+<field name="city">Provo</field>
+<field name="region">Utah</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christymas+Playe+Murray+Boren&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106649</field>
+<field name="genre">Operas</field>
+<field name="title">Turiddu</field>
+<field name="titleSort">Turiddu</field>
+<field name="composer">Arrigo Coronaro</field>
+<field name="composerSort">Coronaro, Arrigo</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">A. Ferracina</field>
+<field name="librettistSort">Ferracina, A.</field>
+<field name="librettist">A. Corra</field>
+<field name="librettistSort">Corra, A.</field>
+<field name="theater">Teatro del Patronato Leone XIII</field>
+<field name="city">Vicenza</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Turiddu+Arrigo+Coronaro&amp;search_field=search</field>
+</doc>
+</add>

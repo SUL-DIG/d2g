@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107486</field>
+<field name="genre">Operas</field>
+<field name="title">Au coq qui chante</field>
+<field name="titleSort">Au coq qui chante</field>
+<field name="composer">[Georges Thiébost] Hugues Delorme</field>
+<field name="composerSort">Delorme, [Georges Thiébost] Hugues</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">[Georges Thiébost] Hugues Delorme</field>
+<field name="librettistSort">Delorme, Hugues [Georges Thiébost]</field>
+<field name="theater">Théâtre-Populaire du Saut de Cuves</field>
+<field name="city">Gérardmer</field>
+<field name="region">Vosges</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+coq+qui+chante+Georges+Thiébost]+Hugues+Delorme&amp;search_field=search</field>
+</doc>
+</add>

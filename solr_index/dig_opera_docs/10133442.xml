@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133442</field>
+<field name="genre">Operas</field>
+<field name="title">Il giudizio d'Aminta</field>
+<field name="titleSort">giudizio d'Aminta</field>
+<field name="composer">Ferdinand Zellbell</field>
+<field name="composerSort">Zellbell, Ferdinand</field>
+<field name="year">1758</field>
+<field name="date">1758</field>
+<field name="librettist">Lodovico Lazzaroni</field>
+<field name="librettistSort">Lazzaroni, Lodovico</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giudizio+d'Aminta+Ferdinand+Zellbell&amp;search_field=search</field>
+</doc>
+</add>

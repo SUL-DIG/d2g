@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106806</field>
+<field name="genre">Operas</field>
+<field name="title">Au bal du roi</field>
+<field name="titleSort">Au bal du roi</field>
+<field name="composer">Henri Covin</field>
+<field name="composerSort">Covin, Henri</field>
+<field name="year">1873</field>
+<field name="date">1873</field><field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+bal+du+roi+Henri+Covin&amp;search_field=search</field>
+</doc>
+</add>

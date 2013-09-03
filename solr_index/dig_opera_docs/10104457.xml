@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104457</field>
+<field name="genre">Operas</field>
+<field name="title">Mastickár (The Quack)</field>
+<field name="titleSort">Mastickár (The Quack)</field>
+<field name="composer">Emil Frantisek Burian</field>
+<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Václav Lacina</field>
+<field name="librettistSort">Lacina, Václav</field>
+<field name="librettist">Jan Trojan</field>
+<field name="librettistSort">Trojan, Jan</field>
+<field name="theater">Divadlo Dada</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mastickár+The+Quack+Emil+Frantisek+Burian&amp;search_field=search</field>
+</doc>
+</add>

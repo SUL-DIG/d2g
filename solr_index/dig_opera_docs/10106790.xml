@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106790</field>
+<field name="genre">Operas</field>
+<field name="title">La revanche du Vulcain</field>
+<field name="titleSort">revanche du Vulcain</field>
+<field name="composer">Edmond Cottin</field>
+<field name="composerSort">Cottin, Edmond</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Jean-Louis-Auguste Commerson</field>
+<field name="librettistSort">Commerson, Jean-Louis-Auguste</field>
+<field name="librettist">Eugène Furpille</field>
+<field name="librettistSort">Furpille, Eugène</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+revanche+du+Vulcain+Edmond+Cottin&amp;search_field=search</field>
+</doc>
+</add>

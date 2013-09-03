@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110234</field>
+<field name="genre">Operas</field>
+<field name="title">Le voyage de tante Isabelle</field>
+<field name="titleSort">voyage de tante Isabelle</field>
+<field name="composer">__ Forêts</field>
+<field name="composerSort">Forêts, __</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">__ Vatin</field>
+<field name="librettistSort">Vatin, __</field>
+<field name="librettist">Marius Verd</field>
+<field name="librettistSort">Verd, Marius</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+voyage+de+tante+Isabelle+__+Forêts&amp;search_field=search</field>
+</doc>
+</add>

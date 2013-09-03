@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119170</field>
+<field name="genre">Operas</field>
+<field name="title">Plenilunio</field>
+<field name="titleSort">Plenilunio</field>
+<field name="composer">Alfredo Manini</field>
+<field name="composerSort">Manini, Alfredo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Ettore Lacchini</field>
+<field name="librettistSort">Lacchini, Ettore</field>
+<field name="theater">Teatro Reinach</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plenilunio+Alfredo+Manini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201471</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Gefte, overo Il zelo imprudente</field>
+		<field name="titleSort">Gefte, overo zelo imprudente</field>
+		<field name="year">1672</field>
+		<field name="month">March</field>
+		<field name="day">16</field>
+		<field name="date">March 16, 1672</field>
+		<field name="composer">Giovanni Battista Vitali</field>
+		<field name="composerSort">Vitali, Giovanni Battista</field>
+		<field name="librettist">Benedetto Giuseppe Balbi</field>
+		<field name="librettistSort">Balbi, Benedetto Giuseppe</field>
+		
+		<field name="theater">Casa del conte Astore Orsi</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Gefte,+overo+Il+zelo+imprudente+Giovanni+Battista+Vitali&amp;search_field=search</field>
+	</doc></add>

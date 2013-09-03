@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109410</field>
+<field name="genre">Operas</field>
+<field name="title">Amor per finzione</field>
+<field name="titleSort">Amor per finzione</field>
+<field name="composer">Andrea Favi</field>
+<field name="composerSort">Favi, Andrea</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Teatro Pallacorda di Firenze</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+per+finzione+Andrea+Favi&amp;search_field=search</field>
+</doc>
+</add>

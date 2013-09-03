@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125527</field>
+<field name="genre">Operas</field>
+<field name="title">Les fêtes d'Hébé</field>
+<field name="titleSort">fêtes d'Hébé</field>
+<field name="composer">Jean-Philippe Rameau</field>
+<field name="composerSort">Rameau, Jean-Philippe</field>
+<field name="year">1739</field>
+<field name="date">1739</field>
+<field name="librettist">Antoine Gautier de Montdorge</field>
+<field name="librettistSort">Montdorge, Antoine Gautier de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fêtes+d'Hébé+Jean-Philippe+Rameau&amp;search_field=search</field>
+</doc>
+</add>

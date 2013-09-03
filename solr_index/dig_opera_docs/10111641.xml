@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111641</field>
+<field name="genre">Operas</field>
+<field name="title">The Treasure</field>
+<field name="titleSort">Treasure</field>
+<field name="composer">Alfred D. Geto</field>
+<field name="composerSort">Geto, Alfred D.</field>
+<field name="year">1953</field>
+<field name="date">1953</field><field name="theater">Schroon Crest Theater</field>
+<field name="city">Pottersville</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Treasure+Alfred+D.+Geto&amp;search_field=search</field>
+</doc>
+</add>

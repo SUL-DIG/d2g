@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127217</field>
+<field name="genre">Operas</field>
+<field name="title">Mamma iniqua</field>
+<field name="titleSort">Mamma iniqua</field>
+<field name="composer">Francesco Paolo Saccenti</field>
+<field name="composerSort">Saccenti, Francesco Paolo</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Goffredo Cammarano</field>
+<field name="librettistSort">Cammarano, Goffredo</field>
+<field name="theater">Teatro Mercadante</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mamma+iniqua+Francesco+Paolo+Saccenti&amp;search_field=search</field>
+</doc>
+</add>

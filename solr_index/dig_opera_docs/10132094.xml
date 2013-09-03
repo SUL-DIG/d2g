@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132094</field>
+<field name="genre">Operas</field>
+<field name="title">"Gismondo, re di Polonia (Il vincitor generoso)</field>
+<field name="titleSort">"Gismondo, re di Polonia (Il vincitor generoso)"</field>
+<field name="composer">Leonardo Vinci</field>
+<field name="composerSort">Vinci, Leonardo</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Francesco Briani</field>
+<field name="librettistSort">Briani, Francesco</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gismondo,+re+di+Polonia+Il+vincitor+generoso+Leonardo+Vinci&amp;search_field=search</field>
+</doc>
+</add>

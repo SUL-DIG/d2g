@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120109</field>
+<field name="genre">Operas</field>
+<field name="title">"Gabrielle d'Estrées, ou Les amours d'Henri IV</field>
+<field name="titleSort">"Gabrielle d'Estrées, ou Les amours d'Henri IV"</field>
+<field name="composer">Étienne-Nicolas Méhul</field>
+<field name="composerSort">Méhul, Étienne-Nicolas</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Claude Godard d'Aucourt de Saint-Just</field>
+<field name="librettistSort">Saint-Just, Claude Godard d'Aucourt de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabrielle+d'Estrées,+ou+Les+amours+d'Henri+IV+Étienne-Nicolas+Méhul&amp;search_field=search</field>
+</doc>
+</add>

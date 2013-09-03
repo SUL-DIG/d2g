@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126444</field>
+<field name="genre">Operas</field>
+<field name="title">The Lord of the Isles</field>
+<field name="titleSort">Lord of the Isles</field>
+<field name="composer">George Rodwell</field>
+<field name="composerSort">Rodwell, George</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Edward Fitzball</field>
+<field name="librettistSort">Fitzball, Edward</field>
+<field name="librettist">Walter Scott</field>
+<field name="librettistSort">Scott, Walter</field>
+<field name="theater">Surrey Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lord+of+the+Isles+George+Rodwell&amp;search_field=search</field>
+</doc>
+</add>

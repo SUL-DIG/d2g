@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105742</field>
+<field name="genre">Operas</field>
+<field name="title">Der Mantel der Assunta</field>
+<field name="titleSort">Mantel der Assunta</field>
+<field name="composer">Eduard Chiari</field>
+<field name="composerSort">Chiari, Eduard</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">[Beatrice Freiin von Vay] Beatrice Dovsky</field>
+<field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
+<field name="theater">Vereinigte Deutsche Theater</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Mantel+der+Assunta+Eduard+Chiari&amp;search_field=search</field>
+</doc>
+</add>

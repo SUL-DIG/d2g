@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112764</field>
+<field name="genre">Operas</field>
+<field name="title">Marike Weiden</field>
+<field name="titleSort">Marike Weiden</field>
+<field name="composer">Karl-Rudi Griesbach</field>
+<field name="composerSort">Griesbach, Karl-Rudi</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Karl-Rudi Griesbach</field>
+<field name="librettistSort">Griesbach, Karl-Rudi</field>
+<field name="theater">Deutsches Nationaltheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marike+Weiden+Karl-Rudi+Griesbach&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117307</field>
+<field name="genre">Operas</field>
+<field name="title">The Words upon the Windowpane</field>
+<field name="titleSort">Words upon the Windowpane</field>
+<field name="composer">Libby Larsen</field>
+<field name="composerSort">Larsen, Libby</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Libby Larsen</field>
+<field name="librettistSort">Larsen, Libby</field>
+<field name="librettist">William Butler Yeats</field>
+<field name="librettistSort">Yeats, William Butler</field>
+<field name="theater">University of Minnesota</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Words+upon+the+Windowpane+Libby+Larsen&amp;search_field=search</field>
+</doc>
+</add>

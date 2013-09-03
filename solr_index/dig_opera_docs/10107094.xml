@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107094</field>
+<field name="genre">Operas</field>
+<field name="title">Andrea del Sarto</field>
+<field name="titleSort">Andrea del Sarto</field>
+<field name="composer">[Daniel Jean Yves Lesur] Daniel-Lesur</field>
+<field name="composerSort">Daniel-Lesur, [Daniel Jean Yves Lesur]</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">[Daniel Jean Yves Lesur] Daniel-Lesur</field>
+<field name="librettistSort">Daniel-Lesur, [Daniel Jean Yves Lesur]</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andrea+del+Sarto+Daniel+Jean+Yves+Lesur]+Daniel-Lesur&amp;search_field=search</field>
+</doc>
+</add>

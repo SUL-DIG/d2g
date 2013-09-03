@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124567</field>
+<field name="genre">Operas</field>
+<field name="title">Der Stein der Weisen</field>
+<field name="titleSort">Stein der Weisen</field>
+<field name="composer">Karl Pohlig</field>
+<field name="composerSort">Pohlig, Karl</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Franz Bittong</field>
+<field name="librettistSort">Bittong, Franz</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Stein+der+Weisen+Karl+Pohlig&amp;search_field=search</field>
+</doc>
+</add>

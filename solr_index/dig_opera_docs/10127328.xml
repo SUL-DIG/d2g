@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127328</field>
+<field name="genre">Operas</field>
+<field name="title">Henry VIII</field>
+<field name="titleSort">Henry VIII</field>
+<field name="composer">Camille Saint-Saëns</field>
+<field name="composerSort">Saint-Saëns, Camille</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Léonce Détroyat</field>
+<field name="librettistSort">Détroyat, Léonce</field>
+<field name="librettist">Armand Silvestre</field>
+<field name="librettistSort">Silvestre, Armand</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Henry+VIII+Camille+Saint-Saëns&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202890</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La muerte de Abel</field>
+		<field name="titleSort">muerte de Abel</field>
+		
+		
+		
+		
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+muerte+de+Abel+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

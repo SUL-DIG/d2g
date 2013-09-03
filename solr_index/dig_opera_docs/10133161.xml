@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133161</field>
+<field name="genre">Operas</field>
+<field name="title">Beatrice</field>
+<field name="titleSort">Beatrice</field>
+<field name="composer">Josef Wolfram</field>
+<field name="composerSort">Wolfram, Josef</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Hermann Meynert</field>
+<field name="librettistSort">Meynert, Hermann</field>
+<field name="librettist">Josef Wolfram</field>
+<field name="librettistSort">Wolfram, Josef</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beatrice+Josef+Wolfram&amp;search_field=search</field>
+</doc>
+</add>

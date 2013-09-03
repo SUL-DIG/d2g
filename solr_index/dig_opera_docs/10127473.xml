@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127473</field>
+<field name="genre">Operas</field>
+<field name="title">Gilda</field>
+<field name="titleSort">Gilda</field>
+<field name="composer">Pietro Paolo Salomè</field>
+<field name="composerSort">Salomè, Pietro Paolo</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Conte di Gerace Caracciolo</field>
+<field name="librettistSort">Gerace Caracciolo, Conte di</field>
+<field name="theater">Societа Filarmonici</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gilda+Pietro+Paolo+Salomè&amp;search_field=search</field>
+</doc>
+</add>

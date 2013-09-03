@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203911</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Pietro piangente</field>
+		<field name="titleSort">San Pietro piangente</field>
+		
+		
+		
+		
+		<field name="composer">Giovanni Battista Pederzuoli</field>
+		<field name="composerSort">Pederzuoli, Giovanni Battista</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Pietro+piangente+Giovanni+Battista+Pederzuoli&amp;search_field=search</field>
+	</doc></add>

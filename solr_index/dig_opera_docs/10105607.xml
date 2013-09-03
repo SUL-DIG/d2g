@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105607</field>
+<field name="genre">Operas</field>
+<field name="title">Peter Gray</field>
+<field name="titleSort">Peter Gray</field>
+<field name="composer">Charles Chapman</field>
+<field name="composerSort">Chapman, Charles</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Charles Chapman</field>
+<field name="librettistSort">Chapman, Charles</field>
+<field name="theater">Southwestern Oklahoma State University</field>
+<field name="city">Weatherford</field>
+<field name="region">Oklahoma</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+Gray+Charles+Chapman&amp;search_field=search</field>
+</doc>
+</add>

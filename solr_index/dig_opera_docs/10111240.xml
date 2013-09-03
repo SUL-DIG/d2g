@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111240</field>
+<field name="genre">Operas</field>
+<field name="title">Erberto di Valtellina</field>
+<field name="titleSort">Erberto di Valtellina</field>
+<field name="composer">Domenico Gatti</field>
+<field name="composerSort">Gatti, Domenico</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Salvatore Mondini</field>
+<field name="librettistSort">Mondini, Salvatore</field>
+<field name="theater">Real Teatro Carolino</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erberto+di+Valtellina+Domenico+Gatti&amp;search_field=search</field>
+</doc>
+</add>

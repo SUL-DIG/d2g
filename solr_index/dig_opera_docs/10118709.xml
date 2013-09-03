@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118709</field>
+<field name="genre">Operas</field>
+<field name="title">Das Kätchen von Heilbronn</field>
+<field name="titleSort">Kätchen von Heilbronn</field>
+<field name="composer">Friedrich Lux</field>
+<field name="composerSort">Lux, Friedrich</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Friedrich Meck</field>
+<field name="librettistSort">Meck, Friedrich</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Kätchen+von+Heilbronn+Friedrich+Lux&amp;search_field=search</field>
+</doc>
+</add>

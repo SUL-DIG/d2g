@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127252</field>
+<field name="genre">Operas</field>
+<field name="title">Motezuma</field>
+<field name="titleSort">Motezuma</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Motezuma+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

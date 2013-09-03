@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120152</field>
+<field name="genre">Operas</field>
+<field name="title">Il feudatario</field>
+<field name="titleSort">feudatario</field>
+<field name="composer">Vincenzo Mela</field>
+<field name="composerSort">Mela, Vincenzo</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+feudatario+Vincenzo+Mela&amp;search_field=search</field>
+</doc>
+</add>

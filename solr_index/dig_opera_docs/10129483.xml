@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129483</field>
+<field name="genre">Operas</field>
+<field name="title">Vendetta</field>
+<field name="titleSort">Vendetta</field>
+<field name="composer">Vasily Pavlovich Solov'yov-Sedoy</field>
+<field name="composerSort">Solov'yov-Sedoy, Vasily Pavlovich</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vendetta+Vasily+Pavlovich+Solov'yov-Sedoy&amp;search_field=search</field>
+</doc>
+</add>

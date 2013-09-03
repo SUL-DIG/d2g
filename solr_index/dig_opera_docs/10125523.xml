@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125523</field>
+<field name="genre">Operas</field>
+<field name="title">Les Boréades</field>
+<field name="titleSort">Boréades</field>
+<field name="composer">Jean-Philippe Rameau</field>
+<field name="composerSort">Rameau, Jean-Philippe</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Louis de Cahusac</field>
+<field name="librettistSort">Cahusac, Louis de</field>
+<field name="theater">Théâtre de l'Archevêche</field>
+<field name="city">Aix-en-Provence</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Boréades+Jean-Philippe+Rameau&amp;search_field=search</field>
+</doc>
+</add>

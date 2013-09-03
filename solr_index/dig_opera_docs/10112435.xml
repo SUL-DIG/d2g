@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112435</field>
+<field name="genre">Operas</field>
+<field name="title">Les filles de la belle Hélène</field>
+<field name="titleSort">filles de la belle Hélène</field>
+<field name="composer">Gustave Goublier</field>
+<field name="composerSort">Goublier, Gustave</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">[Louis Ronger] Gardel-Hervé</field>
+<field name="librettistSort">Gardel-Hervé, [Louis Ronger]</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+filles+de+la+belle+Hélène+Gustave+Goublier&amp;search_field=search</field>
+</doc>
+</add>

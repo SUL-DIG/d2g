@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104994</field>
+<field name="genre">Operas</field>
+<field name="title">Arianna e Teseo</field>
+<field name="titleSort">Arianna e Teseo</field>
+<field name="composer">Giuseppe Carcani</field>
+<field name="composerSort">Carcani, Giuseppe</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Filarmonico</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arianna+e+Teseo+Giuseppe+Carcani&amp;search_field=search</field>
+</doc>
+</add>

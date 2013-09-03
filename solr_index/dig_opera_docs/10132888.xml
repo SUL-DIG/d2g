@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132888</field>
+<field name="genre">Operas</field>
+<field name="title">Orpheus: Eurydice</field>
+<field name="titleSort">Orpheus: Eurydice</field>
+<field name="composer">John White</field>
+<field name="composerSort">White, John</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Robin Barson</field>
+<field name="librettistSort">Barson, Robin</field>
+<field name="theater">Drama Centre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orpheus:+Eurydice+John+White&amp;search_field=search</field>
+</doc>
+</add>

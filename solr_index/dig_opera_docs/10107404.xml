@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107404</field>
+<field name="genre">Operas</field>
+<field name="title">Médis et Alyssio</field>
+<field name="titleSort">Médis et Alyssio</field>
+<field name="composer">Georges Delerue</field>
+<field name="composerSort">Delerue, Georges</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Maurice Maeterlinck</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Mulhouse</field>
+<field name="region">Haut-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Médis+et+Alyssio+Georges+Delerue&amp;search_field=search</field>
+</doc>
+</add>

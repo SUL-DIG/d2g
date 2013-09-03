@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127179</field>
+<field name="genre">Operas</field>
+<field name="title">Andrzej z Chelmna (Andrew from Chelmno)</field>
+<field name="titleSort">Andrzej z Chelmna (Andrew from Chelmno)</field>
+<field name="composer">Piotr Rytel</field>
+<field name="composerSort">Rytel, Piotr</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Piotr Rytel</field>
+<field name="librettistSort">Rytel, Piotr</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andrzej+z+Chelmna+Andrew+from+Chelmno+Piotr+Rytel&amp;search_field=search</field>
+</doc>
+</add>

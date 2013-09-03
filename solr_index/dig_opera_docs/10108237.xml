@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108237</field>
+<field name="genre">Operas</field>
+<field name="title">Scipione preservatore di Roma</field>
+<field name="titleSort">Scipione preservatore di Roma</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">"Hofburg, Tanzsaal"</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scipione+preservatore+di+Roma+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

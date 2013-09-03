@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125921</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Hintertreppe, oder Die Gunst der Kleinen</field>
+<field name="titleSort">"Hintertreppe, oder Gunst der Kleinen"</field>
+<field name="composer">Wilhelm Reuling</field>
+<field name="composerSort">Reuling, Wilhelm</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Franz Ferdinand Rosenau</field>
+<field name="librettistSort">Rosenau, Franz Ferdinand</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hintertreppe,+oder+Die+Gunst+der+Kleinen+Wilhelm+Reuling&amp;search_field=search</field>
+</doc>
+</add>

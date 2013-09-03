@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114009</field>
+<field name="genre">Operas</field>
+<field name="title">Matrose und Sänger</field>
+<field name="titleSort">Matrose und Sänger</field>
+<field name="composer">Theodor Hentschel</field>
+<field name="composerSort">Hentschel, Theodor</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">J. C. Heinrich</field>
+<field name="librettistSort">Heinrich, J. C.</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matrose+und+Sänger+Theodor+Hentschel&amp;search_field=search</field>
+</doc>
+</add>

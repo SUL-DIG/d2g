@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123643</field>
+<field name="genre">Operas</field>
+<field name="title">Le contrat</field>
+<field name="titleSort">contrat</field>
+<field name="composer">Jean-Grégoire Pénavaire</field>
+<field name="composerSort">Pénavaire, Jean-Grégoire</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Jules Ruelle</field>
+<field name="librettistSort">Ruelle, Jules</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Boulogne-sur-Mer</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+contrat+Jean-Grégoire+Pénavaire&amp;search_field=search</field>
+</doc>
+</add>

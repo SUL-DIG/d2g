@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108261</field>
+<field name="genre">Operas</field>
+<field name="title">Le veglie di Tempe</field>
+<field name="titleSort">veglie di Tempe</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+
+
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+veglie+di+Tempe+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

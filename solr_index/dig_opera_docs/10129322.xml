@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129322</field>
+<field name="genre">Operas</field>
+<field name="title">The Boatswain's Mate (Der gute Freund)</field>
+<field name="titleSort">Boatswain's Mate (Der gute Freund)</field>
+<field name="composer">Ethel Smyth</field>
+<field name="composerSort">Smyth, Ethel</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Ethel Smyth</field>
+<field name="librettistSort">Smyth, Ethel</field>
+<field name="librettist">William Wymark Jacobs</field>
+<field name="librettistSort">Jacobs, William Wymark</field>
+<field name="theater">Shaftesbury Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Boatswain's+Mate+Der+gute+Freund+Ethel+Smyth&amp;search_field=search</field>
+</doc>
+</add>

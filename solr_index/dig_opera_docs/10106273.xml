@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106273</field>
+<field name="genre">Operas</field>
+<field name="title">A Christmas Carol</field>
+<field name="titleSort">Christmas Carol</field>
+<field name="composer">Joseph Cohen</field>
+<field name="composerSort">Cohen, Joseph</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Joseph Cohen</field>
+<field name="librettistSort">Cohen, Joseph</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Saint Norbert College</field>
+<field name="city">De Pere</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Christmas+Carol+Joseph+Cohen&amp;search_field=search</field>
+</doc>
+</add>

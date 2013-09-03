@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132466</field>
+<field name="genre">Operas</field>
+<field name="title">Balagantjik</field>
+<field name="titleSort">Balagantjik</field>
+<field name="composer">Jan Wallgren</field>
+<field name="composerSort">Wallgren, Jan</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Aleksandr Aleksandrovich Blok</field>
+<field name="librettistSort">Blok, Aleksandr Aleksandrovich</field>
+<field name="theater">Marionetten Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balagantjik+Jan+Wallgren&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131599</field>
+<field name="genre">Operas</field>
+<field name="title">"Sara, ou La fermière écossaise</field>
+<field name="titleSort">"Sara, ou La fermière écossaise"</field>
+<field name="composer">Pierre Vachon</field>
+<field name="composerSort">Vachon, Pierre</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Jean-Baptiste Collet de Messine</field>
+<field name="librettistSort">Collet de Messine, Jean-Baptiste</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sara,+ou+La+fermière+écossaise+Pierre+Vachon&amp;search_field=search</field>
+</doc>
+</add>

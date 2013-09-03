@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109144</field>
+<field name="genre">Operas</field>
+<field name="title">Wer hat's gemacht</field>
+<field name="titleSort">Wer hat's gemacht</field>
+<field name="composer">Edmund Eysler</field>
+<field name="composerSort">Eysler, Edmund</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Willy Sterk</field>
+<field name="librettistSort">Sterk, Willy</field>
+<field name="theater">Variété Reclame Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wer+hat's+gemacht+Edmund+Eysler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111250</field>
+<field name="genre">Operas</field>
+<field name="title">Duke or Devil</field>
+<field name="titleSort">Duke or Devil</field>
+<field name="composer">Nicholas Comyn Gatty</field>
+<field name="composerSort">Gatty, Nicholas Comyn</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Ivor Gatty</field>
+<field name="librettistSort">Gatty, Ivor</field>
+
+<field name="city">Manchester</field>
+<field name="region">Greater Manchester</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Duke+or+Devil+Nicholas+Comyn+Gatty&amp;search_field=search</field>
+</doc>
+</add>

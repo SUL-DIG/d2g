@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104920</field>
+<field name="genre">Operas</field>
+<field name="title">Il tribuno</field>
+<field name="titleSort">tribuno</field>
+<field name="composer">Federico Cappellini</field>
+<field name="composerSort">Cappellini, Federico</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Carlo Cappellini</field>
+<field name="librettistSort">Cappellini, Carlo</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+tribuno+Federico+Cappellini&amp;search_field=search</field>
+</doc>
+</add>

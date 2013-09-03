@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104917</field>
+<field name="genre">Operas</field>
+<field name="title">La vedova di bell'umore (La vedova scaltra)</field>
+<field name="titleSort">vedova di bell'umore (vedova scaltra)</field>
+<field name="composer">Carlo Cappelletti</field>
+<field name="composerSort">Cappelletti, Carlo</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Michele Angelo Prunetti</field>
+<field name="librettistSort">Prunetti, Michele Angelo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedova+di+bell'umore+La+vedova+scaltra+Carlo+Cappelletti&amp;search_field=search</field>
+</doc>
+</add>

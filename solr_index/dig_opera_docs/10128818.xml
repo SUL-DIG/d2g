@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128818</field>
+<field name="genre">Operas</field>
+<field name="title">Templári na Morave (The Templars in Moravia)</field>
+<field name="titleSort">Templári na Morave (The Templars in Moravia)</field>
+<field name="composer">Karel Richard Sebor</field>
+<field name="composerSort">Sebor, Karel Richard</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Karel Sabina</field>
+<field name="librettistSort">Sabina, Karel</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Templári+na+Morave+The+Templars+in+Moravia+Karel+Richard+Sebor&amp;search_field=search</field>
+</doc>
+</add>

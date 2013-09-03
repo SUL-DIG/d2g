@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100501</field>
+<field name="genre">Operas</field>
+<field name="title">Risurrezione</field>
+<field name="titleSort">Risurrezione</field>
+<field name="composer">Franco Alfano</field>
+<field name="composerSort">Alfano, Franco</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Cesare Hanau</field>
+<field name="librettistSort">Hanau, Cesare</field>
+<field name="librettist">Lev Nikolayevich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Lev Nikolayevich</field>
+<field name="theater">Teatro Vittorio Emanuele</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Risurrezione+Franco+Alfano&amp;search_field=search</field>
+</doc>
+</add>

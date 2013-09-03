@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115296</field>
+<field name="genre">Operas</field>
+<field name="title">A Letter to Emily</field>
+<field name="titleSort">Letter to Emily</field>
+<field name="composer">Lockrem Johnson</field>
+<field name="composerSort">Johnson, Lockrem</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Lockrem Johnson</field>
+<field name="librettistSort">Johnson, Lockrem</field>
+<field name="librettist">Robert Hupton</field>
+<field name="librettistSort">Hupton, Robert</field>
+<field name="theater">Cornish School of Music</field>
+<field name="city">Seattle</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Letter+to+Emily+Lockrem+Johnson&amp;search_field=search</field>
+</doc>
+</add>

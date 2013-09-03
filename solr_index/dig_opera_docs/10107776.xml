@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107776</field>
+<field name="genre">Operas</field>
+<field name="title">Dr. D</field>
+<field name="titleSort">Dr. D</field>
+<field name="composer">Charles Cotsford Dick</field>
+<field name="composerSort">Dick, Charles Cotsford</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Charles Philip Colnaghi</field>
+<field name="librettistSort">Colnaghi, Charles Philip</field>
+<field name="theater">New Royalty Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+D+Charles+Cotsford+Dick&amp;search_field=search</field>
+</doc>
+</add>

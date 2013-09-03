@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201562</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giesù flagellato</field>
+		<field name="titleSort">Giesù flagellato</field>
+		<field name="year">1734</field>
+		<field name="month">April</field>
+		<field name="day">23</field>
+		<field name="date">April 23, 1734</field>
+		<field name="composer">Jean Joseph Fiocco</field>
+		<field name="composerSort">Fiocco, Jean Joseph</field>
+		
+		
+		
+		<field name="city">Brussels</field>
+		<field name="region">Brabant</field>
+		<field name="country">Belgium</field>
+		<field name="subject">The Scourging at the pillar</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giesù+flagellato+Jean+Joseph+Fiocco&amp;search_field=search</field>
+	</doc></add>

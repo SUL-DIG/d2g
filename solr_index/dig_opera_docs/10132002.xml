@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132002</field>
+<field name="genre">Operas</field>
+<field name="title">I rivali generosi</field>
+<field name="titleSort">rivali generosi</field>
+<field name="composer">Giuseppe Vignati</field>
+<field name="composerSort">Vignati, Giuseppe</field>
+<field name="year">1726</field>
+<field name="date">1726</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+rivali+generosi+Giuseppe+Vignati&amp;search_field=search</field>
+</doc>
+</add>

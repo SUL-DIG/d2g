@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106624</field>
+<field name="genre">Operas</field>
+<field name="title">La morte d'Arthur</field>
+<field name="titleSort">morte d'Arthur</field>
+<field name="composer">Frederick Corder</field>
+<field name="composerSort">Corder, Frederick</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Frederick Corder</field>
+<field name="librettistSort">Corder, Frederick</field>
+<field name="librettist">Thomas Malory</field>
+<field name="librettistSort">Malory, Thomas</field>
+<field name="theater">Aquarium Theatre</field>
+<field name="city">Brighton</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+d'Arthur+Frederick+Corder&amp;search_field=search</field>
+</doc>
+</add>

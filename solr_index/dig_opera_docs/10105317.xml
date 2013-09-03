@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105317</field>
+<field name="genre">Operas</field>
+<field name="title">Der Diener aller Welt</field>
+<field name="titleSort">Diener aller Welt</field>
+<field name="composer">Gioseffo Catrufo</field>
+<field name="composerSort">Catrufo, Gioseffo</field>
+<field name="year">1818</field>
+<field name="date">1818</field><field name="theater">Isartortheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Diener+aller+Welt+Gioseffo+Catrufo&amp;search_field=search</field>
+</doc>
+</add>

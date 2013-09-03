@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117497</field>
+<field name="genre">Operas</field>
+<field name="title">Coriolano</field>
+<field name="titleSort">Coriolano</field>
+<field name="composer">Vincenzo Lavigna</field>
+<field name="composerSort">Lavigna, Vincenzo</field>
+<field name="year">1806</field>
+<field name="date">1806</field><field name="theater">Teatro Imperiale</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Coriolano+Vincenzo+Lavigna&amp;search_field=search</field>
+</doc>
+</add>

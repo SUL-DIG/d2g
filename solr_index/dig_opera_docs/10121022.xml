@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121022</field>
+<field name="genre">Operas</field>
+<field name="title">Il ritorno d'Ulisse in patria</field>
+<field name="titleSort">ritorno d'Ulisse in patria</field>
+<field name="composer">Claudio Monteverdi</field>
+<field name="composerSort">Monteverdi, Claudio</field>
+<field name="year">1641</field>
+<field name="date">1641</field>
+<field name="librettist">Giacomo Badoaro</field>
+<field name="librettistSort">Badoaro, Giacomo</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritorno+d'Ulisse+in+patria+Claudio+Monteverdi&amp;search_field=search</field>
+</doc>
+</add>

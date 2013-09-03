@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111792</field>
+<field name="genre">Operas</field>
+<field name="title">Der Liebeskrug</field>
+<field name="titleSort">Liebeskrug</field>
+<field name="composer">Ewald Giehl</field>
+<field name="composerSort">Giehl, Ewald</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Rudolf Eckhardt</field>
+<field name="librettistSort">Eckhardt, Rudolf</field>
+<field name="librettist">Heinrich Zschokke</field>
+<field name="librettistSort">Zschokke, Heinrich</field>
+<field name="theater">Theater am Hitropwall</field>
+<field name="city">Dortmund</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Liebeskrug+Ewald+Giehl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120940</field>
+<field name="genre">Operas</field>
+<field name="title">Nowy dziedzic (The New Landlord)</field>
+<field name="titleSort">Nowy dziedzic (The New Landlord)</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+
+
+<field name="librettist">Maksymilian Radziszewski</field>
+<field name="librettistSort">Radziszewski, Maksymilian"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nowy+dziedzic+The+New+Landlord+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

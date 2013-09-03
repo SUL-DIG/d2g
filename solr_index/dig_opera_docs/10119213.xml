@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119213</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux espagnols</field>
+<field name="titleSort">deux espagnols</field>
+<field name="composer">Charles Casimir Manry</field>
+<field name="composerSort">Manry, Charles Casimir</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Édouard Fournier</field>
+<field name="librettistSort">Fournier, Édouard</field>
+<field name="theater">Salle des Neothermes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+espagnols+Charles+Casimir+Manry&amp;search_field=search</field>
+</doc>
+</add>

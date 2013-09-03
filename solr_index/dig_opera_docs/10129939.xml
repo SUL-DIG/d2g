@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129939</field>
+<field name="genre">Operas</field>
+<field name="title">Montag aus Licht</field>
+<field name="titleSort">Montag aus Licht</field>
+<field name="composer">Karlheinz Stockhausen</field>
+<field name="composerSort">Stockhausen, Karlheinz</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Karlheinz Stockhausen</field>
+<field name="librettistSort">Stockhausen, Karlheinz</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Montag+aus+Licht+Karlheinz+Stockhausen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110750</field>
+<field name="genre">Operas</field>
+<field name="title">La marchesa e il ballerino</field>
+<field name="titleSort">marchesa e il ballerino</field>
+<field name="composer">Nicolò Gabrielli</field>
+<field name="composerSort">Gabrielli, Nicolò</field>
+<field name="year">1840</field>
+<field name="date">1840</field><field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+marchesa+e+il+ballerino+Nicolò+Gabrielli&amp;search_field=search</field>
+</doc>
+</add>

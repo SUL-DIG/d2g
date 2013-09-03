@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128718</field>
+<field name="genre">Operas</field>
+<field name="title">"Nini, la scuffiara</field>
+<field name="titleSort">"Nini, la scuffiara"</field>
+<field name="composer">Gennaro Scognamiglia</field>
+<field name="composerSort">Scognamiglia, Gennaro</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Paolo Marulli</field>
+<field name="librettistSort">Marulli, Paolo</field>
+<field name="theater">Teatro Partenope</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nini,+la+scuffiara+Gennaro+Scognamiglia&amp;search_field=search</field>
+</doc>
+</add>

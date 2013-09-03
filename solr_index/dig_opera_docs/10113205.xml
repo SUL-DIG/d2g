@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113205</field>
+<field name="genre">Operas</field>
+<field name="title">Die gepanzerte Braut</field>
+<field name="titleSort">gepanzerte Braut</field>
+<field name="composer">Armin Haag</field>
+<field name="composerSort">Haag, Armin</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Fritz Werneck-Brüggemann</field>
+<field name="librettistSort">Werneck-Brüggemann, Fritz</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+gepanzerte+Braut+Armin+Haag&amp;search_field=search</field>
+</doc>
+</add>

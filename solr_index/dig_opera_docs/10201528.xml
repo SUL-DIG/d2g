@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201528</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gethsemane, Calvary, the Passion</field>
+		<field name="titleSort">Gethsemane, Calvary, the Passion</field>
+		<field name="year">1898</field>
+		
+		
+		<field name="date">1898</field>
+		<field name="composer">William Lane Frost</field>
+		<field name="composerSort">Frost, William Lane</field>
+		<field name="librettist">William Lane Frost</field>
+		<field name="librettistSort">Frost, William Lane</field>
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gethsemane,+Calvary,+the+Passion+William+Lane+Frost&amp;search_field=search</field>
+	</doc></add>

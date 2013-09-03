@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116847</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bergknappen</field>
+<field name="titleSort">Bergknappen</field>
+<field name="composer">Paul Ignaz Kürzinger</field>
+<field name="composerSort">Kürzinger, Paul Ignaz</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Paul Weidmann</field>
+<field name="librettistSort">Weidmann, Paul</field>
+<field name="theater">Fürstlische Thurn und Taxissches-Theater im Ballsaale</field>
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bergknappen+Paul+Ignaz+Kürzinger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204591</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Los tres milagros de Santa Cecilia</field>
+		<field name="titleSort">tres milagros de Santa Cecilia</field>
+		<field name="year">1921</field>
+		
+		
+		<field name="date">1921</field>
+		<field name="composer">Padre José Antonio de Donostia</field>
+		<field name="composerSort">Donostia, Padre José Antonio de </field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+tres+milagros+de+Santa+Cecilia+Padre+José+Antonio+de+Donostia&amp;search_field=search</field>
+	</doc></add>

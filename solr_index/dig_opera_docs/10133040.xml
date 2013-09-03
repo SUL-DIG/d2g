@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133040</field>
+<field name="genre">Operas</field>
+<field name="title">"Ogus, ossia Il trionfo del bel sesso</field>
+<field name="titleSort">"Ogus, ossia Il trionfo del bel sesso"</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Nostitzsches Nationaltheater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ogus,+ossia+Il+trionfo+del+bel+sesso+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

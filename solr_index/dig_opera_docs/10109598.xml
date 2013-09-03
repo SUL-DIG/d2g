@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109598</field>
+<field name="genre">Operas</field>
+<field name="title">I due Coralbi</field>
+<field name="titleSort">due Coralbi</field>
+<field name="composer">Francesco Ferrari</field>
+<field name="composerSort">Ferrari, Francesco</field>
+<field name="year">1671</field>
+<field name="date">1671</field>
+<field name="librettist">Carlo Amadio</field>
+<field name="librettistSort">Amadio, Carlo</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Sant'Angelo in Vado</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+Coralbi+Francesco+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110695</field>
+<field name="genre">Operas</field>
+<field name="title">"Enea negli Elisi, ovvero Il tempio dell'Eternitа</field>
+<field name="titleSort">"Enea negli Elisi, ovvero Il tempio dell'Eternitа"</field>
+<field name="composer">Johann Joseph Fux</field>
+<field name="composerSort">Fux, Johann Joseph</field>
+<field name="year">1731</field>
+<field name="date">1731</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Theater in der Favorita</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enea+negli+Elisi,+ovvero+Il+tempio+dell'Eternitа+Johann+Joseph+Fux&amp;search_field=search</field>
+</doc>
+</add>

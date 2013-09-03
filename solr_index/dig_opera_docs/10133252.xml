@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133252</field>
+<field name="genre">Operas</field>
+<field name="title">Countdown</field>
+<field name="titleSort">Countdown</field>
+<field name="composer">Christopher Yavelow</field>
+<field name="composerSort">Yavelow, Christopher</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Laura Harrington</field>
+<field name="librettistSort">Harrington, Laura</field>
+<field name="theater">Mill Mountain Theater</field>
+<field name="city">Roanoke</field>
+<field name="region">Virginia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Countdown+Christopher+Yavelow&amp;search_field=search</field>
+</doc>
+</add>

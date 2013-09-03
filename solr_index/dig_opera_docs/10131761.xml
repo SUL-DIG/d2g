@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131761</field>
+<field name="genre">Operas</field>
+<field name="title">Khristofor Kolumb</field>
+<field name="titleSort">Khristofor Kolumb</field>
+<field name="composer">Sergey Nikiforovich Vasilenko</field>
+<field name="composerSort">Vasilenko, Sergey Nikiforovich</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">[Abraham Gol'denberg] Argo</field>
+<field name="librettistSort">Argo, [Abraham Gol'denberg]</field>
+<field name="librettist">Sergey Antimonov</field>
+<field name="librettistSort">Antimonov, Sergey</field>
+<field name="theater">House of Actors</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khristofor+Kolumb+Sergey+Nikiforovich+Vasilenko&amp;search_field=search</field>
+</doc>
+</add>

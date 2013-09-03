@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200075</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abramo vincitor de propri affetti</field>
+		<field name="titleSort">Abramo vincitor de propri affetti</field>
+		<field name="year">1683</field>
+		<field name="month">December</field>
+		<field name="day">10</field>
+		<field name="date">December 10, 1683</field>
+		<field name="composer">Giacomo Antonio Perti</field>
+		<field name="composerSort">Perti, Giacomo Antonio</field>
+		<field name="librettist">Gregorio Malisardi</field>
+		<field name="librettistSort">Malisardi, Gregorio</field>
+		
+		<field name="theater">Arciconfraternita de' Santi Sebastiano e Rocco</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abramo+vincitor+de+propri+affetti+Giacomo+Antonio+Perti&amp;search_field=search</field>
+	</doc></add>

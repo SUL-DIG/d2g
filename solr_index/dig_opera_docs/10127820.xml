@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127820</field>
+<field name="genre">Operas</field>
+<field name="title">Aschermittwoch</field>
+<field name="titleSort">Aschermittwoch</field>
+<field name="composer">Karl Satow</field>
+<field name="composerSort">Satow, Karl</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Willy Breuer</field>
+<field name="librettistSort">Breuer, Willy</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aschermittwoch+Karl+Satow&amp;search_field=search</field>
+</doc>
+</add>

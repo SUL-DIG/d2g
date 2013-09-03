@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110786</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze alla mira</field>
+<field name="titleSort">nozze alla mira</field>
+<field name="composer">Angelo Gagni</field>
+<field name="composerSort">Gagni, Angelo</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Giovanni Dolfin</field>
+<field name="librettistSort">Dolfin, Giovanni</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+alla+mira+Angelo+Gagni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105880</field>
+<field name="genre">Operas</field>
+<field name="title">Catone in Utica</field>
+<field name="titleSort">Catone in Utica</field>
+<field name="composer">Vincenzo Ciampi</field>
+<field name="composerSort">Ciampi, Vincenzo</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Catone+in+Utica+Vincenzo+Ciampi&amp;search_field=search</field>
+</doc>
+</add>

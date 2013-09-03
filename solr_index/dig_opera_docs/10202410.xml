@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202410</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Krátké rozjimání</field>
+		<field name="titleSort">Krátké rozjimání</field>
+		<field name="year">1728</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1728</field>
+		<field name="composer">Frantisek Antonín Mica</field>
+		<field name="composerSort">Mica, Frantisek Antonín</field>
+		<field name="librettist">Anton Ferdinand Dubravius</field>
+		<field name="librettistSort">Dubravius, Anton Ferdinand</field>
+		
+		
+		<field name="city">Jaromerice</field>
+		<field name="region">Jihomoravsky Kraj</field>
+		<field name="country">Czech Republic</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krátké+rozjimání+Frantisek+Antonín+Mica&amp;search_field=search</field>
+	</doc></add>

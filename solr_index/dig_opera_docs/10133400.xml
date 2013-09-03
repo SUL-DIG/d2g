@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133400</field>
+<field name="genre">Operas</field>
+<field name="title">Sveta Mauricija brinumdarbi</field>
+<field name="titleSort">Sveta Mauricija brinumdarbi</field>
+<field name="composer">Margers Zarins</field>
+<field name="composerSort">Zarins, Margers</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Margers Zarins</field>
+<field name="librettistSort">Zarins, Margers</field>
+<field name="theater">Latviyskiy Teatr Operï i Baleta</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sveta+Mauricija+brinumdarbi+Margers+Zarins&amp;search_field=search</field>
+</doc>
+</add>

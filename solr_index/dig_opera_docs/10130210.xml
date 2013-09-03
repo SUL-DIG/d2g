@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130210</field>
+<field name="genre">Operas</field>
+<field name="title">The Green Knight</field>
+<field name="titleSort">Green Knight</field>
+<field name="composer">Edward Griffith Stricklen</field>
+<field name="composerSort">Stricklen, Edward Griffith</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Porter Garnet</field>
+<field name="librettistSort">Garnet, Porter</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Green+Knight+Edward+Griffith+Stricklen&amp;search_field=search</field>
+</doc>
+</add>

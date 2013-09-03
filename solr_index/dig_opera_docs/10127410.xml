@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127410</field>
+<field name="genre">Operas</field>
+<field name="title">Saladino e Clotilda</field>
+<field name="titleSort">Saladino e Clotilda</field>
+<field name="composer">Baltasar Saldoni</field>
+<field name="composerSort">Saldoni, Baltasar</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saladino+e+Clotilda+Baltasar+Saldoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117212</field>
+<field name="genre">Operas</field>
+<field name="title">Adelheid von Ponthieu</field>
+<field name="titleSort">Adelheid von Ponthieu</field>
+<field name="composer">Josef Lange</field>
+<field name="composerSort">Lange, Josef</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Heinrich Gottlieb Schmieder</field>
+<field name="librettistSort">Schmieder, Heinrich Gottlieb</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelheid+von+Ponthieu+Josef+Lange&amp;search_field=search</field>
+</doc>
+</add>

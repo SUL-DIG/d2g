@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109338</field>
+<field name="genre">Operas</field>
+<field name="title">Les tentations de Toinon</field>
+<field name="titleSort">tentations de Toinon</field>
+<field name="composer">Lucien Farjall</field>
+<field name="composerSort">Farjall, Lucien</field>
+<field name="year">1921</field>
+<field name="date">1921</field><field name="theater">Palais d'Hiver</field>
+<field name="city">Pau</field>
+<field name="region">Béarn</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+tentations+de+Toinon+Lucien+Farjall&amp;search_field=search</field>
+</doc>
+</add>

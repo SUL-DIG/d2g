@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103519</field>
+<field name="genre">Operas</field>
+<field name="title">Don Juan de Garay</field>
+<field name="titleSort">Don Juan de Garay</field>
+<field name="composer">Riccardo Boniccioli</field>
+<field name="composerSort">Boniccioli, Riccardo</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Riccardo Boniccioli</field>
+<field name="librettistSort">Boniccioli, Riccardo</field>
+<field name="theater">Politeama Argentino</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Juan+de+Garay+Riccardo+Boniccioli&amp;search_field=search</field>
+</doc>
+</add>

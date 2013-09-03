@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107550</field>
+<field name="genre">Operas</field>
+<field name="title">Florine</field>
+<field name="titleSort">Florine</field>
+<field name="composer">Marc-Antoine Désaugiers</field>
+<field name="composerSort">Désaugiers, Marc-Antoine</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Barthélemy Imbert</field>
+<field name="librettistSort">Imbert, Barthélemy</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Florine+Marc-Antoine+Désaugiers&amp;search_field=search</field>
+</doc>
+</add>

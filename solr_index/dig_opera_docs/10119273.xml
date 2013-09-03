@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119273</field>
+<field name="genre">Operas</field>
+<field name="title">The Rout of the Philistines</field>
+<field name="titleSort">Rout of the Philistines</field>
+<field name="composer">Nino Marcelli</field>
+<field name="composerSort">Marcelli, Nino</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Charles Gilman Norris</field>
+<field name="librettistSort">Norris, Charles Gilman</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rout+of+the+Philistines+Nino+Marcelli&amp;search_field=search</field>
+</doc>
+</add>

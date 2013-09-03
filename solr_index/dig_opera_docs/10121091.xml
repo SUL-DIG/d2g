@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121091</field>
+<field name="genre">Operas</field>
+<field name="title">La Pompadour</field>
+<field name="titleSort">Pompadour</field>
+<field name="composer">Emanuel Moór</field>
+<field name="composerSort">Moór, Emanuel</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Lolo von Ferro</field>
+<field name="librettistSort">Ferro, Lolo von</field>
+<field name="librettist">Anita Burke Moór</field>
+<field name="librettistSort">Moór, Anita Burke</field>
+<field name="theater">Neues Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Pompadour+Emanuel+Moór&amp;search_field=search</field>
+</doc>
+</add>

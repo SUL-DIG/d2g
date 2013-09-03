@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124607</field>
+<field name="genre">Operas</field>
+<field name="title">Vindice la pazzia della vendetta</field>
+<field name="titleSort">Vindice la pazzia della vendetta</field>
+<field name="composer">Girolamo Polani</field>
+<field name="composerSort">Polani, Girolamo</field>
+<field name="year">1707</field>
+<field name="date">1707</field>
+<field name="librettist">Bartolomeo Pedoni</field>
+<field name="librettistSort">Pedoni, Bartolomeo</field>
+<field name="theater">Teatro San Fantino</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vindice+la+pazzia+della+vendetta+Girolamo+Polani&amp;search_field=search</field>
+</doc>
+</add>

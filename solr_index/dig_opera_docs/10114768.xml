@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114768</field>
+<field name="genre">Operas</field>
+<field name="title">Das Debut im Konzerte</field>
+<field name="titleSort">Debut im Konzerte</field>
+<field name="composer">Josef Huber (1)</field>
+<field name="composerSort">Huber (1), Josef</field>
+<field name="year">1838</field>
+<field name="date">1838</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Debut+im+Konzerte+Josef+Huber+-1&amp;search_field=search</field>
+</doc>
+</add>

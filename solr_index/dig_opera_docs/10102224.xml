@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102224</field>
+<field name="genre">Operas</field>
+<field name="title">Orfeo dolente</field>
+<field name="titleSort">Orfeo dolente</field>
+<field name="composer">Domenico Belli</field>
+<field name="composerSort">Belli, Domenico</field>
+<field name="year">1616</field>
+<field name="date">1616</field>
+<field name="librettist">Gabriello Chiabrera</field>
+<field name="librettistSort">Chiabrera, Gabriello</field>
+<field name="theater">Palazzo Gherardesca</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo+dolente+Domenico+Belli&amp;search_field=search</field>
+</doc>
+</add>

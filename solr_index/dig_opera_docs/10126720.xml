@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126720</field>
+<field name="genre">Operas</field>
+<field name="title">Un sguardo dal ponte</field>
+<field name="titleSort">sguardo dal ponte</field>
+<field name="composer">Renzo Rossellini</field>
+<field name="composerSort">Rossellini, Renzo</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Renzo Rossellini</field>
+<field name="librettistSort">Rossellini, Renzo</field>
+<field name="librettist">Arthur Miller</field>
+<field name="librettistSort">Miller, Arthur</field>
+<field name="theater">Teatro dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+sguardo+dal+ponte+Renzo+Rossellini&amp;search_field=search</field>
+</doc>
+</add>

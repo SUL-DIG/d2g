@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115997</field>
+<field name="genre">Operas</field>
+<field name="title">Belshazar</field>
+<field name="titleSort">Belshazar</field>
+<field name="composer">Volker David Kirchner</field>
+<field name="composerSort">Kirchner, Volker David</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Harald Weirich</field>
+<field name="librettistSort">Weirich, Harald</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Belshazar+Volker+David+Kirchner&amp;search_field=search</field>
+</doc>
+</add>

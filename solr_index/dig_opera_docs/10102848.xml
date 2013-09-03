@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102848</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geschichte von Aucassin und Nicolette</field>
+<field name="titleSort">Geschichte von Aucassin und Nicolette</field>
+<field name="composer">Günter Bialas</field>
+<field name="composerSort">Bialas, Günter</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Tankred Dorst</field>
+<field name="librettistSort">Dorst, Tankred</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geschichte+von+Aucassin+und+Nicolette+Günter+Bialas&amp;search_field=search</field>
+</doc>
+</add>

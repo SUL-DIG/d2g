@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116171</field>
+<field name="genre">Operas</field>
+<field name="title">N. F. B.</field>
+<field name="titleSort">N. F. B.</field>
+<field name="composer">Vladimir Aleksandrovich Kobekin</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Aleksey Vasil'yevich Parin</field>
+<field name="librettistSort">Parin, Aleksey Vasil'yevich</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Cistercian Abbey</field>
+<field name="city">Rehburg-Loccum</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=N.+F.+B.+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
+</doc>
+</add>

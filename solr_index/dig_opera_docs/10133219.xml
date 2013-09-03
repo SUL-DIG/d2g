@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133219</field>
+<field name="genre">Operas</field>
+<field name="title">Asmodo</field>
+<field name="titleSort">Asmodo</field>
+<field name="composer">Josef Wünsch</field>
+<field name="composerSort">Wünsch, Josef</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">__ Kovalik</field>
+<field name="librettistSort">Kovalik, __</field>
+
+<field name="city">Risan</field>
+
+<field name="country">Montenegro</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Asmodo+Josef+Wünsch&amp;search_field=search</field>
+</doc>
+</add>

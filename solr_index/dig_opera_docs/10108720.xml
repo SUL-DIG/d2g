@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108720</field>
+<field name="genre">Operas</field>
+<field name="title">Love's Test</field>
+<field name="titleSort">Love's Test</field>
+<field name="composer">Julian Edwards</field>
+<field name="composerSort">Edwards, Julian</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Julian Edwards</field>
+<field name="librettistSort">Edwards, Julian</field>
+<field name="theater">Victoria Hall</field>
+<field name="city">Norwich</field>
+<field name="region">Norfolk</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love's+Test+Julian+Edwards&amp;search_field=search</field>
+</doc>
+</add>

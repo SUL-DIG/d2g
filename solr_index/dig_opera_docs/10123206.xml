@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123206</field>
+<field name="genre">Operas</field>
+<field name="title">La grille du parc</field>
+<field name="titleSort">grille du parc</field>
+<field name="composer">Auguste Panseron</field>
+<field name="composerSort">Panseron, Auguste</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">Joseph Marie Pain</field>
+<field name="librettistSort">Pain, Joseph Marie</field>
+<field name="librettist">Jacques-Arsène Ancelot</field>
+<field name="librettistSort">Ancelot, Jacques-Arsène</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grille+du+parc+Auguste+Panseron&amp;search_field=search</field>
+</doc>
+</add>

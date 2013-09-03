@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104536</field>
+<field name="genre">Operas</field>
+<field name="title">Olivia hercegnö</field>
+<field name="titleSort">Olivia hercegnö</field>
+<field name="composer">Ákos Buttykay</field>
+<field name="composerSort">Buttykay, Ákos</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Imre Földes</field>
+<field name="librettistSort">Földes, Imre</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olivia+hercegnö+Ákos+Buttykay&amp;search_field=search</field>
+</doc>
+</add>

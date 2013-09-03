@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128202</field>
+<field name="genre">Operas</field>
+<field name="title">Der späte Sühne (Die Füsse im Feuer)</field>
+<field name="titleSort">späte Sühne (Die Füsse im Feuer)</field>
+<field name="composer">Armin Schibler</field>
+<field name="composerSort">Schibler, Armin</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Armin Schibler</field>
+<field name="librettistSort">Schibler, Armin</field>
+<field name="librettist">Conrad Ferdinand Meyer</field>
+<field name="librettistSort">Meyer, Conrad Ferdinand</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+späte+Sühne+Die+Füsse+im+Feuer+Armin+Schibler&amp;search_field=search</field>
+</doc>
+</add>

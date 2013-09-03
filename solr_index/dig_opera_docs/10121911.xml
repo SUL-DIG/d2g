@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121911</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Dudelsack</field>
+<field name="titleSort">Miss Dudelsack</field>
+<field name="composer">[Rudolf Lewysohn] Rudolf Nelson</field>
+<field name="composerSort">Nelson, [Rudolf Lewysohn] Rudolf</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Fritz Grünbaum</field>
+<field name="librettistSort">Grünbaum, Fritz</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]</field>
+<field name="theater">Kleines Schauspielhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Dudelsack+Rudolf+Lewysohn]+Rudolf+Nelson&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106928</field>
+<field name="genre">Operas</field>
+<field name="title">I matrimoni per inganno</field>
+<field name="titleSort">matrimoni per inganno</field>
+<field name="composer">Giuseppe Maria Curcio</field>
+<field name="composerSort">Curcio, Giuseppe Maria</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+matrimoni+per+inganno+Giuseppe+Maria+Curcio&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201545</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giaele</field>
+		<field name="titleSort">Giaele</field>
+		<field name="year">1727</field>
+		
+		
+		<field name="date">1727</field>
+		<field name="composer">Diogenio Bigaglia</field>
+		<field name="composerSort">Bigaglia, Diogenio</field>
+		<field name="librettist">Daniele Giupponi</field>
+		<field name="librettistSort">Giupponi, Daniele</field>
+		
+		
+		<field name="city">Rimini</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giaele+Diogenio+Bigaglia&amp;search_field=search</field>
+	</doc></add>

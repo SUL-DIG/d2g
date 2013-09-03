@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110990</field>
+<field name="genre">Operas</field>
+<field name="title">Zaira</field>
+<field name="titleSort">Zaira</field>
+<field name="composer">Alessandro Gandini</field>
+<field name="composerSort">Gandini, Alessandro</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Teatro di Corte</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zaira+Alessandro+Gandini&amp;search_field=search</field>
+</doc>
+</add>

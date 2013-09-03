@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126788</field>
+<field name="genre">Operas</field>
+<field name="title">Adina</field>
+<field name="titleSort">Adina</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Gherardo Bevilacqua Aldobrandini</field>
+<field name="librettistSort">Aldobrandini, Gherardo Bevilacqua</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adina+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

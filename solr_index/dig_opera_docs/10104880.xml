@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104880</field>
+<field name="genre">Operas</field>
+<field name="title">Les tribulations de Beaufumé</field>
+<field name="titleSort">tribulations de Beaufumé</field>
+<field name="composer">P. Capdevielle</field>
+<field name="composerSort">Capdevielle, P.</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">__ Darnoux</field>
+<field name="librettistSort">Darnoux, __</field>
+<field name="theater">Concert de la Gaîté-Montparnasse</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+tribulations+de+Beaufumé+P.+Capdevielle&amp;search_field=search</field>
+</doc>
+</add>

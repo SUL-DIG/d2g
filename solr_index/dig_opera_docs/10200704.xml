@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200704</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La conversione di Santa Maria Madalena</field>
+		<field name="titleSort">conversione di Santa Maria Madalena</field>
+		<field name="year">1702</field>
+		
+		
+		<field name="date">1702</field>
+		<field name="composer">Cinzio Vinchioni</field>
+		<field name="composerSort">Vinchioni, Cinzio</field>
+		<field name="librettist">Pompeo Figari</field>
+		<field name="librettistSort">Figari, Pompeo</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Mary Magdalen</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">July 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversione+di+Santa+Maria+Madalena+Cinzio+Vinchioni&amp;search_field=search</field>
+	</doc></add>

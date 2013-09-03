@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202486</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Lenin</field>
+		<field name="titleSort">Lenin</field>
+		<field name="year">1982</field>
+		
+		
+		<field name="date">1982</field>
+		<field name="composer">Ihor' Naumovich Shamo</field>
+		<field name="composerSort">Shamo, Ihor' Naumovich</field>
+		<field name="librettist">Vladimir Vladimirovich Mayakovsky</field>
+		<field name="librettistSort">Mayakovsky, Vladimir Vladim</field>
+		
+		
+		
+		
+		
+		<field name="subject">Vladimir Ilyich Lenin</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lenin+Ihor'+Naumovich+Shamo&amp;search_field=search</field>
+	</doc></add>

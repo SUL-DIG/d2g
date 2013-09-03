@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102302</field>
+<field name="genre">Operas</field>
+<field name="title">Der reichste Mann der Welt</field>
+<field name="titleSort">reichste Mann der Welt</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Hans Müller</field>
+<field name="librettistSort">Müller, Hans"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+reichste+Mann+der+Welt+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

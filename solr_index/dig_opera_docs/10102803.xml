@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102803</field>
+<field name="genre">Operas</field>
+<field name="title">Gli eroi (Los héroes)</field>
+<field name="titleSort">eroi (Los héroes)</field>
+<field name="composer">Arturo Beruti</field>
+<field name="composerSort">Beruti, Arturo</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Vicente Fidel López</field>
+<field name="librettistSort">López, Vicente Fidel</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+eroi+Los+héroes+Arturo+Beruti&amp;search_field=search</field>
+</doc>
+</add>

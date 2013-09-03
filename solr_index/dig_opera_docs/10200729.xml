@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200729</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La costanza trionfante</field>
+		<field name="titleSort">costanza trionfante</field>
+		<field name="year">1696</field>
+		
+		
+		<field name="date">1696</field>
+		<field name="composer">Pietro Antonio Galerini</field>
+		<field name="composerSort">Galerini, Pietro Antonio</field>
+		<field name="librettist">Giulio Cesare Grazzini</field>
+		<field name="librettistSort">Grazzini, Giulio Cesare</field>
+		
+		
+		<field name="city">Ferrara</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+costanza+trionfante+Pietro+Antonio+Galerini&amp;search_field=search</field>
+	</doc></add>

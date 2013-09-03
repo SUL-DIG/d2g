@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126731</field>
+<field name="genre">Operas</field>
+<field name="title">La farsa musicale</field>
+<field name="titleSort">farsa musicale</field>
+<field name="composer">Francesco Rossi</field>
+<field name="composerSort">Rossi, Francesco</field>
+<field name="year">1664</field>
+<field name="date">1664</field>
+<field name="librettist">Carlo Righenzi</field>
+<field name="librettistSort">Righenzi, Carlo</field>
+
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+farsa+musicale+Francesco+Rossi&amp;search_field=search</field>
+</doc>
+</add>

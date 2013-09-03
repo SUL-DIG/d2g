@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117692</field>
+<field name="genre">Operas</field>
+<field name="title">La clairière des fées</field>
+<field name="titleSort">clairière des fées</field>
+<field name="composer">Paul Le Flem</field>
+<field name="composerSort">Flem, Paul Le</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Fernand Divoire</field>
+<field name="librettistSort">Divoire, Fernand</field>
+<field name="theater">ORTF Radio (Office de Radiodiffusion Télévision Française)</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+clairière+des+fées+Paul+Le+Flem&amp;search_field=search</field>
+</doc>
+</add>

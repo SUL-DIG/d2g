@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202497</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La liberatrice del popolo giudaico nella Persia, o sia L'Ester</field>
+		<field name="titleSort">liberatrice del popolo giudaico nella Persia, o sia L'Ester</field>
+		<field name="year">1773</field>
+		<field name="month">December</field>
+		<field name="day">19</field>
+		<field name="date">December 19, 1773</field>
+		<field name="composer">Carl Ditters von Dittersdorf</field>
+		<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+		<field name="librettist">Ignazio Pintus</field>
+		<field name="librettistSort">Pintus, Ignazio</field>
+		
+		<field name="theater">Tonkünstler-Societät</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Esther saves her people</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+liberatrice+del+popolo+giudaico+nella+Persia,+o+sia+L'Ester+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+	</doc></add>

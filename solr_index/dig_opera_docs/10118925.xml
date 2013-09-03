@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118925</field>
+<field name="genre">Operas</field>
+<field name="title">Le moulin des filleuls</field>
+<field name="titleSort">moulin des filleuls</field>
+<field name="composer">Louis-Aimé Maillart</field>
+<field name="composerSort">Maillart, Louis-Aimé</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">[Pierre-Étienne Piestre] Eugène Cormon</field>
+<field name="librettistSort">Cormon, Eugène [Pierre-Étienne Piestre]</field>
+<field name="librettist">Louis-Oscar Maillart</field>
+<field name="librettistSort">Maillart, Louis-Oscar</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+moulin+des+filleuls+Louis-Aimé+Maillart&amp;search_field=search</field>
+</doc>
+</add>

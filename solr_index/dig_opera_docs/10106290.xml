@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106290</field>
+<field name="genre">Operas</field>
+<field name="title">The Golden Wedding</field>
+<field name="titleSort">Golden Wedding</field>
+<field name="composer">James Parry Cole</field>
+<field name="composerSort">Cole, James Parry</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">[George Rose] Arthur Sketchley</field>
+<field name="librettistSort">Sketchley, Arthur [George Rose]</field>
+<field name="theater">Avenue Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golden+Wedding+James+Parry+Cole&amp;search_field=search</field>
+</doc>
+</add>

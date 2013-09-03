@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204699</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Triumphus divini amoris</field>
+		<field name="titleSort">Triumphus divini amoris</field>
+		<field name="year">1765</field>
+		
+		
+		<field name="date">1765</field>
+		<field name="composer">Baldassare Galuppi</field>
+		<field name="composerSort">Galuppi, Baldassare</field>
+		<field name="librettist">Pietro Chiari</field>
+		<field name="librettistSort">Chiari, Pietro</field>
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Triumphus+divini+amoris+Baldassare+Galuppi&amp;search_field=search</field>
+	</doc></add>

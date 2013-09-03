@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102064</field>
+<field name="genre">Operas</field>
+<field name="title">Das Glockenspiel</field>
+<field name="titleSort">Glockenspiel</field>
+<field name="composer">Max Baumann (2)</field>
+<field name="composerSort">Baumann (2), Max</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Klaus Heinrich</field>
+<field name="librettistSort">Heinrich, Klaus</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Glockenspiel+Max+Baumann+-2&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104819</field>
+<field name="genre">Operas</field>
+<field name="title">"Le couvent, ou Les fruits du caractère</field>
+<field name="titleSort">"couvent, ou Les fruits du caractère"</field>
+<field name="composer">Julie Candeille</field>
+<field name="composerSort">Candeille, Julie</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Pierre Laujon</field>
+<field name="librettistSort">Laujon, Pierre</field>
+<field name="theater">Théâtre de la Nation</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+couvent,+ou+Les+fruits+du+caractère+Julie+Candeille&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133181</field>
+<field name="genre">Operas</field>
+<field name="title">Adèle de Ponthieu</field>
+<field name="titleSort">Adèle de Ponthieu</field>
+<field name="composer">André Alphonse Toussaint Wormser</field>
+<field name="composerSort">Wormser, André Alphonse Toussaint</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Théâtre du Casino Grand Cercle</field>
+<field name="city">Aix-les-Bains</field>
+<field name="region">Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adèle+de+Ponthieu+André+Alphonse+Toussaint+Wormser&amp;search_field=search</field>
+</doc>
+</add>

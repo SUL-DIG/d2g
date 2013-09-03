@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118952</field>
+<field name="genre">Operas</field>
+<field name="title">"Ricimero, re de' Goti</field>
+<field name="titleSort">"Ricimero, re de' Goti"</field>
+<field name="composer">Gian Francesco de Majo</field>
+<field name="composerSort">Majo, Gian Francesco de</field>
+<field name="year">1759</field>
+<field name="date">1759</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ricimero,+re+de'+Goti+Gian+Francesco+de+Majo&amp;search_field=search</field>
+</doc>
+</add>

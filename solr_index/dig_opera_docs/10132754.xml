@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132754</field>
+<field name="genre">Operas</field>
+<field name="title">Das Erntefest</field>
+<field name="titleSort">Erntefest</field>
+<field name="composer">Christian Gotthilf Weisflog</field>
+<field name="composerSort">Weisflog, Christian Gotthilf</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Christian Gotthilf Weisflog</field>
+<field name="librettistSort">Weisflog, Christian Gotthilf</field>
+
+<field name="city">Bautzen</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Erntefest+Christian+Gotthilf+Weisflog&amp;search_field=search</field>
+</doc>
+</add>

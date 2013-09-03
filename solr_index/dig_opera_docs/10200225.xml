@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200225</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'arche d'alliance devant Jérusalem</field>
+		<field name="titleSort">arche d'alliance devant Jérusalem</field>
+		<field name="year">1781</field>
+		
+		
+		<field name="date">1781</field>
+		<field name="composer">François Joseph Gossec</field>
+		<field name="composerSort">Gossec, François Joseph</field>
+		<field name="librettist">Pierre-Louis Moline</field>
+		<field name="librettistSort">Moline, Pierre-Louis</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">David recovers the Ark of the Covenant</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arche+d'alliance+devant+Jérusalem+François+Joseph+Gossec&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103957</field>
+<field name="genre">Operas</field>
+<field name="title">Den stundeslöse</field>
+<field name="titleSort">stundeslöse</field>
+<field name="composer">Edvard Fliflet Braein</field>
+<field name="composerSort">Braein, Edvard Fliflet</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Hans Kristiansen</field>
+<field name="librettistSort">Kristiansen, Hans</field>
+<field name="librettist">Ludvig Holberg</field>
+<field name="librettistSort">Holberg, Ludvig</field>
+<field name="theater">Den Norske Opera</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Den+stundeslöse+Edvard+Fliflet+Braein&amp;search_field=search</field>
+</doc>
+</add>

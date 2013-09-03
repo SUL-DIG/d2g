@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104521</field>
+<field name="genre">Operas</field>
+<field name="title">Iz pisem khudozhnika</field>
+<field name="titleSort">Iz pisem khudozhnika</field>
+<field name="composer">Yury Markovich Butsko</field>
+<field name="composerSort">Butsko, Yury Markovich</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Konstantin Alekseyevich Korovin</field>
+<field name="librettistSort">Korovin, Konstantin Alekseyevich</field>
+<field name="theater">All-Union House of Composers</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iz+pisem+khudozhnika+Yury+Markovich+Butsko&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200759</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Crucifixion and Resurrection</field>
+		<field name="titleSort">Crucifixion and Resurrection</field>
+		<field name="year">1907</field>
+		
+		
+		<field name="date">1907</field>
+		<field name="composer">William Berwald</field>
+		<field name="composerSort">Berwald, William</field>
+		
+		
+		
+		<field name="city">Boston</field>
+		<field name="region">Massachusetts</field>
+		<field name="country">United States</field>
+		<field name="subject">The Passion and Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Crucifixion+and+Resurrection+William+Berwald&amp;search_field=search</field>
+	</doc></add>

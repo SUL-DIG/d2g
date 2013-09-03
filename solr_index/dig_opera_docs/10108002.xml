@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108002</field>
+<field name="genre">Operas</field>
+<field name="title">Het eerekruis</field>
+<field name="titleSort">eerekruis</field>
+<field name="composer">Cornelis Dopper</field>
+<field name="composerSort">Dopper, Cornelis</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Henri Engelen</field>
+<field name="librettistSort">Engelen, Henri</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Het+eerekruis+Cornelis+Dopper&amp;search_field=search</field>
+</doc>
+</add>

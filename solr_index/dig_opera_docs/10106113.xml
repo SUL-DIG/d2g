@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106113</field>
+<field name="genre">Operas</field>
+<field name="title">Figarella</field>
+<field name="titleSort">Figarella</field>
+<field name="composer">Justin Clérice</field>
+<field name="composerSort">Clérice, Justin</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Charles Grandmougin</field>
+<field name="librettistSort">Grandmougin, Charles</field>
+<field name="librettist">Jules Méry</field>
+<field name="librettistSort">Méry, Jules</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Figarella+Justin+Clérice&amp;search_field=search</field>
+</doc>
+</add>

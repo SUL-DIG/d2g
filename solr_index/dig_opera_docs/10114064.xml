@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114064</field>
+<field name="genre">Operas</field>
+<field name="title">Wonderland (Alice and the Eight Princesses)</field>
+<field name="titleSort">Wonderland (Alice and the Eight Princesses)</field>
+<field name="composer">Victor Herbert</field>
+<field name="composerSort">Herbert, Victor</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Glen MacDonough</field>
+<field name="librettistSort">MacDonough, Glen</field>
+<field name="theater">Star Theater</field>
+<field name="city">Buffalo</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wonderland+Alice+and+the+Eight+Princesses+Victor+Herbert&amp;search_field=search</field>
+</doc>
+</add>

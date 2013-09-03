@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122516</field>
+<field name="genre">Operas</field>
+<field name="title">Rosemarijnte</field>
+<field name="titleSort">Rosemarijnte</field>
+<field name="composer">Arthur van Oost</field>
+<field name="composerSort">Oost, Arthur van</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Raf Verhulst</field>
+<field name="librettistSort">Verhulst, Raf</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosemarijnte+Arthur+van+Oost&amp;search_field=search</field>
+</doc>
+</add>

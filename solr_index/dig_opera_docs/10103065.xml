@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103065</field>
+<field name="genre">Operas</field>
+<field name="title">Down by the Greenwood Side</field>
+<field name="titleSort">Down by the Greenwood Side</field>
+<field name="composer">Harrison Birtwistle</field>
+<field name="composerSort">Birtwistle, Harrison</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Michael Nyman</field>
+<field name="librettistSort">Nyman, Michael</field>
+<field name="theater">Pier Pavillion</field>
+<field name="city">Brighton</field>
+<field name="region">East Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Down+by+the+Greenwood+Side+Harrison+Birtwistle&amp;search_field=search</field>
+</doc>
+</add>

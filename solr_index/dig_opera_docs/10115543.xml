@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115543</field>
+<field name="genre">Operas</field>
+<field name="title">Arizona Lady</field>
+<field name="titleSort">Arizona Lady</field>
+<field name="composer">Imre Kálmán</field>
+<field name="composerSort">Kálmán, Imre</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="librettist">Gustav Beer</field>
+<field name="librettistSort">Beer, Gustav</field>
+<field name="theater">Bavarian Radio (Bayerischer Rundfunk)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arizona+Lady+Imre+Kálmán&amp;search_field=search</field>
+</doc>
+</add>

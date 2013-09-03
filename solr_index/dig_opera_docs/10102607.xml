@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102607</field>
+<field name="genre">Operas</field>
+<field name="title">Hans Jürge</field>
+<field name="titleSort">Hans Jürge</field>
+<field name="composer">Amadeus W. Berner</field>
+<field name="composerSort">Berner, Amadeus W.</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">[Axel von Demandowski] Axel Delmar</field>
+<field name="librettistSort">Delmar, Axel [Axel von Demandowski]</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+Jürge+Amadeus+W.+Berner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119483</field>
+<field name="genre">Operas</field>
+<field name="title">Partenope</field>
+<field name="titleSort">Partenope</field>
+<field name="composer">Vincent Martín y Soler</field>
+<field name="composerSort">Soler, Vincent Martín y</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Partenope+Vincent+Martín+y+Soler&amp;search_field=search</field>
+</doc>
+</add>

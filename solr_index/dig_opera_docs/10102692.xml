@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102692</field>
+<field name="genre">Operas</field>
+<field name="title">Esmeralda</field>
+<field name="titleSort">Esmeralda</field>
+<field name="composer">Louise Bertin</field>
+<field name="composerSort">Bertin, Louise</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esmeralda+Louise+Bertin&amp;search_field=search</field>
+</doc>
+</add>

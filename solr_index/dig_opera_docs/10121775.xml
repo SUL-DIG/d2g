@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121775</field>
+<field name="genre">Operas</field>
+<field name="title">Adriano in Siria</field>
+<field name="titleSort">Adriano in Siria</field>
+<field name="composer">Sebastiano Nasolini</field>
+<field name="composerSort">Nasolini, Sebastiano</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriano+in+Siria+Sebastiano+Nasolini&amp;search_field=search</field>
+</doc>
+</add>

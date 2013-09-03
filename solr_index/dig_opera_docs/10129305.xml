@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129305</field>
+<field name="genre">Operas</field>
+<field name="title">Cynthia Parker</field>
+<field name="titleSort">Cynthia Parker</field>
+<field name="composer">Julia Smith</field>
+<field name="composerSort">Smith, Julia</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Jan Isbel Fortune</field>
+<field name="librettistSort">Fortune, Jan Isbel</field>
+<field name="theater">North Texas State University</field>
+<field name="city">Denton</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cynthia+Parker+Julia+Smith&amp;search_field=search</field>
+</doc>
+</add>

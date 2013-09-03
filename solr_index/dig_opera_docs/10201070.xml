@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201070</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">E ligno regum</field>
+		<field name="titleSort">E ligno regum</field>
+		<field name="year">1709</field>
+		
+		
+		<field name="date">1709</field>
+		<field name="composer">Bernardo Bertocchi</field>
+		<field name="composerSort">Bertocchi, Bernardo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Holy Cross</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=E+ligno+regum+Bernardo+Bertocchi&amp;search_field=search</field>
+	</doc></add>

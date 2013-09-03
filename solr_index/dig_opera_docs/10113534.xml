@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113534</field>
+<field name="genre">Operas</field>
+<field name="title">Maria von Magdala</field>
+<field name="titleSort">Maria von Magdala</field>
+<field name="composer">[Lili Scheidl-Hutterstrasser] Lio Hans</field>
+<field name="composerSort">Hans, [Lili Scheidl-Hutterstrasser] Lio</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Richard Batka</field>
+<field name="librettistSort">Batka, Richard</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+von+Magdala+Lili+Scheidl-Hutterstrasser]+Lio+Hans&amp;search_field=search</field>
+</doc>
+</add>

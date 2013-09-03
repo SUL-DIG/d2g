@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114558</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kaufmann von Smyrna</field>
+<field name="titleSort">Kaufmann von Smyrna</field>
+<field name="composer">Ondrej Frantisek Holý</field>
+<field name="composerSort">Holý, Ondrej Frantisek</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Christian Friedrich Schwann</field>
+<field name="librettistSort">Schwann, Christian Friedrich</field>
+<field name="librettist">[Nicolas-Sébastien Roch] Chamfort</field>
+<field name="librettistSort">Chamfort, [Nicolas-Sébastien Roch]</field>
+<field name="theater">Theater in der Behrenstrasse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kaufmann+von+Smyrna+Ondrej+Frantisek+Holý&amp;search_field=search</field>
+</doc>
+</add>

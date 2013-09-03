@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100955</field>
+<field name="genre">Operas</field>
+<field name="title">Gulnara</field>
+<field name="titleSort">Gulnara</field>
+<field name="composer">Luigi Arditi</field>
+<field name="composerSort">Arditi, Luigi</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Rafael María Mendine</field>
+<field name="librettistSort">Mendine, Rafael María</field>
+<field name="theater">Gran Teatro de Tacón</field>
+<field name="city">Havana</field>
+
+<field name="country">Cuba</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gulnara+Luigi+Arditi&amp;search_field=search</field>
+</doc>
+</add>

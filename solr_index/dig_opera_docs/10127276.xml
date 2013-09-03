@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127276</field>
+<field name="genre">Operas</field>
+<field name="title">Il caso di Mimi</field>
+<field name="titleSort">caso di Mimi</field>
+<field name="composer">Icilio Sadun</field>
+<field name="composerSort">Sadun, Icilio</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Paolo Reni</field>
+<field name="librettistSort">Reni, Paolo</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+caso+di+Mimi+Icilio+Sadun&amp;search_field=search</field>
+</doc>
+</add>

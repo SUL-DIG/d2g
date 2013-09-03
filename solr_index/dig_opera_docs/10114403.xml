@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114403</field>
+<field name="genre">Operas</field>
+<field name="title">Die lustigen Musikanten</field>
+<field name="titleSort">lustigen Musikanten</field>
+<field name="composer">Ernst Theodor Amadeus Hoffmann</field>
+<field name="composerSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Clemens Brentano</field>
+<field name="librettistSort">Brentano, Clemens</field>
+
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+lustigen+Musikanten+Ernst+Theodor+Amadeus+Hoffmann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111954</field>
+<field name="genre">Operas</field>
+<field name="title">The Park Avenue Kids</field>
+<field name="titleSort">Park Avenue Kids</field>
+<field name="composer">Don Gillis</field>
+<field name="composerSort">Gillis, Don</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Don Gillis</field>
+<field name="librettistSort">Gillis, Don</field>
+<field name="theater">Elkhart High School</field>
+<field name="city">Elkhart</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Park+Avenue+Kids+Don+Gillis&amp;search_field=search</field>
+</doc>
+</add>

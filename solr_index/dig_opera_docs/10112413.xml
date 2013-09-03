@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112413</field>
+<field name="genre">Operas</field>
+<field name="title">Hund (Hound)</field>
+<field name="titleSort">Hund (Hound)</field>
+<field name="composer">Ralf Gothóni</field>
+<field name="composerSort">Gothóni, Ralf</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Thomas Wulff</field>
+<field name="librettistSort">Wulff, Thomas</field>
+<field name="theater">Finnish Television (Oy Mainos-TV-Reklam Ab)</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hund+Hound+Ralf+Gothóni&amp;search_field=search</field>
+</doc>
+</add>

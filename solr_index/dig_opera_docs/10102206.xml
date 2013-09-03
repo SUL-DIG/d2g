@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102206</field>
+<field name="genre">Operas</field>
+<field name="title">Ljubav Don Perlimplina</field>
+<field name="titleSort">Ljubav Don Perlimplina</field>
+<field name="composer">Miro Belamaric</field>
+<field name="composerSort">Belamaric, Miro</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ljubav+Don+Perlimplina+Miro+Belamaric&amp;search_field=search</field>
+</doc>
+</add>

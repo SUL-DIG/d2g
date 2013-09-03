@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118072</field>
+<field name="genre">Operas</field>
+<field name="title">Putovanje (The Journey)</field>
+<field name="titleSort">Putovanje (The Journey)</field>
+<field name="composer">Ivo Lhotka-Kalinski</field>
+<field name="composerSort">Lhotka-Kalinski, Ivo</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Ivo Lhotka-Kalinski</field>
+<field name="librettistSort">Lhotka-Kalinski, Ivo</field>
+<field name="librettist">Branislav Nusic</field>
+<field name="librettistSort">Nusic, Branislav</field>
+<field name="theater">Zagreb Television</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Putovanje+The+Journey+Ivo+Lhotka-Kalinski&amp;search_field=search</field>
+</doc>
+</add>

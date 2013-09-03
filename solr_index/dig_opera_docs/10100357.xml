@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100357</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Troubadour</field>
+<field name="titleSort">Madame Troubadour</field>
+<field name="composer">Strecko Albini</field>
+<field name="composerSort">Albini, Strecko</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Béla Jenbach</field>
+<field name="librettistSort">Jenbach, Béla</field>
+<field name="librettist">Robert Pohl</field>
+<field name="librettistSort">Pohl, Robert</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Troubadour+Strecko+Albini&amp;search_field=search</field>
+</doc>
+</add>

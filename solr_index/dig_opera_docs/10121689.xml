@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121689</field>
+<field name="genre">Operas</field>
+<field name="title">Adriano in Siria</field>
+<field name="titleSort">Adriano in Siria</field>
+<field name="composer">Josef Myslivecek</field>
+<field name="composerSort">Myslivecek, Josef</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriano+in+Siria+Josef+Myslivecek&amp;search_field=search</field>
+</doc>
+</add>

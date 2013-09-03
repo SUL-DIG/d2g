@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104935</field>
+<field name="genre">Operas</field>
+<field name="title">Cupid in a Convent</field>
+<field name="titleSort">Cupid in a Convent</field>
+<field name="composer">Mario di Capri</field>
+<field name="composerSort">Capri, Mario di</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Edward Martin Seymour</field>
+<field name="librettistSort">Seymour, Edward Martin</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Croydon</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cupid+in+a+Convent+Mario+di+Capri&amp;search_field=search</field>
+</doc>
+</add>

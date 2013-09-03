@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124635</field>
+<field name="genre">Operas</field>
+<field name="title">The Wicked Sam and the Devil</field>
+<field name="titleSort">Wicked Sam and the Devil</field>
+<field name="composer">Jon J. Polifrone</field>
+<field name="composerSort">Polifrone, Jon J.</field>
+<field name="year">1966</field>
+<field name="date">1966</field><field name="theater">Evanston High School</field>
+<field name="city">Evanston</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wicked+Sam+and+the+Devil+Jon+J.+Polifrone&amp;search_field=search</field>
+</doc>
+</add>

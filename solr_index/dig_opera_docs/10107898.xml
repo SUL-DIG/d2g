@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107898</field>
+<field name="genre">Operas</field>
+<field name="title">Lo schiavo p'amore</field>
+<field name="titleSort">schiavo p'amore</field>
+<field name="composer">Gianpaolo di Domenico</field>
+<field name="composerSort">Domenico, Gianpaolo di</field>
+<field name="year">1724</field>
+<field name="date">1724</field><field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+schiavo+p'amore+Gianpaolo+di+Domenico&amp;search_field=search</field>
+</doc>
+</add>

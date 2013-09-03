@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201822</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Heilung des Blindgeborenen</field>
+		<field name="titleSort">Heilung des Blindgeborenen</field>
+		<field name="year">1860</field>
+		
+		
+		<field name="date">1860</field>
+		<field name="composer">Carl Loewe</field>
+		<field name="composerSort">Loewe, Carl</field>
+		<field name="librettist">Carl Loewe</field>
+		<field name="librettistSort">Loewe, Carl</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christ cures the blind</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Heilung+des+Blindgeborenen+Carl+Loewe&amp;search_field=search</field>
+	</doc></add>

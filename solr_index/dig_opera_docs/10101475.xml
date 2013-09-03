@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101475</field>
+<field name="genre">Operas</field>
+<field name="title">Euphonia 2344: A Tale of the Future</field>
+<field name="titleSort">Euphonia 2344: A Tale of the Future</field>
+<field name="composer">Larry Austin</field>
+<field name="composerSort">Austin, Larry</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Thomas Holliday</field>
+<field name="librettistSort">Holliday, Thomas</field>
+<field name="librettist">Hector Berlioz</field>
+<field name="librettistSort">Berlioz, Hector</field>
+<field name="theater">State University of New York</field>
+<field name="city">Potsdam</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Euphonia+97.6666666666667+A+Tale+of+the+Future+Larry+Austin&amp;search_field=search</field>
+</doc>
+</add>

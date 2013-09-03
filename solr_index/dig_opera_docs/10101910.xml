@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101910</field>
+<field name="genre">Operas</field>
+<field name="title">La castellana</field>
+<field name="titleSort">castellana</field>
+<field name="composer">Giuseppe Baroni</field>
+<field name="composerSort">Baroni, Giuseppe</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Luigi Altieri</field>
+<field name="librettistSort">Altieri, Luigi</field>
+<field name="theater">Teatro Municipale</field>
+<field name="city">Fidenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+castellana+Giuseppe+Baroni&amp;search_field=search</field>
+</doc>
+</add>

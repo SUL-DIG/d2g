@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110079</field>
+<field name="genre">Operas</field>
+<field name="title">Paoletta</field>
+<field name="titleSort">Paoletta</field>
+<field name="composer">Pietro Floridia</field>
+<field name="composerSort">Floridia, Pietro</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Paul Jones</field>
+<field name="librettistSort">Jones, Paul</field>
+<field name="theater">Music Hall</field>
+<field name="city">Cincinnati</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paoletta+Pietro+Floridia&amp;search_field=search</field>
+</doc>
+</add>

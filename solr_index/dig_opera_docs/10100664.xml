@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100664</field>
+<field name="genre">Operas</field>
+<field name="title">Venus en Adonis</field>
+<field name="titleSort">Venus en Adonis</field>
+<field name="composer">Hendrik Anders</field>
+<field name="composerSort">Anders, Hendrik</field>
+<field name="year">1697</field>
+<field name="date">1697</field>
+<field name="librettist">Dirk Buysero</field>
+<field name="librettistSort">Buysero, Dirk"</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Venus+en+Adonis+Hendrik+Anders&amp;search_field=search</field>
+</doc>
+</add>

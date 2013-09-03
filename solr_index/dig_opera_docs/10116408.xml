@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116408</field>
+<field name="genre">Operas</field>
+<field name="title">A méhek (The Bees)</field>
+<field name="titleSort">méhek (The Bees)</field>
+<field name="composer">György Kósa</field>
+<field name="composerSort">Kósa, György</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Rozsi Meller</field>
+<field name="librettistSort">Meller, Rozsi"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+méhek+The+Bees+György+Kósa&amp;search_field=search</field>
+</doc>
+</add>

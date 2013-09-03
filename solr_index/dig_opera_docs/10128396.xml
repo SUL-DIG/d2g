@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128396</field>
+<field name="genre">Operas</field>
+<field name="title">Der Walzergraf</field>
+<field name="titleSort">Walzergraf</field>
+<field name="composer">Willy Schöller</field>
+<field name="composerSort">Schöller, Willy</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Willy Schöller</field>
+<field name="librettistSort">Schöller, Willy</field>
+<field name="theater">Victoria Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Walzergraf+Willy+Schöller&amp;search_field=search</field>
+</doc>
+</add>

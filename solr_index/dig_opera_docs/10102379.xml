@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102379</field>
+<field name="genre">Operas</field>
+<field name="title">A Penny for a Song</field>
+<field name="titleSort">Penny for a Song</field>
+<field name="composer">Richard Rodney Bennett</field>
+<field name="composerSort">Bennett, Richard Rodney</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Colin Graham</field>
+<field name="librettistSort">Graham, Colin</field>
+<field name="librettist">John Whiting</field>
+<field name="librettistSort">Whiting, John</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Penny+for+a+Song+Richard+Rodney+Bennett&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132409</field>
+<field name="genre">Operas</field>
+<field name="title">"Rienzi, der Letzte der Tribunen</field>
+<field name="titleSort">"Rienzi, der Letzte der Tribunen"</field>
+<field name="composer">Richard Wagner</field>
+<field name="composerSort">Wagner, Richard</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Richard Wagner</field>
+<field name="librettistSort">Wagner, Richard</field>
+<field name="librettist">Edward Bulwer-Lytton</field>
+<field name="librettistSort">Bulwer-Lytton, Edward</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rienzi,+der+Letzte+der+Tribunen+Richard+Wagner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121676</field>
+<field name="genre">Operas</field>
+<field name="title">La guerra aperta</field>
+<field name="titleSort">guerra aperta</field>
+<field name="composer">Natale Nicola Mussini</field>
+<field name="composerSort">Mussini, Natale Nicola</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Luigi de Sanctis</field>
+<field name="librettistSort">Sanctis, Luigi de</field>
+
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guerra+aperta+Natale+Nicola+Mussini&amp;search_field=search</field>
+</doc>
+</add>

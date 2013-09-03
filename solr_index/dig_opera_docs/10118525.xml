@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118525</field>
+<field name="genre">Operas</field>
+<field name="title">Un duel а Valence</field>
+<field name="titleSort">duel а Valence</field>
+<field name="composer">Nicolas Louis</field>
+<field name="composerSort">Louis, Nicolas</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Hippolyte Lefebvre</field>
+<field name="librettistSort">Lefebvre, Hippolyte</field>
+<field name="librettist">R. Brard</field>
+<field name="librettistSort">Brard, R.</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+duel+а+Valence+Nicolas+Louis&amp;search_field=search</field>
+</doc>
+</add>

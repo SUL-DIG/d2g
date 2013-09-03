@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105844</field>
+<field name="genre">Operas</field>
+<field name="title">Cinq minutes d'amour</field>
+<field name="titleSort">Cinq minutes d'amour</field>
+<field name="composer">Henri Christiné</field>
+<field name="composerSort">Christiné, Henri</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Charles Esquier</field>
+<field name="librettistSort">Esquier, Charles</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cinq+minutes+d'amour+Henri+Christiné&amp;search_field=search</field>
+</doc>
+</add>

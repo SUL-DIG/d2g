@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126192</field>
+<field name="genre">Operas</field>
+<field name="title">The Red Death</field>
+<field name="titleSort">Red Death</field>
+<field name="composer">Robert Rigoni</field>
+<field name="composerSort">Rigoni, Robert</field>
+<field name="year">1976</field>
+<field name="date">1976</field><field name="theater">Midland Repertory Players</field>
+<field name="city">Alton</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Red+Death+Robert+Rigoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129203</field>
+<field name="genre">Operas</field>
+<field name="title">Bontshe the Silent</field>
+<field name="titleSort">Bontshe the Silent</field>
+<field name="composer">Robert Sirota</field>
+<field name="composerSort">Sirota, Robert</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Robert Burns Shaw</field>
+<field name="librettistSort">Shaw, Robert Burns</field>
+<field name="theater">"Adams House, Harvard University"</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bontshe+the+Silent+Robert+Sirota&amp;search_field=search</field>
+</doc>
+</add>

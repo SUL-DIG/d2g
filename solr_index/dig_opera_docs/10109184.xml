@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109184</field>
+<field name="genre">Operas</field>
+<field name="title">Il viaggiatore sfortunato in amore</field>
+<field name="titleSort">viaggiatore sfortunato in amore</field>
+<field name="composer">Vincenzo Fabrizi</field>
+<field name="composerSort">Fabrizi, Vincenzo</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Francesco Ballani</field>
+<field name="librettistSort">Ballani, Francesco</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+viaggiatore+sfortunato+in+amore+Vincenzo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

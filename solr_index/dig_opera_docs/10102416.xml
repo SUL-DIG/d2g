@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102416</field>
+<field name="genre">Operas</field>
+<field name="title">Le baruffe chiozzotte</field>
+<field name="titleSort">baruffe chiozzotte</field>
+<field name="composer">Tomaso Benvenuti</field>
+<field name="composerSort">Benvenuti, Tomaso</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Tomaso Benvenuti</field>
+<field name="librettistSort">Benvenuti, Tomaso</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+baruffe+chiozzotte+Tomaso+Benvenuti&amp;search_field=search</field>
+</doc>
+</add>

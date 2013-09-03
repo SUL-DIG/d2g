@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115471</field>
+<field name="genre">Operas</field>
+<field name="title">Nikita Vershinin</field>
+<field name="titleSort">Nikita Vershinin</field>
+<field name="composer">Dmitry Borisovich Kabalevsky</field>
+<field name="composerSort">Kabalevsky, Dmitry Borisovich</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Sergey Aleksandrovich Tsenin</field>
+<field name="librettistSort">Tsenin, Sergey Aleksandrovich</field>
+<field name="librettist">Vsevolod Vyacheslavovich Ivanov</field>
+<field name="librettistSort">Ivanov, Vsevolod Vyacheslavovich</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nikita+Vershinin+Dmitry+Borisovich+Kabalevsky&amp;search_field=search</field>
+</doc>
+</add>

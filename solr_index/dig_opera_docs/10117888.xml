@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117888</field>
+<field name="genre">Operas</field>
+<field name="title">La Rosmene</field>
+<field name="titleSort">Rosmene</field>
+<field name="composer">Leonardo Leo</field>
+<field name="composerSort">Leo, Leonardo</field>
+<field name="year">1730</field>
+<field name="date">1730</field>
+<field name="librettist">Bernardo Saddumene</field>
+<field name="librettistSort">Saddumene, Bernardo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Rosmene+Leonardo+Leo&amp;search_field=search</field>
+</doc>
+</add>

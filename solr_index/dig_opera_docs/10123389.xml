@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123389</field>
+<field name="genre">Operas</field>
+<field name="title">Skupoy (The Miser)</field>
+<field name="titleSort">Skupoy (The Miser)</field>
+<field name="composer">Visily Alekseyevich Paskevich</field>
+<field name="composerSort">Paskevich, Visily Alekseyevich</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="librettist">Yakov Borisovich Knyazhnin</field>
+<field name="librettistSort">Knyazhnin, Yakov Borisovich</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Vol'nïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skupoy+The+Miser+Visily+Alekseyevich+Paskevich&amp;search_field=search</field>
+</doc>
+</add>

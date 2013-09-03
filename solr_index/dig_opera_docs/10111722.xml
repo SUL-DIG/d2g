@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111722</field>
+<field name="genre">Operas</field>
+<field name="title">I due soci</field>
+<field name="titleSort">due soci</field>
+<field name="composer">Gialdino Gialdini</field>
+<field name="composerSort">Gialdini, Gialdino</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Enrico Fiorentino</field>
+<field name="librettistSort">Fiorentino, Enrico</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+soci+Gialdino+Gialdini&amp;search_field=search</field>
+</doc>
+</add>

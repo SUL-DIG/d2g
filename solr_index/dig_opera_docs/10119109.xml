@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119109</field>
+<field name="genre">Operas</field>
+<field name="title">Argene</field>
+<field name="titleSort">Argene</field>
+<field name="composer">Placido Mandanici</field>
+<field name="composerSort">Mandanici, Placido</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Rosario Barresi</field>
+<field name="librettistSort">Barresi, Rosario</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Argene+Placido+Mandanici&amp;search_field=search</field>
+</doc>
+</add>

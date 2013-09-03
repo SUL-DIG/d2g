@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117413</field>
+<field name="genre">Operas</field>
+<field name="title">Le preziose ridicole</field>
+<field name="titleSort">preziose ridicole</field>
+<field name="composer">Felice Lattuada</field>
+<field name="composerSort">Lattuada, Felice</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+preziose+ridicole+Felice+Lattuada&amp;search_field=search</field>
+</doc>
+</add>

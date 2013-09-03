@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106385</field>
+<field name="genre">Operas</field>
+<field name="title">Antigono</field>
+<field name="titleSort">Antigono</field>
+<field name="composer">Nicola Conforto</field>
+<field name="composerSort">Conforto, Nicola</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigono+Nicola+Conforto&amp;search_field=search</field>
+</doc>
+</add>

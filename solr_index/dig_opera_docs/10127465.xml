@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127465</field>
+<field name="genre">Operas</field>
+<field name="title">I Bretagne</field>
+<field name="titleSort">Bretagne</field>
+<field name="composer">Siegfried Saloman</field>
+<field name="composerSort">Saloman, Siegfried</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Siegfried Saloman</field>
+<field name="librettistSort">Saloman, Siegfried</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Bretagne+Siegfried+Saloman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114302</field>
+<field name="genre">Operas</field>
+<field name="title">Die kleine Aehrenleserin</field>
+<field name="titleSort">kleine Aehrenleserin</field>
+<field name="composer">Johann Adam Hiller</field>
+<field name="composerSort">Hiller, Johann Adam</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Christian Felix Weisse</field>
+<field name="librettistSort">Weisse, Christian Felix</field>
+<field name="theater">Theater am Rannstädter Tor</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+kleine+Aehrenleserin+Johann+Adam+Hiller&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203628</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La risurrezione di Lazzaro</field>
+		<field name="titleSort">risurrezione di Lazzaro</field>
+		<field name="year">1779</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1779</field>
+		<field name="composer">Antonio Calegari</field>
+		<field name="composerSort">Calegari, Antonio</field>
+		
+		
+		
+		<field name="city">Padua</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Raising of Lazarus</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+risurrezione+di+Lazzaro+Antonio+Calegari&amp;search_field=search</field>
+	</doc></add>

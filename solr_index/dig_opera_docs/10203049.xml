@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203049</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Om mani padme hum</field>
+		<field name="titleSort">Om mani padme hum</field>
+		<field name="year">1964</field>
+		
+		
+		<field name="date">1964</field>
+		<field name="composer">Isang Yun</field>
+		<field name="composerSort">Yun, Isang</field>
+		<field name="librettist">Wolf Dieter Rogosky</field>
+		<field name="librettistSort">Rogosky, Wolf Dieter</field>
+		<field name="librettist">Karl Eugen Neumann</field>
+		<field name="librettistSort">Neumann, Karl Eugen</field>
+		
+		
+		
+		
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Om+mani+padme+hum+Isang+Yun&amp;search_field=search</field>
+	</doc></add>

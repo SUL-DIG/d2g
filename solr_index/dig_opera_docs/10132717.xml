@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132717</field>
+<field name="genre">Operas</field>
+<field name="title">Lidé z Pokerflatu (The Outcasts of Poker Flat)</field>
+<field name="titleSort">Lidé z Pokerflatu (The Outcasts of Poker Flat)</field>
+<field name="composer">Jaromír Weinberger</field>
+<field name="composerSort">Weinberger, Jaromír</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Milos Kares</field>
+<field name="librettistSort">Kares, Milos</field>
+<field name="librettist">Bret Harte</field>
+<field name="librettistSort">Harte, Bret</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lidé+z+Pokerflatu+The+Outcasts+of+Poker+Flat+Jaromír+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

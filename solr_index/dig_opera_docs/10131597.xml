@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131597</field>
+<field name="genre">Operas</field>
+<field name="title">Les femmes et le secret</field>
+<field name="titleSort">femmes et le secret</field>
+<field name="composer">Pierre Vachon</field>
+<field name="composerSort">Vachon, Pierre</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">François-Antoine Quétant</field>
+<field name="librettistSort">Quétant, François-Antoine</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+femmes+et+le+secret+Pierre+Vachon&amp;search_field=search</field>
+</doc>
+</add>

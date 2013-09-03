@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200737</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Credo</field>
+		<field name="titleSort">Credo</field>
+		<field name="year">1998</field>
+		<field name="month">July</field>
+		<field name="day">11</field>
+		<field name="date">July 11, 1998</field>
+		<field name="composer">Krzysztof Penderecki</field>
+		<field name="composerSort">Penderecki, Krzysztof</field>
+		
+		
+		<field name="theater">Bach Festival, Hult Center for the Performing Arts</field>
+		<field name="city">Eugene</field>
+		<field name="region">Oregon</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Credo+Krzysztof+Penderecki&amp;search_field=search</field>
+	</doc></add>

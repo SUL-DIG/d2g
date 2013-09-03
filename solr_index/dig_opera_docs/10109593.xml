@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109593</field>
+<field name="genre">Operas</field>
+<field name="title">Primavera</field>
+<field name="titleSort">Primavera</field>
+<field name="composer">Emilio Ferrari</field>
+<field name="composerSort">Ferrari, Emilio</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Rosa Masara de Capibuni</field>
+<field name="librettistSort">Capibuni, Rosa Masara de</field>
+<field name="theater">Teatro degli Accademici Filodrammatici</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Primavera+Emilio+Ferrari&amp;search_field=search</field>
+</doc>
+</add>

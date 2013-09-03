@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117644</field>
+<field name="genre">Operas</field>
+<field name="title">Yetta</field>
+<field name="titleSort">Yetta</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="theater">Théâtre-Royal des Galeries-Saint-Hubert</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yetta+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

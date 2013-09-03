@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202405</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der königliche Prophete David, als ein Fürbild unseres Heylandes Jesu, in fünff verschiedenen Oratorien</field>
+		<field name="titleSort">königliche Prophete David, als ein Fürbild unseres Heylandes Jesu, in fünff verschiedenen Oratorien</field>
+		<field name="year">1718</field>
+		
+		
+		<field name="date">1718</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Johann Ulrich von König</field>
+		<field name="librettistSort">König, Johann Ulrich von</field>
+		
+		<field name="theater">Barfüsserkirche</field>
+		<field name="city">Frankfurt</field>
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
+		<field name="subject">David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+königliche+Prophete+David,+als+ein+Fürbild+unseres+Heylandes+Jesu,+in+fünff+verschiedenen+Oratorien+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

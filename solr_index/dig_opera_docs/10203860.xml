@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203860</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Francisco</field>
+		<field name="titleSort">San Francisco</field>
+		
+		
+		
+		
+		<field name="composer">Vicente Arregui Garay</field>
+		<field name="composerSort">Arregui Garay, Vicente</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francisco+Vicente+Arregui+Garay&amp;search_field=search</field>
+	</doc></add>

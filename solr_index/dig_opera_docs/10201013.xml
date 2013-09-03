@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201013</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La distruzione di Gerusalemme</field>
+		<field name="titleSort">distruzione di Gerusalemme</field>
+		<field name="year">1858</field>
+		<field name="month">June</field>
+		<field name="day">27</field>
+		<field name="date">June 27, 1858</field>
+		<field name="composer">Giovanni Pacini</field>
+		<field name="composerSort">Pacini, Giovanni</field>
+		<field name="librettist">Stefano Fioretti</field>
+		<field name="librettistSort">Fioretti, Stefano</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+distruzione+di+Gerusalemme+Giovanni+Pacini&amp;search_field=search</field>
+	</doc></add>

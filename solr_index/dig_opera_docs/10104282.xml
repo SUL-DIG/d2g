@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104282</field>
+<field name="genre">Operas</field>
+<field name="title">"La colomba contrastata, ossia La bella carbonara</field>
+<field name="titleSort">"colomba contrastata, ossia bella carbonara"</field>
+<field name="composer">Antonio Brunetti</field>
+<field name="composerSort">Brunetti, Antonio</field>
+<field name="year">1813</field>
+<field name="date">1813</field><field name="theater">Teatro Comunale</field>
+<field name="city">Rimini</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+colomba+contrastata,+ossia+La+bella+carbonara+Antonio+Brunetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104050</field>
+<field name="genre">Operas</field>
+<field name="title">"The Indian Princess, or La belle sauvage</field>
+<field name="titleSort">"Indian Princess, or La belle sauvage"</field>
+<field name="composer">John Bray</field>
+<field name="composerSort">Bray, John</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">James Nelson Barker</field>
+<field name="librettistSort">Barker, James Nelson</field>
+<field name="theater">Chestnut Street Theater</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Indian+Princess,+or+La+belle+sauvage+John+Bray&amp;search_field=search</field>
+</doc>
+</add>

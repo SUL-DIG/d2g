@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111168</field>
+<field name="genre">Operas</field>
+<field name="title">La pace fra Seleuco e Tolomeo</field>
+<field name="titleSort">pace fra Seleuco e Tolomeo</field>
+<field name="composer">Francesco Gasparini</field>
+<field name="composerSort">Gasparini, Francesco</field>
+<field name="year">1720</field>
+<field name="date">1720</field>
+<field name="librettist">Andrea Trabucco</field>
+<field name="librettistSort">Trabucco, Andrea</field>
+<field name="librettist">Adriano Morselli</field>
+<field name="librettistSort">Morselli, Adriano</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pace+fra+Seleuco+e+Tolomeo+Francesco+Gasparini&amp;search_field=search</field>
+</doc>
+</add>

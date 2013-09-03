@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200047</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abraham</field>
+		<field name="titleSort">Abraham</field>
+		<field name="year">1859</field>
+		
+		
+		<field name="date">1859</field>
+		<field name="composer">Martin Blumner</field>
+		<field name="composerSort">Blumner, Martin</field>
+		
+		
+		<field name="theater">Singakademie</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">Abraham and Sarah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abraham+Martin+Blumner&amp;search_field=search</field>
+	</doc></add>

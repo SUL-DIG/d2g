@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128299</field>
+<field name="genre">Operas</field>
+<field name="title">"Die verliebte Frau, Viola</field>
+<field name="titleSort">"verliebte Frau, Viola"</field>
+<field name="composer">Ludwig Schmidseder</field>
+<field name="composerSort">Schmidseder, Ludwig</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">[Günther Franzke] Günther Schwenn</field>
+<field name="librettistSort">Schwenn, Günther [Günther Franzke]</field>
+<field name="librettist">Paul Beyer</field>
+<field name="librettistSort">Beyer, Paul</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+verliebte+Frau,+Viola+Ludwig+Schmidseder&amp;search_field=search</field>
+</doc>
+</add>

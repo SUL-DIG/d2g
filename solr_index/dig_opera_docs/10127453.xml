@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127453</field>
+<field name="genre">Operas</field>
+<field name="title">Tarare</field>
+<field name="titleSort">Tarare</field>
+<field name="composer">Antonio Salieri</field>
+<field name="composerSort">Salieri, Antonio</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tarare+Antonio+Salieri&amp;search_field=search</field>
+</doc>
+</add>

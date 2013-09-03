@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105664</field>
+<field name="genre">Operas</field>
+<field name="title">L'eroe cinese</field>
+<field name="titleSort">eroe cinese</field>
+<field name="composer">Ranieri Checchi</field>
+<field name="composerSort">Checchi, Ranieri</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Bastia</field>
+<field name="region">Corsica</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'eroe+cinese+Ranieri+Checchi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129555</field>
+<field name="genre">Operas</field>
+<field name="title">The Smugglers</field>
+<field name="titleSort">Smugglers</field>
+<field name="composer">John Philip Sousa</field>
+<field name="composerSort">Sousa, John Philip</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Wilson J. Vance</field>
+<field name="librettistSort">Vance, Wilson J.</field>
+<field name="librettist">Francis Cowley Burnand</field>
+<field name="librettistSort">Burnand, Francis Cowley</field>
+
+<field name="city">Jersey City</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Smugglers+John+Philip+Sousa&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108714</field>
+<field name="genre">Operas</field>
+<field name="title">Dolly Varden</field>
+<field name="titleSort">Dolly Varden</field>
+<field name="composer">Julian Edwards</field>
+<field name="composerSort">Edwards, Julian</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Stanislaus Stange</field>
+<field name="librettistSort">Stange, Stanislaus</field>
+<field name="theater">Herald Square Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolly+Varden+Julian+Edwards&amp;search_field=search</field>
+</doc>
+</add>

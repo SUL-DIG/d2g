@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106356</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare in Egitto</field>
+<field name="titleSort">Cesare in Egitto</field>
+<field name="composer">Antonio Colombo</field>
+<field name="composerSort">Colombo, Antonio</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">Giacomo Francesco Bussani</field>
+<field name="librettistSort">Bussani, Giacomo Francesco</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+in+Egitto+Antonio+Colombo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124458</field>
+<field name="genre">Operas</field>
+<field name="title">Captain Thérèse</field>
+<field name="titleSort">Captain Thérèse</field>
+<field name="composer">Robert Planquette</field>
+<field name="composerSort">Planquette, Robert</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Francis Cowley Burnand</field>
+<field name="librettistSort">Burnand, Francis Cowley</field>
+<field name="librettist">Alexandre Bisson</field>
+<field name="librettistSort">Bisson, Alexandre</field>
+<field name="theater">Prince of Wales Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Captain+Thérèse+Robert+Planquette&amp;search_field=search</field>
+</doc>
+</add>

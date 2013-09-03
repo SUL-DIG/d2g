@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101702</field>
+<field name="genre">Operas</field>
+<field name="title">Pittore e duca</field>
+<field name="titleSort">Pittore e duca</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pittore+e+duca+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

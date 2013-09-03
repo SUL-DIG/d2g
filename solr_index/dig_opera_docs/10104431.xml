@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104431</field>
+<field name="genre">Operas</field>
+<field name="title">La Zanina maga per amore</field>
+<field name="titleSort">Zanina maga per amore</field>
+<field name="composer">Giuseppe Maria Buini</field>
+<field name="composerSort">Buini, Giuseppe Maria</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Giuseppe Maria Buini</field>
+<field name="librettistSort">Buini, Giuseppe Maria</field>
+<field name="theater">Accademia dei Candidi Uniti</field>
+<field name="city">San Giovanni in Persiceto</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Zanina+maga+per+amore+Giuseppe+Maria+Buini&amp;search_field=search</field>
+</doc>
+</add>

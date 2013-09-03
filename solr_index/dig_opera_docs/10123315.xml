@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123315</field>
+<field name="genre">Operas</field>
+<field name="title">Ceridwen</field>
+<field name="titleSort">Ceridwen</field>
+<field name="composer">Joseph Parry</field>
+<field name="composerSort">Parry, Joseph</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Evan Rees</field>
+<field name="librettistSort">Rees, Evan</field>
+<field name="theater">"Royal National Eisteddfod, North Market Hall"</field>
+<field name="city">Liverpool</field>
+<field name="region">Merseyside</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ceridwen+Joseph+Parry&amp;search_field=search</field>
+</doc>
+</add>

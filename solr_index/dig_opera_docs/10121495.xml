@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121495</field>
+<field name="genre">Operas</field>
+<field name="title">Das Fabriksmädel</field>
+<field name="titleSort">Fabriksmädel</field>
+<field name="composer">Adolf Müller</field>
+<field name="composerSort">Müller, Adolf</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Julius Findeisen</field>
+<field name="librettistSort">Findeisen, Julius</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fabriksmädel+Adolf+Müller&amp;search_field=search</field>
+</doc>
+</add>

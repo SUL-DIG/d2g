@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114729</field>
+<field name="genre">Operas</field>
+<field name="title">Rien qu'un jour</field>
+<field name="titleSort">Rien qu'un jour</field>
+<field name="composer">Charles Hubans</field>
+<field name="composerSort">Hubans, Charles</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Henri Dupin</field>
+<field name="librettistSort">Dupin, Henri</field>
+<field name="theater">Théâtre des Fantaisies-Parisiennes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rien+qu'un+jour+Charles+Hubans&amp;search_field=search</field>
+</doc>
+</add>

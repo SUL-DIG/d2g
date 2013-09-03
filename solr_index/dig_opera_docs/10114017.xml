@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114017</field>
+<field name="genre">Operas</field>
+<field name="title">König Hirsch</field>
+<field name="titleSort">König Hirsch</field>
+<field name="composer">Hans Werner Henze</field>
+<field name="composerSort">Henze, Hans Werner</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Heinz von Cramer</field>
+<field name="librettistSort">Cramer, Heinz von</field>
+<field name="librettist">Carlo Gozzi</field>
+<field name="librettistSort">Gozzi, Carlo</field>
+<field name="theater">Städtische Opernhaus</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Hirsch+Hans+Werner+Henze&amp;search_field=search</field>
+</doc>
+</add>

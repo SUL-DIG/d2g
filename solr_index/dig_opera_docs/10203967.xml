@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203967</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Agata</field>
+		<field name="titleSort">Sant' Agata</field>
+		<field name="year">1675</field>
+		
+		
+		<field name="date">1675</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Aloigi Ficiani</field>
+		<field name="librettistSort">Ficiani, Aloigi</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Agatha</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">5</field>
+		<field name="feastDate">February 5</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Agata+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

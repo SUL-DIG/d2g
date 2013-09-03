@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103094</field>
+<field name="genre">Operas</field>
+<field name="title">The Tyrolese Peasant</field>
+<field name="titleSort">Tyrolese Peasant</field>
+<field name="composer">Henry Bishop</field>
+<field name="composerSort">Bishop, Henry</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">John Howard Payne</field>
+<field name="librettistSort">Payne, John Howard</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tyrolese+Peasant+Henry+Bishop&amp;search_field=search</field>
+</doc>
+</add>

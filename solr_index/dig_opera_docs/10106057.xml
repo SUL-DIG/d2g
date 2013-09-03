@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106057</field>
+<field name="genre">Operas</field>
+<field name="title">La statue équestre</field>
+<field name="titleSort">statue équestre</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+statue+équestre+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

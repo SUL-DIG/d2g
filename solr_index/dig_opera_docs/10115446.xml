@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115446</field>
+<field name="genre">Operas</field>
+<field name="title">The Wayfarers</field>
+<field name="titleSort">Wayfarers</field>
+<field name="composer">John Joubert</field>
+<field name="composerSort">Joubert, John</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Stephen Tunnicliffe</field>
+<field name="librettistSort">Tunnicliffe, Stephen</field>
+<field name="librettist">Geoffrey Chaucer</field>
+<field name="librettistSort">Chaucer, Geoffrey</field>
+<field name="theater">Saint Peter's School</field>
+<field name="city">Huntingdon</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wayfarers+John+Joubert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201438</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La gara delle grazie</field>
+		<field name="titleSort">gara delle grazie</field>
+		
+		
+		
+		
+		<field name="composer">Gian Francesco de Majo</field>
+		<field name="composerSort">Majo, Gian Francesco de</field>
+		
+		
+		
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gara+delle+grazie+Gian+Francesco+de+Majo&amp;search_field=search</field>
+	</doc></add>

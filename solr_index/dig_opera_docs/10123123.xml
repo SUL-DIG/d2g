@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123123</field>
+<field name="genre">Operas</field>
+<field name="title">La contessina Elsa</field>
+<field name="titleSort">contessina Elsa</field>
+<field name="composer">Vittorio Palma</field>
+<field name="composerSort">Palma, Vittorio</field>
+<field name="year">1915</field>
+<field name="date">1915</field><field name="theater">Societа Salvini</field>
+<field name="city">Civitavecchia</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contessina+Elsa+Vittorio+Palma&amp;search_field=search</field>
+</doc>
+</add>

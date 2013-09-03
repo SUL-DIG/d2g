@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111933</field>
+<field name="genre">Operas</field>
+<field name="title">Le remouleur d'amour</field>
+<field name="titleSort">remouleur d'amour</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1722</field>
+<field name="date">1722</field>
+<field name="librettist">Louis Fuzelier</field>
+<field name="librettistSort">Fuzelier, Louis</field>
+<field name="librettist">Alain René Lesage</field>
+<field name="librettistSort">Lesage, Alain René</field>
+<field name="theater">Théâtre de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+remouleur+d'amour+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

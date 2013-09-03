@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113945</field>
+<field name="genre">Operas</field>
+<field name="title">La veillée de Noël</field>
+<field name="titleSort">veillée de Noël</field>
+<field name="composer">Charles Helmer</field>
+<field name="composerSort">Helmer, Charles</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Fortuné Cadet</field>
+<field name="librettistSort">Cadet, Fortuné</field>
+<field name="librettist">César Labite</field>
+<field name="librettistSort">Labite, César</field>
+<field name="theater">Théâtre de l'Alcazar</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+veillée+de+Noël+Charles+Helmer&amp;search_field=search</field>
+</doc>
+</add>

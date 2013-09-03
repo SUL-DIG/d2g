@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102497</field>
+<field name="genre">Operas</field>
+<field name="title">Fat Tuesday</field>
+<field name="titleSort">Fat Tuesday</field>
+<field name="composer">SolBerkovitz</field>
+<field name="composerSort">Berkovitz, Sol</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">James Lipton</field>
+<field name="librettistSort">Lipton, James</field>
+<field name="theater">Playhouse</field>
+<field name="city">Tamiment</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fat+Tuesday+SolBerkovitz&amp;search_field=search</field>
+</doc>
+</add>

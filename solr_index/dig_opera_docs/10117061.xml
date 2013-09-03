@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117061</field>
+<field name="genre">Operas</field>
+<field name="title">Les oiseaux en cage</field>
+<field name="titleSort">oiseaux en cage</field>
+<field name="composer">Théodore de Lajarte</field>
+<field name="composerSort">Lajarte, Théodore de</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">[Charles Louis Étienne Truinet] Charles Nuitter</field>
+<field name="librettistSort">Nuitter, Charles [Charles Louis Étienne Truinet]</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+oiseaux+en+cage+Théodore+de+Lajarte&amp;search_field=search</field>
+</doc>
+</add>

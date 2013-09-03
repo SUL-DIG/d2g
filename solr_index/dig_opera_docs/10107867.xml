@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107867</field>
+<field name="genre">Operas</field>
+<field name="title">Cascando</field>
+<field name="titleSort">Cascando</field>
+<field name="composer">Charles Dodge</field>
+<field name="composerSort">Dodge, Charles</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistSort">Beckett, Samuel</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cascando+Charles+Dodge&amp;search_field=search</field>
+</doc>
+</add>

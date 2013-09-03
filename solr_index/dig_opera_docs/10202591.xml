@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202591</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Manfredi</field>
+		<field name="titleSort">Manfredi</field>
+		<field name="year">1846</field>
+		<field name="month">December</field>
+		<field name="day">9</field>
+		<field name="date">December 9, 1846</field>
+		<field name="composer">Gioacchino Maglioni</field>
+		<field name="composerSort">Maglioni, Gioacchino</field>
+		<field name="librettist">Francesco Guidi</field>
+		<field name="librettistSort">Guidi, Francesco</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Manfred</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manfredi+Gioacchino+Maglioni&amp;search_field=search</field>
+	</doc></add>

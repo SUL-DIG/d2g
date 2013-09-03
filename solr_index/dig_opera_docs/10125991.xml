@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125991</field>
+<field name="genre">Operas</field>
+<field name="title">Au joli coeur de mai</field>
+<field name="titleSort">Au joli coeur de mai</field>
+<field name="composer">Louis Reynaud</field>
+<field name="composerSort">Reynaud, Louis</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Gaston Dumestre</field>
+<field name="librettistSort">Dumestre, Gaston</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Brest</field>
+<field name="region">Finistère</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+joli+coeur+de+mai+Louis+Reynaud&amp;search_field=search</field>
+</doc>
+</add>

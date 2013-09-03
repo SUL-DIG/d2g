@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120746</field>
+<field name="genre">Operas</field>
+<field name="title">O conselho das dez</field>
+<field name="titleSort">conselho das dez</field>
+<field name="composer">António Luis Miró</field>
+<field name="composerSort">Miró, António Luis</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Ernesto Vieira</field>
+<field name="librettistSort">Vieira, Ernesto</field>
+<field name="librettist">Paolo Midosi</field>
+<field name="librettistSort">Midosi, Paolo</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+conselho+das+dez+António+Luis+Miró&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110328</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca da Rimini</field>
+<field name="titleSort">Francesca da Rimini</field>
+<field name="composer">Giuseppe Fournier</field>
+<field name="composerSort">Fournier, Giuseppe</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Dante AlighierilibrettistSortDante AlighieritheaterTeatro dagli
+Armeni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Giuseppe+Fournier&amp;search_field=search</field>
+</doc>
+</add>

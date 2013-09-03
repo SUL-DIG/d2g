@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112705</field>
+<field name="genre">Operas</field>
+<field name="title">Andromaque</field>
+<field name="titleSort">Andromaque</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Louis-Guillaume Pitra</field>
+<field name="librettistSort">Pitra, Louis-Guillaume</field>
+<field name="librettist">Jean Racine</field>
+<field name="librettistSort">Racine, Jean</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andromaque+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103714</field>
+<field name="genre">Operas</field>
+<field name="title">Palacek (Tom Thumb)</field>
+<field name="titleSort">Palacek (Tom Thumb)</field>
+<field name="composer">Pavel Borkovec</field>
+<field name="composerSort">Borkovec, Pavel</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Frantisek Kubka</field>
+<field name="librettistSort">Kubka, Frantisek</field>
+<field name="theater">Smetanovo Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palacek+Tom+Thumb+Pavel+Borkovec&amp;search_field=search</field>
+</doc>
+</add>

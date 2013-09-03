@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116816</field>
+<field name="genre">Operas</field>
+<field name="title">In a Garden</field>
+<field name="titleSort">In a Garden</field>
+<field name="composer">Meyer Kupferman</field>
+<field name="composerSort">Kupferman, Meyer</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+<field name="theater">Finch College</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=In+a+Garden+Meyer+Kupferman&amp;search_field=search</field>
+</doc>
+</add>

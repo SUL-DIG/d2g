@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128766</field>
+<field name="genre">Operas</field>
+<field name="title">Garde moi</field>
+<field name="titleSort">Garde moi</field>
+<field name="composer">Vincent Scotto</field>
+<field name="composerSort">Scotto, Vincent</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Georges Barthélémy</field>
+<field name="librettistSort">Barthélémy, Georges</field>
+<field name="theater">Casino Municipal</field>
+<field name="city">Beaucaire</field>
+<field name="region">Eure-et-Loir</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garde+moi+Vincent+Scotto&amp;search_field=search</field>
+</doc>
+</add>

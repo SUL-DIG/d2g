@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108267</field>
+<field name="genre">Operas</field>
+<field name="title">Constantin Brâncoveanu</field>
+<field name="titleSort">Constantin Brâncoveanu</field>
+<field name="composer">Sabin Vasile Dragoi</field>
+<field name="composerSort">Dragoi, Sabin Vasile</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Sandu Tudor</field>
+<field name="librettistSort">Tudor, Sandu</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Constantin+Brâncoveanu+Sabin+Vasile+Dragoi&amp;search_field=search</field>
+</doc>
+</add>

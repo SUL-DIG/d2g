@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114018</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Landarzt</field>
+<field name="titleSort">Landarzt</field>
+<field name="composer">Hans Werner Henze</field>
+<field name="composerSort">Henze, Hans Werner</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Franz Kafka</field>
+<field name="librettistSort">Kafka, Franz</field>
+<field name="theater">NDR Radio (Norddeutscher Rundfunk)</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Landarzt+Hans+Werner+Henze&amp;search_field=search</field>
+</doc>
+</add>

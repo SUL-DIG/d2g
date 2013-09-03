@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109781</field>
+<field name="genre">Operas</field>
+<field name="title">Aconzio e Cidippe</field>
+<field name="titleSort">Aconzio e Cidippe</field>
+<field name="composer">Vincenzio Fiocchi</field>
+<field name="composerSort">Fiocchi, Vincenzio</field>
+<field name="year">1796</field>
+<field name="date">1796</field><field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aconzio+e+Cidippe+Vincenzio+Fiocchi&amp;search_field=search</field>
+</doc>
+</add>

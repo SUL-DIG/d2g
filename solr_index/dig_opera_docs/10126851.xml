@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126851</field>
+<field name="genre">Operas</field>
+<field name="title">Der Leutenant zur See</field>
+<field name="titleSort">Leutenant zur See</field>
+<field name="composer">Louis Roth</field>
+<field name="composerSort">Roth, Louis</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Emil Schlack</field>
+<field name="librettistSort">Schlack, Emil</field>
+<field name="librettist">Louis Herrmann</field>
+<field name="librettistSort">Herrmann, Louis</field>
+<field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Leutenant+zur+See+Louis+Roth&amp;search_field=search</field>
+</doc>
+</add>

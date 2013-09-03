@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113160</field>
+<field name="genre">Operas</field>
+<field name="title">Guarionex</field>
+<field name="titleSort">Guarionex</field>
+<field name="composer">Felipe Gutiérrez Espina</field>
+<field name="composerSort">Espina, Felipe Gutiérrez</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Alejandro Tapia y Rivera</field>
+<field name="librettistSort">Tapia y Rivera, Alejandro</field>
+
+<field name="city">San Juan</field>
+<field name="region">Puerto Rico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guarionex+Felipe+Gutiérrez+Espina&amp;search_field=search</field>
+</doc>
+</add>

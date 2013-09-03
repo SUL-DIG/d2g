@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103724</field>
+<field name="genre">Operas</field>
+<field name="title">Chien et chat</field>
+<field name="titleSort">Chien et chat</field>
+<field name="composer">Georges Bornier</field>
+<field name="composerSort">Bornier, Georges</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Étienne Tréfeu</field>
+<field name="librettistSort">Tréfeu, Étienne</field>
+<field name="librettist">Eugène Hubert</field>
+<field name="librettistSort">Hubert, Eugène</field>
+<field name="theater">Éden-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chien+et+chat+Georges+Bornier&amp;search_field=search</field>
+</doc>
+</add>

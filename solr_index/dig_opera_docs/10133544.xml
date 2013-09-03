@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133544</field>
+<field name="genre">Operas</field>
+<field name="title">"Gl'amori tra gli odii, ossia Ramiro in Norvegia</field>
+<field name="titleSort">"amori tra gli odii, ossia Ramiro in Norvegia"</field>
+<field name="composer">Marc'Antonio Ziani</field>
+<field name="composerSort">Ziani, Marc'Antonio</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Marc'Antonio Rimena</field>
+<field name="librettistSort">Rimena, Marc'Antonio</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'amori+tra+gli+odii,+ossia+Ramiro+in+Norvegia+Marc'Antonio+Ziani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119489</field>
+<field name="genre">Operas</field>
+<field name="title">Alcina</field>
+<field name="titleSort">Alcina</field>
+<field name="composer">Simone Martinelli</field>
+<field name="composerSort">Martinelli, Simone</field>
+<field name="year">1649</field>
+<field name="date">1649</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Palazzo Vescovile</field>
+<field name="city">Trento</field>
+<field name="region">Trentino-Alto Adige</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alcina+Simone+Martinelli&amp;search_field=search</field>
+</doc>
+</add>

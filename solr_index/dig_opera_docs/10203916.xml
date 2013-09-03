@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203916</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Romualdo</field>
+		<field name="titleSort">San Romualdo</field>
+		<field name="year">1704</field>
+		
+		
+		<field name="date">1704</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		
+		
+		<field name="theater">Sankta-Ursula</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Romuald</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">19</field>
+		<field name="feastDate">June 19</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Romualdo+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

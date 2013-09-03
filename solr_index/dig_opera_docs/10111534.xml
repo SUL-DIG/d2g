@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111534</field>
+<field name="genre">Operas</field>
+<field name="title">Par-devant Maître Plantin</field>
+<field name="titleSort">Par-devant Maître Plantin</field>
+<field name="composer">Charles Geng</field>
+<field name="composerSort">Geng, Charles</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">__ Annelot</field>
+<field name="librettistSort">Annelot, __</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Cherbourg</field>
+<field name="region">Manche</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Par-devant+Maître+Plantin+Charles+Geng&amp;search_field=search</field>
+</doc>
+</add>

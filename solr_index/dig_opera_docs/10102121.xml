@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102121</field>
+<field name="genre">Operas</field>
+<field name="title">L'Amazone</field>
+<field name="titleSort">Amazone</field>
+<field name="composer">Louis Joseph Amédée de Beauplan</field>
+<field name="composerSort">Beauplan, Louis Joseph Amédée de</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">[Charles-Gaspard Poirson] Delestre-Poirson</field>
+<field name="librettistSort">Delestre-Poirson, [Charles-Gaspard Poirson]</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Meissner, Leopold Florian</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amazone+Louis+Joseph+Amédée+de+Beauplan&amp;search_field=search</field>
+</doc>
+</add>

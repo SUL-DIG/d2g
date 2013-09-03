@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126717</field>
+<field name="genre">Operas</field>
+<field name="title">La linguaggio dei fiori</field>
+<field name="titleSort">linguaggio dei fiori</field>
+<field name="composer">Renzo Rossellini</field>
+<field name="composerSort">Rossellini, Renzo</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Renzo Rossellini</field>
+<field name="librettistSort">Rossellini, Renzo</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+linguaggio+dei+fiori+Renzo+Rossellini&amp;search_field=search</field>
+</doc>
+</add>

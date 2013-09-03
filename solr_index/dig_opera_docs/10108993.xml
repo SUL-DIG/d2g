@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108993</field>
+<field name="genre">Operas</field>
+<field name="title">Casilda</field>
+<field name="titleSort">Casilda</field>
+<field name="composer">Ernst II Herzog von Sachsen-Koburg-Gotha</field>
+<field name="composerSort">Sachsen-Koburg-Gotha, Ernst II Herzog von</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Luigi Tenelli</field>
+<field name="librettistSort">Tenelli, Luigi</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casilda+Ernst+II+Herzog+von+Sachsen-Koburg-Gotha&amp;search_field=search</field>
+</doc>
+</add>

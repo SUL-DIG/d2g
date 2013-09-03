@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115105</field>
+<field name="genre">Operas</field>
+<field name="title">"Fanfan et Colas, ou Les frères de lait</field>
+<field name="titleSort">"Fanfan et Colas, ou Les frères de lait"</field>
+<field name="composer">Louis-Emmanuel Jadin</field>
+<field name="composerSort">Jadin, Louis-Emmanuel</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">[Alexandre-Louis-Bertrand Robineau] Beaunoir</field>
+<field name="librettistSort">Beaunoir, [Alexandre-Louis-Bertrand Robineau]</field>
+<field name="librettist">Adolphe Jadin</field>
+<field name="librettistSort">Jadin, Adolphe</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fanfan+et+Colas,+ou+Les+frères+de+lait+Louis-Emmanuel+Jadin&amp;search_field=search</field>
+</doc>
+</add>

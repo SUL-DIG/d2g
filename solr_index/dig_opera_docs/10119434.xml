@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119434</field>
+<field name="genre">Operas</field>
+<field name="title">Der Holzdieb</field>
+<field name="titleSort">Holzdieb</field>
+<field name="composer">Heinrich August Marschner</field>
+<field name="composerSort">Marschner, Heinrich August</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Johann Friedrich Kind</field>
+<field name="librettistSort">Kind, Johann Friedrich</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Holzdieb+Heinrich+August+Marschner&amp;search_field=search</field>
+</doc>
+</add>

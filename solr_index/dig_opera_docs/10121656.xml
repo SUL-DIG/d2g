@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121656</field>
+<field name="genre">Operas</field>
+<field name="title">Man in Cage</field>
+<field name="titleSort">Man in Cage</field>
+<field name="composer">Herbert Murril</field>
+<field name="composerSort">Murril, Herbert</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">Geoffrey Dunn</field>
+<field name="librettistSort">Dunn, Geoffrey</field>
+<field name="theater">Grafton Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Man+in+Cage+Herbert+Murril&amp;search_field=search</field>
+</doc>
+</add>

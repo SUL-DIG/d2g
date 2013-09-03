@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128924</field>
+<field name="genre">Operas</field>
+<field name="title">Le moulin du vert-galant</field>
+<field name="titleSort">moulin du vert-galant</field>
+<field name="composer">Gaston Serpette</field>
+<field name="composerSort">Serpette, Gaston</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">[Eugène-Pierre Basté] Eugène Grangé</field>
+<field name="librettistSort">Grangé, Eugène [Eugène-Pierre Basté]</field>
+<field name="librettist">Victor Bernard</field>
+<field name="librettistSort">Bernard, Victor</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+moulin+du+vert-galant+Gaston+Serpette&amp;search_field=search</field>
+</doc>
+</add>

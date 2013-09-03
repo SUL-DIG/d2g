@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201743</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Golgotha</field>
+		<field name="titleSort">Golgotha</field>
+		<field name="year">1936</field>
+		
+		
+		<field name="date">1936</field>
+		<field name="composer">Georges Brun</field>
+		<field name="composerSort">Brun, Georges</field>
+		<field name="librettist">Gabriel Bretocq</field>
+		<field name="librettistSort">Bretocq, Gabriel</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Crucifixion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Golgotha+Georges+Brun&amp;search_field=search</field>
+	</doc></add>

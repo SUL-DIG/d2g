@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132724</field>
+<field name="genre">Operas</field>
+<field name="title">"Diabel alchimista (Satan, the Alchemist)</field>
+<field name="titleSort">"Diabel alchimista (Satan, the Alchemist)"</field>
+<field name="composer">Antoni Weinert</field>
+<field name="composerSort">Weinert, Antoni</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Jan Drozdowski</field>
+<field name="librettistSort">Drozdowski, Jan</field>
+<field name="librettist">Marc-Antoine Le Grand</field>
+<field name="librettistSort">Le Grand, Marc-Antoine </field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diabel+alchimista+Satan,+the+Alchemist+Antoni+Weinert&amp;search_field=search</field>
+</doc>
+</add>

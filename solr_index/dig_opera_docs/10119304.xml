@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119304</field>
+<field name="genre">Operas</field>
+<field name="title">Les amoureux de Catherine</field>
+<field name="titleSort">amoureux de Catherine</field>
+<field name="composer">Henri Maréchal</field>
+<field name="composerSort">Maréchal, Henri</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">[Émile Erckmann &amp; Pierre Alexandre Chatrian] Erckmann-Chatrian</field>
+<field name="librettistSort">Erckmann-Chatrian, [Émile Erckmann &amp; Pierre Alexandre
+Chatrian]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+amoureux+de+Catherine+Henri+Maréchal&amp;search_field=search</field>
+</doc>
+</add>

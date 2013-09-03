@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131018</field>
+<field name="genre">Operas</field>
+<field name="title">Elda</field>
+<field name="titleSort">Elda</field>
+<field name="composer">Pietro Adolfo Tirandelli</field>
+<field name="composerSort">Tirandelli, Pietro Adolfo</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Gaspare Pozzesi</field>
+<field name="librettistSort">Pozzesi, Gaspare</field>
+<field name="theater">Teatro dell'Accademia</field>
+<field name="city">Conegliano</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elda+Pietro+Adolfo+Tirandelli&amp;search_field=search</field>
+</doc>
+</add>

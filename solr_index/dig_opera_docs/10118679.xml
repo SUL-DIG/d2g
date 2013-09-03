@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118679</field>
+<field name="genre">Operas</field>
+<field name="title">Su alteza se casa</field>
+<field name="titleSort">Su alteza se casa</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Sinesio Delgado</field>
+<field name="librettistSort">Delgado, Sinesio</field>
+<field name="theater">Teatro Infanta Isabel</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Su+alteza+se+casa+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

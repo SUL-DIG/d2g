@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124637</field>
+<field name="genre">Operas</field>
+<field name="title">Les roses du Calife</field>
+<field name="titleSort">roses du Calife</field>
+<field name="composer">Armande de Polignac</field>
+<field name="composerSort">Polignac, Armande de</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Georges de Dubor</field>
+<field name="librettistSort">Dubor, Georges de</field>
+
+<field name="city">Neuilly-sur-Seine</field>
+<field name="region">Hauts-de-Seine</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+roses+du+Calife+Armande+de+Polignac&amp;search_field=search</field>
+</doc>
+</add>

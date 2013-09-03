@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106578</field>
+<field name="genre">Operas</field>
+<field name="title">Jahel</field>
+<field name="titleSort">Jahel</field>
+<field name="composer">Arthur Coquard</field>
+<field name="composerSort">Coquard, Arthur</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">[Anne Copin-Albancelli] Simone Arnaud</field>
+<field name="librettistSort">Arnaud, Simone [Anne Copin-Albancelli]</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jahel+Arthur+Coquard&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126296</field>
+<field name="genre">Operas</field>
+<field name="title">"Un pazzo ne fа cento, ovvero Don Chisciotte</field>
+<field name="titleSort">"pazzo ne fа cento, ovvero Don Chisciotte"</field>
+<field name="composer">Giovanni Alberto Ristori</field>
+<field name="composerSort">Ristori, Giovanni Alberto</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Steffano Benedetto Pallavicino</field>
+<field name="librettistSort">Pallavicino, Steffano Benedetto</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Grosses Opernhaus am Zwinger</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+pazzo+ne+fа+cento,+ovvero+Don+Chisciotte+Giovanni+Alberto+Ristori&amp;search_field=search</field>
+</doc>
+</add>

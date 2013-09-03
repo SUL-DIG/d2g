@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103392</field>
+<field name="genre">Operas</field>
+<field name="title">Abderkan</field>
+<field name="titleSort">Abderkan</field>
+<field name="composer">Adrien Boieldieu</field>
+<field name="composerSort">Boieldieu, Adrien</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">__ Dégligny</field>
+<field name="librettistSort">Dégligny, __</field>
+<field name="theater">Peterhof</field>
+<field name="city">Petrodvorets</field>
+<field name="region">Leningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abderkan+Adrien+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

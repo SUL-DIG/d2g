@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123795</field>
+<field name="genre">Operas</field>
+<field name="title">La vittima della propria vendetta</field>
+<field name="titleSort">vittima della propria vendetta</field>
+<field name="composer">Giovanni Domenico Perotti</field>
+<field name="composerSort">Perotti, Giovanni Domenico</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Luigi Prividali</field>
+<field name="librettistSort">Prividali, Luigi</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittima+della+propria+vendetta+Giovanni+Domenico+Perotti&amp;search_field=search</field>
+</doc>
+</add>

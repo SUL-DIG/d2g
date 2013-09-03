@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111103</field>
+<field name="genre">Operas</field>
+<field name="title">Au clair de la lune (Al chiaro di luna)</field>
+<field name="titleSort">Au clair de la lune (Al chiaro di luna)</field>
+<field name="composer">Giuseppe Gariboldi</field>
+<field name="composerSort">Gariboldi, Giuseppe</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">G. Longuet</field>
+<field name="librettistSort">Longuet, G.</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+clair+de+la+lune+Al+chiaro+di+luna+Giuseppe+Gariboldi&amp;search_field=search</field>
+</doc>
+</add>

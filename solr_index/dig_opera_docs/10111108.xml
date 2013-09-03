@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111108</field>
+<field name="genre">Operas</field>
+<field name="title">Don Bosco fanciullo</field>
+<field name="titleSort">Don Bosco fanciullo</field>
+<field name="composer">Attilio Garlaschi</field>
+<field name="composerSort">Garlaschi, Attilio</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Teofilo Romano</field>
+<field name="librettistSort">Romano, Teofilo</field>
+
+<field name="city">Savona</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Bosco+fanciullo+Attilio+Garlaschi&amp;search_field=search</field>
+</doc>
+</add>

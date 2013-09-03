@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130529</field>
+<field name="genre">Operas</field>
+<field name="title">"Jean Sobieski, roi de Pologne, ou La lettre</field>
+<field name="titleSort">"Jean Sobieski, roi de Pologne, ou La lettre"</field>
+<field name="composer">__ Taix</field>
+<field name="composerSort">Taix, __</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Marie-Adélaïde Barthélemy-Hadot</field>
+<field name="librettistSort">Barthélemy-Hadot, Marie-Adélaïde</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jean+Sobieski,+roi+de+Pologne,+ou+La+lettre+__+Taix&amp;search_field=search</field>
+</doc>
+</add>

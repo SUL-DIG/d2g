@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103738</field>
+<field name="genre">Operas</field>
+<field name="title">La moda</field>
+<field name="titleSort">moda</field>
+<field name="composer">Antonio Boroni</field>
+<field name="composerSort">Boroni, Antonio</field>
+<field name="year">1761</field>
+<field name="date">1761</field>
+<field name="librettist">Pietro Cipretti</field>
+<field name="librettistSort">Cipretti, Pietro</field>
+
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+moda+Antonio+Boroni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126445</field>
+<field name="genre">Operas</field>
+<field name="title">My Own Lover</field>
+<field name="titleSort">My Own Lover</field>
+<field name="composer">George Rodwell</field>
+<field name="composerSort">Rodwell, George</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">George Rodwell</field>
+<field name="librettistSort">Rodwell, George</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Own+Lover+George+Rodwell&amp;search_field=search</field>
+</doc>
+</add>

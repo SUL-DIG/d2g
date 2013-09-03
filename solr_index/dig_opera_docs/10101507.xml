@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101507</field>
+<field name="genre">Operas</field>
+<field name="title">Kuan Yin</field>
+<field name="titleSort">Kuan Yin</field>
+<field name="composer">Aaron Avshalomov</field>
+<field name="composerSort">Avshalomov, Aaron</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Carol Lunt</field>
+<field name="librettistSort">Lunt, Carol</field>
+
+<field name="city">Beijing</field>
+
+<field name="country">China</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kuan+Yin+Aaron+Avshalomov&amp;search_field=search</field>
+</doc>
+</add>

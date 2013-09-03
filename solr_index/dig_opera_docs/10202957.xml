@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202957</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nave della Redenzione</field>
+		<field name="titleSort">nave della Redenzione</field>
+		<field name="year">1696</field>
+		
+		
+		<field name="date">1696</field>
+		<field name="composer">Giuseppe Vignola</field>
+		<field name="composerSort">Vignola, Giuseppe</field>
+		<field name="librettist">Severo Giacco</field>
+		<field name="librettistSort">Giacco, Severo</field>
+		
+		<field name="theater">Real Monastero di San Luigi di Palazzo de' Padri Predicatore Minimi</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nave+della+Redenzione+Giuseppe+Vignola&amp;search_field=search</field>
+	</doc></add>

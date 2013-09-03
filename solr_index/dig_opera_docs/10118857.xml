@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118857</field>
+<field name="genre">Operas</field>
+<field name="title">Arte ed amore</field>
+<field name="titleSort">Arte ed amore</field>
+<field name="composer">Napoleone Maffezzoli</field>
+<field name="composerSort">Maffezzoli, Napoleone</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">[Felice Pozza] Fulvio Fulgonio</field>
+<field name="librettistSort">Fulgonio, Fulvio [Felice Pozza]</field>
+
+<field name="city">Lima</field>
+
+<field name="country">Peru</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arte+ed+amore+Napoleone+Maffezzoli&amp;search_field=search</field>
+</doc>
+</add>

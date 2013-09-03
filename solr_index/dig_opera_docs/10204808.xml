@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204808</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Vesper</field>
+		<field name="titleSort">Vesper</field>
+		<field name="year">1972</field>
+		<field name="month">July</field>
+		<field name="day">27</field>
+		<field name="date">July 27, 1972</field>
+		<field name="composer">Georges Aperghis</field>
+		<field name="composerSort">Aperghis, Georges</field>
+		
+		
+		<field name="theater">Cloître des Célestins</field>
+		<field name="city">Avignon</field>
+		<field name="region">Vaucluse</field>
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vesper+Georges+Aperghis&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125456</field>
+<field name="genre">Operas</field>
+<field name="title">Vasheto prisastvie (Your Presence)</field>
+<field name="titleSort">Vasheto prisastvie (Your Presence)</field>
+<field name="composer">Aleksandur Raichev</field>
+<field name="composerSort">Raichev, Aleksandur</field>
+<field name="year">1969</field>
+<field name="date">1969</field><field name="theater">Radio Sofia</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vasheto+prisastvie+Your+Presence+Aleksandur+Raichev&amp;search_field=search</field>
+</doc>
+</add>

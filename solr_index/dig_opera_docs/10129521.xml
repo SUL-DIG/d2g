@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129521</field>
+<field name="genre">Operas</field>
+<field name="title">La fiera di Viechio</field>
+<field name="titleSort">fiera di Viechio</field>
+<field name="composer">Anselmo Sormani</field>
+<field name="composerSort">Sormani, Anselmo</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Riccardo Chiarelli</field>
+<field name="librettistSort">Chiarelli, Riccardo</field>
+
+<field name="city">Pegognaga</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiera+di+Viechio+Anselmo+Sormani&amp;search_field=search</field>
+</doc>
+</add>

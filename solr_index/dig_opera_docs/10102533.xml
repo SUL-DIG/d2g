@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102533</field>
+<field name="genre">Operas</field>
+<field name="title">Lindamire</field>
+<field name="titleSort">Lindamire</field>
+<field name="composer">Antonio Bernardi</field>
+<field name="composerSort">Bernardi, Antonio</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Jean Du Boys</field>
+<field name="librettistSort">Du Boys, Jean</field>
+<field name="theater">Kursaal</field>
+<field name="city">Spa</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lindamire+Antonio+Bernardi&amp;search_field=search</field>
+</doc>
+</add>

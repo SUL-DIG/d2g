@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202250</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">John Bauer</field>
+		<field name="titleSort">John Bauer</field>
+		<field name="year">1967</field>
+		
+		
+		<field name="date">1967</field>
+		<field name="composer">Laci Boldemann</field>
+		<field name="composerSort">Boldemann, Laci</field>
+		<field name="librettist">Lennart Hellsing</field>
+		<field name="librettistSort">Hellsing, Lennart</field>
+		
+		
+		<field name="city">Jönköping</field>
+		<field name="region">Jönköping</field>
+		<field name="country">Sweden</field>
+		<field name="subject">John Albert Bauer</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+Bauer+Laci+Boldemann&amp;search_field=search</field>
+	</doc></add>

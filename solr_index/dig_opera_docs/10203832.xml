@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203832</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Faustino</field>
+		<field name="titleSort">San Faustino</field>
+		<field name="year">1902</field>
+		<field name="month">July</field>
+		<field name="day">31</field>
+		<field name="date">July 31, 1902</field>
+		<field name="composer">Ubaldo Placereani</field>
+		<field name="composerSort">Placereani, Ubaldo</field>
+		<field name="librettist">Giuseppe Ellero</field>
+		<field name="librettistSort">Ellero, Giuseppe</field>
+		
+		
+		<field name="city">Udine</field>
+		<field name="region">Friuli-Venezia Giulia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Faustinus of Brescia</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">July 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Faustino+Ubaldo+Placereani&amp;search_field=search</field>
+	</doc></add>

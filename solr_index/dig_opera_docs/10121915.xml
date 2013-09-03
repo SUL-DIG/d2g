@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121915</field>
+<field name="genre">Operas</field>
+<field name="title">Artémis</field>
+<field name="titleSort">Artémis</field>
+<field name="composer">Alberto Nepomuceno</field>
+<field name="composerSort">Nepomuceno, Alberto</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Henrique Coelho Netto</field>
+<field name="librettistSort">Netto, Henrique Coelho</field>
+<field name="theater">Teatro de São Pedro de Alcântara</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artémis+Alberto+Nepomuceno&amp;search_field=search</field>
+</doc>
+</add>

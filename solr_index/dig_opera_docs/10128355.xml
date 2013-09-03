@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128355</field>
+<field name="genre">Operas</field>
+<field name="title">Julius Caesar</field>
+<field name="titleSort">Julius Caesar</field>
+<field name="composer">Alan Schmitz</field>
+<field name="composerSort">Schmitz, Alan</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Alan Schmitz</field>
+<field name="librettistSort">Schmitz, Alan</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Douglass and Rutgers College</field>
+<field name="city">New Brunswick</field>
+<field name="region">New Jersey</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julius+Caesar+Alan+Schmitz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103029</field>
+<field name="genre">Operas</field>
+<field name="title">The Whole World Kin</field>
+<field name="titleSort">Whole World Kin</field>
+<field name="composer">Susan Hulsman Bingham</field>
+<field name="composerSort">Bingham, Susan Hulsman</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Susan Hulsman Bingham</field>
+<field name="librettistSort">Bingham, Susan Hulsman</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistSort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Trinity Church-on-the-Green</field>
+<field name="city">New Haven</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Whole+World+Kin+Susan+Hulsman+Bingham&amp;search_field=search</field>
+</doc>
+</add>

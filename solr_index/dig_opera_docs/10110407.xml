@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110407</field>
+<field name="genre">Operas</field>
+<field name="title">Hannibal</field>
+<field name="titleSort">Hannibal</field>
+<field name="composer">Johann Wolfgang Franck</field>
+<field name="composerSort">Franck, Johann Wolfgang</field>
+<field name="year">1681</field>
+<field name="date">1681</field>
+<field name="librettist">Hinrich Hinsch</field>
+<field name="librettistSort">Hinsch, Hinrich</field>
+<field name="librettist">Nicolò Beregan</field>
+<field name="librettistSort">Beregan, Nicolò</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hannibal+Johann+Wolfgang+Franck&amp;search_field=search</field>
+</doc>
+</add>

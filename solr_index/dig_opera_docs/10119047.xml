@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119047</field>
+<field name="genre">Operas</field>
+<field name="title">Un mariage au flageolet</field>
+<field name="titleSort">mariage au flageolet</field>
+<field name="composer">Charles Malo</field>
+<field name="composerSort">Malo, Charles</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Jules Perrin</field>
+<field name="librettistSort">Perrin, Jules</field>
+<field name="librettist">Léon Paliard</field>
+<field name="librettistSort">Paliard, Léon</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+mariage+au+flageolet+Charles+Malo&amp;search_field=search</field>
+</doc>
+</add>

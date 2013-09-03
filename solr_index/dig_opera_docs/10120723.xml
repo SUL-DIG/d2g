@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120723</field>
+<field name="genre">Operas</field>
+<field name="title">Der Glücksbauer</field>
+<field name="titleSort">Glücksbauer</field>
+<field name="composer">Bruno Minkwitz</field>
+<field name="composerSort">Minkwitz, Bruno</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Fritz Renker</field>
+<field name="librettistSort">Renker, Fritz</field>
+<field name="theater">Walhalla-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Glücksbauer+Bruno+Minkwitz&amp;search_field=search</field>
+</doc>
+</add>

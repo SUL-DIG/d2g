@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108878</field>
+<field name="genre">Operas</field>
+<field name="title">Oedipe</field>
+<field name="titleSort">Oedipe</field>
+<field name="composer">George Enescu</field>
+<field name="composerSort">Enescu, George</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">[Edmond Flegenheimer] Edmond Fleg</field>
+<field name="librettistSort">Fleg, Edmond [Edmond Flegenheimer]</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oedipe+George+Enescu&amp;search_field=search</field>
+</doc>
+</add>

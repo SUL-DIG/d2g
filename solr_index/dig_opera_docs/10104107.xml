@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104107</field>
+<field name="genre">Operas</field>
+<field name="title">La Dolores</field>
+<field name="titleSort">Dolores</field>
+<field name="composer">Tomás Bretón</field>
+<field name="composerSort">Bretón, Tomás</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Tomás Bretón</field>
+<field name="librettistSort">Bretón, Tomás</field>
+<field name="librettist">José Feliú y Codina</field>
+<field name="librettistSort">Feliú y Codina, José</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Dolores+Tomás+Bretón&amp;search_field=search</field>
+</doc>
+</add>

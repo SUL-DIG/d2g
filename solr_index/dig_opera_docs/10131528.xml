@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131528</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur Dumollet</field>
+<field name="titleSort">Monsieur Dumollet</field>
+<field name="composer">Louis Urgel</field>
+<field name="composerSort">Urgel, Louis</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">[Georges Thiébost] Hugues Delorme</field>
+<field name="librettistSort">Delorme, Hugues [Georges Thiébost]</field>
+<field name="librettist">Victor Jannet</field>
+<field name="librettistSort">Jannet, Victor</field>
+<field name="theater">Théâtre-Lyrique du Vaudeville</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+Dumollet+Louis+Urgel&amp;search_field=search</field>
+</doc>
+</add>

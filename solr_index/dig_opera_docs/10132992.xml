@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132992</field>
+<field name="genre">Operas</field>
+<field name="title">The Pied Piper of Hamelin</field>
+<field name="titleSort">Pied Piper of Hamelin</field>
+<field name="composer">James Wilson</field>
+<field name="composerSort">Wilson, James</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Robert Browning</field>
+<field name="librettistSort">Browning, Robert</field>
+<field name="theater">White's Hotel</field>
+<field name="city">Wexford</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pied+Piper+of+Hamelin+James+Wilson&amp;search_field=search</field>
+</doc>
+</add>

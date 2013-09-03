@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130537</field>
+<field name="genre">Operas</field>
+<field name="title">Mtvaris motatseba (The Abduction of the Moon)</field>
+<field name="titleSort">Mtvaris motatseba (The Abduction of the Moon)</field>
+<field name="composer">Otar Vasil'yevich Taktakishvili</field>
+<field name="composerSort">Taktakishvili, Otar Vasil'yevich</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Konstantine Gamsakhurdia</field>
+<field name="librettistSort">Gamsakhurdia, Konstantine</field>
+<field name="theater">Bol'shoy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mtvaris+motatseba+The+Abduction+of+the+Moon+Otar+Vasil'yevich+Taktakishvili&amp;search_field=search</field>
+</doc>
+</add>

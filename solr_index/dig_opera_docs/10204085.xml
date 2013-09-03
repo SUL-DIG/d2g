@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204085</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Teresa</field>
+		<field name="titleSort">Santa Teresa</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Antonio Francesco Piombi</field>
+		<field name="composerSort">Piombi, Antonio Francesco</field>
+		<field name="librettist">Antonio Domenico Gotti</field>
+		<field name="librettistSort">Gotti, Antonio Domenico</field>
+		
+		<field name="theater">Compagnia di San Jacopo apostolo detta del Nicchio</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Teresa+Antonio+Francesco+Piombi&amp;search_field=search</field>
+	</doc></add>

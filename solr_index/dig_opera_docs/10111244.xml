@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111244</field>
+<field name="genre">Operas</field>
+<field name="title">Armida</field>
+<field name="titleSort">Armida</field>
+<field name="composer">Luigi Gatti</field>
+<field name="composerSort">Gatti, Luigi</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Giovanni de Gamerra</field>
+<field name="librettistSort">Gamerra, Giovanni de</field>
+<field name="librettist">Torquato Tasso</field>
+<field name="librettistSort">Tasso, Torquato</field>
+<field name="theater">Regio Ducal Teatro Nuovo</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Armida+Luigi+Gatti&amp;search_field=search</field>
+</doc>
+</add>

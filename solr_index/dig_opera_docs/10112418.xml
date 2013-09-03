@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112418</field>
+<field name="genre">Operas</field>
+<field name="title">Kamenik (The Quarry)</field>
+<field name="titleSort">Kamenik (The Quarry)</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Rikard Nikolic</field>
+<field name="librettistSort">Nikolic, Rikard</field>
+<field name="librettist">Marko Fotez</field>
+<field name="librettistSort">Fotez, Marko</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kamenik+The+Quarry+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

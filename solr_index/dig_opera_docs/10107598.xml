@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107598</field>
+<field name="genre">Operas</field>
+<field name="title">Diane et Endymion</field>
+<field name="titleSort">Diane et Endymion</field>
+<field name="composer">Henry Desmarets</field>
+<field name="composerSort">Desmarets, Henry</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Louise-Geneviève Gillot de Saintonge</field>
+<field name="librettistSort">Saintonge, Louise-Geneviève Gillot de</field>
+
+<field name="city">Nancy</field>
+<field name="region">Meurthe-et-Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Diane+et+Endymion+Henry+Desmarets&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106280</field>
+<field name="genre">Operas</field>
+<field name="title">The Cop and the Anthem</field>
+<field name="titleSort">Cop and the Anthem</field>
+<field name="composer">Steven Cohen</field>
+<field name="composerSort">Cohen, Steven</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Alison Hubbard</field>
+<field name="librettistSort">Hubbard, Alison</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistSort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Lake George Opera Workshop</field>
+<field name="city">Glens Falls</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cop+and+the+Anthem+Steven+Cohen&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131857</field>
+<field name="genre">Operas</field>
+<field name="title">Aida</field>
+<field name="titleSort">Aida</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1871</field>
+<field name="date">1871</field>
+<field name="librettist">Antonio Ghislanzoni</field>
+<field name="librettistSort">Ghislanzoni, Antonio</field>
+<field name="librettist">Auguste Ferdinand Mariette</field>
+<field name="librettistSort">Mariette, Auguste Ferdinand</field>
+<field name="theater">Opera House</field>
+<field name="city">Cairo</field>
+
+<field name="country">Egypt</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aida+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

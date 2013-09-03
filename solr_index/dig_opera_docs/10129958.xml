@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129958</field>
+<field name="genre">Operas</field>
+<field name="title">Noble Gäste</field>
+<field name="titleSort">Noble Gäste</field>
+<field name="composer">August Stoll</field>
+<field name="composerSort">Stoll, August</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Louis Taufstein</field>
+<field name="librettistSort">Taufstein, Louis</field>
+<field name="theater">Musikvereinsaal</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noble+Gäste+August+Stoll&amp;search_field=search</field>
+</doc>
+</add>

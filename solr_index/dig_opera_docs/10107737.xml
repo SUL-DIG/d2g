@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107737</field>
+<field name="genre">Operas</field>
+<field name="title">Damon and Phillida</field>
+<field name="titleSort">Damon and Phillida</field>
+<field name="composer">Charles Dibdin</field>
+<field name="composerSort">Dibdin, Charles</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Charles Dibdin</field>
+<field name="librettistSort">Dibdin, Charles</field>
+<field name="librettist">Colley Cibber</field>
+<field name="librettistSort">Cibber, Colley</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Damon+and+Phillida+Charles+Dibdin&amp;search_field=search</field>
+</doc>
+</add>

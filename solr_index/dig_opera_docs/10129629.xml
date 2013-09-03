@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129629</field>
+<field name="genre">Operas</field>
+<field name="title">Faust</field>
+<field name="titleSort">Faust</field>
+<field name="composer">Louis Spohr</field>
+<field name="composerSort">Spohr, Louis</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Joseph Karl Bernhard</field>
+<field name="librettistSort">Bernhard, Joseph Karl</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Faust+Louis+Spohr&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105438</field>
+<field name="genre">Operas</field>
+<field name="title">"Superbia e vanita, ossia La donna vendicativa</field>
+<field name="titleSort">"Superbia e vanita, ossia La donna vendicativa"</field>
+<field name="composer">Filippo Celli</field>
+<field name="composerSort">Celli, Filippo</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Giulio Domenico Camagna</field>
+<field name="librettistSort">Camagna, Giulio Domenico</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Superbia+e+vanita,+ossia+La+donna+vendicativa+Filippo+Celli&amp;search_field=search</field>
+</doc>
+</add>

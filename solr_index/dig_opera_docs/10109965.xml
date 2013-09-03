@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109965</field>
+<field name="genre">Operas</field>
+<field name="title">Die Entlarvten</field>
+<field name="titleSort">Entlarvten</field>
+<field name="composer">Anton Fischer</field>
+<field name="composerSort">Fischer, Anton</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Entlarvten+Anton+Fischer&amp;search_field=search</field>
+</doc>
+</add>

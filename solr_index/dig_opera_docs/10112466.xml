@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112466</field>
+<field name="genre">Operas</field>
+<field name="title">Pan!dans l'tableau</field>
+<field name="titleSort">Pan!dans l'tableau</field>
+<field name="composer">Armand Gouven</field>
+<field name="composerSort">Gouven, Armand</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">[Albert-Paul Herrenschmidt] Albert Fox</field>
+<field name="librettistSort">Fox, Albert [Albert-Paul Herrenschmidt]</field>
+
+<field name="city">Menton</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan!dans+l'tableau+Armand+Gouven&amp;search_field=search</field>
+</doc>
+</add>

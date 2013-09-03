@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119106</field>
+<field name="genre">Operas</field>
+<field name="title">Tommaso Chatterton</field>
+<field name="titleSort">Tommaso Chatterton</field>
+<field name="composer">Nicola Mancini</field>
+<field name="composerSort">Mancini, Nicola</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Michele Cuciniello</field>
+<field name="librettistSort">Cuciniello, Michele</field>
+
+<field name="city">Cingoli</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tommaso+Chatterton+Nicola+Mancini&amp;search_field=search</field>
+</doc>
+</add>

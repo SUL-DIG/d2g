@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107008</field>
+<field name="genre">Operas</field>
+<field name="title">Maison а vendre</field>
+<field name="titleSort">Maison а vendre</field>
+<field name="composer">Nicolas-Marie Dalayrac</field>
+<field name="composerSort">Dalayrac, Nicolas-Marie</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">[Alexandre Vincent Pineux-Duval] Alexandre Duval</field>
+<field name="librettistSort">Duval, Alexandre [Alexandre Vincent Pineux-Duval]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maison+а+vendre+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
+</doc>
+</add>

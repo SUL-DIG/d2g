@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103959</field>
+<field name="genre">Operas</field>
+<field name="title">"Alina, ossia La spregiata</field>
+<field name="titleSort">"Alina, ossia La spregiata"</field>
+<field name="composer">Gaetano Braga</field>
+<field name="composerSort">Braga, Gaetano</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Leone Emanuele Bardare</field>
+<field name="librettistSort">Bardare, Leone Emanuele</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alina,+ossia+La+spregiata+Gaetano+Braga&amp;search_field=search</field>
+</doc>
+</add>

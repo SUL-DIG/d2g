@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128612</field>
+<field name="genre">Operas</field>
+<field name="title">Adriano in Siria</field>
+<field name="titleSort">Adriano in Siria</field>
+<field name="composer">Johann Gottfried Schwanenberger</field>
+<field name="composerSort">Schwanenberger, Johann Gottfried</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adriano+in+Siria+Johann+Gottfried+Schwanenberger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127645</field>
+<field name="genre">Operas</field>
+<field name="title">Trei generatii</field>
+<field name="titleSort">Trei generatii</field>
+<field name="composer">Sergiu Sarchizov</field>
+<field name="composerSort">Sarchizov, Sergiu</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Lucia Demetrius</field>
+<field name="librettistSort">Demetrius, Lucia</field>
+<field name="theater">Teatrul Liric</field>
+<field name="city">Constanta</field>
+<field name="region">Constanta</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trei+generatii+Sergiu+Sarchizov&amp;search_field=search</field>
+</doc>
+</add>

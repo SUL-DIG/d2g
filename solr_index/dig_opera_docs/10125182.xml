@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125182</field>
+<field name="genre">Operas</field>
+<field name="title">Les jardiniers</field>
+<field name="titleSort">jardiniers</field>
+<field name="composer">__ Prudent</field>
+<field name="composerSort">Prudent, __</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Bertin Davesne</field>
+<field name="librettistSort">Davesne, Bertin</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+jardiniers+__+Prudent&amp;search_field=search</field>
+</doc>
+</add>

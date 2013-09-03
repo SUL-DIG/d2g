@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203726</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrifizio d'Abramo</field>
+		<field name="titleSort">sacrifizio d'Abramo</field>
+		<field name="year">1736</field>
+		
+		
+		<field name="date">1736</field>
+		<field name="composer">Antonio Bencini</field>
+		<field name="composerSort">Bencini, Antonio</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrifizio+d'Abramo+Antonio+Bencini&amp;search_field=search</field>
+	</doc></add>

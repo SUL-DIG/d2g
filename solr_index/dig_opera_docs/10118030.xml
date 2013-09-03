@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118030</field>
+<field name="genre">Operas</field>
+<field name="title">M. Pigmalion et sa statue</field>
+<field name="titleSort">M. Pigmalion et sa statue</field>
+<field name="composer">Auguste Léveillé</field>
+<field name="composerSort">Léveillé, Auguste</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">[Pierre-Antoine-Auguste Thiboust] Lambert-Thiboust</field>
+<field name="librettistSort">Lambert-Thiboust, [Pierre-Antoine-Auguste Thiboust]</field>
+<field name="theater">Théâtre de la Tour d'Auvergne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=M.+Pigmalion+et+sa+statue+Auguste+Léveillé&amp;search_field=search</field>
+</doc>
+</add>

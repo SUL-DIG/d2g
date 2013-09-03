@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112440</field>
+<field name="genre">Operas</field>
+<field name="title">La cocarde de Mimi-Pinson</field>
+<field name="titleSort">cocarde de Mimi-Pinson</field>
+<field name="composer">Henri Goublier</field>
+<field name="composerSort">Goublier, Henri</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Francis Gally</field>
+<field name="librettistSort">Gally, Francis</field>
+<field name="librettist">Maurice Ordonneau</field>
+<field name="librettistSort">Ordonneau, Maurice</field>
+<field name="theater">Théâtre de l'Apollo</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cocarde+de+Mimi-Pinson+Henri+Goublier&amp;search_field=search</field>
+</doc>
+</add>

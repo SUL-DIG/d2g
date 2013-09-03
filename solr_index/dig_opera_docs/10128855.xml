@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128855</field>
+<field name="genre">Operas</field>
+<field name="title">Le cuvier</field>
+<field name="titleSort">cuvier</field>
+<field name="composer">__ Sélim</field>
+<field name="composerSort">Sélim, __</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Léon Michaud d'Humiac</field>
+<field name="librettistSort">Michaud d'Humiac, Léon</field>
+
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cuvier+__+Sélim&amp;search_field=search</field>
+</doc>
+</add>

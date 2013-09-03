@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109253</field>
+<field name="genre">Operas</field>
+<field name="title">Goldreifchen</field>
+<field name="titleSort">Goldreifchen</field>
+<field name="composer">Richard Fall</field>
+<field name="composerSort">Fall, Richard</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Paul Wertheimer</field>
+<field name="librettistSort">Wertheimer, Paul</field>
+<field name="librettist">Mia Ewers</field>
+<field name="librettistSort">Ewers, Mia</field>
+<field name="theater">Johann Strauss-Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goldreifchen+Richard+Fall&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121024</field>
+<field name="genre">Operas</field>
+<field name="title">Vittoria d'amore</field>
+<field name="titleSort">Vittoria d'amore</field>
+<field name="composer">Claudio Monteverdi</field>
+<field name="composerSort">Monteverdi, Claudio</field>
+<field name="year">1641</field>
+<field name="date">1641</field>
+<field name="librettist">Bernardo Morando</field>
+<field name="librettistSort">Morando, Bernardo</field>
+<field name="theater">Citadella</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vittoria+d'amore+Claudio+Monteverdi&amp;search_field=search</field>
+</doc>
+</add>

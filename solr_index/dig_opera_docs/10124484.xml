@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124484</field>
+<field name="genre">Operas</field>
+<field name="title">Romagnesi</field>
+<field name="titleSort">Romagnesi</field>
+<field name="composer">Charles Henri Plantade</field>
+<field name="composerSort">Plantade, Charles Henri</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Pierre Édouard Lemontey</field>
+<field name="librettistSort">Lemontey, Pierre Édouard</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romagnesi+Charles+Henri+Plantade&amp;search_field=search</field>
+</doc>
+</add>

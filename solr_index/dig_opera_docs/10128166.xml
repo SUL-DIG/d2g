@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128166</field>
+<field name="genre">Operas</field>
+<field name="title">Phaust</field>
+<field name="titleSort">Phaust</field>
+<field name="composer">Tony Schemmer</field>
+<field name="composerSort">Schemmer, Tony</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Tony Schemmer</field>
+<field name="librettistSort">Schemmer, Tony</field>
+<field name="theater">"Sanders Theater, Harvard University"</field>
+<field name="city">Cambridge</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phaust+Tony+Schemmer&amp;search_field=search</field>
+</doc>
+</add>

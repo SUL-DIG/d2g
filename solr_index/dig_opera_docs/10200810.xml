@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200810</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David</field>
+		<field name="titleSort">David</field>
+		<field name="year">1883</field>
+		<field name="month">January</field>
+		
+		<field name="date">January 1883</field>
+		<field name="composer">Richard Hol</field>
+		<field name="composerSort">Hol, Richard</field>
+		<field name="librettist">Willem Jacobszoon Hofdijk</field>
+		<field name="librettistSort">Hofdijk, Willem Jacobszoon</field>
+		
+		
+		<field name="city">Amsterdam</field>
+		<field name="region">Noord Holland</field>
+		<field name="country">Netherlands</field>
+		<field name="subject">David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Richard+Hol&amp;search_field=search</field>
+	</doc></add>

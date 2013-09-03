@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127283</field>
+<field name="genre">Operas</field>
+<field name="title">Der Mummelsee</field>
+<field name="titleSort">Mummelsee</field>
+<field name="composer">Emil Sahlender</field>
+<field name="composerSort">Sahlender, Emil</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Wilhelm Schriefer</field>
+<field name="librettistSort">Schriefer, Wilhelm</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Mummelsee+Emil+Sahlender&amp;search_field=search</field>
+</doc>
+</add>

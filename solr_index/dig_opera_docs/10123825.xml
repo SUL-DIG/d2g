@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123825</field>
+<field name="genre">Operas</field>
+<field name="title">Piglia il mondo come viene</field>
+<field name="titleSort">Piglia il mondo come viene</field>
+<field name="composer">Giuseppe Persiani</field>
+<field name="composerSort">Persiani, Giuseppe</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piglia+il+mondo+come+viene+Giuseppe+Persiani&amp;search_field=search</field>
+</doc>
+</add>

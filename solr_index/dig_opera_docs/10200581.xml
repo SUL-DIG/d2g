@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200581</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Choice of Hercules</field>
+		<field name="titleSort">Choice of Hercules</field>
+		<field name="year">1751</field>
+		<field name="month">March</field>
+		<field name="day">1</field>
+		<field name="date">March 1, 1751</field>
+		<field name="composer">George Frideric Handel</field>
+		<field name="composerSort">Handel, George Frideric</field>
+		<field name="librettist">Robert Lowth</field>
+		<field name="librettistSort">Lowth, Robert</field>
+		<field name="librettist">Joseph Spence</field>
+		<field name="librettistSort">Spence, Joseph</field>
+		<field name="theater">Royal Opera House, Covent Garden</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Hercules</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Choice+of+Hercules+George+Frideric+Handel&amp;search_field=search</field>
+	</doc></add>

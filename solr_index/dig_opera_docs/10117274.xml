@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117274</field>
+<field name="genre">Operas</field>
+<field name="title">Gaspard de Besse</field>
+<field name="titleSort">Gaspard de Besse</field>
+<field name="composer">__ La Pérouse</field>
+<field name="composerSort">Pérouse, __ La</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Paul Barlatier</field>
+<field name="librettistSort">Barlatier, Paul</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gaspard+de+Besse+__+La+Pérouse&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116790</field>
+<field name="genre">Operas</field>
+<field name="title">Vreneli</field>
+<field name="titleSort">Vreneli</field>
+<field name="composer">Ernst Kunz</field>
+<field name="composerSort">Kunz, Ernst</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Oskar Wälterlin</field>
+<field name="librettistSort">Wälterlin, Oskar</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Basle</field>
+<field name="region">Basel-Land</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vreneli+Ernst+Kunz&amp;search_field=search</field>
+</doc>
+</add>

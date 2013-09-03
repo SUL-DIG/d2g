@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202373</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das kanaanäische Weib</field>
+		<field name="titleSort">kanaanäische Weib</field>
+		<field name="year">1767</field>
+		
+		
+		<field name="date">1767</field>
+		<field name="composer">Adolph Carl Kunzen</field>
+		<field name="composerSort">Kunzen, Adolph Carl</field>
+		
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Wedding at Cana</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+kanaanäische+Weib+Adolph+Carl+Kunzen&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105417</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo dell'autunno</field>
+<field name="titleSort">trionfo dell'autunno</field>
+<field name="composer">Angelo Cecchini</field>
+<field name="composerSort">Cecchini, Angelo</field>
+<field name="year">1636</field>
+<field name="date">1636</field>
+<field name="librettist">Ottaviano Castelli</field>
+<field name="librettistSort">Castelli, Ottaviano</field>
+<field name="theater">Castel Gandolfo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+dell'autunno+Angelo+Cecchini&amp;search_field=search</field>
+</doc>
+</add>

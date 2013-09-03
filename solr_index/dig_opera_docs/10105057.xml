@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105057</field>
+<field name="genre">Operas</field>
+<field name="title">"Ismalia, ossia Amore e morte</field>
+<field name="titleSort">"Ismalia, ossia Amore e morte"</field>
+<field name="composer">Ramón Carnicer</field>
+<field name="composerSort">Carnicer, Ramón</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ismalia,+ossia+Amore+e+morte+Ramón+Carnicer&amp;search_field=search</field>
+</doc>
+</add>

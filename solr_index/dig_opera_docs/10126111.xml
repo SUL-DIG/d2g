@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126111</field>
+<field name="genre">Operas</field>
+<field name="title">Children's Crusade</field>
+<field name="titleSort">Children's Crusade</field>
+<field name="composer">Alan Ridout</field>
+<field name="composerSort">Ridout, Alan</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">David Holbrook</field>
+<field name="librettistSort">Holbrook, David</field>
+<field name="librettist">Bertolt Brecht</field>
+<field name="librettistSort">Brecht, Bertolt</field>
+<field name="theater">Canterbury Cathedral</field>
+<field name="city">Canterbury</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Children's+Crusade+Alan+Ridout&amp;search_field=search</field>
+</doc>
+</add>

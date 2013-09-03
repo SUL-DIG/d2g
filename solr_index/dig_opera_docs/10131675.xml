@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131675</field>
+<field name="genre">Operas</field>
+<field name="title">Lucrezia degli Obizzi</field>
+<field name="titleSort">Lucrezia degli Obizzi</field>
+<field name="composer">Giuseppe Valier</field>
+<field name="composerSort">Valier, Giuseppe</field>
+<field name="year">1843</field>
+<field name="date">1843</field><field name="theater">Teatro della Concordia</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucrezia+degli+Obizzi+Giuseppe+Valier&amp;search_field=search</field>
+</doc>
+</add>

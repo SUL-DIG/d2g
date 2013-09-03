@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102235</field>
+<field name="genre">Operas</field>
+<field name="title">Aixa (La cacciata dei Mori)</field>
+<field name="titleSort">Aixa (La cacciata dei Mori)</field>
+<field name="composer">Riccardo Bellini</field>
+<field name="composerSort">Bellini, Riccardo</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Pasquale de Luca</field>
+<field name="librettistSort">Luca, Pasquale de</field>
+<field name="theater">Politeama Genovese</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aixa+La+cacciata+dei+Mori+Riccardo+Bellini&amp;search_field=search</field>
+</doc>
+</add>

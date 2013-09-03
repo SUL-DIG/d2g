@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129458</field>
+<field name="genre">Operas</field>
+<field name="title">Penelope</field>
+<field name="titleSort">Penelope</field>
+<field name="composer">Edward Solomon</field>
+<field name="composerSort">Solomon, Edward</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Henry Pottinger Stephens</field>
+<field name="librettistSort">Stephens, Henry Pottinger</field>
+<field name="theater">Star Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Penelope+Edward+Solomon&amp;search_field=search</field>
+</doc>
+</add>

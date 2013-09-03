@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127722</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amanti consolati</field>
+<field name="titleSort">amanti consolati</field>
+<field name="composer">Giuseppe Sarti</field>
+<field name="composerSort">Sarti, Giuseppe</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amanti+consolati+Giuseppe+Sarti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108608</field>
+<field name="genre">Operas</field>
+<field name="title">Selma sedlák (The Cunning Peasant)</field>
+<field name="titleSort">Selma sedlák (The Cunning Peasant)</field>
+<field name="composer">Antonín Dvorák</field>
+<field name="composerSort">Dvorák, Antonín</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Josef Otakar Veselý</field>
+<field name="librettistSort">Veselý, Josef Otakar</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Selma+sedlák+The+Cunning+Peasant+Antonín+Dvorák&amp;search_field=search</field>
+</doc>
+</add>

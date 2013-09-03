@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120214</field>
+<field name="genre">Operas</field>
+<field name="title">Spöket pе·Canterville (The Canterville Ghost)</field>
+<field name="titleSort">Spöket pе·Canterville (The Canterville Ghost)</field>
+<field name="composer">Arne Mellnäs</field>
+<field name="composerSort">Mellnäs, Arne</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Arne Mellnäs</field>
+<field name="librettistSort">Mellnäs, Arne</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">NorrlandsOperan</field>
+<field name="city">Umeе</field>
+<field name="region">Västerbotten</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spöket+pе·Canterville+The+Canterville+Ghost+Arne+Mellnäs&amp;search_field=search</field>
+</doc>
+</add>

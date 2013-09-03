@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129791</field>
+<field name="genre">Operas</field>
+<field name="title">Das redende Gemählde</field>
+<field name="titleSort">redende Gemählde</field>
+<field name="composer">Carl David Stegmann</field>
+<field name="composerSort">Stegmann, Carl David</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Louis Anseaume</field>
+<field name="librettistSort">Anseaume, Louis</field>
+<field name="theater">Ackermanns Schauspielhaus</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+redende+Gemählde+Carl+David+Stegmann&amp;search_field=search</field>
+</doc>
+</add>

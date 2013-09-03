@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119904</field>
+<field name="genre">Operas</field>
+<field name="title">Sansibar</field>
+<field name="titleSort">Sansibar</field>
+<field name="composer">Eckehard Mayer</field>
+<field name="composerSort">Mayer, Eckehard</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Wolfgang Willaschek</field>
+<field name="librettistSort">Willaschek, Wolfgang</field>
+<field name="librettist">Alfred Andersch</field>
+<field name="librettistSort">Andersch, Alfred</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Schwetzingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sansibar+Eckehard+Mayer&amp;search_field=search</field>
+</doc>
+</add>

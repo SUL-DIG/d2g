@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106660</field>
+<field name="genre">Operas</field>
+<field name="title">Oitona</field>
+<field name="titleSort">Oitona</field>
+<field name="composer">Dionisio Corradi</field>
+<field name="composerSort">Corradi, Dionisio</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Dionisio Corradi</field>
+<field name="librettistSort">Corradi, Dionisio</field>
+<field name="theater">Teatro Cavour</field>
+<field name="city">Porto Maurizio</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oitona+Dionisio+Corradi&amp;search_field=search</field>
+</doc>
+</add>

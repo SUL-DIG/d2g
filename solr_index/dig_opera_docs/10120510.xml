@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120510</field>
+<field name="genre">Operas</field>
+<field name="title">Yaroslav mudryy (Yaroslav the Wise)</field>
+<field name="titleSort">Yaroslav mudryy (Yaroslav the Wise)</field>
+<field name="composer">Yuly Sergeyevich Meytus</field>
+<field name="composerSort">Meytus, Yuly Sergeyevich</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Antonina Vasyl'yeva</field>
+<field name="librettistSort">Vasyl'yeva, Antonina</field>
+<field name="librettist">Ivan Antonovych Kocherha</field>
+<field name="librettistSort">Kocherha, Ivan Antonovych</field>
+<field name="theater">Teatr Opery ta Baletu</field>
+<field name="city">Donets'k</field>
+<field name="region">Donets'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yaroslav+mudryy+Yaroslav+the+Wise+Yuly+Sergeyevich+Meytus&amp;search_field=search</field>
+</doc>
+</add>

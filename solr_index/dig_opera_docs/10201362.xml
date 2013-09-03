@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201362</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Den forlorne søn</field>
+		<field name="titleSort">forlorne søn</field>
+		<field name="year">1896</field>
+		
+		
+		<field name="date">1896</field>
+		<field name="composer">Catharinus Elling</field>
+		<field name="composerSort">Elling, Catharinus</field>
+		
+		
+		
+		<field name="city">Oslo</field>
+		
+		<field name="country">Norway</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Den+forlorne+søn+Catharinus+Elling&amp;search_field=search</field>
+	</doc></add>

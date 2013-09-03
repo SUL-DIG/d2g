@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102624</field>
+<field name="genre">Operas</field>
+<field name="title">François les bas-bleus</field>
+<field name="titleSort">François les bas-bleus</field>
+<field name="composer">Firmin Bernicat</field>
+<field name="composerSort">Bernicat, Firmin</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Eugène Humbert</field>
+<field name="librettistSort">Humbert, Eugène</field>
+<field name="librettist">Ernest Dubreuil</field>
+<field name="librettistSort">Dubreuil, Ernest</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=François+les+bas-bleus+Firmin+Bernicat&amp;search_field=search</field>
+</doc>
+</add>

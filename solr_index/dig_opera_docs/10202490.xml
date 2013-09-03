@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202490</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La letizza nel tormento di Santa Cecilia</field>
+		<field name="titleSort">letizza nel tormento di Santa Cecilia</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Filippo Perone</field>
+		<field name="composerSort">Perone, Filippo</field>
+		
+		
+		<field name="theater">Compagnia della Purificazione della Gloriosa Vergine Maria, e di San Zanobi, detta di San Marco</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+letizza+nel+tormento+di+Santa+Cecilia+Filippo+Perone&amp;search_field=search</field>
+	</doc></add>

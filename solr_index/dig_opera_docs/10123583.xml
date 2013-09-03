@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123583</field>
+<field name="genre">Operas</field>
+<field name="title">Lina</field>
+<field name="titleSort">Lina</field>
+<field name="composer">Carlo Pedrotti</field>
+<field name="composerSort">Pedrotti, Carlo</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="theater">Teatro Filarmonico</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lina+Carlo+Pedrotti&amp;search_field=search</field>
+</doc>
+</add>

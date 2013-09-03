@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121877</field>
+<field name="genre">Operas</field>
+<field name="title">Divertimenti di Palazzeschi</field>
+<field name="titleSort">Divertimenti di Palazzeschi</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">[Aldo Giurlani] Aldo Palazzeschi</field>
+<field name="librettistSort">Palazzeschi, Aldo [Aldo Giurlani]</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Divertimenti+di+Palazzeschi+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

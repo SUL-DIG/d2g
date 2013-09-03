@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131022</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Zauberschleier, oder Maler, Fee und Wirtin</field>
+<field name="titleSort">"Zauberschleier, oder Maler, Fee und Wirtin"</field>
+<field name="composer">Antonín Emil Titl</field>
+<field name="composerSort">Titl, Antonín Emil</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Franz Xaver Told</field>
+<field name="librettistSort">Told, Franz Xaver</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zauberschleier,+oder+Maler,+Fee+und+Wirtin+Antonín+Emil+Titl&amp;search_field=search</field>
+</doc>
+</add>

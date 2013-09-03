@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202021</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Intercession</field>
+		<field name="titleSort">Intercession</field>
+		<field name="year">1817</field>
+		
+		
+		<field name="date">1817</field>
+		<field name="composer">Matthew Peter King</field>
+		<field name="composerSort">King, Matthew Peter</field>
+		<field name="librettist">John Milton</field>
+		<field name="librettistSort">Milton, John</field>
+		
+		<field name="theater">Royal Opera House, Covent Garden</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Intercession+Matthew+Peter+King&amp;search_field=search</field>
+	</doc></add>

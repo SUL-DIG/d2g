@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204289</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Sieg des Göttlichen</field>
+		<field name="titleSort">Sieg des Göttlichen</field>
+		<field name="year">1843</field>
+		
+		
+		<field name="date">1843</field>
+		<field name="composer">Friedrich Karl Kühmstedt</field>
+		<field name="composerSort">Kühmstedt, Friedrich Karl</field>
+		
+		
+		
+		<field name="city">Kassel</field>
+		<field name="region">Hessen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sieg+des+Göttlichen+Friedrich+Karl+Kühmstedt&amp;search_field=search</field>
+	</doc></add>

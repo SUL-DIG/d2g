@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204333</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sofonea id est Joseph pro rex Aegypti</field>
+		<field name="titleSort">Sofonea id est Joseph pro rex Aegypti</field>
+		<field name="year">1755</field>
+		
+		
+		<field name="date">1755</field>
+		<field name="composer">Antonio Gaetano Pampani</field>
+		<field name="composerSort">Pampani, Antonio Gaetano</field>
+		
+		
+		<field name="theater">Ospedale dei Derelitti ai Santi Giovanni e Paolo (Ospedaletto)</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sofonea+id+est+Joseph+pro+rex+Aegypti+Antonio+Gaetano+Pampani&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103219</field>
+<field name="genre">Operas</field>
+<field name="title">Alpenkönig und Menschenfeind</field>
+<field name="titleSort">Alpenkönig und Menschenfeind</field>
+<field name="composer">Leo Blech</field>
+<field name="composerSort">Blech, Leo</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Richard Batka</field>
+<field name="librettistSort">Batka, Richard</field>
+<field name="librettist">[Jakob Raimann] Ferdinand Raimund</field>
+<field name="librettistSort">Raimund, Ferdinand [Jakob Raimann]</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alpenkönig+und+Menschenfeind+Leo+Blech&amp;search_field=search</field>
+</doc>
+</add>

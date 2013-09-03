@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105370</field>
+<field name="genre">Operas</field>
+<field name="title">Orimonte</field>
+<field name="titleSort">Orimonte</field>
+<field name="composer">Francesco Cavalli</field>
+<field name="composerSort">Cavalli, Francesco</field>
+<field name="year">1650</field>
+<field name="date">1650</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orimonte+Francesco+Cavalli&amp;search_field=search</field>
+</doc>
+</add>

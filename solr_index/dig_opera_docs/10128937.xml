@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128937</field>
+<field name="genre">Operas</field>
+<field name="title">Gonzalo de Córdoba</field>
+<field name="titleSort">Gonzalo de Córdoba</field>
+<field name="composer">Emilio Serrano</field>
+<field name="composerSort">Serrano, Emilio</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Emilio Serrano</field>
+<field name="librettistSort">Serrano, Emilio</field>
+<field name="theater">Teatro Real</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gonzalo+de+Córdoba+Emilio+Serrano&amp;search_field=search</field>
+</doc>
+</add>

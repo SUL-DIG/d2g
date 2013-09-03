@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111370</field>
+<field name="genre">Operas</field>
+<field name="title">Gli errori di Telemaco</field>
+<field name="titleSort">errori di Telemaco</field>
+<field name="composer">Giuseppe Gazzaniga</field>
+<field name="composerSort">Gazzaniga, Giuseppe</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Carlo Giuseppe Lanfranchi Rossi</field>
+<field name="librettistSort">Lanfranchi Rossi, Carlo Giuseppe</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+errori+di+Telemaco+Giuseppe+Gazzaniga&amp;search_field=search</field>
+</doc>
+</add>

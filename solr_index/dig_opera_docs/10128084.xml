@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128084</field>
+<field name="genre">Operas</field>
+<field name="title">Bacocco e Serpilla</field>
+<field name="titleSort">Bacocco e Serpilla</field>
+<field name="composer">Theodor von Schacht</field>
+<field name="composerSort">Schacht, Theodor von</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Fürstlische Thurn und Taxissches-Theater im Ballsaale</field>
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bacocco+e+Serpilla+Theodor+von+Schacht&amp;search_field=search</field>
+</doc>
+</add>

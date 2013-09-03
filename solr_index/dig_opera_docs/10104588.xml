@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104588</field>
+<field name="genre">Operas</field>
+<field name="title">Giralda</field>
+<field name="titleSort">Giralda</field>
+<field name="composer">Antonio Cagnoni</field>
+<field name="composerSort">Cagnoni, Antonio</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Giorgio Giacchetti</field>
+<field name="librettistSort">Giacchetti, Giorgio</field>
+<field name="librettist">Raffaele Berninzone</field>
+<field name="librettistSort">Berninzone, Raffaele</field>
+<field name="theater">Teatro di Santa Radegonda</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giralda+Antonio+Cagnoni&amp;search_field=search</field>
+</doc>
+</add>

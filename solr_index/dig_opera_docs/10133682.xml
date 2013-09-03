@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133682</field>
+<field name="genre">Operas</field>
+<field name="title">Clitennestra</field>
+<field name="titleSort">Clitennestra</field>
+<field name="composer">Niccolò Antonio Zingarelli</field>
+<field name="composerSort">Zingarelli, Niccolò Antonio</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Francesco Saverio Salfi</field>
+<field name="librettistSort">Salfi, Francesco Saverio</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clitennestra+Niccolò+Antonio+Zingarelli&amp;search_field=search</field>
+</doc>
+</add>

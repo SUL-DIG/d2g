@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204610</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della bellezza, della grazia e della virtù espresso nelle felicissimie nozze di Ester</field>
+		<field name="titleSort">trionfo della bellezza, della grazia e della virtù espresso nelle felicissimie nozze di Ester</field>
+		<field name="year">1699</field>
+		<field name="month">October</field>
+		<field name="day">21</field>
+		<field name="date">October 21, 1699</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		<field name="librettist">Girolamo Frigimelica Roberti</field>
+		<field name="librettistSort">Roberti, Girolamo Frigimeli</field>
+		
+		<field name="theater">Sankta-Ursula</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Esther saves her people</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+bellezza,+della+grazia+e+della+virtù+espresso+nelle+felicissimie+nozze+di+Ester+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

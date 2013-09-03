@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115991</field>
+<field name="genre">Operas</field>
+<field name="title">Viola</field>
+<field name="titleSort">Viola</field>
+<field name="composer">Hermann Kirchner</field>
+<field name="composerSort">Kirchner, Hermann</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Hermann Kirchner</field>
+<field name="librettistSort">Kirchner, Hermann</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+
+<field name="city">Sibiu</field>
+<field name="region">Sibiu</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viola+Hermann+Kirchner&amp;search_field=search</field>
+</doc>
+</add>

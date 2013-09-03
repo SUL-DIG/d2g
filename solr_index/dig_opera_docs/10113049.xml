@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113049</field>
+<field name="genre">Operas</field>
+<field name="title">Amore y innocencia</field>
+<field name="titleSort">Amore y innocencia</field>
+<field name="composer">Pietro Carlo Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Carlo</field>
+<field name="year">1815</field>
+<field name="date">1815</field><field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+y+innocencia+Pietro+Carlo+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

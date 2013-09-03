@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128114</field>
+<field name="genre">Operas</field>
+<field name="title">Junker Habakuk</field>
+<field name="titleSort">Junker Habakuk</field>
+<field name="composer">August Schäffer</field>
+<field name="composerSort">Schäffer, August</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Rudolf Löwenstein</field>
+<field name="librettistSort">Löwenstein, Rudolf</field>
+<field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Junker+Habakuk+August+Schäffer&amp;search_field=search</field>
+</doc>
+</add>

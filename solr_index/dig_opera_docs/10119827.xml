@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119827</field>
+<field name="genre">Operas</field>
+<field name="title">Ah! mon colon</field>
+<field name="titleSort">Ah! mon colon</field>
+<field name="composer">André de Mauprey</field>
+<field name="composerSort">Mauprey, André de</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Claude Roland</field>
+<field name="librettistSort">Roland, Claude</field>
+<field name="theater">Bobino-Music-Hall</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ah!+mon+colon+André+de+Mauprey&amp;search_field=search</field>
+</doc>
+</add>

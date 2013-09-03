@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124639</field>
+<field name="genre">Operas</field>
+<field name="title">L'Aristeo</field>
+<field name="titleSort">Aristeo</field>
+<field name="composer">Antonio Pollarolo</field>
+<field name="composerSort">Pollarolo, Antonio</field>
+<field name="year">1700</field>
+<field name="date">1700</field>
+<field name="librettist">Giulio Cesare Corradi</field>
+<field name="librettistSort">Corradi, Giulio Cesare</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Aristeo+Antonio+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

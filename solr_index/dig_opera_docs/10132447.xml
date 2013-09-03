@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132447</field>
+<field name="genre">Operas</field>
+<field name="title">The Golden Feather</field>
+<field name="titleSort">Golden Feather</field>
+<field name="composer">Uda Waldrop</field>
+<field name="composerSort">Waldrop, Uda</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Waldemar Young</field>
+<field name="librettistSort">Young, Waldemar</field>
+<field name="theater">Bohemian Grove</field>
+<field name="city">Sonoma County</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golden+Feather+Uda+Waldrop&amp;search_field=search</field>
+</doc>
+</add>

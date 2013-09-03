@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105718</field>
+<field name="genre">Operas</field>
+<field name="title">Il Giulio Sabino</field>
+<field name="titleSort">Giulio Sabino</field>
+<field name="composer">Luigi Cherubini</field>
+<field name="composerSort">Cherubini, Luigi</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Pietro Giovannini</field>
+<field name="librettistSort">Giovannini, Pietro</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Giulio+Sabino+Luigi+Cherubini&amp;search_field=search</field>
+</doc>
+</add>

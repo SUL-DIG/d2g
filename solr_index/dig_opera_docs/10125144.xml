@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125144</field>
+<field name="genre">Operas</field>
+<field name="title">Olázka</field>
+<field name="titleSort">Olázka</field>
+<field name="composer">Ladislav Prokop</field>
+<field name="composerSort">Prokop, Ladislav</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Ladislav Prokop</field>
+<field name="librettistSort">Prokop, Ladislav</field>
+<field name="theater">Divadlo na Vinohradech</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Olázka+Ladislav+Prokop&amp;search_field=search</field>
+</doc>
+</add>

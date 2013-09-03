@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109147</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zirkuskind</field>
+<field name="titleSort">Zirkuskind</field>
+<field name="composer">Edmund Eysler</field>
+<field name="composerSort">Eysler, Edmund</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Robert Bodanzky</field>
+<field name="librettistSort">Bodanzky, Robert</field>
+<field name="librettist">Friedrich Thelen</field>
+<field name="librettistSort">Thelen, Friedrich</field>
+<field name="theater">Raimundtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zirkuskind+Edmund+Eysler&amp;search_field=search</field>
+</doc>
+</add>

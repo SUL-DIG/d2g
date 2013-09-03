@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125438</field>
+<field name="genre">Operas</field>
+<field name="title">Wittekind</field>
+<field name="titleSort">Wittekind</field>
+<field name="composer">Franz Xaver Rafael</field>
+<field name="composerSort">Rafael, Franz Xaver</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Eugen Sporck</field>
+<field name="librettistSort">Sporck, Eugen</field>
+<field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wittekind+Franz+Xaver+Rafael&amp;search_field=search</field>
+</doc>
+</add>

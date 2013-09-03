@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128256</field>
+<field name="genre">Operas</field>
+<field name="title">Die Jagd des Regenten</field>
+<field name="titleSort">Jagd des Regenten</field>
+<field name="composer">Adolf Schirmer</field>
+<field name="composerSort">Schirmer, Adolf</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Adolf Schirmer</field>
+<field name="librettistSort">Schirmer, Adolf</field>
+<field name="theater">Harmonietheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Jagd+des+Regenten+Adolf+Schirmer&amp;search_field=search</field>
+</doc>
+</add>

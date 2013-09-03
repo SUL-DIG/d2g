@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108990</field>
+<field name="genre">Operas</field>
+<field name="title">Fräulein Leutnant</field>
+<field name="titleSort">Fräulein Leutnant</field>
+<field name="composer">Karl Ernesti</field>
+<field name="composerSort">Ernesti, Karl</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Karl Ernesti</field>
+<field name="librettistSort">Ernesti, Karl</field>
+<field name="theater">Sommertheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fräulein+Leutnant+Karl+Ernesti&amp;search_field=search</field>
+</doc>
+</add>

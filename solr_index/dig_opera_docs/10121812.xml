@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121812</field>
+<field name="genre">Operas</field>
+<field name="title">Die Mühlenhexe</field>
+<field name="titleSort">Mühlenhexe</field>
+<field name="composer">Emil Naumann</field>
+<field name="composerSort">Naumann, Emil</field>
+<field name="year">1862</field>
+<field name="date">1862</field><field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Mühlenhexe+Emil+Naumann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123670</field>
+<field name="genre">Operas</field>
+<field name="title">Die Schreckensnacht auf Paluzzi</field>
+<field name="titleSort">Schreckensnacht auf Paluzzi</field>
+<field name="composer">Franz Xaver Pentenrieder</field>
+<field name="composerSort">Pentenrieder, Franz Xaver</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Josef Forst</field>
+<field name="librettistSort">Forst, Josef</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Schreckensnacht+auf+Paluzzi+Franz+Xaver+Pentenrieder&amp;search_field=search</field>
+</doc>
+</add>

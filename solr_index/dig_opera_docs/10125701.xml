@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125701</field>
+<field name="genre">Operas</field>
+<field name="title">Le père Gaillard</field>
+<field name="titleSort">père Gaillard</field>
+<field name="composer">Henri Reber</field>
+<field name="composerSort">Reber, Henri</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Thomas Sauvage</field>
+<field name="librettistSort">Sauvage, Thomas</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+père+Gaillard+Henri+Reber&amp;search_field=search</field>
+</doc>
+</add>

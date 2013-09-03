@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201157</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Erlösung</field>
+		<field name="titleSort">Erlösung</field>
+		<field name="year">1803</field>
+		
+		
+		<field name="date">1803</field>
+		<field name="composer">Christian Ehrgott Weinlig</field>
+		<field name="composerSort">Weinlig, Christian Ehrgott</field>
+		
+		
+		<field name="theater">Kreuzkirche</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Erlösung+Christian+Ehrgott+Weinlig&amp;search_field=search</field>
+	</doc></add>

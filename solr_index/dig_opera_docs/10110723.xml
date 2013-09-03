@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110723</field>
+<field name="genre">Operas</field>
+<field name="title">Das Luxusweibchen</field>
+<field name="titleSort">Luxusweibchen</field>
+<field name="composer">Max Gabriel</field>
+<field name="composerSort">Gabriel, Max</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="theater">Tivoli-Theater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Luxusweibchen+Max+Gabriel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110095</field>
+<field name="genre">Operas</field>
+<field name="title">La lettre du préfet</field>
+<field name="titleSort">lettre du préfet</field>
+<field name="composer">Friedrich Flotow</field>
+<field name="composerSort">Flotow, Friedrich</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Édouard Bergounioux</field>
+<field name="librettistSort">Bergounioux, Édouard</field>
+<field name="theater">Salle Gressier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+lettre+du+préfet+Friedrich+Flotow&amp;search_field=search</field>
+</doc>
+</add>

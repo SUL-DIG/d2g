@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113458</field>
+<field name="genre">Operas</field>
+<field name="title">Sagat</field>
+<field name="titleSort">Sagat</field>
+<field name="composer">Kelly Hamilton</field>
+<field name="composerSort">Hamilton, Kelly</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Kelly Hamilton</field>
+<field name="librettistSort">Hamilton, Kelly</field>
+<field name="theater">Wonderhorse Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sagat+Kelly+Hamilton&amp;search_field=search</field>
+</doc>
+</add>

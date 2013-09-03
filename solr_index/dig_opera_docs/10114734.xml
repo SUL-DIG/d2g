@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114734</field>
+<field name="genre">Operas</field>
+<field name="title">Mamay</field>
+<field name="titleSort">Mamay</field>
+<field name="composer">Vitaly Serhiyovych Hubarenko</field>
+<field name="composerSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Vitaly Serhiyovych Hubarenko</field>
+<field name="librettistSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="librettist">Valentyn Vasyl'ovych Bychko</field>
+<field name="librettistSort">Bychko, Valentyn Vasyl'ovych</field>
+<field name="theater">Derzhavnyy Akademichnyy Teatr Opery ta Baletu imeni T. H. Shevchenka</field>
+<field name="city">Kiev</field>
+<field name="region">Kyïvs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mamay+Vitaly+Serhiyovych+Hubarenko&amp;search_field=search</field>
+</doc>
+</add>

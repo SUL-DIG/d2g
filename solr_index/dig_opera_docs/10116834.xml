@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116834</field>
+<field name="genre">Operas</field>
+<field name="title">Mala szkola ojców (The School Founder)</field>
+<field name="titleSort">Mala szkola ojców (The School Founder)</field>
+<field name="composer">Karol Kazimierz Kurpinski</field>
+<field name="composerSort">Kurpinski, Karol Kazimierz</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Ludwik Adam Dmuszewski</field>
+<field name="librettistSort">Dmuszewski, Ludwik Adam</field>
+<field name="theater">Teatr Narodowy</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mala+szkola+ojców+The+School+Founder+Karol+Kazimierz+Kurpinski&amp;search_field=search</field>
+</doc>
+</add>

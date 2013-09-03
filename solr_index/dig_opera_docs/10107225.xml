@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107225</field>
+<field name="genre">Operas</field>
+<field name="title">The Unmusical Impresario</field>
+<field name="titleSort">Unmusical Impresario</field>
+<field name="composer">Katherine Davis</field>
+<field name="composerSort">Davis, Katherine</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Katherine Davis</field>
+<field name="librettistSort">Davis, Katherine</field>
+<field name="librettist">Heddie Kent</field>
+<field name="librettistSort">Kent, Heddie</field>
+<field name="theater">Plymouth Rock Center of Music and Drama</field>
+<field name="city">Duxbury</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Unmusical+Impresario+Katherine+Davis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114084</field>
+<field name="genre">Operas</field>
+<field name="title">"Leila, ou Le giaour</field>
+<field name="titleSort">"Leila, ou Le giaour"</field>
+<field name="composer">Charles Alexandre Hermann</field>
+<field name="composerSort">Hermann, Charles Alexandre</field>
+<field name="year">1853</field>
+<field name="date">1853</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Rochefort</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leila,+ou+Le+giaour+Charles+Alexandre+Hermann&amp;search_field=search</field>
+</doc>
+</add>

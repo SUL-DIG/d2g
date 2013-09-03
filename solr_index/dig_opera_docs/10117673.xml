@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117673</field>
+<field name="genre">Operas</field>
+<field name="title">The Story of Mary O'Neill</field>
+<field name="titleSort">Story of Mary O'Neill</field>
+<field name="composer">Nicola LeFanu</field>
+<field name="composerSort">LeFanu, Nicola</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Sally McInerney</field>
+<field name="librettistSort">McInerney, Sally</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Story+of+Mary+O'Neill+Nicola+LeFanu&amp;search_field=search</field>
+</doc>
+</add>

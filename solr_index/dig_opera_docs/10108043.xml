@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108043</field>
+<field name="genre">Operas</field>
+<field name="title">Eva Hlyna</field>
+<field name="titleSort">Eva Hlyna</field>
+<field name="composer">Gustav Dörstling</field>
+<field name="composerSort">Dörstling, Gustav</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Hermann Schmid</field>
+<field name="librettistSort">Schmid, Hermann</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eva+Hlyna+Gustav+Dörstling&amp;search_field=search</field>
+</doc>
+</add>

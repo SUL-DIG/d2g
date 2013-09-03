@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132611</field>
+<field name="genre">Operas</field>
+<field name="title">Tambari</field>
+<field name="titleSort">Tambari</field>
+<field name="composer">Bernd Wefelmeyer</field>
+<field name="composerSort">Wefelmeyer, Bernd</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Horst Schwarz-Linek</field>
+<field name="librettistSort">Schwarz-Linek, Horst</field>
+<field name="librettist">Dieter Reuscher</field>
+<field name="librettistSort">Reuscher, Dieter</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tambari+Bernd+Wefelmeyer&amp;search_field=search</field>
+</doc>
+</add>

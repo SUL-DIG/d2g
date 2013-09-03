@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201727</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La gloria pronuba</field>
+		<field name="titleSort">gloria pronuba</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Giuseppe Maria Po</field>
+		<field name="composerSort">Po, Giuseppe Maria</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloria+pronuba+Giuseppe+Maria+Po&amp;search_field=search</field>
+	</doc></add>

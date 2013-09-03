@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132573</field>
+<field name="genre">Operas</field>
+<field name="title">Die Wette</field>
+<field name="titleSort">Wette</field>
+<field name="composer">Bernhard Anselm Weber</field>
+<field name="composerSort">Weber, Bernhard Anselm</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">P. Guillet</field>
+<field name="librettistSort">Guillet, P.</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Wette+Bernhard+Anselm+Weber&amp;search_field=search</field>
+</doc>
+</add>

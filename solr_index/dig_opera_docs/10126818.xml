@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126818</field>
+<field name="genre">Operas</field>
+<field name="title">"Il signor Bruschino, ossia Il figlio per azzardo</field>
+<field name="titleSort">"signor Bruschino, ossia figlio per azzardo"</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="librettist">René-André-Polydore Alissan de Chazet</field>
+<field name="librettistSort">Chazet, René-André-Polydore Alissan de</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+signor+Bruschino,+ossia+Il+figlio+per+azzardo+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

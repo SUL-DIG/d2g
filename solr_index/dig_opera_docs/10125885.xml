@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125885</field>
+<field name="genre">Operas</field>
+<field name="title">La rinnegata</field>
+<field name="titleSort">rinnegata</field>
+<field name="composer">António Reparaz</field>
+<field name="composerSort">Reparaz, António</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Lorenzo Badioli</field>
+<field name="librettistSort">Badioli, Lorenzo</field>
+
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rinnegata+António+Reparaz&amp;search_field=search</field>
+</doc>
+</add>

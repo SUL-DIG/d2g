@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130373</field>
+<field name="genre">Operas</field>
+<field name="title">Die Drillinge</field>
+<field name="titleSort">Drillinge</field>
+<field name="composer">Franz Xaver Süssmayr</field>
+<field name="composerSort">Süssmayr, Franz Xaver</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Beda Plank</field>
+<field name="librettistSort">Plank, Beda</field>
+<field name="librettist">Christian Friedrich Bonin</field>
+<field name="librettistSort">Bonin, Christian Friedrich</field>
+<field name="theater">Stifttheater</field>
+<field name="city">Kremsmünster</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Drillinge+Franz+Xaver+Süssmayr&amp;search_field=search</field>
+</doc>
+</add>

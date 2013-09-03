@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129389</field>
+<field name="genre">Operas</field>
+<field name="title">The Franklin's Tale</field>
+<field name="titleSort">Franklin's Tale</field>
+<field name="composer">Noel Sokoloff</field>
+<field name="composerSort">Sokoloff, Noel</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Ted Hart</field>
+<field name="librettistSort">Hart, Ted</field>
+<field name="librettist">Geoffrey Chaucer</field>
+<field name="librettistSort">Chaucer, Geoffrey</field>
+<field name="theater">Louisiana State University</field>
+<field name="city">Baton Rouge</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Franklin's+Tale+Noel+Sokoloff&amp;search_field=search</field>
+</doc>
+</add>

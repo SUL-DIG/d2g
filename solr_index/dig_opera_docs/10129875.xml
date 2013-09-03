@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129875</field>
+<field name="genre">Operas</field>
+<field name="title">"The Patriot, or The Hermit of Saxellen</field>
+<field name="titleSort">"Patriot, or Hermit of Saxellen"</field>
+<field name="composer">John Stevenson</field>
+<field name="composerSort">Stevenson, John</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Henry Brereton Code</field>
+<field name="librettistSort">Code, Henry Brereton</field>
+<field name="theater">Hibernian Theatre</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Patriot,+or+The+Hermit+of+Saxellen+John+Stevenson&amp;search_field=search</field>
+</doc>
+</add>

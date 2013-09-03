@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201537</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giacobbe in Egitto</field>
+		<field name="titleSort">Giacobbe in Egitto</field>
+		<field name="year">1780</field>
+		
+		
+		<field name="date">1780</field>
+		<field name="composer">Gaspare Gabellone</field>
+		<field name="composerSort">Gabellone, Gaspare</field>
+		
+		
+		<field name="theater">Convento di San Francesco</field>
+		<field name="city">Cava de' Tirreni</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jacob in Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacobbe+in+Egitto+Gaspare+Gabellone&amp;search_field=search</field>
+	</doc></add>

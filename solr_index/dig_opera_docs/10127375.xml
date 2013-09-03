@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127375</field>
+<field name="genre">Operas</field>
+<field name="title">O piratis (The Pirate)</field>
+<field name="titleSort">piratis (The Pirate)</field>
+<field name="composer">Theofrastos Sakellarides</field>
+<field name="composerSort">Sakellarides, Theofrastos</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Polyvios Dimitrakopoulos</field>
+<field name="librettistSort">Dimitrakopoulos, Polyvios</field>
+
+<field name="city">Olympia</field>
+<field name="region">Ilia</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+piratis+The+Pirate+Theofrastos+Sakellarides&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114024</field>
+<field name="genre">Operas</field>
+<field name="title">Der Märchenonkel</field>
+<field name="titleSort">Märchenonkel</field>
+<field name="composer">Wilhelm Henze</field>
+<field name="composerSort">Henze, Wilhelm</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Kurt Küchler</field>
+<field name="librettistSort">Küchler, Kurt</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Märchenonkel+Wilhelm+Henze&amp;search_field=search</field>
+</doc>
+</add>

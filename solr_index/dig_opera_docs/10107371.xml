@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107371</field>
+<field name="genre">Operas</field>
+<field name="title">Les chevaux-légers</field>
+<field name="titleSort">chevaux-légers</field>
+<field name="composer">__ Delacroix</field>
+<field name="composerSort">Delacroix, __</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Orléans</field>
+<field name="region">Loiret</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+chevaux-légers+__+Delacroix&amp;search_field=search</field>
+</doc>
+</add>

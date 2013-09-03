@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108819</field>
+<field name="genre">Operas</field>
+<field name="title">Friedens Sieg</field>
+<field name="titleSort">Friedens Sieg</field>
+<field name="composer">Elisabeth Sophie Herzogin von Braunschweig</field>
+<field name="composerSort">Braunschweig, Elisabeth Sophie Herzogin von</field>
+<field name="year">1642</field>
+<field name="date">1642</field>
+<field name="librettist">Justus Georg Schottelius</field>
+<field name="librettistSort">Schottelius, Justus Georg</field>
+<field name="theater">Fürstliches Burgsaal</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Friedens+Sieg+Elisabeth+Sophie+Herzogin+von+Braunschweig&amp;search_field=search</field>
+</doc>
+</add>

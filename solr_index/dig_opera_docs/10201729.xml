@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201729</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La glorie del Santissimo Rosario</field>
+		<field name="titleSort">glorie del Santissimo Rosario</field>
+		<field name="year">1722</field>
+		<field name="month">October</field>
+		<field name="day">6</field>
+		<field name="date">October 6, 1722</field>
+		<field name="composer">Leonardo Vinci</field>
+		<field name="composerSort">Vinci, Leonardo</field>
+		
+		
+		<field name="theater">Convento di Santa Caterina а Formiello</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+glorie+del+Santissimo+Rosario+Leonardo+Vinci&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110827</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo della costanza in Statira</field>
+<field name="titleSort">trionfo della costanza in Statira</field>
+<field name="composer">Antonio Galeazzi</field>
+<field name="composerSort">Galeazzi, Antonio</field>
+<field name="year">1731</field>
+<field name="date">1731</field>
+<field name="librettist">Bartolomeo Vitturi</field>
+<field name="librettistSort">Vitturi, Bartolomeo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+costanza+in+Statira+Antonio+Galeazzi&amp;search_field=search</field>
+</doc>
+</add>

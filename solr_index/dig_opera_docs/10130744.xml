@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130744</field>
+<field name="genre">Operas</field>
+<field name="title">Guerras do alecrim</field>
+<field name="titleSort">Guerras do alecrim</field>
+<field name="composer">António Teixeira</field>
+<field name="composerSort">Teixeira, António</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">António José da Silva</field>
+<field name="librettistSort">Silva, António José da</field>
+<field name="theater">Teatro de Bairro Alto</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guerras+do+alecrim+António+Teixeira&amp;search_field=search</field>
+</doc>
+</add>

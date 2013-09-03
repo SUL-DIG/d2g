@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102389</field>
+<field name="genre">Operas</field>
+<field name="title">Le messageur d'amour</field>
+<field name="titleSort">messageur d'amour</field>
+<field name="composer">Camille Benoit</field>
+<field name="composerSort">Benoit, Camille</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Maxime Boucheron</field>
+<field name="librettistSort">Boucheron, Maxime</field>
+
+<field name="city">Saint-Nectaire</field>
+<field name="region">Puy-de-Dôme</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+messageur+d'amour+Camille+Benoit&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105850</field>
+<field name="genre">Operas</field>
+<field name="title">P. L. M.</field>
+<field name="titleSort">P. L. M.</field>
+<field name="composer">Henri Christiné</field>
+<field name="composerSort">Christiné, Henri</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">[Georges Thenon] Rip</field>
+<field name="librettistSort">Rip, [Georges Thenon]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=P.+L.+M.+Henri+Christiné&amp;search_field=search</field>
+</doc>
+</add>

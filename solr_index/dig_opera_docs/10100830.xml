@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100830</field>
+<field name="genre">Operas</field>
+<field name="title">Cleopatra</field>
+<field name="titleSort">Cleopatra</field>
+<field name="composer">Christoph Friedrich Anschütz</field>
+<field name="composerSort">Anschütz, Christoph Friedrich</field>
+<field name="year">1686</field>
+<field name="date">1686</field><field name="theater">Komödienhaus</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleopatra+Christoph+Friedrich+Anschütz&amp;search_field=search</field>
+</doc>
+</add>

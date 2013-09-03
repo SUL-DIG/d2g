@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116855</field>
+<field name="genre">Operas</field>
+<field name="title">Cleopatra</field>
+<field name="titleSort">Cleopatra</field>
+<field name="composer">Johann Sigismund Kusser</field>
+<field name="composerSort">Kusser, Johann Sigismund</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Friedrich Christian Bressand</field>
+<field name="librettistSort">Bressand, Friedrich Christian</field>
+<field name="theater">Rathaus</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleopatra+Johann+Sigismund+Kusser&amp;search_field=search</field>
+</doc>
+</add>

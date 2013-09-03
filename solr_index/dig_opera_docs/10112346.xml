@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112346</field>
+<field name="genre">Operas</field>
+<field name="title">The Oracle</field>
+<field name="titleSort">Oracle</field>
+<field name="composer">Adolph Gollmick</field>
+<field name="composerSort">Gollmick, Adolph</field>
+<field name="year">1864</field>
+<field name="date">1864</field><field name="theater">Bijou Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Oracle+Adolph+Gollmick&amp;search_field=search</field>
+</doc>
+</add>

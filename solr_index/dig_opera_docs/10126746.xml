@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126746</field>
+<field name="genre">Operas</field>
+<field name="title">"Baldovino, tiranno di Spoleto</field>
+<field name="titleSort">"Baldovino, tiranno di Spoleto"</field>
+<field name="composer">Lauro Rossi</field>
+<field name="composerSort">Rossi, Lauro</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">__ Servi</field>
+<field name="librettistSort">Servi, __</field>
+<field name="librettist">Antonio Peracchi</field>
+<field name="librettistSort">Peracchi, Antonio</field>
+<field name="theater">Palazzo Contini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baldovino,+tiranno+di+Spoleto+Lauro+Rossi&amp;search_field=search</field>
+</doc>
+</add>

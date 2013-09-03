@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131831</field>
+<field name="genre">Operas</field>
+<field name="title">Il bacio</field>
+<field name="titleSort">bacio</field>
+<field name="composer">Mattia Vento</field>
+<field name="composerSort">Vento, Mattia</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Carlo Francesco Badini</field>
+<field name="librettistSort">Badini, Carlo Francesco</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bacio+Mattia+Vento&amp;search_field=search</field>
+</doc>
+</add>

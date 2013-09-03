@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120054</field>
+<field name="genre">Operas</field>
+<field name="title">Song of Pegasus</field>
+<field name="titleSort">Song of Pegasus</field>
+<field name="composer">Ron McFarland</field>
+<field name="composerSort">McFarland, Ron</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Maria Woodward</field>
+<field name="librettistSort">Woodward, Maria</field>
+<field name="theater">Ebenezer Lutheran Church</field>
+<field name="city">San Francisco</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Song+of+Pegasus+Ron+McFarland&amp;search_field=search</field>
+</doc>
+</add>

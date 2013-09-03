@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112610</field>
+<field name="genre">Operas</field>
+<field name="title">La festa d'Imeneo</field>
+<field name="titleSort">festa d'Imeneo</field>
+<field name="composer">Carl Heinrich Graun</field>
+<field name="composerSort">Graun, Carl Heinrich</field>
+<field name="year">1744</field>
+<field name="date">1744</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+festa+d'Imeneo+Carl+Heinrich+Graun&amp;search_field=search</field>
+</doc>
+</add>

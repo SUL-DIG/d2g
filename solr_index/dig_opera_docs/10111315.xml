@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111315</field>
+<field name="genre">Operas</field>
+<field name="title">"Sophie et Moncars, ou L'intrigue portuguaise</field>
+<field name="titleSort">"Sophie et Moncars, ou L'intrigue portuguaise"</field>
+<field name="composer">Pierre Gaveaux</field>
+<field name="composerSort">Gaveaux, Pierre</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Jean-Henry Guy</field>
+<field name="librettistSort">Guy, Jean-Henry</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sophie+et+Moncars,+ou+L'intrigue+portuguaise+Pierre+Gaveaux&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100719</field>
+<field name="genre">Operas</field>
+<field name="title">"La principessa filosofa, ossia Il contravveleno</field>
+<field name="titleSort">"principessa filosofa, ossia Il contravveleno"</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Simeone Antonio Sografi</field>
+<field name="librettistSort">Sografi, Simeone Antonio</field>
+<field name="librettist">Augustín Moreto</field>
+<field name="librettistSort">Moreto, Augustín</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+principessa+filosofa,+ossia+Il+contravveleno+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

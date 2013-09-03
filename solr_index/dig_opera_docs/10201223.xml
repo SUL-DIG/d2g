@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201223</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther, die Erlösung des jüdischen Volkes</field>
+		<field name="titleSort">Esther, die Erlösung des jüdischen Volkes</field>
+		<field name="year">1766</field>
+		<field name="month">March</field>
+		<field name="day">28</field>
+		<field name="date">March 28, 1766</field>
+		<field name="composer">Alexius Molitor</field>
+		<field name="composerSort">Molitor, Alexius</field>
+		
+		
+		<field name="theater">Kurfürstliches Schloss</field>
+		<field name="city">Mainz</field>
+		<field name="region">Rheinland-Pfalz</field>
+		<field name="country">Germany</field>
+		<field name="subject">Esther saves her people</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther,+die+Erlösung+des+jüdischen+Volkes+Alexius+Molitor&amp;search_field=search</field>
+	</doc></add>

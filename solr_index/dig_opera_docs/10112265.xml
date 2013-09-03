@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112265</field>
+<field name="genre">Operas</field>
+<field name="title">Malpopita</field>
+<field name="titleSort">Malpopita</field>
+<field name="composer">Walter Goehr</field>
+<field name="composerSort">Goehr, Walter</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Robert Seitz</field>
+<field name="librettistSort">Seitz, Robert</field>
+<field name="theater">Radio Berlin</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malpopita+Walter+Goehr&amp;search_field=search</field>
+</doc>
+</add>

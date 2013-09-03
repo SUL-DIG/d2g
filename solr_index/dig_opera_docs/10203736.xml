@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203736</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrifizio d'Isacco</field>
+		<field name="titleSort">sacrifizio d'Isacco</field>
+		<field name="year">1707</field>
+		<field name="month">April</field>
+		<field name="day">22</field>
+		<field name="date">April 22, 1707</field>
+		<field name="composer">Marc Antonio Ziani</field>
+		<field name="composerSort">Ziani, Marc Antonio</field>
+		<field name="librettist">Pietro Antonio Bernardoni</field>
+		<field name="librettistSort">Bernardoni, Pietro Antonio</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrifizio+d'Isacco+Marc+Antonio+Ziani&amp;search_field=search</field>
+	</doc></add>

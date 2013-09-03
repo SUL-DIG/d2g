@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113750</field>
+<field name="genre">Operas</field>
+<field name="title">Adel i Mara</field>
+<field name="titleSort">Adel i Mara</field>
+<field name="composer">Josip Hatze</field>
+<field name="composerSort">Hatze, Josip</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Branko Radica</field>
+<field name="librettistSort">Radica, Branko</field>
+<field name="librettist">Niko Bartulovic</field>
+<field name="librettistSort">Bartulovic, Niko</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adel+i+Mara+Josip+Hatze&amp;search_field=search</field>
+</doc>
+</add>

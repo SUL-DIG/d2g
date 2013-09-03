@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111092</field>
+<field name="genre">Operas</field>
+<field name="title">Alice Through the Looking Glass</field>
+<field name="titleSort">Alice Through the Looking Glass</field>
+<field name="composer">Julian Gardiner</field>
+<field name="composerSort">Gardiner, Julian</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistSort">Carroll, Lewis [Charles Lutwidge Dodgson]</field>
+<field name="theater">Acting School</field>
+<field name="city">Loughton</field>
+<field name="region">Essex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+Through+the+Looking+Glass+Julian+Gardiner&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128563</field>
+<field name="genre">Operas</field>
+<field name="title">Quo vadis?</field>
+<field name="titleSort">Quo vadis?</field>
+<field name="composer">Nicasius Schusser</field>
+<field name="composerSort">Schusser, Nicasius</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">Henryk Sienkiewicz</field>
+<field name="librettistSort">Sienkiewicz, Henryk</field>
+
+<field name="city">Jablonec nad Nisou</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quo+vadis?+Nicasius+Schusser&amp;search_field=search</field>
+</doc>
+</add>

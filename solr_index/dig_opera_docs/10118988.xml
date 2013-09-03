@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118988</field>
+<field name="genre">Operas</field>
+<field name="title">La pupazzetta</field>
+<field name="titleSort">pupazzetta</field>
+<field name="composer">Luigi Malferrari</field>
+<field name="composerSort">Malferrari, Luigi</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Alfredo Testoni</field>
+<field name="librettistSort">Testoni, Alfredo</field>
+<field name="theater">Circolo Artistico</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pupazzetta+Luigi+Malferrari&amp;search_field=search</field>
+</doc>
+</add>

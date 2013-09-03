@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112679</field>
+<field name="genre">Operas</field>
+<field name="title">Slädpartiet (The Sledging Party)</field>
+<field name="titleSort">Slädpartiet (The Sledging Party)</field>
+<field name="composer">Johan Fredrik Grenser</field>
+<field name="composerSort">Grenser, Johan Fredrik</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Carl Gustaf von Holthusen</field>
+<field name="librettistSort">Holthusen, Carl Gustaf von</field>
+
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slädpartiet+The+Sledging+Party+Johan+Fredrik+Grenser&amp;search_field=search</field>
+</doc>
+</add>

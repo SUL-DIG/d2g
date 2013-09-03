@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115520</field>
+<field name="genre">Operas</field>
+<field name="title">Mlynárka z Granady (Miller's Wife of Granada)</field>
+<field name="titleSort">Mlynárka z Granady (Miller's Wife of Granada)</field>
+<field name="composer">Julius Kalas</field>
+<field name="composerSort">Kalas, Julius</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Karel Konstantin</field>
+<field name="librettistSort">Konstantin, Karel</field>
+<field name="librettist">Karel Hrncír</field>
+<field name="librettistSort">Hrncír, Karel</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mlynárka+z+Granady+Miller's+Wife+of+Granada+Julius+Kalas&amp;search_field=search</field>
+</doc>
+</add>

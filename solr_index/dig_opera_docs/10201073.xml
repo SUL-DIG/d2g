@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201073</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ecce homo</field>
+		<field name="titleSort">Ecce homo</field>
+		<field name="year">1980</field>
+		
+		
+		<field name="date">1980</field>
+		<field name="composer">Jan Hanus</field>
+		<field name="composerSort">Hanus, Jan</field>
+		<field name="librettist">Václav Renc</field>
+		<field name="librettistSort">Renc, Václav</field>
+		<field name="librettist">Frantisek Trtilek</field>
+		<field name="librettistSort">Trtilek, Frantisek</field>
+		
+		
+		
+		
+		<field name="subject">Christ before Pilate</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ecce+homo+Jan+Hanus&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115182</field>
+<field name="genre">Operas</field>
+<field name="title">Padurea vulturilor (The Forest with Vultures)</field>
+<field name="titleSort">Padurea vulturilor (The Forest with Vultures)</field>
+<field name="composer">Tudor Jarda</field>
+<field name="composerSort">Jarda, Tudor</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Constantin-Liviu Rusu</field>
+<field name="librettistSort">Rusu, Constantin-Liviu</field>
+<field name="librettist">Pompiliu Galmeanu</field>
+<field name="librettistSort">Galmeanu, Pompiliu</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Cluj-Napoca</field>
+<field name="region">Cluj</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Padurea+vulturilor+The+Forest+with+Vultures+Tudor+Jarda&amp;search_field=search</field>
+</doc>
+</add>

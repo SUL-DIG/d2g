@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121824</field>
+<field name="genre">Operas</field>
+<field name="title">Ipermestra</field>
+<field name="titleSort">Ipermestra</field>
+<field name="composer">Johann Gottlieb Naumann</field>
+<field name="composerSort">Naumann, Johann Gottlieb</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ipermestra+Johann+Gottlieb+Naumann&amp;search_field=search</field>
+</doc>
+</add>

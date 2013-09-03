@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118489</field>
+<field name="genre">Operas</field>
+<field name="title">Schneider Wibbel</field>
+<field name="titleSort">Schneider Wibbel</field>
+<field name="composer">Mark Lothar</field>
+<field name="composerSort">Lothar, Mark</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Hans Müller-Schlösseer</field>
+<field name="librettistSort">Müller-Schlösseer, Hans</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneider+Wibbel+Mark+Lothar&amp;search_field=search</field>
+</doc>
+</add>

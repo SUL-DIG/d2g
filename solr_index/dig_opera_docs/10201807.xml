@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201807</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der heilige Augustinus</field>
+		<field name="titleSort">heilige Augustinus</field>
+		<field name="year">1924</field>
+		<field name="month">June</field>
+		
+		<field name="date">June 1924</field>
+		<field name="composer">Franz Xaver Müller</field>
+		<field name="composerSort">Müller, Franz Xaver</field>
+		<field name="librettist">Franz Xaver Müller</field>
+		<field name="librettistSort">Müller, Franz Xaver</field>
+		
+		<field name="theater">Turnfesthalle</field>
+		<field name="city">Linz</field>
+		<field name="region">Oberösterreich</field>
+		<field name="country">Austria</field>
+		<field name="subject">Saint Augustine</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">November 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+heilige+Augustinus+Franz+Xaver+Müller&amp;search_field=search</field>
+	</doc></add>

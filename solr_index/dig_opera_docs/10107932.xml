@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107932</field>
+<field name="genre">Operas</field>
+<field name="title">Alahor in Granata</field>
+<field name="titleSort">Alahor in Granata</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1826</field>
+<field name="date">1826</field><field name="theater">Real Teatro Carolino</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alahor+in+Granata+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124021</field>
+<field name="genre">Operas</field>
+<field name="title">Wozzeck</field>
+<field name="titleSort">Wozzeck</field>
+<field name="composer">Kurt Pfister</field>
+<field name="composerSort">Pfister, Kurt</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Georg Büchner</field>
+<field name="librettistSort">Büchner, Georg</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wozzeck+Kurt+Pfister&amp;search_field=search</field>
+</doc>
+</add>

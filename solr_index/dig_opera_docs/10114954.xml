@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114954</field>
+<field name="genre">Operas</field>
+<field name="title">Asya</field>
+<field name="titleSort">Asya</field>
+<field name="composer">Mikhail Mikhaylovich Ippolitov-Ivanov</field>
+<field name="composerSort">Ippolitov-Ivanov, Mikhail Mikhaylovich</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Nikolay Aleksandrovich Manykin-Nevstruev</field>
+<field name="librettistSort">Manykin-Nevstruev, Nikolay Aleksandrovich</field>
+<field name="librettist">Ivan Sergeyevich Turgenev</field>
+<field name="librettistSort">Turgenev, Ivan Sergeyevich</field>
+<field name="theater">Teatr Solodovnikov</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Asya+Mikhail+Mikhaylovich+Ippolitov-Ivanov&amp;search_field=search</field>
+</doc>
+</add>

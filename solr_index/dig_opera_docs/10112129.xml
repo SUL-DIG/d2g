@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112129</field>
+<field name="genre">Operas</field>
+<field name="title">Akhnaten</field>
+<field name="titleSort">Akhnaten</field>
+<field name="composer">Philip Glass</field>
+<field name="composerSort">Glass, Philip</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Philip Glass</field>
+<field name="librettistSort">Glass, Philip</field>
+<field name="librettist">Shalom Goldman</field>
+<field name="librettistSort">Goldman, Shalom</field>
+<field name="theater">Württembergisches Staatsoper</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Akhnaten+Philip+Glass&amp;search_field=search</field>
+</doc>
+</add>

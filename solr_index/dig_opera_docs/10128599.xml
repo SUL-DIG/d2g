@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128599</field>
+<field name="genre">Operas</field>
+<field name="title">Die Richterin</field>
+<field name="titleSort">Richterin</field>
+<field name="composer">Karl Schwab</field>
+<field name="composerSort">Schwab, Karl</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Georg Sigmund</field>
+<field name="librettistSort">Sigmund, Georg</field>
+<field name="librettist">Conrad Ferdinand Meyer</field>
+<field name="librettistSort">Meyer, Conrad Ferdinand</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Rostock</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Richterin+Karl+Schwab&amp;search_field=search</field>
+</doc>
+</add>

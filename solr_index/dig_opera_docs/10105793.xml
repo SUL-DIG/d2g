@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105793</field>
+<field name="genre">Operas</field>
+<field name="title">La birba</field>
+<field name="titleSort">birba</field>
+<field name="composer">Buono Giuseppe Chiodi</field>
+<field name="composerSort">Chiodi, Buono Giuseppe</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+
+<field name="city">Santiago de Compostella</field>
+<field name="region">Galicia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+birba+Buono+Giuseppe+Chiodi&amp;search_field=search</field>
+</doc>
+</add>

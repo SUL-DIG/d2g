@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114796</field>
+<field name="genre">Operas</field>
+<field name="title">The Village Coquettes</field>
+<field name="titleSort">Village Coquettes</field>
+<field name="composer">John Pyke Hullah</field>
+<field name="composerSort">Hullah, John Pyke</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Saint James's Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Village+Coquettes+John+Pyke+Hullah&amp;search_field=search</field>
+</doc>
+</add>

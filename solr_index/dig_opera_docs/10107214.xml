@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107214</field>
+<field name="genre">Operas</field>
+<field name="title">Taverner</field>
+<field name="titleSort">Taverner</field>
+<field name="composer">Peter Maxwell Davies</field>
+<field name="composerSort">Davies, Peter Maxwell</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Peter Maxwell Davies</field>
+<field name="librettistSort">Davies, Peter Maxwell</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Taverner+Peter+Maxwell+Davies&amp;search_field=search</field>
+</doc>
+</add>

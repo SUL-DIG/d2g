@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113448</field>
+<field name="genre">Operas</field>
+<field name="title">Marie Grubbe</field>
+<field name="titleSort">Marie Grubbe</field>
+<field name="composer">Ebbe Hamerik</field>
+<field name="composerSort">Hamerik, Ebbe</field>
+<field name="year">1940</field>
+<field name="date">1940</field>
+<field name="librettist">Fredrik Nygaard</field>
+<field name="librettistSort">Nygaard, Fredrik</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie+Grubbe+Ebbe+Hamerik&amp;search_field=search</field>
+</doc>
+</add>

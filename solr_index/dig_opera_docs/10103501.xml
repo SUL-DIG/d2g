@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103501</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Bovary</field>
+<field name="titleSort">Madame Bovary</field>
+<field name="composer">Emmanuel Bondeville</field>
+<field name="composerSort">Bondeville, Emmanuel</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">René Fauchois</field>
+<field name="librettistSort">Fauchois, René</field>
+<field name="librettist">Gustave Flaubert</field>
+<field name="librettistSort">Flaubert, Gustave</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Bovary+Emmanuel+Bondeville&amp;search_field=search</field>
+</doc>
+</add>

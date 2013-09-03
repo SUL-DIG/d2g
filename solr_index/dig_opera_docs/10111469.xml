@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111469</field>
+<field name="genre">Operas</field>
+<field name="title">Nisida</field>
+<field name="titleSort">Nisida</field>
+<field name="composer">Richard Genée</field>
+<field name="composerSort">Genée, Richard</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">[Moritz Georg Nitzelberger] Moritz West</field>
+<field name="librettistSort">West, Moritz [Moritz Georg Nitzelberger]</field>
+<field name="librettist">[Camillo Walzel] F. Zell</field>
+<field name="librettistSort">Zell, F. [Camillo Walzel]</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nisida+Richard+Genée&amp;search_field=search</field>
+</doc>
+</add>

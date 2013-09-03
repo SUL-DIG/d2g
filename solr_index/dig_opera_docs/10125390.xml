@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125390</field>
+<field name="genre">Operas</field>
+<field name="title">"Mârouf, savetier du Caire</field>
+<field name="titleSort">"Mârouf, savetier du Caire"</field>
+<field name="composer">Henri Rabaud</field>
+<field name="composerSort">Rabaud, Henri</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Lucien Népoty</field>
+<field name="librettistSort">Népoty, Lucien</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mârouf,+savetier+du+Caire+Henri+Rabaud&amp;search_field=search</field>
+</doc>
+</add>

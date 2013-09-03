@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112739</field>
+<field name="genre">Operas</field>
+<field name="title">Panurge dans l'île des lanternes</field>
+<field name="titleSort">Panurge dans l'île des lanternes</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Étienne Morel de Chédeville</field>
+<field name="librettistSort">Chédeville, Étienne Morel de</field>
+<field name="librettist">François Parfaict</field>
+<field name="librettistSort">Parfaict, François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Panurge+dans+l'île+des+lanternes+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

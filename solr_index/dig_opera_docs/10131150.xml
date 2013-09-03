@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131150</field>
+<field name="genre">Operas</field>
+<field name="title">Mann und Frau</field>
+<field name="titleSort">Mann und Frau</field>
+<field name="composer">Johann Tost</field>
+<field name="composerSort">Tost, Johann</field>
+<field name="year">1786</field>
+<field name="date">1786</field><field name="theater">Komödienhaus</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mann+und+Frau+Johann+Tost&amp;search_field=search</field>
+</doc>
+</add>

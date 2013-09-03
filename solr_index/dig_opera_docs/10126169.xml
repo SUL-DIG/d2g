@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126169</field>
+<field name="genre">Operas</field>
+<field name="title">Le magot de la Chine</field>
+<field name="titleSort">magot de la Chine</field>
+<field name="composer">Henri-Joseph Rigel</field>
+<field name="composerSort">Rigel, Henri-Joseph</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Louis Hurtaut Dancourt</field>
+<field name="librettistSort">Dancourt, Louis Hurtaut</field>
+<field name="theater">Théâtre de l'Ambigu-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+magot+de+la+Chine+Henri-Joseph+Rigel&amp;search_field=search</field>
+</doc>
+</add>

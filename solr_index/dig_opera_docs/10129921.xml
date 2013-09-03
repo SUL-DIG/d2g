@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129921</field>
+<field name="genre">Operas</field>
+<field name="title">Sein Lied</field>
+<field name="titleSort">Sein Lied</field>
+<field name="composer">Kuno Stierlin</field>
+<field name="composerSort">Stierlin, Kuno</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Hans Brennert</field>
+<field name="librettistSort">Brennert, Hans</field>
+<field name="librettist">Leon Treptow</field>
+<field name="librettistSort">Treptow, Leon</field>
+<field name="theater">Theater des Konservatoriums</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sein+Lied+Kuno+Stierlin&amp;search_field=search</field>
+</doc>
+</add>

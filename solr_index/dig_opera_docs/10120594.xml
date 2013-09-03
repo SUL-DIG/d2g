@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120594</field>
+<field name="genre">Operas</field>
+<field name="title">Zulma</field>
+<field name="titleSort">Zulma</field>
+<field name="composer">Raffaele de Miero</field>
+<field name="composerSort">Miero, Raffaele de</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Arturo Colautti</field>
+<field name="librettistSort">Colautti, Arturo</field>
+<field name="librettist">Maurice Chassang</field>
+<field name="librettistSort">Chassang, Maurice</field>
+<field name="theater">Théâtre Réjane</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zulma+Raffaele+de+Miero&amp;search_field=search</field>
+</doc>
+</add>

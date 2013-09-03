@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132716</field>
+<field name="genre">Operas</field>
+<field name="title">Kocourkov</field>
+<field name="titleSort">Kocourkov</field>
+<field name="composer">Jaromír Weinberger</field>
+<field name="composerSort">Weinberger, Jaromír</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kocourkov+Jaromír+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

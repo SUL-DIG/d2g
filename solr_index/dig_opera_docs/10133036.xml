@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133036</field>
+<field name="genre">Operas</field>
+<field name="title">"Das Labyrinth, oder Der Kampf mit den Elementen</field>
+<field name="titleSort">"Labyrinth, oder Der Kampf mit den Elementen"</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Labyrinth,+oder+Der+Kampf+mit+den+Elementen+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131973</field>
+<field name="genre">Operas</field>
+<field name="title">Iomrall Aithne (Mistaken Identity)</field>
+<field name="titleSort">Iomrall Aithne (Mistaken Identity)</field>
+<field name="composer">Gerard Victory</field>
+<field name="composerSort">Victory, Gerard</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Gerard Victory</field>
+<field name="librettistSort">Victory, Gerard</field>
+<field name="theater">Abbey Theatre</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iomrall+Aithne+Mistaken+Identity+Gerard+Victory&amp;search_field=search</field>
+</doc>
+</add>

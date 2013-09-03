@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126849</field>
+<field name="genre">Operas</field>
+<field name="title">Der goldene Kamerad</field>
+<field name="titleSort">goldene Kamerad</field>
+<field name="composer">Louis Roth</field>
+<field name="composerSort">Roth, Louis</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Hermann Hirschel</field>
+<field name="librettistSort">Hirschel, Hermann</field>
+<field name="theater">Theater unter den Linden</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+goldene+Kamerad+Louis+Roth&amp;search_field=search</field>
+</doc>
+</add>

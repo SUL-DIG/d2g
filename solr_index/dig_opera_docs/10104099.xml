@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104099</field>
+<field name="genre">Operas</field>
+<field name="title">Le soulier de Madelon</field>
+<field name="titleSort">soulier de Madelon</field>
+<field name="composer">Henri Bresles</field>
+<field name="composerSort">Bresles, Henri</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Hey Niger</field>
+<field name="librettistSort">Niger, Hey</field>
+<field name="theater">Salle des fêtes du Casino</field>
+<field name="city">Enghien-les-Bains</field>
+<field name="region">Val-d'Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+soulier+de+Madelon+Henri+Bresles&amp;search_field=search</field>
+</doc>
+</add>

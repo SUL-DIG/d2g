@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119233</field>
+<field name="genre">Operas</field>
+<field name="title">La sentenza</field>
+<field name="titleSort">sentenza</field>
+<field name="composer">Giacomo Manzoni</field>
+<field name="composerSort">Manzoni, Giacomo</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Emilio Jona</field>
+<field name="librettistSort">Jona, Emilio</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sentenza+Giacomo+Manzoni&amp;search_field=search</field>
+</doc>
+</add>

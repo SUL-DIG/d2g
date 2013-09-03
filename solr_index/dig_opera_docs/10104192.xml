@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104192</field>
+<field name="genre">Operas</field>
+<field name="title">Das ist die Liebe</field>
+<field name="titleSort">ist die Liebe</field>
+<field name="composer">Walter Bromme</field>
+<field name="composerSort">Bromme, Walter</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Hugo Döblin</field>
+<field name="librettistSort">Döblin, Hugo</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+ist+die+Liebe+Walter+Bromme&amp;search_field=search</field>
+</doc>
+</add>

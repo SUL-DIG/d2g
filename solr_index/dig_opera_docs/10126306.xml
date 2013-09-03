@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126306</field>
+<field name="genre">Operas</field>
+<field name="title">Der faule Hans</field>
+<field name="titleSort">faule Hans</field>
+<field name="composer">Alexander Ritter</field>
+<field name="composerSort">Ritter, Alexander</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Karl Alexander Ritter</field>
+<field name="librettistSort">Ritter, Karl Alexander</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+faule+Hans+Alexander+Ritter&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115010</field>
+<field name="genre">Operas</field>
+<field name="title">Le déjeuner de garçons</field>
+<field name="titleSort">déjeuner de garçons</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Augustin-François Creuzé de Lesser</field>
+<field name="librettistSort">Creuzé de Lesser, Augustin-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+déjeuner+de+garçons+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

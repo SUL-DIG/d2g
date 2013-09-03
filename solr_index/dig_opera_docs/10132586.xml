@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132586</field>
+<field name="genre">Operas</field>
+<field name="title">Rosita</field>
+<field name="titleSort">Rosita</field>
+<field name="composer">Edmond Weber</field>
+<field name="composerSort">Weber, Edmond</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">__ Longchamps</field>
+<field name="librettistSort">Longchamps, __</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Angers</field>
+<field name="region">Maine-et-Loire</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosita+Edmond+Weber&amp;search_field=search</field>
+</doc>
+</add>

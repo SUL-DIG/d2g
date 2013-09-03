@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111097</field>
+<field name="genre">Operas</field>
+<field name="title">The Visitors</field>
+<field name="titleSort">Visitors</field>
+<field name="composer">John Gardner</field>
+<field name="composerSort">Gardner, John</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">John Ormerod Greenwood</field>
+<field name="librettistSort">Greenwood, John Ormerod</field>
+<field name="theater">Jubilee Hall</field>
+<field name="city">Aldeburgh</field>
+<field name="region">Suffolk</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Visitors+John+Gardner&amp;search_field=search</field>
+</doc>
+</add>

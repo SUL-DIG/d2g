@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132317</field>
+<field name="genre">Operas</field>
+<field name="title">Králuv mincmistr (Master of the King's Mint)</field>
+<field name="titleSort">Králuv mincmistr (Master of the King's Mint)</field>
+<field name="composer">Zbynék Vostrák</field>
+<field name="composerSort">Vostrák, Zbynék</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Josef Bachtík</field>
+<field name="librettistSort">Bachtík, Josef</field>
+<field name="librettist">Josef Kajetán Tyl</field>
+<field name="librettistSort">Tyl, Josef Kajetán</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Králuv+mincmistr+Master+of+the+King's+Mint+Zbynék+Vostrák&amp;search_field=search</field>
+</doc>
+</add>

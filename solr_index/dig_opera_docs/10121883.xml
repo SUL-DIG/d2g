@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121883</field>
+<field name="genre">Operas</field>
+<field name="title">"Pubblicitа, ninfa gentile</field>
+<field name="titleSort">"Pubblicitа, ninfa gentile"</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Gino Negri</field>
+<field name="librettistSort">Negri, Gino</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pubblicitа,+ninfa+gentile+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

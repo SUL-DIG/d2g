@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128624</field>
+<field name="genre">Operas</field>
+<field name="title">"Talestri, Königin der Amazonen</field>
+<field name="titleSort">"Talestri, Königin der Amazonen"</field>
+<field name="composer">Johann Gottfried Schwanenberger</field>
+<field name="composerSort">Schwanenberger, Johann Gottfried</field>
+<field name="year">1764</field>
+<field name="date">1764</field>
+<field name="librettist">"Maria Antonia Walpurgis, Churfürstin zu Sachsen"</field>
+<field name="librettistSort">Maria Antonia Walpurgis, Churfürstin zu Sachsen</field>
+<field name="theater">Grosses Hochfürstliches Theater im Opern-Hause in der Winter-Messe</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Talestri,+Königin+der+Amazonen+Johann+Gottfried+Schwanenberger&amp;search_field=search</field>
+</doc>
+</add>

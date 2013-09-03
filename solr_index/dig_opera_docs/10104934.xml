@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104934</field>
+<field name="genre">Operas</field>
+<field name="title">Leonore</field>
+<field name="titleSort">Leonore</field>
+<field name="composer">Jules Capri</field>
+<field name="composerSort">Capri, Jules</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leonore+Jules+Capri&amp;search_field=search</field>
+</doc>
+</add>

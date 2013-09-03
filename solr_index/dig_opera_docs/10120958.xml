@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120958</field>
+<field name="genre">Operas</field>
+<field name="title">La ronda di notte del Rembrandt</field>
+<field name="titleSort">ronda di notte del Rembrandt</field>
+<field name="composer">Domenico Monleone</field>
+<field name="composerSort">Monleone, Domenico</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Giovanni Monleone</field>
+<field name="librettistSort">Monleone, Giovanni</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ronda+di+notte+del+Rembrandt+Domenico+Monleone&amp;search_field=search</field>
+</doc>
+</add>

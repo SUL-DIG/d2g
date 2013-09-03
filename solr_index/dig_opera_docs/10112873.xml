@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112873</field>
+<field name="genre">Operas</field>
+<field name="title">Abenteuer in Schottland</field>
+<field name="titleSort">Abenteuer in Schottland</field>
+<field name="composer">Bernhard Grün</field>
+<field name="composerSort">Grün, Bernhard</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Paul Frank</field>
+<field name="librettistSort">Frank, Paul</field>
+<field name="librettist">Peter Herz</field>
+<field name="librettistSort">Herz, Peter</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abenteuer+in+Schottland+Bernhard+Grün&amp;search_field=search</field>
+</doc>
+</add>

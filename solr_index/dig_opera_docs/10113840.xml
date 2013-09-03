@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113840</field>
+<field name="genre">Operas</field>
+<field name="title">Eureka Stockade</field>
+<field name="titleSort">Eureka Stockade</field>
+<field name="composer">Roberto Hazon</field>
+<field name="composerSort">Hazon, Roberto</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">John Picton-Warlow</field>
+<field name="librettistSort">Picton-Warlow, John</field>
+<field name="librettist">Carlo Stransky</field>
+<field name="librettistSort">Stransky, Carlo</field>
+<field name="theater">His Majesty's Theatre</field>
+<field name="city">Perth</field>
+<field name="region">Western Australia</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eureka+Stockade+Roberto+Hazon&amp;search_field=search</field>
+</doc>
+</add>

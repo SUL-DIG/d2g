@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105860</field>
+<field name="genre">Operas</field>
+<field name="title">Tsaarin tytär ja seitsemän urosta</field>
+<field name="titleSort">Tsaarin tytär ja seitsemän urosta</field>
+<field name="composer">Kaj Chydenius</field>
+<field name="composerSort">Chydenius, Kaj</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Kaj Chydenius</field>
+<field name="librettistSort">Chydenius, Kaj</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">Carelia Hall</field>
+<field name="city">Joensuu</field>
+<field name="region">Pohjois-Karjalan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsaarin+tytär+ja+seitsemän+urosta+Kaj+Chydenius&amp;search_field=search</field>
+</doc>
+</add>

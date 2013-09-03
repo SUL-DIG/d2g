@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111619</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Liselotte</field>
+<field name="titleSort">Madame Liselotte</field>
+<field name="composer">Ottmar Gerster</field>
+<field name="composerSort">Gerster, Ottmar</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Franz Clemens</field>
+<field name="librettistSort">Clemens, Franz</field>
+<field name="librettist">Paul Ginthum</field>
+<field name="librettistSort">Ginthum, Paul</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Essen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Liselotte+Ottmar+Gerster&amp;search_field=search</field>
+</doc>
+</add>

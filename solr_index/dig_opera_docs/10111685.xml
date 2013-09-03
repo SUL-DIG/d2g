@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111685</field>
+<field name="genre">Operas</field>
+<field name="title">"Dramatodia, overo L'Aurora ingannata</field>
+<field name="titleSort">"Dramatodia, overo L'Aurora ingannata"</field>
+<field name="composer">Girolamo Giacobbi</field>
+<field name="composerSort">Giacobbi, Girolamo</field>
+<field name="year">1608</field>
+<field name="date">1608</field>
+<field name="librettist">Ridolfo Campeggi</field>
+<field name="librettistSort">Campeggi, Ridolfo"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dramatodia,+overo+L'Aurora+ingannata+Girolamo+Giacobbi&amp;search_field=search</field>
+</doc>
+</add>

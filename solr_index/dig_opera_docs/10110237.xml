@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110237</field>
+<field name="genre">Operas</field>
+<field name="title">Bacco fra i vini d'Italia</field>
+<field name="titleSort">Bacco fra i vini d'Italia</field>
+<field name="composer">Luigi Forino</field>
+<field name="composerSort">Forino, Luigi</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">G. Farnassi</field>
+<field name="librettistSort">Farnassi, G.</field>
+
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bacco+fra+i+vini+d'Italia+Luigi+Forino&amp;search_field=search</field>
+</doc>
+</add>

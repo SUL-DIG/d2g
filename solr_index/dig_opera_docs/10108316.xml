@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108316</field>
+<field name="genre">Operas</field>
+<field name="title">Claudia Amata</field>
+<field name="titleSort">Claudia Amata</field>
+<field name="composer">Johannes Driessler</field>
+<field name="composerSort">Driessler, Johannes</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Bettina Brix</field>
+<field name="librettistSort">Brix, Bettina</field>
+<field name="librettist">Gottfried Keller</field>
+<field name="librettistSort">Keller, Gottfried</field>
+<field name="theater">Lortzing-Theater</field>
+<field name="city">Münster</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudia+Amata+Johannes+Driessler&amp;search_field=search</field>
+</doc>
+</add>

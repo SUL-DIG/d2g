@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120823</field>
+<field name="genre">Operas</field>
+<field name="title">Don Eugenio</field>
+<field name="titleSort">Don Eugenio</field>
+<field name="composer">Adolf Mohr</field>
+<field name="composerSort">Mohr, Adolf</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Hermann Hirschel</field>
+<field name="librettistSort">Hirschel, Hermann</field>
+<field name="theater">Friedrich-Wilhelmstädtisches Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Eugenio+Adolf+Mohr&amp;search_field=search</field>
+</doc>
+</add>

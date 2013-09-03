@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126681</field>
+<field name="genre">Operas</field>
+<field name="title">Der Verweigerung</field>
+<field name="titleSort">Verweigerung</field>
+<field name="composer">Gerhard Rosenfeld</field>
+<field name="composerSort">Rosenfeld, Gerhard</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Gerhard Hartmann</field>
+<field name="librettistSort">Hartmann, Gerhard</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Grosses Haus am Domhof</field>
+<field name="city">Osnabrück</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Verweigerung+Gerhard+Rosenfeld&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129963</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit der Thetis</field>
+<field name="titleSort">Hochzeit der Thetis</field>
+<field name="composer">Philipp Stolle</field>
+<field name="composerSort">Stolle, Philipp</field>
+<field name="year">1654</field>
+<field name="date">1654</field><field name="theater">Hoftheater</field>
+<field name="city">Halle</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+der+Thetis+Philipp+Stolle&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126789</field>
+<field name="genre">Operas</field>
+<field name="title">Almaviva (Il barbiere di Siviglia)</field>
+<field name="titleSort">Almaviva (Il barbiere di Siviglia)</field>
+<field name="composer">Gioachino Rossini</field>
+<field name="composerSort">Rossini, Gioachino</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Cesare Sterbini</field>
+<field name="librettistSort">Sterbini, Cesare</field>
+<field name="librettist">Giuseppe Petrosellini</field>
+<field name="librettistSort">Petrosellini, Giuseppe</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almaviva+Il+barbiere+di+Siviglia+Gioachino+Rossini&amp;search_field=search</field>
+</doc>
+</add>

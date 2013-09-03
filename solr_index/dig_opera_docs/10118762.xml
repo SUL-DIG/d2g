@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118762</field>
+<field name="genre">Operas</field>
+<field name="title">L'arpa festante</field>
+<field name="titleSort">arpa festante</field>
+<field name="composer">Giovanni Battista Maccioni</field>
+<field name="composerSort">Maccioni, Giovanni Battista</field>
+<field name="year">1653</field>
+<field name="date">1653</field>
+<field name="librettist">Giovanni Battista Maccioni</field>
+<field name="librettistSort">Maccioni, Giovanni Battista</field>
+<field name="theater">Herkules-Saal in Residenz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arpa+festante+Giovanni+Battista+Maccioni&amp;search_field=search</field>
+</doc>
+</add>

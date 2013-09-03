@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117093</field>
+<field name="genre">Operas</field>
+<field name="title">Romance</field>
+<field name="titleSort">Romance</field>
+<field name="composer">Napoleon Lambelet</field>
+<field name="composerSort">Lambelet, Napoleon</field>
+<field name="year">1916</field>
+<field name="date">1916</field><field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romance+Napoleon+Lambelet&amp;search_field=search</field>
+</doc>
+</add>

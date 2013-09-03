@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110321</field>
+<field name="genre">Operas</field>
+<field name="title">La légende du pont d'Argeulan</field>
+<field name="titleSort">légende du pont d'Argeulan</field>
+<field name="composer">Félix Fourdrain</field>
+<field name="composerSort">Fourdrain, Félix</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">Arthur Bernède</field>
+<field name="librettistSort">Bernède, Arthur</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+légende+du+pont+d'Argeulan+Félix+Fourdrain&amp;search_field=search</field>
+</doc>
+</add>

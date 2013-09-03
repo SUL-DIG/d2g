@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106889</field>
+<field name="genre">Operas</field>
+<field name="title">Den lilla slafvinnan (The Little Slave Girl)</field>
+<field name="titleSort">lilla slafvinnan (The Little Slave Girl)</field>
+<field name="composer">Bernhard Henrik Crusell</field>
+<field name="composerSort">Crusell, Bernhard Henrik</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Ulrich Emanuel Mannerhjerta</field>
+<field name="librettistSort">Mannerhjerta, Ulrich Emanuel</field>
+<field name="librettist">René-Charles Guilbert de Pixérécourt</field>
+<field name="librettistSort">Pixérécourt, René-Charles Guilbert de</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Den+lilla+slafvinnan+The+Little+Slave+Girl+Bernhard+Henrik+Crusell&amp;search_field=search</field>
+</doc>
+</add>

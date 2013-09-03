@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112683</field>
+<field name="genre">Operas</field>
+<field name="title">Alceste</field>
+<field name="titleSort">Alceste</field>
+<field name="composer">Antoine-Frédéric Gresnick</field>
+<field name="composerSort">Gresnick, Antoine-Frédéric</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Carlo Francesco Badini</field>
+<field name="librettistSort">Badini, Carlo Francesco</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alceste+Antoine-Frédéric+Gresnick&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201661</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Giuditta</field>
+		<field name="titleSort">Giuditta</field>
+		<field name="year">1709</field>
+		<field name="month">November</field>
+		
+		<field name="date">November 1709</field>
+		<field name="composer">Benedetto Marcello</field>
+		<field name="composerSort">Marcello, Benedetto</field>
+		<field name="librettist">Benedetto Marcello</field>
+		<field name="librettistSort">Marcello, Benedetto</field>
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Giuditta+Benedetto+Marcello&amp;search_field=search</field>
+	</doc></add>

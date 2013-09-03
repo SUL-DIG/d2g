@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119148</field>
+<field name="genre">Operas</field>
+<field name="title">Danaé et sa bonne</field>
+<field name="titleSort">Danaé et sa bonne</field>
+<field name="composer">Sylvain Mangeant</field>
+<field name="composerSort">Mangeant, Sylvain</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Hippolyte Lefebvre</field>
+<field name="librettistSort">Lefebvre, Hippolyte</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Danaé+et+sa+bonne+Sylvain+Mangeant&amp;search_field=search</field>
+</doc>
+</add>

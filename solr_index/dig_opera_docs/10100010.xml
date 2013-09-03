@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100010</field>
+<field name="genre">Operas</field>
+<field name="title">Una partita a scacchi</field>
+<field name="titleSort">partita a scacchi</field>
+<field name="composer">Pietro Abba-Cornaglia</field>
+<field name="composerSort">Abba-Cornaglia, Pietro</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Giuseppe Giacosa</field>
+<field name="librettistSort">Giacosa, Giuseppe</field>
+<field name="theater">Teatro Fraschini</field>
+<field name="city">Pavia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+partita+a+scacchi+Pietro+Abba-Cornaglia&amp;search_field=search</field>
+</doc>
+</add>

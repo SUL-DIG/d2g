@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101244</field>
+<field name="genre">Operas</field>
+<field name="title">Was tut man nicht alles aus Liebe</field>
+<field name="titleSort">Was tut man nicht alles aus Liebe</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">[Felix Biedermann] Felix Dörmann</field>
+<field name="librettistSort">Dörmann, Felix [Felix Biedermann]</field>
+<field name="theater">Ronachers Operetten-Theater im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Was+tut+man+nicht+alles+aus+Liebe+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

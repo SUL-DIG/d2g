@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114897</field>
+<field name="genre">Operas</field>
+<field name="title">Angèlique</field>
+<field name="titleSort">Angèlique</field>
+<field name="composer">Jacques Ibert</field>
+<field name="composerSort">Ibert, Jacques</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">[Michel Veber] Nino</field>
+<field name="librettistSort">Nino, [Michel Veber]</field>
+<field name="theater">Théâtre Bériza</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angèlique+Jacques+Ibert&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103053</field>
+<field name="genre">Operas</field>
+<field name="title">Mitri</field>
+
+<field name="titleSort">Mitri</field>
+
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1722</field>
+<field name="date">1722</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro Bonacossi</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridate+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

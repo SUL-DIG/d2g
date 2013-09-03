@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117473</field>
+<field name="genre">Operas</field>
+<field name="title">Il teatro in festa</field>
+<field name="titleSort">teatro in festa</field>
+<field name="composer">Pietro Paolo Laurenti</field>
+<field name="composerSort">Laurenti, Pietro Paolo</field>
+<field name="year">1714</field>
+<field name="date">1714</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+teatro+in+festa+Pietro+Paolo+Laurenti&amp;search_field=search</field>
+</doc>
+</add>

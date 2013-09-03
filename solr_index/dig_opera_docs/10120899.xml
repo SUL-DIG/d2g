@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120899</field>
+<field name="genre">Operas</field>
+<field name="title">Orfeo negli Elisi</field>
+<field name="titleSort">Orfeo negli Elisi</field>
+<field name="composer">Giuseppe Moneta</field>
+<field name="composerSort">Moneta, Giuseppe</field>
+<field name="year">1788</field>
+<field name="date">1788</field><field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo+negli+Elisi+Giuseppe+Moneta&amp;search_field=search</field>
+</doc>
+</add>

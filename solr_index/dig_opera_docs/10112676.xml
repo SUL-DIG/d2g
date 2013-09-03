@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112676</field>
+<field name="genre">Operas</field>
+<field name="title">Sombreuil</field>
+<field name="titleSort">Sombreuil</field>
+<field name="composer">Charles Grélinger</field>
+<field name="composerSort">Grélinger, Charles</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Charles Grandmougin</field>
+<field name="librettistSort">Grandmougin, Charles</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Bourges</field>
+<field name="region">Cher</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sombreuil+Charles+Grélinger&amp;search_field=search</field>
+</doc>
+</add>

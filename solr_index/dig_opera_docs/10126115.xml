@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126115</field>
+<field name="genre">Operas</field>
+<field name="title">The Pardoner's Tale</field>
+<field name="titleSort">Pardoner's Tale</field>
+<field name="composer">Alan Ridout</field>
+<field name="composerSort">Ridout, Alan</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Norman Platt</field>
+<field name="librettistSort">Platt, Norman</field>
+<field name="librettist">Geoffrey Chaucer</field>
+<field name="librettistSort">Chaucer, Geoffrey</field>
+<field name="theater">Kent Opera</field>
+<field name="city">Canterbury</field>
+<field name="region">Kent</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pardoner's+Tale+Alan+Ridout&amp;search_field=search</field>
+</doc>
+</add>

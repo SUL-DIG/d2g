@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118663</field>
+<field name="genre">Operas</field>
+<field name="title">Orphée</field>
+<field name="titleSort">Orphée</field>
+<field name="composer">Louis Lully</field>
+<field name="composerSort">Lully, Louis</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Michel Du Boullay</field>
+<field name="librettistSort">Du Boullay, Michel</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orphée+Louis+Lully&amp;search_field=search</field>
+</doc>
+</add>

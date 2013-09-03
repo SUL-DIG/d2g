@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204086</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Teresa</field>
+		<field name="titleSort">Santa Teresa</field>
+		<field name="year">1706</field>
+		
+		
+		<field name="date">1706</field>
+		<field name="composer">Ferdinand Tobias Richter</field>
+		<field name="composerSort">Richter, Ferdinand Tobias</field>
+		<field name="librettist">Pietro Antonio Bernardoni</field>
+		<field name="librettistSort">Bernardoni, Pietro Antonio</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Teresa of Avila</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">October 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Teresa+Ferdinand+Tobias+Richter&amp;search_field=search</field>
+	</doc></add>

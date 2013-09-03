@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100192</field>
+<field name="genre">Operas</field>
+<field name="title">Die Verbrüderung</field>
+<field name="titleSort">Verbrüderung</field>
+<field name="composer">Karl Franz Adolfi</field>
+<field name="composerSort">Adolfi, Karl Franz</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Franz Adolfi</field>
+<field name="librettistSort">Adolfi, Franz</field>
+
+<field name="city">Gladbach</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Verbrüderung+Karl+Franz+Adolfi&amp;search_field=search</field>
+</doc>
+</add>

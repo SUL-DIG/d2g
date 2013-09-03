@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118434</field>
+<field name="genre">Operas</field>
+<field name="title">Le temps des guitares</field>
+<field name="titleSort">temps des guitares</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">[Marcel Cabridens] Marc-Cab</field>
+<field name="librettistSort">Marc-Cab, [Marcel Cabridens]</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="theater">Théâtre de l'A.B.C.</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+temps+des+guitares+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

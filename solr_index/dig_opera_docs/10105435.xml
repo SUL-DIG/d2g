@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105435</field>
+<field name="genre">Operas</field>
+<field name="title">La forza dell'immaginazione</field>
+<field name="titleSort">forza dell'immaginazione</field>
+<field name="composer">Filippo Celli</field>
+<field name="composerSort">Celli, Filippo</field>
+<field name="year">1813</field>
+<field name="date">1813</field><field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+dell'immaginazione+Filippo+Celli&amp;search_field=search</field>
+</doc>
+</add>

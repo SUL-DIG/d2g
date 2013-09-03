@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122412</field>
+<field name="genre">Operas</field>
+<field name="title">Les vivandières de la grande-armée</field>
+<field name="titleSort">vivandières de la grande-armée</field>
+<field name="composer">Jacques Offenbach</field>
+<field name="composerSort">Offenbach, Jacques</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Adolphe Jaime</field>
+<field name="librettistSort">Jaime, Adolphe</field>
+<field name="librettist">[Philippe-Auguste-Alfred Pittaud de Forge] Alfred Deforges</field>
+<field name="librettistSort">Deforges, Alfred [Philippe-Auguste-Alfred Pittaud de Forge]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+vivandières+de+la+grande-armée+Jacques+Offenbach&amp;search_field=search</field>
+</doc>
+</add>

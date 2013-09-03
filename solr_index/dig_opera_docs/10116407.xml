@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116407</field>
+<field name="genre">Operas</field>
+<field name="title">Kocsonya Mihály házassága</field>
+<field name="titleSort">Kocsonya Mihály házassága</field>
+<field name="composer">György Kósa</field>
+<field name="composerSort">Kósa, György</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kocsonya+Mihály+házassága+György+Kósa&amp;search_field=search</field>
+</doc>
+</add>

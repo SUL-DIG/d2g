@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129267</field>
+<field name="genre">Operas</field>
+<field name="title">Mariya Styuart</field>
+<field name="titleSort">Mariya Styuart</field>
+<field name="composer">Sergey Mikhaylovich Slonimsky</field>
+<field name="composerSort">Slonimsky, Sergey Mikhaylovich</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Yakov Arkad'evich Gordin</field>
+<field name="librettistSort">Gordin, Yakov Arkad'evich</field>
+<field name="librettist">Stefan Zweig</field>
+<field name="librettistSort">Zweig, Stefan</field>
+<field name="theater">Teatri Operï i Baletta</field>
+<field name="city">Samara</field>
+
+<field name="country">Tatarstan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mariya+Styuart+Sergey+Mikhaylovich+Slonimsky&amp;search_field=search</field>
+</doc>
+</add>

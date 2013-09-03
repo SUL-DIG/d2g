@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109480</field>
+<field name="genre">Operas</field>
+<field name="title">Circus Carambas</field>
+<field name="titleSort">Circus Carambas</field>
+<field name="composer">Heinrich Feischner</field>
+<field name="composerSort">Feischner, Heinrich</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Werner Illing</field>
+<field name="librettistSort">Illing, Werner</field>
+<field name="theater">SDR Radio (Süddeutscher Rundfunk)</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Circus+Carambas+Heinrich+Feischner&amp;search_field=search</field>
+</doc>
+</add>

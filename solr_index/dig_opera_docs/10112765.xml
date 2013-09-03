@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112765</field>
+<field name="genre">Operas</field>
+<field name="title">Noah</field>
+<field name="titleSort">Noah</field>
+<field name="composer">Karl-Rudi Griesbach</field>
+<field name="composerSort">Griesbach, Karl-Rudi</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Karl-Rudi Griesbach</field>
+<field name="librettistSort">Griesbach, Karl-Rudi"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Noah+Karl-Rudi+Griesbach&amp;search_field=search</field>
+</doc>
+</add>

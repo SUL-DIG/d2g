@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105508</field>
+<field name="genre">Operas</field>
+<field name="title">Nettunno e Flora festeggianti</field>
+<field name="titleSort">Nettunno e Flora festeggianti</field>
+<field name="composer">Antonio Cesti</field>
+<field name="composerSort">Cesti, Antonio</field>
+<field name="year">1666</field>
+<field name="date">1666</field>
+<field name="librettist">Francesco Sbarra</field>
+<field name="librettistSort">Sbarra, Francesco</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nettunno+e+Flora+festeggianti+Antonio+Cesti&amp;search_field=search</field>
+</doc>
+</add>

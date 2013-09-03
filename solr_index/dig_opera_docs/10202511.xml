@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202511</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Lied vom Walde</field>
+		<field name="titleSort">Lied vom Walde</field>
+		<field name="year">1942</field>
+		
+		
+		<field name="date">1942</field>
+		<field name="composer">Hermann Grabner</field>
+		<field name="composerSort">Grabner, Hermann</field>
+		<field name="librettist">Max Barthel</field>
+		<field name="librettistSort">Barthel, Max</field>
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Lied+vom+Walde+Hermann+Grabner&amp;search_field=search</field>
+	</doc></add>

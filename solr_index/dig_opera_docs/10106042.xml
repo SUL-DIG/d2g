@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106042</field>
+<field name="genre">Operas</field>
+<field name="title">Le code noir</field>
+<field name="titleSort">code noir</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">[Fanny-Henriette Arnaud] Mme. Charles Reybaud</field>
+<field name="librettistSort">Reybaud, Mme. Charles [Fanny-Henriette Arnaud]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+code+noir+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

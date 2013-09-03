@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103681</field>
+<field name="genre">Operas</field>
+<field name="title">Amilda</field>
+<field name="titleSort">Amilda</field>
+<field name="composer">Walter Borg</field>
+<field name="composerSort">Borg, Walter</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Luigi Biagini</field>
+<field name="librettistSort">Biagini, Luigi</field>
+<field name="theater">Teatro Zizinia</field>
+<field name="city">Alexandria</field>
+
+<field name="country">Egypt</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amilda+Walter+Borg&amp;search_field=search</field>
+</doc>
+</add>

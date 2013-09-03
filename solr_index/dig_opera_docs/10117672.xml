@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117672</field>
+<field name="genre">Operas</field>
+<field name="title">The Old Woman of Beare</field>
+<field name="titleSort">Old Woman of Beare</field>
+<field name="composer">Nicola LeFanu</field>
+<field name="composerSort">LeFanu, Nicola</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Nicola LeFanu</field>
+<field name="librettistSort">LeFanu, Nicola</field>
+<field name="theater">"Saint John's, Smith Square"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Old+Woman+of+Beare+Nicola+LeFanu&amp;search_field=search</field>
+</doc>
+</add>

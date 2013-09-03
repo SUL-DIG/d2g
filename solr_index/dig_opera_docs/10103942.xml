@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103942</field>
+<field name="genre">Operas</field>
+<field name="title">La duchesse de Langeais</field>
+<field name="titleSort">duchesse de Langeais</field>
+<field name="composer">Eugène Bozza</field>
+<field name="composerSort">Bozza, Eugène</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Félix Forté</field>
+<field name="librettistSort">Forté, Félix</field>
+<field name="librettist">Honoré de Balzac</field>
+<field name="librettistSort">Balzac, Honoré de</field>
+<field name="theater">Opéra</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+duchesse+de+Langeais+Eugène+Bozza&amp;search_field=search</field>
+</doc>
+</add>

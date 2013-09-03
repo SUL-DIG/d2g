@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104011</field>
+<field name="genre">Operas</field>
+<field name="title">Die verfallene Mauer</field>
+<field name="titleSort">verfallene Mauer</field>
+<field name="composer">Johann Brandl (2)</field>
+<field name="composerSort">Brandl (2), Johann</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Wilhelm Hess</field>
+<field name="librettistSort">Hess, Wilhelm</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+verfallene+Mauer+Johann+Brandl+-2&amp;search_field=search</field>
+</doc>
+</add>

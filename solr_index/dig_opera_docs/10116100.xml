@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116100</field>
+<field name="genre">Operas</field>
+<field name="title">Minister und Strassensänger</field>
+<field name="titleSort">Minister und Strassensänger</field>
+<field name="composer">Ludwig Klerr</field>
+<field name="composerSort">Klerr, Ludwig</field>
+<field name="year">1871</field>
+<field name="date">1871</field><field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minister+und+Strassensänger+Ludwig+Klerr&amp;search_field=search</field>
+</doc>
+</add>

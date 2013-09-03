@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104650</field>
+<field name="genre">Operas</field>
+<field name="title">Farnace</field>
+<field name="titleSort">Farnace</field>
+<field name="composer">Antonio Caldara</field>
+<field name="composerSort">Caldara, Antonio</field>
+<field name="year">1703</field>
+<field name="date">1703</field>
+<field name="librettist">Lorenzo Morari</field>
+<field name="librettistSort">Morari, Lorenzo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farnace+Antonio+Caldara&amp;search_field=search</field>
+</doc>
+</add>

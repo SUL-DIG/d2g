@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114396</field>
+<field name="genre">Operas</field>
+<field name="title">Der träumende Papa</field>
+<field name="titleSort">träumende Papa</field>
+<field name="composer">Hermann Höfert</field>
+<field name="composerSort">Höfert, Hermann</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">H. Engelmann</field>
+<field name="librettistSort">Engelmann, H.</field>
+<field name="librettist">Ernst Baum</field>
+<field name="librettistSort">Baum, Ernst</field>
+<field name="theater">Wilhelm-Theater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+träumende+Papa+Hermann+Höfert&amp;search_field=search</field>
+</doc>
+</add>

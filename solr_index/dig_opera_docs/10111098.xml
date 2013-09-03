@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111098</field>
+<field name="genre">Operas</field>
+<field name="title">Ladies' Voices</field>
+<field name="titleSort">Ladies' Voices</field>
+<field name="composer">Kay Gardner</field>
+<field name="composerSort">Gardner, Kay</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+<field name="theater">First Unitarian Church</field>
+<field name="city">Albuquerque</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ladies'+Voices+Kay+Gardner&amp;search_field=search</field>
+</doc>
+</add>

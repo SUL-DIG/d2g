@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132930</field>
+<field name="genre">Operas</field>
+<field name="title">Amalasunta</field>
+<field name="titleSort">Amalasunta</field>
+<field name="composer">Johann Hugo von Wilderer</field>
+<field name="composerSort">Wilderer, Johann Hugo von</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Steffano Benedetto Pallavicino</field>
+<field name="librettistSort">Pallavicino, Steffano Benedetto</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amalasunta+Johann+Hugo+von+Wilderer&amp;search_field=search</field>
+</doc>
+</add>

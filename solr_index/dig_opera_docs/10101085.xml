@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101085</field>
+<field name="genre">Operas</field>
+<field name="title">Papa Bachstelz</field>
+<field name="titleSort">Papa Bachstelz</field>
+<field name="composer">Albert Arnold</field>
+<field name="composerSort">Arnold, Albert</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Albert Arnold</field>
+<field name="librettistSort">Arnold, Albert</field>
+
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Papa+Bachstelz+Albert+Arnold&amp;search_field=search</field>
+</doc>
+</add>

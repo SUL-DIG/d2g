@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103907</field>
+<field name="genre">Operas</field>
+<field name="title">Les jolis chasseurs</field>
+<field name="titleSort">jolis chasseurs</field>
+<field name="composer">Jules Bovery</field>
+<field name="composerSort">Bovery, Jules</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Charles Bridault</field>
+<field name="librettistSort">Bridault, Charles</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+jolis+chasseurs+Jules+Bovery&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104445</field>
+<field name="genre">Operas</field>
+<field name="title">Lakomec (The Miser)</field>
+<field name="titleSort">Lakomec (The Miser)</field>
+<field name="composer">Jarmil Burghauser</field>
+<field name="composerSort">Burghauser, Jarmil</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Ludek Mandaus</field>
+<field name="librettistSort">Mandaus, Ludek</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">Severoceské Národní Divadlo</field>
+<field name="city">Liberec</field>
+<field name="region">Severocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lakomec+The+Miser+Jarmil+Burghauser&amp;search_field=search</field>
+</doc>
+</add>

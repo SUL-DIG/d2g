@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120654</field>
+<field name="genre">Operas</field>
+<field name="title">Die weisse Gefahr</field>
+<field name="titleSort">weisse Gefahr</field>
+<field name="composer">Max Joseph Milian</field>
+<field name="composerSort">Milian, Max Joseph</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Oskar Friedmann</field>
+<field name="librettistSort">Friedmann, Oskar</field>
+<field name="librettist">[Ludwig Herzl] Ludwig Herzer</field>
+<field name="librettistSort">Herzer, Ludwig [Ludwig Herzl]</field>
+<field name="theater">Wilhelm-Theater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+weisse+Gefahr+Max+Joseph+Milian&amp;search_field=search</field>
+</doc>
+</add>

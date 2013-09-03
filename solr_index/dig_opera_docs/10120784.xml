@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120784</field>
+<field name="genre">Operas</field>
+<field name="title">Wit en zwart</field>
+<field name="titleSort">Wit en zwart</field>
+<field name="composer">Pieter Miry</field>
+<field name="composerSort">Miry, Pieter</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Hippoliet van Peene</field>
+<field name="librettistSort">Peene, Hippoliet van</field>
+<field name="theater">Minard's Schouwburg</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wit+en+zwart+Pieter+Miry&amp;search_field=search</field>
+</doc>
+</add>

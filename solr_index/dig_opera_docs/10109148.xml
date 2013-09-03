@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109148</field>
+<field name="genre">Operas</field>
+<field name="title">Zwei alte Wiener</field>
+<field name="titleSort">Zwei alte Wiener</field>
+<field name="composer">Edmund Eysler</field>
+<field name="composerSort">Eysler, Edmund</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Hans Borutzky</field>
+<field name="librettistSort">Borutzky, Hans</field>
+<field name="librettist">Emil von Meissner</field>
+<field name="librettistSort">Meissner, Emil von</field>
+<field name="theater">Neues Wiener Operettentheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwei+alte+Wiener+Edmund+Eysler&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123922</field>
+<field name="genre">Operas</field>
+<field name="title">Sakajawea: The Woman with Many Names</field>
+<field name="titleSort">Sakajawea: The Woman with Many Names</field>
+<field name="composer">Thomas Peterson</field>
+<field name="composerSort">Peterson, Thomas</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Bill Borden</field>
+<field name="librettistSort">Borden, Bill</field>
+
+<field name="city">Grand Forks</field>
+<field name="region">North Dakota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sakajawea:+The+Woman+with+Many+Names+Thomas+Peterson&amp;search_field=search</field>
+</doc>
+</add>

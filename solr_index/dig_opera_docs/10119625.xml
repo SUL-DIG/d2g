@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119625</field>
+<field name="genre">Operas</field>
+<field name="title">Il moro di Castiglia</field>
+<field name="titleSort">moro di Castiglia</field>
+<field name="composer">Francesco Masciangelo</field>
+<field name="composerSort">Masciangelo, Francesco</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Nicola Lantorga</field>
+<field name="librettistSort">Lantorga, Nicola</field>
+
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+moro+di+Castiglia+Francesco+Masciangelo&amp;search_field=search</field>
+</doc>
+</add>

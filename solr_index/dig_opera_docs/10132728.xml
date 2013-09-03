@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132728</field>
+<field name="genre">Operas</field>
+<field name="title">Die Dorfschule</field>
+<field name="titleSort">Dorfschule</field>
+<field name="composer">Felix Weingartner</field>
+<field name="composerSort">Weingartner, Felix</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Felix Weingartner</field>
+<field name="librettistSort">Weingartner, Felix</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Dorfschule+Felix+Weingartner&amp;search_field=search</field>
+</doc>
+</add>

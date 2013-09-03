@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105736</field>
+<field name="genre">Operas</field>
+<field name="title">Miette Lacmel</field>
+<field name="titleSort">Miette Lacmel</field>
+<field name="composer">Lucien Chevaillier</field>
+<field name="composerSort">Chevaillier, Lucien</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Lucien Chevaillier</field>
+<field name="librettistSort">Chevaillier, Lucien</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miette+Lacmel+Lucien+Chevaillier&amp;search_field=search</field>
+</doc>
+</add>

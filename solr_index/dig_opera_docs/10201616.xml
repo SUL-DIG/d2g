@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201616</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Giona</field>
+		<field name="titleSort">Giona</field>
+		<field name="year">1689</field>
+		
+		
+		<field name="date">1689</field>
+		<field name="composer">Giovanni Battista Vitali</field>
+		<field name="composerSort">Vitali, Giovanni Battista</field>
+		<field name="librettist">Domenico Bartoli</field>
+		<field name="librettistSort">Bartoli, Domenico</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jonah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Giona+Giovanni+Battista+Vitali&amp;search_field=search</field>
+	</doc></add>

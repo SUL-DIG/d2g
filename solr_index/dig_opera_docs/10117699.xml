@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117699</field>
+<field name="genre">Operas</field>
+<field name="title">The Rose and the Ring</field>
+<field name="titleSort">Rose and the Ring</field>
+<field name="composer">Ethel Leginska</field>
+<field name="composerSort">Leginska, Ethel</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Edith Emilie Ohlson</field>
+<field name="librettistSort">Ohlson, Edith Emilie</field>
+<field name="librettist">William Makepeace Thackeray</field>
+<field name="librettistSort">Thackeray, William Makepeace</field>
+<field name="theater">Wilshire Ebell Theater</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rose+and+the+Ring+Ethel+Leginska&amp;search_field=search</field>
+</doc>
+</add>

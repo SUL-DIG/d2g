@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126251</field>
+<field name="genre">Operas</field>
+<field name="title">Euphemie von Avogara</field>
+<field name="titleSort">Euphemie von Avogara</field>
+<field name="composer">Philipp Jakob Riotte</field>
+<field name="composerSort">Riotte, Philipp Jakob</field>
+<field name="year">1823</field>
+<field name="date">1823</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Euphemie+von+Avogara+Philipp+Jakob+Riotte&amp;search_field=search</field>
+</doc>
+</add>

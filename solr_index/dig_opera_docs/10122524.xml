@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122524</field>
+<field name="genre">Operas</field>
+<field name="title">Alceste</field>
+<field name="titleSort">Alceste</field>
+<field name="composer">Carlo d'Ordonez</field>
+<field name="composerSort">d'Ordonez, Carlo</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Karl Michael von Pauersbach</field>
+<field name="librettistSort">Pauersbach, Karl Michael von</field>
+<field name="theater">Schloss Esterháza</field>
+<field name="city">Fertöd</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alceste+Carlo+d'Ordonez&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200009</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">A la Virgen de los Dolores</field>
+		<field name="titleSort">la Virgen de los Dolores</field>
+		<field name="year">1787</field>
+		
+		
+		<field name="date">1787</field>
+		<field name="composer">Domingo Arquimbau</field>
+		<field name="composerSort">Arquimbau, Domingo</field>
+		
+		
+		
+		<field name="city">Gerona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Our Lady of Sorrows (Mater Dolorosa)</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+la+Virgen+de+los+Dolores+Domingo+Arquimbau&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119693</field>
+<field name="genre">Operas</field>
+<field name="title">Ariane</field>
+<field name="titleSort">Ariane</field>
+<field name="composer">Jules Massenet</field>
+<field name="composerSort">Massenet, Jules</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Catulle Mendès</field>
+<field name="librettistSort">Mendès, Catulle</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariane+Jules+Massenet&amp;search_field=search</field>
+</doc>
+</add>

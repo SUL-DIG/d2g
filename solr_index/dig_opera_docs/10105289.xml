@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105289</field>
+<field name="genre">Operas</field>
+<field name="title">Clar du luna</field>
+<field name="titleSort">Clar du luna</field>
+<field name="composer">Aleksey Catargi</field>
+<field name="composerSort">Catargi, Aleksey</field>
+<field name="year">1898</field>
+<field name="date">1898</field><field name="theater">Teatrul Liric</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clar+du+luna+Aleksey+Catargi&amp;search_field=search</field>
+</doc>
+</add>

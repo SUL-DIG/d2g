@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128325</field>
+<field name="genre">Operas</field>
+<field name="title">Der Onkel</field>
+<field name="titleSort">Onkel</field>
+<field name="composer">Johann Philipp Samuel Schmidt</field>
+<field name="composerSort">Schmidt, Johann Philipp Samuel</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Carl Alexander Herklots</field>
+<field name="librettistSort">Herklots, Carl Alexander</field>
+<field name="theater">Interims-Theater</field>
+<field name="city">Kaliningrad</field>
+<field name="region">Kaliningrad Oblast</field>
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Onkel+Johann+Philipp+Samuel+Schmidt&amp;search_field=search</field>
+</doc>
+</add>

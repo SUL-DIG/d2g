@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112939</field>
+<field name="genre">Operas</field>
+<field name="title">La vigna</field>
+<field name="titleSort">vigna</field>
+<field name="composer">Guido Guerrini</field>
+<field name="composerSort">Guerrini, Guido</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Guido Guerrini</field>
+<field name="librettistSort">Guerrini, Guido</field>
+<field name="librettist">Alfredo Testoni</field>
+<field name="librettistSort">Testoni, Alfredo</field>
+<field name="theater">Teatro Reale dell'Opera</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vigna+Guido+Guerrini&amp;search_field=search</field>
+</doc>
+</add>

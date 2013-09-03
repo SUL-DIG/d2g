@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114152</field>
+<field name="genre">Operas</field>
+<field name="title">Les folies dramatiques</field>
+<field name="titleSort">folies dramatiques</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">[Philippe-François Pinel] Dumanoir</field>
+<field name="librettistSort">Dumanoir, [Philippe-François Pinel]</field>
+<field name="librettist">[Louis-François Nicolaïe] Clairville</field>
+<field name="librettistSort">Clairville, Charles [Victor Nicolaïe]</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+folies+dramatiques+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

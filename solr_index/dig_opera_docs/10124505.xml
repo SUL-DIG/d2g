@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124505</field>
+<field name="genre">Operas</field>
+<field name="title">Bamboo</field>
+<field name="titleSort">Bamboo</field>
+<field name="composer">Jeno Platthy</field>
+<field name="composerSort">Platthy, Jeno</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Rosemarie Steeg</field>
+<field name="librettistSort">Steeg, Rosemarie</field>
+<field name="theater">Prince George's Civic Opera</field>
+<field name="city">Largo</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bamboo+Jeno+Platthy&amp;search_field=search</field>
+</doc>
+</add>

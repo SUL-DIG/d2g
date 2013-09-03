@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101037</field>
+<field name="genre">Operas</field>
+<field name="title">Artaxerxes</field>
+<field name="titleSort">Artaxerxes</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Thomas Augustine Arne</field>
+<field name="librettistSort">Arne, Thomas Augustine</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artaxerxes+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

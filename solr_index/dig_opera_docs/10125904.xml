@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125904</field>
+<field name="genre">Operas</field>
+<field name="title">Im Seitengass'l</field>
+<field name="titleSort">Im Seitengass'l</field>
+<field name="composer">Karl J. Rettenbach</field>
+<field name="composerSort">Rettenbach, Karl J.</field>
+<field name="year">1916</field>
+<field name="date">1916</field><field name="theater">Volkstheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Im+Seitengass'l+Karl+J.+Rettenbach&amp;search_field=search</field>
+</doc>
+</add>

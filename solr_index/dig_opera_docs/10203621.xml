@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203621</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I rigori dell'amor divino ne i dolori di Maria Vergine</field>
+		<field name="titleSort">rigori dell'amor divino ne i dolori di Maria Vergine</field>
+		<field name="year">1708</field>
+		
+		
+		<field name="date">1708</field>
+		<field name="composer">Filippo Falconi</field>
+		<field name="composerSort">Falconi, Filippo</field>
+		<field name="librettist">Philipo Falconi</field>
+		<field name="librettistSort">Falconi, Philipo</field>
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+rigori+dell'amor+divino+ne+i+dolori+di+Maria+Vergine+Filippo+Falconi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115664</field>
+<field name="genre">Operas</field>
+<field name="title">Ilseino srdce (Ilsa's Heart)</field>
+<field name="titleSort">Ilseino srdce (Ilsa's Heart)</field>
+<field name="composer">Rudolf Karel</field>
+<field name="composerSort">Karel, Rudolf</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Antonín Kropácek</field>
+<field name="librettistSort">Kropácek, Antonín</field>
+<field name="librettist">Karel Hugo Hilar</field>
+<field name="librettistSort">Hilar, Karel Hugo</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ilseino+srdce+Ilsa's+Heart+Rudolf+Karel&amp;search_field=search</field>
+</doc>
+</add>

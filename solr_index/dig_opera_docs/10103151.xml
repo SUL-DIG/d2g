@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103151</field>
+<field name="genre">Operas</field>
+<field name="title">The Station</field>
+<field name="titleSort">Station</field>
+<field name="composer">Howard Blake</field>
+<field name="composerSort">Blake, Howard</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Howard Blake</field>
+<field name="librettistSort">Blake, Howard</field>
+<field name="theater">The Platform Theatre</field>
+<field name="city">Haywards Heath</field>
+<field name="region">West Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Station+Howard+Blake&amp;search_field=search</field>
+</doc>
+</add>

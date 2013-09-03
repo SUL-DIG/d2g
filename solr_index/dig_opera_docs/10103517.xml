@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103517</field>
+<field name="genre">Operas</field>
+<field name="title">"Climene, ossia L'innocenza pratetta</field>
+<field name="titleSort">"Climene, ossia L'innocenza pratetta"</field>
+<field name="composer">Paolo Bonfichi</field>
+<field name="composerSort">Bonfichi, Paolo</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Paolo Bonfichi</field>
+<field name="librettistSort">Bonfichi, Paolo</field>
+<field name="theater">Teatro Nazionale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Climene,+ossia+L'innocenza+pratetta+Paolo+Bonfichi&amp;search_field=search</field>
+</doc>
+</add>

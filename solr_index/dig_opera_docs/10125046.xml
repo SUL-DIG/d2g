@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125046</field>
+<field name="genre">Operas</field>
+<field name="title">L'aviatore Dro</field>
+<field name="titleSort">aviatore Dro</field>
+<field name="composer">Francesco Balilla Pratella</field>
+<field name="composerSort">Pratella, Francesco Balilla</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Francesco Balilla Pratella</field>
+<field name="librettistSort">Pratella, Francesco Balilla</field>
+<field name="theater">Teatro Comunale Rossini</field>
+<field name="city">Lugo</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aviatore+Dro+Francesco+Balilla+Pratella&amp;search_field=search</field>
+</doc>
+</add>

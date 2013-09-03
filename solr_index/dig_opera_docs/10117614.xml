@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117614</field>
+<field name="genre">Operas</field>
+<field name="title">Le grand Casimir</field>
+<field name="titleSort">grand Casimir</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Jules Prével</field>
+<field name="librettistSort">Prével, Jules</field>
+<field name="librettist">Albert de Saint-Albin</field>
+<field name="librettistSort">Saint-Albin, Albert de</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+grand+Casimir+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

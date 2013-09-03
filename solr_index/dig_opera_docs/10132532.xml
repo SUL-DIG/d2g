@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132532</field>
+<field name="genre">Operas</field>
+<field name="title">The Royal Vagrants</field>
+<field name="titleSort">Royal Vagrants</field>
+<field name="composer">Waldo Warner</field>
+<field name="composerSort">Warner, Waldo</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Cyril Hurst</field>
+<field name="librettistSort">Hurst, Cyril</field>
+<field name="theater">Guildhall School of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Royal+Vagrants+Waldo+Warner&amp;search_field=search</field>
+</doc>
+</add>

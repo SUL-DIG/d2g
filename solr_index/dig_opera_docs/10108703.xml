@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108703</field>
+<field name="genre">Operas</field>
+<field name="title">Der Kardinal</field>
+<field name="titleSort">Kardinal</field>
+<field name="composer">Helmut Eder</field>
+<field name="composerSort">Eder, Helmut</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Ernst Brauner</field>
+<field name="librettistSort">Brauner, Ernst</field>
+<field name="theater">ORF Television (Österreichischen Rundfunks Fernsehen)</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Kardinal+Helmut+Eder&amp;search_field=search</field>
+</doc>
+</add>

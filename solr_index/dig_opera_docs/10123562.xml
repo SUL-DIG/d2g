@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123562</field>
+<field name="genre">Operas</field>
+<field name="title">"Amor senz'interesse, ossia Il medico burlato</field>
+<field name="titleSort">"Amor senz'interesse, ossia Il medico burlato"</field>
+<field name="composer">Prospero Pedrazzi</field>
+<field name="composerSort">Pedrazzi, Prospero</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Giuseppe Caravita</field>
+<field name="librettistSort">Caravita, Giuseppe</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+senz'interesse,+ossia+Il+medico+burlato+Prospero+Pedrazzi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108334</field>
+<field name="genre">Operas</field>
+<field name="title">Estudantes e Costureira</field>
+<field name="titleSort">Estudantes e Costureira</field>
+<field name="composer">Filippe Duarte</field>
+<field name="composerSort">Duarte, Filippe</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Jacinto Marques</field>
+<field name="librettistSort">Marques, Jacinto</field>
+<field name="librettist">Armando de Miranda</field>
+<field name="librettistSort">Miranda, Armando de</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Estudantes+e+Costureira+Filippe+Duarte&amp;search_field=search</field>
+</doc>
+</add>

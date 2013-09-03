@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109074</field>
+<field name="genre">Operas</field>
+<field name="title">Der tote Onkel</field>
+<field name="titleSort">tote Onkel</field>
+<field name="composer">Carl Diedrich Eule</field>
+<field name="composerSort">Eule, Carl Diedrich</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Karl Ludwig Costenoble</field>
+<field name="librettistSort">Costenoble, Karl Ludwig</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+tote+Onkel+Carl+Diedrich+Eule&amp;search_field=search</field>
+</doc>
+</add>

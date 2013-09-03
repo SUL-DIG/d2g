@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130571</field>
+<field name="genre">Operas</field>
+<field name="title">Cyrano de Bergerac</field>
+<field name="titleSort">Cyrano de Bergerac</field>
+<field name="composer">Eino Tamberg</field>
+<field name="composerSort">Tamberg, Eino</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Jaan Kross</field>
+<field name="librettistSort">Kross, Jaan</field>
+<field name="librettist">Edmond Rostand</field>
+<field name="librettistSort">Rostand, Edmond</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cyrano+de+Bergerac+Eino+Tamberg&amp;search_field=search</field>
+</doc>
+</add>

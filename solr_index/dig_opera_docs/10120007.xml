@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120007</field>
+<field name="genre">Operas</field>
+<field name="title">La catena d'Adone</field>
+<field name="titleSort">catena d'Adone</field>
+<field name="composer">Domenico Mazzocchi</field>
+<field name="composerSort">Mazzocchi, Domenico</field>
+<field name="year">1626</field>
+<field name="date">1626</field>
+<field name="librettist">Ottavio Tronsarelli</field>
+<field name="librettistSort">Tronsarelli, Ottavio</field>
+<field name="theater">Palazzo Conti</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+catena+d'Adone+Domenico+Mazzocchi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116993</field>
+<field name="genre">Operas</field>
+<field name="title">Air Raid</field>
+<field name="titleSort">Air Raid</field>
+<field name="composer">Ezra Laderman</field>
+<field name="composerSort">Laderman, Ezra</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Archibald MacLeish</field>
+<field name="librettistSort">MacLeish, Archibald"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Air+Raid+Ezra+Laderman&amp;search_field=search</field>
+</doc>
+</add>

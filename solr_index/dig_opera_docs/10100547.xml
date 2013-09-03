@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100547</field>
+<field name="genre">Operas</field>
+<field name="title">La pazienza di Socrate</field>
+<field name="titleSort">pazienza di Socrate</field>
+<field name="composer">Francisco António de Almeida</field>
+<field name="composerSort">Almeida, Francisco António de</field>
+<field name="year">1733</field>
+<field name="date">1733</field>
+<field name="librettist">Alexandre de Gusmão</field>
+<field name="librettistSort">Gusmão, Alexandre de</field>
+<field name="theater">Palácio da Ribeira</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pazienza+di+Socrate+Francisco+António+de+Almeida&amp;search_field=search</field>
+</doc>
+</add>

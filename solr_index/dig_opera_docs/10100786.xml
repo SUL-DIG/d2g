@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100786</field>
+<field name="genre">Operas</field>
+<field name="title">Le pazzie de' gelosi</field>
+<field name="titleSort">pazzie de' gelosi</field>
+<field name="composer">Pasquale Anfossi</field>
+<field name="composerSort">Anfossi, Pasquale</field>
+<field name="year">1787</field>
+<field name="date">1787</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pazzie+de'+gelosi+Pasquale+Anfossi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117433</field>
+<field name="genre">Operas</field>
+<field name="title">KAR</field>
+<field name="titleSort">KAR</field>
+<field name="composer">Herbert Lauermann</field>
+<field name="composerSort">Lauermann, Herbert</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Christian Fuchs</field>
+<field name="librettistSort">Fuchs, Christian</field>
+<field name="theater">Reisseck Dam</field>
+<field name="city">Kolbnitz</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=KAR+Herbert+Lauermann&amp;search_field=search</field>
+</doc>
+</add>

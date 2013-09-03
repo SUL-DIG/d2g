@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107928</field>
+<field name="genre">Operas</field>
+<field name="title">Dopo l'Ave Maria</field>
+<field name="titleSort">Dopo l'Ave Maria</field>
+<field name="composer">Alfredo Donizetti</field>
+<field name="composerSort">Donizetti, Alfredo</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Giovanni Arrighi</field>
+<field name="librettistSort">Arrighi, Giovanni</field>
+<field name="theater">Teatro degli Accademici Filodrammatici</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dopo+l'Ave+Maria+Alfredo+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

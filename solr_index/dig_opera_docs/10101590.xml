@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101590</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori di Circe con Ulisse</field>
+<field name="titleSort">amori di Circe con Ulisse</field>
+<field name="composer">Carlo Agostino Badia</field>
+<field name="composerSort">Badia, Carlo Agostino</field>
+<field name="year">1709</field>
+<field name="date">1709</field>
+<field name="librettist">Giovanni Battista Ancioni</field>
+<field name="librettistSort">Ancioni, Giovanni Battista</field>
+
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+Circe+con+Ulisse+Carlo+Agostino+Badia&amp;search_field=search</field>
+</doc>
+</add>

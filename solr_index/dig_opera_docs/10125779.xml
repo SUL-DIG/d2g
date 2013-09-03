@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125779</field>
+<field name="genre">Operas</field>
+<field name="title">Hol' mich der Teufel</field>
+<field name="titleSort">Hol' mich der Teufel</field>
+<field name="composer">Leopold Reichwein</field>
+<field name="composerSort">Reichwein, Leopold</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="librettist">[Heinrich Blumenreich] Heinz Reichert</field>
+<field name="librettistSort">Reichert, Heinz [Heinrich Blumenreich]</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hol'+mich+der+Teufel+Leopold+Reichwein&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202683</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Santa Teodosia</field>
+		<field name="titleSort">martirio di Santa Teodosia</field>
+		<field name="year">1685</field>
+		
+		
+		<field name="date">1685</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Theodosia</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">2</field>
+		<field name="feastDate">April 2</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Santa+Teodosia+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

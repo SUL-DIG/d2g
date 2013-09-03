@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108052</field>
+<field name="genre">Operas</field>
+<field name="title">Frühlings-Eingang</field>
+<field name="titleSort">Frühlings-Eingang</field>
+<field name="composer">Walter Dost</field>
+<field name="composerSort">Dost, Walter</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Alfred Werner</field>
+<field name="librettistSort">Werner, Alfred</field>
+
+<field name="city">Schneeberg</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frühlings-Eingang+Walter+Dost&amp;search_field=search</field>
+</doc>
+</add>

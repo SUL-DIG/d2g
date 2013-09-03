@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116964</field>
+<field name="genre">Operas</field>
+<field name="title">Le cadeau de noces</field>
+<field name="titleSort">cadeau de noces</field>
+<field name="composer">Paul Lacôme</field>
+<field name="composerSort">Lacôme, Paul</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">[Georges Degas] Armand Liorat</field>
+<field name="librettistSort">Liorat, Armand [Georges Degas]</field>
+<field name="librettist">Fernand Hue</field>
+<field name="librettistSort">Hue, Fernand</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cadeau+de+noces+Paul+Lacôme&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120748</field>
+<field name="genre">Operas</field>
+<field name="title">A marqueza</field>
+<field name="titleSort">marqueza</field>
+<field name="composer">António Luis Miró</field>
+<field name="composerSort">Miró, António Luis</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">Paolo Midosi</field>
+<field name="librettistSort">Midosi, Paolo</field>
+<field name="theater">Teatro do Ginásio</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+marqueza+António+Luis+Miró&amp;search_field=search</field>
+</doc>
+</add>

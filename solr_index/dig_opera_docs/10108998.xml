@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108998</field>
+<field name="genre">Operas</field>
+<field name="title">Zayre</field>
+<field name="titleSort">Zayre</field>
+<field name="composer">Ernst II Herzog von Sachsen-Koburg-Gotha</field>
+<field name="composerSort">Sachsen-Koburg-Gotha, Ernst II Herzog von</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Luigi Tenelli</field>
+<field name="librettistSort">Tenelli, Luigi</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zayre+Ernst+II+Herzog+von+Sachsen-Koburg-Gotha&amp;search_field=search</field>
+</doc>
+</add>

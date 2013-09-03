@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124283</field>
+<field name="genre">Operas</field>
+<field name="title">Il rinnegato</field>
+<field name="titleSort">rinnegato</field>
+<field name="composer">Giuseppe Piersantelli</field>
+<field name="composerSort">Piersantelli, Giuseppe</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Giuseppe Piersantelli</field>
+<field name="librettistSort">Piersantelli, Giuseppe</field>
+<field name="theater">Teatro Andrea Doria</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+rinnegato+Giuseppe+Piersantelli&amp;search_field=search</field>
+</doc>
+</add>

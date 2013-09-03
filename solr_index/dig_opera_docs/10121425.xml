@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121425</field>
+<field name="genre">Operas</field>
+<field name="title">Svätopluk (Udatny král')</field>
+<field name="titleSort">Svätopluk (Udatny král')</field>
+<field name="composer">Alexander Moyzes</field>
+<field name="composerSort">Moyzes, Alexander</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Ludo Zúbek</field>
+<field name="librettistSort">Zúbek, Ludo</field>
+<field name="librettist">Alexander Moyzes</field>
+<field name="librettistSort">Moyzes, Alexander</field>
+<field name="theater">Radio Bratislava</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svätopluk+Udatny+král'+Alexander+Moyzes&amp;search_field=search</field>
+</doc>
+</add>

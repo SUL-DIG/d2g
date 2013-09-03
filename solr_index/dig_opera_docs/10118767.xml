@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118767</field>
+<field name="genre">Operas</field>
+<field name="title">The Unbelievable Glory of Mr. Sharp</field>
+<field name="titleSort">Unbelievable Glory of Mr. Sharp</field>
+<field name="composer">Andrew MacDonald</field>
+<field name="composerSort">MacDonald, Andrew</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Ken Keobke</field>
+<field name="librettistSort">Keobke, Ken</field>
+<field name="theater">Canadian Opera Company</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Unbelievable+Glory+of+Mr.+Sharp+Andrew+MacDonald&amp;search_field=search</field>
+</doc>
+</add>

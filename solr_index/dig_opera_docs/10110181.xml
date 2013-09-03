@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110181</field>
+<field name="genre">Operas</field>
+<field name="title">Klorida i Milon (Chloris and Milo)</field>
+<field name="titleSort">Klorida i Milon (Chloris and Milo)</field>
+<field name="composer">Yevstigney Ipat'yevich Fomin</field>
+<field name="composerSort">Fomin, Yevstigney Ipat'yevich</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Vasily Vasil'yevich Kapnist</field>
+<field name="librettistSort">Kapnist, Vasily Vasil'yevich</field>
+<field name="theater">Bol'shoy Kamennïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klorida+i+Milon+Chloris+and+Milo+Yevstigney+Ipat'yevich+Fomin&amp;search_field=search</field>
+</doc>
+</add>

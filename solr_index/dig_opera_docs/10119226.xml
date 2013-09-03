@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119226</field>
+<field name="genre">Operas</field>
+<field name="title">Il biricchino di Parigi</field>
+<field name="titleSort">biricchino di Parigi</field>
+<field name="composer">Giuseppe Manusardi</field>
+<field name="composerSort">Manusardi, Giuseppe</field>
+<field name="year">1841</field>
+<field name="date">1841</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+biricchino+di+Parigi+Giuseppe+Manusardi&amp;search_field=search</field>
+</doc>
+</add>

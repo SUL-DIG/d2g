@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118783</field>
+<field name="genre">Operas</field>
+<field name="title">The Soldier's Legacy</field>
+<field name="titleSort">Soldier's Legacy</field>
+<field name="composer">George Alexander Macfarren</field>
+<field name="composerSort">Macfarren, George Alexander</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">John Oxenford</field>
+<field name="librettistSort">Oxenford, John</field>
+<field name="theater">Gallery of Illustration</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Soldier's+Legacy+George+Alexander+Macfarren&amp;search_field=search</field>
+</doc>
+</add>

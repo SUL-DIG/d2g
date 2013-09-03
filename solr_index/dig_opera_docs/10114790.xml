@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114790</field>
+<field name="genre">Operas</field>
+<field name="title">The Temple Dancer</field>
+<field name="titleSort">Temple Dancer</field>
+<field name="composer">John Adam Hugo</field>
+<field name="composerSort">Hugo, John Adam</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Jutta Bell-Ranske</field>
+<field name="librettistSort">Bell-Ranske, Jutta</field>
+<field name="theater">Metropolitan Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Temple+Dancer+John+Adam+Hugo&amp;search_field=search</field>
+</doc>
+</add>

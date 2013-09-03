@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104846</field>
+<field name="genre">Operas</field>
+<field name="title">Le veau d'or</field>
+<field name="titleSort">veau d'or</field>
+<field name="composer">Auguste Canne</field>
+<field name="composerSort">Canne, Auguste</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Alfred Privat</field>
+<field name="librettistSort">Privat, Alfred</field>
+
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+veau+d'or+Auguste+Canne&amp;search_field=search</field>
+</doc>
+</add>

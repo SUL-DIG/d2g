@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115057</field>
+<field name="genre">Operas</field>
+<field name="title">Le clairon</field>
+<field name="titleSort">clairon</field>
+<field name="composer">Georg Jacobi</field>
+<field name="composerSort">Jacobi, Georg</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Édouard Philippe</field>
+<field name="librettistSort">Philippe, Édouard</field>
+<field name="librettist">Gaston Marot</field>
+<field name="librettistSort">Marot, Gaston</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+clairon+Georg+Jacobi&amp;search_field=search</field>
+</doc>
+</add>

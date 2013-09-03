@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108884</field>
+<field name="genre">Operas</field>
+<field name="title">Bubi</field>
+<field name="titleSort">Bubi</field>
+<field name="composer">Willy Engel-Berger</field>
+<field name="composerSort">Engel-Berger, Willy</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Fred Heller</field>
+<field name="librettistSort">Heller, Fred</field>
+<field name="librettist">Adolf Schütz</field>
+<field name="librettistSort">Schütz, Adolf</field>
+<field name="theater">Wiener Stadttheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bubi+Willy+Engel-Berger&amp;search_field=search</field>
+</doc>
+</add>

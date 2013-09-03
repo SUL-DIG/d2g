@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106413</field>
+<field name="genre">Operas</field>
+<field name="title">O Tannenbaum</field>
+<field name="titleSort">O Tannenbaum</field>
+<field name="composer">Max Conrad</field>
+<field name="composerSort">Conrad, Max</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Leo Grillenberger</field>
+<field name="librettistSort">Grillenberger, Leo</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+Tannenbaum+Max+Conrad&amp;search_field=search</field>
+</doc>
+</add>

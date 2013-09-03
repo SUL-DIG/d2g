@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109766</field>
+<field name="genre">Operas</field>
+<field name="title">Die Jakobsfahrt</field>
+<field name="titleSort">Jakobsfahrt</field>
+<field name="composer">Fidelio Friedrich Finke</field>
+<field name="composerSort">Finke, Fidelio Friedrich</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">[Anton Schmidt] Dietzenschmidt</field>
+<field name="librettistSort">Dietzenschmidt, [Anton Schmidt]</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Jakobsfahrt+Fidelio+Friedrich+Finke&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124575</field>
+<field name="genre">Operas</field>
+<field name="title">Le jardinier galant</field>
+<field name="titleSort">jardinier galant</field>
+<field name="composer">Ferdinand Poise</field>
+<field name="composerSort">Poise, Ferdinand</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">Paul Siraudin</field>
+<field name="librettistSort">Siraudin, Paul</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jardinier+galant+Ferdinand+Poise&amp;search_field=search</field>
+</doc>
+</add>

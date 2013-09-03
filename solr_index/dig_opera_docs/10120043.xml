@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120043</field>
+<field name="genre">Operas</field>
+<field name="title">The Play of Mother Courage</field>
+<field name="titleSort">Play of Mother Courage</field>
+<field name="composer">John McCabe</field>
+<field name="composerSort">McCabe, John</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Monica Smith</field>
+<field name="librettistSort">Smith, Monica</field>
+<field name="librettist">Johann Jacob Christoffel von Grimmelshausen</field>
+<field name="librettistSort">Grimmelshausen, Johann Jacob Christoffel von</field>
+<field name="theater">Little Theatre</field>
+<field name="city">Middlesbrough</field>
+<field name="region">Cleveland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Play+of+Mother+Courage+John+McCabe&amp;search_field=search</field>
+</doc>
+</add>

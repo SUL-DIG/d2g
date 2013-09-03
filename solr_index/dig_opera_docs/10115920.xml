@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115920</field>
+<field name="genre">Operas</field>
+<field name="title">Die schöne Lau</field>
+<field name="titleSort">schöne Lau</field>
+<field name="composer">Julia Kerwey</field>
+<field name="composerSort">Kerwey, Julia</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Aenne von Below</field>
+<field name="librettistSort">Below, Aenne von</field>
+<field name="librettist">Eduard Mörike</field>
+<field name="librettistSort">Mörike, Eduard</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schöne+Lau+Julia+Kerwey&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105648</field>
+<field name="genre">Operas</field>
+<field name="title">Le coche</field>
+<field name="titleSort">coche</field>
+<field name="composer">William Chaumet</field>
+<field name="composerSort">Chaumet, William</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Hippolyte Minier</field>
+<field name="librettistSort">Minier, Hippolyte</field>
+
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+coche+William+Chaumet&amp;search_field=search</field>
+</doc>
+</add>

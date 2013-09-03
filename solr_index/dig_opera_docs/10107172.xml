@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107172</field>
+<field name="genre">Operas</field>
+<field name="title">Alphée et Aréthuse</field>
+<field name="titleSort">Alphée et Aréthuse</field>
+<field name="composer">Antoine Dauvergne</field>
+<field name="composerSort">Dauvergne, Antoine</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Antoine Danchet</field>
+<field name="librettistSort">Danchet, Antoine</field>
+<field name="theater">Château de Choisy</field>
+<field name="city">Choisy-le-Roi</field>
+<field name="region">Val-de-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alphée+et+Aréthuse+Antoine+Dauvergne&amp;search_field=search</field>
+</doc>
+</add>

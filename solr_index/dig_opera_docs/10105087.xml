@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105087</field>
+<field name="genre">Operas</field>
+<field name="title">O konte Spourghitis i Lipothymies ke nevrika</field>
+<field name="titleSort">konte Spourghitis i Lipothymies ke nevrika</field>
+<field name="composer">Pavlos Carrer</field>
+<field name="composerSort">Carrer, Pavlos</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Ioannis Tsakassianos</field>
+<field name="librettistSort">Tsakassianos, Ioannis</field>
+
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+konte+Spourghitis+i+Lipothymies+ke+nevrika+Pavlos+Carrer&amp;search_field=search</field>
+</doc>
+</add>

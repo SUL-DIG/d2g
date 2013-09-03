@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203162</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pamoka (One Hour)</field>
+		<field name="titleSort">Pamoka (One Hour)</field>
+		<field name="year">1996</field>
+		
+		
+		<field name="date">1996</field>
+		<field name="composer">Vidmantas Bartulis</field>
+		<field name="composerSort">Bartulis, Vidmantas</field>
+		<field name="librettist">Eugène Ionesco</field>
+		<field name="librettistSort">Ionesco, Eugène</field>
+		
+		
+		<field name="city">Kaunas</field>
+		
+		<field name="country">Lithuania</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pamoka+(One+Hour)+Vidmantas+Bartulis&amp;search_field=search</field>
+	</doc></add>

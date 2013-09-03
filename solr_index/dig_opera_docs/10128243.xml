@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128243</field>
+<field name="genre">Operas</field>
+<field name="title">Loute</field>
+<field name="titleSort">Loute</field>
+<field name="composer">Achille Schinelli</field>
+<field name="composerSort">Schinelli, Achille</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Teatro Diana</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Loute+Achille+Schinelli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129469</field>
+<field name="genre">Operas</field>
+<field name="title">Robinson Crusoe Esq.</field>
+<field name="titleSort">Robinson Crusoe Esq.</field>
+<field name="composer">Edward Solomon</field>
+<field name="composerSort">Solomon, Edward</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">William Yardley</field>
+<field name="librettistSort">Yardley, William</field>
+<field name="theater">"Theatre Royal, Chelsea Barracks"</field>
+<field name="city">Westminster</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robinson+Crusoe+Esq.+Edward+Solomon&amp;search_field=search</field>
+</doc>
+</add>

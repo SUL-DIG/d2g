@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122158</field>
+<field name="genre">Operas</field>
+<field name="title">Virginia</field>
+<field name="titleSort">Virginia</field>
+<field name="composer">Alessandro Nini</field>
+<field name="composerSort">Nini, Alessandro</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Domenico Bancalari</field>
+<field name="librettistSort">Bancalari, Domenico</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virginia+Alessandro+Nini&amp;search_field=search</field>
+</doc>
+</add>

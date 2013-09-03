@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120373</field>
+<field name="genre">Operas</field>
+<field name="title">"La meunière enrichie, ou Le gascon puni</field>
+<field name="titleSort">"meunière enrichie, ou Le gascon puni"</field>
+<field name="composer">Nicolas-Jean Méreaux</field>
+<field name="composerSort">Méreaux, Nicolas-Jean</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Pierre-Louis Moline</field>
+<field name="librettistSort">Moline, Pierre-Louis</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+meunière+enrichie,+ou+Le+gascon+puni+Nicolas-Jean+Méreaux&amp;search_field=search</field>
+</doc>
+</add>

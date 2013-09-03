@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114857</field>
+<field name="genre">Operas</field>
+<field name="title">Gyergyói bál (Ball at Gyergyoi)</field>
+<field name="titleSort">Gyergyói bál (Ball at Gyergyoi)</field>
+<field name="composer">Jenö Huszka</field>
+<field name="composerSort">Huszka, Jenö</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">László Szilágyi</field>
+<field name="librettistSort">Szilágyi, László</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gyergyói+bál+Ball+at+Gyergyoi+Jenö+Huszka&amp;search_field=search</field>
+</doc>
+</add>

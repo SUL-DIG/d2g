@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103584</field>
+<field name="genre">Operas</field>
+<field name="title">"La Fortuna, il Valore e la Giustitia</field>
+<field name="titleSort">"Fortuna, il Valore e la Giustitia"</field>
+<field name="composer">Antonio Maria Bononcini</field>
+<field name="composerSort">Bononcini, Antonio Maria</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Pietro Antonio Bernardoni</field>
+<field name="librettistSort">Bernardoni, Pietro Antonio</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Fortuna,+il+Valore+e+la+Giustitia+Antonio+Maria+Bononcini&amp;search_field=search</field>
+</doc>
+</add>

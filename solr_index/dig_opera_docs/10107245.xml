@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107245</field>
+<field name="genre">Operas</field>
+<field name="title">La vipérine</field>
+<field name="titleSort">vipérine</field>
+<field name="composer">Jean Jacques Debillemont</field>
+<field name="composerSort">Debillemont, Jean Jacques</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">William Busnach</field>
+<field name="librettistSort">Busnach, William</field>
+<field name="librettist">Jules Prével</field>
+<field name="librettistSort">Prével, Jules</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vipérine+Jean+Jacques+Debillemont&amp;search_field=search</field>
+</doc>
+</add>

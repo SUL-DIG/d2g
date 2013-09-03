@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107621</field>
+<field name="genre">Operas</field>
+<field name="title">Le moulin des roses</field>
+<field name="titleSort">moulin des roses</field>
+<field name="composer">Louis Desormes</field>
+<field name="composerSort">Desormes, Louis</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+moulin+des+roses+Louis+Desormes&amp;search_field=search</field>
+</doc>
+</add>

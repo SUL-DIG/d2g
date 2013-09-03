@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116426</field>
+<field name="genre">Operas</field>
+<field name="title">Ferien für Mutter</field>
+<field name="titleSort">Ferien für Mutter</field>
+<field name="composer">Ernst Koster</field>
+<field name="composerSort">Koster, Ernst</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Ernst Koster</field>
+<field name="librettistSort">Koster, Ernst</field>
+
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ferien+für+Mutter+Ernst+Koster&amp;search_field=search</field>
+</doc>
+</add>

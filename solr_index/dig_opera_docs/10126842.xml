@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126842</field>
+<field name="genre">Operas</field>
+<field name="title">La visita meravigliosa</field>
+<field name="titleSort">visita meravigliosa</field>
+<field name="composer">Nino Rota</field>
+<field name="composerSort">Rota, Nino</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Nino Rota</field>
+<field name="librettistSort">Rota, Nino</field>
+<field name="librettist">Herbert George Wells</field>
+<field name="librettistSort">Wells, Herbert George</field>
+<field name="theater">Teatro Massimo</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+visita+meravigliosa+Nino+Rota&amp;search_field=search</field>
+</doc>
+</add>

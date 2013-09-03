@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125384</field>
+<field name="genre">Operas</field>
+<field name="title">Julia</field>
+<field name="titleSort">Julia</field>
+<field name="composer">Maurizio Quinteri</field>
+<field name="composerSort">Quinteri, Maurizio</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Vittorio Bianchi</field>
+<field name="librettistSort">Bianchi, Vittorio</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Cosenza</field>
+<field name="region">Calabria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Julia+Maurizio+Quinteri&amp;search_field=search</field>
+</doc>
+</add>

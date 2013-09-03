@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129078</field>
+<field name="genre">Operas</field>
+<field name="title">Dix millions de dot</field>
+<field name="titleSort">Dix millions de dot</field>
+<field name="composer">H. Siabel</field>
+<field name="composerSort">Siabel, H.</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Mme. Émile Codey</field>
+<field name="librettistSort">Codey, Mme. Émile</field>
+<field name="theater">Nouveau Cirque</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dix+millions+de+dot+H.+Siabel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118977</field>
+<field name="genre">Operas</field>
+<field name="title">Yuki-onna (Snow-Woman)</field>
+<field name="titleSort">Yuki-onna (Snow-Woman)</field>
+<field name="composer">Yutaka Makino</field>
+<field name="composerSort">Makino, Yutaka</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Hiroshi Mizuo</field>
+<field name="librettistSort">Mizuo, Hiroshi</field>
+<field name="librettist">Lafcadio Hearn</field>
+<field name="librettistSort">Hearn, Lafcadio</field>
+<field name="theater">Shimin Hall</field>
+<field name="city">Yokohama</field>
+<field name="region">Kanagawa</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yuki-onna+Snow-Woman+Yutaka+Makino&amp;search_field=search</field>
+</doc>
+</add>

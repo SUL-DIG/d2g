@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204123</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Ambrogio</field>
+		<field name="titleSort">Sant' Ambrogio</field>
+		<field name="year">1697</field>
+		
+		
+		<field name="date">1697</field>
+		<field name="composer">Antonio Giacobbi</field>
+		<field name="composerSort">Giacobbi, Antonio</field>
+		<field name="librettist">Antonio Lippi</field>
+		<field name="librettistSort">Lippi, Antonio</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Ambrose</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">7</field>
+		<field name="feastDate">December 7</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Ambrogio+Antonio+Giacobbi&amp;search_field=search</field>
+	</doc></add>

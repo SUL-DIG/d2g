@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202686</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Sant' Adriano</field>
+		<field name="titleSort">martirio di Sant' Adriano</field>
+		<field name="year">1692</field>
+		
+		
+		<field name="date">1692</field>
+		<field name="composer">Francesco Antonio Pistocchi</field>
+		<field name="composerSort">Pistocchi, Francesco Antonio</field>
+		<field name="librettist">Silvio Stampiglia</field>
+		<field name="librettistSort">Stampiglia, Silvio</field>
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Adrian</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">August 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Sant'+Adriano+Francesco+Antonio+Pistocchi&amp;search_field=search</field>
+	</doc></add>

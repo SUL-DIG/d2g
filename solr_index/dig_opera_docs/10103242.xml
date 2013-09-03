@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103242</field>
+<field name="genre">Operas</field>
+<field name="title">The Harpies</field>
+<field name="titleSort">Harpies</field>
+<field name="composer">Marc Blitzstein</field>
+<field name="composerSort">Blitzstein, Marc</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Marc Blitzstein</field>
+<field name="librettistSort">Blitzstein, Marc</field>
+<field name="theater">Manhattan School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Harpies+Marc+Blitzstein&amp;search_field=search</field>
+</doc>
+</add>

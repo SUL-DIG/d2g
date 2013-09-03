@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102568</field>
+<field name="genre">Operas</field>
+<field name="title">La molinara astuta</field>
+<field name="titleSort">molinara astuta</field>
+<field name="composer">Marcello Bernardini</field>
+<field name="composerSort">Bernardini, Marcello</field>
+<field name="year">1770</field>
+<field name="date">1770</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+molinara+astuta+Marcello+Bernardini&amp;search_field=search</field>
+</doc>
+</add>

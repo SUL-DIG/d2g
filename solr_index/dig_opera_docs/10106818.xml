@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106818</field>
+<field name="genre">Operas</field>
+<field name="title">Hidallan der Harfner</field>
+<field name="titleSort">Hidallan der Harfner</field>
+<field name="composer">Franz Cramer</field>
+<field name="composerSort">Cramer, Franz</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hidallan+der+Harfner+Franz+Cramer&amp;search_field=search</field>
+</doc>
+</add>

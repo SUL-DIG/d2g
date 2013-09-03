@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107466</field>
+<field name="genre">Operas</field>
+<field name="title">Der letzte Jonas</field>
+<field name="titleSort">letzte Jonas</field>
+<field name="composer">Rudolf Dellinger</field>
+<field name="composerSort">Dellinger, Rudolf</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Robert Pohl</field>
+<field name="librettistSort">Pohl, Robert</field>
+<field name="librettist">Wilhelm Ascher</field>
+<field name="librettistSort">Ascher, Wilhelm</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+letzte+Jonas+Rudolf+Dellinger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127552</field>
+<field name="genre">Operas</field>
+<field name="title">Dolorosa</field>
+<field name="titleSort">Dolorosa</field>
+<field name="composer">Eduardo Sánchez de Fuentes</field>
+<field name="composerSort">Fuentes, Eduardo Sánchez de</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Federico Uhrbach</field>
+<field name="librettistSort">Uhrbach, Federico</field>
+<field name="theater">Teatro Nacional</field>
+<field name="city">Havana</field>
+
+<field name="country">Cuba</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolorosa+Eduardo+Sánchez+de+Fuentes&amp;search_field=search</field>
+</doc>
+</add>

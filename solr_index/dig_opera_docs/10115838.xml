@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115838</field>
+<field name="genre">Operas</field>
+<field name="title">Orpheus</field>
+<field name="titleSort">Orpheus</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1698</field>
+<field name="date">1698</field>
+<field name="librettist">Friedrich Christian Bressand</field>
+<field name="librettistSort">Bressand, Friedrich Christian</field>
+<field name="theater">Rathaus</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orpheus+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

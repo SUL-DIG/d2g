@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114170</field>
+<field name="genre">Operas</field>
+<field name="title">Phosphorus</field>
+<field name="titleSort">Phosphorus</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">[Florimond Ronger] Hervé</field>
+<field name="librettistSort">Hervé, [Florimond Ronger]</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Phosphorus+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

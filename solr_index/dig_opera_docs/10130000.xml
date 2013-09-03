@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130000</field>
+<field name="genre">Operas</field>
+<field name="title">Die lustigen Weiber von Wien</field>
+<field name="titleSort">lustigen Weiber von Wien</field>
+<field name="composer">Robert Stolz</field>
+<field name="composerSort">Stolz, Robert</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Julius Brammer</field>
+<field name="librettistSort">Brammer, Julius</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="theater">Wiener Colosseum</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+lustigen+Weiber+von+Wien+Robert+Stolz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130356</field>
+<field name="genre">Operas</field>
+<field name="title">"Schlechte Mittel, gute Zwecke</field>
+<field name="titleSort">"Schlechte Mittel, gute Zwecke"</field>
+<field name="composer">Franz von Suppé</field>
+<field name="composerSort">Suppé, Franz von</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Friedrich Kaiser</field>
+<field name="librettistSort">Kaiser, Friedrich</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schlechte+Mittel,+gute+Zwecke+Franz+von+Suppé&amp;search_field=search</field>
+</doc>
+</add>

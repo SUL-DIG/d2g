@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101650</field>
+<field name="genre">Operas</field>
+<field name="title">Schast'ye (Happiness)</field>
+<field name="titleSort">Schast'ye (Happiness)</field>
+<field name="composer">Andrey Melitonovich Balanchivadze</field>
+<field name="composerSort">Balanchivadze, Andrey Melitonovich</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Mikhail Alexandrovich Lakerbay</field>
+<field name="librettistSort">Lakerbay, Mikhail Alexandrovich"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schast'ye+Happiness+Andrey+Melitonovich+Balanchivadze&amp;search_field=search</field>
+</doc>
+</add>

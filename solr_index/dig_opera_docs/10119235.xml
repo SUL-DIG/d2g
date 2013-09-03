@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119235</field>
+<field name="genre">Operas</field>
+<field name="title">L'entresol d'Eugène</field>
+<field name="titleSort">entresol d'Eugène</field>
+<field name="composer">Gaston Maquis</field>
+<field name="composerSort">Maquis, Gaston</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Jean Duroc</field>
+<field name="librettistSort">Duroc, Jean</field>
+<field name="theater">Théâtre des Folies-Parisiennes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'entresol+d'Eugène+Gaston+Maquis&amp;search_field=search</field>
+</doc>
+</add>

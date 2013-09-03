@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103472</field>
+<field name="genre">Operas</field>
+<field name="title">Les charmettes</field>
+<field name="titleSort">charmettes</field>
+<field name="composer">Armand Bolsène</field>
+<field name="composerSort">Bolsène, Armand</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Jules Méry</field>
+<field name="librettistSort">Méry, Jules</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+charmettes+Armand+Bolsène&amp;search_field=search</field>
+</doc>
+</add>

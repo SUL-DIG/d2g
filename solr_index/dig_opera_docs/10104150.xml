@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104150</field>
+<field name="genre">Operas</field>
+<field name="title">Curlew River</field>
+<field name="titleSort">Curlew River</field>
+<field name="composer">Benjamin Britten</field>
+<field name="composerSort">Britten, Benjamin</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">William Plomer</field>
+<field name="librettistSort">Plomer, William</field>
+<field name="librettist">Juro Motomasa</field>
+<field name="librettistSort">Motomasa, Juro</field>
+<field name="theater">Parish Church</field>
+<field name="city">Orford</field>
+<field name="region">Suffolk</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Curlew+River+Benjamin+Britten&amp;search_field=search</field>
+</doc>
+</add>

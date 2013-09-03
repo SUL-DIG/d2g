@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130416</field>
+<field name="genre">Operas</field>
+<field name="title">The Man with 1000 Faces</field>
+<field name="titleSort">Man with 1000 Faces</field>
+<field name="composer">Donald Swann</field>
+<field name="composerSort">Swann, Donald</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Colin Wilson</field>
+<field name="librettistSort">Wilson, Colin</field>
+<field name="theater">Malthouse Theatre</field>
+<field name="city">Hassocks</field>
+<field name="region">West Sussex</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Man+with+1000+Faces+Donald+Swann&amp;search_field=search</field>
+</doc>
+</add>

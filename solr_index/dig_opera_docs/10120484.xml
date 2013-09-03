@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120484</field>
+<field name="genre">Operas</field>
+<field name="title">Romilda e Constanza</field>
+<field name="titleSort">Romilda e Constanza</field>
+<field name="composer">Giacomo Meyerbeer</field>
+<field name="composerSort">Meyerbeer, Giacomo</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romilda+e+Constanza+Giacomo+Meyerbeer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116058</field>
+<field name="genre">Operas</field>
+<field name="title">Die Kropfeten</field>
+<field name="titleSort">Kropfeten</field>
+<field name="composer">Karl Kleiber</field>
+<field name="composerSort">Kleiber, Karl</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">__ Steinbauer</field>
+<field name="librettistSort">Steinbauer, __</field>
+<field name="theater">Fürsts Singspielhalle im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Kropfeten+Karl+Kleiber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202845</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mosè al Sinai</field>
+		<field name="titleSort">Mosè al Sinai</field>
+		<field name="year">1844</field>
+		
+		
+		<field name="date">1844</field>
+		<field name="composer">Pietro Raimondi</field>
+		<field name="composerSort">Raimondi, Pietro</field>
+		<field name="librettist">Giuseppe Sapio</field>
+		<field name="librettistSort">Sapio, Giuseppe</field>
+		
+		
+		<field name="city">Palermo</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses on Mount Sinai</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosè+al+Sinai+Pietro+Raimondi&amp;search_field=search</field>
+	</doc></add>

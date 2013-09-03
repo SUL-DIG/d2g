@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102126</field>
+<field name="genre">Operas</field>
+<field name="title">L'opéra d'Aran</field>
+<field name="titleSort">opéra d'Aran</field>
+<field name="composer">Gilbert Bécaud</field>
+<field name="composerSort">Bécaud, Gilbert</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Jacques Emmanuel</field>
+<field name="librettistSort">Emmanuel, Jacques</field>
+<field name="librettist">Louis Amade</field>
+<field name="librettistSort">Amade, Louis</field>
+<field name="theater">Théâtre des Champs-Élysées</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'opéra+d'Aran+Gilbert+Bécaud&amp;search_field=search</field>
+</doc>
+</add>

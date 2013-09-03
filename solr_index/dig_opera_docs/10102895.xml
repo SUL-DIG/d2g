@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102895</field>
+<field name="genre">Operas</field>
+<field name="title">Il finto astrologo</field>
+<field name="titleSort">finto astrologo</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Angelo Mariani</field>
+<field name="librettistSort">Mariani, Angelo</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+astrologo+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

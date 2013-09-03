@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201093</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El Salvador</field>
+		<field name="titleSort">Salvador</field>
+		<field name="year">1983</field>
+		<field name="month">May</field>
+		<field name="day">21</field>
+		<field name="date">May 21, 1983</field>
+		<field name="composer">W. Newell Hendricks</field>
+		<field name="composerSort">Hendricks, W. Newell</field>
+		<field name="librettist">Denise Levertov</field>
+		<field name="librettistSort">Levertov, Denise</field>
+		
+		<field name="theater">Sanders Theater, Harvard University</field>
+		<field name="city">Cambridge</field>
+		<field name="region">Massachusetts</field>
+		<field name="country">United States</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+Salvador+W.+Newell+Hendricks&amp;search_field=search</field>
+	</doc></add>

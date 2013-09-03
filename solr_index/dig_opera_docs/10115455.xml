@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115455</field>
+<field name="genre">Operas</field>
+<field name="title">Le fils de Thésée</field>
+<field name="titleSort">fils de Thésée</field>
+<field name="composer">Toussaint Julien</field>
+<field name="composerSort">Julien, Toussaint</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Louis Marguery</field>
+<field name="librettistSort">Marguery, Louis</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Aix-en-Provence</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+fils+de+Thésée+Toussaint+Julien&amp;search_field=search</field>
+</doc>
+</add>

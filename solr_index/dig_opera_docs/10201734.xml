@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201734</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La gloriosa virgen, y mártyr Santa Bárbara</field>
+		<field name="titleSort">gloriosa virgen, y mártyr Santa Bárbara</field>
+		<field name="year">1742</field>
+		<field name="month">December</field>
+		<field name="day">4</field>
+		<field name="date">December 4, 1742</field>
+		<field name="composer">Antonío Corvi y Moroty</field>
+		<field name="composerSort">Corvi y Moroty, Antonío</field>
+		
+		
+		<field name="theater">Real Colegio di Niсos Cantorcicos</field>
+		<field name="city">Madrid</field>
+		<field name="region">Madrid</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Barbara</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">December 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloriosa+virgen,+y+mártyr+Santa+Bárbara+Antonío+Corvi+y+Moroty&amp;search_field=search</field>
+	</doc></add>

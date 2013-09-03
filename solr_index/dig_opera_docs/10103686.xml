@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103686</field>
+<field name="genre">Operas</field>
+<field name="title">La basoche</field>
+<field name="titleSort">basoche</field>
+<field name="composer">Antonio D. R. Borghese</field>
+<field name="composerSort">Borghese, Antonio D. R.</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Édouard-Alexandre Bignon</field>
+<field name="librettistSort">Bignon, Édouard-Alexandre</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+basoche+Antonio+D.+R.+Borghese&amp;search_field=search</field>
+</doc>
+</add>

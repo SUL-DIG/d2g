@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202734</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Micole</field>
+		<field name="titleSort">Micole</field>
+		<field name="year">1689</field>
+		
+		
+		<field name="date">1689</field>
+		<field name="composer">Tommaso Bernardo Gaffi</field>
+		<field name="composerSort">Gaffi, Tommaso Bernardo</field>
+		
+		
+		
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David marries Michal</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Micole+Tommaso+Bernardo+Gaffi&amp;search_field=search</field>
+	</doc></add>

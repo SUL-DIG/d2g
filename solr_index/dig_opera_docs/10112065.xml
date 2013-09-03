@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112065</field>
+<field name="genre">Operas</field>
+<field name="title">Der gestiefelte Kater</field>
+<field name="titleSort">gestiefelte Kater</field>
+<field name="composer">Walter Girnatis</field>
+<field name="composerSort">Girnatis, Walter</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Erich Colberg</field>
+<field name="librettistSort">Colberg, Erich</field>
+
+<field name="city">Soltau</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+gestiefelte+Kater+Walter+Girnatis&amp;search_field=search</field>
+</doc>
+</add>

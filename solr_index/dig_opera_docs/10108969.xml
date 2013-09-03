@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108969</field>
+<field name="genre">Operas</field>
+<field name="title">Les dames de Coeur-Volant</field>
+<field name="titleSort">dames de Coeur-Volant</field>
+<field name="composer">Jules Erlanger</field>
+<field name="composerSort">Erlanger, Jules</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Armand Lapointe</field>
+<field name="librettistSort">Lapointe, Armand</field>
+<field name="librettist">Achille Bourdois</field>
+<field name="librettistSort">Bourdois, Achille</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dames+de+Coeur-Volant+Jules+Erlanger&amp;search_field=search</field>
+</doc>
+</add>

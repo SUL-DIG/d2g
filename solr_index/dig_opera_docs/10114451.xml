@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114451</field>
+<field name="genre">Operas</field>
+<field name="title">The Tempest</field>
+<field name="titleSort">Tempest</field>
+<field name="composer">Lee Hoiby</field>
+<field name="composerSort">Hoiby, Lee</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Mark Shulgasser</field>
+<field name="librettistSort">Shulgasser, Mark</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Blank Performing Arts Center</field>
+<field name="city">Indianola</field>
+<field name="region">Iowa</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tempest+Lee+Hoiby&amp;search_field=search</field>
+</doc>
+</add>

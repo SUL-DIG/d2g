@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201921</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Hymnus</field>
+		<field name="titleSort">Hymnus</field>
+		<field name="year">1966</field>
+		<field name="month">July</field>
+		<field name="day">24</field>
+		<field name="date">July 24, 1966</field>
+		<field name="composer">Hilding Rosenberg</field>
+		<field name="composerSort">Rosenberg, Hilding</field>
+		<field name="librettist">Hjalmar Gullberg</field>
+		<field name="librettistSort">Gullberg, Hjalmar</field>
+		
+		<field name="theater">SR Radio (Sveriges Radio)</field>
+		<field name="city">Stockholm</field>
+		<field name="region">Stockholm</field>
+		<field name="country">Sweden</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hymnus+Hilding+Rosenberg&amp;search_field=search</field>
+	</doc></add>

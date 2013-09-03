@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103052</field>
+<field name="genre">Operas</field>
+<field name="title">Lucio Vero</field>
+<field name="titleSort">Lucio Vero</field>
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1727</field>
+<field name="date">1727</field>
+<field name="librettist">Santo Burigotti</field>
+<field name="librettistSort">Burigotti, Santo</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Vero+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

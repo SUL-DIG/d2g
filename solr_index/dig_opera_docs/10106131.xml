@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106131</field>
+<field name="genre">Operas</field>
+<field name="title">Samuel Pepys</field>
+<field name="titleSort">Samuel Pepys</field>
+<field name="composer">Albert Coates</field>
+<field name="composerSort">Coates, Albert</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">William Price Drury</field>
+<field name="librettistSort">Drury, William Price</field>
+<field name="librettist">Richard Pryce</field>
+<field name="librettistSort">Pryce, Richard</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samuel+Pepys+Albert+Coates&amp;search_field=search</field>
+</doc>
+</add>

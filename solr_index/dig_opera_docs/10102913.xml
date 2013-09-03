@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102913</field>
+<field name="genre">Operas</field>
+<field name="title">Le pied de boeuf et la queue du chat</field>
+<field name="titleSort">pied de boeuf et la queue du chat</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Maxime de Redon</field>
+<field name="librettistSort">Redon, Maxime de</field>
+<field name="librettist">Pierre Joseph Charrin</field>
+<field name="librettistSort">Charrin, Pierre Joseph</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pied+de+boeuf+et+la+queue+du+chat+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

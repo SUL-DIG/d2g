@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203190</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le passage de la mer Rouge</field>
+		<field name="titleSort">passage de la mer Rouge</field>
+		<field name="year">1759</field>
+		
+		
+		<field name="date">1759</field>
+		<field name="composer">Jean-Nicolas Loiseau de Persuis</field>
+		<field name="composerSort">Persuis, Jean-Nicolas Loiseau de</field>
+		
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">The Passage of the Red Sea</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+passage+de+la+mer+Rouge+Jean-Nicolas+Loiseau+de+Persuis&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117662</field>
+<field name="genre">Operas</field>
+<field name="title">Love in a Cottage</field>
+<field name="titleSort">Love in a Cottage</field>
+<field name="composer">George Alexander Lee</field>
+<field name="composerSort">Lee, George Alexander</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Nathaniel Thomas Haynes Bayly</field>
+<field name="librettistSort">Bayly, Nathaniel Thomas Haynes</field>
+<field name="theater">Strand Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+in+a+Cottage+George+Alexander+Lee&amp;search_field=search</field>
+</doc>
+</add>

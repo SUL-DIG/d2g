@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200352</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La beata Caterina di Bologna tentata di solitudine</field>
+		<field name="titleSort">beata Caterina di Bologna tentata di solitudine</field>
+		<field name="year">1697</field>
+		
+		
+		<field name="date">1697</field>
+		<field name="composer">Pirro Albergati</field>
+		<field name="composerSort">Albergati, Pirro</field>
+		
+		
+		<field name="theater">Congregazione di San Gabriele</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Blessed Catherine of Bologna</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">9</field>
+		<field name="feastDate">March 9</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+beata+Caterina+di+Bologna+tentata+di+solitudine+Pirro+Albergati&amp;search_field=search</field>
+	</doc></add>

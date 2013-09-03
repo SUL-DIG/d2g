@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112779</field>
+<field name="genre">Operas</field>
+<field name="title">Der goldene Becher</field>
+<field name="titleSort">goldene Becher</field>
+<field name="composer">Hans Grimm</field>
+<field name="composerSort">Grimm, Hans</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Hans Grimm</field>
+<field name="librettistSort">Grimm, Hans</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+goldene+Becher+Hans+Grimm&amp;search_field=search</field>
+</doc>
+</add>

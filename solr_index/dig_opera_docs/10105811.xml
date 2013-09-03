@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105811</field>
+<field name="genre">Operas</field>
+<field name="title">The Pardoner's Tale</field>
+<field name="titleSort">Pardoner's Tale</field>
+<field name="composer">Erik Chisholm</field>
+<field name="composerSort">Chisholm, Erik</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Erik Chisholm</field>
+<field name="librettistSort">Chisholm, Erik</field>
+<field name="librettist">Geoffrey Chaucer</field>
+<field name="librettistSort">Chaucer, Geoffrey</field>
+<field name="theater">Little Theatre</field>
+<field name="city">Cape Town</field>
+<field name="region">Western Cape</field>
+<field name="country">South Africa</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Pardoner's+Tale+Erik+Chisholm&amp;search_field=search</field>
+</doc>
+</add>

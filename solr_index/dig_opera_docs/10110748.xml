@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110748</field>
+<field name="genre">Operas</field>
+<field name="title">Giulia di Tolosa</field>
+<field name="titleSort">Giulia di Tolosa</field>
+<field name="composer">Nicolò Gabrielli</field>
+<field name="composerSort">Gabrielli, Nicolò</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Alessandro Trudi</field>
+<field name="librettistSort">Trudi, Alessandro</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulia+di+Tolosa+Nicolò+Gabrielli&amp;search_field=search</field>
+</doc>
+</add>

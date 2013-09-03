@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104024</field>
+<field name="genre">Operas</field>
+<field name="title">"Everybody, Inc.</field>
+<field name="titleSort">"Everybody, Inc."</field>
+<field name="composer">Henry Brant</field>
+<field name="composerSort">Brant, Henry</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Patricia Brant</field>
+<field name="librettistSort">Brant, Patricia</field>
+<field name="theater">Opera</field>
+<field name="city">Santa Fe</field>
+<field name="region">New Mexico</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Everybody,+Inc.+Henry+Brant&amp;search_field=search</field>
+</doc>
+</add>

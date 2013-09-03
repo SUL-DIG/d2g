@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120071</field>
+<field name="genre">Operas</field>
+<field name="title">Das Pfänderspiel</field>
+<field name="titleSort">Pfänderspiel</field>
+<field name="composer">Berthold Mede</field>
+<field name="composerSort">Mede, Berthold</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Berthold Mede</field>
+<field name="librettistSort">Mede, Berthold</field>
+
+<field name="city">Swinoujscie</field>
+<field name="region">Zachodniopomorskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Pfänderspiel+Berthold+Mede&amp;search_field=search</field>
+</doc>
+</add>

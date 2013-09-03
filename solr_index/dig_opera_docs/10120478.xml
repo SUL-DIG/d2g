@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120478</field>
+<field name="genre">Operas</field>
+<field name="title">Les Huguenots</field>
+<field name="titleSort">Huguenots</field>
+<field name="composer">Giacomo Meyerbeer</field>
+<field name="composerSort">Meyerbeer, Giacomo</field>
+<field name="year">1836</field>
+<field name="date">1836</field>
+<field name="librettist">Émile Deschamps</field>
+<field name="librettistSort">Deschamps, Émile</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Huguenots+Giacomo+Meyerbeer&amp;search_field=search</field>
+</doc>
+</add>

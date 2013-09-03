@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120806</field>
+<field name="genre">Operas</field>
+<field name="title">Minamo</field>
+<field name="titleSort">Minamo</field>
+<field name="composer">Shuko Mizuno</field>
+<field name="composerSort">Mizuno, Shuko</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Shoichiro Okubo</field>
+<field name="librettistSort">Okubo, Shoichiro</field>
+<field name="librettist">Shuko Mizuno</field>
+<field name="librettistSort">Mizuno, Shuko</field>
+<field name="theater">Shimin Bunka Hall</field>
+<field name="city">Kimitsu</field>
+<field name="region">Chiba</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Minamo+Shuko+Mizuno&amp;search_field=search</field>
+</doc>
+</add>

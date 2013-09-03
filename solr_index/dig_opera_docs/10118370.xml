@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118370</field>
+<field name="genre">Operas</field>
+<field name="title">Il primo navigatore</field>
+<field name="titleSort">primo navigatore</field>
+<field name="composer">Giacomo Lombardi</field>
+<field name="composerSort">Lombardi, Giacomo</field>
+<field name="year">1829</field>
+<field name="date">1829</field><field name="theater">Teatru Manoel</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+primo+navigatore+Giacomo+Lombardi&amp;search_field=search</field>
+</doc>
+</add>

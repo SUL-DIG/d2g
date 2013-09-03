@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117626</field>
+<field name="genre">Operas</field>
+<field name="title">Nos bons chasseurs</field>
+<field name="titleSort">Nos bons chasseurs</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Paul Bilhaud</field>
+<field name="librettistSort">Bilhaud, Paul</field>
+<field name="librettist">Michel Carré (fils)</field>
+<field name="librettistSort">Carré (fils), Michel</field>
+<field name="theater">Casino de Paris</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nos+bons+chasseurs+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

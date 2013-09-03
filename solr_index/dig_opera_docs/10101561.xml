@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101561</field>
+<field name="genre">Operas</field>
+<field name="title">Don Sylvio von Rosalva</field>
+<field name="titleSort">Don Sylvio von Rosalva</field>
+<field name="composer">Gottlob Bachmann</field>
+<field name="composerSort">Bachmann, Gottlob</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Samuel Gottlieb Bürde</field>
+<field name="librettistSort">Bürde, Samuel Gottlieb</field>
+<field name="librettist">Christoph Martin Wieland</field>
+<field name="librettistSort">Wieland, Christoph Martin</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Sylvio+von+Rosalva+Gottlob+Bachmann&amp;search_field=search</field>
+</doc>
+</add>

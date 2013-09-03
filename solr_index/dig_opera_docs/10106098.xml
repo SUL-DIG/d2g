@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106098</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux moineaux</field>
+<field name="titleSort">deux moineaux</field>
+<field name="composer">Albert Clément</field>
+<field name="composerSort">Clément, Albert</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="city">Bresles</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+moineaux+Albert+Clément&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132362</field>
+<field name="genre">Operas</field>
+<field name="title">Tata chez Toto</field>
+<field name="titleSort">Tata chez Toto</field>
+<field name="composer">Frédéric Wachs</field>
+<field name="composerSort">Wachs, Frédéric</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">Marc Leprévost</field>
+<field name="librettistSort">Leprévost, Marc</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tata+chez+Toto+Frédéric+Wachs&amp;search_field=search</field>
+</doc>
+</add>

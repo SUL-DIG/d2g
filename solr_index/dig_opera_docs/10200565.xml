@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200565</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Cesare Baronio guarito prodigiosamente de Maria Vergine per intercessione di San Filippo Neri</field>
+		<field name="titleSort">Cesare Baronio guarito prodigiosamente de Maria Vergine per intercessione di San Filippo Neri</field>
+		<field name="year">1748</field>
+		
+		
+		<field name="date">1748</field>
+		<field name="composer">Daniel Dal Barba</field>
+		<field name="composerSort">Dal Barba, Daniel</field>
+		
+		
+		
+		<field name="city">Trento</field>
+		<field name="region">Trentino</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Philip Neri</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">May 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+Baronio+guarito+prodigiosamente+de+Maria+Vergine+per+intercessione+di+San+Filippo+Neri+Daniel+Dal+Barba&amp;search_field=search</field>
+	</doc></add>

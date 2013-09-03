@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127850</field>
+<field name="genre">Operas</field>
+<field name="title">Vera</field>
+<field name="titleSort">Vera</field>
+<field name="composer">Antonio Savasta</field>
+<field name="composerSort">Savasta, Antonio</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Giovanni Battista de Seta</field>
+<field name="librettistSort">Seta, Giovanni Battista de</field>
+<field name="theater">Teatro Massimo Bellini</field>
+<field name="city">Catania</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vera+Antonio+Savasta&amp;search_field=search</field>
+</doc>
+</add>

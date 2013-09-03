@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123734</field>
+<field name="genre">Operas</field>
+<field name="title">Sakuntala</field>
+<field name="titleSort">Sakuntala</field>
+<field name="composer">Karl von Perfall</field>
+<field name="composerSort">Perfall, Karl von</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Anton Teichlein</field>
+<field name="librettistSort">Teichlein, Anton</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sakuntala+Karl+von+Perfall&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101645</field>
+<field name="genre">Operas</field>
+<field name="title">Aria da capo</field>
+<field name="titleSort">Aria da capo</field>
+<field name="composer">Robert Baksa</field>
+<field name="composerSort">Baksa, Robert</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Edna St. Vincent Millay</field>
+<field name="librettistSort">Millay, Edna St. Vincent</field>
+<field name="theater">Lake George Opera Festival</field>
+<field name="city">Glens Falls</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aria+da+capo+Robert+Baksa&amp;search_field=search</field>
+</doc>
+</add>

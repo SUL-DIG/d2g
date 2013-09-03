@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132444</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Paar blaue Seidenstrümpfe</field>
+<field name="titleSort">Paar blaue Seidenstrümpfe</field>
+<field name="composer">Kuno Waldenburg</field>
+<field name="composerSort">Waldenburg, Kuno</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Georg Frost</field>
+<field name="librettistSort">Frost, Georg</field>
+<field name="librettist">Louis Scheuer</field>
+<field name="librettistSort">Scheuer, Louis</field>
+<field name="theater">Hessisches Landestheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Paar+blaue+Seidenstrümpfe+Kuno+Waldenburg&amp;search_field=search</field>
+</doc>
+</add>

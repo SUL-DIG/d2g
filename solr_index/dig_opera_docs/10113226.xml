@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113226</field>
+<field name="genre">Operas</field>
+<field name="title">Hans Egedes natt</field>
+<field name="titleSort">Hans Egedes natt</field>
+<field name="composer">Kjell Habbestad</field>
+<field name="composerSort">Habbestad, Kjell</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Paal-Helge Haugen</field>
+<field name="librettistSort">Haugen, Paal-Helge</field>
+<field name="theater">Kulturhuset</field>
+<field name="city">Harstad</field>
+<field name="region">Troms</field>
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hans+Egedes+natt+Kjell+Habbestad&amp;search_field=search</field>
+</doc>
+</add>

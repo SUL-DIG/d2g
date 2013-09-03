@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121986</field>
+<field name="genre">Operas</field>
+<field name="title">An Opera for Everyone</field>
+<field name="titleSort">Opera for Everyone</field>
+<field name="composer">Alfred J. Neumann</field>
+<field name="composerSort">Neumann, Alfred J.</field>
+<field name="year">1963</field>
+<field name="date">1963</field><field name="theater">Christ Congregational Church</field>
+<field name="city">Silver Springs</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=An+Opera+for+Everyone+Alfred+J.+Neumann&amp;search_field=search</field>
+</doc>
+</add>

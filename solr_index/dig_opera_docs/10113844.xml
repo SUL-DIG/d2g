@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113844</field>
+<field name="genre">Operas</field>
+<field name="title">The Bidder's Opera</field>
+<field name="titleSort">Bidder's Opera</field>
+<field name="composer">Michael Head</field>
+<field name="composerSort">Head, Michael</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Mary Dunn</field>
+<field name="librettistSort">Dunn, Mary"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bidder's+Opera+Michael+Head&amp;search_field=search</field>
+</doc>
+</add>

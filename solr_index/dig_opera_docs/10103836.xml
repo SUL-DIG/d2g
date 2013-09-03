@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103836</field>
+<field name="genre">Operas</field>
+<field name="title">Agincourt</field>
+<field name="titleSort">Agincourt</field>
+<field name="composer">Rutland Boughton</field>
+<field name="composerSort">Boughton, Rutland</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Assembly Rooms</field>
+<field name="city">Glastonbury</field>
+<field name="region">Somerset</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agincourt+Rutland+Boughton&amp;search_field=search</field>
+</doc>
+</add>

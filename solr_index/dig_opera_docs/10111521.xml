@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111521</field>
+<field name="genre">Operas</field>
+<field name="title">Il ritratto del duca</field>
+<field name="titleSort">ritratto del duca</field>
+<field name="composer">Pietro Generali</field>
+<field name="composerSort">Generali, Pietro</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritratto+del+duca+Pietro+Generali&amp;search_field=search</field>
+</doc>
+</add>

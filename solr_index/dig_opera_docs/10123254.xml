@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123254</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux portraits</field>
+<field name="titleSort">deux portraits</field>
+<field name="composer">Paolo Francesco Parenti</field>
+<field name="composerSort">Parenti, Paolo Francesco</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Charles-Joseph Loeuillard d'Avrigny</field>
+<field name="librettistSort">Loeuillard d'Avrigny, Charles-Joseph</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+portraits+Paolo+Francesco+Parenti&amp;search_field=search</field>
+</doc>
+</add>

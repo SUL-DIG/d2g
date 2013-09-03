@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102855</field>
+<field name="genre">Operas</field>
+<field name="title">La creazione della donna</field>
+<field name="titleSort">creazione della donna</field>
+<field name="composer">Eliodoro Bianchi</field>
+<field name="composerSort">Bianchi, Eliodoro</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">[Giulio Pullè] Riccardo Castelvecchio</field>
+<field name="librettistSort">Riccardo Castelvecchio, [Giulio Pullè]</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+creazione+della+donna+Eliodoro+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

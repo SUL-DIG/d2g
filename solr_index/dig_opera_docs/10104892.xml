@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104892</field>
+<field name="genre">Operas</field>
+<field name="title">"Mitridate, re di Ponto vincitor de se stesso</field>
+<field name="titleSort">"Mitridate, re di Ponto vincitor de se stesso"</field>
+<field name="composer">Giovanni Maria Capelli</field>
+<field name="composerSort">Capelli, Giovanni Maria</field>
+<field name="year">1723</field>
+<field name="date">1723</field>
+<field name="librettist">Benedetto Pasqualigo</field>
+<field name="librettistSort">Pasqualigo, Benedetto</field>
+<field name="librettist">Jean Racine</field>
+<field name="librettistSort">Racine, Jean</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mitridate,+re+di+Ponto+vincitor+de+se+stesso+Giovanni+Maria+Capelli&amp;search_field=search</field>
+</doc>
+</add>

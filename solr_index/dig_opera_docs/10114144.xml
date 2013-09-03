@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114144</field>
+<field name="genre">Operas</field>
+<field name="title">La belle poule</field>
+<field name="titleSort">belle poule</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Hector-Jonathan Crémieux</field>
+<field name="librettistSort">Crémieux, Hector-Jonathan</field>
+<field name="librettist">Albert de Saint-Albin</field>
+<field name="librettistSort">Saint-Albin, Albert de</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+poule+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

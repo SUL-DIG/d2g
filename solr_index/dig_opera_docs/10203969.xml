@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203969</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Agnese</field>
+		<field name="titleSort">Sant' Agnese</field>
+		<field name="year">1905</field>
+		<field name="month">October</field>
+		<field name="day">27</field>
+		<field name="date">October 27, 1905</field>
+		<field name="composer">Luigi Mancinelli</field>
+		<field name="composerSort">Mancinelli, Luigi</field>
+		<field name="librettist">Giuseppe Albini</field>
+		<field name="librettistSort">Albini, Giuseppe</field>
+		
+		<field name="theater">Norfolk and Norwich Triennial Musical Festival</field>
+		<field name="city">Norwich</field>
+		<field name="region">Norfolk</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint Agnes</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">January 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Agnese+Luigi+Mancinelli&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120234</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Onkel aus Boston, oder Die beiden Neffen</field>
+<field name="titleSort">"Onkel aus Boston, oder Die beiden Neffen"</field>
+<field name="composer">Felix Mendelssohn-Bartholdy</field>
+<field name="composerSort">Mendelssohn-Bartholdy, Felix</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Johann Ludwig Casper</field>
+<field name="librettistSort">Casper, Johann Ludwig</field>
+<field name="theater">Private Performance</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Onkel+aus+Boston,+oder+Die+beiden+Neffen+Felix+Mendelssohn-Bartholdy&amp;search_field=search</field>
+</doc>
+</add>

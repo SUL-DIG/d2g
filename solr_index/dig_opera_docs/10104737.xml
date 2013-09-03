@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104737</field>
+<field name="genre">Operas</field>
+<field name="title">Il-Weghda (The Promise)</field>
+<field name="titleSort">Weghda (The Promise)</field>
+<field name="composer">Charles Camilleri</field>
+<field name="composerSort">Camilleri, Charles</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Joe Friggieri</field>
+<field name="librettistSort">Friggieri, Joe</field>
+<field name="theater">Teatru Manoel</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il-Weghda+The+Promise+Charles+Camilleri&amp;search_field=search</field>
+</doc>
+</add>

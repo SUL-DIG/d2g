@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127333</field>
+<field name="genre">Operas</field>
+<field name="title">Le timbre d'argent</field>
+<field name="titleSort">timbre d'argent</field>
+<field name="composer">Camille Saint-Saëns</field>
+<field name="composerSort">Saint-Saëns, Camille</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+timbre+d'argent+Camille+Saint-Saëns&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121754</field>
+<field name="genre">Operas</field>
+<field name="title">Eros</field>
+<field name="titleSort">Eros</field>
+<field name="composer">Alfredo Nardi</field>
+<field name="composerSort">Nardi, Alfredo</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Alfredo Nardi</field>
+<field name="librettistSort">Nardi, Alfredo</field>
+<field name="theater">Sala Palestrina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eros+Alfredo+Nardi&amp;search_field=search</field>
+</doc>
+</add>

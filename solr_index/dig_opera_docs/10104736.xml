@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104736</field>
+<field name="genre">Operas</field>
+<field name="title">Melita</field>
+<field name="titleSort">Melita</field>
+<field name="composer">Charles Camilleri</field>
+<field name="composerSort">Camilleri, Charles</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Ursula Vaughan Williams</field>
+<field name="librettistSort">Williams, Ursula Vaughan</field>
+<field name="theater">Queen's University</field>
+<field name="city">Belfast</field>
+<field name="region">Northern Ireland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Melita+Charles+Camilleri&amp;search_field=search</field>
+</doc>
+</add>

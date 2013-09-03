@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130809</field>
+<field name="genre">Operas</field>
+<field name="title">Au temps des croisades</field>
+<field name="titleSort">Au temps des croisades</field>
+<field name="composer">Claude Terrasse</field>
+<field name="composerSort">Terrasse, Claude</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">[Maurice Étienne Legrand] Franc-Nohain</field>
+<field name="librettistSort">Franc-Nohain, [Maurice Étienne Legrand]</field>
+<field name="theater">Théâtre du Pavillon de Flore</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+temps+des+croisades+Claude+Terrasse&amp;search_field=search</field>
+</doc>
+</add>

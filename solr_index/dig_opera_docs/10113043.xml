@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113043</field>
+<field name="genre">Operas</field>
+<field name="title">Vologeso</field>
+<field name="titleSort">Vologeso</field>
+<field name="composer">Pietro Alessandro Guglielmi</field>
+<field name="composerSort">Guglielmi, Pietro Alessandro</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vologeso+Pietro+Alessandro+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

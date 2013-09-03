@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113283</field>
+<field name="genre">Operas</field>
+<field name="title">Paradoxi (Paradoxes)</field>
+<field name="titleSort">Paradoxi (Paradoxes)</field>
+<field name="composer">Parashkev Hadjiev</field>
+<field name="composerSort">Hadjiev, Parashkev</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Petko Raikov</field>
+<field name="librettistSort">Raikov, Petko</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistSort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Narodna Opera</field>
+<field name="city">Ruse</field>
+<field name="region">Ruse Oblast</field>
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paradoxi+Paradoxes+Parashkev+Hadjiev&amp;search_field=search</field>
+</doc>
+</add>

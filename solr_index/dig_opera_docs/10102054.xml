@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102054</field>
+<field name="genre">Operas</field>
+<field name="title">Cantuxa</field>
+<field name="titleSort">Cantuxa</field>
+<field name="composer">Gregorio Baudot-Puente</field>
+<field name="composerSort">Baudot-Puente, Gregorio</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Adolfo Torrado</field>
+<field name="librettistSort">Torrado, Adolfo</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cantuxa+Gregorio+Baudot-Puente&amp;search_field=search</field>
+</doc>
+</add>

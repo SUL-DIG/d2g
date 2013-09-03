@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114081</field>
+<field name="genre">Operas</field>
+<field name="title">The Scarlet Letter</field>
+<field name="titleSort">Scarlet Letter</field>
+<field name="composer">Martin Herman</field>
+<field name="composerSort">Herman, Martin</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Thomas Francis Curley</field>
+<field name="librettistSort">Curley, Thomas Francis</field>
+<field name="librettist">Nathaniel Hawthorne</field>
+<field name="librettistSort">Hawthorne, Nathaniel</field>
+<field name="theater">University of California</field>
+<field name="city">Berkeley</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Scarlet+Letter+Martin+Herman&amp;search_field=search</field>
+</doc>
+</add>

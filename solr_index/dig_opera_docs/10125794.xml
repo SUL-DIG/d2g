@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125794</field>
+<field name="genre">Operas</field>
+<field name="title">Der Gouverneur von Tours</field>
+<field name="titleSort">Gouverneur von Tours</field>
+<field name="composer">Karl Reinecke</field>
+<field name="composerSort">Reinecke, Karl</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Edwin Bormann</field>
+<field name="librettistSort">Bormann, Edwin</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Gouverneur+von+Tours+Karl+Reinecke&amp;search_field=search</field>
+</doc>
+</add>

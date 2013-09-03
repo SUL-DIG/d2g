@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106754</field>
+<field name="genre">Operas</field>
+<field name="title">Margot</field>
+<field name="titleSort">Margot</field>
+<field name="composer">Nicola Costa</field>
+<field name="composerSort">Costa, Nicola</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Daniele Oberto Marrama</field>
+<field name="librettistSort">Marrama, Daniele Oberto</field>
+<field name="theater">Politeama Petruzzelli</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margot+Nicola+Costa&amp;search_field=search</field>
+</doc>
+</add>

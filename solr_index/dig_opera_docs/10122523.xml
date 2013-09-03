@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122523</field>
+<field name="genre">Operas</field>
+<field name="title">Il rinnegato</field>
+<field name="titleSort">rinnegato</field>
+<field name="composer">Bodog Orczy</field>
+<field name="composerSort">Orczy, Bodog</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Farkas Deák</field>
+<field name="librettistSort">Deák, Farkas</field>
+<field name="theater">"Her Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+rinnegato+Bodog+Orczy&amp;search_field=search</field>
+</doc>
+</add>

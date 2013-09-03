@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130370</field>
+<field name="genre">Operas</field>
+<field name="title">Transformations</field>
+<field name="titleSort">Transformations</field>
+<field name="composer">Conrad Susa</field>
+<field name="composerSort">Susa, Conrad</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Conrad Susa</field>
+<field name="librettistSort">Susa, Conrad</field>
+<field name="librettist">Anne Sexton</field>
+<field name="librettistSort">Sexton, Anne</field>
+<field name="theater">Cedar Village Theater</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Transformations+Conrad+Susa&amp;search_field=search</field>
+</doc>
+</add>

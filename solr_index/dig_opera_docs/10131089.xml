@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131089</field>
+<field name="genre">Operas</field>
+<field name="title">Blue Wing</field>
+<field name="titleSort">Blue Wing</field>
+<field name="composer">Gerard Tonning</field>
+<field name="composerSort">Tonning, Gerard</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Cyril Arthur Player</field>
+<field name="librettistSort">Player, Cyril Arthur</field>
+<field name="theater">Moore Theater</field>
+<field name="city">Seattle</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Blue+Wing+Gerard+Tonning&amp;search_field=search</field>
+</doc>
+</add>

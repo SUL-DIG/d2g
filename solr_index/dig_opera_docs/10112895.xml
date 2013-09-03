@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112895</field>
+<field name="genre">Operas</field>
+<field name="title">The Isle of Cuckoo</field>
+<field name="titleSort">Isle of Cuckoo</field>
+<field name="composer">Homer Grunn</field>
+<field name="composerSort">Grunn, Homer</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Charles O. Roos</field>
+<field name="librettistSort">Roos, Charles O.</field>
+<field name="librettist">Juanita E. Roos</field>
+<field name="librettistSort">Roos, Juanita E.</field>
+<field name="theater">Wilshire Ebell Theater</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Isle+of+Cuckoo+Homer+Grunn&amp;search_field=search</field>
+</doc>
+</add>

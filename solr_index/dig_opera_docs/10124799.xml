@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124799</field>
+<field name="genre">Operas</field>
+<field name="title">"Moretus, oder Der widerspenstige Verdammte</field>
+<field name="titleSort">"Moretus, oder Der widerspenstige Verdammte"</field>
+<field name="composer">Marcel Poot</field>
+<field name="composerSort">Poot, Marcel</field>
+<field name="year">1944</field>
+<field name="date">1944</field>
+<field name="librettist">Joseph Weterings</field>
+<field name="librettistSort">Weterings, Joseph</field>
+<field name="theater">Palais des Beaux-Arts</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moretus,+oder+Der+widerspenstige+Verdammte+Marcel+Poot&amp;search_field=search</field>
+</doc>
+</add>

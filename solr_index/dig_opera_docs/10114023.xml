@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114023</field>
+<field name="genre">Operas</field>
+<field name="title">Das Wundertheater</field>
+<field name="titleSort">Wundertheater</field>
+<field name="composer">Hans Werner Henze</field>
+<field name="composerSort">Henze, Hans Werner</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Adolf Friedrich von Schack</field>
+<field name="librettistSort">Schack, Adolf Friedrich von</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wundertheater+Hans+Werner+Henze&amp;search_field=search</field>
+</doc>
+</add>

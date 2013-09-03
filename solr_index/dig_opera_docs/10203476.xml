@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203476</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Prima culpa per Redemptionem deleta</field>
+		<field name="titleSort">Prima culpa per Redemptionem deleta</field>
+		<field name="year">1702</field>
+		
+		
+		<field name="date">1702</field>
+		<field name="composer">Francesco Gasparini</field>
+		<field name="composerSort">Gasparini, Francesco</field>
+		<field name="librettist">Bernardo Sandrinelli</field>
+		<field name="librettistSort">Sandrinelli, Bernardo</field>
+		
+		<field name="theater">Ospedale della Pietа</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prima+culpa+per+Redemptionem+deleta+Francesco+Gasparini&amp;search_field=search</field>
+	</doc></add>

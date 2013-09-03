@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204092</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Vittoria (Il martirio di Santa Victoria)</field>
+		<field name="titleSort">Santa Vittoria (Il martirio di Santa Victoria)</field>
+		<field name="year">1685</field>
+		<field name="month">March</field>
+		<field name="day">2</field>
+		<field name="date">March 2, 1685</field>
+		<field name="composer">Giovanni Lorenzo Lulier</field>
+		<field name="composerSort">Lulier, Giovanni Lorenzo</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Seminario Romano</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Victoria</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">10</field>
+		<field name="feastDate">July 10</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Vittoria+(Il+martirio+di+Santa+Victoria)+Giovanni+Lorenzo+Lulier&amp;search_field=search</field>
+	</doc></add>

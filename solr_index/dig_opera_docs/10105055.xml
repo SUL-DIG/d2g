@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105055</field>
+<field name="genre">Operas</field>
+<field name="title">"Eufemio di Messina, ó Los sarracenos en Sicilia</field>
+<field name="titleSort">"Eufemio di Messina, ó Los sarracenos en Sicilia"</field>
+<field name="composer">Ramón Carnicer</field>
+<field name="composerSort">Carnicer, Ramón</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro del Principe</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eufemio+di+Messina,+ó+Los+sarracenos+en+Sicilia+Ramón+Carnicer&amp;search_field=search</field>
+</doc>
+</add>

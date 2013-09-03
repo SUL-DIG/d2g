@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123451</field>
+<field name="genre">Operas</field>
+<field name="title">The Woman at Otowi Crossing</field>
+<field name="titleSort">Woman at Otowi Crossing</field>
+<field name="composer">Stephen Paulus</field>
+<field name="composerSort">Paulus, Stephen</field>
+<field name="year">1995</field>
+<field name="date">1995</field>
+<field name="librettist">Joan Vail Thorne</field>
+<field name="librettistSort">Thorne, Joan Vail</field>
+<field name="librettist">Frank Waters</field>
+<field name="librettistSort">Waters, Frank</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Woman+at+Otowi+Crossing+Stephen+Paulus&amp;search_field=search</field>
+</doc>
+</add>

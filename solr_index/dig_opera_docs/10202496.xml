@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202496</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die letzten Worte des Erlösers</field>
+		<field name="titleSort">letzten Worte des Erlösers</field>
+		<field name="year">1822</field>
+		<field name="month">March</field>
+		<field name="day">2</field>
+		<field name="date">March 2, 1822</field>
+		<field name="composer">Christian Friedrich Hermann Uber</field>
+		<field name="composerSort">Uber, Christian Friedrich Hermann</field>
+		
+		
+		
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Seven Last Words</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+letzten+Worte+des+Erlösers+Christian+Friedrich+Hermann+Uber&amp;search_field=search</field>
+	</doc></add>

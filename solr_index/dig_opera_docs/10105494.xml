@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105494</field>
+<field name="genre">Operas</field>
+<field name="title">Der Glücklichste</field>
+<field name="titleSort">Glücklichste</field>
+<field name="composer">Hans Albert Cesek</field>
+<field name="composerSort">Cesek, Hans Albert</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Bernhard Buchbinder</field>
+<field name="librettistSort">Buchbinder, Bernhard</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Glücklichste+Hans+Albert+Cesek&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103314</field>
+<field name="genre">Operas</field>
+<field name="title">Knyaz otshelnik (A Prince-Hermit)</field>
+<field name="titleSort">Knyaz otshelnik (A Prince-Hermit)</field>
+<field name="composer">Venedikt Bobchevski</field>
+<field name="composerSort">Bobchevski, Venedikt</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Venedikt Bobchevski</field>
+<field name="librettistSort">Bobchevski, Venedikt</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Knyaz+otshelnik+A+Prince-Hermit+Venedikt+Bobchevski&amp;search_field=search</field>
+</doc>
+</add>

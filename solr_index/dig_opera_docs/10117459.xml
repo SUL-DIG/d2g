@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117459</field>
+<field name="genre">Operas</field>
+<field name="title">La leçon de chant</field>
+<field name="titleSort">leçon de chant</field>
+<field name="composer">François-Anatole Laurent de Rillé</field>
+<field name="composerSort">Rillé, François-Anatole Laurent de</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Eugène Adénis</field>
+<field name="librettistSort">Adénis, Eugène</field>
+<field name="theater">Théâtre de la Galerie-Vivienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+leçon+de+chant+François-Anatole+Laurent+de+Rillé&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120736</field>
+<field name="genre">Operas</field>
+<field name="title">Cornelio Bentivoglio</field>
+<field name="titleSort">Cornelio Bentivoglio</field>
+<field name="composer">Franciszek Mirecki</field>
+<field name="composerSort">Mirecki, Franciszek</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cornelio+Bentivoglio+Franciszek+Mirecki&amp;search_field=search</field>
+</doc>
+</add>

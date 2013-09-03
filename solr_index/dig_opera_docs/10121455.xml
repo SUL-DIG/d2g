@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121455</field>
+<field name="genre">Operas</field>
+<field name="title">Die Nazarener in Pompeji</field>
+<field name="titleSort">Nazarener in Pompeji</field>
+<field name="composer">Franz J. Muck</field>
+<field name="composerSort">Muck, Franz J.</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Ludwig Coelestin Bauer</field>
+<field name="librettistSort">Bauer, Ludwig Coelestin</field>
+<field name="librettist">Carl Gollmick</field>
+<field name="librettistSort">Gollmick, Carl</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nazarener+in+Pompeji+Franz+J.+Muck&amp;search_field=search</field>
+</doc>
+</add>

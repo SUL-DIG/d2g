@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126514</field>
+<field name="genre">Operas</field>
+<field name="title">Jeanne d'Arc</field>
+<field name="titleSort">Jeanne d'Arc</field>
+<field name="composer">[Roland Alexis Manuel Lévy] Roland-Manuel</field>
+<field name="composerSort">Roland-Manuel, [Roland Alexis Manuel Lévy]</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Charles Péguy</field>
+<field name="librettistSort">Péguy, Charles</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+d'Arc+Roland+Alexis+Manuel+Lévy]+Roland-Manuel&amp;search_field=search</field>
+</doc>
+</add>

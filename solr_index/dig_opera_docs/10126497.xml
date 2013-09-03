@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126497</field>
+<field name="genre">Operas</field>
+<field name="title">Cantegril</field>
+<field name="titleSort">Cantegril</field>
+<field name="composer">Jean Roger-Ducasse</field>
+<field name="composerSort">Roger-Ducasse, Jean</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Raymond Escholier</field>
+<field name="librettistSort">Escholier, Raymond</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cantegril+Jean+Roger-Ducasse&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133319</field>
+<field name="genre">Operas</field>
+<field name="title">Oce nas (Die Vaterunser)</field>
+<field name="titleSort">Oce nas (Die Vaterunser)</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Julije Benesic</field>
+<field name="librettistSort">Benesic, Julije</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oce+nas+Die+Vaterunser+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102955</field>
+<field name="genre">Operas</field>
+<field name="title">Der Herr von Larifari</field>
+<field name="titleSort">Herr von Larifari</field>
+<field name="composer">Franz Biebl</field>
+<field name="composerSort">Biebl, Franz</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Franz Bauer</field>
+<field name="librettistSort">Bauer, Franz</field>
+<field name="librettist">Franz Pocci</field>
+<field name="librettistSort">Pocci, Franz</field>
+
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Herr+von+Larifari+Franz+Biebl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200081</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Absalon</field>
+		<field name="titleSort">Absalon</field>
+		<field name="year">1832</field>
+		
+		
+		<field name="date">1832</field>
+		<field name="composer">Friedrich Schneider</field>
+		<field name="composerSort">Schneider, Friedrich</field>
+		<field name="librettist">August Brüggemann</field>
+		<field name="librettistSort">Brüggemann, August</field>
+		
+		<field name="theater">Singakademie</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">David and Absalom</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Absalon+Friedrich+Schneider&amp;search_field=search</field>
+	</doc></add>

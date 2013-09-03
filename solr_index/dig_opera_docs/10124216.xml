@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124216</field>
+<field name="genre">Operas</field>
+<field name="title">Roland</field>
+<field name="titleSort">Roland</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roland+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

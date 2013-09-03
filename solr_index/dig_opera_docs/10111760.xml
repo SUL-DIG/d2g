@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111760</field>
+<field name="genre">Operas</field>
+<field name="title">Il fortunato accidente</field>
+<field name="titleSort">fortunato accidente</field>
+<field name="composer">Cesare Giannoni</field>
+<field name="composerSort">Giannoni, Cesare</field>
+<field name="year">1801</field>
+<field name="date">1801</field><field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+fortunato+accidente+Cesare+Giannoni&amp;search_field=search</field>
+</doc>
+</add>

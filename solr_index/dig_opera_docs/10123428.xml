@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123428</field>
+<field name="genre">Operas</field>
+<field name="title">Les menniers</field>
+<field name="titleSort">menniers</field>
+<field name="composer">[E. J. Weidinghen] Patrie</field>
+<field name="composerSort">Patrie, [E. J. Weidinghen]</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Léon Powyss</field>
+<field name="librettistSort">Powyss, Léon</field>
+<field name="theater">Cercle Drammatique</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+menniers+E.+J.+Weidinghen]+Patrie&amp;search_field=search</field>
+</doc>
+</add>

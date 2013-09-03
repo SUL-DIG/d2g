@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200509</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Cantate flebili</field>
+		<field name="titleSort">Cantate flebili</field>
+		<field name="year">1768</field>
+		
+		
+		<field name="date">1768</field>
+		<field name="composer">Antonio Mazzoni</field>
+		<field name="composerSort">Mazzoni, Antonio</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cantate+flebili+Antonio+Mazzoni&amp;search_field=search</field>
+	</doc></add>

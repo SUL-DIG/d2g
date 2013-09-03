@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129388</field>
+<field name="genre">Operas</field>
+<field name="title">Osada Dubno (The Siege of Dubno)</field>
+<field name="titleSort">Osada Dubno (The Siege of Dubno)</field>
+<field name="composer">Petro Petrovych Sokal's'ky</field>
+<field name="composerSort">Sokal's'ky, Petro Petrovych</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Petro Petrovych Sokal's'ky</field>
+<field name="librettistSort">Sokal's'ky, Petro Petrovych</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Teatr Odessy</field>
+<field name="city">Odessa</field>
+<field name="region">Odes'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Osada+Dubno+The+Siege+of+Dubno+Petro+Petrovych+Sokal's'ky&amp;search_field=search</field>
+</doc>
+</add>

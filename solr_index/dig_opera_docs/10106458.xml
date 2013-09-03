@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106458</field>
+<field name="genre">Operas</field>
+<field name="title">Intimations</field>
+<field name="titleSort">Intimations</field>
+<field name="composer">Dinos Constantinides</field>
+<field name="composerSort">Constantinides, Dinos</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">David Madden</field>
+<field name="librettistSort">Madden, David</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Intimations+Dinos+Constantinides&amp;search_field=search</field>
+</doc>
+</add>

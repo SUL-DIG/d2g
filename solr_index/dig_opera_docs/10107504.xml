@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107504</field>
+<field name="genre">Operas</field>
+<field name="title">La princesse Kaika</field>
+<field name="titleSort">princesse Kaika</field>
+<field name="composer">Jules August Demersseman</field>
+<field name="composerSort">Demersseman, Jules August</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+princesse+Kaika+Jules+August+Demersseman&amp;search_field=search</field>
+</doc>
+</add>

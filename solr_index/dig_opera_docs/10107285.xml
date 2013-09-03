@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107285</field>
+<field name="genre">Operas</field>
+<field name="title">La comédie en voyage</field>
+<field name="titleSort">comédie en voyage</field>
+<field name="composer">Louis Deffès</field>
+<field name="composerSort">Deffès, Louis</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Jules Adénis</field>
+<field name="librettistSort">Adénis, Jules</field>
+<field name="librettist">Joseph Méry</field>
+<field name="librettistSort">Méry, Joseph</field>
+<field name="theater">Kursaal</field>
+<field name="city">Bad Ems</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+comédie+en+voyage+Louis+Deffès&amp;search_field=search</field>
+</doc>
+</add>

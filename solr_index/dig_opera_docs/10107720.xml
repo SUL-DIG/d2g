@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107720</field>
+<field name="genre">Operas</field>
+<field name="title">Am Magdalenenstein</field>
+<field name="titleSort">Am Magdalenenstein</field>
+<field name="composer">Karl Dibbern</field>
+<field name="composerSort">Dibbern, Karl</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Karl Dibbern</field>
+<field name="librettistSort">Dibbern, Karl</field>
+<field name="theater">Theater der Casino-Gesellschaft</field>
+<field name="city">Lübeck</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Am+Magdalenenstein+Karl+Dibbern&amp;search_field=search</field>
+</doc>
+</add>

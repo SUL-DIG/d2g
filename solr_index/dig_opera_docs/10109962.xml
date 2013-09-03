@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109962</field>
+<field name="genre">Operas</field>
+<field name="title">I piccoli eroi</field>
+<field name="titleSort">piccoli eroi</field>
+<field name="composer">Giovanni Firpo</field>
+<field name="composerSort">Firpo, Giovanni</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">L. Moriona</field>
+<field name="librettistSort">Moriona, L.</field>
+<field name="theater">Teatro Sociale Cristoforo Colombo</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+piccoli+eroi+Giovanni+Firpo&amp;search_field=search</field>
+</doc>
+</add>

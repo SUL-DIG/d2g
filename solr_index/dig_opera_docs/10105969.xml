@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105969</field>
+<field name="genre">Operas</field>
+<field name="title">La felicitа inaspettata</field>
+<field name="titleSort">felicitа inaspettata</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Ferdinando Moretti</field>
+<field name="librettistSort">Moretti, Ferdinando</field>
+<field name="theater">Zrmitazny Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+felicitа+inaspettata+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

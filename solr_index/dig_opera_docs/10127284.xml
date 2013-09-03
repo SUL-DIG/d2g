@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127284</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schelm von Bergen</field>
+<field name="titleSort">Schelm von Bergen</field>
+<field name="composer">Emil Sahlender</field>
+<field name="composerSort">Sahlender, Emil</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Max Vogler</field>
+<field name="librettistSort">Vogler, Max</field>
+<field name="librettist">Clemens Schottler</field>
+<field name="librettistSort">Schottler, Clemens</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schelm+von+Bergen+Emil+Sahlender&amp;search_field=search</field>
+</doc>
+</add>

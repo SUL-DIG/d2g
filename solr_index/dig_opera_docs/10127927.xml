@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127927</field>
+<field name="genre">Operas</field>
+<field name="title">Una starnuto di Giove</field>
+<field name="titleSort">starnuto di Giove</field>
+<field name="composer">Oronzo Mario Scarano</field>
+<field name="composerSort">Scarano, Oronzo Mario</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Alfredo Morgigni</field>
+<field name="librettistSort">Morgigni, Alfredo</field>
+<field name="theater">Circolo Nazionale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+starnuto+di+Giove+Oronzo+Mario+Scarano&amp;search_field=search</field>
+</doc>
+</add>

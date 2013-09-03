@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200709</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La conversione di Sant' Agostino</field>
+		<field name="titleSort">conversione di Sant' Agostino</field>
+		<field name="year">1743</field>
+		
+		
+		<field name="date">1743</field>
+		<field name="composer">Nero Neri</field>
+		<field name="composerSort">Neri, Nero</field>
+		
+		
+		
+		<field name="city">Pistoia</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Augustine</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">November 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conversione+di+Sant'+Agostino+Nero+Neri&amp;search_field=search</field>
+	</doc></add>

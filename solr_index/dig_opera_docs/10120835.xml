@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120835</field>
+<field name="genre">Operas</field>
+<field name="title">Anno Domini</field>
+<field name="titleSort">Anno Domini</field>
+<field name="composer">Roderich Mojsisovics</field>
+<field name="composerSort">Mojsisovics, Roderich</field>
+
+
+<field name="librettist">Roderich Mojsisovics</field>
+<field name="librettistSort">Mojsisovics, Roderich"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Anno+Domini+Roderich+Mojsisovics&amp;search_field=search</field>
+</doc>
+</add>

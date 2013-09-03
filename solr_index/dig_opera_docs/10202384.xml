@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202384</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">A King, Riding</field>
+		<field name="titleSort">King, Riding</field>
+		<field name="year">1996</field>
+		
+		
+		<field name="date">1996</field>
+		<field name="composer">Klaas de Vries</field>
+		<field name="composerSort">Vries, Klaas de</field>
+		<field name="librettist">Klaas de Vries</field>
+		<field name="librettistSort">Vries, Klaas de</field>
+		<field name="librettist">Virginia Woolf</field>
+		<field name="librettistSort">Woolf, Virginia</field>
+		<field name="theater">Circus Carré</field>
+		<field name="city">Amsterdam</field>
+		<field name="region">Noord Holland</field>
+		<field name="country">Netherlands</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+King,+Riding+Klaas+de+Vries&amp;search_field=search</field>
+	</doc></add>

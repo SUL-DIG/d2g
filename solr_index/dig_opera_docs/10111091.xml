@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111091</field>
+<field name="genre">Operas</field>
+<field name="title">Teodolinda</field>
+<field name="titleSort">Teodolinda</field>
+<field name="composer">Francesco Gardi</field>
+<field name="composerSort">Gardi, Francesco</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Giandomenico Boggio</field>
+<field name="librettistSort">Boggio, Giandomenico</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teodolinda+Francesco+Gardi&amp;search_field=search</field>
+</doc>
+</add>

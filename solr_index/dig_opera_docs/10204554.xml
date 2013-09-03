@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204554</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Tommaso Moro gran cancelliere d'Inghilterra</field>
+		<field name="titleSort">Tommaso Moro gran cancelliere d'Inghilterra</field>
+		<field name="year">1702</field>
+		
+		
+		<field name="date">1702</field>
+		<field name="composer">Agostino Ciccioni</field>
+		<field name="composerSort">Ciccioni, Agostino</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Thomas More</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">June 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Tommaso+Moro+gran+cancelliere+d'Inghilterra+Agostino+Ciccioni&amp;search_field=search</field>
+	</doc></add>

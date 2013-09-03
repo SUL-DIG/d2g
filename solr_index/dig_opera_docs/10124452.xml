@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124452</field>
+<field name="genre">Operas</field>
+<field name="title">Lina</field>
+<field name="titleSort">Lina</field>
+<field name="composer">Emilio Pizzi</field>
+<field name="composerSort">Pizzi, Emilio</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Conservatorio di Musica</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lina+Emilio+Pizzi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100480</field>
+<field name="genre">Operas</field>
+<field name="title">Il coro delle muse</field>
+<field name="titleSort">coro delle muse</field>
+<field name="composer">Gennaro d'Alessandro</field>
+<field name="composerSort">d'Alessandro, Gennaro</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Ospedale della Pietа</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+coro+delle+muse+Gennaro+d'Alessandro&amp;search_field=search</field>
+</doc>
+</add>

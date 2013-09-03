@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132450</field>
+<field name="genre">Operas</field>
+<field name="title">Svengali</field>
+<field name="titleSort">Svengali</field>
+<field name="composer">Granville Walker</field>
+<field name="composerSort">Walker, Granville</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Jeremy Siddle</field>
+<field name="librettistSort">Siddle, Jeremy</field>
+<field name="librettist">George du Maurier</field>
+<field name="librettistSort">du Maurier, George</field>
+<field name="theater">Western Washington University</field>
+<field name="city">Bellingham</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svengali+Granville+Walker&amp;search_field=search</field>
+</doc>
+</add>

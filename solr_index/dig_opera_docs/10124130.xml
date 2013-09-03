@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124130</field>
+<field name="genre">Operas</field>
+<field name="title">La rancune trompée</field>
+<field name="titleSort">rancune trompée</field>
+<field name="composer">Luigi Piccinni</field>
+<field name="composerSort">Piccinni, Luigi</field>
+<field name="year">1819</field>
+<field name="date">1819</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+rancune+trompée+Luigi+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

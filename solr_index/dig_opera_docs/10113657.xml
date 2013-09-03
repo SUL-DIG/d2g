@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113657</field>
+<field name="genre">Operas</field>
+<field name="title">Carnival of Eden</field>
+<field name="titleSort">Carnival of Eden</field>
+<field name="composer">Herbert Haslam</field>
+<field name="composerSort">Haslam, Herbert</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Herbert Haslam</field>
+<field name="librettistSort">Haslam, Herbert</field>
+<field name="theater">University of New Delhi</field>
+<field name="city">New Delhi</field>
+
+<field name="country">India</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carnival+of+Eden+Herbert+Haslam&amp;search_field=search</field>
+</doc>
+</add>

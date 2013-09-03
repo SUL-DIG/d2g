@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130786</field>
+<field name="genre">Operas</field>
+<field name="title">Clearco</field>
+<field name="titleSort">Clearco</field>
+<field name="composer">Antonio Francesco Tenaglia</field>
+<field name="composerSort">Tenaglia, Antonio Francesco</field>
+<field name="year">1661</field>
+<field name="date">1661</field>
+<field name="librettist">Ludovico Cortesi</field>
+<field name="librettistSort">Cortesi, Ludovico</field>
+<field name="theater">Teatro Tordinona</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clearco+Antonio+Francesco+Tenaglia&amp;search_field=search</field>
+</doc>
+</add>

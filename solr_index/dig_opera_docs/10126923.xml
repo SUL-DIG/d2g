@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126923</field>
+<field name="genre">Operas</field>
+<field name="title">Stoja</field>
+<field name="titleSort">Stoja</field>
+<field name="composer">Josef Richard Rozkosný</field>
+<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Otakar Kucera</field>
+<field name="librettistSort">Kucera, Otakar</field>
+<field name="librettist">Josef Deograt Konrád</field>
+<field name="librettistSort">Konrád, Josef Deograt</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stoja+Josef+Richard+Rozkosný&amp;search_field=search</field>
+</doc>
+</add>

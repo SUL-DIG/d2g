@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127658</field>
+<field name="genre">Operas</field>
+<field name="title">Elmina</field>
+<field name="titleSort">Elmina</field>
+<field name="composer">Salvatore Sarmiento</field>
+<field name="composerSort">Sarmiento, Salvatore</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Giuseppe Sesto Giannini</field>
+<field name="librettistSort">Giannini, Giuseppe Sesto</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elmina+Salvatore+Sarmiento&amp;search_field=search</field>
+</doc>
+</add>

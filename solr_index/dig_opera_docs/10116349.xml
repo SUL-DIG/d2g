@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116349</field>
+<field name="genre">Operas</field>
+<field name="title">Plutos</field>
+<field name="titleSort">Plutos</field>
+<field name="composer">Paul Kont</field>
+<field name="composerSort">Kont, Paul</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Paul Kont</field>
+<field name="librettistSort">Kont, Paul</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Klagenfurt</field>
+<field name="region">Kärnten</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plutos+Paul+Kont&amp;search_field=search</field>
+</doc>
+</add>

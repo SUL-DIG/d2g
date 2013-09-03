@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106692</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro nell'Indie</field>
+<field name="titleSort">Alessandro nell'Indie</field>
+<field name="composer">Francesco Corselli</field>
+<field name="composerSort">Corselli, Francesco</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Geronimo Val</field>
+<field name="librettistSort">Val, Geronimo</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Coliseo del Buen Retiro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+nell'Indie+Francesco+Corselli&amp;search_field=search</field>
+</doc>
+</add>

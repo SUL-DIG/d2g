@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118960</field>
+<field name="genre">Operas</field>
+<field name="title">Il sogno d'Olimpia</field>
+<field name="titleSort">sogno d'Olimpia</field>
+<field name="composer">Giuseppe de Majo</field>
+<field name="composerSort">Majo, Giuseppe de</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Raniero de' Calzabigi</field>
+<field name="librettistSort">Calzabigi, Raniero de'</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sogno+d'Olimpia+Giuseppe+de+Majo&amp;search_field=search</field>
+</doc>
+</add>

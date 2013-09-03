@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109168</field>
+<field name="genre">Operas</field>
+<field name="title">La vedova d'un vivo</field>
+<field name="titleSort">vedova d'un vivo</field>
+<field name="composer">Paolo Fabrizi</field>
+<field name="composerSort">Fabrizi, Paolo</field>
+<field name="year">1833</field>
+<field name="date">1833</field><field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedova+d'un+vivo+Paolo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

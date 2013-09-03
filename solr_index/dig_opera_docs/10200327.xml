@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200327</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">To axion esti (The Worth of Being)</field>
+		<field name="titleSort">axion esti (The Worth of Being)</field>
+		<field name="year">1982</field>
+		<field name="month">October</field>
+		<field name="day">16</field>
+		<field name="date">October 16, 1982</field>
+		<field name="composer">Mikis Theodorakes</field>
+		<field name="composerSort">Theodorakes, Mikis</field>
+		<field name="librettist">Odysséas Elytis</field>
+		<field name="librettistSort">Elytis, Odysséas</field>
+		
+		<field name="theater">Gewandhaus</field>
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+axion+esti+(The+Worth+of+Being)+Mikis+Theodorakes&amp;search_field=search</field>
+	</doc></add>

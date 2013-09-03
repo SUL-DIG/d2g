@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118423</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur Bourgogne</field>
+<field name="titleSort">Monsieur Bourgogne</field>
+<field name="composer">Francis Lopez</field>
+<field name="composerSort">Lopez, Francis</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Raymond Vincy</field>
+<field name="librettistSort">Vincy, Raymond</field>
+<field name="librettist">Jean-Jacques Vital</field>
+<field name="librettistSort">Vital, Jean-Jacques</field>
+<field name="theater">Bobino-Music-Hall</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+Bourgogne+Francis+Lopez&amp;search_field=search</field>
+</doc>
+</add>

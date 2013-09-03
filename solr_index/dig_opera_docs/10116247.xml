@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116247</field>
+<field name="genre">Operas</field>
+<field name="title">Derfflinger</field>
+<field name="titleSort">Derfflinger</field>
+<field name="composer">Walter Kollo</field>
+<field name="composerSort">Kollo, Walter</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Karl Bretschneider</field>
+<field name="librettistSort">Bretschneider, Karl</field>
+<field name="theater">Theater im Admiralspalast</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Derfflinger+Walter+Kollo&amp;search_field=search</field>
+</doc>
+</add>

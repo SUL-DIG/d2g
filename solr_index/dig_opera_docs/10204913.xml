@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204913</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Weltgericht</field>
+		<field name="titleSort">Weltgericht</field>
+		<field name="year">1783</field>
+		<field name="month">May</field>
+		<field name="day">6</field>
+		<field name="date">May 6, 1783</field>
+		<field name="composer">Johann Christoph Kühnau</field>
+		<field name="composerSort">Kühnau, Johann Christoph</field>
+		
+		
+		<field name="theater">Dreifaltigkeitskirche</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Last Judgment</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Weltgericht+Johann+Christoph+Kühnau&amp;search_field=search</field>
+	</doc></add>

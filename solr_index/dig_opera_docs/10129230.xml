@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129230</field>
+<field name="genre">Operas</field>
+<field name="title">Der schlaue Hans</field>
+<field name="titleSort">schlaue Hans</field>
+<field name="composer">Johann Sklenka</field>
+<field name="composerSort">Sklenka, Johann</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Johann Sklenka</field>
+<field name="librettistSort">Sklenka, Johann</field>
+<field name="theater">Theater am Fleischmarkt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+schlaue+Hans+Johann+Sklenka&amp;search_field=search</field>
+</doc>
+</add>

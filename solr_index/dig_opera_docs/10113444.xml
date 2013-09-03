@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113444</field>
+<field name="genre">Operas</field>
+<field name="title">Tovelille</field>
+<field name="titleSort">Tovelille</field>
+<field name="composer">Asger Hamerik</field>
+<field name="composerSort">Hamerik, Asger</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Asger Hamerik</field>
+<field name="librettistSort">Hamerik, Asger</field>
+<field name="theater">Salle Pleyel</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tovelille+Asger+Hamerik&amp;search_field=search</field>
+</doc>
+</add>

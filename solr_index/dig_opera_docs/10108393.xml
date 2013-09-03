@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108393</field>
+<field name="genre">Operas</field>
+<field name="title">David</field>
+<field name="titleSort">David</field>
+<field name="composer">Charles Duhot</field>
+<field name="composerSort">Duhot, Charles</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Gaston d'Albano</field>
+<field name="librettistSort">d'Albano, Gaston</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Douai</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+Charles+Duhot&amp;search_field=search</field>
+</doc>
+</add>

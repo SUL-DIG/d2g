@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201347</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il finto smeraldo, overo Sant' Eufrosina</field>
+		<field name="titleSort">finto smeraldo, overo Sant' Eufrosina</field>
+		<field name="year">1690</field>
+		
+		
+		<field name="date">1690</field>
+		<field name="composer">Galgano Rubini</field>
+		<field name="composerSort">Rubini, Galgano</field>
+		<field name="librettist">Girolamo di San Carlo</field>
+		<field name="librettistSort">San Carlo, Girolamo di</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint Euphrosyne of Polotsk</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">23</field>
+		<field name="feastDate">May 23</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+finto+smeraldo,+overo+Sant'+Eufrosina+Galgano+Rubini&amp;search_field=search</field>
+	</doc></add>

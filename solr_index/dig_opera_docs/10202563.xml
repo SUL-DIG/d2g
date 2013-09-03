@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202563</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La madre de' Maccabei</field>
+		<field name="titleSort">madre de' Maccabei</field>
+		<field name="year">1704</field>
+		
+		
+		<field name="date">1704</field>
+		<field name="composer">Attilio Ariosti</field>
+		<field name="composerSort">Ariosti, Attilio</field>
+		<field name="librettist">Girolamo Gigli</field>
+		<field name="librettistSort">Gigli, Girolamo</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Seven brothers and their Mother</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+madre+de'+Maccabei+Attilio+Ariosti&amp;search_field=search</field>
+	</doc></add>

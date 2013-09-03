@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117326</field>
+<field name="genre">Operas</field>
+<field name="title">Die Huldigung der Töne</field>
+<field name="titleSort">Huldigung der Töne</field>
+<field name="composer">Johann Baptist Lasser</field>
+<field name="composerSort">Lasser, Johann Baptist</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Wilhelm von Bube</field>
+<field name="librettistSort">Bube, Wilhelm von</field>
+<field name="theater">Landschaftstheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Huldigung+der+Töne+Johann+Baptist+Lasser&amp;search_field=search</field>
+</doc>
+</add>

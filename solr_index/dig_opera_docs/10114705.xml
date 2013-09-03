@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114705</field>
+<field name="genre">Operas</field>
+<field name="title">Tale of the Sun Goddess</field>
+<field name="titleSort">Tale of the Sun Goddess</field>
+<field name="composer">Alan Hovhaness</field>
+<field name="composerSort">Hovhaness, Alan</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Hinako Fujihara</field>
+<field name="librettistSort">Fujihara, Hinako</field>
+
+<field name="city">Salinas</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tale+of+the+Sun+Goddess+Alan+Hovhaness&amp;search_field=search</field>
+</doc>
+</add>

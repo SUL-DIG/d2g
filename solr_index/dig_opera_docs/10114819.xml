@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114819</field>
+<field name="genre">Operas</field>
+<field name="title">Dornröschen</field>
+<field name="titleSort">Dornröschen</field>
+<field name="composer">Engelbert Humperdinck</field>
+<field name="composerSort">Humperdinck, Engelbert</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Elisabeth Ebeling</field>
+<field name="librettistSort">Ebeling, Elisabeth</field>
+<field name="librettist">Bertha Lehmann-Filhés</field>
+<field name="librettistSort">Lehmann-Filhés, Bertha</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dornröschen+Engelbert+Humperdinck&amp;search_field=search</field>
+</doc>
+</add>

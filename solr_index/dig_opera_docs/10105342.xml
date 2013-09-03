@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105342</field>
+<field name="genre">Operas</field>
+<field name="title">Petru Rares</field>
+<field name="titleSort">Petru Rares</field>
+<field name="composer">Eduard Caudella</field>
+<field name="composerSort">Caudella, Eduard</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Theobald Rehbaum</field>
+<field name="librettistSort">Rehbaum, Theobald</field>
+<field name="librettist">Nikolae Gane</field>
+<field name="librettistSort">Gane, Nikolae</field>
+<field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Petru+Rares+Eduard+Caudella&amp;search_field=search</field>
+</doc>
+</add>

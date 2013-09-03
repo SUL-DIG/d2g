@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129761</field>
+<field name="genre">Operas</field>
+<field name="title">Eine russische Ballade</field>
+<field name="titleSort">russische Ballade</field>
+<field name="composer">Ernst Steffan</field>
+<field name="composerSort">Steffan, Ernst</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">[Ludwig Herzl] Ludwig Herzer</field>
+<field name="librettistSort">Herzer, Ludwig [Ludwig Herzl]</field>
+<field name="theater">Theater im Admiralspalast</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+russische+Ballade+Ernst+Steffan&amp;search_field=search</field>
+</doc>
+</add>

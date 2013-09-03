@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126840</field>
+<field name="genre">Operas</field>
+<field name="title">Lo scoiattolo in gamba</field>
+<field name="titleSort">scoiattolo in gamba</field>
+<field name="composer">Nino Rota</field>
+<field name="composerSort">Rota, Nino</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Eduardo Di Filippo</field>
+<field name="librettistSort">Di Filippo, Eduardo</field>
+<field name="librettist">Luisella Rota</field>
+<field name="librettistSort">Rota, Luisella</field>
+<field name="theater">Conservatorio Piccinni</field>
+<field name="city">Bari</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+scoiattolo+in+gamba+Nino+Rota&amp;search_field=search</field>
+</doc>
+</add>

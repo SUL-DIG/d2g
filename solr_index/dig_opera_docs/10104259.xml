@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104259</field>
+<field name="genre">Operas</field>
+<field name="title">Rita and Dita and the Jolly Swagman</field>
+<field name="titleSort">Rita and Dita and the Jolly Swagman</field>
+<field name="composer">Colin Brumby</field>
+<field name="composerSort">Brumby, Colin</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Colin Brumby</field>
+<field name="librettistSort">Brumby, Colin</field>
+<field name="librettist">"Andrew Barton ""Banjo"" Paterson"</field>
+<field name="librettistSort">Paterson, Andrew Barton ""Banjo""</field>
+
+<field name="city">Brisbane</field>
+<field name="region">Queensland</field>
+<field name="country">Australia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rita+and+Dita+and+the+Jolly+Swagman+Colin+Brumby&amp;search_field=search</field>
+</doc>
+</add>

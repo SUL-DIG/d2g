@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200416</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Betulia liberata</field>
+		<field name="titleSort">Betulia liberata</field>
+		<field name="year">1746</field>
+		
+		
+		<field name="date">1746</field>
+		<field name="composer">Pasquale Cafaro</field>
+		<field name="composerSort">Cafaro, Pasquale</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Betulia+liberata+Pasquale+Cafaro&amp;search_field=search</field>
+	</doc></add>

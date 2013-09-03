@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203943</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sanctus Augustinus</field>
+		<field name="titleSort">Sanctus Augustinus</field>
+		<field name="year">1972</field>
+		
+		
+		<field name="date">1972</field>
+		<field name="composer">Pedro Valenti Costa</field>
+		<field name="composerSort">Costa, Pedro Valenti</field>
+		<field name="librettist">Carlos Cuccheti</field>
+		<field name="librettistSort">Cuccheti, Carlos</field>
+		<field name="librettist">Saint Augustine</field>
+		<field name="librettistSort">Augustine, Saint</field>
+		
+		
+		
+		
+		<field name="subject">Saint Augustine</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">28</field>
+		<field name="feastDate">November 28</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sanctus+Augustinus+Pedro+Valenti+Costa&amp;search_field=search</field>
+	</doc></add>

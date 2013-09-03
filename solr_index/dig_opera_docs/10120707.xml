@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120707</field>
+<field name="genre">Operas</field>
+<field name="title">Das verwunschene Schloss</field>
+<field name="titleSort">verwunschene Schloss</field>
+<field name="composer">Carl Millöcker</field>
+<field name="composerSort">Millöcker, Carl</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">[Alois Scheichel] Alois Berla</field>
+<field name="librettistSort">Berla, Alois [Alois Scheichel]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+verwunschene+Schloss+Carl+Millöcker&amp;search_field=search</field>
+</doc>
+</add>

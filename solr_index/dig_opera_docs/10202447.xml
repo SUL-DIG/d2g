@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202447</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Latitude 15.09° N (longitude 108.5° E)</field>
+		<field name="titleSort">Latitude 15.09° N (longitude 108.5° E)</field>
+		<field name="year">1970</field>
+		<field name="month">May</field>
+		<field name="day">25</field>
+		<field name="date">May 25, 1970</field>
+		<field name="composer">Louis Calabro</field>
+		<field name="composerSort">Calabro, Louis</field>
+		<field name="librettist">Louis Calabro</field>
+		<field name="librettistSort">Calabro, Louis</field>
+		
+		<field name="theater">Bennington College</field>
+		<field name="city">Bennnington</field>
+		<field name="region">Vermont</field>
+		<field name="country">United States</field>
+		<field name="subject">Vietnam: My Lai massacre</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Latitude+15.09°+N+(longitude+108.5°+E)+Louis+Calabro&amp;search_field=search</field>
+	</doc></add>

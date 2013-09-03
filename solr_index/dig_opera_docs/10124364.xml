@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124364</field>
+<field name="genre">Operas</field>
+<field name="title">Eine Dorfgeschichte</field>
+<field name="titleSort">Dorfgeschichte</field>
+<field name="composer">Felix Pinner</field>
+<field name="composerSort">Pinner, Felix</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Felix Pinner</field>
+<field name="librettistSort">Pinner, Felix</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+Dorfgeschichte+Felix+Pinner&amp;search_field=search</field>
+</doc>
+</add>

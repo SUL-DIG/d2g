@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131088</field>
+<field name="genre">Operas</field>
+<field name="title">All in a Garden Fair</field>
+<field name="titleSort">All in a Garden Fair</field>
+<field name="composer">Gerard Tonning</field>
+<field name="composerSort">Tonning, Gerard</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Alma Webster-Powell</field>
+<field name="librettistSort">Webster-Powell, Alma</field>
+<field name="theater">Moore Theater</field>
+<field name="city">Seattle</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=All+in+a+Garden+Fair+Gerard+Tonning&amp;search_field=search</field>
+</doc>
+</add>

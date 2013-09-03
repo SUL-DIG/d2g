@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108519</field>
+<field name="genre">Operas</field>
+<field name="title">La victoire</field>
+<field name="titleSort">victoire</field>
+<field name="composer">Albert Dupuis</field>
+<field name="composerSort">Dupuis, Albert</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+victoire+Albert+Dupuis&amp;search_field=search</field>
+</doc>
+</add>

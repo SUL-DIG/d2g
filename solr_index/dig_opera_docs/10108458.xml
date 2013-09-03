@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108458</field>
+<field name="genre">Operas</field>
+<field name="title">Les sabots</field>
+<field name="titleSort">sabots</field>
+<field name="composer">Egidio Duni</field>
+<field name="composerSort">Duni, Egidio</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="librettist">Jacques Cazotte</field>
+<field name="librettistSort">Cazotte, Jacques</field>
+<field name="theater">Private Performance</field>
+<field name="city">Auteuil</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sabots+Egidio+Duni&amp;search_field=search</field>
+</doc>
+</add>

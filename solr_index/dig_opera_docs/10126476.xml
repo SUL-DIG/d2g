@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126476</field>
+<field name="genre">Operas</field>
+<field name="title">La chanson des écus</field>
+<field name="titleSort">chanson des écus</field>
+<field name="composer">Victor Roger</field>
+<field name="composerSort">Roger, Victor</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Amédée de Jallais</field>
+<field name="librettistSort">Jallais, Amédée de</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chanson+des+écus+Victor+Roger&amp;search_field=search</field>
+</doc>
+</add>

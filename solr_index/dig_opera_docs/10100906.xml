@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100906</field>
+<field name="genre">Operas</field>
+<field name="title">The Frieze of Life</field>
+<field name="titleSort">Frieze of Life</field>
+<field name="composer">Edward Applebaum</field>
+<field name="composerSort">Applebaum, Edward</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Julia Garza</field>
+<field name="librettistSort">Garza, Julia</field>
+<field name="theater">Newport Harbor Art Museum</field>
+<field name="city">Newport Beach</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Frieze+of+Life+Edward+Applebaum&amp;search_field=search</field>
+</doc>
+</add>

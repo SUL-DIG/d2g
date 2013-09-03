@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100849</field>
+<field name="genre">Operas</field>
+<field name="title">Le roman d'un jour</field>
+<field name="titleSort">roman d'un jour</field>
+<field name="composer">Eugène Jean Baptiste Anthiome</field>
+<field name="composerSort">Anthiome, Eugène Jean Baptiste</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Armand Lafrique</field>
+<field name="librettistSort">Lafrique, Armand</field>
+<field name="librettist">[Auguste-Michel-Benoît Gaudichot-Masson] Michel Masson</field>
+<field name="librettistSort">Masson, Michel [Auguste-Michel-Benoît Gaudichot-Masson]</field>
+<field name="theater">Théâtre du Château d'eau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roman+d'un+jour+Eugène+Jean+Baptiste+Anthiome&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100047</field>
+<field name="genre">Operas</field>
+<field name="title">Szeretem a feleségem</field>
+<field name="titleSort">Szeretem a feleségem</field>
+<field name="composer">Pál Abrahám</field>
+<field name="composerSort">Abrahám, Pál</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">André Birabeau</field>
+<field name="librettistSort">Birabeau, André</field>
+<field name="librettist">Georges Dolley</field>
+<field name="librettistSort">Dolley, Georges</field>
+<field name="theater">Magyar Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szeretem+a+feleségem+Pál+Abrahám&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105700</field>
+<field name="genre">Operas</field>
+<field name="title">Deliverance</field>
+<field name="titleSort">Deliverance</field>
+<field name="composer">William Dodd Chenery</field>
+<field name="composerSort">Chenery, William Dodd</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">William Dodd Chenery</field>
+<field name="librettistSort">Chenery, William Dodd</field>
+<field name="theater">Coliseum</field>
+<field name="city">Peoria</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deliverance+William+Dodd+Chenery&amp;search_field=search</field>
+</doc>
+</add>

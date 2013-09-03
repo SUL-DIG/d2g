@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126144</field>
+<field name="genre">Operas</field>
+<field name="title">Don Perlimplin</field>
+<field name="titleSort">Don Perlimplin</field>
+<field name="composer">Vittorio Rieti</field>
+<field name="composerSort">Rieti, Vittorio</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Vittorio Rieti</field>
+<field name="librettistSort">Rieti, Vittorio</field>
+<field name="librettist">Federico García Lorca</field>
+<field name="librettistSort">García Lorca, Federico </field>
+<field name="theater">Théâtre des Champs-Élysées</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Perlimplin+Vittorio+Rieti&amp;search_field=search</field>
+</doc>
+</add>

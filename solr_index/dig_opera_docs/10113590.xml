@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113590</field>
+<field name="genre">Operas</field>
+<field name="title">The Mellstock Quire</field>
+<field name="titleSort">Mellstock Quire</field>
+<field name="composer">Edward Harper</field>
+<field name="composerSort">Harper, Edward</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Roger Savage</field>
+<field name="librettistSort">Savage, Roger</field>
+<field name="librettist">Thomas Hardy</field>
+<field name="librettistSort">Hardy, Thomas</field>
+<field name="theater">George Square Theatre</field>
+<field name="city">Edinburgh</field>
+<field name="region">Scotland</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Mellstock+Quire+Edward+Harper&amp;search_field=search</field>
+</doc>
+</add>

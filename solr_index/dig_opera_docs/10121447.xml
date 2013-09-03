@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121447</field>
+<field name="genre">Operas</field>
+<field name="title">Ikdar</field>
+<field name="titleSort">Ikdar</field>
+<field name="composer">Joseph Gustav Mraczek</field>
+<field name="composerSort">Mraczek, Joseph Gustav</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Guido Glück</field>
+<field name="librettistSort">Glück, Guido</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ikdar+Joseph+Gustav+Mraczek&amp;search_field=search</field>
+</doc>
+</add>

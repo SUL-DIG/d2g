@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128362</field>
+<field name="genre">Operas</field>
+<field name="title">Der Camogasker</field>
+<field name="titleSort">Camogasker</field>
+<field name="composer">Friedrich Schneeberger</field>
+<field name="composerSort">Schneeberger, Friedrich</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Rudolf Kelterborn (1)</field>
+<field name="librettistSort">Kelterborn (1), Rudolf</field>
+
+<field name="city">Baden</field>
+<field name="region">Aargau</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Camogasker+Friedrich+Schneeberger&amp;search_field=search</field>
+</doc>
+</add>

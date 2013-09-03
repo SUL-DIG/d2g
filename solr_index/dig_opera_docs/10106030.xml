@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106030</field>
+<field name="genre">Operas</field>
+<field name="title">Pierrot jaloux</field>
+<field name="titleSort">Pierrot jaloux</field>
+<field name="composer">[Édouard Nicolaïe] Clairville (fils)</field>
+<field name="composerSort">Clairville (fils), [Édouard Nicolaïe]</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Lucien Rouland</field>
+<field name="librettistSort">Rouland, Lucien</field>
+
+<field name="city">Deauville</field>
+<field name="region">Calvados</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pierrot+jaloux+Édouard+Nicolaïe]+Clairville+fils&amp;search_field=search</field>
+</doc>
+</add>

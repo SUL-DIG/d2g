@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105552</field>
+<field name="genre">Operas</field>
+<field name="title">Les déguisements amoureux</field>
+<field name="titleSort">déguisements amoureux</field>
+<field name="composer">Stanislas Champein</field>
+<field name="composerSort">Champein, Stanislas</field>
+<field name="year">1789</field>
+<field name="date">1789</field>
+<field name="librettist">François Marie Mayeur de Saint-Paul</field>
+<field name="librettistSort">Mayeur de Saint-Paul, François Marie</field>
+<field name="librettist">Joseph Patrat</field>
+<field name="librettistSort">Patrat, Joseph</field>
+<field name="theater">Théâtre de Monseigneur le comte de Beaujolais</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+déguisements+amoureux+Stanislas+Champein&amp;search_field=search</field>
+</doc>
+</add>

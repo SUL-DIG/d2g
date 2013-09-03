@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131889</field>
+<field name="genre">Operas</field>
+<field name="title">Eine Johannisfeier auf Amrom</field>
+<field name="titleSort">Johannisfeier auf Amrom</field>
+<field name="composer">Theodor Verhey</field>
+<field name="composerSort">Verhey, Theodor</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Adolf Nork</field>
+<field name="librettistSort">Nork, Adolf</field>
+<field name="theater">Hoogduitse Opera</field>
+<field name="city">Rotterdam</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+Johannisfeier+auf+Amrom+Theodor+Verhey&amp;search_field=search</field>
+</doc>
+</add>

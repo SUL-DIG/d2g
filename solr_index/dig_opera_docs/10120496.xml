@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120496</field>
+<field name="genre">Operas</field>
+<field name="title">Laclede's Landing</field>
+<field name="titleSort">Laclede's Landing</field>
+<field name="composer">James Meyers</field>
+<field name="composerSort">Meyers, James</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">James Meyers</field>
+<field name="librettistSort">Meyers, James</field>
+<field name="theater">Loretto-Hilton Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laclede's+Landing+James+Meyers&amp;search_field=search</field>
+</doc>
+</add>

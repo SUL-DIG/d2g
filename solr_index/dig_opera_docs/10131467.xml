@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131467</field>
+<field name="genre">Operas</field>
+<field name="title">Le vite immaginarie</field>
+<field name="titleSort">vite immaginarie</field>
+<field name="composer">Marco Tutino</field>
+<field name="composerSort">Tutino, Marco</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Giuseppe Di Leva</field>
+<field name="librettistSort">Di Leva, Giuseppe</field>
+<field name="librettist">Marcel Schwob</field>
+<field name="librettistSort">Schwob, Marcel</field>
+<field name="theater">Teatro Storchi</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vite+immaginarie+Marco+Tutino&amp;search_field=search</field>
+</doc>
+</add>

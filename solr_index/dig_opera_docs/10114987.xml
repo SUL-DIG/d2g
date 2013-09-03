@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114987</field>
+<field name="genre">Operas</field>
+<field name="title">Akmulla</field>
+<field name="titleSort">Akmulla</field>
+<field name="composer">Zagir Garipovich Ismagilov</field>
+<field name="composerSort">Ismagilov, Zagir Garipovich</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Ishmulla Dilmukhametov</field>
+<field name="librettistSort">Dilmukhametov, Ishmulla</field>
+<field name="theater">Bashkirskiy Teatr Operï i Baleta</field>
+<field name="city">Ufa</field>
+<field name="region">Bashkortostan Republic</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Akmulla+Zagir+Garipovich+Ismagilov&amp;search_field=search</field>
+</doc>
+</add>

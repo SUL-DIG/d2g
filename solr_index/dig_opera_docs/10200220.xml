@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200220</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La arca del testamento</field>
+		<field name="titleSort">arca del testamento</field>
+		<field name="year">1778</field>
+		
+		
+		<field name="date">1778</field>
+		<field name="composer">Francisco Queralt</field>
+		<field name="composerSort">Queralt, Francisco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Ark of the Covenant</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+arca+del+testamento+Francisco+Queralt&amp;search_field=search</field>
+	</doc></add>

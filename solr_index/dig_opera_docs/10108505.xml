@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108505</field>
+<field name="genre">Operas</field>
+<field name="title">La barrière</field>
+<field name="titleSort">barrière</field>
+<field name="composer">Albert Dupuis</field>
+<field name="composerSort">Dupuis, Albert</field>
+<field name="year">1920</field>
+<field name="date">1920</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Verviers</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+barrière+Albert+Dupuis&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109787</field>
+<field name="genre">Operas</field>
+<field name="title">Le valet de deux maîtres</field>
+<field name="titleSort">valet de deux maîtres</field>
+<field name="composer">Vincenzio Fiocchi</field>
+<field name="composerSort">Fiocchi, Vincenzio</field>
+<field name="year">1802</field>
+<field name="date">1802</field>
+<field name="librettist">Jean-François Roger</field>
+<field name="librettistSort">Roger, Jean-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+valet+de+deux+maîtres+Vincenzio+Fiocchi&amp;search_field=search</field>
+</doc>
+</add>

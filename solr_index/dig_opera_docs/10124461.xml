@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124461</field>
+<field name="genre">Operas</field>
+<field name="title">Les cloches de Corneville</field>
+<field name="titleSort">cloches de Corneville</field>
+<field name="composer">Robert Planquette</field>
+<field name="composerSort">Planquette, Robert</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">[Louis-François Nicolaïe] Clairville</field>
+<field name="librettistSort">Clairville, [Louis-François Nicolaïe]</field>
+<field name="librettist">Charles Gabet</field>
+<field name="librettistSort">Gabet, Charles</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+cloches+de+Corneville+Robert+Planquette&amp;search_field=search</field>
+</doc>
+</add>

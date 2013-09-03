@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128379</field>
+<field name="genre">Operas</field>
+<field name="title">Die Apachenkönigin</field>
+<field name="titleSort">Apachenkönigin</field>
+<field name="composer">Ernst Schnell</field>
+<field name="composerSort">Schnell, Ernst</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Max Berger</field>
+<field name="librettistSort">Berger, Max</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Neumünster</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Apachenkönigin+Ernst+Schnell&amp;search_field=search</field>
+</doc>
+</add>

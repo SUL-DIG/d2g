@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120104</field>
+<field name="genre">Operas</field>
+<field name="title">Cora</field>
+<field name="titleSort">Cora</field>
+<field name="composer">Étienne-Nicolas Méhul</field>
+<field name="composerSort">Méhul, Étienne-Nicolas</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">__ Valadier</field>
+<field name="librettistSort">Valadier, __</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cora+Étienne-Nicolas+Méhul&amp;search_field=search</field>
+</doc>
+</add>

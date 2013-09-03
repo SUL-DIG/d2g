@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202262</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jonah and the Whale</field>
+		<field name="titleSort">Jonah and the Whale</field>
+		<field name="year">1974</field>
+		
+		
+		<field name="date">1974</field>
+		<field name="composer">Dominick Argento</field>
+		<field name="composerSort">Argento, Dominick</field>
+		
+		
+		<field name="theater">Plymouth Music Series</field>
+		<field name="city">Minneapolis</field>
+		<field name="region">Minnesota</field>
+		<field name="country">United States</field>
+		<field name="subject">Jonah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonah+and+the+Whale+Dominick+Argento&amp;search_field=search</field>
+	</doc></add>

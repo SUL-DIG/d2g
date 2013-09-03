@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108117</field>
+<field name="genre">Operas</field>
+<field name="title">Yvonnette</field>
+<field name="titleSort">Yvonnette</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Francis Tourte</field>
+<field name="librettistSort">Tourte, Francis</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Yvonnette+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

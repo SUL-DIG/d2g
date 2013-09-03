@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109218</field>
+<field name="genre">Operas</field>
+<field name="title">Plutni Skapena (The Swindles of Scapin)</field>
+<field name="titleSort">Plutni Skapena (The Swindles of Scapin)</field>
+<field name="composer">Yur Aleksandrovich Falik</field>
+<field name="composerSort">Falik, Yur Aleksandrovich</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Yur Aleksandrovich Falik</field>
+<field name="librettistSort">Falik, Yur Aleksandrovich</field>
+<field name="theater">Teatr Vanemuine</field>
+<field name="city">Tartu</field>
+<field name="region">Tartu</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plutni+Skapena+The+Swindles+of+Scapin+Yur+Aleksandrovich+Falik&amp;search_field=search</field>
+</doc>
+</add>

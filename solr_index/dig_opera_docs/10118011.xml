@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118011</field>
+<field name="genre">Operas</field>
+<field name="title">Dagobert</field>
+<field name="titleSort">Dagobert</field>
+<field name="composer">Pierre Henri Letorey</field>
+<field name="composerSort">Letorey, Pierre Henri</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Jean Duroc</field>
+<field name="librettistSort">Duroc, Jean</field>
+<field name="theater">Concert de la Pépinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dagobert+Pierre+Henri+Letorey&amp;search_field=search</field>
+</doc>
+</add>

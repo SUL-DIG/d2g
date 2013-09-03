@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114879</field>
+<field name="genre">Operas</field>
+<field name="title">Der Rekrut</field>
+<field name="titleSort">Rekrut</field>
+<field name="composer">Anselm Hüttenbrenner</field>
+<field name="composerSort">Hüttenbrenner, Anselm</field>
+
+
+<field name="librettist">Carl Schütz</field>
+<field name="librettistSort">Schütz, Carl"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Rekrut+Anselm+Hüttenbrenner&amp;search_field=search</field>
+</doc>
+</add>

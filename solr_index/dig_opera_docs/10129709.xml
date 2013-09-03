@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129709</field>
+<field name="genre">Operas</field>
+<field name="title">Mystic Trumpeter</field>
+<field name="titleSort">Mystic Trumpeter</field>
+<field name="composer">Robert Starer</field>
+<field name="composerSort">Starer, Robert</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Walt Whitman</field>
+<field name="librettistSort">Whitman, Walt</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mystic+Trumpeter+Robert+Starer&amp;search_field=search</field>
+</doc>
+</add>

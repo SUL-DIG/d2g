@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120760</field>
+<field name="genre">Operas</field>
+<field name="title">Frasquita</field>
+<field name="titleSort">Frasquita</field>
+<field name="composer">Erich Mirsch-Riccius</field>
+<field name="composerSort">Mirsch-Riccius, Erich</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Erich Mirsch-Riccius</field>
+<field name="librettistSort">Mirsch-Riccius, Erich</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Klaipeda</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frasquita+Erich+Mirsch-Riccius&amp;search_field=search</field>
+</doc>
+</add>

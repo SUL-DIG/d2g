@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126841</field>
+<field name="genre">Operas</field>
+<field name="title">Torquemada</field>
+<field name="titleSort">Torquemada</field>
+<field name="composer">Nino Rota</field>
+<field name="composerSort">Rota, Nino</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Ernesto Trucchi</field>
+<field name="librettistSort">Trucchi, Ernesto</field>
+<field name="librettist">Victor Hugo</field>
+<field name="librettistSort">Hugo, Victor</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Torquemada+Nino+Rota&amp;search_field=search</field>
+</doc>
+</add>

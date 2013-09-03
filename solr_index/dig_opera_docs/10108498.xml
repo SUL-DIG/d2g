@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108498</field>
+<field name="genre">Operas</field>
+<field name="title">Le cabane du pêcheur</field>
+<field name="titleSort">cabane du pêcheur</field>
+<field name="composer">Gilbert-Louis Duprez</field>
+<field name="composerSort">Duprez, Gilbert-Louis</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">Édouard Duprez</field>
+<field name="librettistSort">Duprez, Édouard</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+cabane+du+pêcheur+Gilbert-Louis+Duprez&amp;search_field=search</field>
+</doc>
+</add>

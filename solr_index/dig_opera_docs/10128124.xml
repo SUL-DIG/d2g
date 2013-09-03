@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128124</field>
+<field name="genre">Operas</field>
+<field name="title">Schneewittchen</field>
+<field name="titleSort">Schneewittchen</field>
+<field name="composer">Anton Scharff</field>
+<field name="composerSort">Scharff, Anton</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Anton Scharff</field>
+<field name="librettistSort">Scharff, Anton</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Theater am Rosenhügel</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+Anton+Scharff&amp;search_field=search</field>
+</doc>
+</add>

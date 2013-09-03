@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115950</field>
+<field name="genre">Operas</field>
+<field name="title">Nachtigall und Lerche</field>
+<field name="titleSort">Nachtigall und Lerche</field>
+<field name="composer">Alfred Khom</field>
+<field name="composerSort">Khom, Alfred</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Aimé de Wouvermans</field>
+<field name="librettistSort">Wouvermans, Aimé de</field>
+<field name="theater">Private Performance</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nachtigall+und+Lerche+Alfred+Khom&amp;search_field=search</field>
+</doc>
+</add>

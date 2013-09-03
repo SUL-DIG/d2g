@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101200</field>
+<field name="genre">Operas</field>
+<field name="title">Santo Gonçalo d'Amarante</field>
+<field name="titleSort">Santo Gonçalo d'Amarante</field>
+<field name="composer">José Francisco Arroyo</field>
+<field name="composerSort">Arroyo, José Francisco</field>
+<field name="year">1859</field>
+<field name="date">1859</field><field name="theater">Teatro das Variedades</field>
+<field name="city">Oporto</field>
+<field name="region">Porto</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santo+Gonçalo+d'Amarante+José+Francisco+Arroyo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115679</field>
+<field name="genre">Operas</field>
+<field name="title">Groza (The Storm)</field>
+<field name="titleSort">Groza (The Storm)</field>
+<field name="composer">Vladimir Nikitich Kashperov</field>
+<field name="composerSort">Kashperov, Vladimir Nikitich</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Aleksandr Nikolayevich Ostrovsky</field>
+<field name="librettistSort">Ostrovsky, Aleksandr Nikolayevich</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Groza+The+Storm+Vladimir+Nikitich+Kashperov&amp;search_field=search</field>
+</doc>
+</add>

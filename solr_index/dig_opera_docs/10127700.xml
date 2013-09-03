@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127700</field>
+<field name="genre">Operas</field>
+<field name="title">I gemelli rivali</field>
+<field name="titleSort">gemelli rivali</field>
+<field name="composer">Domenico Natale Sarro</field>
+<field name="composerSort">Sarro, Domenico Natale</field>
+<field name="year">1713</field>
+<field name="date">1713</field>
+<field name="librettist">Nicola Serino</field>
+<field name="librettistSort">Serino, Nicola</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+gemelli+rivali+Domenico+Natale+Sarro&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132806</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Hauptbeherrscherinnen</field>
+<field name="titleSort">drei Hauptbeherrscherinnen</field>
+<field name="composer">Johann Christoph Wenzel</field>
+<field name="composerSort">Wenzel, Johann Christoph</field>
+<field name="year">1697</field>
+<field name="date">1697</field>
+<field name="librettist">Johann Christoph Wenzel</field>
+<field name="librettistSort">Wenzel, Johann Christoph</field>
+
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Hauptbeherrscherinnen+Johann+Christoph+Wenzel&amp;search_field=search</field>
+</doc>
+</add>

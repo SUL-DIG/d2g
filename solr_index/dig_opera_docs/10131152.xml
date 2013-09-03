@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131152</field>
+<field name="genre">Operas</field>
+<field name="title">Ah! le bon billet</field>
+<field name="titleSort">Ah! le bon billet</field>
+<field name="composer">Frédéric Toulmouche</field>
+<field name="composerSort">Toulmouche, Frédéric</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">[Édouard Bureau &amp; Fernand Jattiot] Bureau-Jattiot</field>
+<field name="librettistSort">Bureau-Jattiot, [Édouard Bureau &amp; Fernand Jattiot]</field>
+<field name="theater">Théâtre de la Renaissance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ah!+le+bon+billet+Frédéric+Toulmouche&amp;search_field=search</field>
+</doc>
+</add>

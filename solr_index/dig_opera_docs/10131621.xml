@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131621</field>
+<field name="genre">Operas</field>
+<field name="title">Stsezhkay zhitstsya (On the Path of Life)</field>
+<field name="titleSort">Stsezhkay zhitstsya (On the Path of Life)</field>
+<field name="composer">Henrïkh Matusavich Vahner</field>
+<field name="composerSort">Vahner, Henrïkh Matusavich</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Aleksandr Vertinski</field>
+<field name="librettistSort">Vertinski, Aleksandr</field>
+<field name="librettist">S. Shteyn</field>
+<field name="librettistSort">Shteyn, S.</field>
+
+<field name="city">Minsk</field>
+<field name="region">Minsk Oblast</field>
+<field name="country">Belarus</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stsezhkay+zhitstsya+On+the+Path+of+Life+Henrïkh+Matusavich+Vahner&amp;search_field=search</field>
+</doc>
+</add>

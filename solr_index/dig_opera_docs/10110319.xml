@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110319</field>
+<field name="genre">Operas</field>
+<field name="title">La glaneuse</field>
+<field name="titleSort">glaneuse</field>
+<field name="composer">Félix Fourdrain</field>
+<field name="composerSort">Fourdrain, Félix</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Arthur Bernède</field>
+<field name="librettistSort">Bernède, Arthur</field>
+<field name="librettist">Paul de Choudens</field>
+<field name="librettistSort">Choudens, Paul de</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+glaneuse+Félix+Fourdrain&amp;search_field=search</field>
+</doc>
+</add>

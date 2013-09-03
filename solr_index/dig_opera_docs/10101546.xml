@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101546</field>
+<field name="genre">Operas</field>
+<field name="title">"Orione, ossia Diana vendicata</field>
+<field name="titleSort">"Orione, ossia Diana vendicata"</field>
+<field name="composer">Johann Christian Bach</field>
+<field name="composerSort">Bach, Johann Christian</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Giovan Gualberto Bottarelli</field>
+<field name="librettistSort">Bottarelli, Giovan Gualberto</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orione,+ossia+Diana+vendicata+Johann+Christian+Bach&amp;search_field=search</field>
+</doc>
+</add>

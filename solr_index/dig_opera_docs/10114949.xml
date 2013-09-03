@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114949</field>
+<field name="genre">Operas</field>
+<field name="title">Tito nelle Gallie</field>
+<field name="titleSort">Tito nelle Gallie</field>
+<field name="composer">Giacomo Insanguine</field>
+<field name="composerSort">Insanguine, Giacomo</field>
+<field name="year">1781</field>
+<field name="date">1781</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+nelle+Gallie+Giacomo+Insanguine&amp;search_field=search</field>
+</doc>
+</add>

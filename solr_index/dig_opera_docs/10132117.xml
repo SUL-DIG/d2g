@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132117</field>
+<field name="genre">Operas</field>
+<field name="title">A hamburgi menyasszony</field>
+<field name="titleSort">hamburgi menyasszony</field>
+<field name="composer">Zsigmond Vincze</field>
+<field name="composerSort">Vincze, Zsigmond</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Erno Kulinyi</field>
+<field name="librettistSort">Kulinyi, Erno</field>
+<field name="theater">Városi Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+hamburgi+menyasszony+Zsigmond+Vincze&amp;search_field=search</field>
+</doc>
+</add>

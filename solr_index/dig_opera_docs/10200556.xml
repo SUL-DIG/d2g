@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200556</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Cayetano</field>
+		<field name="titleSort">Cayetano</field>
+		<field name="year">1782</field>
+		
+		
+		<field name="date">1782</field>
+		<field name="composer">Miguel Junyent</field>
+		<field name="composerSort">Junyent, Miguel</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Cajetan</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">7</field>
+		<field name="feastDate">August 7</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Cayetano+Miguel+Junyent&amp;search_field=search</field>
+	</doc></add>

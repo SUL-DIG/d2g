@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117931</field>
+<field name="genre">Operas</field>
+<field name="title">Der Roland von Berlin</field>
+<field name="titleSort">Roland von Berlin</field>
+<field name="composer">Ruggero Leoncavallo</field>
+<field name="composerSort">Leoncavallo, Ruggero</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Ruggero Leoncavallo</field>
+<field name="librettistSort">Leoncavallo, Ruggero</field>
+<field name="librettist">[Georg Wilhelm Häring] Willibald Alexis</field>
+<field name="librettistSort">Alexis, Willibald [Georg Wilhelm Häring]</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Roland+von+Berlin+Ruggero+Leoncavallo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100054</field>
+<field name="genre">Operas</field>
+<field name="title">Don Quijote</field>
+<field name="titleSort">Don Quijote</field>
+<field name="composer">Emil Ábrányi</field>
+<field name="composerSort">Ábrányi, Emil</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Emil Ábrányi</field>
+<field name="librettistSort">Ábrányi, Emil</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Quijote+Emil+Ábrányi&amp;search_field=search</field>
+</doc>
+</add>

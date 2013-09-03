@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106219</field>
+<field name="genre">Operas</field>
+<field name="title">I solitari</field>
+<field name="titleSort">solitari</field>
+<field name="composer">Carlo Coccia</field>
+<field name="composerSort">Coccia, Carlo</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+solitari+Carlo+Coccia&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116733</field>
+<field name="genre">Operas</field>
+<field name="title">Orpheus</field>
+<field name="titleSort">Orpheus</field>
+<field name="composer">Johann Kuhnau</field>
+<field name="composerSort">Kuhnau, Johann</field>
+<field name="year">1689</field>
+<field name="date">1689</field><field name="theater">Schauplatz im Brühl</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orpheus+Johann+Kuhnau&amp;search_field=search</field>
+</doc>
+</add>

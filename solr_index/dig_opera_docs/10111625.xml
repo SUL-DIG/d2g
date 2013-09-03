@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111625</field>
+<field name="genre">Operas</field>
+<field name="title">Penthée</field>
+<field name="titleSort">Penthée</field>
+<field name="composer">Charles-Hubert Gervais</field>
+<field name="composerSort">Gervais, Charles-Hubert</field>
+<field name="year">1705</field>
+<field name="date">1705</field>
+<field name="librettist">Charles-Auguste de la Fare</field>
+<field name="librettistSort">Fare, Charles-Auguste de la</field>
+<field name="theater">Palais Bourbon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Penthée+Charles-Hubert+Gervais&amp;search_field=search</field>
+</doc>
+</add>

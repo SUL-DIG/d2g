@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101247</field>
+<field name="genre">Operas</field>
+<field name="title">L'amour au Japon</field>
+<field name="titleSort">amour au Japon</field>
+<field name="composer">Raphaël Ascione</field>
+<field name="composerSort">Ascione, Raphaël</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">__ Cellas</field>
+<field name="librettistSort">Cellas, __</field>
+<field name="theater">Casino</field>
+<field name="city">Grasse</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amour+au+Japon+Raphaël+Ascione&amp;search_field=search</field>
+</doc>
+</add>

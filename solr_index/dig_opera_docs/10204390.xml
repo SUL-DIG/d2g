@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204390</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Sterbenstag Jesu</field>
+		<field name="titleSort">Sterbenstag Jesu</field>
+		<field name="year">1757</field>
+		
+		
+		<field name="date">1757</field>
+		<field name="composer">Johann Gottfried Seyfert</field>
+		<field name="composerSort">Seyfert, Johann Gottfried</field>
+		<field name="librettist">Karl Friedrich Brucker</field>
+		<field name="librettistSort">Brucker, Karl Friedrich</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Sterbenstag+Jesu+Johann+Gottfried+Seyfert&amp;search_field=search</field>
+	</doc></add>

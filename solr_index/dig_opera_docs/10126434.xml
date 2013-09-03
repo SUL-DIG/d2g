@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126434</field>
+<field name="genre">Operas</field>
+<field name="title">Oitona</field>
+<field name="titleSort">Oitona</field>
+<field name="composer">Dionyssios Rodotheatos</field>
+<field name="composerSort">Rodotheatos, Dionyssios</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">[James Macpherson] Ossian</field>
+<field name="librettistSort">Ossian, [James Macpherson]</field>
+<field name="theater">Teatro San Giacomo</field>
+<field name="city">Corfu</field>
+<field name="region">Kérkira</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oitona+Dionyssios+Rodotheatos&amp;search_field=search</field>
+</doc>
+</add>

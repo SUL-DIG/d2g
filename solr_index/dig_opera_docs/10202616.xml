@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202616</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Maria Stuarda</field>
+		<field name="titleSort">Maria Stuarda</field>
+		<field name="year">1716</field>
+		
+		
+		<field name="date">1716</field>
+		<field name="composer">Paolo Pollarolo</field>
+		<field name="composerSort">Pollarolo, Paolo</field>
+		
+		
+		<field name="theater">Collegio dei Nobili di Sant' Antonio Viennese</field>
+		<field name="city">Brescia</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Mary, Queen of Scots</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Stuarda+Paolo+Pollarolo&amp;search_field=search</field>
+	</doc></add>

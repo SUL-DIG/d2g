@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114778</field>
+<field name="genre">Operas</field>
+<field name="title">Riquet а la houppe</field>
+<field name="titleSort">Riquet а la houppe</field>
+<field name="composer">Georges Hüe</field>
+<field name="composerSort">Hüe, Georges</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Raoul Gastambide</field>
+<field name="librettistSort">Gastambide, Raoul</field>
+<field name="librettist">Charles Perrault</field>
+<field name="librettistSort">Perrault, Charles</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Riquet+а+la+houppe+Georges+Hüe&amp;search_field=search</field>
+</doc>
+</add>

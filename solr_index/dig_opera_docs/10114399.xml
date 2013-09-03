@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114399</field>
+<field name="genre">Operas</field>
+<field name="title">Kejserens nye Klaeder</field>
+<field name="titleSort">Kejserens nye Klaeder</field>
+<field name="composer">Finn Høffding</field>
+<field name="composerSort">Høffding, Finn</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Finn Høffding</field>
+<field name="librettistSort">Høffding, Finn</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kejserens+nye+Klaeder+Finn+Høffding&amp;search_field=search</field>
+</doc>
+</add>

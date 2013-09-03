@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122788</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare in Egitto</field>
+<field name="titleSort">Cesare in Egitto</field>
+<field name="composer">Giovanni Pacini</field>
+<field name="composerSort">Pacini, Giovanni</field>
+<field name="year">1821</field>
+<field name="date">1821</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+in+Egitto+Giovanni+Pacini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101993</field>
+<field name="genre">Operas</field>
+<field name="title">"L'Alarico, re de' Goti</field>
+<field name="titleSort">"Alarico, re de' Goti"</field>
+<field name="composer">Giovanni Battista Bassani</field>
+<field name="composerSort">Bassani, Giovanni Battista</field>
+<field name="year">1685</field>
+<field name="date">1685</field>
+<field name="librettist">Borso Bonacossi</field>
+<field name="librettistSort">Bonacossi, Borso</field>
+<field name="theater">Teatro Bonacossi</field>
+<field name="city">Ferrara</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Alarico,+re+de'+Goti+Giovanni+Battista+Bassani&amp;search_field=search</field>
+</doc>
+</add>

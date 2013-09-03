@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129698</field>
+<field name="genre">Operas</field>
+<field name="title">Shamus O'Brien</field>
+<field name="titleSort">Shamus O'Brien</field>
+<field name="composer">Charles Villiers Stanford</field>
+<field name="composerSort">Stanford, Charles Villiers</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">George Henry Jessop</field>
+<field name="librettistSort">Jessop, George Henry</field>
+<field name="librettist">Joseph Sheridan Le Fanu</field>
+<field name="librettistSort">Le Fanu, Joseph Sheridan </field>
+<field name="theater">Opera Comique Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shamus+O'Brien+Charles+Villiers+Stanford&amp;search_field=search</field>
+</doc>
+</add>

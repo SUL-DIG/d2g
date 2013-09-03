@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131021</field>
+<field name="genre">Operas</field>
+<field name="title">Das Wolkenkind</field>
+<field name="titleSort">Wolkenkind</field>
+<field name="composer">Antonín Emil Titl</field>
+<field name="composerSort">Titl, Antonín Emil</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Franz Xaver Told</field>
+<field name="librettistSort">Told, Franz Xaver</field>
+<field name="librettist">Pyotr Petrovich Vershigora</field>
+<field name="librettistSort">Vershigora, Pyotr Petrovich</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Wolkenkind+Antonín+Emil+Titl&amp;search_field=search</field>
+</doc>
+</add>

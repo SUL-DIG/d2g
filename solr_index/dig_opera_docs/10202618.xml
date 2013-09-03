@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202618</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Maria van den Kerselaar</field>
+		<field name="titleSort">Maria van den Kerselaar</field>
+		<field name="year">1951</field>
+		
+		
+		<field name="date">1951</field>
+		<field name="composer">Norbert Rosseau</field>
+		<field name="composerSort">Rosseau, Norbert</field>
+		<field name="librettist">G. Heldenrenberg</field>
+		<field name="librettistSort">Heldenrenberg, G.</field>
+		
+		<field name="theater">Onze-Lieve-Vrouw van Kerselare</field>
+		<field name="city">Oudenaarde</field>
+		<field name="region">Flaanderen</field>
+		<field name="country">Belgium</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+van+den+Kerselaar+Norbert+Rosseau&amp;search_field=search</field>
+	</doc></add>

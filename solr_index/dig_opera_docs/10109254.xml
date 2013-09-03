@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109254</field>
+<field name="genre">Operas</field>
+<field name="title">Grosstadtmärchen</field>
+<field name="titleSort">Grosstadtmärchen</field>
+<field name="composer">Richard Fall</field>
+<field name="composerSort">Fall, Richard</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="librettist">Erwin Weill</field>
+<field name="librettistSort">Weill, Erwin</field>
+<field name="theater">Carltheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grosstadtmärchen+Richard+Fall&amp;search_field=search</field>
+</doc>
+</add>

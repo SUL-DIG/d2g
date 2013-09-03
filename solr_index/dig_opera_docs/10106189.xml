@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106189</field>
+<field name="genre">Operas</field>
+<field name="title">I begl'usi di cittа</field>
+<field name="titleSort">begl'usi di cittа</field>
+<field name="composer">Carlo Coccia</field>
+<field name="composerSort">Coccia, Carlo</field>
+<field name="year">1815</field>
+<field name="date">1815</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+begl'usi+di+cittа+Carlo+Coccia&amp;search_field=search</field>
+</doc>
+</add>

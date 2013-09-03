@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104129</field>
+<field name="genre">Operas</field>
+<field name="title">Die beglückwünschte Majorennität des Fürsten</field>
+<field name="titleSort">beglückwünschte Majorennität des Fürsten</field>
+<field name="composer">Wolfgang Carl Briegel</field>
+<field name="composerSort">Briegel, Wolfgang Carl</field>
+<field name="year">1676</field>
+<field name="date">1676</field><field name="theater">Komödienhaus</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+beglückwünschte+Majorennität+des+Fürsten+Wolfgang+Carl+Briegel&amp;search_field=search</field>
+</doc>
+</add>

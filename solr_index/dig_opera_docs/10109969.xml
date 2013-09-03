@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109969</field>
+<field name="genre">Operas</field>
+<field name="title">Das Milchmädchen von Bercy</field>
+<field name="titleSort">Milchmädchen von Bercy</field>
+<field name="composer">Anton Fischer</field>
+<field name="composerSort">Fischer, Anton</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Georg Friedrich Treitschke</field>
+<field name="librettistSort">Treitschke, Georg Friedrich</field>
+<field name="librettist">[Charles-Augustin Bassompierre] Sewrin</field>
+<field name="librettistSort">Sewrin, [Charles-Augustin Bassompierre]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Milchmädchen+von+Bercy+Anton+Fischer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104374</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spielhansl</field>
+<field name="titleSort">Spielhansl</field>
+<field name="composer">Fritz Büchtger</field>
+<field name="composerSort">Büchtger, Fritz</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Fritz Büchtger</field>
+<field name="librettistSort">Büchtger, Fritz</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spielhansl+Fritz+Büchtger&amp;search_field=search</field>
+</doc>
+</add>

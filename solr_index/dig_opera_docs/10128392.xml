@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128392</field>
+<field name="genre">Operas</field>
+<field name="title">Die glückliche Hand</field>
+<field name="titleSort">glückliche Hand</field>
+<field name="composer">Arnold Schoenberg</field>
+<field name="composerSort">Schoenberg, Arnold</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Arnold Schoenberg</field>
+<field name="librettistSort">Schoenberg, Arnold</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+glückliche+Hand+Arnold+Schoenberg&amp;search_field=search</field>
+</doc>
+</add>

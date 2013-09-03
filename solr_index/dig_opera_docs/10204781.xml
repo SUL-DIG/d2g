@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204781</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Vergine annonciata</field>
+		<field name="titleSort">Vergine annonciata</field>
+		<field name="year">1689</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1689</field>
+		<field name="composer">Nicolò Maria Ferri</field>
+		<field name="composerSort">Ferri, Nicolò Maria</field>
+		<field name="librettist">Antonio Vecchi</field>
+		<field name="librettistSort">Vecchi, Antonio</field>
+		
+		<field name="theater">Oratorio di San Carlo rotondo</field>
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Annunciation</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">March 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Vergine+annonciata+Nicolò+Maria+Ferri&amp;search_field=search</field>
+	</doc></add>

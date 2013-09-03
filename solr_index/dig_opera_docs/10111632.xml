@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111632</field>
+<field name="genre">Operas</field>
+<field name="title">The Great Boffo and His Talking Dog</field>
+<field name="titleSort">Great Boffo and His Talking Dog</field>
+<field name="composer">Louis Gesenway</field>
+<field name="composerSort">Gesenway, Louis</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Christopher Davis</field>
+<field name="librettistSort">Davis, Christopher</field>
+<field name="theater">Academy of Vocal Arts</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Great+Boffo+and+His+Talking+Dog+Louis+Gesenway&amp;search_field=search</field>
+</doc>
+</add>

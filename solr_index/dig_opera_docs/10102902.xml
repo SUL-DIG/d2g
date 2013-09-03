@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102902</field>
+<field name="genre">Operas</field>
+<field name="title">Le livre des destins</field>
+<field name="titleSort">livre des destins</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Félix Nogaret</field>
+<field name="librettistSort">Nogaret, Félix</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+livre+des+destins+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

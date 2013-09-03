@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131419</field>
+<field name="genre">Operas</field>
+<field name="title">Der vierjährige Posten</field>
+<field name="titleSort">vierjährige Posten</field>
+<field name="composer">Friedrich Hieronymus Truhn</field>
+<field name="composerSort">Truhn, Friedrich Hieronymus</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Theodor Körner</field>
+<field name="librettistSort">Körner, Theodor</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+vierjährige+Posten+Friedrich+Hieronymus+Truhn&amp;search_field=search</field>
+</doc>
+</add>

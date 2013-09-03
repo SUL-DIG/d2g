@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102822</field>
+<field name="genre">Operas</field>
+<field name="title">The Little Princess</field>
+<field name="titleSort">Little Princess</field>
+<field name="composer">Kay Bethea</field>
+<field name="composerSort">Bethea, Kay</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Kay Bethea</field>
+<field name="librettistSort">Bethea, Kay</field>
+<field name="librettist">Frances Hodgson Burnett</field>
+<field name="librettistSort">Burnett, Frances Hodgson</field>
+<field name="theater">University of Kansas</field>
+<field name="city">Lawrence</field>
+<field name="region">Kansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Little+Princess+Kay+Bethea&amp;search_field=search</field>
+</doc>
+</add>

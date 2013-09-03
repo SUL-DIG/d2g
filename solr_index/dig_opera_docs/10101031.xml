@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101031</field>
+<field name="genre">Operas</field>
+<field name="title">The Artifice</field>
+<field name="titleSort">Artifice</field>
+<field name="composer">Michael Arne</field>
+<field name="composerSort">Arne, Michael</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">William Augustus Miles</field>
+<field name="librettistSort">Miles, William Augustus</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Artifice+Michael+Arne&amp;search_field=search</field>
+</doc>
+</add>

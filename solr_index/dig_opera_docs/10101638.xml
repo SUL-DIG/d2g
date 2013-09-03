@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101638</field>
+<field name="genre">Operas</field>
+<field name="title">The Crier by Night</field>
+<field name="titleSort">Crier by Night</field>
+<field name="composer">Edgar Bainton</field>
+<field name="composerSort">Bainton, Edgar</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Gordon Bottomley</field>
+<field name="librettistSort">Bottomley, Gordon</field>
+<field name="theater">ABC Radio (Australian Broadcasting Corporation)</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Crier+by+Night+Edgar+Bainton&amp;search_field=search</field>
+</doc>
+</add>

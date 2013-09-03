@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203769</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saint Peter</field>
+		<field name="titleSort">Saint Peter</field>
+		<field name="year">1898</field>
+		
+		
+		<field name="date">1898</field>
+		<field name="composer">Daniel Protheroe</field>
+		<field name="composerSort">Protheroe, Daniel</field>
+		<field name="librettist">James Vinson Stephens</field>
+		<field name="librettistSort">Stephens, James Vinson</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Peter</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saint+Peter+Daniel+Protheroe&amp;search_field=search</field>
+	</doc></add>

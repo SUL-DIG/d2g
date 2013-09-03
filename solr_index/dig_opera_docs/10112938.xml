@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112938</field>
+<field name="genre">Operas</field>
+<field name="title">I nemici</field>
+<field name="titleSort">nemici</field>
+<field name="composer">Guido Guerrini</field>
+<field name="composerSort">Guerrini, Guido</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Guido Guerrini</field>
+<field name="librettistSort">Guerrini, Guido</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+nemici+Guido+Guerrini&amp;search_field=search</field>
+</doc>
+</add>

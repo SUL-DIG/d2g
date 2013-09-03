@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201102</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'Elia</field>
+		<field name="titleSort">Elia</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Giacomo Tiboni</field>
+		<field name="composerSort">Tiboni, Giacomo</field>
+		
+		
+		<field name="theater">Chiesa dell'Insigne Metropolitana</field>
+		<field name="city">Chieti</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">Elijah</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">20</field>
+		<field name="feastDate">July 20</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Elia+Giacomo+Tiboni&amp;search_field=search</field>
+	</doc></add>

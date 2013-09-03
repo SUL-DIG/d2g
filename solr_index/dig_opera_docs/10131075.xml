@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131075</field>
+<field name="genre">Operas</field>
+<field name="title">Dione Siracusano</field>
+<field name="titleSort">Dione Siracusano</field>
+<field name="composer">Pellegrino Tomeoni</field>
+<field name="composerSort">Tomeoni, Pellegrino</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Domenico Sesti</field>
+<field name="librettistSort">Sesti, Domenico</field>
+<field name="librettist">Valerio Pagnini</field>
+<field name="librettistSort">Pagnini, Valerio</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dione+Siracusano+Pellegrino+Tomeoni&amp;search_field=search</field>
+</doc>
+</add>

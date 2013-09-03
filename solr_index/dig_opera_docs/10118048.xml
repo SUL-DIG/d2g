@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118048</field>
+<field name="genre">Operas</field>
+<field name="title">Giuditta</field>
+<field name="titleSort">Giuditta</field>
+<field name="composer">Samuele Levi</field>
+<field name="composerSort">Levi, Samuele</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuditta+Samuele+Levi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108830</field>
+<field name="genre">Operas</field>
+<field name="title">The Golem</field>
+<field name="titleSort">Golem</field>
+<field name="composer">Abraham Ellstein</field>
+<field name="composerSort">Ellstein, Abraham</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Sylvia Regan</field>
+<field name="librettistSort">Regan, Sylvia</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Golem+Abraham+Ellstein&amp;search_field=search</field>
+</doc>
+</add>

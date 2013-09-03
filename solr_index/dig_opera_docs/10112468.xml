@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112468</field>
+<field name="genre">Operas</field>
+<field name="title">Raggio di sole</field>
+<field name="titleSort">Raggio di sole</field>
+<field name="composer">Giuliano Gozi</field>
+<field name="composerSort">Gozi, Giuliano</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Marino Rossi</field>
+<field name="librettistSort">Rossi, Marino</field>
+<field name="theater">Collegio Belluzzi</field>
+<field name="city">San Marino</field>
+
+<field name="country">San Marino</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raggio+di+sole+Giuliano+Gozi&amp;search_field=search</field>
+</doc>
+</add>

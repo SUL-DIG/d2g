@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107681</field>
+<field name="genre">Operas</field>
+<field name="title">Rose et Aurelie</field>
+<field name="titleSort">Rose et Aurelie</field>
+<field name="composer">François Devienne</field>
+<field name="composerSort">Devienne, François</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Louis-Benoît Picard</field>
+<field name="librettistSort">Picard, Louis-Benoît</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rose+et+Aurelie+François+Devienne&amp;search_field=search</field>
+</doc>
+</add>

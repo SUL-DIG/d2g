@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113456</field>
+<field name="genre">Operas</field>
+<field name="title">The Royal Hunt of the Sun</field>
+<field name="titleSort">Royal Hunt of the Sun</field>
+<field name="composer">Iain Hamilton</field>
+<field name="composerSort">Hamilton, Iain</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Iain Hamilton</field>
+<field name="librettistSort">Hamilton, Iain</field>
+<field name="librettist">Peter Shaffer</field>
+<field name="librettistSort">Shaffer, Peter</field>
+<field name="theater">Coliseum</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Royal+Hunt+of+the+Sun+Iain+Hamilton&amp;search_field=search</field>
+</doc>
+</add>

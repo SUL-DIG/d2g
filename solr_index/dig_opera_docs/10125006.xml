@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125006</field>
+<field name="genre">Operas</field>
+<field name="title">Ariane</field>
+<field name="titleSort">Ariane</field>
+<field name="composer">Édouard Potjès</field>
+<field name="composerSort">Potjès, Édouard</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Charles Duprez</field>
+<field name="librettistSort">Duprez, Charles</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariane+Édouard+Potjès&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203852</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Francesco di Paola nel deserto</field>
+		<field name="titleSort">San Francesco di Paola nel deserto</field>
+		<field name="year">1738</field>
+		
+		
+		<field name="date">1738</field>
+		<field name="composer">Leonardo Leo</field>
+		<field name="composerSort">Leo, Leonardo</field>
+		
+		
+		<field name="theater">Chiesa di Santa Maria degli Angeli</field>
+		<field name="city">Lecce</field>
+		<field name="region">Puglia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Francis of Paula</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">2</field>
+		<field name="feastDate">April 2</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Francesco+di+Paola+nel+deserto+Leonardo+Leo&amp;search_field=search</field>
+	</doc></add>

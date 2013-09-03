@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203698</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le sacrifice d'Isaac</field>
+		<field name="titleSort">sacrifice d'Isaac</field>
+		<field name="year">1774</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1774</field>
+		<field name="composer">Giuseppe Maria Cambini</field>
+		<field name="composerSort">Cambini, Giuseppe Maria</field>
+		
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sacrifice+d'Isaac+Giuseppe+Maria+Cambini&amp;search_field=search</field>
+	</doc></add>

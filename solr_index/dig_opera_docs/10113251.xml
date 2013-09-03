@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113251</field>
+<field name="genre">Operas</field>
+<field name="title">Gremismeni folia (Destroyed Nest)</field>
+<field name="titleSort">Gremismeni folia (Destroyed Nest)</field>
+<field name="composer">Nikolaos Hadjiapostolou</field>
+<field name="composerSort">Hadjiapostolou, Nikolaos</field>
+
+
+<field name="librettist">Alexandre Bisson</field>
+<field name="librettistSort">Bisson, Alexandre</field>
+
+<field name="city">Athens</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gremismeni+folia+Destroyed+Nest+Nikolaos+Hadjiapostolou&amp;search_field=search</field>
+</doc>
+</add>

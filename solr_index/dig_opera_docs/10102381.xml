@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102381</field>
+<field name="genre">Operas</field>
+<field name="title">The Enchanted Kiss</field>
+<field name="titleSort">Enchanted Kiss</field>
+<field name="composer">Robert Russell Bennett</field>
+<field name="composerSort">Bennett, Robert Russell</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Robert Alfred Simon</field>
+<field name="librettistSort">Simon, Robert Alfred</field>
+<field name="librettist">[William Sydney Porter] O. Henry</field>
+<field name="librettistSort">Henry, O. [William Sydney Porter]</field>
+<field name="theater">Mutual Radio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Enchanted+Kiss+Robert+Russell+Bennett&amp;search_field=search</field>
+</doc>
+</add>

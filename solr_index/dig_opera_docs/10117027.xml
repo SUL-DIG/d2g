@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117027</field>
+<field name="genre">Operas</field>
+<field name="title">La journée galante</field>
+<field name="titleSort">journée galante</field>
+<field name="composer">Pierre de La Garde</field>
+<field name="composerSort">Garde, Pierre de La</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Pierre Laujon</field>
+<field name="librettistSort">Laujon, Pierre</field>
+<field name="theater">Théâtre des Petits Appartemens</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+journée+galante+Pierre+de+La+Garde&amp;search_field=search</field>
+</doc>
+</add>

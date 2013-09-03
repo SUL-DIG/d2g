@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203395</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pharisaei conversio ad sepulchrum</field>
+		<field name="titleSort">Pharisaei conversio ad sepulchrum</field>
+		<field name="year">1782</field>
+		
+		
+		<field name="date">1782</field>
+		<field name="composer">Francesco Piticchio</field>
+		<field name="composerSort">Piticchio, Francesco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Nicodemus</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">31</field>
+		<field name="feastDate">August 31</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pharisaei+conversio+ad+sepulchrum+Francesco+Piticchio&amp;search_field=search</field>
+	</doc></add>

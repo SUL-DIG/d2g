@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203514</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Prophecy</field>
+		<field name="titleSort">Prophecy</field>
+		<field name="year">1799</field>
+		<field name="month">March</field>
+		<field name="day">29</field>
+		<field name="date">March 29, 1799</field>
+		<field name="composer">Thomas Busby</field>
+		<field name="composerSort">Busby, Thomas</field>
+		<field name="librettist">Alexander Pope</field>
+		<field name="librettistSort">Pope, Alexander</field>
+		
+		<field name="theater">Little Theatre in the Haymarket</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Prophecy+Thomas+Busby&amp;search_field=search</field>
+	</doc></add>

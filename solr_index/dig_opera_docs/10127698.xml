@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127698</field>
+<field name="genre">Operas</field>
+<field name="title">La furba e lo sciocco</field>
+<field name="titleSort">furba e lo sciocco</field>
+<field name="composer">Domenico Natale Sarro</field>
+<field name="composerSort">Sarro, Domenico Natale</field>
+<field name="year">1731</field>
+<field name="date">1731</field><field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+furba+e+lo+sciocco+Domenico+Natale+Sarro&amp;search_field=search</field>
+</doc>
+</add>

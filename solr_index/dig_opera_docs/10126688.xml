@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126688</field>
+<field name="genre">Operas</field>
+<field name="title">Les femmes au tombeau</field>
+<field name="titleSort">femmes au tombeau</field>
+<field name="composer">Manuel Rosenthal</field>
+<field name="composerSort">Rosenthal, Manuel</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Michel de Ghelderode</field>
+<field name="librettistSort">Ghelderode, Michel de</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+femmes+au+tombeau+Manuel+Rosenthal&amp;search_field=search</field>
+</doc>
+</add>

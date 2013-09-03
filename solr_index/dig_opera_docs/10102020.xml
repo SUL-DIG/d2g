@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102020</field>
+<field name="genre">Operas</field>
+<field name="title">All for the Queen</field>
+<field name="titleSort">All for the Queen</field>
+<field name="composer">Stanley Bate</field>
+<field name="composerSort">Bate, Stanley</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Stanley Bate</field>
+<field name="librettistSort">Bate, Stanley</field>
+<field name="theater">"Globe Theatre, Royal Marine Barracks, Stonehouse"</field>
+<field name="city">Plymouth</field>
+<field name="region">Devonshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=All+for+the+Queen+Stanley+Bate&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114011</field>
+<field name="genre">Operas</field>
+<field name="title">The Bassarids</field>
+<field name="titleSort">Bassarids</field>
+<field name="composer">Hans Werner Henze</field>
+<field name="composerSort">Henze, Hans Werner</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Wystan Hugh Auden</field>
+<field name="librettistSort">Auden, Wystan Hugh</field>
+<field name="librettist">Chester Kallman</field>
+<field name="librettistSort">Kallman, Chester</field>
+<field name="theater">Grosses Festspielhaus</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bassarids+Hans+Werner+Henze&amp;search_field=search</field>
+</doc>
+</add>

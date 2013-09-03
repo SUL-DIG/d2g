@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131459</field>
+<field name="genre">Operas</field>
+<field name="title">Il buon soldato Svejk</field>
+<field name="titleSort">buon soldato Svejk</field>
+<field name="composer">Guido Turchi</field>
+<field name="composerSort">Turchi, Guido</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Gerardo Guerrieri</field>
+<field name="librettistSort">Guerrieri, Gerardo</field>
+<field name="librettist">Jaroslav Hasek</field>
+<field name="librettistSort">Hasek, Jaroslav</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+buon+soldato+Svejk+Guido+Turchi&amp;search_field=search</field>
+</doc>
+</add>

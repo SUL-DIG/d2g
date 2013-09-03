@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100810</field>
+<field name="genre">Operas</field>
+<field name="title">La tempestа</field>
+<field name="titleSort">tempestа</field>
+<field name="composer">Arturo de Angelis</field>
+<field name="composerSort">Angelis, Arturo de</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Angelo Sodini</field>
+<field name="librettistSort">Sodini, Angelo</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Morlacchi</field>
+<field name="city">Perugia</field>
+<field name="region">Umbria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tempestа+Arturo+de+Angelis&amp;search_field=search</field>
+</doc>
+</add>

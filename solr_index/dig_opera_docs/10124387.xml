@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124387</field>
+<field name="genre">Operas</field>
+<field name="title">Black Blood</field>
+<field name="titleSort">Black Blood</field>
+<field name="composer">Eugenio Pirani</field>
+<field name="composerSort">Pirani, Eugenio</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Alma Webster-Powell</field>
+<field name="librettistSort">Webster-Powell, Alma</field>
+<field name="theater">Powell Institute Little Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Black+Blood+Eugenio+Pirani&amp;search_field=search</field>
+</doc>
+</add>

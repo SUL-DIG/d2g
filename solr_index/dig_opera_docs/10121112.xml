@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121112</field>
+<field name="genre">Operas</field>
+<field name="title">The Emperor's New Clothes</field>
+<field name="titleSort">Emperor's New Clothes</field>
+<field name="composer">Douglas Moore</field>
+<field name="composerSort">Moore, Douglas</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Raymond Abrashkin</field>
+<field name="librettistSort">Abrashkin, Raymond</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Carnegie Hall</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Emperor's+New+Clothes+Douglas+Moore&amp;search_field=search</field>
+</doc>
+</add>

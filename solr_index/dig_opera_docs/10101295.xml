@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101295</field>
+<field name="genre">Operas</field>
+<field name="title">I pirati</field>
+<field name="titleSort">pirati</field>
+<field name="composer">Orsola Aspri</field>
+<field name="composerSort">Aspri, Orsola</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Giovanni Emanuele Bidera</field>
+<field name="librettistSort">Bidera, Giovanni Emanuele</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+pirati+Orsola+Aspri&amp;search_field=search</field>
+</doc>
+</add>

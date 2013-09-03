@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120807</field>
+<field name="genre">Operas</field>
+<field name="title">Tenshu Monogatari</field>
+<field name="titleSort">Tenshu Monogatari</field>
+<field name="composer">Shuko Mizuno</field>
+<field name="composerSort">Mizuno, Shuko</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Jun Maeda</field>
+<field name="librettistSort">Maeda, Jun</field>
+<field name="librettist">Saburo Kanazawa</field>
+<field name="librettistSort">Kanazawa, Saburo</field>
+<field name="theater">Yubin-Chokin Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tenshu+Monogatari+Shuko+Mizuno&amp;search_field=search</field>
+</doc>
+</add>

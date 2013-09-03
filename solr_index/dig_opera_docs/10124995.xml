@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124995</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bassgeige</field>
+<field name="titleSort">Bassgeige</field>
+<field name="composer">Hans Poser</field>
+<field name="composerSort">Poser, Hans</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Eric Spiess</field>
+<field name="librettistSort">Spiess, Eric</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">ZDF Television (Zweites deutsches Fernsehen)</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bassgeige+Hans+Poser&amp;search_field=search</field>
+</doc>
+</add>

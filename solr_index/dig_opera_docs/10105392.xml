@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105392</field>
+<field name="genre">Operas</field>
+<field name="title">Beglets ot svoyey nevestï</field>
+<field name="titleSort">Beglets ot svoyey nevestï</field>
+<field name="composer">Catterino Al'bertovich Cavos</field>
+<field name="composerSort">Cavos, Catterino Al'bertovich</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">Aleksandr Aleksandrovich Shakhovskoy</field>
+<field name="librettistSort">Shakhovskoy, Aleksandr Aleksandrovich</field>
+<field name="theater">Bol'shoy Kamennïy Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beglets+ot+svoyey+nevestï+Catterino+Al'bertovich+Cavos&amp;search_field=search</field>
+</doc>
+</add>

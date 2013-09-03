@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129475</field>
+<field name="genre">Operas</field>
+<field name="title">Virginia</field>
+<field name="titleSort">Virginia</field>
+<field name="composer">Edward Solomon</field>
+<field name="composerSort">Solomon, Edward</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Henry Pottinger Stephens</field>
+<field name="librettistSort">Stephens, Henry Pottinger</field>
+<field name="theater">Bijou Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virginia+Edward+Solomon&amp;search_field=search</field>
+</doc>
+</add>

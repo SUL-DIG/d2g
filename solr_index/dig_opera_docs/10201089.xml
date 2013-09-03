@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201089</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Einzug Christi in Jerusalem</field>
+		<field name="titleSort">Einzug Christi in Jerusalem</field>
+		<field name="year">1834</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1834</field>
+		<field name="composer">Karl Friedrich Rungenhagen</field>
+		<field name="composerSort">Rungenhagen, Karl Friedrich</field>
+		<field name="librettist">Karl Grüneisen</field>
+		<field name="librettistSort">Grüneisen, Karl</field>
+		
+		
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Entry into Jerusalem</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Einzug+Christi+in+Jerusalem+Karl+Friedrich+Rungenhagen&amp;search_field=search</field>
+	</doc></add>

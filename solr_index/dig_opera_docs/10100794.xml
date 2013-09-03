@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100794</field>
+<field name="genre">Operas</field>
+<field name="title">I vecchi burlati</field>
+<field name="titleSort">vecchi burlati</field>
+<field name="composer">Pasquale Anfossi</field>
+<field name="composerSort">Anfossi, Pasquale</field>
+<field name="year">1783</field>
+<field name="date">1783</field><field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+vecchi+burlati+Pasquale+Anfossi&amp;search_field=search</field>
+</doc>
+</add>

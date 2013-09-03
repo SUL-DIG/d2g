@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102899</field>
+<field name="genre">Operas</field>
+<field name="title">Les illustres infortunés</field>
+<field name="titleSort">illustres infortunés</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Maxime de Redon</field>
+<field name="librettistSort">Redon, Maxime de</field>
+<field name="librettist">Charles Rivière Dufresny</field>
+<field name="librettistSort">Dufresny, Charles Rivière</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+illustres+infortunés+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

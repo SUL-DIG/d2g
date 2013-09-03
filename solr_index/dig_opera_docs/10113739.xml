@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113739</field>
+<field name="genre">Operas</field>
+<field name="title">Jolanthe</field>
+<field name="titleSort">Jolanthe</field>
+<field name="composer">Johann Hasslinger von Hassingen</field>
+<field name="composerSort">Hassingen, Johann Hasslinger von</field>
+<field name="year">1849</field>
+<field name="date">1849</field>
+<field name="librettist">Emilie Krall</field>
+<field name="librettistSort">Krall, Emilie</field>
+<field name="librettist">Henrik Hertz</field>
+<field name="librettistSort">Hertz, Henrik</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jolanthe+Johann+Hasslinger+von+Hassingen&amp;search_field=search</field>
+</doc>
+</add>

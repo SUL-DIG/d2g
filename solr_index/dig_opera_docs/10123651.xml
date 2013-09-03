@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123651</field>
+<field name="genre">Operas</field>
+<field name="title">Die schwarze Maske</field>
+<field name="titleSort">schwarze Maske</field>
+<field name="composer">Krzysztof Penderecki</field>
+<field name="composerSort">Penderecki, Krzysztof</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Harry Kupfer</field>
+<field name="librettistSort">Kupfer, Harry</field>
+<field name="librettist">Krzysztof Penderecki</field>
+<field name="librettistSort">Penderecki, Krzysztof</field>
+<field name="theater">Grosses Festspielhaus</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schwarze+Maske+Krzysztof+Penderecki&amp;search_field=search</field>
+</doc>
+</add>

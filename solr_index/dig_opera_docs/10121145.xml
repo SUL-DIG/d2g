@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121145</field>
+<field name="genre">Operas</field>
+<field name="title">Erlösung dem Erlöser</field>
+<field name="titleSort">Erlösung dem Erlöser</field>
+<field name="composer">Robert Moran</field>
+<field name="composerSort">Moran, Robert</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Robert Moran</field>
+<field name="librettistSort">Moran, Robert</field>
+<field name="theater">Theater am Turm</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Erlösung+dem+Erlöser+Robert+Moran&amp;search_field=search</field>
+</doc>
+</add>

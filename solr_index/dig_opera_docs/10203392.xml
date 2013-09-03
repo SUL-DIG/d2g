@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203392</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pharao</field>
+		<field name="titleSort">Pharao</field>
+		<field name="year">1829</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1829</field>
+		<field name="composer">Friedrich Schneider</field>
+		<field name="composerSort">Schneider, Friedrich</field>
+		<field name="librettist">August Brüggemann</field>
+		<field name="librettistSort">Brüggemann, August</field>
+		
+		<field name="theater">Musikfeste des Vereins der Elbstädte</field>
+		<field name="city">Nordhausen</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Moses and Pharaoh</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pharao+Friedrich+Schneider&amp;search_field=search</field>
+	</doc></add>

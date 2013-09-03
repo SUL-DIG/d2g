@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131537</field>
+<field name="genre">Operas</field>
+<field name="title">La maldolida</field>
+<field name="titleSort">maldolida</field>
+<field name="composer">Irma Urteaga</field>
+<field name="composerSort">Urteaga, Irma</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Alberto Dimant</field>
+<field name="librettistSort">Dimant, Alberto</field>
+<field name="theater">La Scala de San Telmo</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maldolida+Irma+Urteaga&amp;search_field=search</field>
+</doc>
+</add>

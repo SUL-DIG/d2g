@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203342</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il pentimento d'Acabbo doppo il rimprovero della strage di Nabot</field>
+		<field name="titleSort">pentimento d'Acabbo doppo il rimprovero della strage di Nabot</field>
+		<field name="year">1722</field>
+		
+		
+		<field name="date">1722</field>
+		<field name="composer">Carlo Arrigoni</field>
+		<field name="composerSort">Arrigoni, Carlo</field>
+		<field name="librettist">Giovanni Grisostomo Arrigoni</field>
+		<field name="librettistSort">Arrigoni, Giovanni Grisosto</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Naboth's Vineyard</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+pentimento+d'Acabbo+doppo+il+rimprovero+della+strage+di+Nabot+Carlo+Arrigoni&amp;search_field=search</field>
+	</doc></add>

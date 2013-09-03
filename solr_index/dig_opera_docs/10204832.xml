@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204832</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Vincentius de Paula</field>
+		<field name="titleSort">Vincentius de Paula</field>
+		
+		
+		
+		
+		<field name="composer">Gustav Adolph Heinze</field>
+		<field name="composerSort">Heinze, Gustav Adolph</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Vincent de Paul</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">27</field>
+		<field name="feastDate">September 27</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vincentius+de+Paula+Gustav+Adolph+Heinze&amp;search_field=search</field>
+	</doc></add>

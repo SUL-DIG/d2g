@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119797</field>
+<field name="genre">Operas</field>
+<field name="title">Der letzte Schuss</field>
+<field name="titleSort">letzte Schuss</field>
+<field name="composer">Siegfried Matthus</field>
+<field name="composerSort">Matthus, Siegfried</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Siegfried Matthus</field>
+<field name="librettistSort">Matthus, Siegfried</field>
+<field name="librettist">Götz Friedrich</field>
+<field name="librettistSort">Friedrich, Götz</field>
+<field name="theater">Komische Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+letzte+Schuss+Siegfried+Matthus&amp;search_field=search</field>
+</doc>
+</add>

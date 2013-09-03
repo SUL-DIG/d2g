@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118519</field>
+<field name="genre">Operas</field>
+<field name="title">"La double clef, ou Colombine commissaire</field>
+<field name="titleSort">"double clef, ou Colombine commissaire"</field>
+<field name="composer">Alexandre Louet</field>
+<field name="composerSort">Louet, Alexandre</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">[Jean Louis Brousse] Desfaucherets</field>
+<field name="librettistSort">Desfaucherets, [Jean Louis Brousse]</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+double+clef,+ou+Colombine+commissaire+Alexandre+Louet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100545</field>
+<field name="genre">Operas</field>
+<field name="title">Gl'incanti d'Alcina</field>
+<field name="titleSort">incanti d'Alcina</field>
+<field name="composer">Francisco António de Almeida</field>
+<field name="composerSort">Almeida, Francisco António de</field>
+<field name="year">1730</field>
+<field name="date">1730</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Palácio da Ribeira</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gl'incanti+d'Alcina+Francisco+António+de+Almeida&amp;search_field=search</field>
+</doc>
+</add>

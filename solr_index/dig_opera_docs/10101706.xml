@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101706</field>
+<field name="genre">Operas</field>
+<field name="title">I rivali di se stessi</field>
+<field name="titleSort">rivali di se stessi</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Antonio Alcozer</field>
+<field name="librettistSort">Alcozer, Antonio</field>
+<field name="librettist">Charles-Antoine-Guillaume Pigault-Lebrun</field>
+<field name="librettistSort">Pigault-Lebrun, Charles-Antoine-Guillaume</field>
+<field name="theater">Real Teatro Carolino</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+rivali+di+se+stessi+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

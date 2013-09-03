@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103156</field>
+<field name="genre">Operas</field>
+<field name="title">La festa di fiori</field>
+<field name="titleSort">festa di fiori</field>
+<field name="composer">Giuseppe Blanc</field>
+<field name="composerSort">Blanc, Giuseppe</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Francesco Gargano</field>
+<field name="librettistSort">Gargano, Francesco</field>
+<field name="librettist">A. Carelli</field>
+<field name="librettistSort">Carelli, A.</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+festa+di+fiori+Giuseppe+Blanc&amp;search_field=search</field>
+</doc>
+</add>

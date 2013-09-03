@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131339</field>
+<field name="genre">Operas</field>
+<field name="title">Pluto</field>
+<field name="titleSort">Pluto</field>
+<field name="composer">Bernhard Triebel</field>
+<field name="composerSort">Triebel, Bernhard</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Bernhard Triebel</field>
+<field name="librettistSort">Triebel, Bernhard</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pluto+Bernhard+Triebel&amp;search_field=search</field>
+</doc>
+</add>

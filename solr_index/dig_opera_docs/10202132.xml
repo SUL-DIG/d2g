@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202132</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jeanne d'Arc</field>
+		<field name="titleSort">Jeanne d'Arc</field>
+		<field name="year">1913</field>
+		<field name="month">May</field>
+		<field name="day">30</field>
+		<field name="date">May 30, 1913</field>
+		<field name="composer">Paul Paray</field>
+		<field name="composerSort">Paray, Paul</field>
+		<field name="librettist">Gabriel Montoya</field>
+		<field name="librettistSort">Montoya, Gabriel</field>
+		
+		
+		<field name="city">Rouen</field>
+		<field name="region">Seine-Maritime</field>
+		<field name="country">France</field>
+		<field name="subject">Saint Joan of Arc</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">30</field>
+		<field name="feastDate">May 30</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jeanne+d'Arc+Paul+Paray&amp;search_field=search</field>
+	</doc></add>

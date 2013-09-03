@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124401</field>
+<field name="genre">Operas</field>
+<field name="title">Die Witwe und das Auto</field>
+<field name="titleSort">Witwe und das Auto</field>
+<field name="composer">Karl Pisarowitz</field>
+<field name="composerSort">Pisarowitz, Karl</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Henry Sekler</field>
+<field name="librettistSort">Sekler, Henry</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Radio Praga</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Witwe+und+das+Auto+Karl+Pisarowitz&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106840</field>
+<field name="genre">Operas</field>
+<field name="title">Les cornes de Clochenville</field>
+<field name="titleSort">cornes de Clochenville</field>
+<field name="composer">Paul Cressonois</field>
+<field name="composerSort">Cressonois, Paul</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Luis Olona</field>
+<field name="librettistSort">Olona, Luis</field>
+<field name="theater">Théâtre des Bouffes-du-Nord</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+cornes+de+Clochenville+Paul+Cressonois&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111335</field>
+<field name="genre">Operas</field>
+<field name="title">La loucuras de Rapaz</field>
+<field name="titleSort">loucuras de Rapaz</field>
+<field name="composer">Francisco de Freitas Gazul</field>
+<field name="composerSort">Gazul, Francisco de Freitas</field>
+<field name="year">1869</field>
+<field name="date">1869</field><field name="theater">Teatro del principe Real</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+loucuras+de+Rapaz+Francisco+de+Freitas+Gazul&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106647</field>
+<field name="genre">Operas</field>
+<field name="title">La maliarda</field>
+<field name="titleSort">maliarda</field>
+<field name="composer">Antonio Coronaro</field>
+<field name="composerSort">Coronaro, Antonio</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Teatro Eretenio</field>
+<field name="city">Vicenza</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maliarda+Antonio+Coronaro&amp;search_field=search</field>
+</doc>
+</add>

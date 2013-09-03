@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200997</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Dina racita</field>
+		<field name="titleSort">Dina racita</field>
+		<field name="year">1668</field>
+		
+		
+		<field name="date">1668</field>
+		<field name="composer">Carlo Donato Cossoni</field>
+		<field name="composerSort">Cossoni, Carlo Donato</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Rape of Dinah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dina+racita+Carlo+Donato+Cossoni&amp;search_field=search</field>
+	</doc></add>

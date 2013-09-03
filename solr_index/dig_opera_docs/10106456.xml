@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106456</field>
+<field name="genre">Operas</field>
+<field name="title">Antigone</field>
+<field name="titleSort">Antigone</field>
+<field name="composer">Dinos Constantinides</field>
+<field name="composerSort">Constantinides, Dinos</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Dudley Fitts</field>
+<field name="librettistSort">Fitts, Dudley</field>
+<field name="librettist">Robert Fitzgerald</field>
+<field name="librettistSort">Fitzgerald, Robert</field>
+<field name="theater">Louisiana State University</field>
+<field name="city">Baton Rouge</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+Dinos+Constantinides&amp;search_field=search</field>
+</doc>
+</add>

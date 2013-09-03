@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119371</field>
+<field name="genre">Operas</field>
+<field name="title">"I tre rivali, ossia Il matrimonio impensato</field>
+<field name="titleSort">"tre rivali, ossia Il matrimonio impensato"</field>
+<field name="composer">Gaetano Marinelli</field>
+<field name="composerSort">Marinelli, Gaetano</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Cesare Augusto Casini</field>
+<field name="librettistSort">Casini, Cesare Augusto</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+tre+rivali,+ossia+Il+matrimonio+impensato+Gaetano+Marinelli&amp;search_field=search</field>
+</doc>
+</add>

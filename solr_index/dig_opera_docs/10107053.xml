@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107053</field>
+<field name="genre">Operas</field>
+<field name="title">Metastasio</field>
+<field name="titleSort">Metastasio</field>
+<field name="composer">Luigi Dall'Argine</field>
+<field name="composerSort">Dall'Argine, Luigi</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Girolamo Clemente Tomei</field>
+<field name="librettistSort">Tomei, Girolamo Clemente</field>
+<field name="theater">Teatro Verdi</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metastasio+Luigi+Dall'Argine&amp;search_field=search</field>
+</doc>
+</add>

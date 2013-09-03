@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106108</field>
+<field name="genre">Operas</field>
+<field name="title">Bajazet</field>
+<field name="titleSort">Bajazet</field>
+<field name="composer">Giuseppe Clemente de Bonomi</field>
+<field name="composerSort">Bonomi, Giuseppe Clemente de</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Agostin Piovene</field>
+<field name="librettistSort">Piovene, Agostin</field>
+<field name="librettist">Jacques Pradon</field>
+<field name="librettistSort">Pradon, Jacques</field>
+
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bajazet+Giuseppe+Clemente+de+Bonomi&amp;search_field=search</field>
+</doc>
+</add>

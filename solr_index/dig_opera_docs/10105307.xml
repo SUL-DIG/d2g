@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105307</field>
+<field name="genre">Operas</field>
+<field name="title">The Soul of Sequoia</field>
+<field name="titleSort">Soul of Sequoia</field>
+<field name="composer">Thomas Vincent Cator</field>
+<field name="composerSort">Cator, Thomas Vincent</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Don W. Richards</field>
+<field name="librettistSort">Richards, Don W.</field>
+<field name="theater">Redwood Park</field>
+<field name="city">Santa Cruz</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Soul+of+Sequoia+Thomas+Vincent+Cator&amp;search_field=search</field>
+</doc>
+</add>

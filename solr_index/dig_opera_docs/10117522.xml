@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117522</field>
+<field name="genre">Operas</field>
+<field name="title">Tamar and Judah</field>
+<field name="titleSort">Tamar and Judah</field>
+<field name="composer">Marc Lavry</field>
+<field name="composerSort">Lavry, Marc</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Louis Israel Newman</field>
+<field name="librettistSort">Newman, Louis Israel</field>
+<field name="theater">Temple Rodeph Sholom</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tamar+and+Judah+Marc+Lavry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112049</field>
+<field name="genre">Operas</field>
+<field name="title">Medea</field>
+<field name="titleSort">Medea</field>
+<field name="composer">Rocco di Giovanni</field>
+<field name="composerSort">Giovanni, Rocco di</field>
+<field name="year">1955</field>
+<field name="date">1955</field><field name="theater">"Community Opera, Brooklyn Museum"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+Rocco+di+Giovanni&amp;search_field=search</field>
+</doc>
+</add>

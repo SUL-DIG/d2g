@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114147</field>
+<field name="genre">Operas</field>
+<field name="title">L'enseignement mutuel</field>
+<field name="titleSort">enseignement mutuel</field>
+<field name="composer">[Florimond Ronger] Hervé</field>
+<field name="composerSort">Hervé, [Florimond Ronger]</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Théodore Barrière</field>
+<field name="librettistSort">Barrière, Théodore</field>
+<field name="librettist">Adrien Decourcelle</field>
+<field name="librettistSort">Decourcelle, Adrien</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enseignement+mutuel+Florimond+Ronger]+Hervé&amp;search_field=search</field>
+</doc>
+</add>

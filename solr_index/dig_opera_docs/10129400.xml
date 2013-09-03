@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129400</field>
+<field name="genre">Operas</field>
+<field name="title">La hermana de Pelayo (La sorella di Pelagio)</field>
+<field name="titleSort">hermana de Pelayo (sorella di Pelagio)</field>
+<field name="composer">Temistocle Solera</field>
+<field name="composerSort">Solera, Temistocle</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Temistocle Solera</field>
+<field name="librettistSort">Solera, Temistocle</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+hermana+de+Pelayo+La+sorella+di+Pelagio+Temistocle+Solera&amp;search_field=search</field>
+</doc>
+</add>

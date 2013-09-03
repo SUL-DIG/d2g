@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117975</field>
+<field name="genre">Operas</field>
+<field name="title">Nausithoé</field>
+<field name="titleSort">Nausithoé</field>
+<field name="composer">Xavier Leroux</field>
+<field name="composerSort">Leroux, Xavier</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Maurice Magre</field>
+<field name="librettistSort">Magre, Maurice</field>
+<field name="theater">Casino Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nausithoé+Xavier+Leroux&amp;search_field=search</field>
+</doc>
+</add>

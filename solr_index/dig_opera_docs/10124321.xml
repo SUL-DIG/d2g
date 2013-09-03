@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124321</field>
+<field name="genre">Operas</field>
+<field name="title">L'Amour et Psyché</field>
+<field name="titleSort">Amour et Psyché</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Paul Aubry</field>
+<field name="librettistSort">Aubry, Paul</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Amour+et+Psyché+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

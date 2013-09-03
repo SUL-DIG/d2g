@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107964</field>
+<field name="genre">Operas</field>
+<field name="title">Gianni di Calais</field>
+<field name="titleSort">Gianni di Calais</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Domenico Gilardoni</field>
+<field name="librettistSort">Gilardoni, Domenico</field>
+<field name="librettist">Louis-Charles Caigniez</field>
+<field name="librettistSort">Caigniez, Louis-Charles</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gianni+di+Calais+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

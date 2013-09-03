@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201804</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Des Heilands letzte Stunden</field>
+		<field name="titleSort">Heilands letzte Stunden</field>
+		<field name="year">1836</field>
+		<field name="month">March</field>
+		<field name="day">27</field>
+		<field name="date">March 27, 1836</field>
+		<field name="composer">Karl Ludwig Drobisch</field>
+		<field name="composerSort">Drobisch, Karl Ludwig</field>
+		
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Last Hours of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Heilands+letzte+Stunden+Karl+Ludwig+Drobisch&amp;search_field=search</field>
+	</doc></add>

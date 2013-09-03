@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118901</field>
+<field name="genre">Operas</field>
+<field name="title">"Admeto, re di Tessaglia</field>
+<field name="titleSort">"Admeto, re di Tessaglia"</field>
+<field name="composer">Paolo Magni</field>
+<field name="composerSort">Magni, Paolo</field>
+<field name="year">1702</field>
+<field name="date">1702</field>
+<field name="librettist">Pietro d'Averara</field>
+<field name="librettistSort">d'Averara, Pietro</field>
+<field name="theater">Regio Ducal Teatro Nuovo</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Admeto,+re+di+Tessaglia+Paolo+Magni&amp;search_field=search</field>
+</doc>
+</add>

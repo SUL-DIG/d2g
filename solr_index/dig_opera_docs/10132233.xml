@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132233</field>
+<field name="genre">Operas</field>
+<field name="title">L'école des pères</field>
+<field name="titleSort">école des pères</field>
+<field name="composer">Albert de Vleeshouwer</field>
+<field name="composerSort">Vleeshouwer, Albert de</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Paul Landoy</field>
+<field name="librettistSort">Landoy, Paul</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'école+des+pères+Albert+de+Vleeshouwer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117799</field>
+<field name="genre">Operas</field>
+<field name="title">Le diner de Madelon</field>
+<field name="titleSort">diner de Madelon</field>
+<field name="composer">Charles Lemanissier</field>
+<field name="composerSort">Lemanissier, Charles</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Marc-Antoine Madeleine Désaugiers</field>
+<field name="librettistSort">Désaugiers, Marc-Antoine Madeleine</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">La Rochelle</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diner+de+Madelon+Charles+Lemanissier&amp;search_field=search</field>
+</doc>
+</add>

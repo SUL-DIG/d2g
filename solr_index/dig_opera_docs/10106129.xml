@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106129</field>
+<field name="genre">Operas</field>
+<field name="title">A Summer Night</field>
+<field name="titleSort">Summer Night</field>
+<field name="composer">George Howard Clutsam</field>
+<field name="composerSort">Clutsam, George Howard</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">George Howard Clutsam</field>
+<field name="librettistSort">Clutsam, George Howard</field>
+<field name="theater">"His Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Summer+Night+George+Howard+Clutsam&amp;search_field=search</field>
+</doc>
+</add>

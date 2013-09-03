@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128970</field>
+<field name="genre">Operas</field>
+<field name="title">Le fils reconnaissant</field>
+<field name="titleSort">fils reconnaissant</field>
+<field name="composer">Franz Seydelmann</field>
+<field name="composerSort">Seydelmann, Franz</field>
+<field name="year">1795</field>
+<field name="date">1795</field><field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Olesnica</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+fils+reconnaissant+Franz+Seydelmann&amp;search_field=search</field>
+</doc>
+</add>

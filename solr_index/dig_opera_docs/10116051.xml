@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116051</field>
+<field name="genre">Operas</field>
+<field name="title">Hier werden Näherinnen gesucht</field>
+<field name="titleSort">Hier werden Näherinnen gesucht</field>
+<field name="composer">Karl Kleiber</field>
+<field name="composerSort">Kleiber, Karl</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Clement Franz Stix</field>
+<field name="librettistSort">Stix, Clement Franz</field>
+<field name="theater">Fürsts Singspielhalle im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hier+werden+Näherinnen+gesucht+Karl+Kleiber&amp;search_field=search</field>
+</doc>
+</add>

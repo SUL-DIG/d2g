@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110227</field>
+<field name="genre">Operas</field>
+<field name="title">Hete</field>
+<field name="titleSort">Hete</field>
+<field name="composer">Jean Kurt Forest</field>
+<field name="composerSort">Forest, Jean Kurt</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Jean Kurt Forest</field>
+<field name="librettistSort">Forest, Jean Kurt</field>
+<field name="librettist">Helmut Sakowski</field>
+<field name="librettistSort">Sakowski, Helmut"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hete+Jean+Kurt+Forest&amp;search_field=search</field>
+</doc>
+</add>

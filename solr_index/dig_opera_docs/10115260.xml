@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115260</field>
+<field name="genre">Operas</field>
+<field name="title">Misa de seis</field>
+<field name="titleSort">Misa de seis</field>
+<field name="composer">Carlos Jiménez Mabarek</field>
+<field name="composerSort">Mabarek, Carlos Jiménez</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Emilio Carballido</field>
+<field name="librettistSort">Carballido, Emilio</field>
+<field name="theater">Palácio de Bellas Artes</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Misa+de+seis+Carlos+Jiménez+Mabarek&amp;search_field=search</field>
+</doc>
+</add>

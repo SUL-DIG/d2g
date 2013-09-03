@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130534</field>
+<field name="genre">Operas</field>
+<field name="title">"La Raison, l'Hymen et l'Amour</field>
+<field name="titleSort">"Raison, l'Hymen et l'Amour"</field>
+<field name="composer">__ Taix</field>
+<field name="composerSort">Taix, __</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Joseph Patrat</field>
+<field name="librettistSort">Patrat, Joseph</field>
+<field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Raison,+l'Hymen+et+l'Amour+__+Taix&amp;search_field=search</field>
+</doc>
+</add>

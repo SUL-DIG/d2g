@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105311</field>
+<field name="genre">Operas</field>
+<field name="title">La bataille de Denain</field>
+<field name="titleSort">bataille de Denain</field>
+<field name="composer">Gioseffo Catrufo</field>
+<field name="composerSort">Catrufo, Gioseffo</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+<field name="librettist">Armand Dartois</field>
+<field name="librettistSort">Dartois, Armand</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bataille+de+Denain+Gioseffo+Catrufo&amp;search_field=search</field>
+</doc>
+</add>

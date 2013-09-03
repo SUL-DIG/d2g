@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108089</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux fiançés</field>
+<field name="titleSort">deux fiançés</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+fiançés+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

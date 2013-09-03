@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203540</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La quête sans fin</field>
+		<field name="titleSort">quête sans fin</field>
+		<field name="year">1945</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1945</field>
+		<field name="composer">Marcel Landowski</field>
+		<field name="composerSort">Landowski, Marcel</field>
+		<field name="librettist">Marcel Landowski</field>
+		<field name="librettistSort">Landowski, Marcel</field>
+		
+		<field name="theater">Concerts-Pasdeloup</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+quête+sans+fin+Marcel+Landowski&amp;search_field=search</field>
+	</doc></add>

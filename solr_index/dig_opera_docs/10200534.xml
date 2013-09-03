@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200534</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Captivity</field>
+		<field name="titleSort">Captivity</field>
+		<field name="year">1862</field>
+		<field name="month">March</field>
+		<field name="day">13</field>
+		<field name="date">March 13, 1862</field>
+		<field name="composer">Francis Howell</field>
+		<field name="composerSort">Howell, Francis</field>
+		
+		
+		<field name="theater">Birmingham Triennial Festival</field>
+		<field name="city">Birmingham</field>
+		<field name="region">West Midlands</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Babylonian Captivity</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Captivity+Francis+Howell&amp;search_field=search</field>
+	</doc></add>

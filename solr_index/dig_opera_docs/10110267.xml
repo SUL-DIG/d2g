@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110267</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rose von Pontevedra</field>
+<field name="titleSort">Rose von Pontevedra</field>
+<field name="composer">Josef Forster</field>
+<field name="composerSort">Forster, Josef</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Josef Forster</field>
+<field name="librettistSort">Forster, Josef</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rose+von+Pontevedra+Josef+Forster&amp;search_field=search</field>
+</doc>
+</add>

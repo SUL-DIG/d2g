@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100696</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore industrioso</field>
+<field name="titleSort">amore industrioso</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Gaetano Casorri</field>
+<field name="librettistSort">Casorri, Gaetano</field>
+<field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+industrioso+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

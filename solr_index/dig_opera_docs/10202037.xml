@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202037</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isaac</field>
+		<field name="titleSort">Isaac</field>
+		<field name="year">1767</field>
+		<field name="month">March</field>
+		
+		<field name="date">March 1767</field>
+		<field name="composer">Tommaso Giordani</field>
+		<field name="composerSort">Giordani, Tommaso</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Fishamble Street Music Hall</field>
+		<field name="city">Dublin</field>
+		<field name="region">Leinster</field>
+		<field name="country">Ireland</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isaac+Tommaso+Giordani&amp;search_field=search</field>
+	</doc></add>

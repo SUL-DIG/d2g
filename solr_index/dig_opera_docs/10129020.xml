@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129020</field>
+<field name="genre">Operas</field>
+<field name="title">Ukroshcheniye stroptivoy</field>
+<field name="titleSort">Ukroshcheniye stroptivoy</field>
+<field name="composer">Vissarion Yakovlevich Shebalin</field>
+<field name="composerSort">Shebalin, Vissarion Yakovlevich</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Abram Akimovich Gozenpud</field>
+<field name="librettistSort">Gozenpud, Abram Akimovich</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Central House of Art Workers</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ukroshcheniye+stroptivoy+Vissarion+Yakovlevich+Shebalin&amp;search_field=search</field>
+</doc>
+</add>

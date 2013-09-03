@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111826</field>
+<field name="genre">Operas</field>
+<field name="title">Die kleine Sünderin</field>
+<field name="titleSort">kleine Sünderin</field>
+<field name="composer">[Max Winterfeld] Jean Gilbert</field>
+<field name="composerSort">Gilbert, [Max Winterfeld] Jean</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Hans Hellmut Zerlett</field>
+<field name="librettistSort">Zerlett, Hans Hellmut</field>
+<field name="librettist">Willy Prager</field>
+<field name="librettistSort">Prager, Willy</field>
+<field name="theater">Wallner-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+kleine+Sünderin+Max+Winterfeld]+Jean+Gilbert&amp;search_field=search</field>
+</doc>
+</add>

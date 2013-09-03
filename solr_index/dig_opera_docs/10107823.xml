@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107823</field>
+<field name="genre">Operas</field>
+<field name="title">Auguste und Theodor</field>
+<field name="titleSort">Auguste und Theodor</field>
+<field name="composer">Carl Ditters von Dittersdorf</field>
+<field name="composerSort">Dittersdorf, Carl Ditters von</field>
+
+
+<field name="librettist">Johann Jacob Engel</field>
+<field name="librettistSort">Engel, Johann Jacob"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auguste+und+Theodor+Carl+Ditters+von+Dittersdorf&amp;search_field=search</field>
+</doc>
+</add>

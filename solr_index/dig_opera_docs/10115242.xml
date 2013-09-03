@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115242</field>
+<field name="genre">Operas</field>
+<field name="title">Der keusche Benjamin</field>
+<field name="titleSort">keusche Benjamin</field>
+<field name="composer">Leon Jessel</field>
+<field name="composerSort">Jessel, Leon</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Max Steiner-Kaiser</field>
+<field name="librettistSort">Steiner-Kaiser, Max</field>
+<field name="librettist">Hans Bodenstädt</field>
+<field name="librettistSort">Bodenstädt, Hans</field>
+<field name="theater">Carl-Schultze-Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+keusche+Benjamin+Leon+Jessel&amp;search_field=search</field>
+</doc>
+</add>

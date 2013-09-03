@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105457</field>
+<field name="genre">Operas</field>
+<field name="title">L'île des singes</field>
+<field name="titleSort">île des singes</field>
+<field name="composer">Henri Cellot</field>
+<field name="composerSort">Cellot, Henri</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">__ Corrard</field>
+<field name="librettistSort">Corrard, __</field>
+<field name="librettist">Paul Renard</field>
+<field name="librettistSort">Renard, Paul</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'île+des+singes+Henri+Cellot&amp;search_field=search</field>
+</doc>
+</add>

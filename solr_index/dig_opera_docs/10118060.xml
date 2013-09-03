@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118060</field>
+<field name="genre">Operas</field>
+<field name="title">König Voglsang</field>
+<field name="titleSort">König Voglsang</field>
+<field name="composer">Gustav Lewin</field>
+<field name="composerSort">Lewin, Gustav</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">[Else Müller] Else Müller-Walsdorf</field>
+<field name="librettistSort">Müller-Walsdorf, Else [Else Müller]</field>
+<field name="theater">Landestheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Voglsang+Gustav+Lewin&amp;search_field=search</field>
+</doc>
+</add>

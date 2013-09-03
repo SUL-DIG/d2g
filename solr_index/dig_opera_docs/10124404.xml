@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124404</field>
+<field name="genre">Operas</field>
+<field name="title">Jen tri dniy</field>
+<field name="titleSort">Jen tri dniy</field>
+<field name="composer">Adolf Piskacek</field>
+<field name="composerSort">Piskacek, Adolf</field>
+<field name="year">1908</field>
+<field name="date">1908</field><field name="theater">Divadlo na Vinohradech</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jen+tri+dniy+Adolf+Piskacek&amp;search_field=search</field>
+</doc>
+</add>

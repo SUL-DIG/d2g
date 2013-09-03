@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113655</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Sleepy Hollow</field>
+<field name="titleSort">Legend of Sleepy Hollow</field>
+<field name="composer">Robert James Haskins</field>
+<field name="composerSort">Haskins, Robert James</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Allen John Koppenhaver</field>
+<field name="librettistSort">Koppenhaver, Allen John</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Civic Opera</field>
+<field name="city">Springfield</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Sleepy+Hollow+Robert+James+Haskins&amp;search_field=search</field>
+</doc>
+</add>

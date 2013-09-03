@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102739</field>
+<field name="genre">Operas</field>
+<field name="title">"Le rendez-vous supposé, ou Le souper de famille</field>
+<field name="titleSort">"rendez-vous supposé, ou souper de famille"</field>
+<field name="composer">Henri-Montan Berton</field>
+<field name="composerSort">Berton, Henri-Montan</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Jean-Baptiste Pujoulx</field>
+<field name="librettistSort">Pujoulx, Jean-Baptiste</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+rendez-vous+supposé,+ou+Le+souper+de+famille+Henri-Montan+Berton&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129272</field>
+<field name="genre">Operas</field>
+<field name="title">La falena</field>
+<field name="titleSort">falena</field>
+<field name="composer">Antonio Smareglia</field>
+<field name="composerSort">Smareglia, Antonio</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Silvio Benco</field>
+<field name="librettistSort">Benco, Silvio</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+falena+Antonio+Smareglia&amp;search_field=search</field>
+</doc>
+</add>

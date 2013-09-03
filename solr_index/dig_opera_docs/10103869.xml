@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103869</field>
+<field name="genre">Operas</field>
+<field name="title">Myrdhin</field>
+<field name="titleSort">Myrdhin</field>
+<field name="composer">Louis-Albert Bourgault-Ducoudray</field>
+<field name="composerSort">Bourgault-Ducoudray, Louis-Albert</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">[Anne Copin-Albancelli] Simone Arnaud</field>
+<field name="librettistSort">Arnaud, Simone [Anne Copin-Albancelli]</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Myrdhin+Louis-Albert+Bourgault-Ducoudray&amp;search_field=search</field>
+</doc>
+</add>

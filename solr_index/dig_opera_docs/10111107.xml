@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111107</field>
+<field name="genre">Operas</field>
+<field name="title">If Men Played Cards As Women Do</field>
+<field name="titleSort">If Men Played Cards As Women Do</field>
+<field name="composer">Charles Garland</field>
+<field name="composerSort">Garland, Charles</field>
+<field name="year">1952</field>
+<field name="date">1952</field><field name="theater">American Conservatory of Music</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=If+Men+Played+Cards+As+Women+Do+Charles+Garland&amp;search_field=search</field>
+</doc>
+</add>

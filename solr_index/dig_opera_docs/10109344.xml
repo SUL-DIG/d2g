@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109344</field>
+<field name="genre">Operas</field>
+<field name="title">A Noszty fiú esete Tóth Marival</field>
+<field name="titleSort">Noszty fiú esete Tóth Marival</field>
+<field name="composer">Ferenc Farkas</field>
+<field name="composerSort">Farkas, Ferenc</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Ferenc Karinthy</field>
+<field name="librettistSort">Karinthy, Ferenc</field>
+<field name="librettist">Dezso Mészöly</field>
+<field name="librettistSort">Mészöly, Dezso</field>
+<field name="theater">Fovárosi Operettszínház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Noszty+fiú+esete+Tóth+Marival+Ferenc+Farkas&amp;search_field=search</field>
+</doc>
+</add>

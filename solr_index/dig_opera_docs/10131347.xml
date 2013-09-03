@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131347</field>
+<field name="genre">Operas</field>
+<field name="title">Telemach auf der Insel Ogygia</field>
+<field name="titleSort">Telemach auf der Insel Ogygia</field>
+<field name="composer">Josef Triebensee</field>
+<field name="composerSort">Triebensee, Josef</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Karl Schikaneder</field>
+<field name="librettistSort">Schikaneder, Karl</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Telemach+auf+der+Insel+Ogygia+Josef+Triebensee&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113893</field>
+<field name="genre">Operas</field>
+<field name="title">Omar</field>
+<field name="titleSort">Omar</field>
+<field name="composer">Oskar Heinrich</field>
+<field name="composerSort">Heinrich, Oskar</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Oskar Heinrich</field>
+<field name="librettistSort">Heinrich, Oskar</field>
+
+<field name="city">Schleswig</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Omar+Oskar+Heinrich&amp;search_field=search</field>
+</doc>
+</add>

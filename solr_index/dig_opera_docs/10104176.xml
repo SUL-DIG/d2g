@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104176</field>
+<field name="genre">Operas</field>
+<field name="title">Fahrenheit 451</field>
+<field name="titleSort">Fahrenheit 451</field>
+<field name="composer">Brenton Broadstock</field>
+<field name="composerSort">Broadstock, Brenton</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Brenton Broadstock</field>
+<field name="librettistSort">Broadstock, Brenton</field>
+<field name="librettist">Ray Bradbury</field>
+<field name="librettistSort">Bradbury, Ray</field>
+<field name="theater">Belvoir Street Theatre</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fahrenheit+451+Brenton+Broadstock&amp;search_field=search</field>
+</doc>
+</add>

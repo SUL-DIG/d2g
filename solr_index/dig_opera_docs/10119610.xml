@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119610</field>
+<field name="genre">Operas</field>
+<field name="title">Le nozze der marchese der Grillo</field>
+<field name="titleSort">nozze der marchese der Grillo</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Oreste Raffaelli</field>
+<field name="librettistSort">Raffaelli, Oreste</field>
+<field name="theater">Teatro Metastasio</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+nozze+der+marchese+der+Grillo+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

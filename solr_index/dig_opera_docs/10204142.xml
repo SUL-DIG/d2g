@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204142</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santo Ermenegildo, prencipe delle Spagne</field>
+		<field name="titleSort">Santo Ermenegildo, prencipe delle Spagne</field>
+		<field name="year">1678</field>
+		
+		
+		<field name="date">1678</field>
+		<field name="composer">Francesco Beretta</field>
+		<field name="composerSort">Beretta, Francesco</field>
+		<field name="librettist">Sebastiano Lazarini</field>
+		<field name="librettistSort">Lazarini, Sebastiano</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Hermenegild</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">13</field>
+		<field name="feastDate">April 13</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santo+Ermenegildo,+prencipe+delle+Spagne+Francesco+Beretta&amp;search_field=search</field>
+	</doc></add>

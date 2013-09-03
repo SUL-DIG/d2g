@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200638</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus rex</field>
+		<field name="titleSort">Christus rex</field>
+		<field name="year">1922</field>
+		
+		
+		<field name="date">1922</field>
+		<field name="composer">Joseph Ryelandt</field>
+		<field name="composerSort">Ryelandt, Joseph</field>
+		<field name="librettist">Charles Martens</field>
+		<field name="librettistSort">Martens, Charles</field>
+		
+		
+		
+		
+		
+		<field name="subject">Christ the King</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+rex+Joseph+Ryelandt&amp;search_field=search</field>
+	</doc></add>

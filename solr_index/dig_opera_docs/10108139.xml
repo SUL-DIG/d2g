@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108139</field>
+<field name="genre">Operas</field>
+<field name="title">Fischer und Kalif</field>
+<field name="titleSort">Fischer und Kalif</field>
+<field name="composer">Felix Draeseke</field>
+<field name="composerSort">Draeseke, Felix</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Felix Draeseke</field>
+<field name="librettistSort">Draeseke, Felix</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fischer+und+Kalif+Felix+Draeseke&amp;search_field=search</field>
+</doc>
+</add>

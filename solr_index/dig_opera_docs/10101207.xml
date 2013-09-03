@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101207</field>
+<field name="genre">Operas</field>
+<field name="title">Bartleby</field>
+<field name="titleSort">Bartleby</field>
+<field name="composer">Walter Aschaffenburg</field>
+<field name="composerSort">Aschaffenburg, Walter</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Jay Leyda</field>
+<field name="librettistSort">Leyda, Jay</field>
+<field name="librettist">Herman Melville</field>
+<field name="librettistSort">Melville, Herman</field>
+<field name="theater">Oberlin College Conservatory</field>
+<field name="city">Oberlin</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bartleby+Walter+Aschaffenburg&amp;search_field=search</field>
+</doc>
+</add>

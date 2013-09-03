@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125186</field>
+<field name="genre">Operas</field>
+<field name="title">Le sonnet de Jeannot</field>
+<field name="titleSort">sonnet de Jeannot</field>
+<field name="composer">Desiré Henri Prys</field>
+<field name="composerSort">Prys, Desiré Henri</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Oscar Ghilain</field>
+<field name="librettistSort">Ghilain, Oscar</field>
+
+<field name="city">Mons</field>
+<field name="region">Hainault</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+sonnet+de+Jeannot+Desiré+Henri+Prys&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204520</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Tobie</field>
+		<field name="titleSort">Tobie</field>
+		<field name="year">1866</field>
+		<field name="month">February</field>
+		<field name="day">14</field>
+		<field name="date">February 14, 1866</field>
+		<field name="composer">Charles Gounod</field>
+		<field name="composerSort">Gounod, Charles</field>
+		<field name="librettist">Hippolyte Lefèvre</field>
+		<field name="librettistSort">Lefèvre, Hippolyte</field>
+		
+		<field name="theater">Saint James' Hall</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Tobias</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tobie+Charles+Gounod&amp;search_field=search</field>
+	</doc></add>

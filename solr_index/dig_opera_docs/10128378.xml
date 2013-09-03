@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128378</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Geburtstag, oder Das Gespenst</field>
+<field name="titleSort">"Geburtstag, oder Das Gespenst"</field>
+<field name="composer">Michael Schneider</field>
+<field name="composerSort">Schneider, Michael</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Ingolstadt</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Geburtstag,+oder+Das+Gespenst+Michael+Schneider&amp;search_field=search</field>
+</doc>
+</add>

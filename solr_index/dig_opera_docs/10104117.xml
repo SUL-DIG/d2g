@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104117</field>
+<field name="genre">Operas</field>
+<field name="title">"Inès et Léonore, ou La soeur jalouse</field>
+<field name="titleSort">"Inès et Léonore, ou La soeur jalouse"</field>
+<field name="composer">Jean-Baptiste Bréval</field>
+<field name="composerSort">Bréval, Jean-Baptiste</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">__ Gautier</field>
+<field name="librettistSort">Gautier, __</field>
+<field name="librettist">Pedro Calderón de la Barca</field>
+<field name="librettistSort">Calderón de la Barca, Pedro</field>
+<field name="theater">Château de Versailles</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inès+et+Léonore,+ou+La+soeur+jalouse+Jean-Baptiste+Bréval&amp;search_field=search</field>
+</doc>
+</add>

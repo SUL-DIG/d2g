@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104512</field>
+<field name="genre">Operas</field>
+<field name="title">Lorenzaccio</field>
+<field name="titleSort">Lorenzaccio</field>
+<field name="composer">Sylvano Bussotti</field>
+<field name="composerSort">Bussotti, Sylvano</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Sylvano Bussotti</field>
+<field name="librettistSort">Bussotti, Sylvano</field>
+<field name="librettist">Fred Philippe</field>
+<field name="librettistSort">Philippe, Fred</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lorenzaccio+Sylvano+Bussotti&amp;search_field=search</field>
+</doc>
+</add>

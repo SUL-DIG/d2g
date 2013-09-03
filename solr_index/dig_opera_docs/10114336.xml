@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114336</field>
+<field name="genre">Operas</field>
+<field name="title">Sancta Susanna</field>
+<field name="titleSort">Sancta Susanna</field>
+<field name="composer">Paul Hindemith</field>
+<field name="composerSort">Hindemith, Paul</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">August Stramm</field>
+<field name="librettistSort">Stramm, August</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Frankfurt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sancta+Susanna+Paul+Hindemith&amp;search_field=search</field>
+</doc>
+</add>

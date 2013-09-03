@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202554</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El Machabeo de la ley de gracia, San Serapio mártyr</field>
+		<field name="titleSort">Machabeo de la ley de gracia, San Serapio mártyr</field>
+		<field name="year">1731</field>
+		
+		
+		<field name="date">1731</field>
+		<field name="composer">Josep Picaсol</field>
+		<field name="composerSort">Pica_ol, Josep</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Blessed Serapion</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">14</field>
+		<field name="feastDate">November 14</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+Machabeo+de+la+ley+de+gracia,+San+Serapio+mártyr+Josep+Picaсol&amp;search_field=search</field>
+	</doc></add>

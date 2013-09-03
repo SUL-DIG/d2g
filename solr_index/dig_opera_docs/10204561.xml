@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204561</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Totentanz</field>
+		<field name="titleSort">Totentanz</field>
+		<field name="year">1906</field>
+		<field name="month">January</field>
+		<field name="day">6</field>
+		<field name="date">January 6, 1906</field>
+		<field name="composer">Felix Woyrsch</field>
+		<field name="composerSort">Woyrsch, Felix</field>
+		<field name="librettist">Felix Woyrsch</field>
+		<field name="librettistSort">Woyrsch, Felix</field>
+		
+		<field name="theater">Niederrheinisches Musikfest</field>
+		<field name="city">Cologne</field>
+		<field name="region">Nordrhein-Westfallen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Totentanz+Felix+Woyrsch&amp;search_field=search</field>
+	</doc></add>

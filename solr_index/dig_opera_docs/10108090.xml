@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108090</field>
+<field name="genre">Operas</field>
+<field name="title">Le double piège</field>
+<field name="titleSort">double piège</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Mélanie de Villenave Waldor</field>
+<field name="librettistSort">Waldor, Mélanie de Villenave</field>
+<field name="theater">Salle Herz</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+double+piège+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

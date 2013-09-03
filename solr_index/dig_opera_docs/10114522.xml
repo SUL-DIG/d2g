@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114522</field>
+<field name="genre">Operas</field>
+<field name="title">A Change of Heart</field>
+<field name="titleSort">Change of Heart</field>
+<field name="composer">David Hollister</field>
+<field name="composerSort">Hollister, David</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Kenneth Koch</field>
+<field name="librettistSort">Koch, Kenneth</field>
+<field name="theater">Medicine Show Theater Ensemble</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Change+of+Heart+David+Hollister&amp;search_field=search</field>
+</doc>
+</add>

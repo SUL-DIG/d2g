@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109633</field>
+<field name="genre">Operas</field>
+<field name="title">Mare nostro</field>
+<field name="titleSort">Mare nostro</field>
+<field name="composer">Lorenzo Ferrero</field>
+<field name="composerSort">Ferrero, Lorenzo</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Marco Ravasini</field>
+<field name="librettistSort">Ravasini, Marco</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Alessandria</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mare+nostro+Lorenzo+Ferrero&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113870</field>
+<field name="genre">Operas</field>
+<field name="title">Boris király</field>
+<field name="titleSort">Boris király</field>
+<field name="composer">Béla Hegyi</field>
+<field name="composerSort">Hegyi, Béla</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Sigmund Szöllösi</field>
+<field name="librettistSort">Szöllösi, Sigmund</field>
+<field name="theater">Király Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boris+király+Béla+Hegyi&amp;search_field=search</field>
+</doc>
+</add>

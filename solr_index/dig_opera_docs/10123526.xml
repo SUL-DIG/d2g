@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123526</field>
+<field name="genre">Operas</field>
+<field name="title">Il trionfo delle belle</field>
+<field name="titleSort">trionfo delle belle</field>
+<field name="composer">Stefano Pavesi</field>
+<field name="composerSort">Pavesi, Stefano</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Gaetano Rossi</field>
+<field name="librettistSort">Rossi, Gaetano</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+delle+belle+Stefano+Pavesi&amp;search_field=search</field>
+</doc>
+</add>

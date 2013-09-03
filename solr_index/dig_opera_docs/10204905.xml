@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204905</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Weihnachtsoratorium</field>
+		<field name="titleSort">Weihnachtsoratorium</field>
+		<field name="year">1736</field>
+		
+		
+		<field name="date">1736</field>
+		<field name="composer">Gottfried Heinrich Stölzel</field>
+		<field name="composerSort">Stölzel, Gottfried Heinrich</field>
+		<field name="librettist">Gottfried Heinrich Stölzel</field>
+		<field name="librettistSort">Stölzel, Gottfried Heinrich</field>
+		
+		
+		<field name="city">Sondershausen</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Weihnachtsoratorium+Gottfried+Heinrich+Stölzel&amp;search_field=search</field>
+	</doc></add>

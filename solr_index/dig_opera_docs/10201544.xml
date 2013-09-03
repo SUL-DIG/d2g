@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201544</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giaele</field>
+		<field name="titleSort">Giaele</field>
+		<field name="year">1844</field>
+		
+		
+		<field name="date">1844</field>
+		<field name="composer">Settimo Battaglia</field>
+		<field name="composerSort">Battaglia, Settimo</field>
+		<field name="librettist">Emilio Malvoti</field>
+		<field name="librettistSort">Malvoti, Emilio</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giaele+Settimo+Battaglia&amp;search_field=search</field>
+	</doc></add>

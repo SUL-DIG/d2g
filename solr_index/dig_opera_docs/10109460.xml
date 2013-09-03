@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109460</field>
+<field name="genre">Operas</field>
+<field name="title">Nitteti</field>
+<field name="titleSort">Nitteti</field>
+<field name="composer">Vincenzo Federici</field>
+<field name="composerSort">Federici, Vincenzo</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nitteti+Vincenzo+Federici&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105208</field>
+<field name="genre">Operas</field>
+<field name="title">La chanson de Paris</field>
+<field name="titleSort">chanson de Paris</field>
+<field name="composer">Francis Casadesus</field>
+<field name="composerSort">Casadesus, Francis</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Raoul Charbonnel</field>
+<field name="librettistSort">Charbonnel, Raoul</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chanson+de+Paris+Francis+Casadesus&amp;search_field=search</field>
+</doc>
+</add>

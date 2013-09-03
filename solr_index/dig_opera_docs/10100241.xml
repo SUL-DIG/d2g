@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100241</field>
+<field name="genre">Operas</field>
+<field name="title">La nobilitа delusa</field>
+<field name="titleSort">nobilitа delusa</field>
+<field name="composer">Johann Friedrich Agricola</field>
+<field name="composerSort">Agricola, Johann Friedrich</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nobilitа+delusa+Johann+Friedrich+Agricola&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118459</field>
+<field name="genre">Operas</field>
+<field name="title">Oronthée</field>
+<field name="titleSort">Oronthée</field>
+<field name="composer">Paolo Lorenzini</field>
+<field name="composerSort">Lorenzini, Paolo</field>
+<field name="year">1688</field>
+<field name="date">1688</field>
+<field name="librettist">Michel Le Clerc</field>
+<field name="librettistSort">Le Clerc, Michel</field>
+<field name="librettist">Jacques de Coras</field>
+<field name="librettistSort">Coras, Jacques de</field>
+<field name="theater">Château de Chantilly</field>
+<field name="city">Chantilly</field>
+<field name="region">Oise</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oronthée+Paolo+Lorenzini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201099</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Elgozo del peublo de Israel</field>
+		<field name="titleSort">Elgozo del peublo de Israel</field>
+		<field name="year">1769</field>
+		<field name="month">June</field>
+		<field name="day">13</field>
+		<field name="date">June 13, 1769</field>
+		<field name="composer">Pedro Antonío Monlleó</field>
+		<field name="composerSort">Monlleó, Pedro Antonío</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Moses leads the Israelites out of Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elgozo+del+peublo+de+Israel+Pedro+Antonío+Monlleó&amp;search_field=search</field>
+	</doc></add>

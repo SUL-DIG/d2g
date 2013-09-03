@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129010</field>
+<field name="genre">Operas</field>
+<field name="title">Zokhre i Takhir</field>
+<field name="titleSort">Zokhre i Takhir</field>
+<field name="composer">Adrian Grigor'yevich Shaposhnikov</field>
+<field name="composerSort">Shaposhnikov, Adrian Grigor'yevich</field>
+<field name="year">1941</field>
+<field name="date">1941</field>
+<field name="librettist">Bazar Amanov</field>
+<field name="librettistSort">Amanov, Bazar</field>
+<field name="theater">Turkmenskiy Teatr Operï i Baleta</field>
+<field name="city">Ashkhabad</field>
+
+<field name="country">Turkmenistan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zokhre+i+Takhir+Adrian+Grigor'yevich+Shaposhnikov&amp;search_field=search</field>
+</doc>
+</add>

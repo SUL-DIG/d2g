@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127491</field>
+<field name="genre">Operas</field>
+<field name="title">Calypso</field>
+<field name="titleSort">Calypso</field>
+<field name="composer">Gaston Salvayre</field>
+<field name="composerSort">Salvayre, Gaston</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Victor Roussy</field>
+<field name="librettistSort">Roussy, Victor</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Calypso+Gaston+Salvayre&amp;search_field=search</field>
+</doc>
+</add>

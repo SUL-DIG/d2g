@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102324</field>
+<field name="genre">Operas</field>
+<field name="title">Orpheus</field>
+<field name="titleSort">Orpheus</field>
+<field name="composer">Friedrich Wilhelm Benda</field>
+<field name="composerSort">Benda, Friedrich Wilhelm</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Gottfried Ferdinand Lindemann</field>
+<field name="librettistSort">Lindemann, Gottfried Ferdinand</field>
+<field name="theater">Corsika'scher Saal</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orpheus+Friedrich+Wilhelm+Benda&amp;search_field=search</field>
+</doc>
+</add>

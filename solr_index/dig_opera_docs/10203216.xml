@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203216</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Passion-oratorium</field>
+		<field name="titleSort">Passion-oratorium</field>
+		
+		
+		
+		
+		<field name="composer">Johann Adolf Scheibe</field>
+		<field name="composerSort">Scheibe, Johann Adolf</field>
+		<field name="librettist">Niels Krog Bredal</field>
+		<field name="librettistSort">Bredal, Niels Krog</field>
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion-oratorium+Johann+Adolf+Scheibe&amp;search_field=search</field>
+	</doc></add>

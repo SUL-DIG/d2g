@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117160</field>
+<field name="genre">Operas</field>
+<field name="title">Angelica</field>
+<field name="titleSort">Angelica</field>
+<field name="composer">Giovanni Battista Lampugnani</field>
+<field name="composerSort">Lampugnani, Giovanni Battista</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Carlo Vedova</field>
+<field name="librettistSort">Vedova, Carlo</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+Giovanni+Battista+Lampugnani&amp;search_field=search</field>
+</doc>
+</add>

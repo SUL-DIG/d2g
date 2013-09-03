@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105316</field>
+<field name="genre">Operas</field>
+<field name="title">Il corriere</field>
+<field name="titleSort">corriere</field>
+<field name="composer">Gioseffo Catrufo</field>
+<field name="composerSort">Catrufo, Gioseffo</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Teatru Manoel</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+corriere+Gioseffo+Catrufo&amp;search_field=search</field>
+</doc>
+</add>

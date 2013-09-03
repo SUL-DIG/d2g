@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128793</field>
+<field name="genre">Operas</field>
+<field name="title">Quiros</field>
+<field name="titleSort">Quiros</field>
+<field name="composer">Peter Sculthorpe</field>
+<field name="composerSort">Sculthorpe, Peter</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Brian Bell</field>
+<field name="librettistSort">Bell, Brian</field>
+<field name="theater">ABC Television (Australian Broadcasting Corporation)</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quiros+Peter+Sculthorpe&amp;search_field=search</field>
+</doc>
+</add>

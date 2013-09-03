@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114611</field>
+<field name="genre">Operas</field>
+<field name="title">Hands across the Sky</field>
+<field name="titleSort">Hands across the Sky</field>
+<field name="composer">Antony Hopkins</field>
+<field name="composerSort">Hopkins, Antony</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Gordon Snell</field>
+<field name="librettistSort">Snell, Gordon</field>
+<field name="theater">Intimate Opera Company</field>
+<field name="city">Cheltenham</field>
+<field name="region">Gloucestershire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hands+across+the+Sky+Antony+Hopkins&amp;search_field=search</field>
+</doc>
+</add>

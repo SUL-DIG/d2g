@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112491</field>
+<field name="genre">Operas</field>
+<field name="title">I Bonifazi ed i Salinguerra</field>
+<field name="titleSort">Bonifazi ed i Salinguerra</field>
+<field name="composer">Achille Graffigna</field>
+<field name="composerSort">Graffigna, Achille</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Temistocle Solera</field>
+<field name="librettistSort">Solera, Temistocle</field>
+<field name="theater">Teatro Gallo a San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+Bonifazi+ed+i+Salinguerra+Achille+Graffigna&amp;search_field=search</field>
+</doc>
+</add>

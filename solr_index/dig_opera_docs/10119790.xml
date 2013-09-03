@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119790</field>
+<field name="genre">Operas</field>
+<field name="title">Goldener</field>
+<field name="titleSort">Goldener</field>
+<field name="composer">Julius Hermann Matthey</field>
+<field name="composerSort">Matthey, Julius Hermann</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Max Möller</field>
+<field name="librettistSort">Möller, Max</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Goldener+Julius+Hermann+Matthey&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105829</field>
+<field name="genre">Operas</field>
+<field name="title">Die tolle Milliardärin</field>
+<field name="titleSort">tolle Milliardärin</field>
+<field name="composer">Ludwig Roman Chmel</field>
+<field name="composerSort">Chmel, Ludwig Roman</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Josco Schubert</field>
+<field name="librettistSort">Schubert, Josco</field>
+<field name="librettist">Robert Blum</field>
+<field name="librettistSort">Blum, Robert</field>
+<field name="theater">Lustspielhaus</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+tolle+Milliardärin+Ludwig+Roman+Chmel&amp;search_field=search</field>
+</doc>
+</add>

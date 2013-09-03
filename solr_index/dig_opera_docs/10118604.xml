@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118604</field>
+<field name="genre">Operas</field>
+<field name="title">Ivan</field>
+<field name="titleSort">Ivan</field>
+<field name="composer">Achille Lucidi</field>
+<field name="composerSort">Lucidi, Achille</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Giovanni Battista Paccanoni</field>
+<field name="librettistSort">Paccanoni, Giovanni Battista</field>
+<field name="theater">Teatrino Emma in Casa di Filippo Marignoli</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ivan+Achille+Lucidi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115258</field>
+<field name="genre">Operas</field>
+<field name="title">Der König stirbt</field>
+<field name="titleSort">König stirbt</field>
+<field name="composer">Bernhard Jestl</field>
+<field name="composerSort">Jestl, Bernhard</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Eugène Ionesco</field>
+<field name="librettistSort">Ionesco, Eugène</field>
+<field name="theater">Werkstattbühne</field>
+<field name="city">Bonn</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+König+stirbt+Bernhard+Jestl&amp;search_field=search</field>
+</doc>
+</add>

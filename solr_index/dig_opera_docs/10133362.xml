@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133362</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca da Rimini</field>
+<field name="titleSort">Francesca da Rimini</field>
+<field name="composer">Riccardo Zandonai</field>
+<field name="composerSort">Zandonai, Riccardo</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Tito Ricordi</field>
+<field name="librettistSort">Ricordi, Tito</field>
+<field name="librettist">Gabriele d'Annunzio</field>
+<field name="librettistSort">d'Annunzio, Gabriele</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Riccardo+Zandonai&amp;search_field=search</field>
+</doc>
+</add>

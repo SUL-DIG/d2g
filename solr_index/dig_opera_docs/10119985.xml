@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119985</field>
+<field name="genre">Operas</field>
+<field name="title">Il vero originale</field>
+<field name="titleSort">vero originale</field>
+<field name="composer">Simon Mayr</field>
+<field name="composerSort">Mayr, Simon</field>
+<field name="year">1808</field>
+<field name="date">1808</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+vero+originale+Simon+Mayr&amp;search_field=search</field>
+</doc>
+</add>

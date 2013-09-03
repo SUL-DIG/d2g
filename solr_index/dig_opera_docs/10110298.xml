@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110298</field>
+<field name="genre">Operas</field>
+<field name="title">I cacciatori e la vendilatte</field>
+<field name="titleSort">cacciatori e la vendilatte</field>
+<field name="composer">Gian Francesco Fortunati</field>
+<field name="composerSort">Fortunati, Gian Francesco</field>
+<field name="year">1769</field>
+<field name="date">1769</field><field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+cacciatori+e+la+vendilatte+Gian+Francesco+Fortunati&amp;search_field=search</field>
+</doc>
+</add>

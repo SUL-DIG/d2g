@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204375</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Lo sposo divino</field>
+		<field name="titleSort">sposo divino</field>
+		<field name="year">1730</field>
+		
+		
+		<field name="date">1730</field>
+		<field name="composer">Niccola Sabbioni</field>
+		<field name="composerSort">Sabbioni, Niccola</field>
+		
+		
+		<field name="theater">Chiesa di Santa Chiara</field>
+		<field name="city">Civitella del Tronto</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Marriage of the Lamb</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+sposo+divino+Niccola+Sabbioni&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106773</field>
+<field name="genre">Operas</field>
+<field name="title">François I а Graville</field>
+<field name="titleSort">François I а Graville</field>
+<field name="composer">__ Coste</field>
+<field name="composerSort">Coste, __</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Joseph Morlent</field>
+<field name="librettistSort">Morlent, Joseph</field>
+<field name="librettist">A. Morisse</field>
+<field name="librettistSort">Morisse, A.</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Le Havre</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=François+I+а+Graville+__+Coste&amp;search_field=search</field>
+</doc>
+</add>

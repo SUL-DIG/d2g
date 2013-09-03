@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128416</field>
+<field name="genre">Operas</field>
+<field name="title">Das Bivouac von Paris</field>
+<field name="titleSort">Bivouac von Paris</field>
+<field name="composer">Karl Anton Schönfeld</field>
+<field name="composerSort">Schönfeld, Karl Anton</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">Johann Friedrich Bahrdt</field>
+<field name="librettistSort">Bahrdt, Johann Friedrich</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Neustrelitz</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Bivouac+von+Paris+Karl+Anton+Schönfeld&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117916</field>
+<field name="genre">Operas</field>
+<field name="title">Are you there?</field>
+<field name="titleSort">Are you there?</field>
+<field name="composer">Ruggero Leoncavallo</field>
+<field name="composerSort">Leoncavallo, Ruggero</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Edgar Wallace</field>
+<field name="librettistSort">Wallace, Edgar</field>
+<field name="librettist">Albert de Courville</field>
+<field name="librettistSort">Courville, Albert de</field>
+<field name="theater">Prince of Wales Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Are+you+there?+Ruggero+Leoncavallo&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118781</field>
+<field name="genre">Operas</field>
+<field name="title">She Stoops to Conquer</field>
+<field name="titleSort">She Stoops to Conquer</field>
+<field name="composer">George Alexander Macfarren</field>
+<field name="composerSort">Macfarren, George Alexander</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Edward Fitzball</field>
+<field name="librettistSort">Fitzball, Edward</field>
+<field name="librettist">Oliver Goldsmith</field>
+<field name="librettistSort">Goldsmith, Oliver</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=She+Stoops+to+Conquer+George+Alexander+Macfarren&amp;search_field=search</field>
+</doc>
+</add>

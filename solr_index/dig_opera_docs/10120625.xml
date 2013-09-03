@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120625</field>
+<field name="genre">Operas</field>
+<field name="title">Kikimimi</field>
+<field name="titleSort">Kikimimi</field>
+<field name="composer">Minoru Miki</field>
+<field name="composerSort">Miki, Minoru</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Asaya Fujita</field>
+<field name="librettistSort">Fujita, Asaya</field>
+<field name="theater">NHK Television (Nippon Hoso Kyokai)</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kikimimi+Minoru+Miki&amp;search_field=search</field>
+</doc>
+</add>

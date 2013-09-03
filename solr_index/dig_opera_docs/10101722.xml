@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101722</field>
+<field name="genre">Operas</field>
+<field name="title">Kogato kuklite ne spyat</field>
+<field name="titleSort">Kogato kuklite ne spyat</field>
+<field name="composer">Rumen Balyozov</field>
+<field name="composerSort">Balyozov, Rumen</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Leda Mileva</field>
+<field name="librettistSort">Mileva, Leda</field>
+
+<field name="city">Blagoevgrad</field>
+<field name="region">Sofia Oblast</field>
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kogato+kuklite+ne+spyat+Rumen+Balyozov&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117516</field>
+<field name="genre">Operas</field>
+<field name="title">O lytrotis (The Redeemer)</field>
+<field name="titleSort">lytrotis (The Redeemer)</field>
+<field name="composer">Dionyssios Lavrangas</field>
+<field name="composerSort">Lavrangas, Dionyssios</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Zacharias Papandoniou</field>
+<field name="librettistSort">Papandoniou, Zacharias</field>
+
+<field name="city">Corfu</field>
+<field name="region">Kérkira</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+lytrotis+The+Redeemer+Dionyssios+Lavrangas&amp;search_field=search</field>
+</doc>
+</add>

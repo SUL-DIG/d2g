@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104767</field>
+<field name="genre">Operas</field>
+<field name="title">Elvira de Valenza</field>
+<field name="titleSort">Elvira de Valenza</field>
+<field name="composer">Lucio Campiani</field>
+<field name="composerSort">Campiani, Lucio</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Luigi Boldrini</field>
+<field name="librettistSort">Boldrini, Luigi</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elvira+de+Valenza+Lucio+Campiani&amp;search_field=search</field>
+</doc>
+</add>

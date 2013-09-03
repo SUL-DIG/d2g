@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201516</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gesù nato</field>
+		<field name="titleSort">Gesù nato</field>
+		<field name="year">1698</field>
+		<field name="month">December</field>
+		<field name="day">24</field>
+		<field name="date">December 24, 1698</field>
+		<field name="composer">Giuseppe Antonio Vincenzo Aldrovandini</field>
+		<field name="composerSort">Aldrovandini, Giuseppe Antonio Vincenzo</field>
+		<field name="librettist">Giovanni Battista Taroni</field>
+		<field name="librettistSort">Taroni, Giovanni Battista</field>
+		
+		<field name="theater">Oratorio Filippino della Madonna di Galliera</field>
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesù+nato+Giuseppe+Antonio+Vincenzo+Aldrovandini&amp;search_field=search</field>
+	</doc></add>

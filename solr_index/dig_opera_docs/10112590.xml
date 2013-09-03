@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112590</field>
+<field name="genre">Operas</field>
+<field name="title">La vergine del Castello</field>
+<field name="titleSort">vergine del Castello</field>
+<field name="composer">Giuseppe Grassi de Jannon</field>
+<field name="composerSort">Jannon, Giuseppe Grassi de</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Luigi Aloè</field>
+<field name="librettistSort">Aloè, Luigi</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vergine+del+Castello+Giuseppe+Grassi+de+Jannon&amp;search_field=search</field>
+</doc>
+</add>

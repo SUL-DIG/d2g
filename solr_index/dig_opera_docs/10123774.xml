@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123774</field>
+<field name="genre">Operas</field>
+<field name="title">Andrea del Sarto</field>
+<field name="titleSort">Andrea del Sarto</field>
+<field name="composer">John Mclvor Perkins</field>
+<field name="composerSort">Perkins, John Mclvor</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Robert Browning</field>
+<field name="librettistSort">Browning, Robert</field>
+<field name="theater">Washington University</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andrea+del+Sarto+John+Mclvor+Perkins&amp;search_field=search</field>
+</doc>
+</add>

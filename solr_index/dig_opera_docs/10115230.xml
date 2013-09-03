@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115230</field>
+<field name="genre">Operas</field>
+<field name="title">Robinson</field>
+<field name="titleSort">Robinson</field>
+<field name="composer">Niels Peter Jensen</field>
+<field name="composerSort">Jensen, Niels Peter</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Gottlieb Siesby</field>
+<field name="librettistSort">Siesby, Gottlieb</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Robinson+Niels+Peter+Jensen&amp;search_field=search</field>
+</doc>
+</add>

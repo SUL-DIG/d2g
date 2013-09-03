@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111631</field>
+<field name="genre">Operas</field>
+<field name="title">Il capitan Fortunio</field>
+<field name="titleSort">capitan Fortunio</field>
+<field name="composer">Nicola Gervasio</field>
+<field name="composerSort">Gervasio, Nicola</field>
+<field name="year">1897</field>
+<field name="date">1897</field><field name="theater">Teatro Balbo</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+capitan+Fortunio+Nicola+Gervasio&amp;search_field=search</field>
+</doc>
+</add>

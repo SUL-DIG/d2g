@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115563</field>
+<field name="genre">Operas</field>
+<field name="title">"Aesop, the Fabulous Fabulist</field>
+<field name="titleSort">"Aesop, the Fabulous Fabulist"</field>
+<field name="composer">Martin Kalmanoff</field>
+<field name="composerSort">Kalmanoff, Martin</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Martin Kalmanoff</field>
+<field name="librettistSort">Kalmanoff, Martin</field>
+<field name="theater">Camp Pemiqewasset</field>
+<field name="city">Wentworth</field>
+<field name="region">New Hampshire</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aesop,+the+Fabulous+Fabulist+Martin+Kalmanoff&amp;search_field=search</field>
+</doc>
+</add>

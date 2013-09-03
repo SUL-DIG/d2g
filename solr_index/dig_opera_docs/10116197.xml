@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116197</field>
+<field name="genre">Operas</field>
+<field name="title">Der unschuldig verdammte Heinrich</field>
+<field name="titleSort">unschuldig verdammte Heinrich</field>
+<field name="composer">Johann Augustin Kobelius</field>
+<field name="composerSort">Kobelius, Johann Augustin</field>
+<field name="year">1715</field>
+<field name="date">1715</field><field name="theater">Neu-Augustusburg Schlosstheater</field>
+<field name="city">Weissenfels</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+unschuldig+verdammte+Heinrich+Johann+Augustin+Kobelius&amp;search_field=search</field>
+</doc>
+</add>

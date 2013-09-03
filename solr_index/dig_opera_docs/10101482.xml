@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101482</field>
+<field name="genre">Operas</field>
+<field name="title">Stella</field>
+<field name="titleSort">Stella</field>
+<field name="composer">Salvatore Auteri-Manzocchi</field>
+<field name="composerSort">Auteri-Manzocchi, Salvatore</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">Stefano Interdonato</field>
+<field name="librettistSort">Interdonato, Stefano</field>
+<field name="theater">Teatro Municipale</field>
+<field name="city">Piacenza</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stella+Salvatore+Auteri-Manzocchi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107645</field>
+<field name="genre">Operas</field>
+<field name="title">Cuore di marmo</field>
+<field name="titleSort">Cuore di marmo</field>
+<field name="composer">Giovanni Battista Dessy</field>
+<field name="composerSort">Dessy, Giovanni Battista</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Pietro Mossa</field>
+<field name="librettistSort">Mossa, Pietro</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Cagliari</field>
+<field name="region">Sardegna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cuore+di+marmo+Giovanni+Battista+Dessy&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115861</field>
+<field name="genre">Operas</field>
+<field name="title">Alfieri</field>
+<field name="titleSort">Alfieri</field>
+<field name="composer">Karl Friedrich Keller</field>
+<field name="composerSort">Keller, Karl Friedrich</field>
+<field name="year">1836</field>
+<field name="date">1836</field><field name="theater">Deutsches Opernhaus</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfieri+Karl+Friedrich+Keller&amp;search_field=search</field>
+</doc>
+</add>

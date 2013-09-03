@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117213</field>
+<field name="genre">Operas</field>
+<field name="title">Fru Jeanna</field>
+<field name="titleSort">Fru Jeanna</field>
+<field name="composer">Peter Erasmus Lange-Müller</field>
+<field name="composerSort">Lange-Müller, Peter Erasmus</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Elisa von der Recke</field>
+<field name="librettistSort">Recke, Elisa von der</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fru+Jeanna+Peter+Erasmus+Lange-Müller&amp;search_field=search</field>
+</doc>
+</add>

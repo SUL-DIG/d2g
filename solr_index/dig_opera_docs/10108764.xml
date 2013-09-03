@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108764</field>
+<field name="genre">Operas</field>
+<field name="title">The Rose of Tyrol</field>
+<field name="titleSort">Rose of Tyrol</field>
+<field name="composer">Julius Eichberg</field>
+<field name="composerSort">Eichberg, Julius</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Frederick A. Schwab</field>
+<field name="librettistSort">Schwab, Frederick A.</field>
+<field name="theater">Boston Museum</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rose+of+Tyrol+Julius+Eichberg&amp;search_field=search</field>
+</doc>
+</add>

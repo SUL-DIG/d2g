@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127993</field>
+<field name="genre">Operas</field>
+<field name="title">Palandrana e Zamberlucco</field>
+<field name="titleSort">Palandrana e Zamberlucco</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1716</field>
+<field name="date">1716</field><field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palandrana+e+Zamberlucco+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

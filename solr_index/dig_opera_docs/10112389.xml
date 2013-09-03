@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112389</field>
+<field name="genre">Operas</field>
+<field name="title">Si us placa per forsa</field>
+<field name="titleSort">Si us placa per forsa</field>
+<field name="composer">Antonio Gordon</field>
+<field name="composerSort">Gordon, Antonio</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Serafin Pitarra</field>
+<field name="librettistSort">Pitarra, Serafin</field>
+
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Si+us+placa+per+forsa+Antonio+Gordon&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200175</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gli angeli esultanti</field>
+		<field name="titleSort">angeli esultanti</field>
+		<field name="year">1803</field>
+		
+		
+		<field name="date">1803</field>
+		<field name="composer">Francesco Morlacchi</field>
+		<field name="composerSort">Morlacchi, Francesco</field>
+		
+		
+		<field name="theater">Hofkapelle</field>
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+angeli+esultanti+Francesco+Morlacchi&amp;search_field=search</field>
+	</doc></add>

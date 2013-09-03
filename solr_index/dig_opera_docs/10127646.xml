@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127646</field>
+<field name="genre">Operas</field>
+<field name="title">L'any de grаcia</field>
+<field name="titleSort">any de grаcia</field>
+<field name="composer">Albert Sardа</field>
+<field name="composerSort">Sardа, Albert</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Pierre Danais</field>
+<field name="librettistSort">Danais, Pierre</field>
+<field name="librettist">Christina Fernández Cubas</field>
+<field name="librettistSort">Fernández Cubas, Christina</field>
+<field name="theater">Contemporary Music Festival</field>
+<field name="city">Alicante</field>
+<field name="region">Valencia</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'any+de+grаcia+Albert+Sardа&amp;search_field=search</field>
+</doc>
+</add>

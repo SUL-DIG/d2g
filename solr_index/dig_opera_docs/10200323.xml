@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200323</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ave Maria</field>
+		<field name="titleSort">Ave Maria</field>
+		<field name="year">1841</field>
+		
+		
+		<field name="date">1841</field>
+		<field name="composer">Berthold Damcke</field>
+		<field name="composerSort">Damcke, Berthold</field>
+		
+		
+		<field name="theater">Gesangverein für Opernmusik</field>
+		<field name="city">Potsdam</field>
+		<field name="region">Brandenburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Annunciation</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">March 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ave+Maria+Berthold+Damcke&amp;search_field=search</field>
+	</doc></add>

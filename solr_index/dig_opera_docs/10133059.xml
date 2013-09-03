@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133059</field>
+<field name="genre">Operas</field>
+<field name="title">Fanfarullo</field>
+<field name="titleSort">Fanfarullo</field>
+<field name="composer">Josef Wirth</field>
+<field name="composerSort">Wirth, Josef</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Josef Wirth</field>
+<field name="librettistSort">Wirth, Josef</field>
+<field name="theater">Komische Oper am Schottentor</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fanfarullo+Josef+Wirth&amp;search_field=search</field>
+</doc>
+</add>

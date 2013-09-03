@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125034</field>
+<field name="genre">Operas</field>
+<field name="title">Malooley and the Fear Monster</field>
+<field name="titleSort">Malooley and the Fear Monster</field>
+<field name="composer">John Pozdro</field>
+<field name="composerSort">Pozdro, John</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">John Clifford</field>
+<field name="librettistSort">Clifford, John</field>
+<field name="theater">University of Kansas</field>
+<field name="city">Lawrence</field>
+<field name="region">Kansas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malooley+and+the+Fear+Monster+John+Pozdro&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125766</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geisterinsel</field>
+<field name="titleSort">Geisterinsel</field>
+<field name="composer">Johann Friedrich Reichardt</field>
+<field name="composerSort">Reichardt, Johann Friedrich</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Friedrich Wilhelm Gotter</field>
+<field name="librettistSort">Gotter, Friedrich Wilhelm</field>
+<field name="librettist">Friedrich Hildebrand von Einsiedel</field>
+<field name="librettistSort">Einsiedel, Friedrich Hildebrand von</field>
+<field name="theater">Königliches Nationaltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geisterinsel+Johann+Friedrich+Reichardt&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111881</field>
+<field name="genre">Operas</field>
+<field name="title">Arlequin traitant</field>
+<field name="titleSort">Arlequin traitant</field>
+<field name="composer">Jean-Claude Gillier</field>
+<field name="composerSort">Gillier, Jean-Claude</field>
+<field name="year">1716</field>
+<field name="date">1716</field>
+<field name="librettist">Jacques-Philippe d'Orneval</field>
+<field name="librettistSort">d'Orneval, Jacques-Philippe</field>
+<field name="theater">Théâtre de la Foire Saint-Germain</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arlequin+traitant+Jean-Claude+Gillier&amp;search_field=search</field>
+</doc>
+</add>

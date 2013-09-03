@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126130</field>
+<field name="genre">Operas</field>
+<field name="title">La diva par amour</field>
+<field name="titleSort">diva par amour</field>
+<field name="composer">Tony Rieffler</field>
+<field name="composerSort">Rieffler, Tony</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Armand Lafrique</field>
+<field name="librettistSort">Lafrique, Armand</field>
+<field name="librettist">Henry Drucker</field>
+<field name="librettistSort">Drucker, Henry</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+diva+par+amour+Tony+Rieffler&amp;search_field=search</field>
+</doc>
+</add>

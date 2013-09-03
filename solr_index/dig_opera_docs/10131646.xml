@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131646</field>
+<field name="genre">Operas</field>
+<field name="title">La finta locandiera</field>
+<field name="titleSort">finta locandiera</field>
+<field name="composer">Niccolò Valenti</field>
+<field name="composerSort">Valenti, Niccolò</field>
+<field name="year">1751</field>
+<field name="date">1751</field><field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+locandiera+Niccolò+Valenti&amp;search_field=search</field>
+</doc>
+</add>

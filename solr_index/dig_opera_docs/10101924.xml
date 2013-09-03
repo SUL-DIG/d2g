@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101924</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi Gordogane</field>
+<field name="titleSort">roi Gordogane</field>
+<field name="composer">Henry Barraud</field>
+<field name="composerSort">Barraud, Henry</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Radovan Ivsic</field>
+<field name="librettistSort">Ivsic, Radovan</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+Gordogane+Henry+Barraud&amp;search_field=search</field>
+</doc>
+</add>

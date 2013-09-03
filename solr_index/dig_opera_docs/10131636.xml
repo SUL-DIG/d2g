@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131636</field>
+<field name="genre">Operas</field>
+<field name="title">I funerali di Pulcinella</field>
+<field name="titleSort">funerali di Pulcinella</field>
+<field name="composer">Giovanni Valente</field>
+<field name="composerSort">Valente, Giovanni</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">__ Bencivenga</field>
+<field name="librettistSort">Bencivenga, __</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+funerali+di+Pulcinella+Giovanni+Valente&amp;search_field=search</field>
+</doc>
+</add>

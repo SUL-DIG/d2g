@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200125</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Agnus Dei</field>
+		<field name="titleSort">Agnus Dei</field>
+		<field name="year">1974</field>
+		<field name="month">September</field>
+		<field name="day">6</field>
+		<field name="date">September 6, 1974</field>
+		<field name="composer">Robert Herberigs</field>
+		<field name="composerSort">Herberigs, Robert</field>
+		
+		
+		<field name="theater">Sankt-Baafskathedraal</field>
+		<field name="city">Ghent</field>
+		<field name="region">Flaanderen</field>
+		<field name="country">Belgium</field>
+		<field name="subject">The Lamb of God</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnus+Dei+Robert+Herberigs&amp;search_field=search</field>
+	</doc></add>

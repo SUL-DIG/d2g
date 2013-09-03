@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100914</field>
+<field name="genre">Operas</field>
+<field name="title">L'amor prigioniero</field>
+<field name="titleSort">amor prigioniero</field>
+<field name="composer">Francesco Araia</field>
+<field name="composerSort">Araia, Francesco</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Oranienbaum Palace</field>
+<field name="city">Lomonosov</field>
+<field name="region">Leningrad Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amor+prigioniero+Francesco+Araia&amp;search_field=search</field>
+</doc>
+</add>

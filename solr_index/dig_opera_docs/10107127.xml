@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107127</field>
+<field name="genre">Operas</field>
+<field name="title">Les enfants d'Izieu</field>
+<field name="titleSort">enfants d'Izieu</field>
+<field name="composer">Nguyen Thien Dao</field>
+<field name="composerSort">Dao, Nguyen Thien</field>
+<field name="year">1994</field>
+<field name="date">1994</field>
+<field name="librettist">Roland Causse</field>
+<field name="librettistSort">Causse, Roland</field>
+<field name="theater">Tinel de la Chartreuse</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+enfants+d'Izieu+Nguyen+Thien+Dao&amp;search_field=search</field>
+</doc>
+</add>

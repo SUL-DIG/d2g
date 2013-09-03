@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107734</field>
+<field name="genre">Operas</field>
+<field name="title">A Christmas Tale</field>
+<field name="titleSort">Christmas Tale</field>
+<field name="composer">Charles Dibdin</field>
+<field name="composerSort">Dibdin, Charles</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">David Garrick</field>
+<field name="librettistSort">Garrick, David</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Christmas+Tale+Charles+Dibdin&amp;search_field=search</field>
+</doc>
+</add>

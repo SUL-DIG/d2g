@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203467</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Preise, Jerusalem, den Herrn</field>
+		<field name="titleSort">Preise, Jerusalem, den Herrn</field>
+		<field name="year">1736</field>
+		
+		
+		<field name="date">1736</field>
+		<field name="composer">Georg Philipp Telemann</field>
+		<field name="composerSort">Telemann, Georg Philipp</field>
+		<field name="librettist">Joachim Johann Daniel Zimmermann</field>
+		<field name="librettistSort">Zimmermann, Joachim Johann</field>
+		
+		<field name="theater">Kapitänsmusik</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Entry into Jerusalem</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Preise,+Jerusalem,+den+Herrn+Georg+Philipp+Telemann&amp;search_field=search</field>
+	</doc></add>

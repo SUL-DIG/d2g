@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118453</field>
+<field name="genre">Operas</field>
+<field name="title">Klovnen Toto (Toto the Clown)</field>
+<field name="titleSort">Klovnen Toto (Toto the Clown)</field>
+<field name="composer">Bent Lorentzen</field>
+<field name="composerSort">Lorentzen, Bent</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Ole Ugilt Jensen</field>
+<field name="librettistSort">Ugilt Jensen, Ole</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Klovnen+Toto+Toto+the+Clown+Bent+Lorentzen&amp;search_field=search</field>
+</doc>
+</add>

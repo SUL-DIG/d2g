@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132600</field>
+<field name="genre">Operas</field>
+<field name="title">Jobin et Nanette</field>
+<field name="titleSort">Jobin et Nanette</field>
+<field name="composer">Jean-Baptiste-Théodore Weckerlin</field>
+<field name="composerSort">Weckerlin, Jean-Baptiste-Théodore</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="librettist">Léon Battu</field>
+<field name="librettistSort">Battu, Léon</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jobin+et+Nanette+Jean-Baptiste-Théodore+Weckerlin&amp;search_field=search</field>
+</doc>
+</add>

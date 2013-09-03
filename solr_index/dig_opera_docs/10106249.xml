@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106249</field>
+<field name="genre">Operas</field>
+<field name="title">Auto do berço</field>
+<field name="titleSort">Auto do berço</field>
+<field name="composer">Rui Coelho</field>
+<field name="composerSort">Coelho, Rui</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">António Correia de Oliveira</field>
+<field name="librettistSort">Oliveira, António Correia de</field>
+<field name="theater">Teatro de São Carlos</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auto+do+berço+Rui+Coelho&amp;search_field=search</field>
+</doc>
+</add>

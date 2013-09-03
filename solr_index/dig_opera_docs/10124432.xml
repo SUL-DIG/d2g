@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124432</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zauberspruch</field>
+<field name="titleSort">Zauberspruch</field>
+<field name="composer">Johann Peter Pixis</field>
+<field name="composerSort">Pixis, Johann Peter</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">Carlo Gozzi</field>
+<field name="librettistSort">Gozzi, Carlo</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zauberspruch+Johann+Peter+Pixis&amp;search_field=search</field>
+</doc>
+</add>

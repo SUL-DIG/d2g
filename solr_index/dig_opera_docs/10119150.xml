@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119150</field>
+<field name="genre">Operas</field>
+<field name="title">"Tu ne l'auras pas, Nicolas</field>
+<field name="titleSort">"Tu ne l'auras pas, Nicolas"</field>
+<field name="composer">Sylvain Mangeant</field>
+<field name="composerSort">Mangeant, Sylvain</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Jacques Lambert</field>
+<field name="librettistSort">Lambert, Jacques</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tu+ne+l'auras+pas,+Nicolas+Sylvain+Mangeant&amp;search_field=search</field>
+</doc>
+</add>

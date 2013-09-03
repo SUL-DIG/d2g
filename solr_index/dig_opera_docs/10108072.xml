@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108072</field>
+<field name="genre">Operas</field>
+<field name="title">Rhapsodie der Liebe</field>
+<field name="titleSort">Rhapsodie der Liebe</field>
+<field name="composer">Nico Dostal</field>
+<field name="composerSort">Dostal, Nico</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Paul Knepler</field>
+<field name="librettistSort">Knepler, Paul</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rhapsodie+der+Liebe+Nico+Dostal&amp;search_field=search</field>
+</doc>
+</add>

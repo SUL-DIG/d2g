@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133122</field>
+<field name="genre">Operas</field>
+<field name="title">A Christmas Fable</field>
+<field name="titleSort">Christmas Fable</field>
+<field name="composer">Sally Wolf</field>
+<field name="composerSort">Wolf, Sally</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Lurrine Burgess</field>
+<field name="librettistSort">Burgess, Lurrine</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Southern California Conservatory of Music</field>
+<field name="city">Sun Valley</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Christmas+Fable+Sally+Wolf&amp;search_field=search</field>
+</doc>
+</add>

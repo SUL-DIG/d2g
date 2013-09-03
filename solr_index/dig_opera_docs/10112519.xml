@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112519</field>
+<field name="genre">Operas</field>
+<field name="title">Auf neutralem Boden</field>
+<field name="titleSort">Auf neutralem Boden</field>
+<field name="composer">Carl Grammann</field>
+<field name="composerSort">Grammann, Carl</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Franz Koppel-Ellfeld</field>
+<field name="librettistSort">Koppel-Ellfeld, Franz</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Auf+neutralem+Boden+Carl+Grammann&amp;search_field=search</field>
+</doc>
+</add>

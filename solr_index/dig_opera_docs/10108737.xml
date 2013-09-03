@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108737</field>
+<field name="genre">Operas</field>
+<field name="title">Farrapos</field>
+<field name="titleSort">Farrapos</field>
+<field name="composer">Roberto Eggers</field>
+<field name="composerSort">Eggers, Roberto</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Manoel Joaquim de Faria Correa</field>
+<field name="librettistSort">Correa, Manoel Joaquim de Faria</field>
+<field name="theater">Teatro de São Pedro</field>
+<field name="city">Porto Alegre</field>
+<field name="region">Rio Grande do Sul</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Farrapos+Roberto+Eggers&amp;search_field=search</field>
+</doc>
+</add>

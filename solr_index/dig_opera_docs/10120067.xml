@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120067</field>
+<field name="genre">Operas</field>
+<field name="title">Andreas de beldhouwer</field>
+<field name="titleSort">Andreas de beldhouwer</field>
+<field name="composer">Edward Mechelaere</field>
+<field name="composerSort">Mechelaere, Edward</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Frans Carrein</field>
+<field name="librettistSort">Carrein, Frans</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Bruges</field>
+<field name="region">West Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Andreas+de+beldhouwer+Edward+Mechelaere&amp;search_field=search</field>
+</doc>
+</add>

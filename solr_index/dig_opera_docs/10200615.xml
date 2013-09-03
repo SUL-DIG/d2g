@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200615</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus</field>
+		<field name="titleSort">Christus</field>
+		<field name="year">1873</field>
+		<field name="month">May</field>
+		<field name="day">29</field>
+		<field name="date">May 29, 1873</field>
+		<field name="composer">Franz Liszt</field>
+		<field name="composerSort">Liszt, Franz</field>
+		
+		
+		
+		<field name="city">Weimar</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+Franz+Liszt&amp;search_field=search</field>
+	</doc></add>

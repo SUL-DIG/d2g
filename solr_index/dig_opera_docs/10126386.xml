@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126386</field>
+<field name="genre">Operas</field>
+<field name="title">Will o' the Wisp</field>
+<field name="titleSort">Will o' the Wisp</field>
+<field name="composer">Alfred George Robyn</field>
+<field name="composerSort">Robyn, Alfred George</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Walter Percival</field>
+<field name="librettistSort">Percival, Walter</field>
+<field name="theater">Olympic Theater</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Will+o'+the+Wisp+Alfred+George+Robyn&amp;search_field=search</field>
+</doc>
+</add>

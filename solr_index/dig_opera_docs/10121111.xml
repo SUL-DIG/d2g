@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121111</field>
+<field name="genre">Operas</field>
+<field name="title">The Devil and Daniel Webster</field>
+<field name="titleSort">Devil and Daniel Webster</field>
+<field name="composer">Douglas Moore</field>
+<field name="composerSort">Moore, Douglas</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Douglas Moore</field>
+<field name="librettistSort">Moore, Douglas</field>
+<field name="librettist">Stephen Vincent Benét</field>
+<field name="librettistSort">Benét, Stephen Vincent</field>
+<field name="theater">Martin Beck Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Devil+and+Daniel+Webster+Douglas+Moore&amp;search_field=search</field>
+</doc>
+</add>

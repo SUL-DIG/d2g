@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123038</field>
+<field name="genre">Operas</field>
+<field name="title">I pittagorici</field>
+<field name="titleSort">pittagorici</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Vincenzo Monti</field>
+<field name="librettistSort">Monti, Vincenzo</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+pittagorici+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

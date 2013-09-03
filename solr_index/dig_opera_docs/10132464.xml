@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132464</field>
+<field name="genre">Operas</field>
+<field name="title">Fra Francesco</field>
+<field name="titleSort">Fra Francesco</field>
+<field name="composer">Henry Waller</field>
+<field name="composerSort">Waller, Henry</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Harry Waller</field>
+<field name="librettistSort">Waller, Harry</field>
+<field name="librettist">Ludwig Hartmann</field>
+<field name="librettistSort">Hartmann, Ludwig</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fra+Francesco+Henry+Waller&amp;search_field=search</field>
+</doc>
+</add>

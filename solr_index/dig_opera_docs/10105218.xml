@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105218</field>
+<field name="genre">Operas</field>
+<field name="title">La lavandarina</field>
+<field name="titleSort">lavandarina</field>
+<field name="composer">Giovanni Battista Casali</field>
+<field name="composerSort">Casali, Giovanni Battista</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Angelo Lungi</field>
+<field name="librettistSort">Lungi, Angelo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+lavandarina+Giovanni+Battista+Casali&amp;search_field=search</field>
+</doc>
+</add>

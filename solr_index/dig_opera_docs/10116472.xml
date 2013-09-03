@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116472</field>
+<field name="genre">Operas</field>
+<field name="title">Afdal'</field>
+<field name="titleSort">Afdal'</field>
+<field name="composer">Aleksey Fedorovich Kozlovsky</field>
+<field name="composerSort">Kozlovsky, Aleksey Fedorovich</field>
+
+
+<field name="librettist">Galiny Kozlovskoi Gerus</field>
+<field name="librettistSort">Gerus, Galiny Kozlovskoi"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Afdal'+Aleksey+Fedorovich+Kozlovsky&amp;search_field=search</field>
+</doc>
+</add>

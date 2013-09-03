@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117596</field>
+<field name="genre">Operas</field>
+<field name="title">Jery und Bätely</field>
+<field name="titleSort">Jery und Bätely</field>
+<field name="composer">Amadeus Lecerf</field>
+<field name="composerSort">Lecerf, Amadeus</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jery+und+Bätely+Amadeus+Lecerf&amp;search_field=search</field>
+</doc>
+</add>

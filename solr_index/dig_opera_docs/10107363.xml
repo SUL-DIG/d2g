@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107363</field>
+<field name="genre">Operas</field>
+<field name="title">Rip Van Winkle</field>
+<field name="titleSort">Rip Van Winkle</field>
+<field name="composer">Reginald De Koven</field>
+<field name="composerSort">Koven, Reginald De</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Percy MacKaye</field>
+<field name="librettistSort">MacKaye, Percy</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Auditorium Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Van+Winkle+Reginald+De+Koven&amp;search_field=search</field>
+</doc>
+</add>

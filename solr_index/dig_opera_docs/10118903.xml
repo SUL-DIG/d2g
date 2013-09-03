@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118903</field>
+<field name="genre">Operas</field>
+<field name="title">Cleopatra regnante</field>
+<field name="titleSort">Cleopatra regnante</field>
+<field name="composer">Paolo Magni</field>
+<field name="composerSort">Magni, Paolo</field>
+<field name="year">1700</field>
+<field name="date">1700</field><field name="theater">Teatro San Giacomo</field>
+<field name="city">Novi Ligure</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleopatra+regnante+Paolo+Magni&amp;search_field=search</field>
+</doc>
+</add>

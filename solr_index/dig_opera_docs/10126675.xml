@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126675</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Sieg der Venus</field>
+<field name="titleSort">Sieg der Venus</field>
+<field name="composer">Otto Rosenberg</field>
+<field name="composerSort">Rosenberg, Otto</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Karl Wilhelm</field>
+<field name="librettistSort">Wilhelm, Karl</field>
+
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Sieg+der+Venus+Otto+Rosenberg&amp;search_field=search</field>
+</doc>
+</add>

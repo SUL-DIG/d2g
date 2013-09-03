@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125358</field>
+<field name="genre">Operas</field>
+<field name="title">"Sylvain et Lucette, ou Le vandange</field>
+<field name="titleSort">"Sylvain et Lucette, ou Le vandange"</field>
+<field name="composer">Adrien Quaisain</field>
+<field name="composerSort">Quaisain, Adrien</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">__ Joigny</field>
+<field name="librettistSort">Joigny, __</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sylvain+et+Lucette,+ou+Le+vandange+Adrien+Quaisain&amp;search_field=search</field>
+</doc>
+</add>

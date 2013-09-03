@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202473</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Leiden und Sterben Jesu</field>
+		<field name="titleSort">Leiden und Sterben Jesu</field>
+		<field name="year">1806</field>
+		
+		
+		<field name="date">1806</field>
+		<field name="composer">Johann Brandl</field>
+		<field name="composerSort">Brandl, Johann</field>
+		
+		
+		
+		<field name="city">Regensburg</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leiden+und+Sterben+Jesu+Johann+Brandl&amp;search_field=search</field>
+	</doc></add>

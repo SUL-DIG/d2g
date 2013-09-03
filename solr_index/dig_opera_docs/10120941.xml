@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120941</field>
+<field name="genre">Operas</field>
+<field name="title">Paria</field>
+<field name="titleSort">Paria</field>
+<field name="composer">Stanislaw Moniuszko</field>
+<field name="composerSort">Moniuszko, Stanislaw</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Jan Checinski</field>
+<field name="librettistSort">Checinski, Jan</field>
+<field name="librettist">Casimir Delavigne</field>
+<field name="librettistSort">Delavigne, Casimir</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paria+Stanislaw+Moniuszko&amp;search_field=search</field>
+</doc>
+</add>

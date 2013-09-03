@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200117</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gli affetti pietosi per il sepolcro di Cristo</field>
+		<field name="titleSort">affetti pietosi per il sepolcro di Cristo</field>
+		<field name="year">1666</field>
+		
+		
+		<field name="date">1666</field>
+		<field name="composer">Pietro Andrea Ziani</field>
+		<field name="composerSort">Ziani, Pietro Andrea</field>
+		<field name="librettist">Domenico Federici</field>
+		<field name="librettistSort">Federici, Domenico</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Entombment of Christ</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+affetti+pietosi+per+il+sepolcro+di+Cristo+Pietro+Andrea+Ziani&amp;search_field=search</field>
+	</doc></add>

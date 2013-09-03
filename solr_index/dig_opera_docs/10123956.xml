@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123956</field>
+<field name="genre">Operas</field>
+<field name="title">Velnias Isradejas (The Devil Inventor)</field>
+<field name="titleSort">Velnias Isradejas (The Devil Inventor)</field>
+<field name="composer">Mikas Petrauskas</field>
+<field name="composerSort">Petrauskas, Mikas</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Velnias+Isradejas+The+Devil+Inventor+Mikas+Petrauskas&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103237</field>
+<field name="genre">Operas</field>
+<field name="title">The Music Club</field>
+<field name="titleSort">Music Club</field>
+<field name="composer">Alice Blisa</field>
+<field name="composerSort">Blisa, Alice</field>
+<field name="year">1966</field>
+<field name="date">1966</field><field name="theater">Clark Howell School Auditorium</field>
+<field name="city">Atlanta</field>
+<field name="region">Georgia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Music+Club+Alice+Blisa&amp;search_field=search</field>
+</doc>
+</add>

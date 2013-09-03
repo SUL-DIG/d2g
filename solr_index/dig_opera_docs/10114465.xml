@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114465</field>
+<field name="genre">Operas</field>
+<field name="title">Viola</field>
+<field name="titleSort">Viola</field>
+<field name="composer">Hanns Holenia</field>
+<field name="composerSort">Holenia, Hanns</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Oskar Widowitz</field>
+<field name="librettistSort">Widowitz, Oskar</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Graz</field>
+<field name="region">Steiermark</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Viola+Hanns+Holenia&amp;search_field=search</field>
+</doc>
+</add>

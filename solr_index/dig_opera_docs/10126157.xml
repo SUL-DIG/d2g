@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126157</field>
+<field name="genre">Operas</field>
+<field name="title">Le duel nocturne</field>
+<field name="titleSort">duel nocturne</field>
+<field name="composer">Henri-Jean Rigel</field>
+<field name="composerSort">Rigel, Henri-Jean</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Charles de Longchamps</field>
+<field name="librettistSort">Longchamps, Charles de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+duel+nocturne+Henri-Jean+Rigel&amp;search_field=search</field>
+</doc>
+</add>

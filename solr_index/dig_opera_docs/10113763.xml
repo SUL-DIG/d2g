@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113763</field>
+<field name="genre">Operas</field>
+<field name="title">A Pot of Broth</field>
+<field name="titleSort">Pot of Broth</field>
+<field name="composer">Herbert Haufrecht</field>
+<field name="composerSort">Haufrecht, Herbert</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Herbert Haufrecht</field>
+<field name="librettistSort">Haufrecht, Herbert</field>
+<field name="librettist">William Butler Yeats</field>
+<field name="librettistSort">Yeats, William Butler</field>
+<field name="theater">WNYC Radio</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Pot+of+Broth+Herbert+Haufrecht&amp;search_field=search</field>
+</doc>
+</add>

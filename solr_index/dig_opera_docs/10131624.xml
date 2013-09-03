@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131624</field>
+<field name="genre">Operas</field>
+<field name="title">Mario and the Magician</field>
+<field name="titleSort">Mario and the Magician</field>
+<field name="composer">János Vajda</field>
+<field name="composerSort">Vajda, János</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Gábor Bikkon</field>
+<field name="librettistSort">Bikkon, Gábor</field>
+<field name="librettist">Thomas Mann</field>
+<field name="librettistSort">Mann, Thomas</field>
+<field name="theater">Erkel Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mario+and+the+Magician+János+Vajda&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107679</field>
+<field name="genre">Operas</field>
+<field name="title">Les précieuses ridicules</field>
+<field name="titleSort">précieuses ridicules</field>
+<field name="composer">François Devienne</field>
+<field name="composerSort">Devienne, François</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Pierre-Louis Moline</field>
+<field name="librettistSort">Moline, Pierre-Louis</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+précieuses+ridicules+François+Devienne&amp;search_field=search</field>
+</doc>
+</add>

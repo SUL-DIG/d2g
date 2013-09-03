@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103773</field>
+<field name="genre">Operas</field>
+<field name="title">Landskab med flod (Landscape with a River)</field>
+<field name="titleSort">Landskab med flod (Landscape with a River)</field>
+<field name="composer">Daniel Börtz</field>
+<field name="composerSort">Börtz, Daniel</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Jörgen Ljungdahl</field>
+<field name="librettistSort">Ljungdahl, Jörgen</field>
+<field name="librettist">Hermann Hesse</field>
+<field name="librettistSort">Hesse, Hermann</field>
+<field name="theater">Århus Universitet</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Landskab+med+flod+Landscape+with+a+River+Daniel+Börtz&amp;search_field=search</field>
+</doc>
+</add>

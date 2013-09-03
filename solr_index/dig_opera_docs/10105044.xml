@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105044</field>
+<field name="genre">Operas</field>
+<field name="title">Nichette</field>
+<field name="titleSort">Nichette</field>
+<field name="composer">Marius Carman</field>
+<field name="composerSort">Carman, Marius</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Achille Rodembourg</field>
+<field name="librettistSort">Rodembourg, Achille</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nichette+Marius+Carman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125845</field>
+<field name="genre">Operas</field>
+<field name="title">À la houzarde</field>
+<field name="titleSort">À la houzarde</field>
+<field name="composer">Albert Renaud</field>
+<field name="composerSort">Renaud, Albert</field>
+<field name="year">1891</field>
+<field name="date">1891</field>
+<field name="librettist">Jacques Lemaire</field>
+<field name="librettistSort">Lemaire, Jacques</field>
+<field name="librettist">Louis d'Hurcourt</field>
+<field name="librettistSort">d'Hurcourt, Louis</field>
+<field name="theater">Théâtre de l'Alcazar</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+la+houzarde+Albert+Renaud&amp;search_field=search</field>
+</doc>
+</add>

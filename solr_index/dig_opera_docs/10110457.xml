@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110457</field>
+<field name="genre">Operas</field>
+<field name="title">The Princess and the Vagabond</field>
+<field name="titleSort">Princess and the Vagabond</field>
+<field name="composer">Isadore Freed</field>
+<field name="composerSort">Freed, Isadore</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Pearl Cleveland Wilson</field>
+<field name="librettistSort">Wilson, Pearl Cleveland</field>
+<field name="theater">Hartt School of Music</field>
+<field name="city">Hartford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Princess+and+the+Vagabond+Isadore+Freed&amp;search_field=search</field>
+</doc>
+</add>

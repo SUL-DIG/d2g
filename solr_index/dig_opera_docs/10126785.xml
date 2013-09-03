@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126785</field>
+<field name="genre">Operas</field>
+<field name="title">L'isola incantata</field>
+<field name="titleSort">isola incantata</field>
+<field name="composer">Raimondo Rossi</field>
+<field name="composerSort">Rossi, Raimondo</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Raffaele Maffei</field>
+<field name="librettistSort">Maffei, Raffaele</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'isola+incantata+Raimondo+Rossi&amp;search_field=search</field>
+</doc>
+</add>

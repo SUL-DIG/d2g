@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119067</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro in Susa</field>
+<field name="titleSort">Alessandro in Susa</field>
+<field name="composer">Luigi Mancia</field>
+<field name="composerSort">Mancia, Luigi</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Girolamo Frigimelica Roberti</field>
+<field name="librettistSort">Frigimelica Roberti, Girolamo</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+in+Susa+Luigi+Mancia&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116977</field>
+<field name="genre">Operas</field>
+<field name="title">La nuit de Saint-Jean</field>
+<field name="titleSort">nuit de Saint-Jean</field>
+<field name="composer">Paul Lacôme</field>
+<field name="composerSort">Lacôme, Paul</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Jules de Lau-Lusignan</field>
+<field name="librettistSort">Lau-Lusignan, Jules de</field>
+<field name="librettist">[Alfred Charlemagne Lartigue] Alfred Delacour</field>
+<field name="librettistSort">Delacour, Alfred [Alfred Charlemagne Lartigue]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuit+de+Saint-Jean+Paul+Lacôme&amp;search_field=search</field>
+</doc>
+</add>

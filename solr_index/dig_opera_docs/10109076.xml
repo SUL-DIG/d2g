@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109076</field>
+<field name="genre">Operas</field>
+<field name="title">Der verliebte Werber</field>
+<field name="titleSort">verliebte Werber</field>
+<field name="composer">Carl Diedrich Eule</field>
+<field name="composerSort">Eule, Carl Diedrich</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Alain René Lesage</field>
+<field name="librettistSort">Lesage, Alain René</field>
+<field name="librettist">Jacques-Philippe d'Orneval</field>
+<field name="librettistSort">d'Orneval, Jacques-Philippe</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+verliebte+Werber+Carl+Diedrich+Eule&amp;search_field=search</field>
+</doc>
+</add>

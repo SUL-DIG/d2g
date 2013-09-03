@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131821</field>
+<field name="genre">Operas</field>
+<field name="title">"Tanz des Lebens, oder Der letzte Gast</field>
+<field name="titleSort">"Tanz des Lebens, oder Der letzte Gast"</field>
+<field name="composer">Carlos Veerhoff</field>
+<field name="composerSort">Veerhoff, Carlos</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Fred Schneckenburger</field>
+<field name="librettistSort">Schneckenburger, Fred</field>
+
+<field name="city">Zürich</field>
+<field name="region">Zürich</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tanz+des+Lebens,+oder+Der+letzte+Gast+Carlos+Veerhoff&amp;search_field=search</field>
+</doc>
+</add>

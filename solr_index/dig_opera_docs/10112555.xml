@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112555</field>
+<field name="genre">Operas</field>
+<field name="title">De to Armringe</field>
+<field name="titleSort">to Armringe</field>
+<field name="composer">Axel Grandjean</field>
+<field name="composerSort">Grandjean, Axel</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Adam Oehlenschläger</field>
+<field name="librettistSort">Oehlenschläger, Adam</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+to+Armringe+Axel+Grandjean&amp;search_field=search</field>
+</doc>
+</add>

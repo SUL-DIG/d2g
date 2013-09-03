@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103275</field>
+<field name="genre">Operas</field>
+<field name="title">La fausse alerte</field>
+<field name="titleSort">fausse alerte</field>
+<field name="composer">Henri Blot</field>
+<field name="composerSort">Blot, Henri</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Auguste Mesdagh</field>
+<field name="librettistSort">Mesdagh, Auguste</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Tournai</field>
+<field name="region">Hainault</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fausse+alerte+Henri+Blot&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102191</field>
+<field name="genre">Operas</field>
+<field name="title">Rayon de soleil</field>
+<field name="titleSort">Rayon de soleil</field>
+<field name="composer">Ernest de Behault</field>
+<field name="composerSort">Behault, Ernest de</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Jean Conti</field>
+<field name="librettistSort">Conti, Jean</field>
+<field name="librettist">Jules Goudoin</field>
+<field name="librettistSort">Goudoin, Jules</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Algiers</field>
+
+<field name="country">Algeria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rayon+de+soleil+Ernest+de+Behault&amp;search_field=search</field>
+</doc>
+</add>

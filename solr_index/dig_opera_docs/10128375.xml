@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128375</field>
+<field name="genre">Operas</field>
+<field name="title">Orlando</field>
+<field name="titleSort">Orlando</field>
+<field name="composer">Johann Julius Schneider</field>
+<field name="composerSort">Schneider, Johann Julius</field>
+<field name="year">1848</field>
+<field name="date">1848</field>
+<field name="librettist">[Friedrich Adami] Paul Frohberg</field>
+<field name="librettistSort">Frohberg, Paul [Friedrich Adami]</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orlando+Johann+Julius+Schneider&amp;search_field=search</field>
+</doc>
+</add>

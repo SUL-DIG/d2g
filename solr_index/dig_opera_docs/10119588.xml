@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119588</field>
+<field name="genre">Operas</field>
+<field name="title">L'abbate Luigi</field>
+<field name="titleSort">abbate Luigi</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1891</field>
+<field name="date">1891</field><field name="theater">Teatro Metastasio</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'abbate+Luigi+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

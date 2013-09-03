@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131041</field>
+<field name="genre">Operas</field>
+<field name="title">Sang-Po</field>
+<field name="titleSort">Sang-Po</field>
+<field name="composer">Rudolf Tlascal</field>
+<field name="composerSort">Tlascal, Rudolf</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">R. E. Burgssun</field>
+<field name="librettistSort">Burgssun, R. E.</field>
+<field name="theater">Grosser Konzerthaus-Saal</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sang-Po+Rudolf+Tlascal&amp;search_field=search</field>
+</doc>
+</add>

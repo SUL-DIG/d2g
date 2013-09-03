@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121459</field>
+<field name="genre">Operas</field>
+<field name="title">Leggenda bretone</field>
+<field name="titleSort">Leggenda bretone</field>
+<field name="composer">Gino Muggiani</field>
+<field name="composerSort">Muggiani, Gino</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Enrico Luigi Codani</field>
+<field name="librettistSort">Codani, Enrico Luigi</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leggenda+bretone+Gino+Muggiani&amp;search_field=search</field>
+</doc>
+</add>

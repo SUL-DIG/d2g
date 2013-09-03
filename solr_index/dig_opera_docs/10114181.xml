@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114181</field>
+<field name="genre">Operas</field>
+<field name="title">The Fairy's Post-Box</field>
+<field name="titleSort">Fairy's Post-Box</field>
+<field name="composer">Arthur Hervey</field>
+<field name="composerSort">Hervey, Arthur</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">John Palgrave Simpson</field>
+<field name="librettistSort">Simpson, John Palgrave</field>
+<field name="theater">Court Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fairy's+Post-Box+Arthur+Hervey&amp;search_field=search</field>
+</doc>
+</add>

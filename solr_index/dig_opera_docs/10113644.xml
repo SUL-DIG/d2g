@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113644</field>
+<field name="genre">Operas</field>
+<field name="title">Passion and Resurrection</field>
+<field name="titleSort">Passion and Resurrection</field>
+<field name="composer">Jonathan Harvey</field>
+<field name="composerSort">Harvey, Jonathan</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Jonathan Harvey</field>
+<field name="librettistSort">Harvey, Jonathan</field>
+<field name="theater">Winchester Cathedral</field>
+<field name="city">Winchester</field>
+<field name="region">Hampshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+and+Resurrection+Jonathan+Harvey&amp;search_field=search</field>
+</doc>
+</add>

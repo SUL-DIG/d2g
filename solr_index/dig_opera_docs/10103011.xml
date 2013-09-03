@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103011</field>
+<field name="genre">Operas</field>
+<field name="title">Il cancelleto d'oro</field>
+<field name="titleSort">cancelleto d'oro</field>
+<field name="composer">Alberto Bimboni</field>
+<field name="composerSort">Bimboni, Alberto</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Armando Romano</field>
+<field name="librettistSort">Romano, Armando</field>
+<field name="theater">National Arts Club</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cancelleto+d'oro+Alberto+Bimboni&amp;search_field=search</field>
+</doc>
+</add>

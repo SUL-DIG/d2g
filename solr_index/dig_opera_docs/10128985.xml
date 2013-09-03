@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128985</field>
+<field name="genre">Operas</field>
+<field name="title">Cyrus in Persien</field>
+<field name="titleSort">Cyrus in Persien</field>
+<field name="composer">Ignaz von Seyfried</field>
+<field name="composerSort">Seyfried, Ignaz von</field>
+<field name="year">1803</field>
+<field name="date">1803</field>
+<field name="librettist">Joseph von Seyfried</field>
+<field name="librettistSort">Seyfried, Joseph von</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cyrus+in+Persien+Ignaz+von+Seyfried&amp;search_field=search</field>
+</doc>
+</add>

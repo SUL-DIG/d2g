@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118822</field>
+<field name="genre">Operas</field>
+<field name="title">Seán the Post</field>
+<field name="titleSort">Seán the Post</field>
+<field name="composer">[Harold R. White] Dermot Macmurrough</field>
+<field name="composerSort">Macmurrough, [Harold R. White] Dermot</field>
+<field name="year">1924</field>
+<field name="date">1924</field><field name="theater">Tailteann Games</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Seán+the+Post+Harold+R.+White]+Dermot+Macmurrough&amp;search_field=search</field>
+</doc>
+</add>

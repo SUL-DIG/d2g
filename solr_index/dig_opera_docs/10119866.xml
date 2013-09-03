@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119866</field>
+<field name="genre">Operas</field>
+<field name="title">Die Wette</field>
+<field name="titleSort">Wette</field>
+<field name="composer">Alphonse Maurice</field>
+<field name="composerSort">Maurice, Alphonse</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Julius Zähler</field>
+<field name="librettistSort">Zähler, Julius</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Wette+Alphonse+Maurice&amp;search_field=search</field>
+</doc>
+</add>

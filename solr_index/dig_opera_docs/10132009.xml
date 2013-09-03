@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132009</field>
+<field name="genre">Operas</field>
+<field name="title">La sposa</field>
+<field name="titleSort">sposa</field>
+<field name="composer">Egidio Vignozzi</field>
+<field name="composerSort">Vignozzi, Egidio</field>
+<field name="year">1834</field>
+<field name="date">1834</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sposa+Egidio+Vignozzi&amp;search_field=search</field>
+</doc>
+</add>

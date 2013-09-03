@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109412</field>
+<field name="genre">Operas</field>
+<field name="title">I padri per ripiego</field>
+<field name="titleSort">padri per ripiego</field>
+<field name="composer">Andrea Favi</field>
+<field name="composerSort">Favi, Andrea</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Giulio Artusi</field>
+<field name="librettistSort">Artusi, Giulio</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+padri+per+ripiego+Andrea+Favi&amp;search_field=search</field>
+</doc>
+</add>

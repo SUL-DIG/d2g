@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117309</field>
+<field name="genre">Operas</field>
+<field name="title">Princessen av Cypern</field>
+<field name="titleSort">Princessen av Cypern</field>
+<field name="composer">Lars-Erik Larsson</field>
+<field name="composerSort">Larsson, Lars-Erik</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Zachris Topelius</field>
+<field name="librettistSort">Topelius, Zachris</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Princessen+av+Cypern+Lars-Erik+Larsson&amp;search_field=search</field>
+</doc>
+</add>

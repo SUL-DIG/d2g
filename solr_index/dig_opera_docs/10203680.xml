@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203680</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Ruth</field>
+		<field name="titleSort">Ruth</field>
+		<field name="year">1743</field>
+		<field name="month">April</field>
+		<field name="day">7</field>
+		<field name="date">April 7, 1743</field>
+		<field name="composer">Francesco Feo</field>
+		<field name="composerSort">Feo, Francesco</field>
+		<field name="librettist">Giuseppe Lupis</field>
+		<field name="librettistSort">Lupis, Giuseppe</field>
+		
+		<field name="theater">Oratorio di San Girolamo della Caritа</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Ruth and Naomi</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Ruth+Francesco+Feo&amp;search_field=search</field>
+	</doc></add>

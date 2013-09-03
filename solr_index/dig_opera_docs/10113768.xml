@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113768</field>
+<field name="genre">Operas</field>
+<field name="title">Le gardien vigilant</field>
+<field name="titleSort">gardien vigilant</field>
+<field name="composer">Hans Haug</field>
+<field name="composerSort">Haug, Hans</field>
+<field name="year">1966</field>
+<field name="date">1966</field>
+<field name="librettist">Geo Henri Blanc</field>
+<field name="librettistSort">Blanc, Geo Henri</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Radio Lausanne</field>
+<field name="city">Lausanne</field>
+<field name="region">Vaud</field>
+<field name="country">Switzerland</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+gardien+vigilant+Hans+Haug&amp;search_field=search</field>
+</doc>
+</add>

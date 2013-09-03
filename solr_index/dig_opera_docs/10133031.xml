@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133031</field>
+<field name="genre">Operas</field>
+<field name="title">Der Frauenbund</field>
+<field name="titleSort">Frauenbund</field>
+<field name="composer">Peter Winter</field>
+<field name="composerSort">Winter, Peter</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Joseph Marius von Babo</field>
+<field name="librettistSort">Babo, Joseph Marius von</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Frauenbund+Peter+Winter&amp;search_field=search</field>
+</doc>
+</add>

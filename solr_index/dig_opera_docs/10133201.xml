@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133201</field>
+<field name="genre">Operas</field>
+<field name="title">Wings of Expectation</field>
+<field name="titleSort">Wings of Expectation</field>
+<field name="composer">Kenneth Wright</field>
+<field name="composerSort">Wright, Kenneth</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Kenneth Wright</field>
+<field name="librettistSort">Wright, Kenneth</field>
+<field name="theater">University of Kentucky</field>
+<field name="city">Lexington</field>
+<field name="region">Kentucky</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wings+of+Expectation+Kenneth+Wright&amp;search_field=search</field>
+</doc>
+</add>

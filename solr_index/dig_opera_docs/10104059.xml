@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104059</field>
+<field name="genre">Operas</field>
+<field name="title">La seceris (Harvest)</field>
+<field name="titleSort">seceris (Harvest)</field>
+<field name="composer">Tiberiu Brediceanu</field>
+<field name="composerSort">Brediceanu, Tiberiu</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Tiberiu Brediceanu</field>
+<field name="librettistSort">Brediceanu, Tiberiu</field>
+<field name="librettist">Nicolae Moldoveanu</field>
+<field name="librettistSort">Moldoveanu, Nicolae</field>
+
+<field name="city">Blaj</field>
+<field name="region">Alba</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+seceris+Harvest+Tiberiu+Brediceanu&amp;search_field=search</field>
+</doc>
+</add>

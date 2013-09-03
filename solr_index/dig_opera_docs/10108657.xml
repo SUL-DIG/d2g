@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108657</field>
+<field name="genre">Operas</field>
+<field name="title">Die Marchande des Modes</field>
+<field name="titleSort">Marchande des Modes</field>
+<field name="composer">Anton Eberl</field>
+<field name="composerSort">Eberl, Anton</field>
+<field name="year">1783</field>
+<field name="date">1783</field><field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Marchande+des+Modes+Anton+Eberl&amp;search_field=search</field>
+</doc>
+</add>

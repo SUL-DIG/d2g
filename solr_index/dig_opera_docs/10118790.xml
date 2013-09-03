@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118790</field>
+<field name="genre">Operas</field>
+<field name="title">A guitarra</field>
+<field name="titleSort">guitarra</field>
+<field name="composer">Augusto Machado</field>
+<field name="composerSort">Machado, Augusto</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Eça Leal</field>
+<field name="librettistSort">Leal, Eça</field>
+<field name="theater">Teatro da Trindade</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+guitarra+Augusto+Machado&amp;search_field=search</field>
+</doc>
+</add>

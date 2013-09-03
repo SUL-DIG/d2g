@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101789</field>
+<field name="genre">Operas</field>
+<field name="title">Apollo e Dafne</field>
+<field name="titleSort">Apollo e Dafne</field>
+<field name="composer">Andrea Barbazza</field>
+<field name="composerSort">Barbazza, Andrea</field>
+<field name="year">1634</field>
+<field name="date">1634</field><field name="theater">Sala Zoppio</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Apollo+e+Dafne+Andrea+Barbazza&amp;search_field=search</field>
+</doc>
+</add>

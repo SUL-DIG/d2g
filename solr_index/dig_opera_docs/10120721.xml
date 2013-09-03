@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120721</field>
+<field name="genre">Operas</field>
+<field name="title">Die schönste Frau</field>
+<field name="titleSort">schönste Frau</field>
+<field name="composer">Giacomo Minkowsky</field>
+<field name="composerSort">Minkowsky, Giacomo</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="theater">Theater des Westens</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schönste+Frau+Giacomo+Minkowsky&amp;search_field=search</field>
+</doc>
+</add>

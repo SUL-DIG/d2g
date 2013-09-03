@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129688</field>
+<field name="genre">Operas</field>
+<field name="title">Arria</field>
+<field name="titleSort">Arria</field>
+<field name="composer">Hugo Stähle</field>
+<field name="composerSort">Stähle, Hugo</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Jakob Hoffmeister</field>
+<field name="librettistSort">Hoffmeister, Jakob</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arria+Hugo+Stähle&amp;search_field=search</field>
+</doc>
+</add>

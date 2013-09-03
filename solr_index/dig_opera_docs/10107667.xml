@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107667</field>
+<field name="genre">Operas</field>
+<field name="title">Icare</field>
+<field name="titleSort">Icare</field>
+<field name="composer">Henry Deutsch</field>
+<field name="composerSort">Deutsch, Henry</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Henri Cain</field>
+<field name="librettistSort">Cain, Henri</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Icare+Henry+Deutsch&amp;search_field=search</field>
+</doc>
+</add>

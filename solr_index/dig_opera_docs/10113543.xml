@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113543</field>
+<field name="genre">Operas</field>
+<field name="title">The Sun Dance</field>
+<field name="titleSort">Sun Dance</field>
+<field name="composer">William Frederick Hanson</field>
+<field name="composerSort">Hanson, William Frederick</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">William Frederick Hanson</field>
+<field name="librettistSort">Hanson, William Frederick</field>
+<field name="theater">Orpheus Hall</field>
+<field name="city">Vernal</field>
+<field name="region">Utah</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sun+Dance+William+Frederick+Hanson&amp;search_field=search</field>
+</doc>
+</add>

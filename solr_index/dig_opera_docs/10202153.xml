@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202153</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jephta und seine Tochter</field>
+		<field name="titleSort">Jephta und seine Tochter</field>
+		<field name="year">1856</field>
+		<field name="month">October</field>
+		<field name="day">14</field>
+		<field name="date">October 14, 1856</field>
+		<field name="composer">Karl Martin Reinthaler</field>
+		<field name="composerSort">Reinthaler, Karl Martin</field>
+		
+		
+		
+		<field name="city">Erfurt</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jephta+und+seine+Tochter+Karl+Martin+Reinthaler&amp;search_field=search</field>
+	</doc></add>

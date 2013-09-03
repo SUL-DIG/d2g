@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105190</field>
+<field name="genre">Operas</field>
+<field name="title">The Little Café</field>
+<field name="titleSort">Little Café</field>
+<field name="composer">[Félix Marie Henri Tilkin] Ivan Caryll</field>
+<field name="composerSort">Caryll, [Félix Marie Henri Tilkin] Ivan</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Tristan Bernard</field>
+<field name="librettistSort">Bernard, Tristan</field>
+<field name="theater">New Amsterdam Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Little+Café+Félix+Marie+Henri+Tilkin]+Ivan+Caryll&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203997</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Cecilia</field>
+		<field name="titleSort">Santa Cecilia</field>
+		<field name="year">1713</field>
+		
+		
+		<field name="date">1713</field>
+		<field name="composer">Clemente Monari</field>
+		<field name="composerSort">Monari, Clemente</field>
+		
+		
+		
+		<field name="city">Forli</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Cecilia+Clemente+Monari&amp;search_field=search</field>
+	</doc></add>

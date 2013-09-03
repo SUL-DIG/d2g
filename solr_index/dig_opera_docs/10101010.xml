@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101010</field>
+<field name="genre">Operas</field>
+<field name="title">Le fantôme amoureux</field>
+<field name="titleSort">fantôme amoureux</field>
+<field name="composer">Attilio Ariosti</field>
+<field name="composerSort">Ariosti, Attilio</field>
+<field name="year">1701</field>
+<field name="date">1701</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Schloss Lietzenburg</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+fantôme+amoureux+Attilio+Ariosti&amp;search_field=search</field>
+</doc>
+</add>

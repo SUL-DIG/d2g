@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101329</field>
+<field name="genre">Operas</field>
+<field name="title">Nicoletto bella vita</field>
+<field name="titleSort">Nicoletto bella vita</field>
+<field name="composer">Gennaro Astarita</field>
+<field name="composerSort">Astarita, Gennaro</field>
+<field name="year">1779</field>
+<field name="date">1779</field><field name="theater">Teatro Onigo</field>
+<field name="city">Treviso</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicoletto+bella+vita+Gennaro+Astarita&amp;search_field=search</field>
+</doc>
+</add>

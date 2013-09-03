@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203752</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">St. Adalbert</field>
+		<field name="titleSort">St. Adalbert</field>
+		
+		
+		
+		
+		<field name="composer">Adolf Piskacek</field>
+		<field name="composerSort">Piskacek, Adolf</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Adalbert</field>
+		<field name="feastMonth">April</field>
+		<field name="feastDay">23</field>
+		<field name="feastDate">April 23</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+Adalbert+Adolf+Piskacek&amp;search_field=search</field>
+	</doc></add>

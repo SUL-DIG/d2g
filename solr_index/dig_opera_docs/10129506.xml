@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129506</field>
+<field name="genre">Operas</field>
+<field name="title">Rübezahl und der Sackpfeifer von Neisse</field>
+<field name="titleSort">Rübezahl und der Sackpfeifer von Neisse</field>
+<field name="composer">Hans Sommer</field>
+<field name="composerSort">Sommer, Hans</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Eberhard König</field>
+<field name="librettistSort">König, Eberhard</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rübezahl+und+der+Sackpfeifer+von+Neisse+Hans+Sommer&amp;search_field=search</field>
+</doc>
+</add>

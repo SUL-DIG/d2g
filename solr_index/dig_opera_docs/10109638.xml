@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109638</field>
+<field name="genre">Operas</field>
+<field name="title">La signora dalle Violette</field>
+<field name="titleSort">signora dalle Violette</field>
+<field name="composer">Ernesto Ferrettini</field>
+<field name="composerSort">Ferrettini, Ernesto</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Emilio Reggio</field>
+<field name="librettistSort">Reggio, Emilio</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+signora+dalle+Violette+Ernesto+Ferrettini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133327</field>
+<field name="genre">Operas</field>
+<field name="title">Somnambule</field>
+<field name="titleSort">Somnambule</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">[Hippolyte Kneissler] Erik Nessl</field>
+<field name="librettistSort">Nessl, Erik [Hippolyte Kneissler]</field>
+<field name="theater">Harmonietheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Somnambule+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

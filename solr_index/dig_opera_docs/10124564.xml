@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124564</field>
+<field name="genre">Operas</field>
+<field name="title">Der verliebte Mörder Herodes</field>
+<field name="titleSort">verliebte Mörder Herodes</field>
+<field name="composer">David Pohle</field>
+<field name="composerSort">Pohle, David</field>
+<field name="year">1673</field>
+<field name="date">1673</field>
+<field name="librettist">David Elias Heidenreich</field>
+<field name="librettistSort">Heidenreich, David Elias"</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+verliebte+Mörder+Herodes+David+Pohle&amp;search_field=search</field>
+</doc>
+</add>

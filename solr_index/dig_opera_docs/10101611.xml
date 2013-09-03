@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101611</field>
+<field name="genre">Operas</field>
+<field name="title">Il cavaliere nero</field>
+<field name="titleSort">cavaliere nero</field>
+<field name="composer">Luigi Badia</field>
+<field name="composerSort">Badia, Luigi</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Enrico Puerio</field>
+<field name="librettistSort">Puerio, Enrico</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cavaliere+nero+Luigi+Badia&amp;search_field=search</field>
+</doc>
+</add>

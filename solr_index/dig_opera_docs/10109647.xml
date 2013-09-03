@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109647</field>
+<field name="genre">Operas</field>
+<field name="title">La vedovella</field>
+<field name="titleSort">vedovella</field>
+<field name="composer">Giuseppe Ferri</field>
+<field name="composerSort">Ferri, Giuseppe</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Giuseppe Ferri</field>
+<field name="librettistSort">Ferri, Giuseppe</field>
+
+<field name="city">Campo Ligure</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedovella+Giuseppe+Ferri&amp;search_field=search</field>
+</doc>
+</add>

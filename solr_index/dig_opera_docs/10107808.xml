@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107808</field>
+<field name="genre">Operas</field>
+<field name="title">Nini</field>
+<field name="titleSort">Nini</field>
+<field name="composer">Constantin Dimitrescu</field>
+<field name="composerSort">Dimitrescu, Constantin</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Dimitrie Ionescu-Zane</field>
+<field name="librettistSort">Ionescu-Zane, Dimitrie</field>
+<field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nini+Constantin+Dimitrescu&amp;search_field=search</field>
+</doc>
+</add>

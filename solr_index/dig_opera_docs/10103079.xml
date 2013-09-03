@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103079</field>
+<field name="genre">Operas</field>
+<field name="title">Aladdin</field>
+<field name="titleSort">Aladdin</field>
+<field name="composer">Henry Bishop</field>
+<field name="composerSort">Bishop, Henry</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">George Soane</field>
+<field name="librettistSort">Soane, George</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aladdin+Henry+Bishop&amp;search_field=search</field>
+</doc>
+</add>

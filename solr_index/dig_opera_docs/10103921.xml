@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103921</field>
+<field name="genre">Operas</field>
+<field name="title">King Highball</field>
+<field name="titleSort">King Highball</field>
+<field name="composer">Frederick V. Bowers</field>
+<field name="composerSort">Bowers, Frederick V.</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Rupert Hughes</field>
+<field name="librettistSort">Hughes, Rupert</field>
+<field name="librettist">Charles Horwitz</field>
+<field name="librettistSort">Horwitz, Charles</field>
+<field name="theater">New York Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+Highball+Frederick+V.+Bowers&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115978</field>
+<field name="genre">Operas</field>
+<field name="title">La tragedia di Orfeo</field>
+<field name="titleSort">tragedia di Orfeo</field>
+<field name="composer">Wilhelm Killmayer</field>
+<field name="composerSort">Killmayer, Wilhelm</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Angelo Ambrogini Poliziano</field>
+<field name="librettistSort">Poliziano, Angelo Ambrogini</field>
+<field name="theater">Bayerische Staatsoper</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tragedia+di+Orfeo+Wilhelm+Killmayer&amp;search_field=search</field>
+</doc>
+</add>

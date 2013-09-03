@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111666</field>
+<field name="genre">Operas</field>
+<field name="title">Philippine van Vlaanderen</field>
+<field name="titleSort">Philippine van Vlaanderen</field>
+<field name="composer">Lodewyk van Gheluwe</field>
+<field name="composerSort">Gheluwe, Lodewyk van</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Désiré Delcroix</field>
+<field name="librettistSort">Delcroix, Désiré</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Philippine+van+Vlaanderen+Lodewyk+van+Gheluwe&amp;search_field=search</field>
+</doc>
+</add>

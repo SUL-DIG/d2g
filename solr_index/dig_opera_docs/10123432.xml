@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123432</field>
+<field name="genre">Operas</field>
+<field name="title">Pocahontas</field>
+<field name="titleSort">Pocahontas</field>
+<field name="composer">Willard Patton</field>
+<field name="composerSort">Patton, Willard</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Willard Patton</field>
+<field name="librettistSort">Patton, Willard</field>
+<field name="theater">Radisson Hotel</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pocahontas+Willard+Patton&amp;search_field=search</field>
+</doc>
+</add>

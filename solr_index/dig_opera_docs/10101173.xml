@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101173</field>
+<field name="genre">Operas</field>
+<field name="title">La conquista di Granata</field>
+<field name="titleSort">conquista di Granata</field>
+<field name="composer">Pascual Emilio Arrieta</field>
+<field name="composerSort">Arrieta, Pascual Emilio</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Temistocle Solera</field>
+<field name="librettistSort">Solera, Temistocle</field>
+<field name="theater">Palácio Béjar</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conquista+di+Granata+Pascual+Emilio+Arrieta&amp;search_field=search</field>
+</doc>
+</add>

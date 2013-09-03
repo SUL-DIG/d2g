@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100684</field>
+<field name="genre">Operas</field>
+<field name="title">Der Töpfer</field>
+<field name="titleSort">Töpfer</field>
+<field name="composer">Johann André</field>
+<field name="composerSort">André, Johann</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Johann André</field>
+<field name="librettistSort">André, Johann</field>
+<field name="theater">Fürstliches Theater</field>
+<field name="city">Hanau</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Töpfer+Johann+André&amp;search_field=search</field>
+</doc>
+</add>

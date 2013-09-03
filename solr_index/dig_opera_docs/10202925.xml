@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202925</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La naissance d'Éve</field>
+		<field name="titleSort">naissance d'Éve</field>
+		<field name="year">1846</field>
+		
+		
+		<field name="date">1846</field>
+		<field name="composer">Antoine Elwart</field>
+		<field name="composerSort">Elwart, Antoine</field>
+		
+		
+		
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Adam and Eve</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+naissance+d'Éve+Antoine+Elwart&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124416</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geige Amadei</field>
+<field name="titleSort">Geige Amadei</field>
+<field name="composer">Carl Pistor</field>
+<field name="composerSort">Pistor, Carl</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Hans Curschmann</field>
+<field name="librettistSort">Curschmann, Hans</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Rostock</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geige+Amadei+Carl+Pistor&amp;search_field=search</field>
+</doc>
+</add>

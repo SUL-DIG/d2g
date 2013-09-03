@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102174</field>
+<field name="genre">Operas</field>
+<field name="title">Das Ungeheuer</field>
+<field name="titleSort">Ungeheuer</field>
+<field name="composer">Anton Beer-Walbrunn</field>
+<field name="composerSort">Beer-Walbrunn, Anton</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Karlsruhe</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Ungeheuer+Anton+Beer-Walbrunn&amp;search_field=search</field>
+</doc>
+</add>

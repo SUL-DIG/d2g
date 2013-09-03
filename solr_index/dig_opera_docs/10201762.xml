@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201762</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die göttliche Berufung des Glaubens Abrahams</field>
+		<field name="titleSort">göttliche Berufung des Glaubens Abrahams</field>
+		<field name="year">1760</field>
+		
+		
+		<field name="date">1760</field>
+		<field name="composer">Adolph Carl Kunzen</field>
+		<field name="composerSort">Kunzen, Adolph Carl</field>
+		
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+göttliche+Berufung+des+Glaubens+Abrahams+Adolph+Carl+Kunzen&amp;search_field=search</field>
+	</doc></add>

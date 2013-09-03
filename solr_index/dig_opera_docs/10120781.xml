@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120781</field>
+<field name="genre">Operas</field>
+<field name="title">La Saint-Lucas</field>
+<field name="titleSort">Saint-Lucas</field>
+<field name="composer">Karel Miry</field>
+<field name="composerSort">Miry, Karel</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">J. Story</field>
+<field name="librettistSort">Story, J.</field>
+<field name="librettist">Adolphe Schepens</field>
+<field name="librettistSort">Schepens, Adolphe</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Saint-Lucas+Karel+Miry&amp;search_field=search</field>
+</doc>
+</add>

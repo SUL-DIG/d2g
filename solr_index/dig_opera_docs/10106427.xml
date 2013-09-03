@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106427</field>
+<field name="genre">Operas</field>
+<field name="title">Schneewittchen</field>
+<field name="titleSort">Schneewittchen</field>
+<field name="composer">August Conradi</field>
+<field name="composerSort">Conradi, August</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Ernst Pasqué</field>
+<field name="librettistSort">Pasqué, Ernst</field>
+<field name="librettist">Karl Brandt</field>
+<field name="librettistSort">Brandt, Karl</field>
+<field name="theater">Viktoria-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schneewittchen+August+Conradi&amp;search_field=search</field>
+</doc>
+</add>

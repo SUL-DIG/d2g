@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204678</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo di Giuditta</field>
+		<field name="titleSort">trionfo di Giuditta</field>
+		<field name="year">1812</field>
+		
+		
+		<field name="date">1812</field>
+		<field name="composer">Pietro Carlo Guglielmi</field>
+		<field name="composerSort">Guglielmi, Pietro Carlo</field>
+		<field name="librettist">Matthias Stabinger</field>
+		<field name="librettistSort">Stabinger, Matthias</field>
+		
+		<field name="theater">Real Cappella di Nostra Signora della Soledad</field>
+		<field name="city">Palermo</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+di+Giuditta+Pietro+Carlo+Guglielmi&amp;search_field=search</field>
+	</doc></add>

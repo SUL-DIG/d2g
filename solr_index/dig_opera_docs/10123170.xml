@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123170</field>
+<field name="genre">Operas</field>
+<field name="title">I briganti</field>
+<field name="titleSort">briganti</field>
+<field name="composer">Achille Panizza</field>
+<field name="composerSort">Panizza, Achille</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Cesare Ficarra</field>
+<field name="librettistSort">Ficarra, Cesare</field>
+<field name="theater">Teatro Fossati</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+briganti+Achille+Panizza&amp;search_field=search</field>
+</doc>
+</add>

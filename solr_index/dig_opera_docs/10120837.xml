@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120837</field>
+<field name="genre">Operas</field>
+<field name="title">Madame Blaubart</field>
+<field name="titleSort">Madame Blaubart</field>
+<field name="composer">Roderich Mojsisovics</field>
+<field name="composerSort">Mojsisovics, Roderich</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Karl Mayer (2)</field>
+<field name="librettistSort">Mayer (2), Karl</field>
+<field name="librettist">Eduard Meier-Hahn</field>
+<field name="librettistSort">Meier-Hahn, Eduard</field>
+<field name="theater">Radio Breslau</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madame+Blaubart+Roderich+Mojsisovics&amp;search_field=search</field>
+</doc>
+</add>

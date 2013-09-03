@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114983</field>
+<field name="genre">Operas</field>
+<field name="title">Sotoba Komachi</field>
+<field name="titleSort">Sotoba Komachi</field>
+<field name="composer">Mareo Ishiketa</field>
+<field name="composerSort">Ishiketa, Mareo</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">[Hiraoka Kimitake] Yukio Mishima</field>
+<field name="librettistSort">Mishima, Yukio [Hiraoka Kimitake]</field>
+<field name="theater">Daiichi Seimei Hall</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sotoba+Komachi+Mareo+Ishiketa&amp;search_field=search</field>
+</doc>
+</add>

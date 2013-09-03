@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120453</field>
+<field name="genre">Operas</field>
+<field name="title">De Valsgaard</field>
+<field name="titleSort">Valsgaard</field>
+<field name="composer">Joseph van der Meulen</field>
+<field name="composerSort">Meulen, Joseph van der</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">René De Clerq</field>
+<field name="librettistSort">De Clerq, René</field>
+<field name="librettist">Alfons Sevens</field>
+<field name="librettistSort">Sevens, Alfons</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Ghent</field>
+<field name="region">Flaanderen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=De+Valsgaard+Joseph+van+der+Meulen&amp;search_field=search</field>
+</doc>
+</add>

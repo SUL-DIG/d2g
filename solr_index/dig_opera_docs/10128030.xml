@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128030</field>
+<field name="genre">Operas</field>
+<field name="title">Applauso genetliaco</field>
+<field name="titleSort">Applauso genetliaco</field>
+<field name="composer">Domenico Scarlatti</field>
+<field name="composerSort">Scarlatti, Domenico</field>
+<field name="year">1714</field>
+<field name="date">1714</field><field name="theater">Palazzo Colonna</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Applauso+genetliaco+Domenico+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

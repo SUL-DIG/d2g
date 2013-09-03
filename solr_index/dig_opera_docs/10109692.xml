@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109692</field>
+<field name="genre">Operas</field>
+<field name="title">La princesse et le porcher</field>
+<field name="titleSort">princesse et le porcher</field>
+<field name="composer">Henry Février</field>
+<field name="composerSort">Février, Henry</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Jacques Terni</field>
+<field name="librettistSort">Terni, Jacques</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Théâtre Réjane</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+princesse+et+le+porcher+Henry+Février&amp;search_field=search</field>
+</doc>
+</add>

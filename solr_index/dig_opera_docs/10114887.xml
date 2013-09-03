@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114887</field>
+<field name="genre">Operas</field>
+<field name="title">Hiiritarina (Mouse Tale)</field>
+<field name="titleSort">Hiiritarina (Mouse Tale)</field>
+<field name="composer">Ari Hynynen</field>
+<field name="composerSort">Hynynen, Ari</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Aimo Lahtonen</field>
+<field name="librettistSort">Lahtonen, Aimo</field>
+<field name="theater">Teräsrautela School</field>
+<field name="city">Turku</field>
+<field name="region">Turun Ja Porin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hiiritarina+Mouse+Tale+Ari+Hynynen&amp;search_field=search</field>
+</doc>
+</add>

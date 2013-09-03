@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100230</field>
+<field name="genre">Operas</field>
+<field name="title">Miglioramo la razza!</field>
+<field name="titleSort">Miglioramo la razza!</field>
+<field name="composer">Paolo Agostini</field>
+<field name="composerSort">Agostini, Paolo</field>
+<field name="year">1922</field>
+<field name="date">1922</field>
+<field name="librettist">Michel Coppola</field>
+<field name="librettistSort">Coppola, Michel</field>
+<field name="librettist">Pompeo Villa</field>
+<field name="librettistSort">Villa, Pompeo</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miglioramo+la+razza!+Paolo+Agostini&amp;search_field=search</field>
+</doc>
+</add>

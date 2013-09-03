@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204177</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saul of Tarsus, or Scenes from the Life of St. Paul</field>
+		<field name="titleSort">Saul of Tarsus, or Scenes from the Life of St. Paul</field>
+		<field name="year">1892</field>
+		<field name="month">February</field>
+		<field name="day">8</field>
+		<field name="date">February 8, 1892</field>
+		<field name="composer">Joseph Parry</field>
+		<field name="composerSort">Parry, Joseph</field>
+		
+		
+		
+		<field name="city">Rhyl</field>
+		<field name="region">Wales</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint Paul</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">29</field>
+		<field name="feastDate">June 29</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+of+Tarsus,+or+Scenes+from+the+Life+of+St.+Paul+Joseph+Parry&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129556</field>
+<field name="genre">Operas</field>
+<field name="title">La court paille</field>
+<field name="titleSort">court paille</field>
+<field name="composer">[Charles Joseph Cerf] Souweine</field>
+<field name="composerSort">Souweine, [Charles Joseph Cerf]</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="city">Saint-Denis</field>
+<field name="region">Seine-Saint-Denis</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+court+paille+Charles+Joseph+Cerf]+Souweine&amp;search_field=search</field>
+</doc>
+</add>

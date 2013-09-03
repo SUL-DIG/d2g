@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117959</field>
+<field name="genre">Operas</field>
+<field name="title">Steaua fara nume (Star without a Name)</field>
+<field name="titleSort">Steaua fara nume (Star without a Name)</field>
+<field name="composer">Emil Lerescu</field>
+<field name="composerSort">Lerescu, Emil</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Mihai Sebastian</field>
+<field name="librettistSort">Sebastian, Mihai</field>
+<field name="theater">Bucharest Television</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Steaua+fara+nume+Star+without+a+Name+Emil+Lerescu&amp;search_field=search</field>
+</doc>
+</add>

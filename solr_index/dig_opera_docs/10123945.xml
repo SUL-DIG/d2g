@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123945</field>
+<field name="genre">Operas</field>
+<field name="title">Ginevra di Scozia</field>
+<field name="titleSort">Ginevra di Scozia</field>
+<field name="composer">Luigi Petrali</field>
+<field name="composerSort">Petrali, Luigi</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Marco Marcelliano Marcello</field>
+<field name="librettistSort">Marcello, Marco Marcelliano</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra+di+Scozia+Luigi+Petrali&amp;search_field=search</field>
+</doc>
+</add>

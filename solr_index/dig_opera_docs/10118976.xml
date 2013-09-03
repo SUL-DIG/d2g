@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118976</field>
+<field name="genre">Operas</field>
+<field name="title">Ugetsu monogatari (The Tale of Ugetsu)</field>
+<field name="titleSort">Ugetsu monogatari (The Tale of Ugetsu)</field>
+<field name="composer">Yutaka Makino</field>
+<field name="composerSort">Makino, Yutaka</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Jun Maeda</field>
+<field name="librettistSort">Maeda, Jun</field>
+<field name="librettist">Akinari Ueda</field>
+<field name="librettistSort">Ueda, Akinari"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ugetsu+monogatari+The+Tale+of+Ugetsu+Yutaka+Makino&amp;search_field=search</field>
+</doc>
+</add>

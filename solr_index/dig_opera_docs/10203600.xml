@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203600</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Resurrection and Ascension</field>
+		<field name="titleSort">Resurrection and Ascension</field>
+		<field name="year">1840</field>
+		<field name="month">December</field>
+		<field name="day">2</field>
+		<field name="date">December 2, 1840</field>
+		<field name="composer">George Job Elvey</field>
+		<field name="composerSort">Elvey, George Job</field>
+		
+		
+		<field name="theater">Sacred Harmonic Society, Exeter Hall</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">From the Resurrection to Pentecost</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Resurrection+and+Ascension+George+Job+Elvey&amp;search_field=search</field>
+	</doc></add>

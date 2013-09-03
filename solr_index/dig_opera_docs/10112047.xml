@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112047</field>
+<field name="genre">Operas</field>
+<field name="title">Le pescatrici</field>
+<field name="titleSort">pescatrici</field>
+<field name="composer">Rocca Giovanetti</field>
+<field name="composerSort">Giovanetti, Rocca</field>
+<field name="year">1754</field>
+<field name="date">1754</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+pescatrici+Rocca+Giovanetti&amp;search_field=search</field>
+</doc>
+</add>

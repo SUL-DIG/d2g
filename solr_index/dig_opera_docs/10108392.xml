@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108392</field>
+<field name="genre">Operas</field>
+<field name="title">Les vierges du chahut</field>
+<field name="titleSort">vierges du chahut</field>
+<field name="composer">Émile Duhem</field>
+<field name="composerSort">Duhem, Émile</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Benjamin Lebreton</field>
+<field name="librettistSort">Lebreton, Benjamin</field>
+<field name="librettist">Henry Moreau</field>
+<field name="librettistSort">Moreau, Henry</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+vierges+du+chahut+Émile+Duhem&amp;search_field=search</field>
+</doc>
+</add>

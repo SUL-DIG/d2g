@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104792</field>
+<field name="genre">Operas</field>
+<field name="title">Hippodamie</field>
+<field name="titleSort">Hippodamie</field>
+<field name="composer">André Campra</field>
+<field name="composerSort">Campra, André</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Pierre-Charles Roy</field>
+<field name="librettistSort">Roy, Pierre-Charles</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hippodamie+André+Campra&amp;search_field=search</field>
+</doc>
+</add>

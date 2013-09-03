@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112476</field>
+<field name="genre">Operas</field>
+<field name="title">Der Milliardär</field>
+<field name="titleSort">Milliardär</field>
+<field name="composer">Ferdinand Gradl</field>
+<field name="composerSort">Gradl, Ferdinand</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="librettist">Arthur Lippschitz</field>
+<field name="librettistSort">Lippschitz, Arthur</field>
+<field name="theater">Centraltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Milliardär+Ferdinand+Gradl&amp;search_field=search</field>
+</doc>
+</add>

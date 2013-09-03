@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118659</field>
+<field name="genre">Operas</field>
+<field name="title">Proserpine</field>
+<field name="titleSort">Proserpine</field>
+<field name="composer">Jean-Baptiste Lully</field>
+<field name="composerSort">Lully, Jean-Baptiste</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Philippe Quinault</field>
+<field name="librettistSort">Quinault, Philippe</field>
+<field name="theater">Château de Saint-Germain-en-Laye</field>
+<field name="city">Saint-Germain-en-Laye</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Proserpine+Jean-Baptiste+Lully&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106372</field>
+<field name="genre">Operas</field>
+<field name="title">The Three Wishes</field>
+<field name="titleSort">Three Wishes</field>
+<field name="composer">Ronald Combs</field>
+<field name="composerSort">Combs, Ronald</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Ronald Combs</field>
+<field name="librettistSort">Combs, Ronald</field>
+<field name="theater">Northwestern University</field>
+<field name="city">Evanston</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Three+Wishes+Ronald+Combs&amp;search_field=search</field>
+</doc>
+</add>

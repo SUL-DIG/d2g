@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119511</field>
+<field name="genre">Operas</field>
+<field name="title">"L'amant sylphe, ou La fëerie de l'amour</field>
+<field name="titleSort">"amant sylphe, ou La fëerie de l'amour"</field>
+<field name="composer">Johann Paul Aegidius Martini</field>
+<field name="composerSort">Martini, Johann Paul Aegidius</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">François-Antoine Quétant</field>
+<field name="librettistSort">Quétant, François-Antoine</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+sylphe,+ou+La+fëerie+de+l'amour+Johann+Paul+Aegidius+Martini&amp;search_field=search</field>
+</doc>
+</add>

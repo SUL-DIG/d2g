@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124110</field>
+<field name="genre">Operas</field>
+<field name="title">"Les époux avant le mariage, ou Ils sont chez eux</field>
+<field name="titleSort">"époux avant le mariage, ou Ils sont chez eux"</field>
+<field name="composer">Louis Alexandre Piccinni</field>
+<field name="composerSort">Piccinni, Louis Alexandre</field>
+<field name="year">1808</field>
+<field name="date">1808</field>
+<field name="librettist">Marc-Antoine Madeleine Désaugiers</field>
+<field name="librettistSort">Désaugiers, Marc-Antoine Madeleine</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+époux+avant+le+mariage,+ou+Ils+sont+chez+eux+Louis+Alexandre+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

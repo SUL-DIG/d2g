@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128366</field>
+<field name="genre">Operas</field>
+<field name="title">Claudine von Villa Bella</field>
+<field name="titleSort">Claudine von Villa Bella</field>
+<field name="composer">Friedrich Schneider</field>
+<field name="composerSort">Schneider, Friedrich</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Private Performance</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Claudine+von+Villa+Bella+Friedrich+Schneider&amp;search_field=search</field>
+</doc>
+</add>

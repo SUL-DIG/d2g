@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101968</field>
+<field name="genre">Operas</field>
+<field name="title">Amor e Fortuna</field>
+<field name="titleSort">Amor e Fortuna</field>
+<field name="composer">Lorenzo Baseggio</field>
+<field name="composerSort">Baseggio, Lorenzo</field>
+<field name="year">1712</field>
+<field name="date">1712</field>
+<field name="librettist">Francesco Passerini</field>
+<field name="librettistSort">Passerini, Francesco</field>
+<field name="theater">Teatro Campanella</field>
+<field name="city">Rovigo</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+e+Fortuna+Lorenzo+Baseggio&amp;search_field=search</field>
+</doc>
+</add>

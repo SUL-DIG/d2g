@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201952</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Immanuel</field>
+		<field name="titleSort">Immanuel</field>
+		<field name="year">1854</field>
+		<field name="month">March</field>
+		<field name="day">2</field>
+		<field name="date">March 2, 1854</field>
+		<field name="composer">Henry David Leslie</field>
+		<field name="composerSort">Leslie, Henry David</field>
+		<field name="librettist">Henry Fothergill Chorley</field>
+		<field name="librettistSort">Chorley, Henry Fothergill</field>
+		
+		
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Immanuel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Immanuel+Henry+David+Leslie&amp;search_field=search</field>
+	</doc></add>

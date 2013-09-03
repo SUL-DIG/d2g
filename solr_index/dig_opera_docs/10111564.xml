@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111564</field>
+<field name="genre">Operas</field>
+<field name="title">Miarka</field>
+<field name="titleSort">Miarka</field>
+<field name="composer">Alexandre Georges</field>
+<field name="composerSort">Georges, Alexandre</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">Jean Richepin</field>
+<field name="librettistSort">Richepin, Jean</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miarka+Alexandre+Georges&amp;search_field=search</field>
+</doc>
+</add>

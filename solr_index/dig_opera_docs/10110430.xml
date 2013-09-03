@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110430</field>
+<field name="genre">Operas</field>
+<field name="title">Eroica</field>
+<field name="titleSort">Eroica</field>
+<field name="composer">Marco Frank</field>
+<field name="composerSort">Frank, Marco</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Richard Batka</field>
+<field name="librettistSort">Batka, Richard</field>
+<field name="theater">Volksoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eroica+Marco+Frank&amp;search_field=search</field>
+</doc>
+</add>

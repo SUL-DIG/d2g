@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118204</field>
+<field name="genre">Operas</field>
+<field name="title">Lieran poika (Son of Liera)</field>
+<field name="titleSort">Lieran poika (Son of Liera)</field>
+<field name="composer">Jukka Linkola</field>
+<field name="composerSort">Linkola, Jukka</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Tapio Parkkinen</field>
+<field name="librettistSort">Parkkinen, Tapio</field>
+<field name="librettist">Oiva Hernesniemi</field>
+<field name="librettistSort">Hernesniemi, Oiva</field>
+<field name="theater">Boat Quay</field>
+<field name="city">Ruovesi</field>
+<field name="region">Pirkanmaa</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lieran+poika+Son+of+Liera+Jukka+Linkola&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120969</field>
+<field name="genre">Operas</field>
+<field name="title">"Aline, reine de Golconde</field>
+<field name="titleSort">"Aline, reine de Golconde"</field>
+<field name="composer">Pierre-Alexandre Monsigny</field>
+<field name="composerSort">Monsigny, Pierre-Alexandre</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="librettist">Stanislas-Jean de Boufflers</field>
+<field name="librettistSort">Boufflers, Stanislas-Jean de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aline,+reine+de+Golconde+Pierre-Alexandre+Monsigny&amp;search_field=search</field>
+</doc>
+</add>

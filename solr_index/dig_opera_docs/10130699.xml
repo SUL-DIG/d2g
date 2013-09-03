@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130699</field>
+<field name="genre">Operas</field>
+<field name="title">Der Wunderknabe</field>
+<field name="titleSort">Wunderknabe</field>
+<field name="composer">Eugen von Taund</field>
+<field name="composerSort">Taund, Eugen von</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Alexander Landesberg</field>
+<field name="librettistSort">Landesberg, Alexander</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Wunderknabe+Eugen+von+Taund&amp;search_field=search</field>
+</doc>
+</add>

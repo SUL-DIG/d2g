@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105098</field>
+<field name="genre">Operas</field>
+<field name="title">"The Blonde Donna, or The Fiesta of Santa Barbara</field>
+<field name="titleSort">"Blonde Donna, or Fiesta of Santa Barbara"</field>
+<field name="composer">Ernest Trow Carter</field>
+<field name="composerSort">Carter, Ernest Trow</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Ernest Trow Carter</field>
+<field name="librettistSort">Carter, Ernest Trow</field>
+<field name="theater">Century Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Blonde+Donna,+or+The+Fiesta+of+Santa+Barbara+Ernest+Trow+Carter&amp;search_field=search</field>
+</doc>
+</add>

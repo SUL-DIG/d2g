@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131766</field>
+<field name="genre">Operas</field>
+<field name="title">Edith Cavell</field>
+<field name="titleSort">Edith Cavell</field>
+<field name="composer">Paolino Vassalo</field>
+<field name="composerSort">Vassalo, Paolino</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Alfonso Giglio</field>
+<field name="librettistSort">Giglio, Alfonso</field>
+<field name="librettist">Augusto German</field>
+<field name="librettistSort">German, Augusto</field>
+<field name="theater">Teatro Reale</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edith+Cavell+Paolino+Vassalo&amp;search_field=search</field>
+</doc>
+</add>

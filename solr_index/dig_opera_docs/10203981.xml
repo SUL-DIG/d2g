@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203981</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Santa Caecilia</field>
+		<field name="titleSort">Santa Caecilia</field>
+		<field name="year">1709</field>
+		
+		
+		<field name="date">1709</field>
+		<field name="composer">Giovanni Battista Pioselli</field>
+		<field name="composerSort">Pioselli, Giovanni Battista</field>
+		<field name="librettist">Francesco Laurentini</field>
+		<field name="librettistSort">Laurentini, Francesco</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Santa+Caecilia+Giovanni+Battista+Pioselli&amp;search_field=search</field>
+	</doc></add>

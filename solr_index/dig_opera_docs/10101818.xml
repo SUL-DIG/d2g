@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101818</field>
+<field name="genre">Operas</field>
+<field name="title">Fermé le dimanche</field>
+<field name="titleSort">Fermé le dimanche</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Hippolyte Bedeau</field>
+<field name="librettistSort">Bedeau, Hippolyte</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fermé+le+dimanche+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

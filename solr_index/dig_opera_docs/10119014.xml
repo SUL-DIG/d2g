@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119014</field>
+<field name="genre">Operas</field>
+<field name="title">Merlino mastro d'organi</field>
+<field name="titleSort">Merlino mastro d'organi</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Gian Francesco Malipiero</field>
+<field name="librettistSort">Malipiero, Gian Francesco</field>
+<field name="theater">Radio Roma</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Merlino+mastro+d'organi+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107536</field>
+<field name="genre">Operas</field>
+<field name="title">Prinz und Maurer</field>
+<field name="titleSort">Prinz und Maurer</field>
+<field name="composer">Franz Derckum</field>
+<field name="composerSort">Derckum, Franz</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Wilhelm von Waldbrühl</field>
+<field name="librettistSort">Waldbrühl, Wilhelm von</field>
+<field name="librettist">Anton Wilhelm Florentin von Zuccalmaglio</field>
+<field name="librettistSort">Zuccalmaglio, Anton Wilhelm Florentin von</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinz+und+Maurer+Franz+Derckum&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112835</field>
+<field name="genre">Operas</field>
+<field name="title">Le retour desiré</field>
+<field name="titleSort">retour desiré</field>
+<field name="composer">Samuel Dietrich Grosse</field>
+<field name="composerSort">Grosse, Samuel Dietrich</field>
+<field name="year">1784</field>
+<field name="date">1784</field><field name="theater">Comödiensaal auf dem Schlosse</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+retour+desiré+Samuel+Dietrich+Grosse&amp;search_field=search</field>
+</doc>
+</add>

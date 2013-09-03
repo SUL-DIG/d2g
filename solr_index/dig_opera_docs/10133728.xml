@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133728</field>
+<field name="genre">Operas</field>
+<field name="title">La villeggiatura</field>
+<field name="titleSort">villeggiatura</field>
+<field name="composer">Giovanni Zoboli</field>
+<field name="composerSort">Zoboli, Giovanni</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Almerindo Spadetta</field>
+<field name="librettistSort">Spadetta, Almerindo</field>
+<field name="librettist">Giacomo Marulli</field>
+<field name="librettistSort">Marulli, Giacomo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+villeggiatura+Giovanni+Zoboli&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123812</field>
+<field name="genre">Operas</field>
+<field name="title">La croix de l'Alsade</field>
+<field name="titleSort">croix de l'Alsade</field>
+<field name="composer">Henri Perry-Biagioli</field>
+<field name="composerSort">Perry-Biagioli, Henri</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Émile Favin</field>
+<field name="librettistSort">Favin, Émile</field>
+<field name="librettist">[Raoul Vast &amp; Gustave Ricouard] Vast-Ricouard</field>
+<field name="librettistSort">Vast-Ricouard, [Raoul Vast &amp; Gustave Ricouard]</field>
+<field name="theater">Théâtre des Fantaisies-Parisiennes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+croix+de+l'Alsade+Henri+Perry-Biagioli&amp;search_field=search</field>
+</doc>
+</add>

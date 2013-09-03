@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103903</field>
+<field name="genre">Operas</field>
+<field name="title">À la brune</field>
+<field name="titleSort">À la brune</field>
+<field name="composer">Jules Bovery</field>
+<field name="composerSort">Bovery, Jules</field>
+<field name="year">1858</field>
+<field name="date">1858</field><field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=À+la+brune+Jules+Bovery&amp;search_field=search</field>
+</doc>
+</add>

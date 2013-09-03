@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118309</field>
+<field name="genre">Operas</field>
+<field name="title">Der Bräutigams-Spiegel</field>
+<field name="titleSort">Bräutigams-Spiegel</field>
+<field name="composer">W. Constantin Loew</field>
+<field name="composerSort">Loew, W. Constantin</field>
+<field name="year">1879</field>
+<field name="date">1879</field><field name="theater">Ringtheater am Schottentor</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Bräutigams-Spiegel+W.+Constantin+Loew&amp;search_field=search</field>
+</doc>
+</add>

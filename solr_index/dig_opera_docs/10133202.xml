@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133202</field>
+<field name="genre">Operas</field>
+<field name="title">The Trojan Conflict</field>
+<field name="titleSort">Trojan Conflict</field>
+<field name="composer">Maurice Wright</field>
+<field name="composerSort">Wright, Maurice</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Maurice Wright</field>
+<field name="librettistSort">Wright, Maurice</field>
+<field name="theater">Painted Bride Arts Center</field>
+<field name="city">Philadelphia</field>
+<field name="region">Pennsylvania</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Trojan+Conflict+Maurice+Wright&amp;search_field=search</field>
+</doc>
+</add>

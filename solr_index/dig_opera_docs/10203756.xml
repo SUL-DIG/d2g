@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203756</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saint François d'Assise</field>
+		<field name="titleSort">Saint François d'Assise</field>
+		<field name="year">1897</field>
+		
+		
+		<field name="date">1897</field>
+		<field name="composer">Max d'Ollone</field>
+		<field name="composerSort">d'Ollone, Max</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Francis of Assisi</field>
+		<field name="feastMonth">October</field>
+		<field name="feastDay">4</field>
+		<field name="feastDate">October 4</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saint+François+d'Assise+Max+d'Ollone&amp;search_field=search</field>
+	</doc></add>

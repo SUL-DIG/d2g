@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126305</field>
+<field name="genre">Operas</field>
+<field name="title">Prinzessin Tulipane</field>
+<field name="titleSort">Prinzessin Tulipane</field>
+<field name="composer">Theodor Ritte-Schwarzwald</field>
+<field name="composerSort">Ritte-Schwarzwald, Theodor</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Max Demuth</field>
+<field name="librettistSort">Demuth, Max</field>
+
+<field name="city">Lodz</field>
+<field name="region">Lódzkie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinzessin+Tulipane+Theodor+Ritte-Schwarzwald&amp;search_field=search</field>
+</doc>
+</add>

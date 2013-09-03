@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125586</field>
+<field name="genre">Operas</field>
+<field name="title">Lady Lido</field>
+<field name="titleSort">Lady Lido</field>
+<field name="composer">Virgilio Ranzato</field>
+<field name="composerSort">Ranzato, Virgilio</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Dino Marchi</field>
+<field name="librettistSort">Marchi, Dino</field>
+<field name="theater">Teatro Drammatico Nazionale</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lady+Lido+Virgilio+Ranzato&amp;search_field=search</field>
+</doc>
+</add>

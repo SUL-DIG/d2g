@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131816</field>
+<field name="genre">Operas</field>
+<field name="title">El ultimo sueсo</field>
+<field name="titleSort">ultimo sueсo</field>
+<field name="composer">José Vázquez</field>
+<field name="composerSort">Vázquez, José</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Manuel M. Bermejo</field>
+<field name="librettistSort">Bermejo, Manuel M.</field>
+<field name="theater">Teatro Arbeu</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+ultimo+sueсo+José+Vázquez&amp;search_field=search</field>
+</doc>
+</add>

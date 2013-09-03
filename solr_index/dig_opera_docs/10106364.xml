@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106364</field>
+<field name="genre">Operas</field>
+<field name="title">La grotte aux fées</field>
+<field name="titleSort">grotte aux fées</field>
+<field name="composer">Édouard Combe</field>
+<field name="composerSort">Combe, Édouard</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Georges Jaccottet</field>
+<field name="librettistSort">Jaccottet, Georges</field>
+<field name="theater">Casino</field>
+<field name="city">Vallorbe</field>
+<field name="region">Vaud</field>
+<field name="country">Switzerland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+grotte+aux+fées+Édouard+Combe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104482</field>
+<field name="genre">Operas</field>
+<field name="title">La parque vaincue</field>
+<field name="titleSort">parque vaincue</field>
+<field name="composer">Bernard de Bury</field>
+<field name="composerSort">Bury, Bernard de</field>
+<field name="year">1751</field>
+<field name="date">1751</field>
+<field name="librettist">Alexandre Tannevot</field>
+<field name="librettistSort">Tannevot, Alexandre</field>
+<field name="theater">Hôtel de Richelieu</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+parque+vaincue+Bernard+de+Bury&amp;search_field=search</field>
+</doc>
+</add>

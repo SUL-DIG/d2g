@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200807</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David</field>
+		<field name="titleSort">David</field>
+		<field name="year">1854</field>
+		<field name="month">June</field>
+		<field name="day">30</field>
+		<field name="date">June 30, 1854</field>
+		<field name="composer">John Henry Griesbach</field>
+		<field name="composerSort">Griesbach, John Henry</field>
+		
+		
+		<field name="theater">Sacred Harmonic Society, Exeter Hall</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">David</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+John+Henry+Griesbach&amp;search_field=search</field>
+	</doc></add>

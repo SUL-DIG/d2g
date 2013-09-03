@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116019</field>
+<field name="genre">Operas</field>
+<field name="title">Figaro lässt sich scheiden</field>
+<field name="titleSort">Figaro lässt sich scheiden</field>
+<field name="composer">Giselher Klebe</field>
+<field name="composerSort">Klebe, Giselher</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Giselher Klebe</field>
+<field name="librettistSort">Klebe, Giselher</field>
+<field name="librettist">Ödön von Horváth</field>
+<field name="librettistSort">Horváth, Ödön von</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Figaro+lässt+sich+scheiden+Giselher+Klebe&amp;search_field=search</field>
+</doc>
+</add>

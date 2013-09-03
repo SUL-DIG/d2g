@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113948</field>
+<field name="genre">Operas</field>
+<field name="title">Die schönste Prinzessin</field>
+<field name="titleSort">schönste Prinzessin</field>
+<field name="composer">Paul Helwig</field>
+<field name="composerSort">Helwig, Paul</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Georg Deecke</field>
+<field name="librettistSort">Deecke, Georg</field>
+<field name="theater">Grosstheater</field>
+<field name="city">Lübeck</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schönste+Prinzessin+Paul+Helwig&amp;search_field=search</field>
+</doc>
+</add>

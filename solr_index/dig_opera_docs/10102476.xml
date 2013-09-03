@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102476</field>
+<field name="genre">Operas</field>
+<field name="title">Qui va а la chasse perd sa place</field>
+<field name="titleSort">Qui va а la chasse perd sa place</field>
+<field name="composer">Michal Bergson</field>
+<field name="composerSort">Bergson, Michal</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Qui+va+а+la+chasse+perd+sa+place+Michal+Bergson&amp;search_field=search</field>
+</doc>
+</add>

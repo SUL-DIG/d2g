@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125852</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro in Lidia</field>
+<field name="titleSort">Ciro in Lidia</field>
+<field name="composer">Sisto Reni</field>
+<field name="composerSort">Reni, Sisto</field>
+<field name="year">1668</field>
+<field name="date">1668</field>
+<field name="librettist">Giovanni Battista Boccabadati</field>
+<field name="librettistSort">Boccabadati, Giovanni Battista</field>
+<field name="theater">Teatro di Corte</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+in+Lidia+Sisto+Reni&amp;search_field=search</field>
+</doc>
+</add>

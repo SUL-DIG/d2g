@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116126</field>
+<field name="genre">Operas</field>
+<field name="title">Der Minnesinger</field>
+<field name="titleSort">Minnesinger</field>
+<field name="composer">Friedrich Knapp</field>
+<field name="composerSort">Knapp, Friedrich</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Johann Friedrich Schlotterbeck</field>
+<field name="librettistSort">Schlotterbeck, Johann Friedrich</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Minnesinger+Friedrich+Knapp&amp;search_field=search</field>
+</doc>
+</add>

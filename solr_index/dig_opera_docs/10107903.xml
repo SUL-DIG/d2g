@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107903</field>
+<field name="genre">Operas</field>
+<field name="title">La vedovella</field>
+<field name="titleSort">vedovella</field>
+<field name="composer">Edoardo Domínguez de Gironella</field>
+<field name="composerSort">Gironella, Edoardo Domínguez de</field>
+<field name="year">1840</field>
+<field name="date">1840</field><field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedovella+Edoardo+Domínguez+de+Gironella&amp;search_field=search</field>
+</doc>
+</add>

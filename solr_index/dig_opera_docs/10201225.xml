@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201225</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther, ovvero L'umiltа coronata</field>
+		<field name="titleSort">Esther, ovvero L'umiltа coronata</field>
+		<field name="year">1716</field>
+		
+		
+		<field name="date">1716</field>
+		<field name="composer">Giovanni Carlo Maria Clari</field>
+		<field name="composerSort">Clari, Giovanni Carlo</field>
+		<field name="librettist">Brandaligo Venerosi</field>
+		<field name="librettistSort">Venerosi, Brandaligo</field>
+		
+		<field name="theater">Palazzo del Commune</field>
+		<field name="city">Pistoia</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Ahasuerus makes Esther his Queen</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther,+ovvero+L'umiltа+coronata+Giovanni+Carlo+Maria+Clari&amp;search_field=search</field>
+	</doc></add>

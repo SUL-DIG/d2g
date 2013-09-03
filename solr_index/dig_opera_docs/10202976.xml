@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202976</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Nidaros</field>
+		<field name="titleSort">Nidaros</field>
+		<field name="year">1997</field>
+		
+		
+		<field name="date">1997</field>
+		<field name="composer">Arne Nordheim</field>
+		<field name="composerSort">Nordheim, Arne</field>
+		<field name="librettist">Paal-Helge Haugen</field>
+		<field name="librettistSort">Haugen, Paal-Helge</field>
+		
+		<field name="theater">Nidarosdomen</field>
+		<field name="city">Trondheim</field>
+		<field name="region">Sør-Trøndelag</field>
+		<field name="country">Norway</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nidaros+Arne+Nordheim&amp;search_field=search</field>
+	</doc></add>

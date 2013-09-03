@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101112</field>
+<field name="genre">Operas</field>
+<field name="title">Love and Madness!</field>
+<field name="titleSort">Love and Madness!</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Francis Godolphin Waldron</field>
+<field name="librettistSort">Waldron, Francis Godolphin</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+and+Madness!+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

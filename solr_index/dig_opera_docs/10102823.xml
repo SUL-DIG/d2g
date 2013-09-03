@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102823</field>
+<field name="genre">Operas</field>
+<field name="title">L'enlèvement d'Europe</field>
+<field name="titleSort">enlèvement d'Europe</field>
+<field name="composer">Jean Laurent Bethisy</field>
+<field name="composerSort">Bethisy, Jean Laurent</field>
+<field name="year">1739</field>
+<field name="date">1739</field>
+<field name="librettist">Jean Laurent Bethisy</field>
+<field name="librettistSort">Bethisy, Jean Laurent</field>
+<field name="theater">Concert de la Reine</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'enlèvement+d'Europe+Jean+Laurent+Bethisy&amp;search_field=search</field>
+</doc>
+</add>

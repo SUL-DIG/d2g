@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103705</field>
+<field name="genre">Operas</field>
+<field name="title">La schiava amorosa</field>
+<field name="titleSort">schiava amorosa</field>
+<field name="composer">Giovanni Battista Borghi</field>
+<field name="composerSort">Borghi, Giovanni Battista</field>
+<field name="year">1770</field>
+<field name="date">1770</field>
+<field name="librettist">Marcello Bernardini</field>
+<field name="librettistSort">Bernardini, Marcello</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+schiava+amorosa+Giovanni+Battista+Borghi&amp;search_field=search</field>
+</doc>
+</add>

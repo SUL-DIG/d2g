@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100974</field>
+<field name="genre">Operas</field>
+<field name="title">I due mariti</field>
+<field name="titleSort">due mariti</field>
+<field name="composer">Nicola d'Arienzo</field>
+<field name="composerSort">d'Arienzo, Nicola</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Almerindo Spadetta</field>
+<field name="librettistSort">Spadetta, Almerindo</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+mariti+Nicola+d'Arienzo&amp;search_field=search</field>
+</doc>
+</add>

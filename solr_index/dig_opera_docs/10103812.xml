@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103812</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Sarah Sampson</field>
+<field name="titleSort">Miss Sarah Sampson</field>
+<field name="composer">Lukas Böttcher</field>
+<field name="composerSort">Böttcher, Lukas</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Lukas Böttcher</field>
+<field name="librettistSort">Böttcher, Lukas</field>
+<field name="librettist">Gotthold Ephraim Lessing</field>
+<field name="librettistSort">Lessing, Gotthold Ephraim</field>
+
+<field name="city">Bamberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Sarah+Sampson+Lukas+Böttcher&amp;search_field=search</field>
+</doc>
+</add>

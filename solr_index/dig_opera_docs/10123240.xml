@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123240</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schulkandidat</field>
+<field name="titleSort">Schulkandidat</field>
+<field name="composer">Maria Theresia von Paradis</field>
+<field name="composerSort">Paradis, Maria Theresia von</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Johann Riedinger</field>
+<field name="librettistSort">Riedinger, Johann</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schulkandidat+Maria+Theresia+von+Paradis&amp;search_field=search</field>
+</doc>
+</add>

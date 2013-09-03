@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127413</field>
+<field name="genre">Operas</field>
+<field name="title">L'Antigona in Tebe</field>
+<field name="titleSort">Antigona in Tebe</field>
+<field name="composer">Pietro Pompeo Sales</field>
+<field name="composerSort">Sales, Pietro Pompeo</field>
+<field name="year">1767</field>
+<field name="date">1767</field><field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Antigona+in+Tebe+Pietro+Pompeo+Sales&amp;search_field=search</field>
+</doc>
+</add>

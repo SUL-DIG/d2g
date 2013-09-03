@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130561</field>
+<field name="genre">Operas</field>
+<field name="title">La fête des lanternes</field>
+<field name="titleSort">fête des lanternes</field>
+<field name="composer">Adrien Talexy</field>
+<field name="composerSort">Talexy, Adrien</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Émile de Najac</field>
+<field name="librettistSort">Najac, Émile de</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fête+des+lanternes+Adrien+Talexy&amp;search_field=search</field>
+</doc>
+</add>

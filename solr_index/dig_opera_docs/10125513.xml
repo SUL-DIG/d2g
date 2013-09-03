@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125513</field>
+<field name="genre">Operas</field>
+<field name="title">Bele noci (White Nights)</field>
+<field name="titleSort">Bele noci (White Nights)</field>
+<field name="composer">Stanojlo Rajicic</field>
+<field name="composerSort">Rajicic, Stanojlo</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Fyodor Mikhaylovich Dostoyevsky</field>
+<field name="librettistSort">Dostoyevsky, Fyodor Mikhaylovich</field>
+<field name="theater">Belgrade Television</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bele+noci+White+Nights+Stanojlo+Rajicic&amp;search_field=search</field>
+</doc>
+</add>

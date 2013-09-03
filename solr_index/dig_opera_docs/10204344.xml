@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204344</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sommersione di Faraone</field>
+		<field name="titleSort">Sommersione di Faraone</field>
+		<field name="year">1675</field>
+		
+		
+		<field name="date">1675</field>
+		<field name="composer">Antonio Masini</field>
+		<field name="composerSort">Masini, Antonio</field>
+		
+		
+		<field name="theater">Oratorio di San Giovanni dei Fiorentini</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joseph and his brothers</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sommersione+di+Faraone+Antonio+Masini&amp;search_field=search</field>
+	</doc></add>

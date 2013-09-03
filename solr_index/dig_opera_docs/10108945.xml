@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108945</field>
+<field name="genre">Operas</field>
+<field name="title">Kassai diak</field>
+<field name="titleSort">Kassai diak</field>
+<field name="composer">Elek Erkel</field>
+<field name="composerSort">Erkel, Elek</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kassai+diak+Elek+Erkel&amp;search_field=search</field>
+</doc>
+</add>

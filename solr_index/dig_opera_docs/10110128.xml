@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110128</field>
+<field name="genre">Operas</field>
+<field name="title">Das Mädchen von Schilda</field>
+<field name="titleSort">Mädchen von Schilda</field>
+<field name="composer">Alban Foerster</field>
+<field name="composerSort">Foerster, Alban</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Rudolf Bunge</field>
+<field name="librettistSort">Bunge, Rudolf</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Neustrelitz</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Mädchen+von+Schilda+Alban+Foerster&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109182</field>
+<field name="genre">Operas</field>
+<field name="title">La tempestа</field>
+<field name="titleSort">tempestа</field>
+<field name="composer">Vincenzo Fabrizi</field>
+<field name="composerSort">Fabrizi, Vincenzo</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Michele Mallio</field>
+<field name="librettistSort">Mallio, Michele</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tempestа+Vincenzo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

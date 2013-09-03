@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125853</field>
+<field name="genre">Operas</field>
+<field name="title">Prince chéri</field>
+<field name="titleSort">Prince chéri</field>
+<field name="composer">Léon Renieu</field>
+<field name="composerSort">Renieu, Léon</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Léon Guillot de Saix</field>
+<field name="librettistSort">Guillot de Saix, Léon</field>
+<field name="librettist">Marcelle Claude</field>
+<field name="librettistSort">Claude, Marcelle</field>
+<field name="theater">Théâtre Trianon-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prince+chéri+Léon+Renieu&amp;search_field=search</field>
+</doc>
+</add>

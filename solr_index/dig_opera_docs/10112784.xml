@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112784</field>
+<field name="genre">Operas</field>
+<field name="title">Sigurd</field>
+<field name="titleSort">Sigurd</field>
+<field name="composer">Heinrich Grimm</field>
+<field name="composerSort">Grimm, Heinrich</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Heinrich Grimm</field>
+<field name="librettistSort">Grimm, Heinrich</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sigurd+Heinrich+Grimm&amp;search_field=search</field>
+</doc>
+</add>

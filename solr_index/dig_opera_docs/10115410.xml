@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115410</field>
+<field name="genre">Operas</field>
+<field name="title">The Medal and the Maid</field>
+<field name="titleSort">Medal and the Maid</field>
+<field name="composer">Sidney Jones</field>
+<field name="composerSort">Jones, Sidney</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">[James Davis] Owen Hall</field>
+<field name="librettistSort">Hall, Owen [James Davis]</field>
+<field name="librettist">Charles Henry Taylor</field>
+<field name="librettistSort">Taylor, Charles Henry</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Medal+and+the+Maid+Sidney+Jones&amp;search_field=search</field>
+</doc>
+</add>

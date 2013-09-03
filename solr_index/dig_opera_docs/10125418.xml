@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125418</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Herzen</field>
+<field name="titleSort">drei Herzen</field>
+<field name="composer">Miklós Radnai</field>
+<field name="composerSort">Radnai, Miklós</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Miklós Radnai</field>
+<field name="librettistSort">Radnai, Miklós</field>
+
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Herzen+Miklós+Radnai&amp;search_field=search</field>
+</doc>
+</add>

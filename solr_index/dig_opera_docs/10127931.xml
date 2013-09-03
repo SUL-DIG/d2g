@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127931</field>
+<field name="genre">Operas</field>
+<field name="title">The Magic Feather</field>
+<field name="titleSort">Magic Feather</field>
+<field name="composer">Nicholas Scarim</field>
+<field name="composerSort">Scarim, Nicholas</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Nicholas Scarim</field>
+<field name="librettistSort">Scarim, Nicholas</field>
+<field name="theater">Children's Musical Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Magic+Feather+Nicholas+Scarim&amp;search_field=search</field>
+</doc>
+</add>

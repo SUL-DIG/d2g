@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101727</field>
+<field name="genre">Operas</field>
+<field name="title">L'amant déserté</field>
+<field name="titleSort">amant déserté</field>
+<field name="composer">Alain Bancquart</field>
+<field name="composerSort">Bancquart, Alain</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Marie-Claire Bancquart</field>
+<field name="librettistSort">Bancquart, Marie-Claire</field>
+<field name="librettist">Pierre Dalle Nogare</field>
+<field name="librettistSort">Dalle Nogare, Pierre</field>
+<field name="theater">Opéra</field>
+<field name="city">Metz</field>
+<field name="region">Moselle</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amant+déserté+Alain+Bancquart&amp;search_field=search</field>
+</doc>
+</add>

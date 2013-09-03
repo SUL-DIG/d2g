@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106601</field>
+<field name="genre">Operas</field>
+<field name="title">Il cicisbeo impertinente</field>
+<field name="titleSort">cicisbeo impertinente</field>
+<field name="composer">Geronimo Cordella</field>
+<field name="composerSort">Cordella, Geronimo</field>
+<field name="year">1754</field>
+<field name="date">1754</field><field name="theater">Teatro Pubblico</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+cicisbeo+impertinente+Geronimo+Cordella&amp;search_field=search</field>
+</doc>
+</add>

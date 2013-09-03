@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110470</field>
+<field name="genre">Operas</field>
+<field name="title">The Tryst</field>
+<field name="titleSort">Tryst</field>
+<field name="composer">Lawrence Freeman</field>
+<field name="composerSort">Freeman, Lawrence</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Lawrence Freeman</field>
+<field name="librettistSort">Freeman, Lawrence</field>
+<field name="theater">Crescent Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tryst+Lawrence+Freeman&amp;search_field=search</field>
+</doc>
+</add>

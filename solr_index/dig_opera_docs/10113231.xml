@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113231</field>
+<field name="genre">Operas</field>
+<field name="title">Le revenant</field>
+<field name="titleSort">revenant</field>
+<field name="composer">Alfred d'Hack</field>
+<field name="composerSort">d'Hack, Alfred</field>
+<field name="year">1865</field>
+<field name="date">1865</field><field name="theater">Salon</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+revenant+Alfred+d'Hack&amp;search_field=search</field>
+</doc>
+</add>

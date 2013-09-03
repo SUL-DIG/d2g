@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123676</field>
+<field name="genre">Operas</field>
+<field name="title">Mädel ade!</field>
+<field name="titleSort">Mädel ade!</field>
+<field name="composer">August Pepöck</field>
+<field name="composerSort">Pepöck, August</field>
+<field name="year">1930</field>
+<field name="date">1930</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="theater">Neues Operetten-Theater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mädel+ade!+August+Pepöck&amp;search_field=search</field>
+</doc>
+</add>

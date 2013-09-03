@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119494</field>
+<field name="genre">Operas</field>
+<field name="title">L'entr'acte</field>
+<field name="titleSort">entr'acte</field>
+<field name="composer">André Martinet</field>
+<field name="composerSort">Martinet, André</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Maxime Boucheron</field>
+<field name="librettistSort">Boucheron, Maxime</field>
+
+<field name="city">Fécamp</field>
+<field name="region">Seine-Maritime</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'entr'acte+André+Martinet&amp;search_field=search</field>
+</doc>
+</add>

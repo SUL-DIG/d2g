@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101342</field>
+<field name="genre">Operas</field>
+<field name="title">Kosara</field>
+<field name="titleSort">Kosara</field>
+<field name="composer">Georgi Atanasov</field>
+<field name="composerSort">Atanasov, Georgi</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Bojan Danovsky</field>
+<field name="librettistSort">Danovsky, Bojan</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kosara+Georgi+Atanasov&amp;search_field=search</field>
+</doc>
+</add>

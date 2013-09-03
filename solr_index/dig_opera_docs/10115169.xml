@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115169</field>
+<field name="genre">Operas</field>
+<field name="title">La jolie fiançée</field>
+<field name="titleSort">jolie fiançée</field>
+<field name="composer">Jean François Joseph Janssens</field>
+<field name="composerSort">Janssens, Jean François Joseph</field>
+<field name="year">1820</field>
+<field name="date">1820</field>
+<field name="librettist">[Charles-Gaspard Poirson] Delestre-Poirson</field>
+<field name="librettistSort">Delestre-Poirson, [Charles-Gaspard Poirson]</field>
+<field name="librettist">Henri Dupin</field>
+<field name="librettistSort">Dupin, Henri</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jolie+fiançée+Jean+François+Joseph+Janssens&amp;search_field=search</field>
+</doc>
+</add>

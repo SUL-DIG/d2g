@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121025</field>
+<field name="genre">Operas</field>
+<field name="title">Volgendo il ciel per l'immortal sentiero</field>
+<field name="titleSort">Volgendo il ciel per l'immortal sentiero</field>
+<field name="composer">Claudio Monteverdi</field>
+<field name="composerSort">Monteverdi, Claudio</field>
+<field name="year">1636</field>
+<field name="date">1636</field>
+<field name="librettist">Ottavio Rinuccini</field>
+<field name="librettistSort">Rinuccini, Ottavio</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volgendo+il+ciel+per+l'immortal+sentiero+Claudio+Monteverdi&amp;search_field=search</field>
+</doc>
+</add>

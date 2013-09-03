@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108069</field>
+<field name="genre">Operas</field>
+<field name="title">Manina</field>
+<field name="titleSort">Manina</field>
+<field name="composer">Nico Dostal</field>
+<field name="composerSort">Dostal, Nico</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Hans Adler</field>
+<field name="librettistSort">Adler, Hans</field>
+<field name="theater">Theater im Admiralspalast</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manina+Nico+Dostal&amp;search_field=search</field>
+</doc>
+</add>

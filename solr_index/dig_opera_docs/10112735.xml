@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112735</field>
+<field name="genre">Operas</field>
+<field name="title">Les mariages samnites</field>
+<field name="titleSort">mariages samnites</field>
+<field name="composer">André-Ernest-Modeste Grétry</field>
+<field name="composerSort">Grétry, André-Ernest-Modeste</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">Pierre Légier</field>
+<field name="librettistSort">Légier, Pierre</field>
+<field name="librettist">Jean-François Marmontel</field>
+<field name="librettistSort">Marmontel, Jean-François</field>
+<field name="theater">Résidence du prince de Condé</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+mariages+samnites+André-Ernest-Modeste+Grétry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130752</field>
+<field name="genre">Operas</field>
+<field name="title">Cajus Caligula</field>
+<field name="titleSort">Cajus Caligula</field>
+<field name="composer">Georg Philipp Telemann</field>
+<field name="composerSort">Telemann, Georg Philipp</field>
+<field name="year">1704</field>
+<field name="date">1704</field><field name="theater">Schauplatz im Brühl</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cajus+Caligula+Georg+Philipp+Telemann&amp;search_field=search</field>
+</doc>
+</add>

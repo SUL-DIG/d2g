@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122389</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur et Madame Denis</field>
+<field name="titleSort">Monsieur et Madame Denis</field>
+<field name="composer">Jacques Offenbach</field>
+<field name="composerSort">Offenbach, Jacques</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Michel Delaporte</field>
+<field name="librettistSort">Delaporte, Michel</field>
+<field name="librettist">[Paul-Aimé Chapelle] Laurencin</field>
+<field name="librettistSort">Laurencin, [Paul-Aimé Chapelle]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+et+Madame+Denis+Jacques+Offenbach&amp;search_field=search</field>
+</doc>
+</add>

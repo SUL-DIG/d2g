@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126581</field>
+<field name="genre">Operas</field>
+<field name="title">Agnete</field>
+<field name="titleSort">Agnete</field>
+<field name="composer">Julius Röntgen</field>
+<field name="composerSort">Röntgen, Julius</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Hillegonda van Uildriks</field>
+<field name="librettistSort">Uildriks, Hillegonda van</field>
+<field name="theater">Stadsschouwburg</field>
+<field name="city">Amsterdam</field>
+<field name="region">Noord Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnete+Julius+Röntgen&amp;search_field=search</field>
+</doc>
+</add>

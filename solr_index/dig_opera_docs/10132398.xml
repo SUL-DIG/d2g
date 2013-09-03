@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132398</field>
+<field name="genre">Operas</field>
+<field name="title">Jery und Bätely</field>
+<field name="titleSort">Jery und Bätely</field>
+<field name="composer">Gerhard Wagner</field>
+<field name="composerSort">Wagner, Gerhard</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Thalia-Theater</field>
+<field name="city">Saarbrücken</field>
+<field name="region">Saarland</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jery+und+Bätely+Gerhard+Wagner&amp;search_field=search</field>
+</doc>
+</add>

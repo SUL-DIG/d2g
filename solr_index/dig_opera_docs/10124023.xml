@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124023</field>
+<field name="genre">Operas</field>
+<field name="title">Das Christ-Elflein</field>
+<field name="titleSort">Christ-Elflein</field>
+<field name="composer">Hans Pfitzner</field>
+<field name="composerSort">Pfitzner, Hans</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Ilse von Stach</field>
+<field name="librettistSort">Stach, Ilse von</field>
+<field name="librettist">Hans Pfitzner</field>
+<field name="librettistSort">Pfitzner, Hans</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Christ-Elflein+Hans+Pfitzner&amp;search_field=search</field>
+</doc>
+</add>

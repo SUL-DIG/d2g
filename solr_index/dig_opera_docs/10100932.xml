@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100932</field>
+<field name="genre">Operas</field>
+<field name="title">Dozhd' (Rain)</field>
+<field name="titleSort">Dozhd' (Rain)</field>
+<field name="composer">Boris Aleksandrovich Arapov</field>
+<field name="composerSort">Arapov, Boris Aleksandrovich</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">T. Todorova</field>
+<field name="librettistSort">Todorova, T.</field>
+<field name="librettist">William Somerset Maugham</field>
+<field name="librettistSort">Maugham, William Somerset</field>
+<field name="theater">Academic Chapel</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dozhd'+Rain+Boris+Aleksandrovich+Arapov&amp;search_field=search</field>
+</doc>
+</add>

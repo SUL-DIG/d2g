@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112358</field>
+<field name="genre">Operas</field>
+<field name="title">Lo schiavo</field>
+<field name="titleSort">schiavo</field>
+<field name="composer">Carlos Gomes</field>
+<field name="composerSort">Gomes, Carlos</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Rodolfo Paravicini</field>
+<field name="librettistSort">Paravicini, Rodolfo</field>
+<field name="librettist">Alfred d'Escragnolle de Taunay</field>
+<field name="librettistSort">Taunay, Alfred d'Escragnolle de</field>
+<field name="theater">Teatro Lírico Fluminense</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lo+schiavo+Carlos+Gomes&amp;search_field=search</field>
+</doc>
+</add>

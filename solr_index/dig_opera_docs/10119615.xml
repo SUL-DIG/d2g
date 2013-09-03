@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119615</field>
+<field name="genre">Operas</field>
+<field name="title">Sisifo</field>
+<field name="titleSort">Sisifo</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Pietro Farlai</field>
+<field name="librettistSort">Farlai, Pietro</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sisifo+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

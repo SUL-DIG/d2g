@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102033</field>
+<field name="genre">Operas</field>
+<field name="title">Genesi</field>
+<field name="titleSort">Genesi</field>
+<field name="composer">Franco Battiato</field>
+<field name="composerSort">Battiato, Franco</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Franco Battiato</field>
+<field name="librettistSort">Battiato, Franco</field>
+<field name="librettist">Tommaso Tramonti</field>
+<field name="librettistSort">Tramonti, Tommaso</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Genesi+Franco+Battiato&amp;search_field=search</field>
+</doc>
+</add>

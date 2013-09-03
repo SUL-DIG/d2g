@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126275</field>
+<field name="genre">Operas</field>
+<field name="title">Idalide</field>
+<field name="titleSort">Idalide</field>
+<field name="composer">Salvatore Rispoli</field>
+<field name="composerSort">Rispoli, Salvatore</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">Ferdinando Moretti</field>
+<field name="librettistSort">Moretti, Ferdinando</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idalide+Salvatore+Rispoli&amp;search_field=search</field>
+</doc>
+</add>

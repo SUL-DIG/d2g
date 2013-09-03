@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103629</field>
+<field name="genre">Operas</field>
+<field name="title">La regina creduta re (Semiramide)</field>
+<field name="titleSort">regina creduta re (Semiramide)</field>
+<field name="composer">Giovanni Bononcini</field>
+<field name="composerSort">Bononcini, Giovanni</field>
+<field name="year">1706</field>
+<field name="date">1706</field>
+<field name="librettist">Matteo Noris</field>
+<field name="librettistSort">Noris, Matteo</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+regina+creduta+re+Semiramide+Giovanni+Bononcini&amp;search_field=search</field>
+</doc>
+</add>

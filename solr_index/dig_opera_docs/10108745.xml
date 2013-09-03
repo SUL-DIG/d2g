@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108745</field>
+<field name="genre">Operas</field>
+<field name="title">Die Alpenhütte</field>
+<field name="titleSort">Alpenhütte</field>
+<field name="composer">__ Ehrenberg</field>
+<field name="composerSort">Ehrenberg, __</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="city">Dessau</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Alpenhütte+__+Ehrenberg&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104883</field>
+<field name="genre">Operas</field>
+<field name="title">Davide Rizzio</field>
+<field name="titleSort">Davide Rizzio</field>
+<field name="composer">Vincenzo Capecelatro</field>
+<field name="composerSort">Capecelatro, Vincenzo</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Andrea Maffei</field>
+<field name="librettistSort">Maffei, Andrea</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davide+Rizzio+Vincenzo+Capecelatro&amp;search_field=search</field>
+</doc>
+</add>

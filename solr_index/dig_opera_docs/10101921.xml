@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101921</field>
+<field name="genre">Operas</field>
+<field name="title">La farce de Maître Pathelin</field>
+<field name="titleSort">farce de Maître Pathelin</field>
+<field name="composer">Henry Barraud</field>
+<field name="composerSort">Barraud, Henry</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Gustave Cohen</field>
+<field name="librettistSort">Cohen, Gustave</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+farce+de+Maître+Pathelin+Henry+Barraud&amp;search_field=search</field>
+</doc>
+</add>

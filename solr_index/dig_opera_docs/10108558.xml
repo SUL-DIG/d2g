@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108558</field>
+<field name="genre">Operas</field>
+<field name="title">La ferita mortale risanata dal matrimonio</field>
+<field name="titleSort">ferita mortale risanata dal matrimonio</field>
+<field name="composer">Josef Dussek</field>
+<field name="composerSort">Dussek, Josef</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ferita+mortale+risanata+dal+matrimonio+Josef+Dussek&amp;search_field=search</field>
+</doc>
+</add>

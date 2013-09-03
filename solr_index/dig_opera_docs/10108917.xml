@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108917</field>
+<field name="genre">Operas</field>
+<field name="title">Heksen (The Witch)</field>
+<field name="titleSort">Heksen (The Witch)</field>
+<field name="composer">August Enna</field>
+<field name="composerSort">Enna, August</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Alfred Ipsen</field>
+<field name="librettistSort">Ipsen, Alfred</field>
+<field name="librettist">Arthur Fitger</field>
+<field name="librettistSort">Fitger, Arthur</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heksen+The+Witch+August+Enna&amp;search_field=search</field>
+</doc>
+</add>

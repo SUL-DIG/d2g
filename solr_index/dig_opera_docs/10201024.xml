@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201024</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Divinae hypostasis encomium</field>
+		<field name="titleSort">Divinae hypostasis encomium</field>
+		<field name="year">1755</field>
+		
+		
+		<field name="date">1755</field>
+		<field name="composer">Gioacchino Cocchi</field>
+		<field name="composerSort">Cocchi, Gioacchino</field>
+		
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Divinae+hypostasis+encomium+Gioacchino+Cocchi&amp;search_field=search</field>
+	</doc></add>

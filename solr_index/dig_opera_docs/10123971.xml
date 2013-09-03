@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123971</field>
+<field name="genre">Operas</field>
+<field name="title">Manfredo</field>
+<field name="titleSort">Manfredo</field>
+<field name="composer">Errico Petrella</field>
+<field name="composerSort">Petrella, Errico</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Giorgio Tommaso Cimino</field>
+<field name="librettistSort">Cimino, Giorgio Tommaso</field>
+<field name="librettist">"George Gordon, Lord Byron"</field>
+<field name="librettistSort">Byron, George Gordon, Lord</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manfredo+Errico+Petrella&amp;search_field=search</field>
+</doc>
+</add>

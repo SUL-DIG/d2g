@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125143</field>
+<field name="genre">Operas</field>
+<field name="title">Voyna i mir (War and Peace)</field>
+<field name="titleSort">Voyna i mir (War and Peace)</field>
+<field name="composer">Sergey Prokofiev</field>
+<field name="composerSort">Prokofiev, Sergey</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Sergey Prokofiev</field>
+<field name="librettistSort">Prokofiev, Sergey</field>
+<field name="librettist">Lev Nikolayevich Tolstoy</field>
+<field name="librettistSort">Tolstoy, Lev Nikolayevich</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Stanislavskogo i Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voyna+i+mir+War+and+Peace+Sergey+Prokofiev&amp;search_field=search</field>
+</doc>
+</add>

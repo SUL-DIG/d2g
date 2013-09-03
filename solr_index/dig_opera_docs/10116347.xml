@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116347</field>
+<field name="genre">Operas</field>
+<field name="title">Lysistrate</field>
+<field name="titleSort">Lysistrate</field>
+<field name="composer">Paul Kont</field>
+<field name="composerSort">Kont, Paul</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Paul Kont</field>
+<field name="librettistSort">Kont, Paul</field>
+<field name="theater">Landesbühnen Sachsen</field>
+<field name="city">Dresden-Radebeul</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lysistrate+Paul+Kont&amp;search_field=search</field>
+</doc>
+</add>

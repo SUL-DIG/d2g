@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121130</field>
+<field name="genre">Operas</field>
+<field name="title">Los rubios</field>
+<field name="titleSort">rubios</field>
+<field name="composer">Mary Carr Moore</field>
+<field name="composerSort">Moore, Mary Carr</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Neeta Marquis</field>
+<field name="librettistSort">Marquis, Neeta</field>
+<field name="theater">Greek Theater</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Los+rubios+Mary+Carr+Moore&amp;search_field=search</field>
+</doc>
+</add>

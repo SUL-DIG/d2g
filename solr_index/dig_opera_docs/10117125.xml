@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117125</field>
+<field name="genre">Operas</field>
+<field name="title">Un amour de garçon</field>
+<field name="titleSort">amour de garçon</field>
+<field name="composer">Georges Lamothe</field>
+<field name="composerSort">Lamothe, Georges</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Édouard Doyen</field>
+<field name="librettistSort">Doyen, Édouard</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+amour+de+garçon+Georges+Lamothe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200063</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abraham in Gerasis</field>
+		<field name="titleSort">Abraham in Gerasis</field>
+		<field name="year">1694</field>
+		
+		
+		<field name="date">1694</field>
+		<field name="composer">Pietro Antonio Cennami</field>
+		<field name="composerSort">Cennami, Pietro Antonio</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abimelech, king of Gerar</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abraham+in+Gerasis+Pietro+Antonio+Cennami&amp;search_field=search</field>
+	</doc></add>

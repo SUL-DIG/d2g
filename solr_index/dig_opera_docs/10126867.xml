@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126867</field>
+<field name="genre">Operas</field>
+<field name="title">Grisette und Nymphe</field>
+<field name="titleSort">Grisette und Nymphe</field>
+<field name="composer">Ugo Roti</field>
+<field name="composerSort">Roti, Ugo</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Josef Kurmayer</field>
+<field name="librettistSort">Kurmayer, Josef</field>
+<field name="librettist">[Leo Hirschfeld] Leo Feld</field>
+<field name="librettistSort">Feld, Leo [Leo Hirschfeld]</field>
+<field name="theater">Theater in der Josefstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Grisette+und+Nymphe+Ugo+Roti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119652</field>
+<field name="genre">Operas</field>
+<field name="title">Magdalena</field>
+<field name="titleSort">Magdalena</field>
+<field name="composer">Juan Bautista Massa</field>
+<field name="composerSort">Massa, Juan Bautista</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Ernesto Trucchi</field>
+<field name="librettistSort">Trucchi, Ernesto</field>
+<field name="theater">Teatro Colón</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magdalena+Juan+Bautista+Massa&amp;search_field=search</field>
+</doc>
+</add>

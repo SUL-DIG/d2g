@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113184</field>
+<field name="genre">Operas</field>
+<field name="title">Der blinde Harfner</field>
+<field name="titleSort">blinde Harfner</field>
+<field name="composer">Adalbert Gyrowetz</field>
+<field name="composerSort">Gyrowetz, Adalbert</field>
+<field name="year">1827</field>
+<field name="date">1827</field>
+<field name="librettist">Johanna Fridericke Lohmann</field>
+<field name="librettistSort">Lohmann, Johanna Fridericke</field>
+<field name="theater">Kärntnertortheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+blinde+Harfner+Adalbert+Gyrowetz&amp;search_field=search</field>
+</doc>
+</add>

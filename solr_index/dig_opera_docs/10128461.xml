@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128461</field>
+<field name="genre">Operas</field>
+<field name="title">La dernière vendette</field>
+<field name="titleSort">dernière vendette</field>
+<field name="composer">Camille Schubert</field>
+<field name="composerSort">Schubert, Camille</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Émile Thierry</field>
+<field name="librettistSort">Thierry, Émile</field>
+<field name="librettist">Élie Bertrand Berthet</field>
+<field name="librettistSort">Berthet, Élie Bertrand</field>
+
+<field name="city">Passy</field>
+<field name="region">Haute-Savoie</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dernière+vendette+Camille+Schubert&amp;search_field=search</field>
+</doc>
+</add>

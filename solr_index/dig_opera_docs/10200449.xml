@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200449</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Bonifacius</field>
+		<field name="titleSort">Bonifacius</field>
+		<field name="year">1885</field>
+		
+		
+		<field name="date">1885</field>
+		<field name="composer">Friedrich Koenen</field>
+		<field name="composerSort">Koenen, Friedrich</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Boniface</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">5</field>
+		<field name="feastDate">June 5</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bonifacius+Friedrich+Koenen&amp;search_field=search</field>
+	</doc></add>

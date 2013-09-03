@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108812</field>
+<field name="genre">Operas</field>
+<field name="title">Le chant des vengeances</field>
+<field name="titleSort">chant des vengeances</field>
+<field name="composer">André Eler</field>
+<field name="composerSort">Eler, André</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Claude-Joseph Rouget de Lisle</field>
+<field name="librettistSort">Rouget de Lisle, Claude-Joseph</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chant+des+vengeances+André+Eler&amp;search_field=search</field>
+</doc>
+</add>

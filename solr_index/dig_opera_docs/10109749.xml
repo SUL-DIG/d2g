@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109749</field>
+<field name="genre">Operas</field>
+<field name="title">Der Spottvogel</field>
+<field name="titleSort">Spottvogel</field>
+<field name="composer">Otto Findeisen</field>
+<field name="composerSort">Findeisen, Otto</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Max Henschel</field>
+<field name="librettistSort">Henschel, Max</field>
+<field name="theater">Tivoli-Theater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Spottvogel+Otto+Findeisen&amp;search_field=search</field>
+</doc>
+</add>

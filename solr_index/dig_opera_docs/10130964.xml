@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130964</field>
+<field name="genre">Operas</field>
+<field name="title">Alda</field>
+<field name="titleSort">Alda</field>
+<field name="composer">Alphonse Thys</field>
+<field name="composerSort">Thys, Alphonse</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Jean-François-Alfred Bayard</field>
+<field name="librettistSort">Bayard, Jean-François-Alfred</field>
+<field name="librettist">Paul Duport</field>
+<field name="librettistSort">Duport, Paul</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alda+Alphonse+Thys&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115445</field>
+<field name="genre">Operas</field>
+<field name="title">Under Western Eyes</field>
+<field name="titleSort">Under Western Eyes</field>
+<field name="composer">John Joubert</field>
+<field name="composerSort">Joubert, John</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Cedric Cliffe</field>
+<field name="librettistSort">Cliffe, Cedric</field>
+<field name="librettist">Joseph Conrad</field>
+<field name="librettistSort">Conrad, Joseph</field>
+<field name="theater">Saint Pancras Town Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Under+Western+Eyes+John+Joubert&amp;search_field=search</field>
+</doc>
+</add>

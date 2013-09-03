@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130195</field>
+<field name="genre">Operas</field>
+<field name="title">The Rake's Progress</field>
+<field name="titleSort">Rake's Progress</field>
+<field name="composer">Igor Stravinsky</field>
+<field name="composerSort">Stravinsky, Igor</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Wystan Hugh Auden</field>
+<field name="librettistSort">Auden, Wystan Hugh</field>
+<field name="librettist">Chester Kallman</field>
+<field name="librettistSort">Kallman, Chester</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rake's+Progress+Igor+Stravinsky&amp;search_field=search</field>
+</doc>
+</add>

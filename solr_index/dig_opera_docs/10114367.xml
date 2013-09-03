@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114367</field>
+<field name="genre">Operas</field>
+<field name="title">La vie joyeuse</field>
+<field name="titleSort">vie joyeuse</field>
+<field name="composer">Henri Hirschmann</field>
+<field name="composerSort">Hirschmann, Henri</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Antony Mars</field>
+<field name="librettistSort">Mars, Antony</field>
+<field name="librettist">Albert Barré</field>
+<field name="librettistSort">Barré, Albert</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vie+joyeuse+Henri+Hirschmann&amp;search_field=search</field>
+</doc>
+</add>

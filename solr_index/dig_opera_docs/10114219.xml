@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114219</field>
+<field name="genre">Operas</field>
+<field name="title">Mirjam (Das Maifest)</field>
+<field name="titleSort">Mirjam (Das Maifest)</field>
+<field name="composer">Richard Heuberger</field>
+<field name="composerSort">Heuberger, Richard</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Ludwig Ganghofer</field>
+<field name="librettistSort">Ganghofer, Ludwig</field>
+<field name="theater">Hofoper</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mirjam+Das+Maifest+Richard+Heuberger&amp;search_field=search</field>
+</doc>
+</add>

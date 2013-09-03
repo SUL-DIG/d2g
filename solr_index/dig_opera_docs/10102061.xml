@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102061</field>
+<field name="genre">Operas</field>
+<field name="title">Nell</field>
+<field name="titleSort">Nell</field>
+<field name="composer">Alison Bauld</field>
+<field name="composerSort">Bauld, Alison</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Alison Bauld</field>
+<field name="librettistSort">Bauld, Alison</field>
+<field name="theater">Donmar Warehouse</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nell+Alison+Bauld&amp;search_field=search</field>
+</doc>
+</add>

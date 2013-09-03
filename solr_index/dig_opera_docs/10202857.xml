@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202857</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Mosè liberatore</field>
+		<field name="titleSort">Mosè liberatore</field>
+		<field name="year">1801</field>
+		<field name="month">August</field>
+		<field name="day">17</field>
+		<field name="date">August 17, 1801</field>
+		<field name="composer">Vincenzo Tobia Nicola Bellini</field>
+		<field name="composerSort">Bellini, Vincenzo Tobia Nicola</field>
+		<field name="librettist">Giovanni Sardo</field>
+		<field name="librettistSort">Sardo, Giovanni</field>
+		
+		
+		<field name="city">Catania</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Moses leads the Israelites out of Egypt</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mosè+liberatore+Vincenzo+Tobia+Nicola+Bellini&amp;search_field=search</field>
+	</doc></add>

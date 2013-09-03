@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200789</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Daniele nel lago dei leoni</field>
+		<field name="titleSort">Daniele nel lago dei leoni</field>
+		
+		
+		
+		
+		<field name="composer">Saverio Sellecchia</field>
+		<field name="composerSort">Sellecchia, Saverio</field>
+		<field name="librettist">Domenico Ravizza</field>
+		<field name="librettistSort">Ravizza, Domenico</field>
+		
+		
+		
+		
+		
+		<field name="subject">Daniel in the Lions' Den</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Daniele+nel+lago+dei+leoni+Saverio+Sellecchia&amp;search_field=search</field>
+	</doc></add>

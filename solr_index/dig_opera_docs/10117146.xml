@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117146</field>
+<field name="genre">Operas</field>
+<field name="title">Ladies' Voices</field>
+<field name="titleSort">Ladies' Voices</field>
+<field name="composer">Gerhard Lampersberg</field>
+<field name="composerSort">Lampersberg, Gerhard</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+
+<field name="city">Erdingen</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ladies'+Voices+Gerhard+Lampersberg&amp;search_field=search</field>
+</doc>
+</add>

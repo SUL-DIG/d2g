@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125773</field>
+<field name="genre">Operas</field>
+<field name="title">Der Taucher</field>
+<field name="titleSort">Taucher</field>
+<field name="composer">Johann Friedrich Reichardt</field>
+<field name="composerSort">Reichardt, Johann Friedrich</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Samuel Gottlieb Bürde</field>
+<field name="librettistSort">Bürde, Samuel Gottlieb</field>
+<field name="librettist">Friedrich von Schiller</field>
+<field name="librettistSort">Schiller, Friedrich von</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Taucher+Johann+Friedrich+Reichardt&amp;search_field=search</field>
+</doc>
+</add>

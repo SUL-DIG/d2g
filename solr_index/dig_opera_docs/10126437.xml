@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126437</field>
+<field name="genre">Operas</field>
+<field name="title">La sunamita</field>
+<field name="titleSort">sunamita</field>
+<field name="composer">Marcela Rodríguez</field>
+<field name="composerSort">Rodríguez, Marcela</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Carlos Pereda</field>
+<field name="librettistSort">Pereda, Carlos</field>
+<field name="librettist">Inés Arredondo</field>
+<field name="librettistSort">Arredondo, Inés</field>
+<field name="theater">Teatro de la Ciudad</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+sunamita+Marcela+Rodríguez&amp;search_field=search</field>
+</doc>
+</add>

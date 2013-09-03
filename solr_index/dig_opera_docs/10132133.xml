@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132133</field>
+<field name="genre">Operas</field>
+<field name="title">Orontea</field>
+<field name="titleSort">Orontea</field>
+<field name="composer">Filippo Vismarri</field>
+<field name="composerSort">Vismarri, Filippo</field>
+<field name="year">1660</field>
+<field name="date">1660</field>
+<field name="librettist">Giacinto Andrea Cicognini</field>
+<field name="librettistSort">Cicognini, Giacinto Andrea</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orontea+Filippo+Vismarri&amp;search_field=search</field>
+</doc>
+</add>

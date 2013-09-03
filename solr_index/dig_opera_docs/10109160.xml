@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109160</field>
+<field name="genre">Operas</field>
+<field name="title">La caravana del Cairo</field>
+<field name="titleSort">caravana del Cairo</field>
+<field name="composer">Paolo Fabrizi</field>
+<field name="composerSort">Fabrizi, Paolo</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Giuseppe Checcherini</field>
+<field name="librettistSort">Checcherini, Giuseppe</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caravana+del+Cairo+Paolo+Fabrizi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123520</field>
+<field name="genre">Operas</field>
+<field name="title">Ser Marcantonio</field>
+<field name="titleSort">Ser Marcantonio</field>
+<field name="composer">Stefano Pavesi</field>
+<field name="composerSort">Pavesi, Stefano</field>
+<field name="year">1810</field>
+<field name="date">1810</field>
+<field name="librettist">Angelo Anelli</field>
+<field name="librettistSort">Anelli, Angelo</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ser+Marcantonio+Stefano+Pavesi&amp;search_field=search</field>
+</doc>
+</add>

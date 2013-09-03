@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123663</field>
+<field name="genre">Operas</field>
+<field name="title">Ladies Aid</field>
+<field name="titleSort">Ladies Aid</field>
+<field name="composer">Arthur A. Penn</field>
+<field name="composerSort">Penn, Arthur A.</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Arthur A. Penn</field>
+<field name="librettistSort">Penn, Arthur A.</field>
+<field name="theater">Children's Opera</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ladies+Aid+Arthur+A.+Penn&amp;search_field=search</field>
+</doc>
+</add>

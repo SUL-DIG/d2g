@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106056</field>
+<field name="genre">Operas</field>
+<field name="title">La promise</field>
+<field name="titleSort">promise</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+promise+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

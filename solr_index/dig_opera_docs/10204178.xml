@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204178</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Saul und David</field>
+		<field name="titleSort">Saul und David</field>
+		<field name="year">1840</field>
+		<field name="month">December</field>
+		<field name="day">8</field>
+		<field name="date">December 8, 1840</field>
+		<field name="composer">Ignaz Assmayr</field>
+		<field name="composerSort">Assmayr, Ignaz</field>
+		<field name="librettist">Christoph Kuffner</field>
+		<field name="librettistSort">Kuffner, Christoph</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David and Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Saul+und+David+Ignaz+Assmayr&amp;search_field=search</field>
+	</doc></add>

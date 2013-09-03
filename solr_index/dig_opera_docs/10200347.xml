@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200347</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Battista</field>
+		<field name="titleSort">Battista</field>
+		<field name="year">1727</field>
+		<field name="month">March</field>
+		<field name="day">27</field>
+		<field name="date">March 27, 1727</field>
+		<field name="composer">Antonio Caldara</field>
+		<field name="composerSort">Caldara, Antonio</field>
+		<field name="librettist">Apostolo Zeno</field>
+		<field name="librettistSort">Zeno, Apostolo</field>
+		
+		<field name="theater">Hofburgkapelle</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Saint John the Baptist</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">June 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Battista+Antonio+Caldara&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121543</field>
+<field name="genre">Operas</field>
+<field name="title">Aux trois Parques</field>
+<field name="titleSort">Aux trois Parques</field>
+<field name="composer">Marcellus Müller</field>
+<field name="composerSort">Müller, Marcellus</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Jules Ruelle</field>
+<field name="librettistSort">Ruelle, Jules</field>
+<field name="theater">Théâtre du Casino</field>
+<field name="city">Royan</field>
+<field name="region">Charente-Maritime</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aux+trois+Parques+Marcellus+Müller&amp;search_field=search</field>
+</doc>
+</add>

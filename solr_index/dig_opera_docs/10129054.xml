@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129054</field>
+<field name="genre">Operas</field>
+<field name="title">Shaman</field>
+<field name="titleSort">Shaman</field>
+<field name="composer">Alice Shields</field>
+<field name="composerSort">Shields, Alice</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Alice Shields</field>
+<field name="librettistSort">Shields, Alice</field>
+<field name="librettist">Edward Barrett</field>
+<field name="librettistSort">Barrington, Rutland</field>
+<field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Shaman+Alice+Shields&amp;search_field=search</field>
+</doc>
+</add>

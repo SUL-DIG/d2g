@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121893</field>
+<field name="genre">Operas</field>
+<field name="title">A mola real ?</field>
+<field name="titleSort">mola real ?</field>
+<field name="composer">Tomás del Negro</field>
+<field name="composerSort">Negro, Tomás del</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">João de Freitas Branco (1)</field>
+<field name="librettistSort">Branco (1), João de Freitas</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+mola+real+?+Tomás+del+Negro&amp;search_field=search</field>
+</doc>
+</add>

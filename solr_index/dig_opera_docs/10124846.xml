@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124846</field>
+<field name="genre">Operas</field>
+<field name="title">La festa d'Imeneo</field>
+<field name="titleSort">festa d'Imeneo</field>
+<field name="composer">Nicola Porpora</field>
+<field name="composerSort">Porpora, Nicola</field>
+<field name="year">1736</field>
+<field name="date">1736</field>
+<field name="librettist">Paolo Antonio Rolli</field>
+<field name="librettistSort">Rolli, Paolo Antonio</field>
+<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+festa+d'Imeneo+Nicola+Porpora&amp;search_field=search</field>
+</doc>
+</add>

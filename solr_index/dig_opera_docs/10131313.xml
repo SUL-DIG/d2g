@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131313</field>
+<field name="genre">Operas</field>
+<field name="title">C'est pour deux heures</field>
+<field name="titleSort">est pour deux heures</field>
+<field name="composer">Émile Trépard</field>
+<field name="composerSort">Trépard, Émile</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Georges Maurens</field>
+<field name="librettistSort">Maurens, Georges</field>
+<field name="theater">Salle Duprez</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=C'est+pour+deux+heures+Émile+Trépard&amp;search_field=search</field>
+</doc>
+</add>

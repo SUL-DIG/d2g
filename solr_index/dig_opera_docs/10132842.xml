@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132842</field>
+<field name="genre">Operas</field>
+<field name="title">Der Dorfbarbier</field>
+<field name="titleSort">Dorfbarbier</field>
+<field name="composer">Johann Georg Wernhammer</field>
+<field name="composerSort">Wernhammer, Johann Georg</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">[Christian Lebrecht Heyne] Anton Wall</field>
+<field name="librettistSort">Wall, Anton [Christian Lebrecht Heyne]</field>
+
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Dorfbarbier+Johann+Georg+Wernhammer&amp;search_field=search</field>
+</doc>
+</add>

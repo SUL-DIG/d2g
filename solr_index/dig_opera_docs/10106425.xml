@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106425</field>
+<field name="genre">Operas</field>
+<field name="title">"Muza Hayrredin, die letzte Maurenkönigin</field>
+<field name="titleSort">"Muza Hayrredin, die letzte Maurenkönigin"</field>
+<field name="composer">August Conradi</field>
+<field name="composerSort">Conradi, August</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Gustave Bouillon</field>
+<field name="librettistSort">Bouillon, Gustave</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Muza+Hayrredin,+die+letzte+Maurenkönigin+August+Conradi&amp;search_field=search</field>
+</doc>
+</add>

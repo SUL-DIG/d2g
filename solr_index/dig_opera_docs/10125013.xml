@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125013</field>
+<field name="genre">Operas</field>
+<field name="title">Miss Cravache</field>
+<field name="titleSort">Miss Cravache</field>
+<field name="composer">Léo Pouget</field>
+<field name="composerSort">Pouget, Léo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Charles Samson</field>
+<field name="librettistSort">Samson, Charles</field>
+<field name="librettist">Georges Maurens</field>
+<field name="librettistSort">Maurens, Georges</field>
+<field name="theater">Théâtre des Variétés-Casino</field>
+<field name="city">Marseille</field>
+<field name="region">Bouches-du-Rhône</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miss+Cravache+Léo+Pouget&amp;search_field=search</field>
+</doc>
+</add>

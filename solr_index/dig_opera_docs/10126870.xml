@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126870</field>
+<field name="genre">Operas</field>
+<field name="title">Die Entführung in duplo</field>
+<field name="titleSort">Entführung in duplo</field>
+<field name="composer">Heinrich Rötsch</field>
+<field name="composerSort">Rötsch, Heinrich</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">[Adele Beckmann] A. Heinrich</field>
+<field name="librettistSort">Heinrich, A. [Adele Beckmann]</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Entführung+in+duplo+Heinrich+Rötsch&amp;search_field=search</field>
+</doc>
+</add>

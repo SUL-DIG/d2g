@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203012</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Nunc licet</field>
+		<field name="titleSort">Nunc licet</field>
+		<field name="year">1930</field>
+		
+		
+		<field name="date">1930</field>
+		<field name="composer">Alfred Vale</field>
+		<field name="composerSort">Vale, Alfred</field>
+		<field name="librettist">Emanuel Swedenborg</field>
+		<field name="librettistSort">Swedenborg, Emanuel</field>
+		
+		
+		
+		
+		
+		<field name="subject">Emanuel Swedenborg</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nunc+licet+Alfred+Vale&amp;search_field=search</field>
+	</doc></add>

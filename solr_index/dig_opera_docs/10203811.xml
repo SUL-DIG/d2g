@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203811</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Samuel</field>
+		<field name="titleSort">Samuel</field>
+		<field name="year">1884</field>
+		
+		
+		<field name="date">1884</field>
+		<field name="composer">Frank Bates</field>
+		<field name="composerSort">Bates, Frank</field>
+		
+		
+		
+		<field name="city">Dublin</field>
+		<field name="region">Leinster</field>
+		<field name="country">Ireland</field>
+		<field name="subject">Samuel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samuel+Frank+Bates&amp;search_field=search</field>
+	</doc></add>

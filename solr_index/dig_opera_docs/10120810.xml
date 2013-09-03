@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120810</field>
+<field name="genre">Operas</field>
+<field name="title">Margarita</field>
+<field name="titleSort">Margarita</field>
+<field name="composer">Clito Moderati</field>
+<field name="composerSort">Moderati, Clito</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Eugenio de Olavarría y Huarte</field>
+<field name="librettistSort">Olavarría y Huarte, Eugenio de</field>
+<field name="theater">Teatro de la Zarzuela</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margarita+Clito+Moderati&amp;search_field=search</field>
+</doc>
+</add>

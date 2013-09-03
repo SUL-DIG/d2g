@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107909</field>
+<field name="genre">Operas</field>
+<field name="title">La maschera</field>
+<field name="titleSort">maschera</field>
+<field name="composer">Cesare Dominicetti</field>
+<field name="composerSort">Dominicetti, Cesare</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+maschera+Cesare+Dominicetti&amp;search_field=search</field>
+</doc>
+</add>

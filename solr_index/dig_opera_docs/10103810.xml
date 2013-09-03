@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103810</field>
+<field name="genre">Operas</field>
+<field name="title">Ondina</field>
+<field name="titleSort">Ondina</field>
+<field name="composer">Angelo Bottagisio</field>
+<field name="composerSort">Bottagisio, Angelo</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Ugo Capelli</field>
+<field name="librettistSort">Capelli, Ugo</field>
+<field name="theater">Teatro Manzoni</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ondina+Angelo+Bottagisio&amp;search_field=search</field>
+</doc>
+</add>

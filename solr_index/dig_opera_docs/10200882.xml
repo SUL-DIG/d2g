@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200882</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Davide trionfante</field>
+		<field name="titleSort">Davide trionfante</field>
+		<field name="year">1700</field>
+		
+		
+		<field name="date">1700</field>
+		<field name="composer">Ippolito Ghessi</field>
+		<field name="composerSort">Ghessi, Ippolito</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">David defeats the Philistines</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Davide+trionfante+Ippolito+Ghessi&amp;search_field=search</field>
+	</doc></add>

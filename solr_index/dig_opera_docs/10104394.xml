@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104394</field>
+<field name="genre">Operas</field>
+<field name="title">Una domenica</field>
+<field name="titleSort">domenica</field>
+<field name="composer">Mario Bugamelli</field>
+<field name="composerSort">Bugamelli, Mario</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Giulio Viozzi</field>
+<field name="librettistSort">Viozzi, Giulio</field>
+<field name="theater">Teatro Comunale Giuseppe Verdi</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+domenica+Mario+Bugamelli&amp;search_field=search</field>
+</doc>
+</add>

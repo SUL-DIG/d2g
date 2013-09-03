@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121525</field>
+<field name="genre">Operas</field>
+<field name="title">"Oleandro, oder Der Sieg der Liebe</field>
+<field name="titleSort">"Oleandro, oder Der Sieg der Liebe"</field>
+<field name="composer">Christian Gottlob Müller</field>
+<field name="composerSort">Müller, Christian Gottlob</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="city">Altenburg</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oleandro,+oder+Der+Sieg+der+Liebe+Christian+Gottlob+Müller&amp;search_field=search</field>
+</doc>
+</add>

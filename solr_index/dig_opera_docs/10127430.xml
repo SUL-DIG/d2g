@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127430</field>
+<field name="genre">Operas</field>
+<field name="title">Les Danaïdes</field>
+<field name="titleSort">Danaïdes</field>
+<field name="composer">Antonio Salieri</field>
+<field name="composerSort">Salieri, Antonio</field>
+<field name="year">1784</field>
+<field name="date">1784</field>
+<field name="librettist">Marie-François-Louis Gand Leblanc du Roullet</field>
+<field name="librettistSort">Roullet, Marie-François-Louis Gand Leblanc du</field>
+<field name="librettist">Louis Théodore de Tschudi</field>
+<field name="librettistSort">Tschudi, Louis Théodore de</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+Danaïdes+Antonio+Salieri&amp;search_field=search</field>
+</doc>
+</add>

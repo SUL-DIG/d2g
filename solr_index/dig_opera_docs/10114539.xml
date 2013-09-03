@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114539</field>
+<field name="genre">Operas</field>
+<field name="title">1999</field>
+<field name="titleSort">1999</field>
+<field name="composer">Eduard Holst</field>
+<field name="composerSort">Holst, Eduard</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Herman Lee Ensign</field>
+<field name="librettistSort">Ensign, Herman Lee</field>
+<field name="theater">Casino Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=1999+Eduard+Holst&amp;search_field=search</field>
+</doc>
+</add>

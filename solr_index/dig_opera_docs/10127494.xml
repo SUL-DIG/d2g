@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127494</field>
+<field name="genre">Operas</field>
+<field name="title">Richard III</field>
+<field name="titleSort">Richard III</field>
+<field name="composer">Gaston Salvayre</field>
+<field name="composerSort">Salvayre, Gaston</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Émile Raymond Blavet</field>
+<field name="librettistSort">Blavet, Émile Raymond</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Richard+III+Gaston+Salvayre&amp;search_field=search</field>
+</doc>
+</add>

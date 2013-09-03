@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128094</field>
+<field name="genre">Operas</field>
+<field name="title">Die Antwort auf die Frage</field>
+<field name="titleSort">Antwort auf die Frage</field>
+<field name="composer">Benedikt Schack</field>
+<field name="composerSort">Schack, Benedikt</field>
+<field name="year">1792</field>
+<field name="date">1792</field><field name="theater">Landstrasser Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Antwort+auf+die+Frage+Benedikt+Schack&amp;search_field=search</field>
+</doc>
+</add>

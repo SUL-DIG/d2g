@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104190</field>
+<field name="genre">Operas</field>
+<field name="title">La prima notte</field>
+<field name="titleSort">prima notte</field>
+<field name="composer">Renato Brogi</field>
+<field name="composerSort">Brogi, Renato</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Arturo Franci</field>
+<field name="librettistSort">Franci, Arturo</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prima+notte+Renato+Brogi&amp;search_field=search</field>
+</doc>
+</add>

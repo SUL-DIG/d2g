@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131603</field>
+<field name="genre">Operas</field>
+<field name="title">Le confident heureux</field>
+<field name="titleSort">confident heureux</field>
+<field name="composer">Jean-Joseph Vadé</field>
+<field name="composerSort">Vadé, Jean-Joseph</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Jean-Joseph Vadé</field>
+<field name="librettistSort">Vadé, Jean-Joseph</field>
+<field name="theater">Théâtre de la Foire Saint-Laurent</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+confident+heureux+Jean-Joseph+Vadé&amp;search_field=search</field>
+</doc>
+</add>

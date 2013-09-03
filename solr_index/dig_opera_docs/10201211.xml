@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201211</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther</field>
+		<field name="titleSort">Esther</field>
+		<field name="year">1885</field>
+		
+		
+		<field name="date">1885</field>
+		<field name="composer">Harvey Coy</field>
+		<field name="composerSort">Coy, Harvey</field>
+		
+		
+		
+		<field name="city">Oxford</field>
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther+Harvey+Coy&amp;search_field=search</field>
+	</doc></add>

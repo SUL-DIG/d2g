@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113435</field>
+<field name="genre">Operas</field>
+<field name="title">Voëgge di Chôfontaine</field>
+<field name="titleSort">Voëgge di Chôfontaine</field>
+<field name="composer">Jean-Noël Hamal</field>
+<field name="composerSort">Hamal, Jean-Noël</field>
+<field name="year">1757</field>
+<field name="date">1757</field>
+<field name="librettist">Simon Joseph de Harlez</field>
+<field name="librettistSort">Harlez, Simon Joseph de</field>
+<field name="librettist">Pierre Grégoire da Vivario</field>
+<field name="librettistSort">Vivario, Pierre Grégoire da</field>
+<field name="theater">Hôtel de Ville</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voëgge+di+Chôfontaine+Jean-Noël+Hamal&amp;search_field=search</field>
+</doc>
+</add>

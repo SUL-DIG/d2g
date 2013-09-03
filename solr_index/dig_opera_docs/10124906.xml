@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124906</field>
+<field name="genre">Operas</field>
+<field name="title">Le connétable de Clisson</field>
+<field name="titleSort">connétable de Clisson</field>
+<field name="composer">Bernardo Porta</field>
+<field name="composerSort">Porta, Bernardo</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">Étienne Aignan</field>
+<field name="librettistSort">Aignan, Étienne</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+connétable+de+Clisson+Bernardo+Porta&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128270</field>
+<field name="genre">Operas</field>
+<field name="title">Prinz Heinrich und Ilse</field>
+<field name="titleSort">Prinz Heinrich und Ilse</field>
+<field name="composer">Hans Schläger</field>
+<field name="composerSort">Schläger, Hans</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Otto Roquette</field>
+<field name="librettistSort">Roquette, Otto</field>
+<field name="librettist">Ludwig Schlager</field>
+<field name="librettistSort">Schlager, Ludwig</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinz+Heinrich+und+Ilse+Hans+Schläger&amp;search_field=search</field>
+</doc>
+</add>

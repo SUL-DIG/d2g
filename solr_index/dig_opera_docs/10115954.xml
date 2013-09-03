@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115954</field>
+<field name="genre">Operas</field>
+<field name="title">Frol Skobeyev</field>
+<field name="titleSort">Frol Skobeyev</field>
+<field name="composer">Tikhon Nicolayevich Khrennikov</field>
+<field name="composerSort">Khrennikov, Tikhon Nicolayevich</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Sergey Aleksandrovich Tsenin</field>
+<field name="librettistSort">Tsenin, Sergey Aleksandrovich</field>
+<field name="librettist">Dmitry Vasil'yevich Averkiyev</field>
+<field name="librettistSort">Averkiyev, Dmitry Vasil'yevich</field>
+<field name="theater">Muzïkal'nïy Teatr imeni Stanislavskogo i Nemirovicha-Danchenko</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frol+Skobeyev+Tikhon+Nicolayevich+Khrennikov&amp;search_field=search</field>
+</doc>
+</add>

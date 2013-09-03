@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123205</field>
+<field name="genre">Operas</field>
+<field name="title">La Bohème</field>
+<field name="titleSort">Bohème</field>
+<field name="composer">Luigi Panseri</field>
+<field name="composerSort">Panseri, Luigi</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Bohème+Luigi+Panseri&amp;search_field=search</field>
+</doc>
+</add>

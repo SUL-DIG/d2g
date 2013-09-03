@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133160</field>
+<field name="genre">Operas</field>
+<field name="title">Alfred</field>
+<field name="titleSort">Alfred</field>
+<field name="composer">Josef Wolfram</field>
+<field name="composerSort">Wolfram, Josef</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alfred+Josef+Wolfram&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119725</field>
+<field name="genre">Operas</field>
+<field name="title">Le chien d'Alcibiade</field>
+<field name="titleSort">chien d'Alcibiade</field>
+<field name="composer">Édouard Mathé</field>
+<field name="composerSort">Mathé, Édouard</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Lucien Boyer</field>
+<field name="librettistSort">Boyer, Lucien</field>
+<field name="librettist">André Royer</field>
+<field name="librettistSort">Royer, André</field>
+<field name="theater">Tréteau de Tabarin</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chien+d'Alcibiade+Édouard+Mathé&amp;search_field=search</field>
+</doc>
+</add>

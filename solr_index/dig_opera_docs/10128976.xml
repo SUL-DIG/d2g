@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128976</field>
+<field name="genre">Operas</field>
+<field name="title">Das tartarische Gesetz</field>
+<field name="titleSort">tartarische Gesetz</field>
+<field name="composer">Franz Seydelmann</field>
+<field name="composerSort">Seydelmann, Franz</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Friedrich Wilhelm Gotter</field>
+<field name="librettistSort">Gotter, Friedrich Wilhelm"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+tartarische+Gesetz+Franz+Seydelmann&amp;search_field=search</field>
+</doc>
+</add>

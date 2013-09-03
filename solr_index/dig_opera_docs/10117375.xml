@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117375</field>
+<field name="genre">Operas</field>
+<field name="title">Madama Ciana (Gli artigiani arricchiti)</field>
+<field name="titleSort">Madama Ciana (Gli artigiani arricchiti)</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Giovanni Barlocci</field>
+<field name="librettistSort">Barlocci, Giovanni</field>
+<field name="theater">Teatro Pallacorda di Firenze</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madama+Ciana+Gli+artigiani+arricchiti+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

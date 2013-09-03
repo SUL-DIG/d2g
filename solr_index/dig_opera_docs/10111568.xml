@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111568</field>
+<field name="genre">Operas</field>
+<field name="title">Marja</field>
+<field name="titleSort">Marja</field>
+<field name="composer">Harry Georgi</field>
+<field name="composerSort">Georgi, Harry</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Harry Georgi</field>
+<field name="librettistSort">Georgi, Harry</field>
+<field name="librettist">Kurt Hertsch</field>
+<field name="librettistSort">Hertsch, Kurt</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Krefeld</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marja+Harry+Georgi&amp;search_field=search</field>
+</doc>
+</add>

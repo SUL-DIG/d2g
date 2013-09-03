@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202977</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Nidaros</field>
+		<field name="titleSort">Nidaros</field>
+		<field name="year">1897</field>
+		
+		
+		<field name="date">1897</field>
+		<field name="composer">Ole Olsen</field>
+		<field name="composerSort">Olsen, Ole</field>
+		<field name="librettist">Sigvald Skavlan</field>
+		<field name="librettistSort">Skavlan, Sigvald</field>
+		
+		
+		<field name="city">Trondheim</field>
+		<field name="region">Sør-Trøndelag</field>
+		<field name="country">Norway</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nidaros+Ole+Olsen&amp;search_field=search</field>
+	</doc></add>

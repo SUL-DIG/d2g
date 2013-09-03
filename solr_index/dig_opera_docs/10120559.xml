@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120559</field>
+<field name="genre">Operas</field>
+<field name="title">Aux Avant-postes</field>
+<field name="titleSort">Aux Avant-postes</field>
+<field name="composer">Joseph-Jacques Michel</field>
+<field name="composerSort">Michel, Joseph-Jacques</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Georges Ohnet</field>
+<field name="librettistSort">Ohnet, Georges</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aux+Avant-postes+Joseph-Jacques+Michel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109345</field>
+<field name="genre">Operas</field>
+<field name="title">Vidróczki</field>
+<field name="titleSort">Vidróczki</field>
+<field name="composer">Ferenc Farkas</field>
+<field name="composerSort">Farkas, Ferenc</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Erno Innocent-Vincze</field>
+<field name="librettistSort">Innocent-Vincze, Erno</field>
+<field name="theater">Hungarian Radio (Magyar Rádió)</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vidróczki+Ferenc+Farkas&amp;search_field=search</field>
+</doc>
+</add>

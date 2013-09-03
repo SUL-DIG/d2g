@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129637</field>
+<field name="genre">Operas</field>
+<field name="title">"Adelina Senese, o sia L'amore secreto</field>
+<field name="titleSort">"Adelina Senese, o sia L'amore secreto"</field>
+<field name="composer">Gasparo Spontini</field>
+<field name="composerSort">Spontini, Gasparo</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelina+Senese,+o+sia+L'amore+secreto+Gasparo+Spontini&amp;search_field=search</field>
+</doc>
+</add>

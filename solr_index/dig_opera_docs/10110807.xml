@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110807</field>
+<field name="genre">Operas</field>
+<field name="title">Annetta</field>
+<field name="titleSort">Annetta</field>
+<field name="composer">Ivo Gajani</field>
+<field name="composerSort">Gajani, Ivo</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Attilio Motta</field>
+<field name="librettistSort">Motta, Attilio</field>
+<field name="theater">Teatro Sociale</field>
+<field name="city">San Giorgio di Piano</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Annetta+Ivo+Gajani&amp;search_field=search</field>
+</doc>
+</add>

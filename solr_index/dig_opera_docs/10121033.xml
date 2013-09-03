@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121033</field>
+<field name="genre">Operas</field>
+<field name="title">Aréthuse</field>
+<field name="titleSort">Aréthuse</field>
+<field name="composer">Lucy de Montgomery</field>
+<field name="composerSort">Montgomery, Lucy de</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Lucy de Montgomery</field>
+<field name="librettistSort">Montgomery, Lucy de</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aréthuse+Lucy+de+Montgomery&amp;search_field=search</field>
+</doc>
+</add>

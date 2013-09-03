@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118697</field>
+<field name="genre">Operas</field>
+<field name="title">The Light Princess</field>
+<field name="titleSort">Light Princess</field>
+<field name="composer">Sally Lutyens</field>
+<field name="composerSort">Lutyens, Sally</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Sally Lutyens</field>
+<field name="librettistSort">Lutyens, Sally</field>
+<field name="theater">Newport Opera Festival</field>
+<field name="city">Newport</field>
+<field name="region">Rhode Island</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Light+Princess+Sally+Lutyens&amp;search_field=search</field>
+</doc>
+</add>

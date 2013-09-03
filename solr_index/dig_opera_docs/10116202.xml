@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116202</field>
+<field name="genre">Operas</field>
+<field name="title">The Shepherds</field>
+<field name="titleSort">Shepherds</field>
+<field name="composer">Frederick Koch</field>
+<field name="composerSort">Koch, Frederick</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Seymour Reiter</field>
+<field name="librettistSort">Reiter, Seymour</field>
+<field name="theater">West Shore Unitarian Church</field>
+<field name="city">Cleveland</field>
+<field name="region">Ohio</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Shepherds+Frederick+Koch&amp;search_field=search</field>
+</doc>
+</add>

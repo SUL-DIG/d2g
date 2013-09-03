@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125843</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zaubersee</field>
+<field name="titleSort">Zaubersee</field>
+<field name="composer">Johann Christian Heinrich Remde</field>
+<field name="composerSort">Remde, Johann Christian Heinrich</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Johannes Falk</field>
+<field name="librettistSort">Falk, Johannes</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zaubersee+Johann+Christian+Heinrich+Remde&amp;search_field=search</field>
+</doc>
+</add>

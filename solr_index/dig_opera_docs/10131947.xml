@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131947</field>
+<field name="genre">Operas</field>
+<field name="title">The Road to Mandalay</field>
+<field name="titleSort">Road to Mandalay</field>
+<field name="composer">Oreste Vessella</field>
+<field name="composerSort">Vessella, Oreste</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">William McKenna</field>
+<field name="librettistSort">McKenna, William</field>
+<field name="librettist">William H. Post</field>
+<field name="librettistSort">Post, William H.</field>
+<field name="theater">Park Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Road+to+Mandalay+Oreste+Vessella&amp;search_field=search</field>
+</doc>
+</add>

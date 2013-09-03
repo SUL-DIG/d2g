@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124324</field>
+<field name="genre">Operas</field>
+<field name="title">La fermière de Bolbec</field>
+<field name="titleSort">fermière de Bolbec</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Théâtre du Palais-Royal</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fermière+de+Bolbec+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

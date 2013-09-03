@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123662</field>
+<field name="genre">Operas</field>
+<field name="title">Zmierzch Peryna (The Twilight of Peryn)</field>
+<field name="titleSort">Zmierzch Peryna (The Twilight of Peryn)</field>
+<field name="composer">Zbigniew Penherski</field>
+<field name="composerSort">Penherski, Zbigniew</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Krystna Meissner</field>
+<field name="librettistSort">Meissner, Krystna</field>
+<field name="librettist">Józef Ignacy Kraszewski</field>
+<field name="librettistSort">Kraszewski, Józef Ignacy</field>
+<field name="theater">Teatr Wielki imeni S. Moniuszki</field>
+<field name="city">Poznan</field>
+<field name="region">Wielkopolskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zmierzch+Peryna+The+Twilight+of+Peryn+Zbigniew+Penherski&amp;search_field=search</field>
+</doc>
+</add>

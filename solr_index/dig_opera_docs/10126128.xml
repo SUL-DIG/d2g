@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126128</field>
+<field name="genre">Operas</field>
+<field name="title">Das Lösegeld</field>
+<field name="titleSort">Lösegeld</field>
+<field name="composer">Wolfgang Riedel</field>
+<field name="composerSort">Riedel, Wolfgang</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Wolfgang Riedel</field>
+<field name="librettistSort">Riedel, Wolfgang</field>
+<field name="librettist">Peter Rosegger</field>
+<field name="librettistSort">Rosegger, Peter</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Erfurt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Lösegeld+Wolfgang+Riedel&amp;search_field=search</field>
+</doc>
+</add>

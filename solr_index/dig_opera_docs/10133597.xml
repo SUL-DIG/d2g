@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133597</field>
+<field name="genre">Operas</field>
+<field name="title">La guerriera spartana</field>
+<field name="titleSort">guerriera spartana</field>
+<field name="composer">Pietro Andrea Ziani</field>
+<field name="composerSort">Ziani, Pietro Andrea</field>
+<field name="year">1654</field>
+<field name="date">1654</field>
+<field name="librettist">Giacomo Castoreo</field>
+<field name="librettistSort">Castoreo, Giacomo</field>
+<field name="theater">Teatro Sant'Apollinare</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guerriera+spartana+Pietro+Andrea+Ziani&amp;search_field=search</field>
+</doc>
+</add>

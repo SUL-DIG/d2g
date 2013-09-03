@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118499</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro in Babilonia</field>
+<field name="titleSort">Ciro in Babilonia</field>
+<field name="composer">Antonio Lotti</field>
+<field name="composerSort">Lotti, Antonio</field>
+<field name="year">1716</field>
+<field name="date">1716</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Teatro delle Commedie</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+in+Babilonia+Antonio+Lotti&amp;search_field=search</field>
+</doc>
+</add>

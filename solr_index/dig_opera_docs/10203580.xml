@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203580</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der reiche Tag</field>
+		<field name="titleSort">reiche Tag</field>
+		<field name="year">1939</field>
+		
+		
+		<field name="date">1939</field>
+		<field name="composer">Paul Hoeffer</field>
+		<field name="composerSort">Hoeffer, Paul</field>
+		<field name="librettist">Paul Hoeffer</field>
+		<field name="librettistSort">Hoeffer, Paul</field>
+		
+		<field name="theater">Choral Festival</field>
+		<field name="city">Graz</field>
+		<field name="region">Steiermark</field>
+		<field name="country">Austria</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+reiche+Tag+Paul+Hoeffer&amp;search_field=search</field>
+	</doc></add>

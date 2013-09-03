@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125840</field>
+<field name="genre">Operas</field>
+<field name="title">Die Apotheke</field>
+<field name="titleSort">Apotheke</field>
+<field name="composer">Johann Carl Friedrich Rellstab</field>
+<field name="composerSort">Rellstab, Johann Carl Friedrich</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Johann Jacob Engel</field>
+<field name="librettistSort">Engel, Johann Jacob</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Königliches Opernhaus</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Apotheke+Johann+Carl+Friedrich+Rellstab&amp;search_field=search</field>
+</doc>
+</add>

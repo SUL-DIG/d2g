@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203436</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Poenitentia victrix, seu Bersabea</field>
+		<field name="titleSort">Poenitentia victrix, seu Bersabea</field>
+		<field name="year">1700</field>
+		
+		
+		<field name="date">1700</field>
+		<field name="composer">Carlo Beccadelli</field>
+		<field name="composerSort">Beccadelli, Carlo</field>
+		
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">David Penitent</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Poenitentia+victrix,+seu+Bersabea+Carlo+Beccadelli&amp;search_field=search</field>
+	</doc></add>

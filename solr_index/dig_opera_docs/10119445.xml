@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119445</field>
+<field name="genre">Operas</field>
+<field name="title">The Concert</field>
+<field name="titleSort">Concert</field>
+<field name="composer">Lucille Crews Marsh</field>
+<field name="composerSort">Marsh, Lucille Crews</field>
+<field name="year">1958</field>
+<field name="date">1958</field><field name="theater">Redlands University</field>
+<field name="city">Redlands</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Concert+Lucille+Crews+Marsh&amp;search_field=search</field>
+</doc>
+</add>

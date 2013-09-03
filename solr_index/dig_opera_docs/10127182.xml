@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127182</field>
+<field name="genre">Operas</field>
+<field name="title">Velho (The Wizard)</field>
+<field name="titleSort">Velho (The Wizard)</field>
+<field name="composer">Ilpo Saastamoinen</field>
+<field name="composerSort">Saastamoinen, Ilpo</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Kalervo Uuttu</field>
+<field name="librettistSort">Uuttu, Kalervo</field>
+
+<field name="city">Äkäslompolo</field>
+<field name="region">Lapin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Velho+The+Wizard+Ilpo+Saastamoinen&amp;search_field=search</field>
+</doc>
+</add>

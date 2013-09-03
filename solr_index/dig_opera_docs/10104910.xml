@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104910</field>
+<field name="genre">Operas</field>
+<field name="title">La stella dell'aviatore</field>
+<field name="titleSort">stella dell'aviatore</field>
+<field name="composer">Gaetano Capozzi</field>
+<field name="composerSort">Capozzi, Gaetano</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Giulio Ferruzzi</field>
+<field name="librettistSort">Ferruzzi, Giulio</field>
+<field name="theater">Circolo degli Impiegati</field>
+<field name="city">Foggia</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+stella+dell'aviatore+Gaetano+Capozzi&amp;search_field=search</field>
+</doc>
+</add>

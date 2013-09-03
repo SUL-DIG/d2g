@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203614</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Rex regum in veneti maris regia a regibus adoratus</field>
+		<field name="titleSort">Rex regum in veneti maris regia a regibus adoratus</field>
+		<field name="year">1716</field>
+		
+		
+		<field name="date">1716</field>
+		<field name="composer">Carlo Francesco Pollarolo</field>
+		<field name="composerSort">Pollarolo, Carlo Francesco</field>
+		<field name="librettist">Giacomo Cassetti</field>
+		<field name="librettistSort">Cassetti, Giacomo</field>
+		
+		<field name="theater">Ospedale degl'Incurabili</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Christ the King</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rex+regum+in+veneti+maris+regia+a+regibus+adoratus+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+	</doc></add>

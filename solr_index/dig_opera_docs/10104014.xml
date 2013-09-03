@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104014</field>
+<field name="genre">Operas</field>
+<field name="title">No Neutral Ground</field>
+<field name="titleSort">No Neutral Ground</field>
+<field name="composer">William Brandt</field>
+<field name="composerSort">Brandt, William</field>
+<field name="year">1961</field>
+<field name="date">1961</field><field name="theater">Washington State University</field>
+<field name="city">Pullman</field>
+<field name="region">Washington</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=No+Neutral+Ground+William+Brandt&amp;search_field=search</field>
+</doc>
+</add>

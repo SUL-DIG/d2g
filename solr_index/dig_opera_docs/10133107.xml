@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133107</field>
+<field name="genre">Operas</field>
+<field name="title">Der Papagei</field>
+<field name="titleSort">Papagei</field>
+<field name="composer">Ernst Wilhelm Wolf</field>
+<field name="composerSort">Wolf, Ernst Wilhelm</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Papagei+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
+</doc>
+</add>

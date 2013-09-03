@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111099</field>
+<field name="genre">Operas</field>
+<field name="title">Quanti cani attorno ad un osso</field>
+<field name="titleSort">Quanti cani attorno ad un osso</field>
+<field name="composer">Giuseppe Gargano</field>
+<field name="composerSort">Gargano, Giuseppe</field>
+<field name="year">1846</field>
+<field name="date">1846</field><field name="theater">Teatro Mezzocannone</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quanti+cani+attorno+ad+un+osso+Giuseppe+Gargano&amp;search_field=search</field>
+</doc>
+</add>

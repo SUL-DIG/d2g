@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110364</field>
+<field name="genre">Operas</field>
+<field name="title">Namiko-San</field>
+<field name="titleSort">Namiko-San</field>
+<field name="composer">Aldo Franchetti</field>
+<field name="composerSort">Franchetti, Aldo</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Leo Duran</field>
+<field name="librettistSort">Duran, Leo</field>
+<field name="theater">Auditorium Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Namiko-San+Aldo+Franchetti&amp;search_field=search</field>
+</doc>
+</add>

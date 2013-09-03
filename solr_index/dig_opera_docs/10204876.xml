@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204876</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die von dem stoltzen Holoferne bis zum Todt gebreste...Stadt Bethulia</field>
+		<field name="titleSort">von dem stoltzen Holoferne bis zum Todt gebreste...Stadt Bethulia</field>
+		<field name="year">1742</field>
+		
+		
+		<field name="date">1742</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+von+dem+stoltzen+Holoferne+bis+zum+Todt+gebreste...Stadt+Bethulia+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

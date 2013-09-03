@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123414</field>
+<field name="genre">Operas</field>
+<field name="title">Der wiedererkannte Josef</field>
+<field name="titleSort">wiedererkannte Josef</field>
+<field name="composer">Georg von Pasterwitz</field>
+<field name="composerSort">Pasterwitz, Georg von</field>
+<field name="year">1777</field>
+<field name="date">1777</field><field name="theater">Stifttheater</field>
+<field name="city">Kremsmünster</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+wiedererkannte+Josef+Georg+von+Pasterwitz&amp;search_field=search</field>
+</doc>
+</add>

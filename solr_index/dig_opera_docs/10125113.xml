@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125113</field>
+<field name="genre">Operas</field>
+<field name="title">Die Putzmacherin</field>
+<field name="titleSort">Putzmacherin</field>
+<field name="composer">Friedrich Preu</field>
+<field name="composerSort">Preu, Friedrich</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Johann Wilhelm August Schöpfel</field>
+<field name="librettistSort">Schöpfel, Johann Wilhelm August</field>
+<field name="theater">Markgräfliches Opernhaus</field>
+<field name="city">Bayreuth</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Putzmacherin+Friedrich+Preu&amp;search_field=search</field>
+</doc>
+</add>

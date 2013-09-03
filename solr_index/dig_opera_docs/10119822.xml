@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119822</field>
+<field name="genre">Operas</field>
+<field name="title">Das Fest des Lebens</field>
+<field name="titleSort">Fest des Lebens</field>
+<field name="composer">Wilhelm Mauke</field>
+<field name="composerSort">Mauke, Wilhelm</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">[Beatrice Freiin von Vay] Beatrice Dovsky</field>
+<field name="librettistSort">Dovsky, Beatrice [Beatrice Freiin von Vay]</field>
+<field name="theater">Theater am Hitropwall</field>
+<field name="city">Dortmund</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Fest+des+Lebens+Wilhelm+Mauke&amp;search_field=search</field>
+</doc>
+</add>

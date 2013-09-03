@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126112</field>
+<field name="genre">Operas</field>
+<field name="title">Creation</field>
+<field name="titleSort">Creation</field>
+<field name="composer">Alan Ridout</field>
+<field name="composerSort">Ridout, Alan</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Peter Dickinson</field>
+<field name="librettistSort">Dickinson, Peter</field>
+<field name="theater">Ely Cathedral</field>
+<field name="city">Ely</field>
+<field name="region">Cambridgeshire</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Creation+Alan+Ridout&amp;search_field=search</field>
+</doc>
+</add>

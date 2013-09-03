@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112534</field>
+<field name="genre">Operas</field>
+<field name="title">Elisa di Montaltieri</field>
+<field name="titleSort">Elisa di Montaltieri</field>
+<field name="composer">Antonio Granara</field>
+<field name="composerSort">Granara, Antonio</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Agostino Pendola</field>
+<field name="librettistSort">Pendola, Agostino</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisa+di+Montaltieri+Antonio+Granara&amp;search_field=search</field>
+</doc>
+</add>

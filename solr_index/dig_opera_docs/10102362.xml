@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102362</field>
+<field name="genre">Operas</field>
+<field name="title">Skameneny (Turned to Stone)</field>
+<field name="titleSort">Skameneny (Turned to Stone)</field>
+<field name="composer">Juraj Benes</field>
+<field name="composerSort">Benes, Juraj</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Janko Král'</field>
+<field name="librettistSort">Král', Janko</field>
+<field name="theater">Academy of Music</field>
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skameneny+Turned+to+Stone+Juraj+Benes&amp;search_field=search</field>
+</doc>
+</add>

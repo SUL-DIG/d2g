@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114733</field>
+<field name="genre">Operas</field>
+<field name="title">Kriz' polumya (Through Flames)</field>
+<field name="titleSort">Kriz' polumya (Through Flames)</field>
+<field name="composer">Vitaly Serhiyovych Hubarenko</field>
+<field name="composerSort">Hubarenko, Vitaly Serhiyovych</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Yevgeny Kushakova</field>
+<field name="librettistSort">Kushakova, Yevgeny</field>
+<field name="librettist">Boris Dmitryevich Paliychuk</field>
+<field name="librettistSort">Paliychuk, Boris Dmitryevich</field>
+<field name="theater">Teatr Opery ta Baletu</field>
+<field name="city">Donets'k</field>
+<field name="region">Donets'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kriz'+polumya+Through+Flames+Vitaly+Serhiyovych+Hubarenko&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126312</field>
+<field name="genre">Operas</field>
+<field name="title">Alexander in Indien</field>
+<field name="titleSort">Alexander in Indien</field>
+<field name="composer">Peter Ritter</field>
+<field name="composerSort">Ritter, Peter</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Hof- und Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexander+in+Indien+Peter+Ritter&amp;search_field=search</field>
+</doc>
+</add>

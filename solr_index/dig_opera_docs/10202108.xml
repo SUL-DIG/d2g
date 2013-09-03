@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202108</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Iudith de Olopherne triumphans</field>
+		<field name="titleSort">Iudith de Olopherne triumphans</field>
+		<field name="year">1689</field>
+		<field name="month">March</field>
+		<field name="day">25</field>
+		<field name="date">March 25, 1689</field>
+		<field name="composer">Francesco Gasparini</field>
+		<field name="composerSort">Gasparini, Francesco</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Arciconfraternita del Santissimo Crocifisso</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iudith+de+Olopherne+triumphans+Francesco+Gasparini&amp;search_field=search</field>
+	</doc></add>

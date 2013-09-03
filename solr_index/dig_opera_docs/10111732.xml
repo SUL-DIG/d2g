@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111732</field>
+<field name="genre">Operas</field>
+<field name="title">Il principe ... Re</field>
+<field name="titleSort">principe ... Re</field>
+<field name="composer">Giovanni Giannetti</field>
+<field name="composerSort">Giannetti, Giovanni</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Vincenzo Fraschetti</field>
+<field name="librettistSort">Fraschetti, Vincenzo</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+...+Re+Giovanni+Giannetti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200484</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La caduta di Salomone</field>
+		<field name="titleSort">caduta di Salomone</field>
+		<field name="year">1674</field>
+		
+		
+		<field name="date">1674</field>
+		<field name="composer">Antonio Draghi</field>
+		<field name="composerSort">Draghi, Antonio</field>
+		<field name="librettist">Domenico Federici</field>
+		<field name="librettistSort">Federici, Domenico</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Solomon accused of Idolatry</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caduta+di+Salomone+Antonio+Draghi&amp;search_field=search</field>
+	</doc></add>

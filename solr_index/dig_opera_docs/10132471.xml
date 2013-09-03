@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132471</field>
+<field name="genre">Operas</field>
+<field name="title">Eddystone</field>
+<field name="titleSort">Eddystone</field>
+<field name="composer">Adolf Wallnöfer</field>
+<field name="composerSort">Wallnöfer, Adolf</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Adolf Wallnöfer</field>
+<field name="librettistSort">Wallnöfer, Adolf</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eddystone+Adolf+Wallnöfer&amp;search_field=search</field>
+</doc>
+</add>

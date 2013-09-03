@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203018</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La nuvoletta d'Elia</field>
+		<field name="titleSort">nuvoletta d'Elia</field>
+		<field name="year">1754</field>
+		
+		
+		<field name="date">1754</field>
+		<field name="composer">Bartolomeo Felici</field>
+		<field name="composerSort">Felici, Bartolomeo</field>
+		<field name="librettist">Andrea Nati</field>
+		<field name="librettistSort">Nati, Andrea</field>
+		
+		<field name="theater">Chiesa dell'Insigne Collegiata di Santa Maria di Figline</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Elijah and the Prophets of Ba'al</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+nuvoletta+d'Elia+Bartolomeo+Felici&amp;search_field=search</field>
+	</doc></add>

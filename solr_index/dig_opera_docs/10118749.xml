@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118749</field>
+<field name="genre">Operas</field>
+<field name="title">The Cross and the Crescent</field>
+<field name="titleSort">Cross and the Crescent</field>
+<field name="composer">Colin MacAlpin</field>
+<field name="composerSort">MacAlpin, Colin</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">John Davidson</field>
+<field name="librettistSort">Davidson, John</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cross+and+the+Crescent+Colin+MacAlpin&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121946</field>
+<field name="genre">Operas</field>
+<field name="title">Manoël</field>
+<field name="titleSort">Manoël</field>
+<field name="composer">Émile Nérini</field>
+<field name="composerSort">Nérini, Émile</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Gabriel Montoya</field>
+<field name="librettistSort">Montoya, Gabriel</field>
+<field name="librettist">J. Doëns de Lambert</field>
+<field name="librettistSort">Doëns de Lambert, J.</field>
+<field name="theater">Salle Cité Pigalle</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Manoël+Émile+Nérini&amp;search_field=search</field>
+</doc>
+</add>

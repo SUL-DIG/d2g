@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133602</field>
+<field name="genre">Operas</field>
+<field name="title">Marcello in Siracusa</field>
+<field name="titleSort">Marcello in Siracusa</field>
+<field name="composer">Pietro Andrea Ziani</field>
+<field name="composerSort">Ziani, Pietro Andrea</field>
+<field name="year">1673</field>
+<field name="date">1673</field>
+<field name="librettist">Giovanni Cincinelli</field>
+<field name="librettistSort">Cincinelli, Giovanni</field>
+<field name="theater">Teatro San Bartolomeo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcello+in+Siracusa+Pietro+Andrea+Ziani&amp;search_field=search</field>
+</doc>
+</add>

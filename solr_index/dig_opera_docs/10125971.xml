@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125971</field>
+<field name="genre">Operas</field>
+<field name="title">Die Prinzessin und der Schweinehirt</field>
+<field name="titleSort">Prinzessin und der Schweinehirt</field>
+<field name="composer">Hermann Reutter</field>
+<field name="composerSort">Reutter, Hermann</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Else Helmund</field>
+<field name="librettistSort">Helmund, Else</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Prinzessin+und+der+Schweinehirt+Hermann+Reutter&amp;search_field=search</field>
+</doc>
+</add>

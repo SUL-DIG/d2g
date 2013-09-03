@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132454</field>
+<field name="genre">Operas</field>
+<field name="title">The Desert Flower</field>
+<field name="titleSort">Desert Flower</field>
+<field name="composer">William Vincent Wallace</field>
+<field name="composerSort">Wallace, William Vincent</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Augustus Henry Harris</field>
+<field name="librettistSort">Harris, Augustus Henry</field>
+<field name="librettist">Thomas John Williams</field>
+<field name="librettistSort">Williams, Thomas John</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Desert+Flower+William+Vincent+Wallace&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113125</field>
+<field name="genre">Operas</field>
+<field name="title">The Prince of Coxcombs</field>
+<field name="titleSort">Prince of Coxcombs</field>
+<field name="composer">Inglis Gundry</field>
+<field name="composerSort">Gundry, Inglis</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Inglis Gundry</field>
+<field name="librettistSort">Gundry, Inglis</field>
+<field name="librettist">John Vanbrugh</field>
+<field name="librettistSort">Vanbrugh, John</field>
+<field name="theater">Morley College</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Prince+of+Coxcombs+Inglis+Gundry&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200419</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Betulia liberata</field>
+		<field name="titleSort">Betulia liberata</field>
+		<field name="year">1796</field>
+		<field name="month">May</field>
+		<field name="day">8</field>
+		<field name="date">May 8, 1796</field>
+		<field name="composer">Giuseppe Giordani</field>
+		<field name="composerSort">Giordani, Giuseppe</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Teatro della Fenice</field>
+		<field name="city">Ancona</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Betulia+liberata+Giuseppe+Giordani&amp;search_field=search</field>
+	</doc></add>

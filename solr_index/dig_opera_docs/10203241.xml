@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203241</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passione di Cristo secondo San Marco</field>
+		<field name="titleSort">passione di Cristo secondo San Marco</field>
+		<field name="year">1897</field>
+		<field name="month">December</field>
+		<field name="day">2</field>
+		<field name="date">December 2, 1897</field>
+		<field name="composer">Lorenzo Perosi</field>
+		<field name="composerSort">Perosi, Lorenzo</field>
+		
+		
+		<field name="theater">Chiesa di Santa Maria delle Grazie</field>
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passione+di+Cristo+secondo+San+Marco+Lorenzo+Perosi&amp;search_field=search</field>
+	</doc></add>

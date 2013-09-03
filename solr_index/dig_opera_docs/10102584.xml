@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102584</field>
+<field name="genre">Operas</field>
+<field name="title">La viaggiatrice fortunata</field>
+<field name="titleSort">viaggiatrice fortunata</field>
+<field name="composer">Marcello Bernardini</field>
+<field name="composerSort">Bernardini, Marcello</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+viaggiatrice+fortunata+Marcello+Bernardini&amp;search_field=search</field>
+</doc>
+</add>

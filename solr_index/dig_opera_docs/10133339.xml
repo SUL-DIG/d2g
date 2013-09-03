@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133339</field>
+<field name="genre">Operas</field>
+<field name="title">Die Welfenbraut</field>
+<field name="titleSort">Welfenbraut</field>
+<field name="composer">Alfred Zamara</field>
+<field name="composerSort">Zamara, Alfred</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="librettist">Max Tull</field>
+<field name="librettistSort">Tull, Max</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Welfenbraut+Alfred+Zamara&amp;search_field=search</field>
+</doc>
+</add>

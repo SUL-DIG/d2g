@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118895</field>
+<field name="genre">Operas</field>
+<field name="title">Khon-la-lou</field>
+<field name="titleSort">Khon-la-lou</field>
+<field name="composer">Charles Magner</field>
+<field name="composerSort">Magner, Charles</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Eugène Humbert</field>
+<field name="librettistSort">Humbert, Eugène</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khon-la-lou+Charles+Magner&amp;search_field=search</field>
+</doc>
+</add>

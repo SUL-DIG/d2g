@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117388</field>
+<field name="genre">Operas</field>
+<field name="title">I sposi incogniti</field>
+<field name="titleSort">sposi incogniti</field>
+<field name="composer">Gaetano Latilla</field>
+<field name="composerSort">Latilla, Gaetano</field>
+<field name="year">1779</field>
+<field name="date">1779</field>
+<field name="librettist">Pasquale Mililotti</field>
+<field name="librettistSort">Mililotti, Pasquale</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+sposi+incogniti+Gaetano+Latilla&amp;search_field=search</field>
+</doc>
+</add>

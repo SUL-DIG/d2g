@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114077</field>
+<field name="genre">Operas</field>
+<field name="title">La ferme et le château</field>
+<field name="titleSort">ferme et le château</field>
+<field name="composer">Henri Herdliska</field>
+<field name="composerSort">Herdliska, Henri</field>
+<field name="year">1821</field>
+<field name="date">1821</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ferme+et+le+château+Henri+Herdliska&amp;search_field=search</field>
+</doc>
+</add>

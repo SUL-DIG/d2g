@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126859</field>
+<field name="genre">Operas</field>
+<field name="title">Die 12 schlafenden Jungfrauen</field>
+<field name="titleSort">12 schlafenden Jungfrauen</field>
+<field name="composer">Philipp Roth</field>
+<field name="composerSort">Roth, Philipp</field>
+<field name="year">1823</field>
+<field name="date">1823</field>
+<field name="librettist">Christian Heinrich Spiess</field>
+<field name="librettistSort">Spiess, Christian Heinrich</field>
+
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+12+schlafenden+Jungfrauen+Philipp+Roth&amp;search_field=search</field>
+</doc>
+</add>

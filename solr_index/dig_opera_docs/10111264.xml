@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111264</field>
+<field name="genre">Operas</field>
+<field name="title">"Vert-Vert, ou Le perroquet de Nevers</field>
+<field name="titleSort">"Vert-Vert, ou Le perroquet de Nevers"</field>
+<field name="composer">Jacques-André Gaultier</field>
+<field name="composerSort">Gaultier, Jacques-André</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">François Bernard-Valville</field>
+<field name="librettistSort">Bernard-Valville, François</field>
+<field name="theater">Théâtre des Jeunes Artistes</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vert-Vert,+ou+Le+perroquet+de+Nevers+Jacques-André+Gaultier&amp;search_field=search</field>
+</doc>
+</add>

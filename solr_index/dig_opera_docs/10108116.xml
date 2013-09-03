@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108116</field>
+<field name="genre">Operas</field>
+<field name="title">Vaunavet l'empailleur</field>
+<field name="titleSort">Vaunavet l'empailleur</field>
+<field name="composer">Georges Douay</field>
+<field name="composerSort">Douay, Georges</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Adolphe Huard</field>
+<field name="librettistSort">Huard, Adolphe</field>
+<field name="librettist">[Gabriel de Lurieu] Gabriel</field>
+<field name="librettistSort">Gabriel, [Gabriel de Lurieu]</field>
+<field name="theater">Nouvelle Salle des Délassements-Comiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vaunavet+l'empailleur+Georges+Douay&amp;search_field=search</field>
+</doc>
+</add>

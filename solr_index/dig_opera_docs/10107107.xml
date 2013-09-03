@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107107</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Faschingsabenteuer</field>
+<field name="titleSort">Faschingsabenteuer</field>
+<field name="composer">Dezso D'Antalffy</field>
+<field name="composerSort">D'Antalffy, Dezso</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Faschingsabenteuer+Dezso+D'Antalffy&amp;search_field=search</field>
+</doc>
+</add>

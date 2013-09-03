@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100892</field>
+<field name="genre">Operas</field>
+<field name="title">Liebestod</field>
+<field name="titleSort">Liebestod</field>
+<field name="composer">Georges Aperghis</field>
+<field name="composerSort">Aperghis, Georges</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Marie-Noël Rio</field>
+<field name="librettistSort">Rio, Marie-Noël</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Liebestod+Georges+Aperghis&amp;search_field=search</field>
+</doc>
+</add>

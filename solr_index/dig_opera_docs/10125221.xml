@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125221</field>
+<field name="genre">Operas</field>
+<field name="title">Marco Manlio Capitolino</field>
+<field name="titleSort">Marco Manlio Capitolino</field>
+<field name="composer">Giacomo Puccini (1)</field>
+<field name="composerSort">Puccini (1), Giacomo</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Bartolomeo Baroni</field>
+<field name="librettistSort">Baroni, Bartolomeo</field>
+<field name="theater">Tasche</field>
+<field name="city">Lucca</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marco+Manlio+Capitolino+Giacomo+Puccini+-1&amp;search_field=search</field>
+</doc>
+</add>

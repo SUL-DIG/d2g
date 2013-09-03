@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121962</field>
+<field name="genre">Operas</field>
+<field name="title">Radkost (Cerno Kneznik)</field>
+<field name="titleSort">Radkost (Cerno Kneznik)</field>
+<field name="composer">Josef Nesvera</field>
+<field name="composerSort">Nesvera, Josef</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">[Bedrich Remes] B. Kaznicov</field>
+<field name="librettistSort">Kaznicov, B. [Bedrich Remes]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Radkost+Cerno+Kneznik+Josef+Nesvera&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133152</field>
+<field name="genre">Operas</field>
+<field name="title">Frau Berthas Vespergang</field>
+<field name="titleSort">Frau Berthas Vespergang</field>
+<field name="composer">Max Wolff</field>
+<field name="composerSort">Wolff, Max</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Max Wolff</field>
+<field name="librettistSort">Wolff, Max</field>
+<field name="theater">Stadttheater am Ring</field>
+<field name="city">Nuremberg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frau+Berthas+Vespergang+Max+Wolff&amp;search_field=search</field>
+</doc>
+</add>

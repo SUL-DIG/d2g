@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106406</field>
+<field name="genre">Operas</field>
+<field name="title">Edward John Eyre</field>
+<field name="titleSort">Edward John Eyre</field>
+<field name="composer">Barry Connyngham</field>
+<field name="composerSort">Connyngham, Barry</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Meredith Oakes</field>
+<field name="librettistSort">Oakes, Meredith</field>
+<field name="librettist">Edward John Eyre</field>
+<field name="librettistSort">Eyre, Edward John</field>
+<field name="theater">University of New South Wales</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Edward+John+Eyre+Barry+Connyngham&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104458</field>
+<field name="genre">Operas</field>
+<field name="title">Milenci z kiosku</field>
+<field name="titleSort">Milenci z kiosku</field>
+<field name="composer">Emil Frantisek Burian</field>
+<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Víteslav Nezval</field>
+<field name="librettistSort">Nezval, Víteslav</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Milenci+z+kiosku+Emil+Frantisek+Burian&amp;search_field=search</field>
+</doc>
+</add>

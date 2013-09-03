@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129294</field>
+<field name="genre">Operas</field>
+<field name="title">Tiriel</field>
+<field name="titleSort">Tiriel</field>
+<field name="composer">Dmitry Nikolayevich Smirnov</field>
+<field name="composerSort">Smirnov, Dmitry Nikolayevich</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Dmitry Nikolayevich Smirnov</field>
+<field name="librettistSort">Smirnov, Dmitry Nikolayevich</field>
+<field name="librettist">William Blake</field>
+<field name="librettistSort">Blake, William</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Freiburg im Breisgau</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tiriel+Dmitry+Nikolayevich+Smirnov&amp;search_field=search</field>
+</doc>
+</add>

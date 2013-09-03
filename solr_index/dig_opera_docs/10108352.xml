@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108352</field>
+<field name="genre">Operas</field>
+<field name="title">La guzla de l'Emir</field>
+<field name="titleSort">guzla de l'Emir</field>
+<field name="composer">Théodore Dubois</field>
+<field name="composerSort">Dubois, Théodore</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Théâtre de l'Athénée</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+guzla+de+l'Emir+Théodore+Dubois&amp;search_field=search</field>
+</doc>
+</add>

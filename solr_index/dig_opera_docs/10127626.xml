@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127626</field>
+<field name="genre">Operas</field>
+<field name="title">Ercole sul Tago</field>
+<field name="titleSort">Ercole sul Tago</field>
+<field name="composer">Luciano Xavier Santos</field>
+<field name="composerSort">Santos, Luciano Xavier</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">Vittorio Amadeo Cigna-Santi</field>
+<field name="librettistSort">Cigna-Santi, Vittorio Amadeo</field>
+<field name="theater">Palácio de Queluz</field>
+<field name="city">Queluz</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ercole+sul+Tago+Luciano+Xavier+Santos&amp;search_field=search</field>
+</doc>
+</add>

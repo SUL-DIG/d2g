@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103971</field>
+<field name="genre">Operas</field>
+<field name="title">Palavra de rei</field>
+<field name="titleSort">Palavra de rei</field>
+<field name="composer">Carlos Augusto Pereira Bramão</field>
+<field name="composerSort">Bramão, Carlos Augusto Pereira</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Augusto César de Lacerda</field>
+<field name="librettistSort">Lacerda, Augusto César de</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Palavra+de+rei+Carlos+Augusto+Pereira+Bramão&amp;search_field=search</field>
+</doc>
+</add>

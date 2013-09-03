@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123609</field>
+<field name="genre">Operas</field>
+<field name="title">Le combat de la vierge et du diable</field>
+<field name="titleSort">combat de la vierge et du diable</field>
+<field name="composer">Willem Pelemans</field>
+<field name="composerSort">Pelemans, Willem</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Joseph Weterings</field>
+<field name="librettistSort">Weterings, Joseph"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+combat+de+la+vierge+et+du+diable+Willem+Pelemans&amp;search_field=search</field>
+</doc>
+</add>

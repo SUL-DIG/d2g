@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110200</field>
+<field name="genre">Operas</field>
+<field name="title">Chez Ramponeau</field>
+<field name="titleSort">Chez Ramponeau</field>
+<field name="composer">Émile Fontenelle</field>
+<field name="composerSort">Fontenelle, Émile</field>
+
+
+<field name="librettist">Georges Delesalle</field>
+<field name="librettistSort">Delesalle, Georges"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chez+Ramponeau+Émile+Fontenelle&amp;search_field=search</field>
+</doc>
+</add>

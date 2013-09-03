@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123624</field>
+<field name="genre">Operas</field>
+<field name="title">La cruche</field>
+<field name="titleSort">cruche</field>
+<field name="composer">Alphonse Pellet</field>
+<field name="composerSort">Pellet, Alphonse</field>
+<field name="year">1884</field>
+<field name="date">1884</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Nоmes</field>
+<field name="region">Gard</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cruche+Alphonse+Pellet&amp;search_field=search</field>
+</doc>
+</add>

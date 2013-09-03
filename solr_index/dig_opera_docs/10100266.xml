@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100266</field>
+<field name="genre">Operas</field>
+<field name="title">"La burla fortunata, ossia I due prigionieri</field>
+<field name="titleSort">"burla fortunata, ossia I due prigionieri"</field>
+<field name="composer">Johann Kaspar Aiblinger</field>
+<field name="composerSort">Aiblinger, Johann Kaspar</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="librettist">Giulio Domenico Camagna</field>
+<field name="librettistSort">Camagna, Giulio Domenico</field>
+<field name="librettist">Benoît-Joseph Marsollier des Vivetières</field>
+<field name="librettistSort">Marsollier des Vivetières, Benoît-Joseph</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+burla+fortunata,+ossia+I+due+prigionieri+Johann+Kaspar+Aiblinger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201326</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il figliuol prodigo</field>
+		<field name="titleSort">figliuol prodigo</field>
+		<field name="year">1770</field>
+		<field name="month">August</field>
+		<field name="day">21</field>
+		<field name="date">August 21, 1770</field>
+		<field name="composer">Gaetano Parise</field>
+		<field name="composerSort">Parise, Gaetano</field>
+		<field name="librettist">Onofrio de Colaci</field>
+		<field name="librettistSort">Colaci, Onofrio de</field>
+		
+		<field name="theater">Chiesa di Detto Santo al Fiatamone</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figliuol+prodigo+Gaetano+Parise&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124535</field>
+<field name="genre">Operas</field>
+<field name="title">Bufera d'amore</field>
+<field name="titleSort">Bufera d'amore</field>
+<field name="composer">Edoardo Poggi</field>
+<field name="composerSort">Poggi, Edoardo</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Tilla Mantelli Boselli</field>
+<field name="librettistSort">Boselli, Tilla Mantelli</field>
+<field name="theater">Teatro Costanzi</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bufera+d'amore+Edoardo+Poggi&amp;search_field=search</field>
+</doc>
+</add>

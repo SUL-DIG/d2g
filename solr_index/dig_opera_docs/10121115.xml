@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121115</field>
+<field name="genre">Operas</field>
+<field name="title">The Greenfield Christmas Tree</field>
+<field name="titleSort">Greenfield Christmas Tree</field>
+<field name="composer">Douglas Moore</field>
+<field name="composerSort">Moore, Douglas</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Arnold Sundgaard</field>
+<field name="librettistSort">Sundgaard, Arnold</field>
+<field name="theater">Bushnell Auditorium</field>
+<field name="city">Hartford</field>
+<field name="region">Connecticut</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Greenfield+Christmas+Tree+Douglas+Moore&amp;search_field=search</field>
+</doc>
+</add>

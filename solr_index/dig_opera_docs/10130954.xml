@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130954</field>
+<field name="genre">Operas</field>
+<field name="title">Fjeldeventyret (The Mountain Adventure)</field>
+<field name="titleSort">Fjeldeventyret (The Mountain Adventure)</field>
+<field name="composer">Waldemar Thrane</field>
+<field name="composerSort">Thrane, Waldemar</field>
+<field name="year">1824</field>
+<field name="date">1824</field>
+<field name="librettist">Henrik Anker Bjerregaard</field>
+<field name="librettistSort">Bjerregaard, Henrik Anker</field>
+<field name="theater">Musikalske Lyceum</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fjeldeventyret+The+Mountain+Adventure+Waldemar+Thrane&amp;search_field=search</field>
+</doc>
+</add>

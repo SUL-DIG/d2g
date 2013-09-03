@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200871</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Davide e Assalonne</field>
+		<field name="titleSort">Davide e Assalonne</field>
+		<field name="year">1797</field>
+		<field name="month">September</field>
+		<field name="day">1</field>
+		<field name="date">September 1, 1797</field>
+		<field name="composer">Antonio Brunetti</field>
+		<field name="composerSort">Brunetti, Antonio</field>
+		
+		
+		
+		<field name="city">Chieti</field>
+		<field name="region">Abruzzi</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Absalom</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Davide+e+Assalonne+Antonio+Brunetti&amp;search_field=search</field>
+	</doc></add>

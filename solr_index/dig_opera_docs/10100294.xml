@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100294</field>
+<field name="genre">Operas</field>
+<field name="title">Henry Clifford</field>
+<field name="titleSort">Henry Clifford</field>
+<field name="composer">Isaac Albéniz</field>
+<field name="composerSort">Albéniz, Isaac</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Francis Burdett Money-Coutts</field>
+<field name="librettistSort">Money-Coutts, Francis Burdett</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Henry+Clifford+Isaac+Albéniz&amp;search_field=search</field>
+</doc>
+</add>

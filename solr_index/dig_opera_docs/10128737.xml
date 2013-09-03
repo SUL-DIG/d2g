@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128737</field>
+<field name="genre">Operas</field>
+<field name="title">Statira</field>
+<field name="titleSort">Statira</field>
+<field name="composer">Giuseppe Scolari</field>
+<field name="composerSort">Scolari, Giuseppe</field>
+<field name="year">1756</field>
+<field name="date">1756</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Statira+Giuseppe+Scolari&amp;search_field=search</field>
+</doc>
+</add>

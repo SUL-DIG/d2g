@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115299</field>
+<field name="genre">Operas</field>
+<field name="title">The Four-Note Opera</field>
+<field name="titleSort">Four-Note Opera</field>
+<field name="composer">Tom Johnson</field>
+<field name="composerSort">Johnson, Tom</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Tom Johnson</field>
+<field name="librettistSort">Johnson, Tom</field>
+<field name="librettist">Robert Kushner</field>
+<field name="librettistSort">Kushner, Robert</field>
+<field name="theater">The Cubiculo Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Four-Note+Opera+Tom+Johnson&amp;search_field=search</field>
+</doc>
+</add>

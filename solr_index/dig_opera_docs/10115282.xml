@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115282</field>
+<field name="genre">Operas</field>
+<field name="title">Neptun och Amphitrite</field>
+<field name="titleSort">Neptun och Amphitrite</field>
+<field name="composer">Hinrich Philip Johnsen</field>
+<field name="composerSort">Johnsen, Hinrich Philip</field>
+<field name="year">1775</field>
+<field name="date">1775</field>
+<field name="librettist">Gudmund Göran Adlerbeth</field>
+<field name="librettistSort">Adlerbeth, Gudmund Göran</field>
+<field name="theater">Bollhuset</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Neptun+och+Amphitrite+Hinrich+Philip+Johnsen&amp;search_field=search</field>
+</doc>
+</add>

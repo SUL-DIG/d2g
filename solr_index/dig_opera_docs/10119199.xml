@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119199</field>
+<field name="genre">Operas</field>
+<field name="title">Il principe felice</field>
+<field name="titleSort">principe felice</field>
+<field name="composer">Franco Mannino</field>
+<field name="composerSort">Mannino, Franco</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Maria Stella Sernas</field>
+<field name="librettistSort">Sernas, Maria Stella</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+felice+Franco+Mannino&amp;search_field=search</field>
+</doc>
+</add>

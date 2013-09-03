@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112304</field>
+<field name="genre">Operas</field>
+<field name="title">The Royal Vagabond</field>
+<field name="titleSort">Royal Vagabond</field>
+<field name="composer">Anselm Goetzl</field>
+<field name="composerSort">Goetzl, Anselm</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">George Michael Cohan</field>
+<field name="librettistSort">Cohan, George Michael</field>
+<field name="theater">Cohan and Harris Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Royal+Vagabond+Anselm+Goetzl&amp;search_field=search</field>
+</doc>
+</add>

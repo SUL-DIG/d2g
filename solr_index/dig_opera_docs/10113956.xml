@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113956</field>
+<field name="genre">Operas</field>
+<field name="title">Le bourg de Faucons</field>
+<field name="titleSort">bourg de Faucons</field>
+<field name="composer">Charles Hemleb</field>
+<field name="composerSort">Hemleb, Charles</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Louis Delisse</field>
+<field name="librettistSort">Delisse, Louis</field>
+<field name="librettist">Emanuele Dechavalliere</field>
+<field name="librettistSort">Dechavalliere, Emanuele</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Namur</field>
+<field name="region">Namur</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+bourg+de+Faucons+Charles+Hemleb&amp;search_field=search</field>
+</doc>
+</add>

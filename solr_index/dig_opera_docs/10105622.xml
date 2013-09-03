@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105622</field>
+<field name="genre">Operas</field>
+<field name="title">Clarabelle-Clarimage</field>
+<field name="titleSort">Clarabelle-Clarimage</field>
+<field name="composer">Gabriel Charpentier</field>
+<field name="composerSort">Charpentier, Gabriel</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Benoît Char</field>
+<field name="librettistSort">Char, Benoît</field>
+<field name="theater">Walter Hall</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Clarabelle-Clarimage+Gabriel+Charpentier&amp;search_field=search</field>
+</doc>
+</add>

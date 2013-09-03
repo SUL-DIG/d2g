@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114999</field>
+<field name="genre">Operas</field>
+<field name="title">"Aladin, ou La lampe merveilleuse</field>
+<field name="titleSort">"Aladin, ou La lampe merveilleuse"</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1822</field>
+<field name="date">1822</field>
+<field name="librettist">Charles-Guillaume Étienne</field>
+<field name="librettistSort">Étienne, Charles-Guillaume</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aladin,+ou+La+lampe+merveilleuse+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

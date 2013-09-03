@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121987</field>
+<field name="genre">Operas</field>
+<field name="title">"Nicolò Terzo, duca di Ferrara</field>
+<field name="titleSort">"Nicolò Terzo, duca di Ferrara"</field>
+<field name="composer">Antonio Neumann</field>
+<field name="composerSort">Neumann, Antonio</field>
+<field name="year">1833</field>
+<field name="date">1833</field>
+<field name="librettist">Giovanni Battista Savoni</field>
+<field name="librettistSort">Savoni, Giovanni Battista</field>
+<field name="theater">Teatro Filodrammatico</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nicolò+Terzo,+duca+di+Ferrara+Antonio+Neumann&amp;search_field=search</field>
+</doc>
+</add>

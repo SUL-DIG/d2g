@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114027</field>
+<field name="genre">Operas</field>
+<field name="title">La fiançée de la Clyde</field>
+<field name="titleSort">fiançée de la Clyde</field>
+<field name="composer">Gustave Hequet</field>
+<field name="composerSort">Hequet, Gustave</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Pierre-Frédéric-Adolphe Carmouche</field>
+<field name="librettistSort">Carmouche, Pierre-Frédéric-Adolphe</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiançée+de+la+Clyde+Gustave+Hequet&amp;search_field=search</field>
+</doc>
+</add>

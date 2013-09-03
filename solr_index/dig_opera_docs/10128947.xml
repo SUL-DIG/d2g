@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128947</field>
+<field name="genre">Operas</field>
+<field name="title">Une aventure sous la ligue</field>
+<field name="titleSort">aventure sous la ligue</field>
+<field name="composer">Edmond Servel</field>
+<field name="composerSort">Servel, Edmond</field>
+<field name="year">1858</field>
+<field name="date">1858</field><field name="theater">Théâtre Municipal</field>
+<field name="city">Montpellier</field>
+<field name="region">Hérault</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+aventure+sous+la+ligue+Edmond+Servel&amp;search_field=search</field>
+</doc>
+</add>

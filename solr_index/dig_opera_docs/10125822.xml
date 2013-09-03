@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125822</field>
+<field name="genre">Operas</field>
+<field name="title">Donna Maria Infantin von Spanien</field>
+<field name="titleSort">Donna Maria Infantin von Spanien</field>
+<field name="composer">Gustave Armand Henri Comte de Reiset</field>
+<field name="composerSort">Reiset, Gustave Armand Henri Comte de</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Gustave Armand Henri Comte de Reiset</field>
+<field name="librettistSort">Reiset, Gustave Armand Henri Comte de</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Donna+Maria+Infantin+von+Spanien+Gustave+Armand+Henri+Comte+de+Reiset&amp;search_field=search</field>
+</doc>
+</add>

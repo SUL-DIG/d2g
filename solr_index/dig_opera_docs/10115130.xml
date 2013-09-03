@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115130</field>
+<field name="genre">Operas</field>
+<field name="title">Madgalenenblume</field>
+<field name="titleSort">Madgalenenblume</field>
+<field name="composer">Hermann Jäger</field>
+<field name="composerSort">Jäger, Hermann</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Emilie Ginggera</field>
+<field name="librettistSort">Ginggera, Emilie</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Krefeld</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Madgalenenblume+Hermann+Jäger&amp;search_field=search</field>
+</doc>
+</add>

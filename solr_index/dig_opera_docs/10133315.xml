@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133315</field>
+<field name="genre">Operas</field>
+<field name="title">Eine Nacht in Kairo</field>
+<field name="titleSort">Nacht in Kairo</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">C. Arnold</field>
+<field name="librettistSort">Arnold, C.</field>
+
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Eine+Nacht+in+Kairo+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

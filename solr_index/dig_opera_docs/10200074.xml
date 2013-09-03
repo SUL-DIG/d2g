@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200074</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abramo sagrificante</field>
+		<field name="titleSort">Abramo sagrificante</field>
+		<field name="year">1690</field>
+		<field name="month">February</field>
+		<field name="day">23</field>
+		<field name="date">February 23, 1690</field>
+		<field name="composer">Francesco Passerini</field>
+		<field name="composerSort">Passerini, Francesco</field>
+		<field name="librettist">Giovanni Battista Calici</field>
+		<field name="librettistSort">Calici, Giovanni Battista</field>
+		
+		<field name="theater">Compagnia di San Sebastiano</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abramo+sagrificante+Francesco+Passerini&amp;search_field=search</field>
+	</doc></add>

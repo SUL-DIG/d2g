@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103494</field>
+<field name="genre">Operas</field>
+<field name="title">Ginevra di Monreale</field>
+<field name="titleSort">Ginevra di Monreale</field>
+<field name="composer">Giuseppe Bonavia</field>
+<field name="composerSort">Bonavia, Giuseppe</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Reale</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ginevra+di+Monreale+Giuseppe+Bonavia&amp;search_field=search</field>
+</doc>
+</add>

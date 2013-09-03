@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116205</field>
+<field name="genre">Operas</field>
+<field name="title">Der Prozess der Karin Lenz</field>
+<field name="titleSort">Prozess der Karin Lenz</field>
+<field name="composer">Günter Kochan</field>
+<field name="composerSort">Kochan, Günter</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Erik Neutsch</field>
+<field name="librettistSort">Neutsch, Erik</field>
+<field name="theater">Deutsche Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Prozess+der+Karin+Lenz+Günter+Kochan&amp;search_field=search</field>
+</doc>
+</add>

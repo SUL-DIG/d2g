@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108672</field>
+<field name="genre">Operas</field>
+<field name="title">Die hohle Eiche</field>
+<field name="titleSort">hohle Eiche</field>
+<field name="composer">Traugott Maximilian Eberwein</field>
+<field name="composerSort">Eberwein, Traugott Maximilian</field>
+<field name="year">1829</field>
+<field name="date">1829</field>
+<field name="librettist">Julius Eberwein</field>
+<field name="librettistSort">Eberwein, Julius</field>
+
+<field name="city">Rudolstadt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+hohle+Eiche+Traugott+Maximilian+Eberwein&amp;search_field=search</field>
+</doc>
+</add>

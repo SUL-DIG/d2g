@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129095</field>
+<field name="genre">Operas</field>
+<field name="title">Dublin Song (The Plough and the Stars)</field>
+<field name="titleSort">Dublin Song (The Plough and the Stars)</field>
+<field name="composer">Elie Siegmeister</field>
+<field name="composerSort">Siegmeister, Elie</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Edward Mabley</field>
+<field name="librettistSort">Mabley, Edward</field>
+<field name="librettist">Sean O'Casey</field>
+<field name="librettistSort">O'Casey, Sean</field>
+<field name="theater">Washington University</field>
+<field name="city">St. Louis</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dublin+Song+The+Plough+and+the+Stars+Elie+Siegmeister&amp;search_field=search</field>
+</doc>
+</add>

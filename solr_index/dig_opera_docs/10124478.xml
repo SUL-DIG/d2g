@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124478</field>
+<field name="genre">Operas</field>
+<field name="title">Au plus brave la plus belle</field>
+<field name="titleSort">Au plus brave la plus belle</field>
+<field name="composer">Charles Henri Plantade</field>
+<field name="composerSort">Plantade, Charles Henri</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Louis Philipon de La Madeleine</field>
+<field name="librettistSort">Philipon de La Madeleine, Louis</field>
+<field name="theater">Théâtre des Amis de la Patrie</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Au+plus+brave+la+plus+belle+Charles+Henri+Plantade&amp;search_field=search</field>
+</doc>
+</add>

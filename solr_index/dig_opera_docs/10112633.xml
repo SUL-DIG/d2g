@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112633</field>
+<field name="genre">Operas</field>
+<field name="title">Berenice und Lucilla</field>
+<field name="titleSort">Berenice und Lucilla</field>
+<field name="composer">Christoph Graupner</field>
+<field name="composerSort">Graupner, Christoph</field>
+<field name="year">1710</field>
+<field name="date">1710</field>
+<field name="librettist">Andreas Osiander</field>
+<field name="librettistSort">Osiander, Andreas</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">Hochfürstliches Theater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Berenice+und+Lucilla+Christoph+Graupner&amp;search_field=search</field>
+</doc>
+</add>

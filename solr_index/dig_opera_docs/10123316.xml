@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123316</field>
+<field name="genre">Operas</field>
+<field name="title">The Maid of Cefu Idfu</field>
+<field name="titleSort">Maid of Cefu Idfu</field>
+<field name="composer">Joseph Parry</field>
+<field name="composerSort">Parry, Joseph</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Joseph Bennett</field>
+<field name="librettistSort">Bennett, Joseph</field>
+<field name="theater">Grand Theatre</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Maid+of+Cefu+Idfu+Joseph+Parry&amp;search_field=search</field>
+</doc>
+</add>

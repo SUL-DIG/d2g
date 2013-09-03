@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111086</field>
+<field name="genre">Operas</field>
+<field name="title">"La pianella persa, o sia La veglia de contadini</field>
+<field name="titleSort">"pianella persa, o sia veglia de contadini"</field>
+<field name="composer">Francesco Gardi</field>
+<field name="composerSort">Gardi, Francesco</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pianella+persa,+o+sia+La+veglia+de+contadini+Francesco+Gardi&amp;search_field=search</field>
+</doc>
+</add>

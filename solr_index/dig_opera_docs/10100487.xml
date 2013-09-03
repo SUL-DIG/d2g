@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100487</field>
+<field name="genre">Operas</field>
+<field name="title">La contessa di Roccadero</field>
+<field name="titleSort">contessa di Roccadero</field>
+<field name="composer">Vincenzo d'Alessio</field>
+<field name="composerSort">d'Alessio, Vincenzo</field>
+<field name="year">1877</field>
+<field name="date">1877</field><field name="theater">Teatro Metastasio</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contessa+di+Roccadero+Vincenzo+d'Alessio&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124743</field>
+<field name="genre">Operas</field>
+<field name="title">Skazka o ribake i ribke</field>
+<field name="titleSort">Skazka o ribake i ribke</field>
+<field name="composer">Leonid Alekseyevich Polovinkin</field>
+<field name="composerSort">Polovinkin, Leonid Alekseyevich</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">Derzhavnyy Akademichnyy Teatr Opery ta Baletu</field>
+<field name="city">Kiev</field>
+<field name="region">Kyïvs'ka Oblast</field>
+<field name="country">Ukraine</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Skazka+o+ribake+i+ribke+Leonid+Alekseyevich+Polovinkin&amp;search_field=search</field>
+</doc>
+</add>

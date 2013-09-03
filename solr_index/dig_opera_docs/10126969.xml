@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126969</field>
+<field name="genre">Operas</field>
+<field name="title">Sleeping Beauty</field>
+<field name="titleSort">Sleeping Beauty</field>
+<field name="composer">Beryl Rubinstein</field>
+<field name="composerSort">Rubinstein, Beryl</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">John Erskine</field>
+<field name="librettistSort">Erskine, John</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Juilliard School of Music</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sleeping+Beauty+Beryl+Rubinstein&amp;search_field=search</field>
+</doc>
+</add>

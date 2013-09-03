@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114642</field>
+<field name="genre">Operas</field>
+<field name="title">The Election</field>
+<field name="titleSort">Election</field>
+<field name="composer">Charles Edward Horn</field>
+<field name="composerSort">Horn, Charles Edward</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Samuel James Arnold</field>
+<field name="librettistSort">Arnold, Samuel James</field>
+<field name="librettist">Joanna Baillie</field>
+<field name="librettistSort">Baillie, Joanna</field>
+<field name="theater">Lyceum Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Election+Charles+Edward+Horn&amp;search_field=search</field>
+</doc>
+</add>

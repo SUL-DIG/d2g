@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128825</field>
+<field name="genre">Operas</field>
+<field name="title">Lila</field>
+<field name="titleSort">Lila</field>
+<field name="composer">Karl Siegmund Seckendorff</field>
+<field name="composerSort">Seckendorff, Karl Siegmund</field>
+<field name="year">1777</field>
+<field name="date">1777</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Liebhaber-Theater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lila+Karl+Siegmund+Seckendorff&amp;search_field=search</field>
+</doc>
+</add>

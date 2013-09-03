@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114192</field>
+<field name="genre">Operas</field>
+<field name="title">Night Performance</field>
+<field name="titleSort">Night Performance</field>
+<field name="composer">Hans-Joachim Hespos</field>
+<field name="composerSort">Hespos, Hans-Joachim</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Peter Wagenbreth</field>
+<field name="librettistSort">Wagenbreth, Peter</field>
+<field name="theater">Festival d'Avignon</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Night+Performance+Hans-Joachim+Hespos&amp;search_field=search</field>
+</doc>
+</add>

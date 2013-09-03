@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131402</field>
+<field name="genre">Operas</field>
+<field name="title">La scuola degli amanti</field>
+<field name="titleSort">scuola degli amanti</field>
+<field name="composer">Giacomo Tritto</field>
+<field name="composerSort">Tritto, Giacomo</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Giuseppe Palomba</field>
+<field name="librettistSort">Palomba, Giuseppe</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+scuola+degli+amanti+Giacomo+Tritto&amp;search_field=search</field>
+</doc>
+</add>

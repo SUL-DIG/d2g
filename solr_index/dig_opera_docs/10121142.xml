@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121142</field>
+<field name="genre">Operas</field>
+<field name="title">Romeo e Giulietta</field>
+<field name="titleSort">Romeo e Giulietta</field>
+<field name="composer">Melesio Morales</field>
+<field name="composerSort">Morales, Melesio</field>
+<field name="year">1863</field>
+<field name="date">1863</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Principal</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Romeo+e+Giulietta+Melesio+Morales&amp;search_field=search</field>
+</doc>
+</add>

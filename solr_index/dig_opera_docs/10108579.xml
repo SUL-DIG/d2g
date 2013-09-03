@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108579</field>
+<field name="genre">Operas</field>
+<field name="title">Der Alcade von Burgos</field>
+<field name="titleSort">Alcade von Burgos</field>
+<field name="composer">Hans Dütschke</field>
+<field name="composerSort">Dütschke, Hans</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">R. Galle</field>
+<field name="librettistSort">Galle, R.</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Magdeburg</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Alcade+von+Burgos+Hans+Dütschke&amp;search_field=search</field>
+</doc>
+</add>

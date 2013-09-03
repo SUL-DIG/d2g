@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108561</field>
+<field name="genre">Operas</field>
+<field name="title">L'incantesimo senza magia</field>
+<field name="titleSort">incantesimo senza magia</field>
+<field name="composer">Josef Dussek</field>
+<field name="composerSort">Dussek, Josef</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro Riccardi</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'incantesimo+senza+magia+Josef+Dussek&amp;search_field=search</field>
+</doc>
+</add>

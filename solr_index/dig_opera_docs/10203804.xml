@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203804</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Samson</field>
+		<field name="titleSort">Samson</field>
+		<field name="year">1837</field>
+		
+		
+		<field name="date">1837</field>
+		<field name="composer">Carl Lauch</field>
+		<field name="composerSort">Lauch, Carl</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Samson</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Samson+Carl+Lauch&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119512</field>
+<field name="genre">Operas</field>
+<field name="title">"L'amoureux de quinze ans, ou Le double fête</field>
+<field name="titleSort">"amoureux de quinze ans, ou Le double fête"</field>
+<field name="composer">Johann Paul Aegidius Martini</field>
+<field name="composerSort">Martini, Johann Paul Aegidius</field>
+<field name="year">1771</field>
+<field name="date">1771</field>
+<field name="librettist">Pierre Laujon</field>
+<field name="librettistSort">Laujon, Pierre</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amoureux+de+quinze+ans,+ou+Le+double+fête+Johann+Paul+Aegidius+Martini&amp;search_field=search</field>
+</doc>
+</add>

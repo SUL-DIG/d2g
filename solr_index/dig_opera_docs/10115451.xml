@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115451</field>
+<field name="genre">Operas</field>
+<field name="title">Quentin Metsys</field>
+<field name="titleSort">Quentin Metsys</field>
+<field name="composer">Léon Jouret</field>
+<field name="composerSort">Jouret, Léon</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Félix Coveliers</field>
+<field name="librettistSort">Coveliers, Félix</field>
+<field name="theater">Salon</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quentin+Metsys+Léon+Jouret&amp;search_field=search</field>
+</doc>
+</add>

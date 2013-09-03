@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200058</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abraham auf Moria</field>
+		<field name="titleSort">Abraham auf Moria</field>
+		<field name="year">1808</field>
+		<field name="month">January</field>
+		<field name="day">1</field>
+		<field name="date">January 1, 1808</field>
+		<field name="composer">Franz Danzi</field>
+		<field name="composerSort">Danzi, Franz</field>
+		<field name="librettist">August Hermann Niemeyer</field>
+		<field name="librettistSort">Niemeyer, August Hermann</field>
+		
+		
+		<field name="city">Stuttgart</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abraham+auf+Moria+Franz+Danzi&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105701</field>
+<field name="genre">Operas</field>
+<field name="title">"Egypta, the Wondrous Story of the Nile</field>
+<field name="titleSort">"Egypta, the Wondrous Story of the Nile"</field>
+<field name="composer">William Dodd Chenery</field>
+<field name="composerSort">Chenery, William Dodd</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">William Dodd Chenery</field>
+<field name="librettistSort">Chenery, William Dodd</field>
+<field name="theater">Grand Opera House</field>
+<field name="city">Dubuque</field>
+<field name="region">Iowa</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Egypta,+the+Wondrous+Story+of+the+Nile+William+Dodd+Chenery&amp;search_field=search</field>
+</doc>
+</add>

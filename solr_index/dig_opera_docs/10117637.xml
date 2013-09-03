@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117637</field>
+<field name="genre">Operas</field>
+<field name="title">La roussotte</field>
+<field name="titleSort">roussotte</field>
+<field name="composer">Charles Lecocq</field>
+<field name="composerSort">Lecocq, Charles</field>
+<field name="year">1881</field>
+<field name="date">1881</field>
+<field name="librettist">Henri Meilhac</field>
+<field name="librettistSort">Meilhac, Henri</field>
+<field name="librettist">Ludovic Halévy</field>
+<field name="librettistSort">Halévy, Ludovic</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+roussotte+Charles+Lecocq&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123129</field>
+<field name="genre">Operas</field>
+<field name="title">La corte d'amore</field>
+<field name="titleSort">corte d'amore</field>
+<field name="composer">Francesco Palmieri</field>
+<field name="composerSort">Palmieri, Francesco</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="city">Cerignola</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+corte+d'amore+Francesco+Palmieri&amp;search_field=search</field>
+</doc>
+</add>

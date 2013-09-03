@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202081</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Ismaele ed Agar</field>
+		<field name="titleSort">Ismaele ed Agar</field>
+		<field name="year">1688</field>
+		
+		
+		<field name="date">1688</field>
+		<field name="composer">Giuseppe Corso</field>
+		<field name="composerSort">Corso, Giuseppe</field>
+		
+		
+		
+		<field name="city">Parma</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Hagar and Ishmael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ismaele+ed+Agar+Giuseppe+Corso&amp;search_field=search</field>
+	</doc></add>

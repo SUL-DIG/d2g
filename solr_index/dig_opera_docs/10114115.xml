@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114115</field>
+<field name="genre">Operas</field>
+<field name="title">Marie</field>
+<field name="titleSort">Marie</field>
+<field name="composer">Ferdinand Hérold</field>
+<field name="composerSort">Hérold, Ferdinand</field>
+<field name="year">1826</field>
+<field name="date">1826</field>
+<field name="librettist">François-Antoine-Eugène de Planard</field>
+<field name="librettistSort">Planard, François-Antoine-Eugène de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marie+Ferdinand+Hérold&amp;search_field=search</field>
+</doc>
+</add>

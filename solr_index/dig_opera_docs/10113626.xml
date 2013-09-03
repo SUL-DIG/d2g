@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113626</field>
+<field name="genre">Operas</field>
+<field name="title">Det store lod (The Big Prize)</field>
+<field name="titleSort">store lod (The Big Prize)</field>
+<field name="composer">Emil Hartmann</field>
+<field name="composerSort">Hartmann, Emil</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Alfred Ipsen</field>
+<field name="librettistSort">Ipsen, Alfred</field>
+<field name="librettist">Henrik Hertz</field>
+<field name="librettistSort">Hertz, Henrik</field>
+
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Det+store+lod+The+Big+Prize+Emil+Hartmann&amp;search_field=search</field>
+</doc>
+</add>

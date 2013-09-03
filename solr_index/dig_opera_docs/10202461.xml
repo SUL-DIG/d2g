@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202461</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Legend of St. David</field>
+		<field name="titleSort">Legend of St. David</field>
+		<field name="year">1894</field>
+		
+		
+		<field name="date">1894</field>
+		<field name="composer">David Jenkins</field>
+		<field name="composerSort">Jenkins, David</field>
+		<field name="librettist">Henry William Hughes</field>
+		<field name="librettistSort">Hughes, Henry William</field>
+		
+		<field name="theater">University College of Wales</field>
+		<field name="city">Aberystwyth</field>
+		<field name="region">Wales</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint David</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">24</field>
+		<field name="feastDate">May 24</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+St.+David+David+Jenkins&amp;search_field=search</field>
+	</doc></add>

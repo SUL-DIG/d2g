@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128719</field>
+<field name="genre">Operas</field>
+<field name="title">Otello ... Catullo l'Africano</field>
+<field name="titleSort">Otello ... Catullo l'Africano</field>
+<field name="composer">Gennaro Scognamiglia</field>
+<field name="composerSort">Scognamiglia, Gennaro</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Pasquale Petito</field>
+<field name="librettistSort">Petito, Pasquale</field>
+
+<field name="city">Cerignola</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Otello+...+Catullo+l'Africano+Gennaro+Scognamiglia&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128496</field>
+<field name="genre">Operas</field>
+<field name="title">Black River</field>
+<field name="titleSort">Black River</field>
+<field name="composer">Andrew Schultz</field>
+<field name="composerSort">Schultz, Andrew</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Julianne Schultz</field>
+<field name="librettistSort">Schultz, Julianne</field>
+<field name="theater">Sydney Metropolitan Opera Company</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Black+River+Andrew+Schultz&amp;search_field=search</field>
+</doc>
+</add>

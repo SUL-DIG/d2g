@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107345</field>
+<field name="genre">Operas</field>
+<field name="title">Le diable rose</field>
+<field name="titleSort">diable rose</field>
+<field name="composer">Hermine Déjazet</field>
+<field name="composerSort">Déjazet, Hermine</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Pol Mercier</field>
+<field name="librettistSort">Mercier, Pol</field>
+<field name="librettist">Édouard Fournier</field>
+<field name="librettistSort">Fournier, Édouard</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diable+rose+Hermine+Déjazet&amp;search_field=search</field>
+</doc>
+</add>

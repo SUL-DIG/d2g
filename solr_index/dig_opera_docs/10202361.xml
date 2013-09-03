@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202361</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Das Jüngste Gericht</field>
+		<field name="titleSort">Jüngste Gericht</field>
+		<field name="year">1812</field>
+		<field name="month">August</field>
+		<field name="day">15</field>
+		<field name="date">August 15, 1812</field>
+		<field name="composer">Louis Spohr</field>
+		<field name="composerSort">Spohr, Louis</field>
+		<field name="librettist">August Arnold</field>
+		<field name="librettistSort">Arnold, August</field>
+		
+		
+		<field name="city">Erfurt</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Last Judgment</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Jüngste+Gericht+Louis+Spohr&amp;search_field=search</field>
+	</doc></add>

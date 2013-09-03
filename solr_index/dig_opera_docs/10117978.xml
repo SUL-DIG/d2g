@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117978</field>
+<field name="genre">Operas</field>
+<field name="title">Théodora</field>
+<field name="titleSort">Théodora</field>
+<field name="composer">Xavier Leroux</field>
+<field name="composerSort">Leroux, Xavier</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Victorien Sardou</field>
+<field name="librettistSort">Sardou, Victorien</field>
+<field name="librettist">Paul Ferrier</field>
+<field name="librettistSort">Ferrier, Paul</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Théodora+Xavier+Leroux&amp;search_field=search</field>
+</doc>
+</add>

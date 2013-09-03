@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105892</field>
+<field name="genre">Operas</field>
+<field name="title">La gioventù di Salvatore Rosa</field>
+<field name="titleSort">gioventù di Salvatore Rosa</field>
+<field name="composer">Emilio Cianchi</field>
+<field name="composerSort">Cianchi, Emilio</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Giovanni Battista Canovai</field>
+<field name="librettistSort">Canovai, Giovanni Battista</field>
+<field name="theater">Teatro Pagliano</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gioventù+di+Salvatore+Rosa+Emilio+Cianchi&amp;search_field=search</field>
+</doc>
+</add>

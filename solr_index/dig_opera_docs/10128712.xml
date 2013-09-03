@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128712</field>
+<field name="genre">Operas</field>
+<field name="title">Ulisse errante</field>
+<field name="titleSort">Ulisse errante</field>
+<field name="composer">Gregorio Sciroli</field>
+<field name="composerSort">Sciroli, Gregorio</field>
+<field name="year">1749</field>
+<field name="date">1749</field>
+<field name="librettist">Giacomo Badoaro</field>
+<field name="librettistSort">Badoaro, Giacomo</field>
+<field name="theater">Real Teatro di Santa Cecilia</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulisse+errante+Gregorio+Sciroli&amp;search_field=search</field>
+</doc>
+</add>

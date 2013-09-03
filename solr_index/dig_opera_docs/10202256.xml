@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202256</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jonah</field>
+		<field name="titleSort">Jonah</field>
+		<field name="year">1936</field>
+		
+		
+		<field name="date">1936</field>
+		<field name="composer">Lennox Berkeley</field>
+		<field name="composerSort">Berkeley, Lennox</field>
+		
+		
+		<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Jonah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonah+Lennox+Berkeley&amp;search_field=search</field>
+	</doc></add>

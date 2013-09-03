@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128996</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schuh ohne Fuss</field>
+<field name="titleSort">Schuh ohne Fuss</field>
+<field name="composer">Ignaz von Seyfried</field>
+<field name="composerSort">Seyfried, Ignaz von</field>
+<field name="year">1801</field>
+<field name="date">1801</field><field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schuh+ohne+Fuss+Ignaz+von+Seyfried&amp;search_field=search</field>
+</doc>
+</add>

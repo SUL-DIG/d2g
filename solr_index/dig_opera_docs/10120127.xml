@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120127</field>
+<field name="genre">Operas</field>
+<field name="title">Artaserse</field>
+<field name="titleSort">Artaserse</field>
+<field name="composer">Orazio Mei</field>
+<field name="composerSort">Mei, Orazio</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Pubblico</field>
+<field name="city">Pisa</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Artaserse+Orazio+Mei&amp;search_field=search</field>
+</doc>
+</add>

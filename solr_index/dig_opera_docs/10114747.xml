@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114747</field>
+<field name="genre">Operas</field>
+<field name="title">A cremonai hegedus (The Violinist of Cremona)</field>
+<field name="titleSort">cremonai hegedus (The Violinist of Cremona)</field>
+<field name="composer">Jenö Hubay</field>
+<field name="composerSort">Hubay, Jenö</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">François Coppée</field>
+<field name="librettistSort">Coppée, François</field>
+<field name="librettist">Henry Beauclair</field>
+<field name="librettistSort">Beauclair, Henry</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+cremonai+hegedus+The+Violinist+of+Cremona+Jenö+Hubay&amp;search_field=search</field>
+</doc>
+</add>

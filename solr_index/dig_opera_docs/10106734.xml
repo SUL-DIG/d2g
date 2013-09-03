@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106734</field>
+<field name="genre">Operas</field>
+<field name="title">Academias e futricas</field>
+<field name="titleSort">Academias e futricas</field>
+<field name="composer">Dias da Costa</field>
+<field name="composerSort">Costa, Dias da</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Baptista Machado</field>
+<field name="librettistSort">Machado, Baptista</field>
+
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Academias+e+futricas+Dias+da+Costa&amp;search_field=search</field>
+</doc>
+</add>

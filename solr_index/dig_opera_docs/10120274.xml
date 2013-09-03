@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120274</field>
+<field name="genre">Operas</field>
+<field name="title">The Egg</field>
+<field name="titleSort">Egg</field>
+<field name="composer">Gian Carlo Menotti</field>
+<field name="composerSort">Menotti, Gian Carlo</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Gian Carlo Menotti</field>
+<field name="librettistSort">Menotti, Gian Carlo</field>
+<field name="theater">National Cathedral</field>
+<field name="city">Washington</field>
+<field name="region">District of Columbia</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Egg+Gian+Carlo+Menotti&amp;search_field=search</field>
+</doc>
+</add>

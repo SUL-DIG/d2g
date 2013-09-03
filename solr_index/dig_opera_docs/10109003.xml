@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109003</field>
+<field name="genre">Operas</field>
+<field name="title">Die Seidenraupen</field>
+<field name="titleSort">Seidenraupen</field>
+<field name="composer">Iván Eröd</field>
+<field name="composerSort">Eröd, Iván</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Richard Bletschacher</field>
+<field name="librettistSort">Bletschacher, Richard</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Seidenraupen+Iván+Eröd&amp;search_field=search</field>
+</doc>
+</add>

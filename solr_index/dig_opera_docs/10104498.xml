@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104498</field>
+<field name="genre">Operas</field>
+<field name="title">Doktor Faust</field>
+<field name="titleSort">Doktor Faust</field>
+<field name="composer">Ferruccio Busoni</field>
+<field name="composerSort">Busoni, Ferruccio</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Ferruccio Busoni</field>
+<field name="librettistSort">Busoni, Ferruccio</field>
+<field name="librettist">Christopher Marlowe</field>
+<field name="librettistSort">Marlowe, Christopher</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doktor+Faust+Ferruccio+Busoni&amp;search_field=search</field>
+</doc>
+</add>

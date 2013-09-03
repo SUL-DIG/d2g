@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133351</field>
+<field name="genre">Operas</field>
+<field name="title">Ulisse nell'isola di Circe</field>
+<field name="titleSort">Ulisse nell'isola di Circe</field>
+<field name="composer">Gioseffo Zamponi</field>
+<field name="composerSort">Zamponi, Gioseffo</field>
+<field name="year">1650</field>
+<field name="date">1650</field><field name="theater">Court</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ulisse+nell'isola+di+Circe+Gioseffo+Zamponi&amp;search_field=search</field>
+</doc>
+</add>

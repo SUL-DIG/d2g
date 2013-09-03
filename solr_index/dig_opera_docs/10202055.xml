@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202055</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco figura del Redentore</field>
+		<field name="titleSort">Isacco figura del Redentore</field>
+		<field name="year">1741</field>
+		<field name="month">January</field>
+		<field name="day">1</field>
+		<field name="date">January 1, 1741</field>
+		<field name="composer">Agostino Bonaventura Coletti</field>
+		<field name="composerSort">Coletti, Agostino Bonaventura</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Oratorio Filippino di Santa Maria della Fava</field>
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+figura+del+Redentore+Agostino+Bonaventura+Coletti&amp;search_field=search</field>
+	</doc></add>

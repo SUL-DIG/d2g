@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119592</field>
+<field name="genre">Operas</field>
+<field name="title">Chi ce l'ha se le ha e chi nun ce l'ha</field>
+<field name="titleSort">Chi ce l'ha se le ha e chi nun ce l'ha</field>
+<field name="composer">Giovanni Mascetti</field>
+<field name="composerSort">Mascetti, Giovanni</field>
+<field name="year">1885</field>
+<field name="date">1885</field><field name="theater">Teatro Rossini</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chi+ce+l'ha+se+le+ha+e+chi+nun+ce+l'ha+Giovanni+Mascetti&amp;search_field=search</field>
+</doc>
+</add>

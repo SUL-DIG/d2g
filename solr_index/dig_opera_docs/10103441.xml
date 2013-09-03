@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103441</field>
+<field name="genre">Operas</field>
+<field name="title">Pan!Pan!c'est l'esprit</field>
+<field name="titleSort">Pan!Pan!c'est l'esprit</field>
+<field name="composer">Mme. Le Chevalier de Boisval</field>
+<field name="composerSort">Boisval, Mme. Le Chevalier de</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Alfred de Besancenet</field>
+<field name="librettistSort">Besancenet, Alfred de</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan!Pan!c'est+l'esprit+Mme.+Le+Chevalier+de+Boisval&amp;search_field=search</field>
+</doc>
+</add>

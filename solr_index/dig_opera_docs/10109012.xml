@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109012</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Bastard, oder Das Stiergefecht</field>
+<field name="titleSort">"Bastard, oder Das Stiergefecht"</field>
+<field name="composer">Josef Eschborn</field>
+<field name="composerSort">Eschborn, Josef</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Ferdinand Ludwig Karl von Biedenfeld</field>
+<field name="librettistSort">Biedenfeld, Ferdinand Ludwig Karl von</field>
+<field name="theater">Neues Schauspielhaus</field>
+<field name="city">Aachen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Bastard,+oder+Das+Stiergefecht+Josef+Eschborn&amp;search_field=search</field>
+</doc>
+</add>

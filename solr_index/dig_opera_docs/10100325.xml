@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100325</field>
+<field name="genre">Operas</field>
+<field name="title">"Tragaldabas, oder Der geborgte Ehemann</field>
+<field name="titleSort">"Tragaldabas, oder Der geborgte Ehemann"</field>
+<field name="composer">Eugen d'Albert</field>
+<field name="composerSort">d'Albert, Eugen</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="librettist">Auguste Vacquerie</field>
+<field name="librettistSort">Vacquerie, Auguste</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tragaldabas,+oder+Der+geborgte+Ehemann+Eugen+d'Albert&amp;search_field=search</field>
+</doc>
+</add>

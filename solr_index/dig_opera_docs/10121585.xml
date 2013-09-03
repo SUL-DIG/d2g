@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121585</field>
+<field name="genre">Operas</field>
+<field name="title">Der lebendige Sack</field>
+<field name="titleSort">lebendige Sack</field>
+<field name="composer">Wenzel Müller</field>
+<field name="composerSort">Müller, Wenzel</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Karl Friedrich Hensler</field>
+<field name="librettistSort">Hensler, Karl Friedrich</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+lebendige+Sack+Wenzel+Müller&amp;search_field=search</field>
+</doc>
+</add>

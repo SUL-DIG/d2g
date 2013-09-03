@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130229</field>
+<field name="genre">Operas</field>
+<field name="title">Der Unsichtbare</field>
+<field name="titleSort">Unsichtbare</field>
+<field name="composer">Heinrich Stromeyer</field>
+<field name="composerSort">Stromeyer, Heinrich</field>
+<field name="year">1825</field>
+<field name="date">1825</field>
+<field name="librettist">Karl Ludwig Costenoble</field>
+<field name="librettistSort">Costenoble, Karl Ludwig</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Unsichtbare+Heinrich+Stromeyer&amp;search_field=search</field>
+</doc>
+</add>

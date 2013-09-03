@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106410</field>
+<field name="genre">Operas</field>
+<field name="title">Die Sängerfahrt</field>
+<field name="titleSort">Sängerfahrt</field>
+<field name="composer">Karl Eduard Conrad</field>
+<field name="composerSort">Conrad, Karl Eduard</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Theodor Drobisch</field>
+<field name="librettistSort">Drobisch, Theodor</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Sängerfahrt+Karl+Eduard+Conrad&amp;search_field=search</field>
+</doc>
+</add>

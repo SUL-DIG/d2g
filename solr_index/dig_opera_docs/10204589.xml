@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204589</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Tree of Life</field>
+		<field name="titleSort">Tree of Life</field>
+		<field name="year">1971</field>
+		<field name="month">August</field>
+		
+		<field name="date">August 1971</field>
+		<field name="composer">Alun Hoddinott</field>
+		<field name="composerSort">Hoddinott, Alun</field>
+		<field name="librettist">William Moelwyn Merchant</field>
+		<field name="librettistSort">Merchant, William Moelwyn</field>
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Gloucester</field>
+		<field name="region">Gloucestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Original Sin</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tree+of+Life+Alun+Hoddinott&amp;search_field=search</field>
+	</doc></add>

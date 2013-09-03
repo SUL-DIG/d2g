@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100572</field>
+<field name="genre">Operas</field>
+<field name="title">I pirati di Barratiera</field>
+<field name="titleSort">pirati di Barratiera</field>
+<field name="composer">Francesco Altavilla</field>
+<field name="composerSort">Altavilla, Francesco</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Andrea Passaro</field>
+<field name="librettistSort">Passaro, Andrea</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+pirati+di+Barratiera+Francesco+Altavilla&amp;search_field=search</field>
+</doc>
+</add>

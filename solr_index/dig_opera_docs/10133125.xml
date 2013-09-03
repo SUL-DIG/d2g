@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133125</field>
+<field name="genre">Operas</field>
+<field name="title">Old Pipes and the Dryad</field>
+<field name="titleSort">Old Pipes and the Dryad</field>
+<field name="composer">Sally Wolf</field>
+<field name="composerSort">Wolf, Sally</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Lurrine Burgess</field>
+<field name="librettistSort">Burgess, Lurrine</field>
+<field name="librettist">Frank Stockton</field>
+<field name="librettistSort">Stockton, Frank</field>
+<field name="theater">Southern California Conservatory of Music</field>
+<field name="city">Sun Valley</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Old+Pipes+and+the+Dryad+Sally+Wolf&amp;search_field=search</field>
+</doc>
+</add>

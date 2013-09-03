@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108634</field>
+<field name="genre">Operas</field>
+<field name="title">The Cry of Clytaemnestra</field>
+<field name="titleSort">Cry of Clytaemnestra</field>
+<field name="composer">John Charles Eaton</field>
+<field name="composerSort">Eaton, John Charles</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Patrick Creagh</field>
+<field name="librettistSort">Creagh, Patrick</field>
+<field name="theater">Indiana University</field>
+<field name="city">Bloomington</field>
+<field name="region">Indiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Cry+of+Clytaemnestra+John+Charles+Eaton&amp;search_field=search</field>
+</doc>
+</add>

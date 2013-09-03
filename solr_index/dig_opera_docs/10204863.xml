@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204863</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vittoria navale predetta dal beato Pontefice Pio V Ghislieri</field>
+		<field name="titleSort">vittoria navale predetta dal beato Pontefice Pio V Ghislieri</field>
+		<field name="year">1705</field>
+		
+		
+		<field name="date">1705</field>
+		<field name="composer">Giacomo Gozzini</field>
+		<field name="composerSort">Gozzini, Giacomo</field>
+		
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Battle of Lepanto</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittoria+navale+predetta+dal+beato+Pontefice+Pio+V+Ghislieri+Giacomo+Gozzini&amp;search_field=search</field>
+	</doc></add>

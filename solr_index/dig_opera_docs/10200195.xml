@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200195</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'annunzio e l'adorazione de' pastori per la vegli di San Stefano</field>
+		<field name="titleSort">annunzio e l'adorazione de' pastori per la vegli di San Stefano</field>
+		<field name="year">1715</field>
+		
+		
+		<field name="date">1715</field>
+		<field name="composer">Giovanni Antonio Canuti</field>
+		<field name="composerSort">Canuti, Giovanni Antonio</field>
+		
+		
+		
+		<field name="city">Lucca</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Stephen</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">December 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'annunzio+e+l'adorazione+de'+pastori+per+la+vegli+di+San+Stefano+Giovanni+Antonio+Canuti&amp;search_field=search</field>
+	</doc></add>

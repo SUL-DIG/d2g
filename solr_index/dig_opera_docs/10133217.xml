@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133217</field>
+<field name="genre">Operas</field>
+<field name="title">Franzosenzeit</field>
+<field name="titleSort">Franzosenzeit</field>
+<field name="composer">Hermann Wunsch</field>
+<field name="composerSort">Wunsch, Hermann</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Herman Wunsch</field>
+<field name="librettistSort">Wunsch, Herman</field>
+<field name="librettist">Fritz Reuter</field>
+<field name="librettistSort">Reuter, Fritz</field>
+<field name="theater">Mecklenburgisches Staatstheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Franzosenzeit+Hermann+Wunsch&amp;search_field=search</field>
+</doc>
+</add>

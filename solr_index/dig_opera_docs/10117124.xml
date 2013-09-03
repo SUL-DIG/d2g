@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117124</field>
+<field name="genre">Operas</field>
+<field name="title">Hesperia</field>
+<field name="titleSort">Hesperia</field>
+<field name="composer">Joan Lamote de Grignon</field>
+<field name="composerSort">Grignon, Joan Lamote de</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Juan Oliva Bridgman</field>
+<field name="librettistSort">Oliva Bridgman, Juan</field>
+<field name="theater">Gran Teatre del Liceu</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hesperia+Joan+Lamote+de+Grignon&amp;search_field=search</field>
+</doc>
+</add>

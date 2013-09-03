@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102180</field>
+<field name="genre">Operas</field>
+<field name="title">My Heart's in the Highlands</field>
+<field name="titleSort">My Heart's in the Highlands</field>
+<field name="composer">Jack Beeson</field>
+<field name="composerSort">Beeson, Jack</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Jack Beeson</field>
+<field name="librettistSort">Beeson, Jack</field>
+<field name="librettist">William Saroyan</field>
+<field name="librettistSort">Saroyan, William</field>
+<field name="theater">NET Television (National Educational Television)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=My+Heart's+in+the+Highlands+Jack+Beeson&amp;search_field=search</field>
+</doc>
+</add>

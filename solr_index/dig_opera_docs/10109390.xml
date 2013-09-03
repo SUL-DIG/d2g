@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109390</field>
+<field name="genre">Operas</field>
+<field name="title">La carmagnole</field>
+<field name="titleSort">carmagnole</field>
+<field name="composer">Paul Fauchey</field>
+<field name="composerSort">Fauchey, Paul</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Jacques Lemaire</field>
+<field name="librettistSort">Lemaire, Jacques</field>
+<field name="librettist">Louis d'Hurcourt</field>
+<field name="librettistSort">d'Hurcourt, Louis</field>
+<field name="theater">Théâtre des Folies-Dramatiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+carmagnole+Paul+Fauchey&amp;search_field=search</field>
+</doc>
+</add>

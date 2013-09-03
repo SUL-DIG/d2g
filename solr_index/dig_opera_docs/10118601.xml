@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118601</field>
+<field name="genre">Operas</field>
+<field name="title">"Le maestro, ou La renommé</field>
+<field name="titleSort">"maestro, ou La renommé"</field>
+<field name="composer">Charles Luce-Varlet</field>
+<field name="composerSort">Luce-Varlet, Charles</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Jean-Pierre-François Lesguillon</field>
+<field name="librettistSort">Lesguillon, Jean-Pierre-François</field>
+<field name="theater">Théâtre Montansier</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+maestro,+ou+La+renommé+Charles+Luce-Varlet&amp;search_field=search</field>
+</doc>
+</add>

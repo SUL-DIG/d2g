@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110196</field>
+<field name="genre">Operas</field>
+<field name="title">Una partita a scacchi</field>
+<field name="titleSort">partita a scacchi</field>
+<field name="composer">Beniamino Fonte</field>
+<field name="composerSort">Fonte, Beniamino</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Giuseppe Giacosa</field>
+<field name="librettistSort">Giacosa, Giuseppe</field>
+<field name="theater">Teatro Municipale</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+partita+a+scacchi+Beniamino+Fonte&amp;search_field=search</field>
+</doc>
+</add>

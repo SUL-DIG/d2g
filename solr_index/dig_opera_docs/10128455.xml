@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128455</field>
+<field name="genre">Operas</field>
+<field name="title">Die Fischerin</field>
+<field name="titleSort">Fischerin</field>
+<field name="composer">Corona Elisabeth Wilhelmine Schröter</field>
+<field name="composerSort">Schröter, Corona Elisabeth Wilhelmine</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Johann Wolfgang von Goethe</field>
+<field name="librettistSort">Goethe, Johann Wolfgang von</field>
+<field name="theater">Outdoor Performance</field>
+<field name="city">Tiefurt</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Fischerin+Corona+Elisabeth+Wilhelmine+Schröter&amp;search_field=search</field>
+</doc>
+</add>

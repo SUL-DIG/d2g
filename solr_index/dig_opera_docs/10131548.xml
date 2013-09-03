@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131548</field>
+<field name="genre">Operas</field>
+<field name="title">Voyna e salamandrami (War with the Salamanders)</field>
+<field name="titleSort">Voyna e salamandrami (War with the Salamanders)</field>
+<field name="composer">Vladislav Aleksandrovich Uspensky</field>
+<field name="composerSort">Uspensky, Vladislav Aleksandrovich</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Irina Yevgenyevna Taymanova</field>
+<field name="librettistSort">Taymanova, Irina Yevgenyevna</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Leningrad Television</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Voyna+e+salamandrami+War+with+the+Salamanders+Vladislav+Aleksandrovich+Uspensky&amp;search_field=search</field>
+</doc>
+</add>

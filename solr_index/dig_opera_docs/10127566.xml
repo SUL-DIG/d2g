@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127566</field>
+<field name="genre">Operas</field>
+<field name="title">Der Tod des Kaisers</field>
+<field name="titleSort">Tod des Kaisers</field>
+<field name="composer">Adolf Sandberger</field>
+<field name="composerSort">Sandberger, Adolf</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Adolf Sandberger</field>
+<field name="librettistSort">Sandberger, Adolf</field>
+
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+des+Kaisers+Adolf+Sandberger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102443</field>
+<field name="genre">Operas</field>
+<field name="title">Antigono</field>
+<field name="titleSort">Antigono</field>
+<field name="composer">George Berg</field>
+<field name="composerSort">Berg, George</field>
+
+<field name="date">theater"Spring Gardens, Saint James'"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigono+George+Berg&amp;search_field=search</field>
+</doc>
+</add>

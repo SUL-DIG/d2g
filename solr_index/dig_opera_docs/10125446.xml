@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125446</field>
+<field name="genre">Operas</field>
+<field name="title">Partita d'onore</field>
+<field name="titleSort">Partita d'onore</field>
+<field name="composer">Vincenzo Raffaelli</field>
+<field name="composerSort">Raffaelli, Vincenzo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Camillo Francisi</field>
+<field name="librettistSort">Francisi, Camillo</field>
+<field name="theater">Liceo Rossini</field>
+<field name="city">Pesaro</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Partita+d'onore+Vincenzo+Raffaelli&amp;search_field=search</field>
+</doc>
+</add>

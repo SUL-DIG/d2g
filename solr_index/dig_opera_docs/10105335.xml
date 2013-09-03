@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105335</field>
+<field name="genre">Operas</field>
+<field name="title">Rumpelstiltskin</field>
+<field name="titleSort">Rumpelstiltskin</field>
+<field name="composer">Alfred Catty</field>
+<field name="composerSort">Catty, Alfred</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Children's Opera</field>
+<field name="city">Milwaukee</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rumpelstiltskin+Alfred+Catty&amp;search_field=search</field>
+</doc>
+</add>

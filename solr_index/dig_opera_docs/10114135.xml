@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114135</field>
+<field name="genre">Operas</field>
+<field name="title">Paracelsus</field>
+<field name="titleSort">Paracelsus</field>
+<field name="composer">Hugo Herrmann</field>
+<field name="composerSort">Herrmann, Hugo</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Martha Sills-Fuchs</field>
+<field name="librettistSort">Sills-Fuchs, Martha</field>
+<field name="theater">Staatstheater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Paracelsus+Hugo+Herrmann&amp;search_field=search</field>
+</doc>
+</add>

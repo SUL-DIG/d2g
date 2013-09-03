@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104038</field>
+<field name="genre">Operas</field>
+<field name="title">Königsboten</field>
+<field name="titleSort">Königsboten</field>
+<field name="composer">Michael Braunfels</field>
+<field name="composerSort">Braunfels, Michael</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Michael Law</field>
+<field name="librettistSort">Law, Michael</field>
+
+<field name="city">Überlingen</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Königsboten+Michael+Braunfels&amp;search_field=search</field>
+</doc>
+</add>

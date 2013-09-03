@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113422</field>
+<field name="genre">Operas</field>
+<field name="title">Nero</field>
+<field name="titleSort">Nero</field>
+<field name="composer">Ivar Christian Hallström</field>
+<field name="composerSort">Hallström, Ivar Christian</field>
+<field name="year">1882</field>
+<field name="date">1882</field><field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nero+Ivar+Christian+Hallström&amp;search_field=search</field>
+</doc>
+</add>

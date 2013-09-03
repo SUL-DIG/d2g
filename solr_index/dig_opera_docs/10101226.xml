@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101226</field>
+<field name="genre">Operas</field>
+<field name="title">Hut ab!</field>
+<field name="titleSort">Hut ab!</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Edmund Skurawy</field>
+<field name="librettistSort">Skurawy, Edmund</field>
+<field name="librettist">S. B. Tellheim</field>
+<field name="librettistSort">Tellheim, S. B.</field>
+<field name="theater">"Sommertheater ""Venedig in Wien"""</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hut+ab!+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

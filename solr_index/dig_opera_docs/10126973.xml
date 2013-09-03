@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126973</field>
+<field name="genre">Operas</field>
+<field name="title">Tycho</field>
+<field name="titleSort">Tycho</field>
+<field name="composer">Poul Ruders</field>
+<field name="composerSort">Ruders, Poul</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Henrik Bjelke</field>
+<field name="librettistSort">Bjelke, Henrik</field>
+<field name="theater">Helsinore Teater</field>
+<field name="city">Århus</field>
+<field name="region">Midtjylland</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tycho+Poul+Ruders&amp;search_field=search</field>
+</doc>
+</add>

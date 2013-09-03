@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109569</field>
+<field name="genre">Operas</field>
+<field name="title">Ipermestra</field>
+<field name="titleSort">Ipermestra</field>
+<field name="composer">Giovanni Battista Ferrandini</field>
+<field name="composerSort">Ferrandini, Giovanni Battista</field>
+<field name="year">1736</field>
+<field name="date">1736</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ipermestra+Giovanni+Battista+Ferrandini&amp;search_field=search</field>
+</doc>
+</add>

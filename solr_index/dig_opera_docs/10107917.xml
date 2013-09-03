@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107917</field>
+<field name="genre">Operas</field>
+<field name="title">The Walker-Through-Walls</field>
+<field name="titleSort">Walker-Through-Walls</field>
+<field name="composer">Anthony Donato</field>
+<field name="composerSort">Donato, Anthony</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Anthony Donato</field>
+<field name="librettistSort">Donato, Anthony</field>
+<field name="librettist">Marcel Aymé</field>
+<field name="librettistSort">Aymé, Marcel</field>
+<field name="theater">Northwestern University</field>
+<field name="city">Evanston</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Walker-Through-Walls+Anthony+Donato&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106463</field>
+<field name="genre">Operas</field>
+<field name="title">"Mlle. Joseph, ma femme</field>
+<field name="titleSort">"Mlle. Joseph, ma femme"</field>
+<field name="composer">Henri Contesse</field>
+<field name="composerSort">Contesse, Henri</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">__ Froisilles</field>
+<field name="librettistSort">Froisilles, __</field>
+<field name="librettist">__ Homo</field>
+<field name="librettistSort">Homo, __</field>
+<field name="theater">Little Palace</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mlle.+Joseph,+ma+femme+Henri+Contesse&amp;search_field=search</field>
+</doc>
+</add>

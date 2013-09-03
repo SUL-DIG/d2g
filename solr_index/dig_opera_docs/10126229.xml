@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126229</field>
+<field name="genre">Operas</field>
+<field name="title">La forza della pace</field>
+<field name="titleSort">forza della pace</field>
+<field name="composer">Rinaldo di Capua</field>
+<field name="composerSort">Capua, Rinaldo di</field>
+<field name="year">1752</field>
+<field name="date">1752</field>
+<field name="librettist">Gioacchino Puccinelli</field>
+<field name="librettistSort">Puccinelli, Gioacchino</field>
+<field name="librettist">Girolamo Aurelli</field>
+<field name="librettistSort">Aurelli, Girolamo</field>
+<field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+forza+della+pace+Rinaldo+di+Capua&amp;search_field=search</field>
+</doc>
+</add>

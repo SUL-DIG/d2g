@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201855</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Hiob</field>
+		<field name="titleSort">Hiob</field>
+		<field name="year">1835</field>
+		<field name="month">October</field>
+		<field name="day">7</field>
+		<field name="date">October 7, 1835</field>
+		<field name="composer">Ernst Julius Otto</field>
+		<field name="composerSort">Otto, Ernst Julius</field>
+		<field name="librettist">Julius Mosen</field>
+		<field name="librettistSort">Mosen, Julius</field>
+		
+		
+		<field name="city">Dresden</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Job</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hiob+Ernst+Julius+Otto&amp;search_field=search</field>
+	</doc></add>

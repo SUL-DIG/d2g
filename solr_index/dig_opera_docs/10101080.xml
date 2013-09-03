@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101080</field>
+<field name="genre">Operas</field>
+<field name="title">Combat Zone</field>
+<field name="titleSort">Combat Zone</field>
+<field name="composer">Richard Arnell</field>
+<field name="composerSort">Arnell, Richard</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Louis Coxe</field>
+<field name="librettistSort">Coxe, Louis</field>
+<field name="theater">Hofstra University</field>
+<field name="city">Hempstead</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Combat+Zone+Richard+Arnell&amp;search_field=search</field>
+</doc>
+</add>

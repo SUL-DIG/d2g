@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132308</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori di Apollo e di Leucotea</field>
+<field name="titleSort">amori di Apollo e di Leucotea</field>
+<field name="composer">Giovanni Battista Volpe</field>
+<field name="composerSort">Volpe, Giovanni Battista</field>
+<field name="year">1663</field>
+<field name="date">1663</field>
+<field name="librettist">Aurelio Aureli</field>
+<field name="librettistSort">Aureli, Aurelio</field>
+<field name="theater">Teatro Grimani di Santi Giovanni e Paolo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+di+Apollo+e+di+Leucotea+Giovanni+Battista+Volpe&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123789</field>
+<field name="genre">Operas</field>
+<field name="title">La cigale madrilène</field>
+<field name="titleSort">cigale madrilène</field>
+<field name="composer">Joanny Péronnet</field>
+<field name="composerSort">Péronnet, Joanny</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">[Amélie Péronnet] Léonce Vanoux</field>
+<field name="librettistSort">Vanoux, Léonce [Amélie Péronnet]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+cigale+madrilène+Joanny+Péronnet&amp;search_field=search</field>
+</doc>
+</add>

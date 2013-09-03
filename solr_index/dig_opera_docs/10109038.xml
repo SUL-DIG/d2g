@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109038</field>
+<field name="genre">Operas</field>
+<field name="title">Tony Grice</field>
+<field name="titleSort">Tony Grice</field>
+<field name="composer">Adrián Esquerrá</field>
+<field name="composerSort">Esquerrá, Adrián</field>
+<field name="year">1909</field>
+<field name="date">1909</field><field name="theater">Sala Imperio</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tony+Grice+Adrián+Esquerrá&amp;search_field=search</field>
+</doc>
+</add>

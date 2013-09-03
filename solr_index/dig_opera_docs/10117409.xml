@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117409</field>
+<field name="genre">Operas</field>
+<field name="title">Nelly</field>
+<field name="titleSort">Nelly</field>
+<field name="composer">Marcel Lattès</field>
+<field name="composerSort">Lattès, Marcel</field>
+<field name="year">1921</field>
+<field name="date">1921</field>
+<field name="librettist">Jacques Bousquet</field>
+<field name="librettistSort">Bousquet, Jacques</field>
+<field name="librettist">Henri Falk</field>
+<field name="librettistSort">Falk, Henri</field>
+<field name="theater">Théâtre de la Gaîté-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nelly+Marcel+Lattès&amp;search_field=search</field>
+</doc>
+</add>

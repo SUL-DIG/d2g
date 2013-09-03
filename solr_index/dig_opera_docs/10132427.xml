@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132427</field>
+<field name="genre">Operas</field>
+<field name="title">Die Rosenmädchen</field>
+<field name="titleSort">Rosenmädchen</field>
+<field name="composer">Theodor Wagner</field>
+<field name="composerSort">Wagner, Theodor</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="librettist">Emmanuel Théaulon</field>
+<field name="librettistSort">Théaulon, Emmanuel</field>
+
+<field name="city">Karlovy Vary</field>
+<field name="region">Západocesky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Rosenmädchen+Theodor+Wagner&amp;search_field=search</field>
+</doc>
+</add>

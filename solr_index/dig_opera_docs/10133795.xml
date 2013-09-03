@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133795</field>
+<field name="genre">Operas</field>
+<field name="title">Pygmalion</field>
+<field name="titleSort">Pygmalion</field>
+<field name="composer">Menachem Zur</field>
+<field name="composerSort">Zur, Menachem</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Menachem Zur</field>
+<field name="librettistSort">Zur, Menachem</field>
+<field name="theater">Brooklyn College Opera Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pygmalion+Menachem+Zur&amp;search_field=search</field>
+</doc>
+</add>

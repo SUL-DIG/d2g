@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118979</field>
+<field name="genre">Operas</field>
+<field name="title">Veselé námluvy</field>
+<field name="titleSort">Veselé námluvy</field>
+<field name="composer">Jan Malát</field>
+<field name="composerSort">Malát, Jan</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Karel Kádner</field>
+<field name="librettistSort">Kádner, Karel</field>
+<field name="theater">Divadlo na Vinohradech</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Veselé+námluvy+Jan+Malát&amp;search_field=search</field>
+</doc>
+</add>

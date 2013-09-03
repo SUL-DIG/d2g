@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114858</field>
+<field name="genre">Operas</field>
+<field name="title">Hajtóvadászat (Riding to Hounds)</field>
+<field name="titleSort">Hajtóvadászat (Riding to Hounds)</field>
+<field name="composer">Jenö Huszka</field>
+<field name="composerSort">Huszka, Jenö</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="theater">Népopera</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hajtóvadászat+Riding+to+Hounds+Jenö+Huszka&amp;search_field=search</field>
+</doc>
+</add>

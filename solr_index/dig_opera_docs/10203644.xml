@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203644</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il ritorno di Tobia</field>
+		<field name="titleSort">ritorno di Tobia</field>
+		<field name="year">1733</field>
+		<field name="month">March</field>
+		<field name="day">5</field>
+		<field name="date">March 5, 1733</field>
+		<field name="composer">Georg Reutter</field>
+		<field name="composerSort">Reutter, Georg</field>
+		<field name="librettist">Giovanni Claudio Pasquini</field>
+		<field name="librettistSort">Pasquini, Giovanni Claudio</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">Tobias Returns</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+ritorno+di+Tobia+Georg+Reutter&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128454</field>
+<field name="genre">Operas</field>
+<field name="title">Die Nonne von Ghioceni</field>
+<field name="titleSort">Nonne von Ghioceni</field>
+<field name="composer">Konrad Schröder</field>
+<field name="composerSort">Schröder, Konrad</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Adolf Flachs</field>
+<field name="librettistSort">Flachs, Adolf</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Nonne+von+Ghioceni+Konrad+Schröder&amp;search_field=search</field>
+</doc>
+</add>

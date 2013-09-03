@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118628</field>
+<field name="genre">Operas</field>
+<field name="title">The Sho-Gun</field>
+<field name="titleSort">Sho-Gun</field>
+<field name="composer">Gustave Luders</field>
+<field name="composerSort">Luders, Gustave</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">George Ade</field>
+<field name="librettistSort">Ade, George</field>
+<field name="theater">Studebaker Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sho-Gun+Gustave+Luders&amp;search_field=search</field>
+</doc>
+</add>

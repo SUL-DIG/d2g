@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121051</field>
+<field name="genre">Operas</field>
+<field name="title">Vendetta zingaresca (Venganza gitana)</field>
+<field name="titleSort">Vendetta zingaresca (Venganza gitana)</field>
+<field name="composer">Ramón Montilla</field>
+<field name="composerSort">Montilla, Ramón</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Ramón Montilla</field>
+<field name="librettistSort">Montilla, Ramón</field>
+
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vendetta+zingaresca+Venganza+gitana+Ramón+Montilla&amp;search_field=search</field>
+</doc>
+</add>

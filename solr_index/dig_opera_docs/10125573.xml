@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125573</field>
+<field name="genre">Operas</field>
+<field name="title">Az ember tragédiája (The Tragedy of a Man)</field>
+<field name="titleSort">ember tragédiája (The Tragedy of a Man)</field>
+<field name="composer">György Ránki</field>
+<field name="composerSort">Ránki, György</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Imre Madách</field>
+<field name="librettistSort">Madách, Imre</field>
+<field name="theater">Magyar Allami Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+ember+tragédiája+The+Tragedy+of+a+Man+György+Ránki&amp;search_field=search</field>
+</doc>
+</add>

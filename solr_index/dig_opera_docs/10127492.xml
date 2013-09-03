@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127492</field>
+<field name="genre">Operas</field>
+<field name="title">La dame de Monsoreau</field>
+<field name="titleSort">dame de Monsoreau</field>
+<field name="composer">Gaston Salvayre</field>
+<field name="composerSort">Salvayre, Gaston</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Auguste Maquet</field>
+<field name="librettistSort">Maquet, Auguste</field>
+<field name="librettist">Alexandre Dumas</field>
+<field name="librettistSort">Dumas, Alexandre</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+dame+de+Monsoreau+Gaston+Salvayre&amp;search_field=search</field>
+</doc>
+</add>

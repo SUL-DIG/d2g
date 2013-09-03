@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116436</field>
+<field name="genre">Operas</field>
+<field name="title">Oniro kalokerinis nychtas</field>
+<field name="titleSort">Oniro kalokerinis nychtas</field>
+<field name="composer">Periklis Koukos</field>
+<field name="composerSort">Koukos, Periklis</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Yiannis Karahissaridis</field>
+<field name="librettistSort">Karahissaridis, Yiannis</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Demotikon Theatron</field>
+<field name="city">Piraeus</field>
+<field name="region">Attiki</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oniro+kalokerinis+nychtas+Periklis+Koukos&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104062</field>
+<field name="genre">Operas</field>
+<field name="title">Realitillusion</field>
+<field name="titleSort">Realitillusion</field>
+<field name="composer">Michel-Georges Brégent</field>
+<field name="composerSort">Brégent, Michel-Georges</field>
+<field name="year">1989</field>
+<field name="date">1989</field>
+<field name="librettist">Michel-Georges Brégent</field>
+<field name="librettistSort">Brégent, Michel-Georges</field>
+<field name="theater">Texaco Opera Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Realitillusion+Michel-Georges+Brégent&amp;search_field=search</field>
+</doc>
+</add>

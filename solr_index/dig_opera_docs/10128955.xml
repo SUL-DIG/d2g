@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128955</field>
+<field name="genre">Operas</field>
+<field name="title">Montezuma</field>
+<field name="titleSort">Montezuma</field>
+<field name="composer">Roger Sessions</field>
+<field name="composerSort">Sessions, Roger</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Giuseppe Antonio Borgese</field>
+<field name="librettistSort">Borgese, Giuseppe Antonio</field>
+<field name="librettist">Bernal Diaz del Castillo</field>
+<field name="librettistSort">Diaz del Castillo, Bernal</field>
+<field name="theater">Deutsche Oper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Montezuma+Roger+Sessions&amp;search_field=search</field>
+</doc>
+</add>

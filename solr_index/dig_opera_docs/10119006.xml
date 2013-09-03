@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119006</field>
+<field name="genre">Operas</field>
+<field name="title">La favola del figlio cambiato</field>
+<field name="titleSort">favola del figlio cambiato</field>
+<field name="composer">Gian Francesco Malipiero</field>
+<field name="composerSort">Malipiero, Gian Francesco</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Luigi Pirandello</field>
+<field name="librettistSort">Pirandello, Luigi</field>
+<field name="theater">Landestheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+favola+del+figlio+cambiato+Gian+Francesco+Malipiero&amp;search_field=search</field>
+</doc>
+</add>

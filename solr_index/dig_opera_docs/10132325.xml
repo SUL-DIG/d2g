@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132325</field>
+<field name="genre">Operas</field>
+<field name="title">Défense d'entrer</field>
+<field name="titleSort">Défense d'entrer</field>
+<field name="composer">Émile Vuillermoz</field>
+<field name="composerSort">Vuillermoz, Émile</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Jacques Bousquet</field>
+<field name="librettistSort">Bousquet, Jacques</field>
+<field name="librettist">[Albert Liénard] Louis Payen</field>
+<field name="librettistSort">Payen, Louis [Albert Liénard]</field>
+
+<field name="city">Biarritz</field>
+<field name="region">Pyrénées-Atlantiques</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Défense+d'entrer+Émile+Vuillermoz&amp;search_field=search</field>
+</doc>
+</add>

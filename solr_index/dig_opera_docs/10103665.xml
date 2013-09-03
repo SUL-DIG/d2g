@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103665</field>
+<field name="genre">Operas</field>
+<field name="title">Le Sultan Saladin</field>
+<field name="titleSort">Sultan Saladin</field>
+<field name="composer">Luigi Bordèse</field>
+<field name="composerSort">Bordèse, Luigi</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Henri Dupin</field>
+<field name="librettistSort">Dupin, Henri</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+Sultan+Saladin+Luigi+Bordèse&amp;search_field=search</field>
+</doc>
+</add>

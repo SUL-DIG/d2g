@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120181</field>
+<field name="genre">Operas</field>
+<field name="title">Angelica e Medoro</field>
+<field name="titleSort">Angelica e Medoro</field>
+<field name="composer">Giovanni Battista Mele</field>
+<field name="composerSort">Mele, Giovanni Battista</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Coliseo del Buen Retiro</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+e+Medoro+Giovanni+Battista+Mele&amp;search_field=search</field>
+</doc>
+</add>

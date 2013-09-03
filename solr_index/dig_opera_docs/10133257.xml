@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133257</field>
+<field name="genre">Operas</field>
+<field name="title">Piére li houïeu (Peter the Miner)</field>
+<field name="titleSort">Piére li houïeu (Peter the Miner)</field>
+<field name="composer">Eugène Ysaяe</field>
+<field name="composerSort">Ysaяe, Eugène</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Eugène Ysaяe</field>
+<field name="librettistSort">Ysaяe, Eugène</field>
+<field name="theater">Théâtre-Royal</field>
+<field name="city">Liège</field>
+<field name="region">Liège</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piére+li+houïeu+Peter+the+Miner+Eugène+Ysaяe&amp;search_field=search</field>
+</doc>
+</add>

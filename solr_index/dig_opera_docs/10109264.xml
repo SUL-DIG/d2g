@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109264</field>
+<field name="genre">Operas</field>
+<field name="title">Sardanapal</field>
+<field name="titleSort">Sardanapal</field>
+<field name="composer">Aleksandr Sergeyevich Famintsïn</field>
+<field name="composerSort">Famintsïn, Aleksandr Sergeyevich</field>
+<field name="year">1875</field>
+<field name="date">1875</field>
+<field name="librettist">Yevgeny Zorin</field>
+<field name="librettistSort">Zorin, Yevgeny</field>
+<field name="librettist">Dmitry Michalovsky</field>
+<field name="librettistSort">Michalovsky, Dmitry</field>
+<field name="theater">Mariinsky Teatr</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sardanapal+Aleksandr+Sergeyevich+Famintsïn&amp;search_field=search</field>
+</doc>
+</add>

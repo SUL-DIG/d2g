@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124327</field>
+<field name="genre">Operas</field>
+<field name="title">L'île de soi-si-re</field>
+<field name="titleSort">île de soi-si-re</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">[Mme. Auguste Pilati] Théodore Julian</field>
+<field name="librettistSort">Julian, Théodore [Mme. Auguste Pilati]</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'île+de+soi-si-re+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

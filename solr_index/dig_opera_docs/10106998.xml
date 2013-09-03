@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106998</field>
+<field name="genre">Operas</field>
+<field name="title">L'éclipse total</field>
+<field name="titleSort">éclipse total</field>
+<field name="composer">Nicolas-Marie Dalayrac</field>
+<field name="composerSort">Dalayrac, Nicolas-Marie</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Ange Étienne Xavier Poisson de La Chaubeaussière</field>
+<field name="librettistSort">La Chaubeaussière, Ange Étienne Xavier Poisson de</field>
+<field name="librettist">Jean de La Fontaine</field>
+<field name="librettistSort">La Fontaine, Jean de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'éclipse+total+Nicolas-Marie+Dalayrac&amp;search_field=search</field>
+</doc>
+</add>

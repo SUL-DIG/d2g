@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109972</field>
+<field name="genre">Operas</field>
+<field name="title">Swetards Zaubertal</field>
+<field name="titleSort">Swetards Zaubertal</field>
+<field name="composer">Anton Fischer</field>
+<field name="composerSort">Fischer, Anton</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Emanuel Schikaneder</field>
+<field name="librettistSort">Schikaneder, Emanuel</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Swetards+Zaubertal+Anton+Fischer&amp;search_field=search</field>
+</doc>
+</add>

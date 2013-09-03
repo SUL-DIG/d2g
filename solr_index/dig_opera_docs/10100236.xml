@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100236</field>
+<field name="genre">Operas</field>
+<field name="title">La breccia di Porta Pia</field>
+<field name="titleSort">breccia di Porta Pia</field>
+<field name="composer">Albino Agrara</field>
+<field name="composerSort">Agrara, Albino</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Luigi Grassi</field>
+<field name="librettistSort">Grassi, Luigi</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+breccia+di+Porta+Pia+Albino+Agrara&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130209</field>
+<field name="genre">Operas</field>
+<field name="title">Alexanders und Roxanens Heirat</field>
+<field name="titleSort">Alexanders und Roxanens Heirat</field>
+<field name="composer">Augustin Reinhard Stricker</field>
+<field name="composerSort">Stricker, Augustin Reinhard</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Johann von Besser</field>
+<field name="librettistSort">Besser, Johann von</field>
+<field name="theater">Court</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alexanders+und+Roxanens+Heirat+Augustin+Reinhard+Stricker&amp;search_field=search</field>
+</doc>
+</add>

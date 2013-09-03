@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117654</field>
+<field name="genre">Operas</field>
+<field name="title">Hiob</field>
+<field name="titleSort">Hiob</field>
+<field name="composer">Richard Lederer</field>
+<field name="composerSort">Lederer, Richard</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Julius Engel</field>
+<field name="librettistSort">Engel, Julius</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hiob+Richard+Lederer&amp;search_field=search</field>
+</doc>
+</add>

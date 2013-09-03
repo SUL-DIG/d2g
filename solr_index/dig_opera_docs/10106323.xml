@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106323</field>
+<field name="genre">Operas</field>
+<field name="title">La naissance de Vénus</field>
+<field name="titleSort">naissance de Vénus</field>
+<field name="composer">Pascal Collasse</field>
+<field name="composerSort">Collasse, Pascal</field>
+<field name="year">1696</field>
+<field name="date">1696</field>
+<field name="librettist">Jean Pic</field>
+<field name="librettistSort">Pic, Jean</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+naissance+de+Vénus+Pascal+Collasse&amp;search_field=search</field>
+</doc>
+</add>

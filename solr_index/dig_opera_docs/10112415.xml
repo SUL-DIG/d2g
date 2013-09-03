@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112415</field>
+<field name="genre">Operas</field>
+<field name="title">Dalmaro</field>
+<field name="titleSort">Dalmaro</field>
+<field name="composer">Jakov Gotovac</field>
+<field name="composerSort">Gotovac, Jakov</field>
+<field name="year">1964</field>
+<field name="date">1964</field>
+<field name="librettist">Ruza Lucija Petelinova</field>
+<field name="librettistSort">Petelinova, Ruza Lucija</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dalmaro+Jakov+Gotovac&amp;search_field=search</field>
+</doc>
+</add>

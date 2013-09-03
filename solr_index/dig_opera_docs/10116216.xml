@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116216</field>
+<field name="genre">Operas</field>
+<field name="title">Van Gogh</field>
+<field name="titleSort">Van Gogh</field>
+<field name="composer">Nevit Kodalli</field>
+<field name="composerSort">Kodalli, Nevit</field>
+<field name="year">1955</field>
+<field name="date">1955</field><field name="theater">State Opera</field>
+<field name="city">Ankara</field>
+
+<field name="country">Turkey</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Van+Gogh+Nevit+Kodalli&amp;search_field=search</field>
+</doc>
+</add>

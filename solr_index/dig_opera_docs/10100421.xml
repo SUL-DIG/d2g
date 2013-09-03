@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100421</field>
+<field name="genre">Operas</field>
+<field name="title">Cordelia dei Neri</field>
+<field name="titleSort">Cordelia dei Neri</field>
+<field name="composer">Ferdinando Aldieri</field>
+<field name="composerSort">Aldieri, Ferdinando</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Reale</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cordelia+dei+Neri+Ferdinando+Aldieri&amp;search_field=search</field>
+</doc>
+</add>

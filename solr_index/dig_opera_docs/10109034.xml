@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109034</field>
+<field name="genre">Operas</field>
+<field name="title">The Tinker and the Fairy</field>
+<field name="titleSort">Tinker and the Fairy</field>
+<field name="composer">Michele Esposito</field>
+<field name="composerSort">Esposito, Michele</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Hyde Douglas</field>
+<field name="librettistSort">Douglas, Hyde</field>
+<field name="theater">Gaiety Theatre</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Tinker+and+the+Fairy+Michele+Esposito&amp;search_field=search</field>
+</doc>
+</add>

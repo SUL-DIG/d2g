@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123368</field>
+<field name="genre">Operas</field>
+<field name="title">Il prognosticante fanatico</field>
+<field name="titleSort">prognosticante fanatico</field>
+<field name="composer">Cesare Pascucci</field>
+<field name="composerSort">Pascucci, Cesare</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Domenico Celli</field>
+<field name="librettistSort">Celli, Domenico</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+prognosticante+fanatico+Cesare+Pascucci&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110394</field>
+<field name="genre">Operas</field>
+<field name="title">Il valdese</field>
+<field name="titleSort">valdese</field>
+<field name="composer">Giuseppe Ippolito Franchi-Verney</field>
+<field name="composerSort">Franchi-Verney, Giuseppe Ippolito</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Ferdinando Fontana</field>
+<field name="librettistSort">Fontana, Ferdinando</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+valdese+Giuseppe+Ippolito+Franchi-Verney&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130871</field>
+<field name="genre">Operas</field>
+<field name="title">Der Zerstreute</field>
+<field name="titleSort">Zerstreute</field>
+<field name="composer">Franz Teyber</field>
+<field name="composerSort">Teyber, Franz</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Franz Xaver Huber</field>
+<field name="librettistSort">Huber, Franz Xaver</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zerstreute+Franz+Teyber&amp;search_field=search</field>
+</doc>
+</add>

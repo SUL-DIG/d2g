@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103421</field>
+<field name="genre">Operas</field>
+<field name="title">La fille invisible</field>
+<field name="titleSort">fille invisible</field>
+<field name="composer">Louis Boieldieu</field>
+<field name="composerSort">Boieldieu, Louis</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Henri Dupin</field>
+<field name="librettistSort">Dupin, Henri</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+invisible+Louis+Boieldieu&amp;search_field=search</field>
+</doc>
+</add>

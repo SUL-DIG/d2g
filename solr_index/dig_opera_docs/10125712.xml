@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125712</field>
+<field name="genre">Operas</field>
+<field name="title">Una avventura di Telemacco</field>
+<field name="titleSort">avventura di Telemacco</field>
+<field name="composer">Nino Rebora</field>
+<field name="composerSort">Rebora, Nino</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">__ Arnalfio</field>
+<field name="librettistSort">Arnalfio, __</field>
+<field name="librettist">Enrico Bianchetti</field>
+<field name="librettistSort">Bianchetti, Enrico</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+avventura+di+Telemacco+Nino+Rebora&amp;search_field=search</field>
+</doc>
+</add>

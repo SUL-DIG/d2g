@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124060</field>
+<field name="genre">Operas</field>
+<field name="title">Sancho Pança dans son isle</field>
+<field name="titleSort">Sancho Pança dans son isle</field>
+<field name="composer">François-André Danican Philidor</field>
+<field name="composerSort">Philidor, François-André Danican</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Antoine-Alexandre-Henri Poinsinet</field>
+<field name="librettistSort">Poinsinet, Antoine-Alexandre-Henri</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sancho+Pança+dans+son+isle+François-André+Danican+Philidor&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103208</field>
+<field name="genre">Operas</field>
+<field name="title">"La paysanne supposée, ou La fête de la moisson</field>
+<field name="titleSort">"paysanne supposée, ou fête de la moisson"</field>
+<field name="composer">Frédéric Blasius</field>
+<field name="composerSort">Blasius, Frédéric</field>
+<field name="year">1788</field>
+<field name="date">1788</field>
+<field name="librettist">Charles Dubois</field>
+<field name="librettistSort">Dubois, Charles</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+paysanne+supposée,+ou+La+fête+de+la+moisson+Frédéric+Blasius&amp;search_field=search</field>
+</doc>
+</add>

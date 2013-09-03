@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116508</field>
+<field name="genre">Operas</field>
+<field name="title">Temno (The Darkness)</field>
+<field name="titleSort">Temno (The Darkness)</field>
+<field name="composer">Isa Krejcí</field>
+<field name="composerSort">Krejcí, Isa</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Isa Krejcí</field>
+<field name="librettistSort">Krejcí, Isa</field>
+<field name="librettist">Josef Bachtík</field>
+<field name="librettistSort">Bachtík, Josef</field>
+<field name="theater">Olomoucké Divadlo</field>
+<field name="city">Olomouc</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Temno+The+Darkness+Isa+Krejcí&amp;search_field=search</field>
+</doc>
+</add>

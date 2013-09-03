@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119637</field>
+<field name="genre">Operas</field>
+<field name="title">La disfatta di Dario</field>
+<field name="titleSort">disfatta di Dario</field>
+<field name="composer">Giovanni Masi</field>
+<field name="composerSort">Masi, Giovanni</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Nicola Giuseppe Morbilli</field>
+<field name="librettistSort">Morbilli, Nicola Giuseppe</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+disfatta+di+Dario+Giovanni+Masi&amp;search_field=search</field>
+</doc>
+</add>

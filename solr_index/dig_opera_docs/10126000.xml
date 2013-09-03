@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126000</field>
+<field name="genre">Operas</field>
+<field name="title">Holofernes</field>
+<field name="titleSort">Holofernes</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Emil Nikolaus von Reznicek</field>
+<field name="librettistSort">Reznicek, Emil Nikolaus von</field>
+<field name="librettist">Friedrich Hebbel</field>
+<field name="librettistSort">Hebbel, Friedrich</field>
+<field name="theater">Städtische Opernhaus</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Holofernes+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

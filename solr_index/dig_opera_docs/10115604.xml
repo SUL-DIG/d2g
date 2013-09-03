@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115604</field>
+<field name="genre">Operas</field>
+<field name="title">Princis un ubaga zens (Prince and the Pauper)</field>
+<field name="titleSort">Princis un ubaga zens (Prince and the Pauper)</field>
+<field name="composer">Imants Kalnins</field>
+<field name="composerSort">Kalnins, Imants</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">[Samuel Langhorne Clemens] Mark Twain</field>
+<field name="librettistSort">Twain, Mark [Samuel Langhorne Clemens]</field>
+
+<field name="city">Liepaja</field>
+<field name="region">Liepaja</field>
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Princis+un+ubaga+zens+Prince+and+the+Pauper+Imants+Kalnins&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132054</field>
+<field name="genre">Operas</field>
+<field name="title">Les hidalgos de Paris</field>
+<field name="titleSort">hidalgos de Paris</field>
+<field name="composer">Aldé de Villebichot</field>
+<field name="composerSort">Villebichot, Aldé de</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">[Louis Lemercier de Neuville] La Haudessière</field>
+<field name="librettistSort">La Haudessière, [Louis Lemercier de Neuville]</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+hidalgos+de+Paris+Aldé+de+Villebichot&amp;search_field=search</field>
+</doc>
+</add>

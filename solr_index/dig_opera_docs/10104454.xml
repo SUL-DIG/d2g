@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104454</field>
+<field name="genre">Operas</field>
+<field name="title">Alladina a Palomid</field>
+<field name="titleSort">Alladina a Palomid</field>
+<field name="composer">Emil Frantisek Burian</field>
+<field name="composerSort">Burian, Emil Frantisek</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Maurice Maeterlinck</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alladina+a+Palomid+Emil+Frantisek+Burian&amp;search_field=search</field>
+</doc>
+</add>

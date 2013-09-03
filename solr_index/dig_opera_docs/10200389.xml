@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200389</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La Bersabea</field>
+		<field name="titleSort">Bersabea</field>
+		<field name="year">1686</field>
+		
+		
+		<field name="date">1686</field>
+		<field name="composer">Giulio d'Alessandri Chiapetta</field>
+		<field name="composerSort">d'Alessandri Chiapetta, Giulio</field>
+		<field name="librettist">Michele Brugueres</field>
+		<field name="librettistSort">Brugueres, Michele</field>
+		
+		
+		<field name="city">Milan</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">David and Bathsheba</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Bersabea+Giulio+d'Alessandri+Chiapetta&amp;search_field=search</field>
+	</doc></add>

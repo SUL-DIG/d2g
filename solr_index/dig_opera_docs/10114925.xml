@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114925</field>
+<field name="genre">Operas</field>
+<field name="title">Elevator</field>
+<field name="titleSort">Elevator</field>
+<field name="composer">Memrie Innerarity</field>
+<field name="composerSort">Innerarity, Memrie</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Owen Robertson</field>
+<field name="librettistSort">Robertson, Owen</field>
+<field name="theater">Golden Fleece Ltd.</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elevator+Memrie+Innerarity&amp;search_field=search</field>
+</doc>
+</add>

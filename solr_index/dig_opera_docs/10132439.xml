@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132439</field>
+<field name="genre">Operas</field>
+<field name="title">Fettklösschen</field>
+<field name="titleSort">Fettklösschen</field>
+<field name="composer">Karl Heinz Wahren</field>
+<field name="composerSort">Wahren, Karl Heinz</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Karl Heinz Wahren</field>
+<field name="librettistSort">Wahren, Karl Heinz</field>
+<field name="librettist">Claus H. Henneberg</field>
+<field name="librettistSort">Henneberg, Claus H.</field>
+<field name="theater">Hochschule der Künste</field>
+<field name="city">Charlottenburg</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fettklösschen+Karl+Heinz+Wahren&amp;search_field=search</field>
+</doc>
+</add>

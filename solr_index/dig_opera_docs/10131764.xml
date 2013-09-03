@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131764</field>
+<field name="genre">Operas</field>
+<field name="title">Suvorov</field>
+<field name="titleSort">Suvorov</field>
+<field name="composer">Sergey Nikiforovich Vasilenko</field>
+<field name="composerSort">Vasilenko, Sergey Nikiforovich</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">Sigizmund Krzhizhanovsky</field>
+<field name="librettistSort">Krzhizhanovsky, Sigizmund</field>
+<field name="theater">Gosudarstvennïy Teatr Operï i Baleta imeni A. V. Lunacharskogo</field>
+<field name="city">Jekaterinburg</field>
+<field name="region">Sverdlovsk Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Suvorov+Sergey+Nikiforovich+Vasilenko&amp;search_field=search</field>
+</doc>
+</add>

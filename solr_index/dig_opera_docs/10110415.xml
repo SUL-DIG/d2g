@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110415</field>
+<field name="genre">Operas</field>
+<field name="title">Griseldis</field>
+<field name="titleSort">Griseldis</field>
+<field name="composer">Clemens Franckenstein</field>
+<field name="composerSort">Franckenstein, Clemens</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Oskar F. Mayer</field>
+<field name="librettistSort">Mayer, Oskar F.</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Opava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Griseldis+Clemens+Franckenstein&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120314</field>
+<field name="genre">Operas</field>
+<field name="title">I due Figaro</field>
+<field name="titleSort">due Figaro</field>
+<field name="composer">Saverio Mercadante</field>
+<field name="composerSort">Mercadante, Saverio</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Honoré-Antoine Richaud-Martelly</field>
+<field name="librettistSort">Richaud-Martelly, Honoré-Antoine</field>
+<field name="theater">Teatro del Principe</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+Figaro+Saverio+Mercadante&amp;search_field=search</field>
+</doc>
+</add>

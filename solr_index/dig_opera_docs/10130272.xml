@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130272</field>
+<field name="genre">Operas</field>
+<field name="title">Lobzowianie</field>
+<field name="titleSort">Lobzowianie</field>
+<field name="composer">Peter Studzinski</field>
+<field name="composerSort">Studzinski, Peter</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Wladyslaw Ludwik Anczyc</field>
+<field name="librettistSort">Anczyc, Wladyslaw Ludwik</field>
+<field name="theater">Teatr Wielki</field>
+<field name="city">Warsaw</field>
+
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lobzowianie+Peter+Studzinski&amp;search_field=search</field>
+</doc>
+</add>

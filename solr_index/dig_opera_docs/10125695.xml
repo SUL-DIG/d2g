@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125695</field>
+<field name="genre">Operas</field>
+<field name="title">The Waltz King</field>
+<field name="titleSort">Waltz King</field>
+<field name="composer">Paul Reale</field>
+<field name="composerSort">Reale, Paul</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Andrew Marvell</field>
+<field name="librettistSort">Marvell, Andrew</field>
+<field name="theater">University of California</field>
+<field name="city">Los Angeles</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Waltz+King+Paul+Reale&amp;search_field=search</field>
+</doc>
+</add>

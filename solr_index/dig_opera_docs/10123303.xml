@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123303</field>
+<field name="genre">Operas</field>
+<field name="title">The Black Ram</field>
+<field name="titleSort">Black Ram</field>
+<field name="composer">Ian Parrott</field>
+<field name="composerSort">Parrott, Ian</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Harold Idris Bell</field>
+<field name="librettistSort">Bell, Harold Idris</field>
+<field name="theater">BBC Radio (British Broadcasting Corporation)</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Black+Ram+Ian+Parrott&amp;search_field=search</field>
+</doc>
+</add>

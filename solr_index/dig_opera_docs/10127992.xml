@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127992</field>
+<field name="genre">Operas</field>
+<field name="title">"Pace, Amore e Provvidenza</field>
+<field name="titleSort">"Pace, Amore e Provvidenza"</field>
+<field name="composer">Alessandro Scarlatti</field>
+<field name="composerSort">Scarlatti, Alessandro</field>
+<field name="year">1711</field>
+<field name="date">1711</field>
+<field name="librettist">Giuseppe Papis</field>
+<field name="librettistSort">Papis, Giuseppe</field>
+<field name="theater">Palazzo Reale</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pace,+Amore+e+Provvidenza+Alessandro+Scarlatti&amp;search_field=search</field>
+</doc>
+</add>

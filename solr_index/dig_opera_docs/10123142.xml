@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123142</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hirtenfeyer</field>
+<field name="titleSort">Hirtenfeyer</field>
+<field name="composer">Stefan Paluselli</field>
+<field name="composerSort">Paluselli, Stefan</field>
+<field name="year">1789</field>
+<field name="date">1789</field><field name="theater">Cistercian Monastery</field>
+<field name="city">Stams</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hirtenfeyer+Stefan+Paluselli&amp;search_field=search</field>
+</doc>
+</add>

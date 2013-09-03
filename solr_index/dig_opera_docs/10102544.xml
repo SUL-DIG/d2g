@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102544</field>
+<field name="genre">Operas</field>
+<field name="title">P'tit fi p'tit Mignon</field>
+<field name="titleSort">P'tit fi p'tit Mignon</field>
+<field name="composer">[Bernard Courtois] Bernardin</field>
+<field name="composerSort">Bernardin, [Bernard Courtois]</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">[Jules-Joseph-Gabriel de Lurieu] Joseph Gabriel</field>
+<field name="librettistSort">Gabriel, Joseph [Jules-Joseph-Gabriel de Lurieu]</field>
+<field name="librettist">Charles Dupeuty</field>
+<field name="librettistSort">Dupeuty, Charles</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=P'tit+fi+p'tit+Mignon+Bernard+Courtois]+Bernardin&amp;search_field=search</field>
+</doc>
+</add>

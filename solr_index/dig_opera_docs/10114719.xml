@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114719</field>
+<field name="genre">Operas</field>
+<field name="title">Suton (The Twilight)</field>
+<field name="titleSort">Suton (The Twilight)</field>
+<field name="composer">Stevan Hristic</field>
+<field name="composerSort">Hristic, Stevan</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Ivo Vojnovic</field>
+<field name="librettistSort">Vojnovic, Ivo</field>
+<field name="theater">Narodno Pozorista</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Suton+The+Twilight+Stevan+Hristic&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129729</field>
+<field name="genre">Operas</field>
+<field name="title">Snowbird</field>
+<field name="titleSort">Snowbird</field>
+<field name="composer">Theodore Pease Stearns</field>
+<field name="composerSort">Stearns, Theodore Pease</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Theodore Pease Stearns</field>
+<field name="librettistSort">Stearns, Theodore Pease</field>
+<field name="theater">Auditorium Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Snowbird+Theodore+Pease+Stearns&amp;search_field=search</field>
+</doc>
+</add>

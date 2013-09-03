@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119647</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare al Rubicone</field>
+<field name="titleSort">Cesare al Rubicone</field>
+<field name="composer">Vincenzo Masini</field>
+<field name="composerSort">Masini, Vincenzo</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Fabio Locatelli</field>
+<field name="librettistSort">Locatelli, Fabio</field>
+<field name="theater">Casa Lamberti</field>
+<field name="city">Cesena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+al+Rubicone+Vincenzo+Masini&amp;search_field=search</field>
+</doc>
+</add>

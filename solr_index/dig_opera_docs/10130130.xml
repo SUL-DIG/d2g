@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130130</field>
+<field name="genre">Operas</field>
+<field name="title">Love and Laughter</field>
+<field name="titleSort">Love and Laughter</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Frederick Fenn</field>
+<field name="librettistSort">Fenn, Frederick</field>
+<field name="librettist">Arthur Wimperis</field>
+<field name="librettistSort">Wimperis, Arthur</field>
+<field name="theater">Lyric Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love+and+Laughter+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

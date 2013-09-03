@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126146</field>
+<field name="genre">Operas</field>
+<field name="title">Teresa nel bosco</field>
+<field name="titleSort">Teresa nel bosco</field>
+<field name="composer">Vittorio Rieti</field>
+<field name="composerSort">Rieti, Vittorio</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">Vittorio Rieti</field>
+<field name="librettistSort">Rieti, Vittorio</field>
+<field name="theater">Teatro Goldoni</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Teresa+nel+bosco+Vittorio+Rieti&amp;search_field=search</field>
+</doc>
+</add>

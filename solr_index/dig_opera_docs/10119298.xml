@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119298</field>
+<field name="genre">Operas</field>
+<field name="title">Un matrimonio a tre</field>
+<field name="titleSort">matrimonio a tre</field>
+<field name="composer">Antonio Marchisio</field>
+<field name="composerSort">Marchisio, Antonio</field>
+<field name="year">1851</field>
+<field name="date">1851</field>
+<field name="librettist">Carlo Corghi</field>
+<field name="librettistSort">Corghi, Carlo</field>
+<field name="theater">Teatro Sutera</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+matrimonio+a+tre+Antonio+Marchisio&amp;search_field=search</field>
+</doc>
+</add>

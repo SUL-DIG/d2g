@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123941</field>
+<field name="genre">Operas</field>
+<field name="title">Le jeu de l'amour et du hasard</field>
+<field name="titleSort">jeu de l'amour et du hasard</field>
+<field name="composer">Pierre Petit</field>
+<field name="composerSort">Petit, Pierre</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Charles Clerc</field>
+<field name="librettistSort">Clerc, Charles</field>
+<field name="librettist">Pierre Carlet de Chamblain de Marivaux</field>
+<field name="librettistSort">Marivaux, Pierre Carlet de Chamblain de</field>
+<field name="theater">Conservatoire Nationale</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jeu+de+l'amour+et+du+hasard+Pierre+Petit&amp;search_field=search</field>
+</doc>
+</add>

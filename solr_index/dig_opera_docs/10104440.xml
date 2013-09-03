@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104440</field>
+<field name="genre">Operas</field>
+<field name="title">Odysseus' Tod</field>
+<field name="titleSort">Odysseus' Tod</field>
+<field name="composer">August Bungert</field>
+<field name="composerSort">Bungert, August</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">August Bungert</field>
+<field name="librettistSort">Bungert, August</field>
+<field name="theater">Königlich Sächsisches Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Odysseus'+Tod+August+Bungert&amp;search_field=search</field>
+</doc>
+</add>

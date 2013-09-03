@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109206</field>
+<field name="genre">Operas</field>
+<field name="title">Giuditta</field>
+<field name="titleSort">Giuditta</field>
+<field name="composer">Stanislao Falchi</field>
+<field name="composerSort">Falchi, Stanislao</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Francesco Mancini (2)</field>
+<field name="librettistSort">Mancini (2), Francesco</field>
+<field name="librettist">Romolo Brigiuti</field>
+<field name="librettistSort">Brigiuti, Romolo</field>
+<field name="theater">Teatro Apollo</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuditta+Stanislao+Falchi&amp;search_field=search</field>
+</doc>
+</add>

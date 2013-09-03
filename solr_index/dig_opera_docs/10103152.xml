@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103152</field>
+<field name="genre">Operas</field>
+<field name="title">The Legend of Wiwaste</field>
+<field name="titleSort">Legend of Wiwaste</field>
+<field name="composer">Samuel Earle Blakeslee</field>
+<field name="composerSort">Blakeslee, Samuel Earle</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Samuel Earle Blakeslee</field>
+<field name="librettistSort">Blakeslee, Samuel Earle</field>
+<field name="librettist">Florence H. Blakeslee</field>
+<field name="librettistSort">Blakeslee, Florence H.</field>
+<field name="theater">Chaffey Junior College</field>
+<field name="city">Ontario</field>
+<field name="region">California</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Legend+of+Wiwaste+Samuel+Earle+Blakeslee&amp;search_field=search</field>
+</doc>
+</add>

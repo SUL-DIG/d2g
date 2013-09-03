@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127083</field>
+<field name="genre">Operas</field>
+<field name="title">La caccia di Enrico IV</field>
+<field name="titleSort">caccia di Enrico IV</field>
+<field name="composer">Giacomo Rust</field>
+<field name="composerSort">Rust, Giacomo</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Antonio Dian</field>
+<field name="librettistSort">Dian, Antonio</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+caccia+di+Enrico+IV+Giacomo+Rust&amp;search_field=search</field>
+</doc>
+</add>

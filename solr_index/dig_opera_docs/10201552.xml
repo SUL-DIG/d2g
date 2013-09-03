@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201552</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gideon</field>
+		<field name="titleSort">Gideon</field>
+		<field name="year">1862</field>
+		<field name="month">December</field>
+		<field name="day">5</field>
+		<field name="date">December 5, 1862</field>
+		<field name="composer">Ludwig Meinardus</field>
+		<field name="composerSort">Meinardus, Ludwig</field>
+		
+		
+		
+		<field name="city">Oldenburg</field>
+		<field name="region">Niedersachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gideon+Ludwig+Meinardus&amp;search_field=search</field>
+	</doc></add>

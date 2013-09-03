@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115483</field>
+<field name="genre">Operas</field>
+<field name="title">A Huszti kaland (The Adventure at Huszt)</field>
+<field name="titleSort">Huszti kaland (The Adventure at Huszt)</field>
+<field name="composer">Pál Kadosa</field>
+<field name="composerSort">Kadosa, Pál</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Bence Szabolcsi</field>
+<field name="librettistSort">Szabolcsi, Bence</field>
+<field name="theater">Magyar Allami Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Huszti+kaland+The+Adventure+at+Huszt+Pál+Kadosa&amp;search_field=search</field>
+</doc>
+</add>

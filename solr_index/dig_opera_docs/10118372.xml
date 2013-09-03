@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118372</field>
+<field name="genre">Operas</field>
+<field name="title">"L'imperio deluso, ovvero La Dorice</field>
+<field name="titleSort">"imperio deluso, ovvero La Dorice"</field>
+<field name="composer">Antonio Lombardini</field>
+<field name="composerSort">Lombardini, Antonio</field>
+<field name="year">1688</field>
+<field name="date">1688</field>
+<field name="librettist">Angelo Schietti</field>
+<field name="librettistSort">Schietti, Angelo</field>
+<field name="theater">Palazzo Generalizio</field>
+<field name="city">Palmanova</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'imperio+deluso,+ovvero+La+Dorice+Antonio+Lombardini&amp;search_field=search</field>
+</doc>
+</add>

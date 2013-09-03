@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131693</field>
+<field name="genre">Operas</field>
+<field name="title">Le talisman du père François</field>
+<field name="titleSort">talisman du père François</field>
+<field name="composer">J. Vandenesse</field>
+<field name="composerSort">Vandenesse, J.</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Émile Durafour</field>
+<field name="librettistSort">Durafour, Émile</field>
+
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+talisman+du+père+François+J.+Vandenesse&amp;search_field=search</field>
+</doc>
+</add>

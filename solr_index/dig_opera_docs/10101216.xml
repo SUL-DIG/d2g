@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101216</field>
+<field name="genre">Operas</field>
+<field name="title">Bruder Leichtsinn</field>
+<field name="titleSort">Bruder Leichtsinn</field>
+<field name="composer">Leo Ascher</field>
+<field name="composerSort">Ascher, Leo</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Julius Brammer</field>
+<field name="librettistSort">Brammer, Julius</field>
+<field name="librettist">Alfred Grünwald</field>
+<field name="librettistSort">Grünwald, Alfred</field>
+<field name="theater">Wiener Bürgertheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bruder+Leichtsinn+Leo+Ascher&amp;search_field=search</field>
+</doc>
+</add>

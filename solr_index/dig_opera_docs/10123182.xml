@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123182</field>
+<field name="genre">Operas</field>
+<field name="title">Medio evo latino</field>
+<field name="titleSort">Medio evo latino</field>
+<field name="composer">Héctor Panizza</field>
+<field name="composerSort">Panizza, Héctor</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Luigi Illica</field>
+<field name="librettistSort">Illica, Luigi</field>
+<field name="theater">Politeama Genovese</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medio+evo+latino+Héctor+Panizza&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132701</field>
+<field name="genre">Operas</field>
+<field name="title">Müchner Kind</field>
+<field name="titleSort">Müchner Kind</field>
+<field name="composer">Carl Weinberger</field>
+<field name="composerSort">Weinberger, Carl</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Alexander Landesberg</field>
+<field name="librettistSort">Landesberg, Alexander</field>
+<field name="librettist">[Leo Rosenstein] Leo Stein</field>
+<field name="librettistSort">Stein, Leo [Leo Rosenstein]</field>
+<field name="theater">Theater unter den Linden</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Müchner+Kind+Carl+Weinberger&amp;search_field=search</field>
+</doc>
+</add>

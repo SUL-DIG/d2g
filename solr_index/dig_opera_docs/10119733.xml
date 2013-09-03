@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119733</field>
+<field name="genre">Operas</field>
+<field name="title">Les perils de la vertu</field>
+<field name="titleSort">perils de la vertu</field>
+<field name="composer">Édouard Mathé</field>
+<field name="composerSort">Mathé, Édouard</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Ludovic Fortolis</field>
+<field name="librettistSort">Fortolis, Ludovic</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+perils+de+la+vertu+Édouard+Mathé&amp;search_field=search</field>
+</doc>
+</add>

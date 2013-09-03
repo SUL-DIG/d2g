@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102896</field>
+<field name="genre">Operas</field>
+<field name="title">"Le gascon, gascon malgré lui</field>
+<field name="titleSort">"gascon, gascon malgré lui"</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1804</field>
+<field name="date">1804</field>
+<field name="librettist">P. Guillet</field>
+<field name="librettistSort">Guillet, P.</field>
+<field name="librettist">[Pierre-Louis Staupleton] Eugène Hus</field>
+<field name="librettistSort">Hus, Eugène [Pierre-Louis Staupleton]</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+gascon,+gascon+malgré+lui+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

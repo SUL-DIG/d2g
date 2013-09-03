@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203715</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il sacrificio d'Isaac</field>
+		<field name="titleSort">sacrificio d'Isaac</field>
+		
+		
+		
+		
+		<field name="composer">Gaetano Maria Schiassi</field>
+		<field name="composerSort">Schiassi, Gaetano Maria</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Lisbon</field>
+		<field name="region">Lisboa</field>
+		<field name="country">Portugal</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+sacrificio+d'Isaac+Gaetano+Maria+Schiassi&amp;search_field=search</field>
+	</doc></add>

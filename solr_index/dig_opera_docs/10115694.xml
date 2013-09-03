@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115694</field>
+<field name="genre">Operas</field>
+<field name="title">The Calling of Mother Ann</field>
+<field name="titleSort">Calling of Mother Ann</field>
+<field name="composer">Leonard Kastle</field>
+<field name="composerSort">Kastle, Leonard</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Leonard Kastle</field>
+<field name="librettistSort">Kastle, Leonard</field>
+<field name="theater">State University of New York</field>
+<field name="city">Albany</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Calling+of+Mother+Ann+Leonard+Kastle&amp;search_field=search</field>
+</doc>
+</add>

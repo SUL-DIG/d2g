@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116087</field>
+<field name="genre">Operas</field>
+<field name="title">Schloss de l'Orme</field>
+<field name="titleSort">Schloss de l'Orme</field>
+<field name="composer">Richard Kleinmichel</field>
+<field name="composerSort">Kleinmichel, Richard</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">Elise Henle</field>
+<field name="librettistSort">Henle, Elise</field>
+<field name="theater">Neues Stadt-Theater am Dammtor</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Schloss+de+l'Orme+Richard+Kleinmichel&amp;search_field=search</field>
+</doc>
+</add>

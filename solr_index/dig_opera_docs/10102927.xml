@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102927</field>
+<field name="genre">Operas</field>
+<field name="title">"La vendetta di Nino, o sia Semiramide</field>
+<field name="titleSort">"vendetta di Nino, o sia Semiramide"</field>
+<field name="composer">Francesco Bianchi</field>
+<field name="composerSort">Bianchi, Francesco</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Pietro Giovannini</field>
+<field name="librettistSort">Giovannini, Pietro</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vendetta+di+Nino,+o+sia+Semiramide+Francesco+Bianchi&amp;search_field=search</field>
+</doc>
+</add>

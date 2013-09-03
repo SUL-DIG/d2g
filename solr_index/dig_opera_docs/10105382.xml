@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105382</field>
+<field name="genre">Operas</field>
+<field name="title">Casa di bellezza</field>
+<field name="titleSort">Casa di bellezza</field>
+<field name="composer">Alberto Cavarra</field>
+<field name="composerSort">Cavarra, Alberto</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Giggi Pizzirani</field>
+<field name="librettistSort">Pizzirani, Giggi</field>
+<field name="theater">Teatro Alfieri</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Casa+di+bellezza+Alberto+Cavarra&amp;search_field=search</field>
+</doc>
+</add>

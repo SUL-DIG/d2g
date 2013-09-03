@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131904</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro riconosciuto</field>
+<field name="titleSort">Ciro riconosciuto</field>
+<field name="composer">Giovanni Verocai</field>
+<field name="composerSort">Verocai, Giovanni</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Grosses Theater in der Sommer-Messe</field>
+<field name="city">Wolfenbüttel</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+riconosciuto+Giovanni+Verocai&amp;search_field=search</field>
+</doc>
+</add>

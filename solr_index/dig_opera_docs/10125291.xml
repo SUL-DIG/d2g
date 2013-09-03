@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125291</field>
+<field name="genre">Operas</field>
+<field name="title">Il trasleverino</field>
+<field name="titleSort">trasleverino</field>
+<field name="composer">Antonio Pugnetti</field>
+<field name="composerSort">Pugnetti, Antonio</field>
+<field name="year">1771</field>
+<field name="date">1771</field><field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trasleverino+Antonio+Pugnetti&amp;search_field=search</field>
+</doc>
+</add>

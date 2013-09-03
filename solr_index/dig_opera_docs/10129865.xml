@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129865</field>
+<field name="genre">Operas</field>
+<field name="title">Die schöne Excellenz</field>
+<field name="titleSort">schöne Excellenz</field>
+<field name="composer">Benno Sternberg</field>
+<field name="composerSort">Sternberg, Benno</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Josef Siener</field>
+<field name="librettistSort">Siener, Josef</field>
+<field name="theater">Metropoltheater</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+schöne+Excellenz+Benno+Sternberg&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100734</field>
+<field name="genre">Operas</field>
+<field name="title">Virginia (La caduta dei Decemviri)</field>
+<field name="titleSort">Virginia (La caduta dei Decemviri)</field>
+<field name="composer">Gaetano Andreozzi</field>
+<field name="composerSort">Andreozzi, Gaetano</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Silvio Stampiglia</field>
+<field name="librettistSort">Stampiglia, Silvio</field>
+<field name="theater">Teatro Sant'Agostino</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virginia+La+caduta+dei+Decemviri+Gaetano+Andreozzi&amp;search_field=search</field>
+</doc>
+</add>

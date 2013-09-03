@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118230</field>
+<field name="genre">Operas</field>
+<field name="title">Lantara</field>
+<field name="titleSort">Lantara</field>
+<field name="composer">Carl Ludvig Lithander</field>
+<field name="composerSort">Lithander, Carl Ludvig</field>
+<field name="year">1817</field>
+<field name="date">1817</field>
+<field name="librettist">Carl Gustaf Nordforss</field>
+<field name="librettistSort">Nordforss, Carl Gustaf</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lantara+Carl+Ludvig+Lithander&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102122</field>
+<field name="genre">Operas</field>
+<field name="title">Le mari au bal</field>
+<field name="titleSort">mari au bal</field>
+<field name="composer">Louis Joseph Amédée de Beauplan</field>
+<field name="composerSort">Beauplan, Louis Joseph Amédée de</field>
+<field name="year">1845</field>
+<field name="date">1845</field>
+<field name="librettist">Émile Deschamps</field>
+<field name="librettistSort">Deschamps, Émile</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+mari+au+bal+Louis+Joseph+Amédée+de+Beauplan&amp;search_field=search</field>
+</doc>
+</add>

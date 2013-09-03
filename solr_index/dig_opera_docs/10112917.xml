@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112917</field>
+<field name="genre">Operas</field>
+<field name="title">Gulnara</field>
+<field name="titleSort">Gulnara</field>
+<field name="composer">Andrea Guarneri</field>
+<field name="composerSort">Guarneri, Andrea</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Luigj Gualtieri</field>
+<field name="librettistSort">Gualtieri, Luigj</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gulnara+Andrea+Guarneri&amp;search_field=search</field>
+</doc>
+</add>

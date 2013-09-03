@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104076</field>
+<field name="genre">Operas</field>
+<field name="title">Novella</field>
+<field name="titleSort">Novella</field>
+<field name="composer">Giulio Cesare Brero</field>
+<field name="composerSort">Brero, Giulio Cesare</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Alessandro de Stefani</field>
+<field name="librettistSort">Stefani, Alessandro de</field>
+<field name="librettist">Giovanni Boccaccio</field>
+<field name="librettistSort">Boccaccio, Giovanni</field>
+<field name="theater">Teatro Donizetti</field>
+<field name="city">Bergamo</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Novella+Giulio+Cesare+Brero&amp;search_field=search</field>
+</doc>
+</add>

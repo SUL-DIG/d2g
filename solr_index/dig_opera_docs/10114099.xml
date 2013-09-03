@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114099</field>
+<field name="genre">Operas</field>
+<field name="title">Elena</field>
+<field name="titleSort">Elena</field>
+<field name="composer">Eduardo Hernández Moncada</field>
+<field name="composerSort">Moncada, Eduardo Hernández</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Francisco Zendejas Gómez</field>
+<field name="librettistSort">Zendejas Gómez, Francisco</field>
+<field name="theater">Palácio de Bellas Artes</field>
+<field name="city">Mexico City</field>
+
+<field name="country">Mexico</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elena+Eduardo+Hernández+Moncada&amp;search_field=search</field>
+</doc>
+</add>

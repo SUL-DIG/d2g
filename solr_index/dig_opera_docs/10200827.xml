@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200827</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">David and Jonathan</field>
+		<field name="titleSort">David and Jonathan</field>
+		<field name="year">1887</field>
+		
+		
+		<field name="date">1887</field>
+		<field name="composer">Eva Rose York</field>
+		<field name="composerSort">York, Eva Rose</field>
+		
+		
+		
+		<field name="city">Belleville</field>
+		<field name="region">Ontario</field>
+		<field name="country">Canada</field>
+		<field name="subject">Jonathan, son of Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+and+Jonathan+Eva+Rose+York&amp;search_field=search</field>
+	</doc></add>

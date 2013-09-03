@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201220</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Esther</field>
+		<field name="titleSort">Esther</field>
+		<field name="year">1775</field>
+		
+		
+		<field name="date">1775</field>
+		<field name="composer">Nicolas-Jean Le Froid de Méreaux</field>
+		<field name="composerSort">Méreaux, Nicolas-Jean Le Froid de </field>
+		<field name="librettist">Jean Racine</field>
+		<field name="librettistSort">Racine, Jean</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther+Nicolas-Jean+Le+Froid+de+Méreaux&amp;search_field=search</field>
+	</doc></add>

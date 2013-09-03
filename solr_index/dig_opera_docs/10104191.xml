@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104191</field>
+<field name="genre">Operas</field>
+<field name="title">Una burla graziosa</field>
+<field name="titleSort">burla graziosa</field>
+<field name="composer">Luigi da Broi</field>
+<field name="composerSort">Broi, Luigi da</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Luigi Alpago Novello</field>
+<field name="librettistSort">Novello, Luigi Alpago</field>
+
+<field name="city">Cison di Valmarino</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+burla+graziosa+Luigi+da+Broi&amp;search_field=search</field>
+</doc>
+</add>

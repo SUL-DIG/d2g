@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202113</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jacob et Rachelle amor pudicus</field>
+		<field name="titleSort">Jacob et Rachelle amor pudicus</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Domenico Filippo Bottari</field>
+		<field name="composerSort">Bottari, Domenico Filippo</field>
+		
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jacob</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jacob+et+Rachelle+amor+pudicus+Domenico+Filippo+Bottari&amp;search_field=search</field>
+	</doc></add>

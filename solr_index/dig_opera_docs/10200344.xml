@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200344</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il battesimo di San Valeriano martire</field>
+		<field name="titleSort">battesimo di San Valeriano martire</field>
+		<field name="year">1665</field>
+		<field name="month">November</field>
+		<field name="day">22</field>
+		<field name="date">November 22, 1665</field>
+		<field name="composer">Alfonso Paino</field>
+		<field name="composerSort">Paino, Alfonso</field>
+		<field name="librettist">Marzio Erculei</field>
+		<field name="librettistSort">Erculei, Marzio</field>
+		
+		<field name="theater">Oratorio di San Carlo rotondo</field>
+		<field name="city">Modena</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Valerian</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">15</field>
+		<field name="feastDate">December 15</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+battesimo+di+San+Valeriano+martire+Alfonso+Paino&amp;search_field=search</field>
+	</doc></add>

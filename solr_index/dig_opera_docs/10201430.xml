@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201430</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Les fureurs de Saül</field>
+		<field name="titleSort">fureurs de Saül</field>
+		<field name="year">1786</field>
+		
+		
+		<field name="date">1786</field>
+		<field name="composer">André-Étienne Lepreux</field>
+		<field name="composerSort">Lepreux, André-Étienne</field>
+		<field name="librettist">Michel-Jean Sedaine</field>
+		<field name="librettistSort">Sedaine, Michel-Jean</field>
+		
+		<field name="theater">Concert spirituel</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Saul tormented by an Evil Spirit</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fureurs+de+Saül+André-Étienne+Lepreux&amp;search_field=search</field>
+	</doc></add>

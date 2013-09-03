@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120399</field>
+<field name="genre">Operas</field>
+<field name="title">Thecla of Boer en duivel</field>
+<field name="titleSort">Thecla of Boer en duivel</field>
+<field name="composer">Joseph Mertens</field>
+<field name="composerSort">Mertens, Joseph</field>
+<field name="year">1874</field>
+<field name="date">1874</field><field name="theater">Nederlandsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thecla+of+Boer+en+duivel+Joseph+Mertens&amp;search_field=search</field>
+</doc>
+</add>

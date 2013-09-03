@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202978</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Niklaus von Flüe</field>
+		<field name="titleSort">Niklaus von Flüe</field>
+		<field name="year">1938</field>
+		
+		
+		<field name="date">1938</field>
+		<field name="composer">Karl von Bertigny</field>
+		<field name="composerSort">Bertigny, Karl von</field>
+		<field name="librettist">Karl von Bertigny</field>
+		<field name="librettistSort">Bertigny, Karl von</field>
+		
+		
+		
+		
+		
+		<field name="subject">Saint Nicholas of Flüe</field>
+		<field name="feastMonth">March</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">March 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Niklaus+von+Flüe+Karl+von+Bertigny&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204217</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sedecia, re di Giuda</field>
+		<field name="titleSort">Sedecia, re di Giuda</field>
+		<field name="year">1782</field>
+		
+		
+		<field name="date">1782</field>
+		<field name="composer">Pasquale Anfossi</field>
+		<field name="composerSort">Anfossi, Pasquale</field>
+		<field name="librettist">Simeone Antonio Sografi</field>
+		<field name="librettistSort">Sografi, Simeone Antonio</field>
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">Zedekiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sedecia,+re+di+Giuda+Pasquale+Anfossi&amp;search_field=search</field>
+	</doc></add>

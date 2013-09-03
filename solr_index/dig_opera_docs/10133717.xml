@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133717</field>
+<field name="genre">Operas</field>
+<field name="title">Sganarelle</field>
+<field name="titleSort">Sganarelle</field>
+<field name="composer">Vincent Zito</field>
+<field name="composerSort">Zito, Vincent</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
+<field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
+<field name="theater">New York University</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sganarelle+Vincent+Zito&amp;search_field=search</field>
+</doc>
+</add>

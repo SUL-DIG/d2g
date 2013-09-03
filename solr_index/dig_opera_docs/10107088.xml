@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107088</field>
+<field name="genre">Operas</field>
+<field name="title">Kikimimi zukin (The Listening Cap)</field>
+<field name="titleSort">Kikimimi zukin (The Listening Cap)</field>
+<field name="composer">Ikuma Dan</field>
+<field name="composerSort">Dan, Ikuma</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Juniji Kinoshita</field>
+<field name="librettistSort">Kinoshita, Juniji</field>
+
+<field name="city">Takarazuka</field>
+<field name="region">Hyogo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kikimimi+zukin+The+Listening+Cap+Ikuma+Dan&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100481</field>
+<field name="genre">Operas</field>
+<field name="title">Ottone</field>
+<field name="titleSort">Ottone</field>
+<field name="composer">Gennaro d'Alessandro</field>
+<field name="composerSort">d'Alessandro, Gennaro</field>
+<field name="year">1740</field>
+<field name="date">1740</field>
+<field name="librettist">Antonio Salvi</field>
+<field name="librettistSort">Salvi, Antonio</field>
+<field name="theater">Teatro Grimani a San Giovanni Grisostomo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ottone+Gennaro+d'Alessandro&amp;search_field=search</field>
+</doc>
+</add>

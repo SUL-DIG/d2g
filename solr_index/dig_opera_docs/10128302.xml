@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128302</field>
+<field name="genre">Operas</field>
+<field name="title">Der Dieb im Warenhaus</field>
+<field name="titleSort">Dieb im Warenhaus</field>
+<field name="composer">Eberhard Schmidt</field>
+<field name="composerSort">Schmidt, Eberhard</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Gisela Schwarz-Marell</field>
+<field name="librettistSort">Schwarz-Marell, Gisela</field>
+<field name="theater">DDR Television (Fernsehen der Deutsche Demokratische Republik)</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Dieb+im+Warenhaus+Eberhard+Schmidt&amp;search_field=search</field>
+</doc>
+</add>

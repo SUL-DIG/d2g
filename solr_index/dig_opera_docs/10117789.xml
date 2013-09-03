@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117789</field>
+<field name="genre">Operas</field>
+<field name="title">Le chanson de Laujon</field>
+<field name="titleSort">chanson de Laujon</field>
+<field name="composer">Ernest Lejeune</field>
+<field name="composerSort">Lejeune, Ernest</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Pierre Dumas</field>
+<field name="librettistSort">Dumas, Pierre</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Calais</field>
+<field name="region">Pas-de-Calais</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+chanson+de+Laujon+Ernest+Lejeune&amp;search_field=search</field>
+</doc>
+</add>

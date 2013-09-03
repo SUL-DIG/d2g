@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126095</field>
+<field name="genre">Operas</field>
+<field name="title">Almenrausch und Edelweiss</field>
+<field name="titleSort">Almenrausch und Edelweiss</field>
+<field name="composer">G. Richter</field>
+<field name="composerSort">Richter, G.</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Franz Prell</field>
+<field name="librettistSort">Prell, Franz</field>
+<field name="theater">Drexlers Singspielhalle im Prater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Almenrausch+und+Edelweiss+G.+Richter&amp;search_field=search</field>
+</doc>
+</add>

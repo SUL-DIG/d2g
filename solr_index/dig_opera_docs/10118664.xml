@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118664</field>
+<field name="genre">Operas</field>
+<field name="title">La alegría del amor</field>
+<field name="titleSort">alegría del amor</field>
+<field name="composer">Pablo Luna</field>
+<field name="composerSort">Luna, Pablo</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">José Juan Cadenas</field>
+<field name="librettistSort">Cadenas, José Juan</field>
+<field name="librettist">Ramón Ascensio Más</field>
+<field name="librettistSort">Ascensio Más, Ramón</field>
+<field name="theater">Teatro Apolo</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+alegría+del+amor+Pablo+Luna&amp;search_field=search</field>
+</doc>
+</add>

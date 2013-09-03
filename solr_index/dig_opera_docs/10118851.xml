@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118851</field>
+<field name="genre">Operas</field>
+<field name="title">The Grandmother and the Witch</field>
+<field name="titleSort">Grandmother and the Witch</field>
+<field name="composer">LaVahn Maesch</field>
+<field name="composerSort">Maesch, LaVahn</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Karl H. Bratton</field>
+<field name="librettistSort">Bratton, Karl H.</field>
+<field name="theater">First Congregational Church</field>
+<field name="city">Appleton</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Grandmother+and+the+Witch+LaVahn+Maesch&amp;search_field=search</field>
+</doc>
+</add>

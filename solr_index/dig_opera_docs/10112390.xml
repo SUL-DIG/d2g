@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112390</field>
+<field name="genre">Operas</field>
+<field name="title">Birth of the Poet</field>
+<field name="titleSort">Birth of the Poet</field>
+<field name="composer">Peter Gordon</field>
+<field name="composerSort">Gordon, Peter</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Kathy Acker</field>
+<field name="librettistSort">Acker, Kathy</field>
+<field name="theater">Ro Theater</field>
+<field name="city">Rotterdam</field>
+<field name="region">Suid Holland</field>
+<field name="country">Netherlands</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Birth+of+the+Poet+Peter+Gordon&amp;search_field=search</field>
+</doc>
+</add>

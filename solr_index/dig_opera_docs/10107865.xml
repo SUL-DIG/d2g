@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107865</field>
+<field name="genre">Operas</field>
+<field name="title">Les trois dervilles</field>
+<field name="titleSort">trois dervilles</field>
+<field name="composer">Joseph Denis Doche</field>
+<field name="composerSort">Doche, Joseph Denis</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+trois+dervilles+Joseph+Denis+Doche&amp;search_field=search</field>
+</doc>
+</add>

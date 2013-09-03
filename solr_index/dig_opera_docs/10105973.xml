@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105973</field>
+<field name="genre">Operas</field>
+<field name="title">La frascatana nobile (La finta frascatana)</field>
+<field name="titleSort">frascatana nobile (finta frascatana)</field>
+<field name="composer">Domenico Cimarosa</field>
+<field name="composerSort">Cimarosa, Domenico</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Pasquale Mililotti</field>
+<field name="librettistSort">Mililotti, Pasquale</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+frascatana+nobile+La+finta+frascatana+Domenico+Cimarosa&amp;search_field=search</field>
+</doc>
+</add>

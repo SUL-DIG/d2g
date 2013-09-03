@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202259</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jonah</field>
+		<field name="titleSort">Jonah</field>
+		<field name="year">1968</field>
+		
+		
+		<field name="date">1968</field>
+		<field name="composer">Richard Wayne Dirksen</field>
+		<field name="composerSort">Dirksen, Richard Wayne</field>
+		<field name="librettist">Dap Thorpe</field>
+		<field name="librettistSort">Thorpe, Dap</field>
+		
+		<field name="theater">All Saint's Episcopal Church</field>
+		<field name="city">Chevy Chase</field>
+		<field name="region">Maryland</field>
+		<field name="country">United States</field>
+		<field name="subject">Jonah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonah+Richard+Wayne+Dirksen&amp;search_field=search</field>
+	</doc></add>

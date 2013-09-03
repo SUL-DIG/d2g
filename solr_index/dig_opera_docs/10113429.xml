@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113429</field>
+<field name="genre">Operas</field>
+<field name="title">Fossegrimen</field>
+<field name="titleSort">Fossegrimen</field>
+<field name="composer">Johan Halvorsen</field>
+<field name="composerSort">Halvorsen, Johan</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Sigurd Edelgard</field>
+<field name="librettistSort">Edelgard, Sigurd</field>
+
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fossegrimen+Johan+Halvorsen&amp;search_field=search</field>
+</doc>
+</add>

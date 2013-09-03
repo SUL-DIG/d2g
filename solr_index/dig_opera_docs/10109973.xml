@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109973</field>
+<field name="genre">Operas</field>
+<field name="title">Theseus und Ariadne</field>
+<field name="titleSort">Theseus und Ariadne</field>
+<field name="composer">Anton Fischer</field>
+<field name="composerSort">Fischer, Anton</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Matthäus Stegmayer</field>
+<field name="librettistSort">Stegmayer, Matthäus</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Theseus+und+Ariadne+Anton+Fischer&amp;search_field=search</field>
+</doc>
+</add>

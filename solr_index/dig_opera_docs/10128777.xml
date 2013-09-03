@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128777</field>
+<field name="genre">Operas</field>
+<field name="title">Pauline</field>
+<field name="titleSort">Pauline</field>
+<field name="composer">Vincent Scotto</field>
+<field name="composerSort">Scotto, Vincent</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">[Marcel Cabridens] Marc-Cab</field>
+<field name="librettistSort">Marc-Cab, [Marcel Cabridens]</field>
+<field name="librettist">__ Gévaudan</field>
+<field name="librettistSort">Gévaudan, __</field>
+
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pauline+Vincent+Scotto&amp;search_field=search</field>
+</doc>
+</add>

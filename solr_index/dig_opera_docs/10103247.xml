@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103247</field>
+<field name="genre">Operas</field>
+<field name="title">Reuben Reuben</field>
+<field name="titleSort">Reuben Reuben</field>
+<field name="composer">Marc Blitzstein</field>
+<field name="composerSort">Blitzstein, Marc</field>
+<field name="year">1955</field>
+<field name="date">1955</field>
+<field name="librettist">Marc Blitzstein</field>
+<field name="librettistSort">Blitzstein, Marc</field>
+<field name="theater">Shubert Theater</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Reuben+Reuben+Marc+Blitzstein&amp;search_field=search</field>
+</doc>
+</add>

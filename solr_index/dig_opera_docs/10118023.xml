@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118023</field>
+<field name="genre">Operas</field>
+<field name="title">L'article 324</field>
+<field name="titleSort">article 324</field>
+<field name="composer">Auguste Léveillé</field>
+<field name="composerSort">Léveillé, Auguste</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">__ Sauger</field>
+<field name="librettistSort">Sauger, __</field>
+<field name="librettist">__ Averpoul</field>
+<field name="librettistSort">Averpoul, __</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'article+324+Auguste+Léveillé&amp;search_field=search</field>
+</doc>
+</add>

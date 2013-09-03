@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101690</field>
+<field name="genre">Operas</field>
+<field name="title">Catherine Grey</field>
+<field name="titleSort">Catherine Grey</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">George Linley</field>
+<field name="librettistSort">Linley, George</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Catherine+Grey+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

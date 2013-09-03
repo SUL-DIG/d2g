@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115686</field>
+<field name="genre">Operas</field>
+<field name="title">Krakatit</field>
+<field name="titleSort">Krakatit</field>
+<field name="composer">Václav Kaslík</field>
+<field name="composerSort">Kaslík, Václav</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Otakar Vávra</field>
+<field name="librettistSort">Vávra, Otakar</field>
+<field name="librettist">Karel Capek</field>
+<field name="librettistSort">Capek, Karel</field>
+<field name="theater">Czech Television (Ceska Televize)</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Krakatit+Václav+Kaslík&amp;search_field=search</field>
+</doc>
+</add>

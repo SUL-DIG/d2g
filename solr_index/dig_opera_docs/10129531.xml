@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129531</field>
+<field name="genre">Operas</field>
+<field name="title">La Bohémienne</field>
+<field name="titleSort">Bohémienne</field>
+<field name="composer">Pierre François Soubies</field>
+<field name="composerSort">Soubies, Pierre François</field>
+<field name="year">1844</field>
+<field name="date">1844</field><field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Bohémienne+Pierre+François+Soubies&amp;search_field=search</field>
+</doc>
+</add>

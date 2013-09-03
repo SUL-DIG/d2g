@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121674</field>
+<field name="genre">Operas</field>
+<field name="title">L'autour de son ménage (Dichterlaunen)</field>
+<field name="titleSort">autour de son ménage (Dichterlaunen)</field>
+<field name="composer">Natale Nicola Mussini</field>
+<field name="composerSort">Mussini, Natale Nicola</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Deutsches Theater</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'autour+de+son+ménage+Dichterlaunen+Natale+Nicola+Mussini&amp;search_field=search</field>
+</doc>
+</add>

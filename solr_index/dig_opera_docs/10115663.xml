@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115663</field>
+<field name="genre">Operas</field>
+<field name="title">La vittoria del principe Vladislao in Valacchia</field>
+<field name="titleSort">vittoria del principe Vladislao in Valacchia</field>
+<field name="composer">Giovanni Girolamo Kapsperger</field>
+<field name="composerSort">Kapsperger, Giovanni Girolamo</field>
+<field name="year">1625</field>
+<field name="date">1625</field>
+<field name="librettist">Giovanni Ciampoli</field>
+<field name="librettistSort">Ciampoli, Giovanni</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vittoria+del+principe+Vladislao+in+Valacchia+Giovanni+Girolamo+Kapsperger&amp;search_field=search</field>
+</doc>
+</add>

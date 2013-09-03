@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132552</field>
+<field name="genre">Operas</field>
+<field name="title">Lealista</field>
+<field name="titleSort">Lealista</field>
+<field name="composer">Mary Carol Warwick</field>
+<field name="composerSort">Warwick, Mary Carol</field>
+<field name="year">1985</field>
+<field name="date">1985</field>
+<field name="librettist">Mary Carol Warwick</field>
+<field name="librettistSort">Warwick, Mary Carol</field>
+<field name="librettist">Ernest Hemingway</field>
+<field name="librettistSort">Hemingway, Ernest</field>
+<field name="theater">Southwest Texas State University</field>
+<field name="city">San Marcos</field>
+<field name="region">Texas</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lealista+Mary+Carol+Warwick&amp;search_field=search</field>
+</doc>
+</add>

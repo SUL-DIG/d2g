@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201511</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gesù crocifisso</field>
+		<field name="titleSort">Gesù crocifisso</field>
+		<field name="year">1695</field>
+		<field name="month">April</field>
+		<field name="day">2</field>
+		<field name="date">April 2, 1695</field>
+		<field name="composer">Carlo Agostino Badia</field>
+		<field name="composerSort">Badia, Carlo Agostino</field>
+		<field name="librettist">Anacleto Catelani</field>
+		<field name="librettistSort">Catelani, Anacleto</field>
+		
+		<field name="theater">Sankta-Ursula</field>
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">The Crucifixion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gesù+crocifisso+Carlo+Agostino+Badia&amp;search_field=search</field>
+	</doc></add>

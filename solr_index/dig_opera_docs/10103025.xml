@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103025</field>
+<field name="genre">Operas</field>
+<field name="title">Alice Meets the Mock Turtle</field>
+<field name="titleSort">Alice Meets the Mock Turtle</field>
+<field name="composer">Susan Hulsman Bingham</field>
+<field name="composerSort">Bingham, Susan Hulsman</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Susan Hulsman Bingham</field>
+<field name="librettistSort">Bingham, Susan Hulsman</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistSort">Carroll, Lewis [Charles Lutwidge Dodgson]</field>
+<field name="theater">Bruno Walter Auditorium</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alice+Meets+the+Mock+Turtle+Susan+Hulsman+Bingham&amp;search_field=search</field>
+</doc>
+</add>

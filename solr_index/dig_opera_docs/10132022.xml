@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132022</field>
+<field name="genre">Operas</field>
+<field name="title">Plouf</field>
+<field name="titleSort">Plouf</field>
+<field name="composer">Georges Villain</field>
+<field name="composerSort">Villain, Georges</field>
+<field name="year">1906</field>
+<field name="date">1906</field><field name="theater">Théâtre Moderne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Plouf+Georges+Villain&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120566</field>
+<field name="genre">Operas</field>
+<field name="title">La gelosia non giova</field>
+<field name="titleSort">gelosia non giova</field>
+<field name="composer">Benedetto Micheli</field>
+<field name="composerSort">Micheli, Benedetto</field>
+<field name="year">1748</field>
+<field name="date">1748</field><field name="theater">Teatro de Granari</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gelosia+non+giova+Benedetto+Micheli&amp;search_field=search</field>
+</doc>
+</add>

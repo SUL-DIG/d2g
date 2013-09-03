@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133699</field>
+<field name="genre">Operas</field>
+<field name="title">Quinto Fabio</field>
+<field name="titleSort">Quinto Fabio</field>
+<field name="composer">Niccolò Antonio Zingarelli</field>
+<field name="composerSort">Zingarelli, Niccolò Antonio</field>
+<field name="year">1794</field>
+<field name="date">1794</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro dagli Armeni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Quinto+Fabio+Niccolò+Antonio+Zingarelli&amp;search_field=search</field>
+</doc>
+</add>

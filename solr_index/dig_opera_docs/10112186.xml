@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112186</field>
+<field name="genre">Operas</field>
+<field name="title">Ippolito</field>
+<field name="titleSort">Ippolito</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1745</field>
+<field name="date">1745</field>
+<field name="librettist">Giuseppe Gorini Corio</field>
+<field name="librettistSort">Corio, Giuseppe Gorini</field>
+<field name="theater">Regio Ducal Teatro</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ippolito+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

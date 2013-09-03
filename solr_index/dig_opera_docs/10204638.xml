@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204638</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il trionfo della gratia</field>
+		<field name="titleSort">trionfo della gratia</field>
+		<field name="year">1685</field>
+		<field name="month">March</field>
+		<field name="day">18</field>
+		<field name="date">March 18, 1685</field>
+		<field name="composer">Alessandro Scarlatti</field>
+		<field name="composerSort">Scarlatti, Alessandro</field>
+		<field name="librettist">Benedetto Pamphili</field>
+		<field name="librettistSort">Pamphili, Benedetto</field>
+		
+		<field name="theater">Seminario Romano</field>
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Redemption</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+trionfo+della+gratia+Alessandro+Scarlatti&amp;search_field=search</field>
+	</doc></add>

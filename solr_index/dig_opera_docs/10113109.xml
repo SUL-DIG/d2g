@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113109</field>
+<field name="genre">Operas</field>
+<field name="title">Elfride</field>
+<field name="titleSort">Elfride</field>
+<field name="composer">Adolphe Guiol</field>
+<field name="composerSort">Guiol, Adolphe</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Louis Chauvet</field>
+<field name="librettistSort">Chauvet, Louis</field>
+<field name="theater">Théâtre du Capitole</field>
+<field name="city">Toulouse</field>
+<field name="region">Haute-Garonne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfride+Adolphe+Guiol&amp;search_field=search</field>
+</doc>
+</add>

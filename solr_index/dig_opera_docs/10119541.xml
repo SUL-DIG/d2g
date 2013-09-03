@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119541</field>
+<field name="genre">Operas</field>
+<field name="title">Zenitba (The Marriage)</field>
+<field name="titleSort">Zenitba (The Marriage)</field>
+<field name="composer">Bohuslav Martinu</field>
+<field name="composerSort">Martinu, Bohuslav</field>
+<field name="year">1953</field>
+<field name="date">1953</field>
+<field name="librettist">Bohuslav Martinu</field>
+<field name="librettistSort">Martinu, Bohuslav</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">NBC Television (National Broadcasting Company)</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zenitba+The+Marriage+Bohuslav+Martinu&amp;search_field=search</field>
+</doc>
+</add>

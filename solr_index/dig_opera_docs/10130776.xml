@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130776</field>
+<field name="genre">Operas</field>
+<field name="title">Raphael (Raphael Zambular)</field>
+<field name="titleSort">Raphael (Raphael Zambular)</field>
+<field name="composer">Friedrich Wilhelm Telle</field>
+<field name="composerSort">Telle, Friedrich Wilhelm</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Johann Sigismund Arendt</field>
+<field name="librettistSort">Arendt, Johann Sigismund</field>
+<field name="theater">Neues Schauspielhaus</field>
+<field name="city">Aachen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Raphael+Raphael+Zambular+Friedrich+Wilhelm+Telle&amp;search_field=search</field>
+</doc>
+</add>

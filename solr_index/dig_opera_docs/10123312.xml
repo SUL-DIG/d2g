@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123312</field>
+<field name="genre">Operas</field>
+<field name="title">Arianwen</field>
+<field name="titleSort">Arianwen</field>
+<field name="composer">Joseph Parry</field>
+<field name="composerSort">Parry, Joseph</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">David Rowlands</field>
+<field name="librettistSort">Rowlands, David</field>
+<field name="librettist">Joseph Parry</field>
+<field name="librettistSort">Parry, Joseph</field>
+<field name="theater">Theatre Royal</field>
+<field name="city">Cardiff</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Arianwen+Joseph+Parry&amp;search_field=search</field>
+</doc>
+</add>

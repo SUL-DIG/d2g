@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200846</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il David perseguitato</field>
+		<field name="titleSort">David perseguitato</field>
+		<field name="year">1723</field>
+		
+		
+		<field name="date">1723</field>
+		<field name="composer">Francesco Bartolomeo Conti</field>
+		<field name="composerSort">Conti, Francesco Bartolomeo</field>
+		<field name="librettist">A. di Avanzo</field>
+		<field name="librettistSort">Avanzo, A. di</field>
+		
+		
+		<field name="city">Vienna</field>
+		
+		<field name="country">Austria</field>
+		<field name="subject">David and Saul</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+David+perseguitato+Francesco+Bartolomeo+Conti&amp;search_field=search</field>
+	</doc></add>

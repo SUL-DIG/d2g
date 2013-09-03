@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201589</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioas, re di Giuda</field>
+		<field name="titleSort">Gioas, re di Giuda</field>
+		<field name="year">1751</field>
+		
+		
+		<field name="date">1751</field>
+		<field name="composer">Lorenzo Minuti</field>
+		<field name="composerSort">Minuti, Lorenzo</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioas,+re+di+Giuda+Lorenzo+Minuti&amp;search_field=search</field>
+	</doc></add>

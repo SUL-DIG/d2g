@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201203</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'Ester</field>
+		<field name="titleSort">Ester</field>
+		<field name="year">1723</field>
+		
+		
+		<field name="date">1723</field>
+		<field name="composer">Giuseppe Maria Orlandini</field>
+		<field name="composerSort">Orlandini, Giuseppe Maria</field>
+		<field name="librettist">Girolamo Melani</field>
+		<field name="librettistSort">Melani, Girolamo</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Esther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Ester+Giuseppe+Maria+Orlandini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103019</field>
+<field name="genre">Operas</field>
+<field name="title">Agnes die Bräuerin</field>
+<field name="titleSort">Agnes die Bräuerin</field>
+<field name="composer">Carl Binder</field>
+<field name="composerSort">Binder, Carl</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Alois Just</field>
+<field name="librettistSort">Just, Alois</field>
+<field name="librettist">Karl August Lewald</field>
+<field name="librettistSort">Lewald, Karl August</field>
+<field name="theater">Theater in der Josefstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Agnes+die+Bräuerin+Carl+Binder&amp;search_field=search</field>
+</doc>
+</add>

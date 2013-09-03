@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107708</field>
+<field name="genre">Operas</field>
+<field name="title">Deucalion et Pyrrhe</field>
+<field name="titleSort">Deucalion et Pyrrhe</field>
+<field name="composer">Eugène Diache</field>
+<field name="composerSort">Diache, Eugène</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Adolphe Guénée</field>
+<field name="librettistSort">Guénée, Adolphe</field>
+<field name="librettist">[Louis-François Nicolaïe] Clairville</field>
+<field name="librettistSort">Clairville, [Louis-François Nicolaïe]</field>
+<field name="theater">Théâtre des Variétés</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Deucalion+et+Pyrrhe+Eugène+Diache&amp;search_field=search</field>
+</doc>
+</add>

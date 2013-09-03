@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110329</field>
+<field name="genre">Operas</field>
+<field name="title">Stratonice</field>
+<field name="titleSort">Stratonice</field>
+<field name="composer">[Alix Émile Eugène Fournier] Fournier-Alix</field>
+<field name="composerSort">Fournier-Alix, [Alix Émile Eugène Fournier]</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Louis Gallet</field>
+<field name="librettistSort">Gallet, Louis</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stratonice+Alix+Émile+Eugène+Fournier]+Fournier-Alix&amp;search_field=search</field>
+</doc>
+</add>

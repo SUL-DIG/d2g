@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104897</field>
+<field name="genre">Operas</field>
+<field name="title">Ciro</field>
+<field name="titleSort">Ciro</field>
+<field name="composer">Luigi Capotorti</field>
+<field name="composerSort">Capotorti, Luigi</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Giulio Imbimbo</field>
+<field name="librettistSort">Imbimbo, Giulio</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ciro+Luigi+Capotorti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128954</field>
+<field name="genre">Operas</field>
+<field name="title">Re Manfredi</field>
+<field name="titleSort">Re Manfredi</field>
+<field name="composer">Carlo Sessa</field>
+<field name="composerSort">Sessa, Carlo</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Re+Manfredi+Carlo+Sessa&amp;search_field=search</field>
+</doc>
+</add>

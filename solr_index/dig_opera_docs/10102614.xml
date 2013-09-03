@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102614</field>
+<field name="genre">Operas</field>
+<field name="title">L'agence Raburdin</field>
+<field name="titleSort">agence Raburdin</field>
+<field name="composer">Firmin Bernicat</field>
+<field name="composerSort">Bernicat, Firmin</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Georges Dorfeuil</field>
+<field name="librettistSort">Dorfeuil, Georges</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'agence+Raburdin+Firmin+Bernicat&amp;search_field=search</field>
+</doc>
+</add>

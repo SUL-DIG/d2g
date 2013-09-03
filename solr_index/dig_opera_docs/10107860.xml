@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107860</field>
+<field name="genre">Operas</field>
+<field name="title">Le veuf de Malabar</field>
+<field name="titleSort">veuf de Malabar</field>
+<field name="composer">Alexandre Pierre Joseph Doche</field>
+<field name="composerSort">Doche, Alexandre Pierre Joseph</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Adrien-Robert Basset</field>
+<field name="librettistSort">Basset, Adrien-Robert</field>
+<field name="librettist">Paul Siraudin</field>
+<field name="librettistSort">Siraudin, Paul</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+veuf+de+Malabar+Alexandre+Pierre+Joseph+Doche&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201573</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioas manifestato</field>
+		<field name="titleSort">Gioas manifestato</field>
+		<field name="year">1747</field>
+		
+		
+		<field name="date">1747</field>
+		<field name="composer">Antonio Francesco Bellinzani</field>
+		<field name="composerSort">Bellinzani, Antonio Francesco</field>
+		<field name="librettist">Imido Croniano</field>
+		<field name="librettistSort">Croniano, Imido</field>
+		
+		<field name="theater">Chiesa di San Francesco de' Padri Predicatore Minori</field>
+		<field name="city">Pesaro</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioas+manifestato+Antonio+Francesco+Bellinzani&amp;search_field=search</field>
+	</doc></add>

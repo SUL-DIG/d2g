@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110144</field>
+<field name="genre">Operas</field>
+<field name="title">L'а-propos de la nature</field>
+<field name="titleSort">а-propos de la nature</field>
+<field name="composer">Charles-Gabriel Foignet</field>
+<field name="composerSort">Foignet, Charles-Gabriel</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">[Édouard-Thomas Simon] Edward Tom Yomns</field>
+<field name="librettistSort">Yomns, Edward Tom [Édouard-Thomas Simon]</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'а-propos+de+la+nature+Charles-Gabriel+Foignet&amp;search_field=search</field>
+</doc>
+</add>

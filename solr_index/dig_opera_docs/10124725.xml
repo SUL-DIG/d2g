@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124725</field>
+<field name="genre">Operas</field>
+<field name="title">Tito Manlio</field>
+<field name="titleSort">Tito Manlio</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1696</field>
+<field name="date">1696</field>
+<field name="librettist">Matteo Noris</field>
+<field name="librettistSort">Noris, Matteo</field>
+<field name="theater">Villa Medicea</field>
+<field name="city">Pratolino</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tito+Manlio+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

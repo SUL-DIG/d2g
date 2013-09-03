@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100558</field>
+<field name="genre">Operas</field>
+<field name="title">"Il perdono involontario, o sia Lo zio deluso</field>
+<field name="titleSort">"perdono involontario, o sia Lo zio deluso"</field>
+<field name="composer">Giuseppe Aloisi</field>
+<field name="composerSort">Aloisi, Giuseppe</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Francesco Gonella</field>
+<field name="librettistSort">Gonella, Francesco</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+perdono+involontario,+o+sia+Lo+zio+deluso+Giuseppe+Aloisi&amp;search_field=search</field>
+</doc>
+</add>

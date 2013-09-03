@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118005</field>
+<field name="genre">Operas</field>
+<field name="title">La mort d'Adam</field>
+<field name="titleSort">mort d'Adam</field>
+<field name="composer">Jean-François Le Sueur</field>
+<field name="composerSort">Sueur, Jean-François Le</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">Nicolas-François Guillard</field>
+<field name="librettistSort">Guillard, Nicolas-François</field>
+<field name="librettist">Friedrich Gottlieb Klopstock</field>
+<field name="librettistSort">Klopstock, Friedrich Gottlieb</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mort+d'Adam+Jean-François+Le+Sueur&amp;search_field=search</field>
+</doc>
+</add>

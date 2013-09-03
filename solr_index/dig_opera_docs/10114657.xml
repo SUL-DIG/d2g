@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114657</field>
+<field name="genre">Operas</field>
+<field name="title">Frostblomma i ett Nostalgiskt Universum</field>
+<field name="titleSort">Frostblomma i ett Nostalgiskt Universum</field>
+<field name="composer">László Horváth</field>
+<field name="composerSort">Horváth, László</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">László Horváth</field>
+<field name="librettistSort">Horváth, László</field>
+<field name="theater">Vadstena Academy</field>
+<field name="city">Vadstena</field>
+<field name="region">Östergötland</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frostblomma+i+ett+Nostalgiskt+Universum+László+Horváth&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125572</field>
+<field name="genre">Operas</field>
+<field name="title">Egy szerelem három ejszakája</field>
+<field name="titleSort">Egy szerelem három ejszakája</field>
+<field name="composer">György Ránki</field>
+<field name="composerSort">Ránki, György</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">István Vas</field>
+<field name="librettistSort">Vas, István</field>
+<field name="theater">Magyar Allami Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Egy+szerelem+három+ejszakája+György+Ránki&amp;search_field=search</field>
+</doc>
+</add>

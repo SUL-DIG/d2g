@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102559</field>
+<field name="genre">Operas</field>
+<field name="title">Il Don Chisciotte della Mancia</field>
+<field name="titleSort">Don Chisciotte della Mancia</field>
+<field name="composer">Marcello Bernardini</field>
+<field name="composerSort">Bernardini, Marcello</field>
+<field name="year">1769</field>
+<field name="date">1769</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="librettist">Miguel de Cervantes Saavedra</field>
+<field name="librettistSort">Cervantes Saavedra, Miguel de</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Don+Chisciotte+della+Mancia+Marcello+Bernardini&amp;search_field=search</field>
+</doc>
+</add>

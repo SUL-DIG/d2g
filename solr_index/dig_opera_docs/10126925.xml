@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126925</field>
+<field name="genre">Operas</field>
+<field name="title">Závis z Falkenstejna</field>
+<field name="titleSort">Závis z Falkenstejna</field>
+<field name="composer">Josef Richard Rozkosný</field>
+<field name="composerSort">Rozkosný, Josef Richard</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">Jindrich Böhm</field>
+<field name="librettistSort">Böhm, Jindrich</field>
+<field name="librettist">Víteslav Hálek</field>
+<field name="librettistSort">Hálek, Víteslav</field>
+<field name="theater">Prozatímní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Závis+z+Falkenstejna+Josef+Richard+Rozkosný&amp;search_field=search</field>
+</doc>
+</add>

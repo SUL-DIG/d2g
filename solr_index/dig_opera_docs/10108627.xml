@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108627</field>
+<field name="genre">Operas</field>
+<field name="title">The Death of King Philip</field>
+<field name="titleSort">Death of King Philip</field>
+<field name="composer">Paul Earls</field>
+<field name="composerSort">Earls, Paul</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Romulus Linney</field>
+<field name="librettistSort">Linney, Romulus</field>
+<field name="theater">All Saints Church</field>
+<field name="city">Brookline</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Death+of+King+Philip+Paul+Earls&amp;search_field=search</field>
+</doc>
+</add>

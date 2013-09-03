@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123196</field>
+<field name="genre">Operas</field>
+<field name="title">Exiles</field>
+<field name="titleSort">Exiles</field>
+<field name="composer">Raymond Pannell</field>
+<field name="composerSort">Pannell, Raymond</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Raymond Pannell</field>
+<field name="librettistSort">Pannell, Raymond</field>
+<field name="librettist">Beverly Pannell</field>
+<field name="librettistSort">Pannell, Beverly</field>
+<field name="theater">Stratford Festival</field>
+<field name="city">Stratford</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Exiles+Raymond+Pannell&amp;search_field=search</field>
+</doc>
+</add>

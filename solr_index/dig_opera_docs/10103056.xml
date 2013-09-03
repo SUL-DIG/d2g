@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103056</field>
+<field name="genre">Operas</field>
+<field name="title">Silvia</field>
+<field name="titleSort">Silvia</field>
+<field name="composer">Antonio Bioni</field>
+<field name="composerSort">Bioni, Antonio</field>
+<field name="year">1732</field>
+<field name="date">1732</field>
+<field name="librettist">Enrico Bissaro</field>
+<field name="librettistSort">Bissaro, Enrico</field>
+<field name="theater">Theater im Ballhause</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvia+Antonio+Bioni&amp;search_field=search</field>
+</doc>
+</add>

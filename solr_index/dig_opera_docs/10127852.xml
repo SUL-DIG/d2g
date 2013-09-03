@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127852</field>
+<field name="genre">Operas</field>
+<field name="title">La tazza incantata</field>
+<field name="titleSort">tazza incantata</field>
+<field name="composer">Alfonso Savi</field>
+<field name="composerSort">Savi, Alfonso</field>
+<field name="year">1811</field>
+<field name="date">1811</field><field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tazza+incantata+Alfonso+Savi&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119450</field>
+<field name="genre">Operas</field>
+<field name="title">Stella</field>
+<field name="titleSort">Stella</field>
+<field name="composer">George William Louis Marshall-Hall</field>
+<field name="composerSort">Marshall-Hall, George William Louis</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">George William Louis Marshall-Hall</field>
+<field name="librettistSort">Marshall-Hall, George William Louis</field>
+<field name="librettist">Henri Géroule</field>
+<field name="librettistSort">Géroule, Henri</field>
+<field name="theater">Her Majesty's Theatre</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Stella+George+William+Louis+Marshall-Hall&amp;search_field=search</field>
+</doc>
+</add>

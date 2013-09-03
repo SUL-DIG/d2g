@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103004</field>
+<field name="genre">Operas</field>
+<field name="title">Piccolo eroe</field>
+<field name="titleSort">Piccolo eroe</field>
+<field name="composer">Alessandro Billi</field>
+<field name="composerSort">Billi, Alessandro</field>
+<field name="year">1917</field>
+<field name="date">1917</field><field name="theater">Teatro del Ricreatorio Pio II</field>
+<field name="city">Siena</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Piccolo+eroe+Alessandro+Billi&amp;search_field=search</field>
+</doc>
+</add>

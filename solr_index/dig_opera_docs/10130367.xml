@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130367</field>
+<field name="genre">Operas</field>
+<field name="title">Black River: a Wisconsin Idyll</field>
+<field name="titleSort">Black River: a Wisconsin Idyll</field>
+<field name="composer">Conrad Susa</field>
+<field name="composerSort">Susa, Conrad</field>
+<field name="year">1975</field>
+<field name="date">1975</field>
+<field name="librettist">Conrad Susa</field>
+<field name="librettistSort">Susa, Conrad</field>
+<field name="librettist">Richard Street</field>
+<field name="librettistSort">Street, Richard</field>
+<field name="theater">O'Shaughnessy Auditorium</field>
+<field name="city">St. Paul</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Black+River:+a+Wisconsin+Idyll+Conrad+Susa&amp;search_field=search</field>
+</doc>
+</add>

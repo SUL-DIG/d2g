@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118493</field>
+<field name="genre">Operas</field>
+<field name="title">"Atenaide, ossia La vendetta di una donna</field>
+<field name="titleSort">"Atenaide, ossia La vendetta di una donna"</field>
+<field name="composer">Alfredo Lotti</field>
+<field name="composerSort">Lotti, Alfredo</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Tito Diaccini</field>
+<field name="librettistSort">Diaccini, Tito</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Cerreto Guidi</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atenaide,+ossia+La+vendetta+di+una+donna+Alfredo+Lotti&amp;search_field=search</field>
+</doc>
+</add>

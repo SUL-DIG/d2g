@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108620</field>
+<field name="genre">Operas</field>
+<field name="title">Metel' (v zimnyuyu noch')</field>
+<field name="titleSort">Metel' (v zimnyuyu noch')</field>
+<field name="composer">Ivan Ivanovich Dzerzhinsky</field>
+<field name="composerSort">Dzerzhinsky, Ivan Ivanovich</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Leonid Ivanovich Dzerzhinsky</field>
+<field name="librettistSort">Dzerzhinsky, Leonid Ivanovich</field>
+<field name="librettist">Aleksandr Sergeyevich Pushkin</field>
+<field name="librettistSort">Pushkin, Aleksandr Sergeyevich</field>
+<field name="theater">Teatr Muzïkal'nïy Komedii</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Metel'+v+zimnyuyu+noch'+Ivan+Ivanovich+Dzerzhinsky&amp;search_field=search</field>
+</doc>
+</add>

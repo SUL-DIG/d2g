@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102960</field>
+<field name="genre">Operas</field>
+<field name="title">Sandro der Narr</field>
+<field name="titleSort">Sandro der Narr</field>
+<field name="composer">Heinrich Bienstock</field>
+<field name="composerSort">Bienstock, Heinrich</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">[Leo Hirschfeld] Leo Feld</field>
+<field name="librettistSort">Feld, Leo [Leo Hirschfeld]</field>
+<field name="librettist">Karl Michael von Levetzow</field>
+<field name="librettistSort">Levetzow, Karl Michael von</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sandro+der+Narr+Heinrich+Bienstock&amp;search_field=search</field>
+</doc>
+</add>

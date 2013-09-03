@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116954</field>
+<field name="genre">Operas</field>
+<field name="title">Mr. Pegotty's Dream Comes True</field>
+<field name="titleSort">Mr. Pegotty's Dream Comes True</field>
+<field name="composer">Lionel Lackey</field>
+<field name="composerSort">Lackey, Lionel</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Lionel Lackey</field>
+<field name="librettistSort">Lackey, Lionel</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">University of North Carolina</field>
+<field name="city">Greensboro</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Pegotty's+Dream+Comes+TRUE+Lionel+Lackey&amp;search_field=search</field>
+</doc>
+</add>

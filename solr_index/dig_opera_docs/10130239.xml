@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130239</field>
+<field name="genre">Operas</field>
+<field name="title">Esther</field>
+<field name="titleSort">Esther</field>
+<field name="composer">Nicolaus Adam Strungk</field>
+<field name="composerSort">Strungk, Nicolaus Adam</field>
+<field name="year">1680</field>
+<field name="date">1680</field>
+<field name="librettist">Johann Martin Köler</field>
+<field name="librettistSort">Köler, Johann Martin</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Esther+Nicolaus+Adam+Strungk&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115998</field>
+<field name="genre">Operas</field>
+<field name="title">Die fünf Minuten des Isaak Babel</field>
+<field name="titleSort">fünf Minuten des Isaak Babel</field>
+<field name="composer">Volker David Kirchner</field>
+<field name="composerSort">Kirchner, Volker David</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Witold Gombrowicz</field>
+<field name="librettistSort">Gombrowicz, Witold</field>
+<field name="theater">Staatstheater am Gärtnerplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+fünf+Minuten+des+Isaak+Babel+Volker+David+Kirchner&amp;search_field=search</field>
+</doc>
+</add>

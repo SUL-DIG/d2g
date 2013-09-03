@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105893</field>
+<field name="genre">Operas</field>
+<field name="title">Leone Isauro</field>
+<field name="titleSort">Leone Isauro</field>
+<field name="composer">Emilio Cianchi</field>
+<field name="composerSort">Cianchi, Emilio</field>
+<field name="year">1862</field>
+<field name="date">1862</field>
+<field name="librettist">Pietro Raffaelli</field>
+<field name="librettistSort">Raffaelli, Pietro</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leone+Isauro+Emilio+Cianchi&amp;search_field=search</field>
+</doc>
+</add>

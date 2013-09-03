@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125336</field>
+<field name="genre">Operas</field>
+<field name="title">Bathseba Saarenmaalla (Bathsheba of Saarenmaa)</field>
+<field name="titleSort">Bathseba Saarenmaalla (Bathsheba of Saarenmaa)</field>
+<field name="composer">Tauno Pylkkänen</field>
+<field name="composerSort">Pylkkänen, Tauno</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Tauno Pylkkänen</field>
+<field name="librettistSort">Pylkkänen, Tauno</field>
+<field name="librettist">Aino Kallas</field>
+<field name="librettistSort">Kallas, Aino</field>
+<field name="theater">Finnish Radio (Oy Yleisradio Ab)</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bathseba+Saarenmaalla+Bathsheba+of+Saarenmaa+Tauno+Pylkkänen&amp;search_field=search</field>
+</doc>
+</add>

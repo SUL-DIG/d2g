@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110143</field>
+<field name="genre">Operas</field>
+<field name="title">L'apothicaire</field>
+<field name="titleSort">apothicaire</field>
+<field name="composer">Charles-Gabriel Foignet</field>
+<field name="composerSort">Foignet, Charles-Gabriel</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">[Philippe-François Nazaire Fabre] Fabre d'Églantine</field>
+<field name="librettistSort">d'Églantine, Fabre [Philippe-François Nazaire Fabre]</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'apothicaire+Charles-Gabriel+Foignet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119144</field>
+<field name="genre">Operas</field>
+<field name="title">La pupilla</field>
+<field name="titleSort">pupilla</field>
+<field name="composer">Vincenzo Manfredini</field>
+<field name="composerSort">Manfredini, Vincenzo</field>
+<field name="year">1763</field>
+<field name="date">1763</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pupilla+Vincenzo+Manfredini&amp;search_field=search</field>
+</doc>
+</add>

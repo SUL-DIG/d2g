@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116705</field>
+<field name="genre">Operas</field>
+<field name="title">A Mirror for the Sky</field>
+<field name="titleSort">Mirror for the Sky</field>
+<field name="composer">Gail Kubik</field>
+<field name="composerSort">Kubik, Gail</field>
+<field name="year">1938</field>
+<field name="date">1938</field>
+<field name="librettist">Jessamyn West</field>
+<field name="librettistSort">West, Jessamyn</field>
+<field name="theater">University of Oregon</field>
+<field name="city">Eugene</field>
+<field name="region">Oregon</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Mirror+for+the+Sky+Gail+Kubik&amp;search_field=search</field>
+</doc>
+</add>

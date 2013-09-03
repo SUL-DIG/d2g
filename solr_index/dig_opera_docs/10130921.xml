@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130921</field>
+<field name="genre">Operas</field>
+<field name="title">The Light of the Harem</field>
+<field name="titleSort">Light of the Harem</field>
+<field name="composer">Arthur Goring Thomas</field>
+<field name="composerSort">Thomas, Arthur Goring</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Clifford Harrison</field>
+<field name="librettistSort">Harrison, Clifford</field>
+<field name="librettist">Thomas Moore</field>
+<field name="librettistSort">Moore, Thomas</field>
+<field name="theater">Royal Academy of Music</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Light+of+the+Harem+Arthur+Goring+Thomas&amp;search_field=search</field>
+</doc>
+</add>

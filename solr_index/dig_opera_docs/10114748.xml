@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114748</field>
+<field name="genre">Operas</field>
+<field name="title">A falu rossza (The Village Vagabond)</field>
+<field name="titleSort">falu rossza (The Village Vagabond)</field>
+<field name="composer">Jenö Hubay</field>
+<field name="composerSort">Hubay, Jenö</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Antal Váradi</field>
+<field name="librettistSort">Váradi, Antal</field>
+<field name="librettist">Ede Tóth</field>
+<field name="librettistSort">Tóth, Ede</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+falu+rossza+The+Village+Vagabond+Jenö+Hubay&amp;search_field=search</field>
+</doc>
+</add>

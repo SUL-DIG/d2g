@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105640</field>
+<field name="genre">Operas</field>
+<field name="title">L'avocat Patelin</field>
+<field name="titleSort">avocat Patelin</field>
+<field name="composer">Nicolas-Joseph Chartrain</field>
+<field name="composerSort">Chartrain, Nicolas-Joseph</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Joseph Patrat</field>
+<field name="librettistSort">Patrat, Joseph</field>
+<field name="librettist">David-Augustin de Brueys</field>
+<field name="librettistSort">Brueys, David-Augustin de</field>
+<field name="theater">Salle Montansier</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'avocat+Patelin+Nicolas-Joseph+Chartrain&amp;search_field=search</field>
+</doc>
+</add>

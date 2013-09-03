@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120144</field>
+<field name="genre">Operas</field>
+<field name="title">Kalif Storch</field>
+<field name="titleSort">Kalif Storch</field>
+<field name="composer">Karl Meister</field>
+<field name="composerSort">Meister, Karl</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Hans Linhardt</field>
+<field name="librettistSort">Linhardt, Hans</field>
+<field name="librettist">Wilhelm Hauff</field>
+<field name="librettistSort">Hauff, Wilhelm</field>
+
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kalif+Storch+Karl+Meister&amp;search_field=search</field>
+</doc>
+</add>

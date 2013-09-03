@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110757</field>
+<field name="genre">Operas</field>
+<field name="title">The Snow Queen</field>
+<field name="titleSort">Snow Queen</field>
+<field name="composer">Kenneth Gaburo</field>
+<field name="composerSort">Gaburo, Kenneth</field>
+<field name="year">1952</field>
+<field name="date">1952</field>
+<field name="librettist">Marjory Wilson</field>
+<field name="librettistSort">Wilson, Marjory</field>
+<field name="theater">McNeese State College</field>
+<field name="city">Lake Charles</field>
+<field name="region">Louisiana</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Snow+Queen+Kenneth+Gaburo&amp;search_field=search</field>
+</doc>
+</add>

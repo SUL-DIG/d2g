@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114808</field>
+<field name="genre">Operas</field>
+<field name="title">Ein treuer Schelm</field>
+<field name="titleSort">treuer Schelm</field>
+<field name="composer">Ferdinand Hummel</field>
+<field name="composerSort">Hummel, Ferdinand</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">[Axel von Demandowski] Axel Delmar</field>
+<field name="librettistSort">Delmar, Axel [Axel von Demandowski]</field>
+<field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+treuer+Schelm+Ferdinand+Hummel&amp;search_field=search</field>
+</doc>
+</add>

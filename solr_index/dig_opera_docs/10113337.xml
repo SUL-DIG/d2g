@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113337</field>
+<field name="genre">Operas</field>
+<field name="title">Le marchand de Vénise</field>
+<field name="titleSort">marchand de Vénise</field>
+<field name="composer">Reynaldo Hahn</field>
+<field name="composerSort">Hahn, Reynaldo</field>
+<field name="year">1935</field>
+<field name="date">1935</field>
+<field name="librettist">Miguel Zamacoïs</field>
+<field name="librettistSort">Zamacoïs, Miguel</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+marchand+de+Vénise+Reynaldo+Hahn&amp;search_field=search</field>
+</doc>
+</add>

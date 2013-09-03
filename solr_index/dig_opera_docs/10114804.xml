@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114804</field>
+<field name="genre">Operas</field>
+<field name="title">Die Beichte</field>
+<field name="titleSort">Beichte</field>
+<field name="composer">Ferdinand Hummel</field>
+<field name="composerSort">Hummel, Ferdinand</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">[Axel von Demandowski] Axel Delmar</field>
+<field name="librettistSort">Delmar, Axel [Axel von Demandowski]</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Beichte+Ferdinand+Hummel&amp;search_field=search</field>
+</doc>
+</add>

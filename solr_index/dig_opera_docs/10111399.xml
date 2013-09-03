@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111399</field>
+<field name="genre">Operas</field>
+<field name="title">Mathilde</field>
+<field name="titleSort">Mathilde</field>
+<field name="composer">Adolfo Gazzera</field>
+<field name="composerSort">Gazzera, Adolfo</field>
+<field name="year">1851</field>
+<field name="date">1851</field><field name="theater">Theater der Stadt</field>
+<field name="city">Cologne</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mathilde+Adolfo+Gazzera&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108306</field>
+<field name="genre">Operas</field>
+<field name="title">Garni Sands</field>
+<field name="titleSort">Garni Sands</field>
+<field name="composer">George Dreyfus</field>
+<field name="composerSort">Dreyfus, George</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Frank Kellaway</field>
+<field name="librettistSort">Kellaway, Frank</field>
+<field name="theater">University of New South Wales</field>
+<field name="city">Sydney</field>
+<field name="region">New South Wales</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Garni+Sands+George+Dreyfus&amp;search_field=search</field>
+</doc>
+</add>

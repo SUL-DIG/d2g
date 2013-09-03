@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116540</field>
+<field name="genre">Operas</field>
+<field name="title">Der Flüchtling</field>
+<field name="titleSort">Flüchtling</field>
+<field name="composer">Otto Kressner</field>
+<field name="composerSort">Kressner, Otto</field>
+<field name="year">1846</field>
+<field name="date">1846</field>
+<field name="librettist">Helene Thiele-Leonhardt</field>
+<field name="librettistSort">Thiele-Leonhardt, Helene</field>
+
+<field name="city">Altona</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Flüchtling+Otto+Kressner&amp;search_field=search</field>
+</doc>
+</add>

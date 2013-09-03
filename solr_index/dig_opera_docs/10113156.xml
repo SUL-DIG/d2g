@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113156</field>
+<field name="genre">Operas</field>
+<field name="title">The Hunted</field>
+<field name="titleSort">Hunted</field>
+<field name="composer">Dwight Gustafson</field>
+<field name="composerSort">Gustafson, Dwight</field>
+<field name="year">1960</field>
+<field name="date">1960</field><field name="theater">Bob Jones University</field>
+<field name="city">Greenville</field>
+<field name="region">North Carolina</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Hunted+Dwight+Gustafson&amp;search_field=search</field>
+</doc>
+</add>

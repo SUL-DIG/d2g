@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129565</field>
+<field name="genre">Operas</field>
+<field name="title">Ovod (The Gadfly)</field>
+<field name="titleSort">Ovod (The Gadfly)</field>
+<field name="composer">Antonio Emmanuilovich Spadavecchia</field>
+<field name="composerSort">Spadavecchia, Antonio Emmanuilovich</field>
+<field name="year">1957</field>
+<field name="date">1957</field>
+<field name="librettist">Iosif Isaakovich Keller</field>
+<field name="librettistSort">Keller, Iosif Isaakovich</field>
+<field name="librettist">Ethel Lillian Voynich</field>
+<field name="librettistSort">Voynich, Ethel Lillian</field>
+<field name="theater">Teatr Operï i Baleta</field>
+<field name="city">Perm'</field>
+<field name="region">Perm' Oblast</field>
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ovod+The+Gadfly+Antonio+Emmanuilovich+Spadavecchia&amp;search_field=search</field>
+</doc>
+</add>

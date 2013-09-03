@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125366</field>
+<field name="genre">Operas</field>
+<field name="title">"Colas et Colinette, ou Le bailli dupé</field>
+<field name="titleSort">"Colas et Colinette, ou Le bailli dupé"</field>
+<field name="composer">Joseph Quesnel</field>
+<field name="composerSort">Quesnel, Joseph</field>
+<field name="year">1790</field>
+<field name="date">1790</field>
+<field name="librettist">Joseph Quesnel</field>
+<field name="librettistSort">Quesnel, Joseph</field>
+<field name="theater">Théâtre de la Société</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Colas+et+Colinette,+ou+Le+bailli+dupé+Joseph+Quesnel&amp;search_field=search</field>
+</doc>
+</add>

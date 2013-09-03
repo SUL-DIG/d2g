@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123799</field>
+<field name="genre">Operas</field>
+<field name="title">La Pension Michonnet</field>
+<field name="titleSort">Pension Michonnet</field>
+<field name="composer">François Perpignan</field>
+<field name="composerSort">Perpignan, François</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Fernand Beissier</field>
+<field name="librettistSort">Beissier, Fernand</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Pension+Michonnet+François+Perpignan&amp;search_field=search</field>
+</doc>
+</add>

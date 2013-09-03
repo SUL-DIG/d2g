@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107868</field>
+<field name="genre">Operas</field>
+<field name="title">Die drei Rosen</field>
+<field name="titleSort">drei Rosen</field>
+<field name="composer">Johannes Doebber</field>
+<field name="composerSort">Doebber, Johannes</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Margarethe Benda</field>
+<field name="librettistSort">Benda, Margarethe</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Coburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+drei+Rosen+Johannes+Doebber&amp;search_field=search</field>
+</doc>
+</add>

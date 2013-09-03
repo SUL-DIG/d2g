@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131236</field>
+<field name="genre">Operas</field>
+<field name="title">Balcescu</field>
+<field name="titleSort">Balcescu</field>
+<field name="composer">Cornel Trailesco</field>
+<field name="composerSort">Trailesco, Cornel</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Val Sandulescu</field>
+<field name="librettistSort">Sandulescu, Val</field>
+<field name="theater">Opera Româna</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Balcescu+Cornel+Trailesco&amp;search_field=search</field>
+</doc>
+</add>

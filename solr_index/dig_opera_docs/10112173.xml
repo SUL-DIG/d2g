@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112173</field>
+<field name="genre">Operas</field>
+<field name="title">La danza</field>
+<field name="titleSort">danza</field>
+<field name="composer">Christoph Willibald von Gluck</field>
+<field name="composerSort">Gluck, Christoph Willibald von</field>
+<field name="year">1755</field>
+<field name="date">1755</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Schlosstheater</field>
+<field name="city">Laxenburg</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+danza+Christoph+Willibald+von+Gluck&amp;search_field=search</field>
+</doc>
+</add>

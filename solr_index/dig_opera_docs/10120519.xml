@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120519</field>
+<field name="genre">Operas</field>
+<field name="title">La notte perigliosa</field>
+<field name="titleSort">notte perigliosa</field>
+<field name="composer">Antonio Miari</field>
+<field name="composerSort">Miari, Antonio</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Luigi Casarini</field>
+<field name="librettistSort">Casarini, Luigi</field>
+<field name="theater">Casa di Andrea Erizzo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+notte+perigliosa+Antonio+Miari&amp;search_field=search</field>
+</doc>
+</add>

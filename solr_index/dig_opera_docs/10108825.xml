@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108825</field>
+<field name="genre">Operas</field>
+<field name="title">Kosakkerne</field>
+<field name="titleSort">Kosakkerne</field>
+<field name="composer">Catharinus Elling</field>
+<field name="composerSort">Elling, Catharinus</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Edvard Hagerup Bull</field>
+<field name="librettistSort">Bull, Edvard Hagerup</field>
+<field name="librettist">Nikolay Vasil'yevich Gogol</field>
+<field name="librettistSort">Gogol, Nikolay Vasil'yevich</field>
+<field name="theater">Eldorado Teatret</field>
+<field name="city">Oslo</field>
+
+<field name="country">Norway</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kosakkerne+Catharinus+Elling&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201649</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giuditta</field>
+		<field name="titleSort">Giuditta</field>
+		<field name="year">1912</field>
+		<field name="month">November</field>
+		<field name="day">13</field>
+		<field name="date">November 13, 1912</field>
+		<field name="composer">Arnaldo Furlotti</field>
+		<field name="composerSort">Furlotti, Arnaldo</field>
+		<field name="librettist">Giacomo Bettoli</field>
+		<field name="librettistSort">Bettoli, Giacomo</field>
+		
+		<field name="theater">Teatro Regio</field>
+		<field name="city">Parma</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Judith and Holofernes</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giuditta+Arnaldo+Furlotti&amp;search_field=search</field>
+	</doc></add>

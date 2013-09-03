@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113538</field>
+<field name="genre">Operas</field>
+<field name="title">Die wilde Komtesse</field>
+<field name="titleSort">wilde Komtesse</field>
+<field name="composer">Emil Hansen-Roberti</field>
+<field name="composerSort">Hansen-Roberti, Emil</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Aline Sanden</field>
+<field name="librettistSort">Sanden, Aline</field>
+<field name="theater">Tivoli-Theater</field>
+<field name="city">Eisenach</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+wilde+Komtesse+Emil+Hansen-Roberti&amp;search_field=search</field>
+</doc>
+</add>

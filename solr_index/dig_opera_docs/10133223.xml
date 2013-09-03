@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133223</field>
+<field name="genre">Operas</field>
+<field name="title">Matsuyama Kagami</field>
+<field name="titleSort">Matsuyama Kagami</field>
+<field name="composer">Maria Wurm</field>
+<field name="composerSort">Wurm, Maria</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">Elisabeth Widmann</field>
+<field name="librettistSort">Widmann, Elisabeth</field>
+<field name="theater">Residenztheater</field>
+<field name="city">Hanover</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Matsuyama+Kagami+Maria+Wurm&amp;search_field=search</field>
+</doc>
+</add>

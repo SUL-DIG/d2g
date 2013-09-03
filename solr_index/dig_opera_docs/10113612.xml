@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113612</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Carabiniers, oder Die Mönche</field>
+<field name="titleSort">"Carabiniers, oder Mönche"</field>
+<field name="composer">Gustav Adolf Härtel</field>
+<field name="composerSort">Härtel, Gustav Adolf</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Adelbert Keller</field>
+<field name="librettistSort">Keller, Adelbert</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Schwerin</field>
+<field name="region">Mecklenburg-Vorpommern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Carabiniers,+oder+Die+Mönche+Gustav+Adolf+Härtel&amp;search_field=search</field>
+</doc>
+</add>

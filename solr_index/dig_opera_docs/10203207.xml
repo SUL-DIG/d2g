@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203207</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La passion</field>
+		<field name="titleSort">passion</field>
+		<field name="year">1957</field>
+		<field name="month">July</field>
+		<field name="day">25</field>
+		<field name="date">July 25, 1957</field>
+		<field name="composer">Georges Migot</field>
+		<field name="composerSort">Migot, Georges</field>
+		
+		
+		
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passion+Georges+Migot&amp;search_field=search</field>
+	</doc></add>

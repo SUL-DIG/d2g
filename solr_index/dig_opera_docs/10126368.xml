@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126368</field>
+<field name="genre">Operas</field>
+<field name="title">Singulier masculin</field>
+<field name="titleSort">Singulier masculin</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">Henry Buguet</field>
+<field name="librettistSort">Buguet, Henry</field>
+<field name="theater">Théâtre des Batignolles et Montmartre</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Singulier+masculin+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

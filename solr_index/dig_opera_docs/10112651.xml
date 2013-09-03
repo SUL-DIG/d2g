@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112651</field>
+<field name="genre">Operas</field>
+<field name="title">L'allegrezza dell'Enno</field>
+<field name="titleSort">allegrezza dell'Enno</field>
+<field name="composer">Jakob Greber</field>
+<field name="composerSort">Greber, Jakob</field>
+<field name="year">1708</field>
+<field name="date">1708</field>
+<field name="librettist">Giovanni Domenico Pallavicino</field>
+<field name="librettistSort">Pallavicino, Giovanni Domenico</field>
+<field name="theater">Komödienhaus</field>
+<field name="city">Innsbruck</field>
+<field name="region">Tirol</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'allegrezza+dell'Enno+Jakob+Greber&amp;search_field=search</field>
+</doc>
+</add>

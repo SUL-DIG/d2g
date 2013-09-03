@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104154</field>
+<field name="genre">Operas</field>
+<field name="title">A Midsummer Night's Dream</field>
+<field name="titleSort">Midsummer Night's Dream</field>
+<field name="composer">Benjamin Britten</field>
+<field name="composerSort">Britten, Benjamin</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Benjamin Britten</field>
+<field name="librettistSort">Britten, Benjamin</field>
+<field name="librettist">Peter Pears</field>
+<field name="librettistSort">Pears, Peter</field>
+<field name="theater">Jubilee Hall</field>
+<field name="city">Aldeburgh</field>
+<field name="region">Suffolk</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Midsummer+Night's+Dream+Benjamin+Britten&amp;search_field=search</field>
+</doc>
+</add>

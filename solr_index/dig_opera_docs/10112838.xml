@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112838</field>
+<field name="genre">Operas</field>
+<field name="title">"Giocasta, regina d'Armenia</field>
+<field name="titleSort">"Giocasta, regina d'Armenia"</field>
+<field name="composer">Carlo Grossi</field>
+<field name="composerSort">Grossi, Carlo</field>
+<field name="year">1676</field>
+<field name="date">1676</field>
+<field name="librettist">Giacomo Castoreo</field>
+<field name="librettistSort">Castoreo, Giacomo</field>
+<field name="librettist">Giovanni Andrea Moniglia</field>
+<field name="librettistSort">Moniglia, Giovanni Andrea</field>
+<field name="theater">Teatro Zane a San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giocasta,+regina+d'Armenia+Carlo+Grossi&amp;search_field=search</field>
+</doc>
+</add>

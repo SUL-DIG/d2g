@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108136</field>
+<field name="genre">Operas</field>
+<field name="title">Dr. Ambrosius - His Secret</field>
+<field name="titleSort">Dr. Ambrosius - His Secret</field>
+<field name="composer">Richard D'Oyly Carte</field>
+<field name="composerSort">Carte, Richard D'Oyly</field>
+<field name="year">1868</field>
+<field name="date">1868</field>
+<field name="librettist">Nathaniel Thomas Haynes Bayly</field>
+<field name="librettistSort">Bayly, Nathaniel Thomas Haynes</field>
+<field name="theater">Saint George's Hall</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dr.+Ambrosius+-+His+Secret+Richard+D'Oyly+Carte&amp;search_field=search</field>
+</doc>
+</add>

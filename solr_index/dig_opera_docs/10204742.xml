@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204742</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Utrenia</field>
+		<field name="titleSort">Utrenia</field>
+		<field name="year">1971</field>
+		<field name="month">April</field>
+		<field name="day">8</field>
+		<field name="date">April 8, 1971</field>
+		<field name="composer">Krzysztof Penderecki</field>
+		<field name="composerSort">Penderecki, Krzysztof</field>
+		
+		
+		<field name="theater">Dom-Kirche</field>
+		<field name="city">Münster</field>
+		<field name="region">Nordrhein-Westfallen</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Utrenia+Krzysztof+Penderecki&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121020</field>
+<field name="genre">Operas</field>
+<field name="title">Orfeo</field>
+<field name="titleSort">Orfeo</field>
+<field name="composer">Claudio Monteverdi</field>
+<field name="composerSort">Monteverdi, Claudio</field>
+<field name="year">1607</field>
+<field name="date">1607</field>
+<field name="librettist">Alessandro Striggio</field>
+<field name="librettistSort">Striggio, Alessandro</field>
+<field name="theater">Palazzo Ducale</field>
+<field name="city">Mantua</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Orfeo+Claudio+Monteverdi&amp;search_field=search</field>
+</doc>
+</add>

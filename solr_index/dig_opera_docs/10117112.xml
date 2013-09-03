@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117112</field>
+<field name="genre">Operas</field>
+<field name="title">Il castello degli spiriti</field>
+<field name="titleSort">castello degli spiriti</field>
+<field name="composer">Giuseppe Lamberti</field>
+<field name="composerSort">Lamberti, Giuseppe</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Giuseppe Lamberti</field>
+<field name="librettistSort">Lamberti, Giuseppe</field>
+<field name="theater">Teatro di Collegio Nazionale</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+castello+degli+spiriti+Giuseppe+Lamberti&amp;search_field=search</field>
+</doc>
+</add>

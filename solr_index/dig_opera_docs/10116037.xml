@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116037</field>
+<field name="genre">Operas</field>
+<field name="title">Des Meermanns Harfe</field>
+<field name="titleSort">Meermanns Harfe</field>
+<field name="composer">Arno Kleffel</field>
+<field name="composerSort">Kleffel, Arno</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Oswald Horlacher</field>
+<field name="librettistSort">Horlacher, Oswald</field>
+<field name="theater">Opernhaus</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Des+Meermanns+Harfe+Arno+Kleffel&amp;search_field=search</field>
+</doc>
+</add>

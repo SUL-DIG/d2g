@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105020</field>
+<field name="genre">Operas</field>
+<field name="title">I giuochi puerili di Dante e Bice</field>
+<field name="titleSort">giuochi puerili di Dante e Bice</field>
+<field name="composer">Francesco Carezano</field>
+<field name="composerSort">Carezano, Francesco</field>
+<field name="year">1870</field>
+<field name="date">1870</field>
+<field name="librettist">Bernardo Piovano</field>
+<field name="librettistSort">Piovano, Bernardo</field>
+<field name="theater">Liceo Doria</field>
+<field name="city">Novi Ligure</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+giuochi+puerili+di+Dante+e+Bice+Francesco+Carezano&amp;search_field=search</field>
+</doc>
+</add>

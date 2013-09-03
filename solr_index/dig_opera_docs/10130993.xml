@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130993</field>
+<field name="genre">Operas</field>
+<field name="title">Dimnjaci uz Jadran (Chimneys on the Adriatic)</field>
+<field name="titleSort">Dimnjaci uz Jadran (Chimneys on the Adriatic)</field>
+<field name="composer">Ivo Tijardovic</field>
+<field name="composerSort">Tijardovic, Ivo</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Ivo Tijardovic</field>
+<field name="librettistSort">Tijardovic, Ivo</field>
+<field name="theater">Hrvatsko Narodno Kazaliste</field>
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dimnjaci+uz+Jadran+Chimneys+on+the+Adriatic+Ivo+Tijardovic&amp;search_field=search</field>
+</doc>
+</add>

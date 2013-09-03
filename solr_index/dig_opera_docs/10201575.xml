@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201575</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gioas, re di Giuda</field>
+		<field name="titleSort">Gioas, re di Giuda</field>
+		<field name="year">1770</field>
+		<field name="month">March</field>
+		<field name="day">22</field>
+		<field name="date">March 22, 1770</field>
+		<field name="composer">Johann Christian Bach</field>
+		<field name="composerSort">Bach, Johann Christian</field>
+		<field name="librettist">Giovan Gualberto Bottarelli</field>
+		<field name="librettistSort">Bottarelli, Giovan Gualbert</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		<field name="theater">King's Theatre, Haymarket</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Joash</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gioas,+re+di+Giuda+Johann+Christian+Bach&amp;search_field=search</field>
+	</doc></add>

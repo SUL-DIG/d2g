@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109026</field>
+<field name="genre">Operas</field>
+<field name="title">La bella durmiente</field>
+<field name="titleSort">bella durmiente</field>
+<field name="composer">Óscar Esplá</field>
+<field name="composerSort">Esplá, Óscar</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bella+durmiente+Óscar+Esplá&amp;search_field=search</field>
+</doc>
+</add>

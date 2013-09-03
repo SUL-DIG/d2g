@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124486</field>
+<field name="genre">Operas</field>
+<field name="title">Les souliers mordorés</field>
+<field name="titleSort">souliers mordorés</field>
+<field name="composer">Charles Henri Plantade</field>
+<field name="composerSort">Plantade, Charles Henri</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Alexandre de Ferrières</field>
+<field name="librettistSort">Ferrières, Alexandre de</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+souliers+mordorés+Charles+Henri+Plantade&amp;search_field=search</field>
+</doc>
+</add>

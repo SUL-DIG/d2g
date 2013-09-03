@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115074</field>
+<field name="genre">Operas</field>
+<field name="title">Jobsiade</field>
+<field name="titleSort">Jobsiade</field>
+<field name="composer">Wolfgang Jacobi</field>
+<field name="composerSort">Jacobi, Wolfgang</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Robert Seitz</field>
+<field name="librettistSort">Seitz, Robert</field>
+<field name="librettist">Karl Kortum</field>
+<field name="librettistSort">Kortum, Karl</field>
+
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jobsiade+Wolfgang+Jacobi&amp;search_field=search</field>
+</doc>
+</add>

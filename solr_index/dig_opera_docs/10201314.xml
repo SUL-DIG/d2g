@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201314</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il figliol prodigo</field>
+		<field name="titleSort">figliol prodigo</field>
+		<field name="year">1785</field>
+		
+		
+		<field name="date">1785</field>
+		<field name="composer">Giovanni Marcacciani</field>
+		<field name="composerSort">Marcacciani, Giovanni</field>
+		<field name="librettist">Agostino Giezzi</field>
+		<field name="librettistSort">Giezzi, Agostino</field>
+		
+		
+		<field name="city">Montecchio</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Parable of the Prodigal Son</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+figliol+prodigo+Giovanni+Marcacciani&amp;search_field=search</field>
+	</doc></add>

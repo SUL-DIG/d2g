@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114377</field>
+<field name="genre">Operas</field>
+<field name="title">Le vieux maestro</field>
+<field name="titleSort">vieux maestro</field>
+<field name="composer">Pierre Edmond Hocmelle</field>
+<field name="composerSort">Hocmelle, Pierre Edmond</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Hermance Lesguillon</field>
+<field name="librettistSort">Lesguillon, Hermance</field>
+<field name="theater">Concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+vieux+maestro+Pierre+Edmond+Hocmelle&amp;search_field=search</field>
+</doc>
+</add>

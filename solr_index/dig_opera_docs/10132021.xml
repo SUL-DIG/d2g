@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132021</field>
+<field name="genre">Operas</field>
+<field name="title">Les fourberies d'un vicomte</field>
+<field name="titleSort">fourberies d'un vicomte</field>
+<field name="composer">Georges Villain</field>
+<field name="composerSort">Villain, Georges</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Georges Villain</field>
+<field name="librettistSort">Villain, Georges</field>
+<field name="theater">Théâtre de la Bodinière</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+fourberies+d'un+vicomte+Georges+Villain&amp;search_field=search</field>
+</doc>
+</add>

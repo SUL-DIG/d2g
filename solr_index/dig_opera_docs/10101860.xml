@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101860</field>
+<field name="genre">Operas</field>
+<field name="title">Die Federschlange</field>
+<field name="titleSort">Federschlange</field>
+<field name="composer">Carlo Emanuele Barbieri</field>
+<field name="composerSort">Barbieri, Carlo Emanuele</field>
+<field name="year">1867</field>
+<field name="date">1867</field>
+<field name="librettist">[Camillo Walzel] F. Zell</field>
+<field name="librettistSort">Zell, F. [Camillo Walzel]</field>
+<field name="theater">Deutsches Theater</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Federschlange+Carlo+Emanuele+Barbieri&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106353</field>
+<field name="genre">Operas</field>
+<field name="title">Macbeth</field>
+<field name="titleSort">Macbeth</field>
+<field name="composer">Lawrance Collingwood</field>
+<field name="composerSort">Collingwood, Lawrance</field>
+<field name="year">1934</field>
+<field name="date">1934</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Macbeth+Lawrance+Collingwood&amp;search_field=search</field>
+</doc>
+</add>

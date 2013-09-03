@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113227</field>
+<field name="genre">Operas</field>
+<field name="title">Lisu</field>
+<field name="titleSort">Lisu</field>
+<field name="composer">Alfred Habermehl</field>
+<field name="composerSort">Habermehl, Alfred</field>
+<field name="year">1908</field>
+<field name="date">1908</field>
+<field name="librettist">Hanna Schaffganz-Spindler</field>
+<field name="librettistSort">Schaffganz-Spindler, Hanna</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lisu+Alfred+Habermehl&amp;search_field=search</field>
+</doc>
+</add>

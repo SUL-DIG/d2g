@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130865</field>
+<field name="genre">Operas</field>
+<field name="title">Laura Rosetti</field>
+<field name="titleSort">Laura Rosetti</field>
+<field name="composer">Franz Teyber</field>
+<field name="composerSort">Teyber, Franz</field>
+<field name="year">1785</field>
+<field name="date">1785</field>
+<field name="librettist">Gottlieb Stephanie der Jüngere</field>
+<field name="librettistSort">Stephanie der Jüngere, Gottlieb</field>
+<field name="librettist">Bernhard Christoph d'Arien</field>
+<field name="librettistSort">d'Arien, Bernhard Christoph</field>
+
+<field name="city">Bratislava</field>
+
+<field name="country">Slovakia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Laura+Rosetti+Franz+Teyber&amp;search_field=search</field>
+</doc>
+</add>

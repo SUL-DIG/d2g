@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108647</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schutzgeist</field>
+<field name="titleSort">Schutzgeist</field>
+<field name="composer">Heinrich Carl Ebell</field>
+<field name="composerSort">Ebell, Heinrich Carl</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Friedrich Ludwig Wilhelm Meyer</field>
+<field name="librettistSort">Meyer, Friedrich Ludwig Wilhelm</field>
+<field name="theater">Urania-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schutzgeist+Heinrich+Carl+Ebell&amp;search_field=search</field>
+</doc>
+</add>

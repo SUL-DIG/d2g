@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115539</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schlaftrunk</field>
+<field name="titleSort">Schlaftrunk</field>
+<field name="composer">Georg Ernst Gottlieb Kallenbach</field>
+<field name="composerSort">Kallenbach, Georg Ernst Gottlieb</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Christoph Friedrich Bretzner</field>
+<field name="librettistSort">Bretzner, Christoph Friedrich</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Altona</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schlaftrunk+Georg+Ernst+Gottlieb+Kallenbach&amp;search_field=search</field>
+</doc>
+</add>

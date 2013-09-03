@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118086</field>
+<field name="genre">Operas</field>
+<field name="title">Walther von der Vogelweide</field>
+<field name="titleSort">Walther von der Vogelweide</field>
+<field name="composer">Wilhelm Licht</field>
+<field name="composerSort">Licht, Wilhelm</field>
+<field name="year">1932</field>
+<field name="date">1932</field>
+<field name="librettist">Ludwig Benninghoff</field>
+<field name="librettistSort">Benninghoff, Ludwig</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Heilbronn</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walther+von+der+Vogelweide+Wilhelm+Licht&amp;search_field=search</field>
+</doc>
+</add>

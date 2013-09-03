@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119183</field>
+<field name="genre">Operas</field>
+<field name="title">"Lucio Vero, ossia Il Vologeso</field>
+<field name="titleSort">"Lucio Vero, ossia Il Vologeso"</field>
+<field name="composer">Gennaro Manna</field>
+<field name="composerSort">Manna, Gennaro</field>
+<field name="year">1745</field>
+<field name="date">1745</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lucio+Vero,+ossia+Il+Vologeso+Gennaro+Manna&amp;search_field=search</field>
+</doc>
+</add>

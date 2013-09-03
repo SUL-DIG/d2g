@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129403</field>
+<field name="genre">Operas</field>
+<field name="title">La bamboula</field>
+<field name="titleSort">bamboula</field>
+<field name="composer">Charles Solié</field>
+<field name="composerSort">Solié, Charles</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Paul Didier</field>
+<field name="librettistSort">Didier, Paul</field>
+<field name="librettist">__ Rochery</field>
+<field name="librettistSort">Rochery, __</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bamboula+Charles+Solié&amp;search_field=search</field>
+</doc>
+</add>

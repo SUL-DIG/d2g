@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203215</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Passion of Martin Luther King</field>
+		<field name="titleSort">Passion of Martin Luther King</field>
+		<field name="year">1974</field>
+		
+		
+		<field name="date">1974</field>
+		<field name="composer">Nicolas Flagello</field>
+		<field name="composerSort">Flagello, Nicolas</field>
+		<field name="librettist">Martin Luther King</field>
+		<field name="librettistSort">King, Martin Luther</field>
+		
+		<field name="theater">Kennedy Center</field>
+		<field name="city">Washington</field>
+		<field name="region">District of Columbia</field>
+		<field name="country">United States</field>
+		<field name="subject">Martin Luther King</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passion+of+Martin+Luther+King+Nicolas+Flagello&amp;search_field=search</field>
+	</doc></add>

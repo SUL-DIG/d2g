@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109739</field>
+<field name="genre">Operas</field>
+<field name="title">Prinzess Nelly</field>
+<field name="titleSort">Prinzess Nelly</field>
+<field name="composer">Ernst Filler</field>
+<field name="composerSort">Filler, Ernst</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Karl Herold</field>
+<field name="librettistSort">Herold, Karl</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Bremerhaven</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Prinzess+Nelly+Ernst+Filler&amp;search_field=search</field>
+</doc>
+</add>

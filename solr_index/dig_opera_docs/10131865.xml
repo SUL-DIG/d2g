@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131865</field>
+<field name="genre">Operas</field>
+<field name="title">I due Foscari</field>
+<field name="titleSort">due Foscari</field>
+<field name="composer">Giuseppe Verdi</field>
+<field name="composerSort">Verdi, Giuseppe</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="librettist">"George Gordon, Lord Byron"</field>
+<field name="librettistSort">Byron, George Gordon, Lord</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+Foscari+Giuseppe+Verdi&amp;search_field=search</field>
+</doc>
+</add>

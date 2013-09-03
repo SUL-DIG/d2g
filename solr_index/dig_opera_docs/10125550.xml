@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125550</field>
+<field name="genre">Operas</field>
+<field name="title">La gloria trionfante d'amore</field>
+<field name="titleSort">gloria trionfante d'amore</field>
+<field name="composer">Giacomo Rampini</field>
+<field name="composerSort">Rampini, Giacomo</field>
+<field name="year">1712</field>
+<field name="date">1712</field>
+<field name="librettist">Grazio Braccioli</field>
+<field name="librettistSort">Braccioli, Grazio</field>
+<field name="theater">Teatro Sant'Angelo</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gloria+trionfante+d'amore+Giacomo+Rampini&amp;search_field=search</field>
+</doc>
+</add>

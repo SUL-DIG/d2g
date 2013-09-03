@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133429</field>
+<field name="genre">Operas</field>
+<field name="title">Devatá louka (The Ninth Meadow)</field>
+<field name="titleSort">Devatá louka (The Ninth Meadow)</field>
+<field name="composer">Jan Evangelista Zelinka</field>
+<field name="composerSort">Zelinka, Jan Evangelista</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Ruzena Jesenská</field>
+<field name="librettistSort">Jesenská, Ruzena</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Devatá+louka+The+Ninth+Meadow+Jan+Evangelista+Zelinka&amp;search_field=search</field>
+</doc>
+</add>

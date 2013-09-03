@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109378</field>
+<field name="genre">Operas</field>
+<field name="title">A Unicorn for Christmas</field>
+<field name="titleSort">Unicorn for Christmas</field>
+<field name="composer">David Farquhar</field>
+<field name="composerSort">Farquhar, David</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Ngaio Marsh</field>
+<field name="librettistSort">Marsh, Ngaio</field>
+<field name="theater">New Zealand Opera</field>
+<field name="city">Wellington</field>
+
+<field name="country">New Zealand</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Unicorn+for+Christmas+David+Farquhar&amp;search_field=search</field>
+</doc>
+</add>

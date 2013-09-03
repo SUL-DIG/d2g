@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128499</field>
+<field name="genre">Operas</field>
+<field name="title">Bryllupsrejse (The Honeymoon)</field>
+<field name="titleSort">Bryllupsrejse (The Honeymoon)</field>
+<field name="composer">Svend Simon Schultz</field>
+<field name="composerSort">Schultz, Svend Simon</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Holger Boland</field>
+<field name="librettistSort">Boland, Holger</field>
+<field name="theater">Odd Fellows</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bryllupsrejse+The+Honeymoon+Svend+Simon+Schultz&amp;search_field=search</field>
+</doc>
+</add>

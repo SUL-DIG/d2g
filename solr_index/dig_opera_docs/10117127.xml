@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117127</field>
+<field name="genre">Operas</field>
+<field name="title">Une voyage aux Pyrenées</field>
+<field name="titleSort">voyage aux Pyrenées</field>
+<field name="composer">Georges Lamothe</field>
+<field name="composerSort">Lamothe, Georges</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Albert Bornier</field>
+<field name="librettistSort">Bornier, Albert</field>
+<field name="theater">Théâtre des Folies-Bergère</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+voyage+aux+Pyrenées+Georges+Lamothe&amp;search_field=search</field>
+</doc>
+</add>

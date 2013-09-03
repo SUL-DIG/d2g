@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118815</field>
+<field name="genre">Operas</field>
+<field name="title">The Knights of the Road</field>
+<field name="titleSort">Knights of the Road</field>
+<field name="composer">Alexander Mackenzie</field>
+<field name="composerSort">Mackenzie, Alexander</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Henry Albert Lytton</field>
+<field name="librettistSort">Lytton, Henry Albert</field>
+<field name="theater">Palace Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Knights+of+the+Road+Alexander+Mackenzie&amp;search_field=search</field>
+</doc>
+</add>

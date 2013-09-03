@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130675</field>
+<field name="genre">Operas</field>
+<field name="title">A Santa Lucia</field>
+<field name="titleSort">A Santa Lucia</field>
+<field name="composer">Pier Antonio Tasca</field>
+<field name="composerSort">Tasca, Pier Antonio</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Enrico Golisciani</field>
+<field name="librettistSort">Golisciani, Enrico</field>
+<field name="theater">Krollscher Wintergarten Königsaal</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Santa+Lucia+Pier+Antonio+Tasca&amp;search_field=search</field>
+</doc>
+</add>

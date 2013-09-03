@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113290</field>
+<field name="genre">Operas</field>
+<field name="title">"Azora, the Daughter of Montezuma</field>
+<field name="titleSort">"Azora, the Daughter of Montezuma"</field>
+<field name="composer">Henry Hadley</field>
+<field name="composerSort">Hadley, Henry</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">David Kilburn Stevens</field>
+<field name="librettistSort">Stevens, David Kilburn</field>
+<field name="theater">Auditorium Theater</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Azora,+the+Daughter+of+Montezuma+Henry+Hadley&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201801</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Hebt an, ihr Chöre der Freude</field>
+		<field name="titleSort">Hebt an, ihr Chöre der Freude</field>
+		<field name="year">1780</field>
+		<field name="month">September</field>
+		<field name="day">7</field>
+		<field name="date">September 7, 1780</field>
+		<field name="composer">Carl Philipp Emanuel Bach</field>
+		<field name="composerSort">Bach, Carl Philipp</field>
+		<field name="librettist">Christian Wilhelm Alers</field>
+		<field name="librettistSort">Alers, Christian Wilhelm</field>
+		
+		<field name="theater">Kapitänsmusik</field>
+		<field name="city">Hamburg</field>
+		<field name="region">Hamburg</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hebt+an,+ihr+Chöre+der+Freude+Carl+Philipp+Emanuel+Bach&amp;search_field=search</field>
+	</doc></add>

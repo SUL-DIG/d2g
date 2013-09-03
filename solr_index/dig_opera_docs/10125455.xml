@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125455</field>
+<field name="genre">Operas</field>
+<field name="title">Trevoga (Anxiety)</field>
+<field name="titleSort">Trevoga (Anxiety)</field>
+<field name="composer">Aleksandur Raichev</field>
+<field name="composerSort">Raichev, Aleksandur</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Orlin Orlinov</field>
+<field name="librettistSort">Orlinov, Orlin</field>
+<field name="librettist">Orlin Vassilev</field>
+<field name="librettistSort">Vassilev, Orlin</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Trevoga+Anxiety+Aleksandur+Raichev&amp;search_field=search</field>
+</doc>
+</add>

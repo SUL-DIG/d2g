@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203209</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Passion According to St. Mark</field>
+		<field name="titleSort">Passion According to St. Mark</field>
+		<field name="year">1962</field>
+		
+		
+		<field name="date">1962</field>
+		<field name="composer">Jan Bender</field>
+		<field name="composerSort">Bender, Jan</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">The Passion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Passion+According+to+St.+Mark+Jan+Bender&amp;search_field=search</field>
+	</doc></add>

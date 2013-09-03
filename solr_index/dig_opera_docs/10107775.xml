@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107775</field>
+<field name="genre">Operas</field>
+<field name="title">The Baroness</field>
+<field name="titleSort">Baroness</field>
+<field name="composer">Charles Cotsford Dick</field>
+<field name="composerSort">Dick, Charles Cotsford</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Charles Cotsford Dick</field>
+<field name="librettistSort">Dick, Charles Cotsford</field>
+<field name="theater">New Royalty Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Baroness+Charles+Cotsford+Dick&amp;search_field=search</field>
+</doc>
+</add>

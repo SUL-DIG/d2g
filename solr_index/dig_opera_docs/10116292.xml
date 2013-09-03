@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116292</field>
+<field name="genre">Operas</field>
+<field name="title">Ein Liebestraum</field>
+<field name="titleSort">Liebestraum</field>
+<field name="composer">Károly Komjáti</field>
+<field name="composerSort">Komjáti, Károly</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="librettist">László Szilágyi</field>
+<field name="librettistSort">Szilágyi, László</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ein+Liebestraum+Károly+Komjáti&amp;search_field=search</field>
+</doc>
+</add>

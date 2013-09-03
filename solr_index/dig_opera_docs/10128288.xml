@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128288</field>
+<field name="genre">Operas</field>
+<field name="title">Die Tänzerin aus Liebe</field>
+<field name="titleSort">Tänzerin aus Liebe</field>
+<field name="composer">Clemens Schmalstich</field>
+<field name="composerSort">Schmalstich, Clemens</field>
+<field name="year">1919</field>
+<field name="date">1919</field>
+<field name="librettist">Adolf Viktor von Körber</field>
+<field name="librettistSort">Körber, Adolf Viktor von</field>
+<field name="librettist">Franz Ansfeld</field>
+<field name="librettistSort">Ansfeld, Franz</field>
+<field name="theater">Schauspiele Haus</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Tänzerin+aus+Liebe+Clemens+Schmalstich&amp;search_field=search</field>
+</doc>
+</add>

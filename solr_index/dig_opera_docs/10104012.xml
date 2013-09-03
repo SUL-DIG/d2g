@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104012</field>
+<field name="genre">Operas</field>
+<field name="title">Der Roman mit dem Kontrabass</field>
+<field name="titleSort">Roman mit dem Kontrabass</field>
+<field name="composer">Theo Brandmüller</field>
+<field name="composerSort">Brandmüller, Theo</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Theo Brandmüller</field>
+<field name="librettistSort">Brandmüller, Theo</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Theater der Stadt</field>
+<field name="city">Ulm</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Roman+mit+dem+Kontrabass+Theo+Brandmüller&amp;search_field=search</field>
+</doc>
+</add>

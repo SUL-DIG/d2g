@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121411</field>
+<field name="genre">Operas</field>
+<field name="title">La servante justifiée</field>
+<field name="titleSort">servante justifiée</field>
+<field name="composer">Jean-Baptiste Moulinghem</field>
+<field name="composerSort">Moulinghem, Jean-Baptiste</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+servante+justifiée+Jean-Baptiste+Moulinghem&amp;search_field=search</field>
+</doc>
+</add>

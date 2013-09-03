@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107024</field>
+<field name="genre">Operas</field>
+<field name="title">Le astuzie di Mangrelin</field>
+<field name="titleSort">astuzie di Mangrelin</field>
+<field name="composer">Giuseppe Dalbesio</field>
+<field name="composerSort">Dalbesio, Giuseppe</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Luigi Rocca</field>
+<field name="librettistSort">Rocca, Luigi</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+astuzie+di+Mangrelin+Giuseppe+Dalbesio&amp;search_field=search</field>
+</doc>
+</add>

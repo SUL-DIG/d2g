@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112545</field>
+<field name="genre">Operas</field>
+<field name="title">Frugolina</field>
+<field name="titleSort">Frugolina</field>
+<field name="composer">Alfredo Grandi</field>
+<field name="composerSort">Grandi, Alfredo</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Aristide Gargano</field>
+<field name="librettistSort">Gargano, Aristide</field>
+<field name="theater">Teatro dell'Alhambra</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Frugolina+Alfredo+Grandi&amp;search_field=search</field>
+</doc>
+</add>

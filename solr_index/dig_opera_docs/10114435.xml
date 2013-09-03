@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114435</field>
+<field name="genre">Operas</field>
+<field name="title">Beyond Men and Dreams</field>
+<field name="titleSort">Beyond Men and Dreams</field>
+<field name="composer">Bennett Hogg</field>
+<field name="composerSort">Hogg, Bennett</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Marion Lomax</field>
+<field name="librettistSort">Lomax, Marion</field>
+<field name="theater">Riverside Studios</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Beyond+Men+and+Dreams+Bennett+Hogg&amp;search_field=search</field>
+</doc>
+</add>

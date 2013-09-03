@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204839</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Virtum triumphus</field>
+		<field name="titleSort">Virtum triumphus</field>
+		<field name="year">1702</field>
+		
+		
+		<field name="date">1702</field>
+		<field name="composer">Giovanni Battista Garbi</field>
+		<field name="composerSort">Garbi, Giovanni Battista</field>
+		<field name="librettist">Rutillio Paracciani</field>
+		<field name="librettistSort">Paracciani, Rutillio</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Virtum+triumphus+Giovanni+Battista+Garbi&amp;search_field=search</field>
+	</doc></add>

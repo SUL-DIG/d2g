@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120971</field>
+<field name="genre">Operas</field>
+<field name="title">La belle Arsène</field>
+<field name="titleSort">belle Arsène</field>
+<field name="composer">Pierre-Alexandre Monsigny</field>
+<field name="composerSort">Monsigny, Pierre-Alexandre</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="librettist">[François-Marie Arouet] Voltaire</field>
+<field name="librettistSort">Voltaire, [François-Marie Arouet]</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+Arsène+Pierre-Alexandre+Monsigny&amp;search_field=search</field>
+</doc>
+</add>

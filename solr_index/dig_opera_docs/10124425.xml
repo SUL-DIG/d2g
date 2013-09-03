@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124425</field>
+<field name="genre">Operas</field>
+<field name="title">Don Pirlone</field>
+<field name="titleSort">Don Pirlone</field>
+<field name="composer">Luigi Pittana</field>
+<field name="composerSort">Pittana, Luigi</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">__ Gulische</field>
+<field name="librettistSort">Gulische, __</field>
+
+<field name="city">Udine</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Pirlone+Luigi+Pittana&amp;search_field=search</field>
+</doc>
+</add>

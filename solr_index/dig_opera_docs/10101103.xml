@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101103</field>
+<field name="genre">Operas</field>
+<field name="title">The Gipsies</field>
+<field name="titleSort">Gipsies</field>
+<field name="composer">Samuel Arnold</field>
+<field name="composerSort">Arnold, Samuel</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Charles Dibdin</field>
+<field name="librettistSort">Dibdin, Charles</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Little Theatre in the Haymarket</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Gipsies+Samuel+Arnold&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112213</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro nell'Indie</field>
+<field name="titleSort">Alessandro nell'Indie</field>
+<field name="composer">Francesco Gnecco</field>
+<field name="composerSort">Gnecco, Francesco</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro dagli Armeni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+nell'Indie+Francesco+Gnecco&amp;search_field=search</field>
+</doc>
+</add>

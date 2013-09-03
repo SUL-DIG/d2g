@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201348</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La fionda di David</field>
+		<field name="titleSort">fionda di David</field>
+		<field name="year">1707</field>
+		
+		
+		<field name="date">1707</field>
+		<field name="composer">Giuseppe Vignola</field>
+		<field name="composerSort">Vignola, Giuseppe</field>
+		
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">David kills Goliath</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fionda+di+David+Giuseppe+Vignola&amp;search_field=search</field>
+	</doc></add>

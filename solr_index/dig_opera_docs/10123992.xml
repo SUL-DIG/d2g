@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123992</field>
+<field name="genre">Operas</field>
+<field name="title">La Bérengère</field>
+<field name="titleSort">Bérengère</field>
+<field name="composer">__ Petrus</field>
+<field name="composerSort">Petrus, __</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">J. d'Arèze</field>
+<field name="librettistSort">d'Arèze, J.</field>
+<field name="theater">Théâtre Molière</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Bérengère+__+Petrus&amp;search_field=search</field>
+</doc>
+</add>

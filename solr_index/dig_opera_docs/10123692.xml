@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123692</field>
+<field name="genre">Operas</field>
+<field name="title">Idylle en Bretagne</field>
+<field name="titleSort">Idylle en Bretagne</field>
+<field name="composer">Gaston Perducet</field>
+<field name="composerSort">Perducet, Gaston</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Gabrielle Roger</field>
+<field name="librettistSort">Roger, Gabrielle</field>
+<field name="librettist">Marcelle Babin</field>
+<field name="librettistSort">Babin, Marcelle</field>
+<field name="theater">Théâtre de la Tour Eiffel</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Idylle+en+Bretagne+Gaston+Perducet&amp;search_field=search</field>
+</doc>
+</add>

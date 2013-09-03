@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110256</field>
+<field name="genre">Operas</field>
+<field name="title">L'Orode</field>
+<field name="titleSort">Orode</field>
+<field name="composer">Pietro Paolo Forni</field>
+<field name="composerSort">Forni, Pietro Paolo</field>
+<field name="year">1675</field>
+<field name="date">1675</field>
+<field name="librettist">Giacomo Natta</field>
+<field name="librettistSort">Natta, Giacomo</field>
+<field name="theater">Teatro di Casale</field>
+<field name="city">Casale Monferrato</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Orode+Pietro+Paolo+Forni&amp;search_field=search</field>
+</doc>
+</add>

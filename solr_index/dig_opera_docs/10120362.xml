@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120362</field>
+<field name="genre">Operas</field>
+<field name="title">Il violino del Diavolo</field>
+<field name="titleSort">violino del Diavolo</field>
+<field name="composer">Agostino Mercuri</field>
+<field name="composerSort">Mercuri, Agostino</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Ferdinando Fontana</field>
+<field name="librettistSort">Fontana, Ferdinando</field>
+
+<field name="city">Cagli</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+violino+del+Diavolo+Agostino+Mercuri&amp;search_field=search</field>
+</doc>
+</add>

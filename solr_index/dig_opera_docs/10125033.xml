@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125033</field>
+<field name="genre">Operas</field>
+<field name="title">The Triumph of Our Lord</field>
+<field name="titleSort">Triumph of Our Lord</field>
+<field name="composer">Arthur Poynter</field>
+<field name="composerSort">Poynter, Arthur</field>
+<field name="year">1950</field>
+<field name="date">1950</field><field name="theater">Toronto Baptist Choral Society</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Triumph+of+Our+Lord+Arthur+Poynter&amp;search_field=search</field>
+</doc>
+</add>

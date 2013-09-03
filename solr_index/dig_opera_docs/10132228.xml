@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132228</field>
+<field name="genre">Operas</field>
+<field name="title">La fantarca</field>
+<field name="titleSort">fantarca</field>
+<field name="composer">Roman Vlad</field>
+<field name="composerSort">Vlad, Roman</field>
+<field name="year">1967</field>
+<field name="date">1967</field>
+<field name="librettist">Giuseppe Berto</field>
+<field name="librettistSort">Berto, Giuseppe</field>
+<field name="theater">RAI Television (Radiotelevisione Italiana)</field>
+
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fantarca+Roman+Vlad&amp;search_field=search</field>
+</doc>
+</add>

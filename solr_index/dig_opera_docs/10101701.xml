@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101701</field>
+<field name="genre">Operas</field>
+<field name="title">The Maid of Honour</field>
+<field name="titleSort">Maid of Honour</field>
+<field name="composer">Michael William Balfe</field>
+<field name="composerSort">Balfe, Michael William</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Edward Fitzball</field>
+<field name="librettistSort">Fitzball, Edward</field>
+<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Maid+of+Honour+Michael+William+Balfe&amp;search_field=search</field>
+</doc>
+</add>

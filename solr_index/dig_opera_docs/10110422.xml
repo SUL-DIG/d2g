@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110422</field>
+<field name="genre">Operas</field>
+<field name="title">L'arrivo del duca</field>
+<field name="titleSort">arrivo del duca</field>
+<field name="composer">Ottavio Frangini</field>
+<field name="composerSort">Frangini, Ottavio</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Ottavio Franzini</field>
+<field name="librettistSort">Franzini, Ottavio</field>
+<field name="theater">Teatro Goldoni</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arrivo+del+duca+Ottavio+Frangini&amp;search_field=search</field>
+</doc>
+</add>

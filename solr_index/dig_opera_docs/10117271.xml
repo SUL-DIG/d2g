@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117271</field>
+<field name="genre">Operas</field>
+<field name="title">La jota</field>
+<field name="titleSort">jota</field>
+<field name="composer">Raoul Laparra</field>
+<field name="composerSort">Laparra, Raoul</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Raoul Laparra</field>
+<field name="librettistSort">Laparra, Raoul</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+jota+Raoul+Laparra&amp;search_field=search</field>
+</doc>
+</add>

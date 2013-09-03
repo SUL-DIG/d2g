@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109994</field>
+<field name="genre">Operas</field>
+<field name="title">König Saul</field>
+<field name="titleSort">König Saul</field>
+<field name="composer">Matthäus Fischer</field>
+<field name="composerSort">Fischer, Matthäus</field>
+<field name="year">1798</field>
+<field name="date">1798</field><field name="theater">Katholische Schulhaus bei Sankt Salvator</field>
+<field name="city">Augsburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Saul+Matthäus+Fischer&amp;search_field=search</field>
+</doc>
+</add>

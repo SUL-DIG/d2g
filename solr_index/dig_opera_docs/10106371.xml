@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106371</field>
+<field name="genre">Operas</field>
+<field name="title">The Monkey's Paw</field>
+<field name="titleSort">Monkey's Paw</field>
+<field name="composer">Ronald Combs</field>
+<field name="composerSort">Combs, Ronald</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">Ronald Combs</field>
+<field name="librettistSort">Combs, Ronald</field>
+<field name="librettist">William Wymark Jacobs</field>
+<field name="librettistSort">Jacobs, William Wymark</field>
+<field name="theater">University of Wisconsin</field>
+<field name="city">Stevens Point</field>
+<field name="region">Wisconsin</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Monkey's+Paw+Ronald+Combs&amp;search_field=search</field>
+</doc>
+</add>

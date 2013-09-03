@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103026</field>
+<field name="genre">Operas</field>
+<field name="title">The Fisherman and his Wife</field>
+<field name="titleSort">Fisherman and his Wife</field>
+<field name="composer">Susan Hulsman Bingham</field>
+<field name="composerSort">Bingham, Susan Hulsman</field>
+<field name="year">1991</field>
+<field name="date">1991</field>
+<field name="librettist">Susan Hulsman Bingham</field>
+<field name="librettistSort">Bingham, Susan Hulsman</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Bruno Walter Auditorium</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fisherman+and+his+Wife+Susan+Hulsman+Bingham&amp;search_field=search</field>
+</doc>
+</add>

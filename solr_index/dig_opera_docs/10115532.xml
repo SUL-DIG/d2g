@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115532</field>
+<field name="genre">Operas</field>
+<field name="title">Oenone</field>
+<field name="titleSort">Oenone</field>
+<field name="composer">Christian Kalkbrenner</field>
+<field name="composerSort">Kalkbrenner, Christian</field>
+<field name="year">1812</field>
+<field name="date">1812</field>
+<field name="librettist">Antoine François Lebailly</field>
+<field name="librettistSort">Lebailly, Antoine François</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Oenone+Christian+Kalkbrenner&amp;search_field=search</field>
+</doc>
+</add>

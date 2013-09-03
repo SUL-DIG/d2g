@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130516</field>
+<field name="genre">Operas</field>
+<field name="title">Parfums</field>
+<field name="titleSort">Parfums</field>
+<field name="composer">Germaine Tailleferre</field>
+<field name="composerSort">Tailleferre, Germaine</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Charles-Henri Hirsch</field>
+<field name="librettistSort">Hirsch, Charles-Henri</field>
+<field name="librettist">Jean Bouchor</field>
+<field name="librettistSort">Bouchor, Jean</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Parfums+Germaine+Tailleferre&amp;search_field=search</field>
+</doc>
+</add>

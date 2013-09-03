@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103963</field>
+<field name="genre">Operas</field>
+<field name="title">Margherita la mendicante</field>
+<field name="titleSort">Margherita la mendicante</field>
+<field name="composer">Gaetano Braga</field>
+<field name="composerSort">Braga, Gaetano</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Francesco Maria Piave</field>
+<field name="librettistSort">Piave, Francesco Maria</field>
+<field name="theater">Théâtre-Italien</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Margherita+la+mendicante+Gaetano+Braga&amp;search_field=search</field>
+</doc>
+</add>

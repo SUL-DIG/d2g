@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108988</field>
+<field name="genre">Operas</field>
+<field name="title">Tormide rand (The Shore of Storms)</field>
+<field name="titleSort">Tormide rand (The Shore of Storms)</field>
+<field name="composer">Gustav Gustavovich Ernesaks</field>
+<field name="composerSort">Ernesaks, Gustav Gustavovich</field>
+<field name="year">1949</field>
+<field name="date">1949</field>
+<field name="librettist">Juhan Smuul</field>
+<field name="librettistSort">Smuul, Juhan</field>
+<field name="theater">Teatr Estoniya</field>
+<field name="city">Tallinn</field>
+<field name="region">Harju</field>
+<field name="country">Estonia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tormide+rand+The+Shore+of+Storms+Gustav+Gustavovich+Ernesaks&amp;search_field=search</field>
+</doc>
+</add>

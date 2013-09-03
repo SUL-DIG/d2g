@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118476</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Wildschütz, oder Die Stimme der Natur</field>
+<field name="titleSort">"Wildschütz, oder Die Stimme der Natur"</field>
+<field name="composer">Albert Lortzing</field>
+<field name="composerSort">Lortzing, Albert</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Albert Lortzing</field>
+<field name="librettistSort">Lortzing, Albert</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Wildschütz,+oder+Die+Stimme+der+Natur+Albert+Lortzing&amp;search_field=search</field>
+</doc>
+</add>

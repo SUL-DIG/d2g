@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200531</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Captivity</field>
+		<field name="titleSort">Captivity</field>
+		<field name="year">1904</field>
+		<field name="month">September</field>
+		
+		<field name="date">September 1904</field>
+		<field name="composer">David Emlyn Evans</field>
+		<field name="composerSort">Evans, David Emlyn</field>
+		<field name="librettist">Oliver Goldsmith</field>
+		<field name="librettistSort">Goldsmith, Oliver</field>
+		
+		<field name="theater">Royal National Eisteddfod</field>
+		<field name="city">Rhyl</field>
+		<field name="region">Wales</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">The Babylonian Captivity</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Captivity+David+Emlyn+Evans&amp;search_field=search</field>
+	</doc></add>

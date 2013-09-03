@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111011</field>
+<field name="genre">Operas</field>
+<field name="title">Le due gemelle</field>
+<field name="titleSort">due gemelle</field>
+<field name="composer">José Mauríco Nunes García</field>
+<field name="composerSort">García, José Mauríco Nunes</field>
+<field name="year">1809</field>
+<field name="date">1809</field><field name="theater">Teatro Régio</field>
+<field name="city">Rio de Janeiro</field>
+<field name="region">Rio de Janeiro</field>
+<field name="country">Brazil</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+due+gemelle+José+Mauríco+Nunes+García&amp;search_field=search</field>
+</doc>
+</add>

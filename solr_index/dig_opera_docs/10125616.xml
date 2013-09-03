@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125616</field>
+<field name="genre">Operas</field>
+<field name="title">Bertha von Bretagne</field>
+<field name="titleSort">Bertha von Bretagne</field>
+<field name="composer">Joseph Rastrelli</field>
+<field name="composerSort">Rastrelli, Joseph</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Caroline Leonhardt-Lyser</field>
+<field name="librettistSort">Leonhardt-Lyser, Caroline</field>
+<field name="theater">Kleines Hoftheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bertha+von+Bretagne+Joseph+Rastrelli&amp;search_field=search</field>
+</doc>
+</add>

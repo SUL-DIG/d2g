@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101153</field>
+<field name="genre">Operas</field>
+<field name="title">Les deux petits troubadours</field>
+<field name="titleSort">deux petits troubadours</field>
+<field name="composer">Joseph Arquier</field>
+<field name="composerSort">Arquier, Joseph</field>
+<field name="year">1800</field>
+<field name="date">1800</field><field name="theater">Théâtre des Jeunes Élèves</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+deux+petits+troubadours+Joseph+Arquier&amp;search_field=search</field>
+</doc>
+</add>

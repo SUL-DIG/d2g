@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119845</field>
+<field name="genre">Operas</field>
+<field name="title">David der Hirtenknabe (Davids Jugend)</field>
+<field name="titleSort">David der Hirtenknabe (Davids Jugend)</field>
+<field name="composer">J. Michael Maurer</field>
+<field name="composerSort">Maurer, J. Michael</field>
+<field name="year">1830</field>
+<field name="date">1830</field><field name="theater">Deutsches Theater</field>
+<field name="city">Strasbourg</field>
+<field name="region">Bas-Rhin</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=David+der+Hirtenknabe+Davids+Jugend+J.+Michael+Maurer&amp;search_field=search</field>
+</doc>
+</add>

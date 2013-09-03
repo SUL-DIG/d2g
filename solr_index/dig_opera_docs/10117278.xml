@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117278</field>
+<field name="genre">Operas</field>
+<field name="title">Dux Magnus</field>
+<field name="titleSort">Dux Magnus</field>
+<field name="composer">Darius Lapinskas</field>
+<field name="composerSort">Lapinskas, Darius</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Kazys Bradunas</field>
+<field name="librettistSort">Bradunas, Kazys</field>
+<field name="theater">Ryerson Theatre</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dux+Magnus+Darius+Lapinskas&amp;search_field=search</field>
+</doc>
+</add>

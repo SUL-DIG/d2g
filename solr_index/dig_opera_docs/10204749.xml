@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204749</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Varpo kelimas (The Raising of the Bells)</field>
+		<field name="titleSort">Varpo kelimas (The Raising of the Bells)</field>
+		<field name="year">1984</field>
+		
+		
+		<field name="date">1984</field>
+		<field name="composer">Feliksas Romualdas Bajoras</field>
+		<field name="composerSort">Bajoras, Feliksas Romualdas</field>
+		<field name="librettist">Jonas Streilkunas</field>
+		<field name="librettistSort">Streilkunas, Jonas</field>
+		
+		<field name="theater">Lithuanian Philharmonic</field>
+		<field name="city">Vilnius</field>
+		
+		<field name="country">Lithuania</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Varpo+kelimas+(The+Raising+of+the+Bells)+Feliksas+Romualdas+Bajoras&amp;search_field=search</field>
+	</doc></add>

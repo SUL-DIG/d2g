@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130992</field>
+<field name="genre">Operas</field>
+<field name="title">Leyli ev Mejnum</field>
+<field name="titleSort">Leyli ev Mejnum</field>
+<field name="composer">Armen Tigran Tigranyan</field>
+<field name="composerSort">Tigranyan, Armen Tigran</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Armen Tigran Tigranyan</field>
+<field name="librettistSort">Tigranyan, Armen Tigran</field>
+<field name="librettist">Hovhannes Voskanyan</field>
+<field name="librettistSort">Voskanyan, Hovhannes</field>
+<field name="theater">Armenian Comedy Theater</field>
+<field name="city">Tbilisi</field>
+
+<field name="country">Georgia</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Leyli+ev+Mejnum+Armen+Tigran+Tigranyan&amp;search_field=search</field>
+</doc>
+</add>

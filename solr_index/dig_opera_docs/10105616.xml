@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105616</field>
+<field name="genre">Operas</field>
+<field name="title">L'oiseau perdu et retrouvé</field>
+<field name="titleSort">oiseau perdu et retrouvé</field>
+<field name="composer">Louis-Claude-Armand Chardiny</field>
+<field name="composerSort">Chardiny, Louis-Claude-Armand</field>
+<field name="year">1782</field>
+<field name="date">1782</field>
+<field name="librettist">Pierre-Antoine-Augustin de Piis</field>
+<field name="librettistSort">Piis, Pierre-Antoine-Augustin de</field>
+<field name="librettist">Pierre-Yon Barré</field>
+<field name="librettistSort">Barré, Pierre-Yon</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'oiseau+perdu+et+retrouvé+Louis-Claude-Armand+Chardiny&amp;search_field=search</field>
+</doc>
+</add>

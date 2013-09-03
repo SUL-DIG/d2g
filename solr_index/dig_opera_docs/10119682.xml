@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119682</field>
+<field name="genre">Operas</field>
+<field name="title">Galathée</field>
+<field name="titleSort">Galathée</field>
+<field name="composer">Victor Massé</field>
+<field name="composerSort">Massé, Victor</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Michel Carré</field>
+<field name="librettistSort">Carré, Michel</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Galathée+Victor+Massé&amp;search_field=search</field>
+</doc>
+</add>

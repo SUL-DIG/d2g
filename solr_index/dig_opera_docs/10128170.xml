@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128170</field>
+<field name="genre">Operas</field>
+<field name="title">"Der Erntekranz, oder Das Schnitterfest</field>
+<field name="titleSort">"Erntekranz, oder Das Schnitterfest"</field>
+<field name="composer">Johann Baptist Schenk</field>
+<field name="composerSort">Schenk, Johann Baptist</field>
+<field name="year">1791</field>
+<field name="date">1791</field>
+<field name="librettist">Karl Mayer (1)</field>
+<field name="librettistSort">Mayer (1), Karl</field>
+<field name="librettist">Christian Felix Weisse</field>
+<field name="librettistSort">Weisse, Christian Felix</field>
+<field name="theater">Freihaus-Theater auf der Wieden</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Erntekranz,+oder+Das+Schnitterfest+Johann+Baptist+Schenk&amp;search_field=search</field>
+</doc>
+</add>

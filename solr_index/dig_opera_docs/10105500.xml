@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105500</field>
+<field name="genre">Operas</field>
+<field name="title">Cleto</field>
+<field name="titleSort">Cleto</field>
+<field name="composer">Angelo Cestari</field>
+<field name="composerSort">Cestari, Angelo</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Tommaso Cestari</field>
+<field name="librettistSort">Cestari, Tommaso</field>
+<field name="theater">Teatro Minerva</field>
+<field name="city">Udine</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cleto+Angelo+Cestari&amp;search_field=search</field>
+</doc>
+</add>

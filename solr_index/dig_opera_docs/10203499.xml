@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203499</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La profetessa guerriera</field>
+		<field name="titleSort">profetessa guerriera</field>
+		<field name="year">1703</field>
+		
+		
+		<field name="date">1703</field>
+		<field name="composer">Francesco Scarlatti</field>
+		<field name="composerSort">Scarlatti, Francesco</field>
+		
+		
+		<field name="theater">Convento dell'Immacolata Concezione</field>
+		<field name="city">Palermo</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Deborah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+profetessa+guerriera+Francesco+Scarlatti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124219</field>
+<field name="genre">Operas</field>
+<field name="title">Scipione in Cartagena</field>
+<field name="titleSort">Scipione in Cartagena</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">Alvise Giusti</field>
+<field name="librettistSort">Giusti, Alvise</field>
+<field name="theater">Teatro Ducale di Piazza</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scipione+in+Cartagena+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

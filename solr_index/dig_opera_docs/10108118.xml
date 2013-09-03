@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108118</field>
+<field name="genre">Operas</field>
+<field name="title">The Trojan Women</field>
+<field name="titleSort">Trojan Women</field>
+<field name="composer">Patrice Doub</field>
+<field name="composerSort">Doub, Patrice</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Patrice Doub</field>
+<field name="librettistSort">Doub, Patrice</field>
+<field name="theater">University of Minnesota</field>
+<field name="city">Minneapolis</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Trojan+Women+Patrice+Doub&amp;search_field=search</field>
+</doc>
+</add>

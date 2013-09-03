@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122300</field>
+<field name="genre">Operas</field>
+<field name="title">La vallière</field>
+<field name="titleSort">vallière</field>
+<field name="composer">Max Oberleithner</field>
+<field name="composerSort">Oberleithner, Max</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="librettist">Ignaz Michael Welleminsky</field>
+<field name="librettistSort">Welleminsky, Ignaz Michael</field>
+<field name="theater">Volksoper</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vallière+Max+Oberleithner&amp;search_field=search</field>
+</doc>
+</add>

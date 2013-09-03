@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131683</field>
+<field name="genre">Operas</field>
+<field name="title">La folie espagnole</field>
+<field name="titleSort">folie espagnole</field>
+<field name="composer">José Valverde</field>
+<field name="composerSort">Valverde, José</field>
+<field name="year">1926</field>
+<field name="date">1926</field>
+<field name="librettist">Eugène Joullot</field>
+<field name="librettistSort">Joullot, Eugène</field>
+<field name="librettist">Edmond Joullot</field>
+<field name="librettistSort">Joullot, Edmond</field>
+<field name="theater">Théâtre de la Gaîté-Rochechouart</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+folie+espagnole+José+Valverde&amp;search_field=search</field>
+</doc>
+</add>

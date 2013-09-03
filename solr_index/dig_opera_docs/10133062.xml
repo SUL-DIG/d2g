@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133062</field>
+<field name="genre">Operas</field>
+<field name="title">Die Palastdame</field>
+<field name="titleSort">Palastdame</field>
+<field name="composer">Karoline Wiseneder</field>
+<field name="composerSort">Wiseneder, Karoline</field>
+<field name="year">1848</field>
+<field name="date">1848</field><field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Palastdame+Karoline+Wiseneder&amp;search_field=search</field>
+</doc>
+</add>

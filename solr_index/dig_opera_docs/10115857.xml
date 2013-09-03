@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115857</field>
+<field name="genre">Operas</field>
+<field name="title">Der Belagerungszustand</field>
+<field name="titleSort">Belagerungszustand</field>
+<field name="composer">Milko Kelemen</field>
+<field name="composerSort">Kelemen, Milko</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Milko Kelemen</field>
+<field name="librettistSort">Kelemen, Milko</field>
+<field name="librettist">Joachim Hess</field>
+<field name="librettistSort">Hess, Joachim</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Belagerungszustand+Milko+Kelemen&amp;search_field=search</field>
+</doc>
+</add>

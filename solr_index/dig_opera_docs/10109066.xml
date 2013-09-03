@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109066</field>
+<field name="genre">Operas</field>
+<field name="title">Die Geisterbraut</field>
+<field name="titleSort">Geisterbraut</field>
+<field name="composer">Eugen Herzog von Württemberg</field>
+<field name="composerSort">Württemberg, Eugen Herzog von</field>
+<field name="year">1842</field>
+<field name="date">1842</field>
+<field name="librettist">Eugen Herzog von WürttemberglibrettistSortEugen Herzog von
+WürttembergtheaterStadttheater</field>
+<field name="city">Wroclaw</field>
+<field name="region">Dolnoslaskie</field>
+<field name="country">Poland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Geisterbraut+Eugen+Herzog+von+Württemberg&amp;search_field=search</field>
+</doc>
+</add>

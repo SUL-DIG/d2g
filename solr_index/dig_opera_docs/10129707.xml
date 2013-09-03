@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129707</field>
+<field name="genre">Operas</field>
+<field name="title">The Intruder</field>
+<field name="titleSort">Intruder</field>
+<field name="composer">Robert Starer</field>
+<field name="composerSort">Starer, Robert</field>
+<field name="year">1956</field>
+<field name="date">1956</field>
+<field name="librettist">Mary Anne Pryor</field>
+<field name="librettistSort">Pryor, Mary Anne</field>
+<field name="theater">Cherry Lane Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Intruder+Robert+Starer&amp;search_field=search</field>
+</doc>
+</add>

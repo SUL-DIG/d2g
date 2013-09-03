@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200239</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Ascension of Martin Luther King</field>
+		<field name="titleSort">Ascension of Martin Luther King</field>
+		<field name="year">1990</field>
+		
+		
+		<field name="date">1990</field>
+		<field name="composer">Nils Henrik Asheim</field>
+		<field name="composerSort">Asheim, Nils Henrik</field>
+		<field name="librettist">A. Hague</field>
+		<field name="librettistSort">Hague, A.</field>
+		
+		
+		
+		
+		
+		<field name="subject">Martin Luther King</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Ascension+of+Martin+Luther+King+Nils+Henrik+Asheim&amp;search_field=search</field>
+	</doc></add>

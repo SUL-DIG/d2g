@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132445</field>
+<field name="genre">Operas</field>
+<field name="title">Inkognito</field>
+<field name="titleSort">Inkognito</field>
+<field name="composer">Ludolf Waldmann</field>
+<field name="composerSort">Waldmann, Ludolf</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Ludolf Waldmann</field>
+<field name="librettistSort">Waldmann, Ludolf</field>
+
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Inkognito+Ludolf+Waldmann&amp;search_field=search</field>
+</doc>
+</add>

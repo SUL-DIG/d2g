@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125009</field>
+<field name="genre">Operas</field>
+<field name="title">The Wedding</field>
+<field name="titleSort">Wedding</field>
+<field name="composer">Archibald James Potter</field>
+<field name="composerSort">Potter, Archibald James</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Archibald James Potter</field>
+<field name="librettistSort">Potter, Archibald James</field>
+<field name="theater">Abbey Theatre</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Wedding+Archibald+James+Potter&amp;search_field=search</field>
+</doc>
+</add>

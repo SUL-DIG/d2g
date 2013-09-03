@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108182</field>
+<field name="genre">Operas</field>
+<field name="title">La gemma Ceraunia d'Ulissipone hora Lisbona</field>
+<field name="titleSort">gemma Ceraunia d'Ulissipone hora Lisbona</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1687</field>
+<field name="date">1687</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Heidelberger Schloss</field>
+<field name="city">Heidelberg</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+gemma+Ceraunia+d'Ulissipone+hora+Lisbona+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

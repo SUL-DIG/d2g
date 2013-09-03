@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107393</field>
+<field name="genre">Operas</field>
+<field name="title">Poisson d'avril</field>
+<field name="titleSort">Poisson d'avril</field>
+<field name="composer">René Delaunay</field>
+<field name="composerSort">Delaunay, René</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Jules Rogeron</field>
+<field name="librettistSort">Rogeron, Jules</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Tours</field>
+<field name="region">Indre-et-Loire</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Poisson+d'avril+René+Delaunay&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104032</field>
+<field name="genre">Operas</field>
+<field name="title">Din vremea Unirii (From the Time of the Union)</field>
+<field name="titleSort">Din vremea Unirii (From the Time of the Union)</field>
+<field name="composer">Teodor Bratu</field>
+<field name="composerSort">Bratu, Teodor</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Silvia Popescu</field>
+<field name="librettistSort">Popescu, Silvia</field>
+<field name="librettist">C. Ghinea</field>
+<field name="librettistSort">Ghinea, C.</field>
+<field name="theater">Opera de Stat</field>
+<field name="city">Iasi</field>
+<field name="region">Iasi</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Din+vremea+Unirii+From+the+Time+of+the+Union+Teodor+Bratu&amp;search_field=search</field>
+</doc>
+</add>

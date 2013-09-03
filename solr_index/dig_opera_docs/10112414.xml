@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112414</field>
+<field name="genre">Operas</field>
+<field name="title">Ihmeellinen viesti vieraalta tähdeltä</field>
+<field name="titleSort">Ihmeellinen viesti vieraalta tähdeltä</field>
+<field name="composer">Ralf Gothóni</field>
+<field name="composerSort">Gothóni, Ralf</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Hermann Hesse</field>
+<field name="librettistSort">Hesse, Hermann</field>
+<field name="theater">Savonlinnan Ooperajuhlat</field>
+<field name="city">Savonlinna</field>
+<field name="region">Mikkelin</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ihmeellinen+viesti+vieraalta+tähdeltä+Ralf+Gothóni&amp;search_field=search</field>
+</doc>
+</add>

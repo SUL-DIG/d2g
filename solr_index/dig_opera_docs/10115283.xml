@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115283</field>
+<field name="genre">Operas</field>
+<field name="title">Die verkaufte Braut</field>
+<field name="titleSort">verkaufte Braut</field>
+<field name="composer">Hinrich Philip Johnsen</field>
+<field name="composerSort">Johnsen, Hinrich Philip</field>
+<field name="year">1742</field>
+<field name="date">1742</field><field name="theater">Court</field>
+<field name="city">Eutin</field>
+<field name="region">Schleswig-Holstein</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+verkaufte+Braut+Hinrich+Philip+Johnsen&amp;search_field=search</field>
+</doc>
+</add>

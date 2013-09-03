@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110207</field>
+<field name="genre">Operas</field>
+<field name="title">La montagne</field>
+<field name="titleSort">montagne</field>
+<field name="composer">Granges de Fontenelle</field>
+<field name="composerSort">Fontenelle, Granges de</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Philippe Desriaux</field>
+<field name="librettistSort">Desriaux, Philippe</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+montagne+Granges+de+Fontenelle&amp;search_field=search</field>
+</doc>
+</add>

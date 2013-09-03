@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203701</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El sacrificio del hijo de Jephté</field>
+		<field name="titleSort">sacrificio del hijo de Jephté</field>
+		<field name="year">1776</field>
+		
+		
+		<field name="date">1776</field>
+		<field name="composer">Josep Durán</field>
+		<field name="composerSort">Durán, Josep</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Jephthah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+sacrificio+del+hijo+de+Jephté+Josep+Durán&amp;search_field=search</field>
+	</doc></add>

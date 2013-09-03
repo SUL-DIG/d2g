@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116159</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit</field>
+<field name="titleSort">Hochzeit</field>
+<field name="composer">Iwan Knorr</field>
+<field name="composerSort">Knorr, Iwan</field>
+<field name="year">1907</field>
+<field name="date">1907</field><field name="theater">Neues Deutsches Theater</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+Iwan+Knorr&amp;search_field=search</field>
+</doc>
+</add>

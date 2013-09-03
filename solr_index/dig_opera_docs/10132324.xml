@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132324</field>
+<field name="genre">Operas</field>
+<field name="title">Le double voile</field>
+<field name="titleSort">double voile</field>
+<field name="composer">Louis Vuillemin</field>
+<field name="composerSort">Vuillemin, Louis</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">René Fauchois</field>
+<field name="librettistSort">Fauchois, René</field>
+<field name="theater">Opéra-Municipal</field>
+<field name="city">Nice</field>
+<field name="region">Alpes-Maritimes</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+double+voile+Louis+Vuillemin&amp;search_field=search</field>
+</doc>
+</add>

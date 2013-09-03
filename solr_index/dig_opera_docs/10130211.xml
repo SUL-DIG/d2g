@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130211</field>
+<field name="genre">Operas</field>
+<field name="title">Dagmar</field>
+<field name="titleSort">Dagmar</field>
+<field name="composer">Kurt Striegler</field>
+<field name="composerSort">Striegler, Kurt</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Robert Bosshart</field>
+<field name="librettistSort">Bosshart, Robert</field>
+<field name="librettist">Theodor Storm</field>
+<field name="librettistSort">Storm, Theodor</field>
+<field name="theater">Sächsisches Staatstheater</field>
+<field name="city">Dresden</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dagmar+Kurt+Striegler&amp;search_field=search</field>
+</doc>
+</add>

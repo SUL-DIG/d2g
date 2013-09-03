@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117653</field>
+<field name="genre">Operas</field>
+<field name="title">Der Vormund wider Willen</field>
+<field name="titleSort">Vormund wider Willen</field>
+<field name="composer">Joseph Lederer (2)</field>
+<field name="composerSort">Lederer (2), Joseph</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Alexander Pache</field>
+<field name="librettistSort">Pache, Alexander</field>
+<field name="theater">Radio Leipzig</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Vormund+wider+Willen+Joseph+Lederer+-2&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108614</field>
+<field name="genre">Operas</field>
+<field name="title">The Duke's Diversion</field>
+<field name="titleSort">Duke's Diversion</field>
+<field name="composer">Michael Dwyer</field>
+<field name="composerSort">Dwyer, Michael</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">George Mudie</field>
+<field name="librettistSort">Mudie, George</field>
+<field name="theater">Public Hall</field>
+<field name="city">West Norwood</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Duke's+Diversion+Michael+Dwyer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129642</field>
+<field name="genre">Operas</field>
+<field name="title">"Les dieux rivaux, ou Les fêtes de Cythère</field>
+<field name="titleSort">"dieux rivaux, ou fêtes de Cythère"</field>
+<field name="composer">Gasparo Spontini</field>
+<field name="composerSort">Spontini, Gasparo</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Michel Dieulafoy</field>
+<field name="librettistSort">Dieulafoy, Michel</field>
+<field name="librettist">Charles Brifaut</field>
+<field name="librettistSort">Brifaut, Charles</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+dieux+rivaux,+ou+Les+fêtes+de+Cythère+Gasparo+Spontini&amp;search_field=search</field>
+</doc>
+</add>

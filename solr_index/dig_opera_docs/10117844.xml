@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117844</field>
+<field name="genre">Operas</field>
+<field name="title">Entre voisins</field>
+<field name="titleSort">Entre voisins</field>
+<field name="composer">Frédéric Lentz</field>
+<field name="composerSort">Lentz, Frédéric</field>
+<field name="year">1897</field>
+<field name="date">1897</field>
+<field name="librettist">Louis Bouvet</field>
+<field name="librettistSort">Bouvet, Louis</field>
+<field name="theater">Théаtre Montparnasse</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Entre+voisins+Frédéric+Lentz&amp;search_field=search</field>
+</doc>
+</add>

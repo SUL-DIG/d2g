@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123027</field>
+<field name="genre">Operas</field>
+<field name="title">La modista raggiratrice</field>
+<field name="titleSort">modista raggiratrice</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Giovanni Battista Lorenzi</field>
+<field name="librettistSort">Lorenzi, Giovanni Battista</field>
+<field name="librettist">Gennaro Antonio Federico</field>
+<field name="librettistSort">Federico, Gennaro Antonio</field>
+<field name="theater">Teatro dei Fiorentini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+modista+raggiratrice+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

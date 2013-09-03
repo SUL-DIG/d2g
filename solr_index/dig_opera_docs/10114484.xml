@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114484</field>
+<field name="genre">Operas</field>
+<field name="title">König Krause</field>
+<field name="titleSort">König Krause</field>
+<field name="composer">Viktor Holländer</field>
+<field name="composerSort">Holländer, Viktor</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Jan Keller</field>
+<field name="librettistSort">Keller, Jan</field>
+<field name="librettist">Louis Herrmann</field>
+<field name="librettistSort">Herrmann, Louis</field>
+<field name="theater">Wallner-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Krause+Viktor+Holländer&amp;search_field=search</field>
+</doc>
+</add>

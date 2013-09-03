@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113647</field>
+<field name="genre">Operas</field>
+<field name="title">Die Kirmes</field>
+<field name="titleSort">Kirmes</field>
+<field name="composer">August Ferdinand Häser</field>
+<field name="composerSort">Häser, August Ferdinand</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">Max Seidel</field>
+<field name="librettistSort">Seidel, Max</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Kirmes+August+Ferdinand+Häser&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115780</field>
+<field name="genre">Operas</field>
+<field name="title">Szczególniejsze spotkanie</field>
+<field name="titleSort">Szczególniejsze spotkanie</field>
+<field name="composer">Wiktor Kazynski</field>
+<field name="composerSort">Kazynski, Wiktor</field>
+<field name="year">1832</field>
+<field name="date">1832</field>
+<field name="librettist">E. Sakowicz</field>
+<field name="librettistSort">Sakowicz, E.</field>
+
+<field name="city">Vilnius</field>
+
+<field name="country">Lithuania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Szczególniejsze+spotkanie+Wiktor+Kazynski&amp;search_field=search</field>
+</doc>
+</add>

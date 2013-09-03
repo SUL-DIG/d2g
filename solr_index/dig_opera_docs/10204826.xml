@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204826</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La vierge</field>
+		<field name="titleSort">vierge</field>
+		<field name="year">1880</field>
+		<field name="month">May</field>
+		<field name="day">22</field>
+		<field name="date">May 22, 1880</field>
+		<field name="composer">Jules Massenet</field>
+		<field name="composerSort">Massenet, Jules</field>
+		<field name="librettist">Charles Grandmougin</field>
+		<field name="librettistSort">Grandmougin, Charles</field>
+		
+		<field name="theater">Opéra</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">The Virgin Mary</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vierge+Jules+Massenet&amp;search_field=search</field>
+	</doc></add>

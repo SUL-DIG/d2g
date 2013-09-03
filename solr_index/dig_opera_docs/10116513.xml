@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116513</field>
+<field name="genre">Operas</field>
+<field name="title">Medea</field>
+<field name="titleSort">Medea</field>
+<field name="composer">Georg Krempelsetzer</field>
+<field name="composerSort">Krempelsetzer, Georg</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Heinrich von Ziegler</field>
+<field name="librettistSort">Ziegler, Heinrich von</field>
+<field name="theater">Akademie Gesangsverein</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Medea+Georg+Krempelsetzer&amp;search_field=search</field>
+</doc>
+</add>

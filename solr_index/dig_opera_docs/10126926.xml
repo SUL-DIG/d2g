@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126926</field>
+<field name="genre">Operas</field>
+<field name="title">Lámpaláz</field>
+<field name="titleSort">Lámpaláz</field>
+<field name="composer">Kálmán Rozsnyai</field>
+<field name="composerSort">Rozsnyai, Kálmán</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Imre Harmath</field>
+<field name="librettistSort">Harmath, Imre</field>
+<field name="librettist">Adorján Stella</field>
+<field name="librettistSort">Stella, Adorján</field>
+<field name="theater">Magyar Színház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lámpaláz+Kálmán+Rozsnyai&amp;search_field=search</field>
+</doc>
+</add>

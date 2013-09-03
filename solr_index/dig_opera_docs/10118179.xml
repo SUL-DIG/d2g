@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118179</field>
+<field name="genre">Operas</field>
+<field name="title">"Die Amazone, oder Der Frauen und der Liebe Sieg</field>
+<field name="titleSort">"Amazone, oder Der Frauen und der Liebe Sieg"</field>
+<field name="composer">Peter Joseph von Lindpaintner</field>
+<field name="composerSort">Lindpaintner, Peter Joseph von</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Ludwig Robert</field>
+<field name="librettistSort">Robert, Ludwig</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Amazone,+oder+Der+Frauen+und+der+Liebe+Sieg+Peter+Joseph+von+Lindpaintner&amp;search_field=search</field>
+</doc>
+</add>

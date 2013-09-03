@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202570</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La madre de' Maccabei</field>
+		<field name="titleSort">madre de' Maccabei</field>
+		<field name="year">1719</field>
+		
+		
+		<field name="date">1719</field>
+		<field name="composer">Angelo Massarotti</field>
+		<field name="composerSort">Massarotti, Angelo</field>
+		
+		
+		
+		<field name="city">Jesi</field>
+		<field name="region">Marche</field>
+		<field name="country">Italy</field>
+		<field name="subject">Seven brothers and their Mother</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+madre+de'+Maccabei+Angelo+Massarotti&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114779</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi de Paris</field>
+<field name="titleSort">roi de Paris</field>
+<field name="composer">Georges Hüe</field>
+<field name="composerSort">Hüe, Georges</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Henri Bouchat-Faure</field>
+<field name="librettistSort">Bouchat-Faure, Henri</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+de+Paris+Georges+Hüe&amp;search_field=search</field>
+</doc>
+</add>

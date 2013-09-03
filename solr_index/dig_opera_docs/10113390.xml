@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113390</field>
+<field name="genre">Operas</field>
+<field name="title">La langue musicale</field>
+<field name="titleSort">langue musicale</field>
+<field name="composer">Fromental Halévy</field>
+<field name="composerSort">Halévy, Fromental</field>
+<field name="year">1830</field>
+<field name="date">1830</field>
+<field name="librettist">[Édouard Déaddé] Saint-Yves</field>
+<field name="librettistSort">Saint-Yves, [Édouard Déaddé]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+langue+musicale+Fromental+Halévy&amp;search_field=search</field>
+</doc>
+</add>

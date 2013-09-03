@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117295</field>
+<field name="genre">Operas</field>
+<field name="title">Miguel Andrés</field>
+<field name="titleSort">Miguel Andrés</field>
+<field name="composer">Joaquin Larreglia</field>
+<field name="composerSort">Larreglia, Joaquin</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Pascual Millán</field>
+<field name="librettistSort">Millán, Pascual</field>
+<field name="theater">Teatro Circo de Price</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Miguel+Andrés+Joaquin+Larreglia&amp;search_field=search</field>
+</doc>
+</add>

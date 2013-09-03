@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200635</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus-Petrus-Debora-Sara</field>
+		<field name="titleSort">Christus-Petrus-Debora-Sara</field>
+		
+		
+		
+		
+		<field name="composer">Johann Ernst Eberlin</field>
+		<field name="composerSort">Eberlin, Johann Ernst</field>
+		
+		
+		
+		<field name="city">Salzburg</field>
+		<field name="region">Salzburg</field>
+		<field name="country">Austria</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus-Petrus-Debora-Sara+Johann+Ernst+Eberlin&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100877</field>
+<field name="genre">Operas</field>
+<field name="title">Karatschun</field>
+<field name="titleSort">Karatschun</field>
+<field name="composer">Ferdinando Antonolini</field>
+<field name="composerSort">Antonolini, Ferdinando</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karatschun+Ferdinando+Antonolini&amp;search_field=search</field>
+</doc>
+</add>

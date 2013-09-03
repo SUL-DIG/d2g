@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131301</field>
+<field name="genre">Operas</field>
+<field name="title">Il principe della nuova China</field>
+<field name="titleSort">principe della nuova China</field>
+<field name="composer">Vittorio Trento</field>
+<field name="composerSort">Trento, Vittorio</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Filippo Tarducci</field>
+<field name="librettistSort">Tarducci, Filippo</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+principe+della+nuova+China+Vittorio+Trento&amp;search_field=search</field>
+</doc>
+</add>

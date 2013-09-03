@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106953</field>
+<field name="genre">Operas</field>
+<field name="title">L'astronome et l'étoile</field>
+<field name="titleSort">astronome et l'étoile</field>
+<field name="composer">Charles Cuvillier</field>
+<field name="composerSort">Cuvillier, Charles</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">André Barde</field>
+<field name="librettistSort">Barde, André</field>
+<field name="librettist">Bertrand de Saint-Rémy</field>
+<field name="librettistSort">Saint-Rémy, Bertrand de</field>
+
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'astronome+et+l'étoile+Charles+Cuvillier&amp;search_field=search</field>
+</doc>
+</add>

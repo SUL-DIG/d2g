@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105400</field>
+<field name="genre">Operas</field>
+<field name="title">"Soliman vtoroy, ili Tri sultanshi</field>
+<field name="titleSort">"Soliman vtoroy, ili Tri sultanshi"</field>
+<field name="composer">Catterino Al'bertovich Cavos</field>
+<field name="composerSort">Cavos, Catterino Al'bertovich</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Aleksandr Ivanovich Scheller</field>
+<field name="librettistSort">Scheller, Aleksandr Ivanovich</field>
+<field name="librettist">Charles Simon Favart</field>
+<field name="librettistSort">Favart, Charles Simon</field>
+<field name="theater">Deutsches Opernhaus</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Soliman+vtoroy,+ili+Tri+sultanshi+Catterino+Al'bertovich+Cavos&amp;search_field=search</field>
+</doc>
+</add>

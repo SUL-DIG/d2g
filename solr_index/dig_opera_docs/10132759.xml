@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132759</field>
+<field name="genre">Operas</field>
+<field name="title">The Gardens of Adonis</field>
+<field name="titleSort">Gardens of Adonis</field>
+<field name="composer">Hugo Weisgall</field>
+<field name="composerSort">Weisgall, Hugo</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">[John Olon] John Olon-Scrymgeour</field>
+<field name="librettistSort">Olon-Scrymgeour, John [John Olon]</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">"Witherspoon Auditorium, Joslyn Art Museum"</field>
+<field name="city">Omaha</field>
+<field name="region">Nebraska</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Gardens+of+Adonis+Hugo+Weisgall&amp;search_field=search</field>
+</doc>
+</add>

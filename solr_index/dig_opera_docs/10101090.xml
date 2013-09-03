@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101090</field>
+<field name="genre">Operas</field>
+<field name="title">The Dancing Master</field>
+<field name="titleSort">Dancing Master</field>
+<field name="composer">Malcolm Arnold</field>
+<field name="composerSort">Arnold, Malcolm</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Joseph Mendoza</field>
+<field name="librettistSort">Mendoza, Joseph</field>
+<field name="librettist">William Wycherley</field>
+<field name="librettistSort">Wycherley, William</field>
+<field name="theater">Barnes Music Club</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Dancing+Master+Malcolm+Arnold&amp;search_field=search</field>
+</doc>
+</add>

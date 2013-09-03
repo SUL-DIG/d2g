@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117264</field>
+<field name="genre">Operas</field>
+<field name="title">Il mercato di Bazzano</field>
+<field name="titleSort">mercato di Bazzano</field>
+<field name="composer">Petronio Lanzi</field>
+<field name="composerSort">Lanzi, Petronio</field>
+<field name="year">1759</field>
+<field name="date">1759</field><field name="theater">Teatro Marsigli-Rossi</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mercato+di+Bazzano+Petronio+Lanzi&amp;search_field=search</field>
+</doc>
+</add>

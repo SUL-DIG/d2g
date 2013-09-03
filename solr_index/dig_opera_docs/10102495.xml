@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102495</field>
+<field name="genre">Operas</field>
+<field name="title">Hostinec U kamenného stolu</field>
+<field name="titleSort">Hostinec U kamenného stolu</field>
+<field name="composer">Jirí Berkovec</field>
+<field name="composerSort">Berkovec, Jirí</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Jirí Berkovec</field>
+<field name="librettistSort">Berkovec, Jirí</field>
+<field name="librettist">Karel Polácek</field>
+<field name="librettistSort">Polácek, Karel</field>
+<field name="theater">Slezské Divadlo Zdenka Nejedlého</field>
+<field name="city">Opava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hostinec+U+kamenného+stolu+Jirí+Berkovec&amp;search_field=search</field>
+</doc>
+</add>

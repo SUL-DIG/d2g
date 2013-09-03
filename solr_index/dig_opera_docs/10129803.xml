@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129803</field>
+<field name="genre">Operas</field>
+<field name="title">Sargines</field>
+<field name="titleSort">Sargines</field>
+<field name="composer">Daniel Steibelt</field>
+<field name="composerSort">Steibelt, Daniel</field>
+<field name="year">1811</field>
+<field name="date">1811</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sargines+Daniel+Steibelt&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126879</field>
+<field name="genre">Operas</field>
+<field name="title">Le maître du diable</field>
+<field name="titleSort">maître du diable</field>
+<field name="composer">André Roubaud</field>
+<field name="composerSort">Roubaud, André</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Édouard Cadol</field>
+<field name="librettistSort">Cadol, Édouard</field>
+<field name="theater">Théâtre des Fantaisies Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+maître+du+diable+André+Roubaud&amp;search_field=search</field>
+</doc>
+</add>

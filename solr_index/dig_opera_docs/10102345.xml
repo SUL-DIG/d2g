@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102345</field>
+<field name="genre">Operas</field>
+<field name="title">Mutter Mila (Máti Míla)</field>
+<field name="titleSort">Mutter Mila (Máti Míla)</field>
+<field name="composer">Karel Bendl</field>
+<field name="composerSort">Bendl, Karel</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">[Axel von Demandowski] Axel Delmar</field>
+<field name="librettistSort">Delmar, Axel [Axel von Demandowski]</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mutter+Mila+Máti+Míla+Karel+Bendl&amp;search_field=search</field>
+</doc>
+</add>

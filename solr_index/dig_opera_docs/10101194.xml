@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101194</field>
+<field name="genre">Operas</field>
+<field name="title">Gli amori d'Alessandro Magno e di Rosane</field>
+<field name="titleSort">amori d'Alessandro Magno e di Rosane</field>
+<field name="composer">Giovanni Giacomo Arrigoni</field>
+<field name="composerSort">Arrigoni, Giovanni Giacomo</field>
+<field name="year">1657</field>
+<field name="date">1657</field>
+<field name="librettist">Giacinto Andrea Cicognini</field>
+<field name="librettistSort">Cicognini, Giacinto Andrea</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+amori+d'Alessandro+Magno+e+di+Rosane+Giovanni+Giacomo+Arrigoni&amp;search_field=search</field>
+</doc>
+</add>

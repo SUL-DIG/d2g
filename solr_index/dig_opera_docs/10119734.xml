@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119734</field>
+<field name="genre">Operas</field>
+<field name="title">Le roi Cothon</field>
+<field name="titleSort">roi Cothon</field>
+<field name="composer">Édouard Mathé</field>
+<field name="composerSort">Mathé, Édouard</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">J. Servanges</field>
+<field name="librettistSort">Servanges, J.</field>
+<field name="theater">Théâtre des Arts</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+roi+Cothon+Édouard+Mathé&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110043</field>
+<field name="genre">Operas</field>
+<field name="title">Love's Alarms</field>
+<field name="titleSort">Love's Alarms</field>
+<field name="composer">Edward Francis Fitzwilliam</field>
+<field name="composerSort">Fitzwilliam, Edward Francis</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">John Baldwin Buckstone</field>
+<field name="librettistSort">Buckstone, John Baldwin</field>
+<field name="theater">"Her Majesty's Theatre, Haymarket"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Love's+Alarms+Edward+Francis+Fitzwilliam&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119117</field>
+<field name="genre">Operas</field>
+<field name="title">Peter Svacic</field>
+<field name="titleSort">Peter Svacic</field>
+<field name="composer">Josip Mandic</field>
+<field name="composerSort">Mandic, Josip</field>
+<field name="year">1904</field>
+<field name="date">1904</field>
+<field name="librettist">[Karlo Lukez] Dr. Trnoplesar-Budisvoj</field>
+<field name="librettistSort">Trnoplesar-Budisvoj, Dr. [Karlo Lukez]</field>
+<field name="theater">Slovensko Dazelno Gledalisce</field>
+<field name="city">Ljubljana</field>
+
+<field name="country">Slovenia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Peter+Svacic+Josip+Mandic&amp;search_field=search</field>
+</doc>
+</add>

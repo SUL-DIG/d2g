@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105439</field>
+<field name="genre">Operas</field>
+<field name="title">After All</field>
+<field name="titleSort">After All</field>
+<field name="composer">Alfred Cellier</field>
+<field name="composerSort">Cellier, Alfred</field>
+<field name="year">1878</field>
+<field name="date">1878</field>
+<field name="librettist">Frank Desprez</field>
+<field name="librettistSort">Desprez, Frank</field>
+<field name="theater">Opera Comique Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=After+All+Alfred+Cellier&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125008</field>
+<field name="genre">Operas</field>
+<field name="title">Patrick</field>
+<field name="titleSort">Patrick</field>
+<field name="composer">Archibald James Potter</field>
+<field name="composerSort">Potter, Archibald James</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Donagh McDonagh</field>
+<field name="librettistSort">McDonagh, Donagh</field>
+<field name="theater">RTE Television (Radio Telefís Éireann)</field>
+<field name="city">Dublin</field>
+<field name="region">Leinster</field>
+<field name="country">Ireland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Patrick+Archibald+James+Potter&amp;search_field=search</field>
+</doc>
+</add>

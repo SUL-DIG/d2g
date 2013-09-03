@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119127</field>
+<field name="genre">Operas</field>
+<field name="title">La Licasta</field>
+<field name="titleSort">Licasta</field>
+<field name="composer">Francesco Manelli</field>
+<field name="composerSort">Manelli, Francesco</field>
+<field name="year">1664</field>
+<field name="date">1664</field>
+<field name="librettist">Benedetto Ferrari</field>
+<field name="librettistSort">Ferrari, Benedetto</field>
+<field name="theater">Teatro di Santa Caterina</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Licasta+Francesco+Manelli&amp;search_field=search</field>
+</doc>
+</add>

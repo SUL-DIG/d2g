@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109451</field>
+<field name="genre">Operas</field>
+<field name="title">Silvia</field>
+<field name="titleSort">Silvia</field>
+<field name="composer">Ruggiero Fedeli</field>
+<field name="composerSort">Fedeli, Ruggiero</field>
+<field name="year">1690</field>
+<field name="date">1690</field>
+<field name="librettist">Ruggiero Fedeli</field>
+<field name="librettistSort">Fedeli, Ruggiero</field>
+
+<field name="city">Regensburg</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Silvia+Ruggiero+Fedeli&amp;search_field=search</field>
+</doc>
+</add>

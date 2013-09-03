@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124670</field>
+<field name="genre">Operas</field>
+<field name="title">I delirii per amore</field>
+<field name="titleSort">delirii per amore</field>
+<field name="composer">Carlo Francesco Pollarolo</field>
+<field name="composerSort">Pollarolo, Carlo Francesco</field>
+<field name="year">1686</field>
+<field name="date">1686</field>
+<field name="librettist">Francesco Miliati</field>
+<field name="librettistSort">Miliati, Francesco</field>
+
+<field name="city">Brescia</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+delirii+per+amore+Carlo+Francesco+Pollarolo&amp;search_field=search</field>
+</doc>
+</add>

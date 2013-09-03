@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123068</field>
+<field name="genre">Operas</field>
+<field name="title">La vedova astuta</field>
+<field name="titleSort">vedova astuta</field>
+<field name="composer">Giuseppe Paliani</field>
+<field name="composerSort">Paliani, Giuseppe</field>
+<field name="year">1808</field>
+<field name="date">1808</field><field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+vedova+astuta+Giuseppe+Paliani&amp;search_field=search</field>
+</doc>
+</add>

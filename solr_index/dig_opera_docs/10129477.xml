@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129477</field>
+<field name="genre">Operas</field>
+<field name="title">King Kaliko</field>
+<field name="titleSort">King Kaliko</field>
+<field name="composer">Frederic Solomon</field>
+<field name="composerSort">Solomon, Frederic</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Frank Dupree</field>
+<field name="librettistSort">Dupree, Frank</field>
+<field name="theater">Broadway Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=King+Kaliko+Frederic+Solomon&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120429</field>
+<field name="genre">Operas</field>
+<field name="title">Hadassa</field>
+<field name="titleSort">Hadassa</field>
+<field name="composer">Joseph Messner</field>
+<field name="composerSort">Messner, Joseph</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Johannes Messner</field>
+<field name="librettistSort">Messner, Johannes</field>
+<field name="theater">Städtische Bühnen</field>
+<field name="city">Aachen</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hadassa+Joseph+Messner&amp;search_field=search</field>
+</doc>
+</add>

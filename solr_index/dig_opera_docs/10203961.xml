@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203961</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il Sansone</field>
+		<field name="titleSort">Sansone</field>
+		<field name="year">1686</field>
+		
+		
+		<field name="date">1686</field>
+		<field name="composer">Bonaventura Aliotti</field>
+		<field name="composerSort">Aliotti, Bonaventura</field>
+		
+		
+		
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		<field name="subject">Samson</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Sansone+Bonaventura+Aliotti&amp;search_field=search</field>
+	</doc></add>

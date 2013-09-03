@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100551</field>
+<field name="genre">Operas</field>
+<field name="title">La virtù trionfante</field>
+<field name="titleSort">virtù trionfante</field>
+<field name="composer">Francisco António de Almeida</field>
+<field name="composerSort">Almeida, Francisco António de</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Antonio Tedeschi</field>
+<field name="librettistSort">Tedeschi, Antonio</field>
+<field name="theater">Palácio de los Patriarch</field>
+<field name="city">Lisbon</field>
+<field name="region">Lisboa</field>
+<field name="country">Portugal</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+virtù+trionfante+Francisco+António+de+Almeida&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103684</field>
+<field name="genre">Operas</field>
+<field name="title">"Il quadromaniaco, ossia Amore ed inganno</field>
+<field name="titleSort">"quadromaniaco, ossia Amore ed inganno"</field>
+<field name="composer">Emanuele Borgatta</field>
+<field name="composerSort">Borgatta, Emanuele</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Giovanni Battista Scotti</field>
+<field name="librettistSort">Scotti, Giovanni Battista</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+quadromaniaco,+ossia+Amore+ed+inganno+Emanuele+Borgatta&amp;search_field=search</field>
+</doc>
+</add>

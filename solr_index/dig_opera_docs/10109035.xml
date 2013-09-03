@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109035</field>
+<field name="genre">Operas</field>
+<field name="title">Aurora</field>
+<field name="titleSort">Aurora</field>
+<field name="composer">Ulrich José Espri</field>
+<field name="composerSort">Espri, Ulrich José</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aurora+Ulrich+José+Espri&amp;search_field=search</field>
+</doc>
+</add>

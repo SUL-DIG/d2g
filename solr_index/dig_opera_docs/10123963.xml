@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123963</field>
+<field name="genre">Operas</field>
+<field name="title">La contessa d'Amalfi</field>
+<field name="titleSort">contessa d'Amalfi</field>
+<field name="composer">Errico Petrella</field>
+<field name="composerSort">Petrella, Errico</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="librettist">Octave Feuillet</field>
+<field name="librettistSort">Feuillet, Octave</field>
+<field name="theater">Teatro Regio</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+contessa+d'Amalfi+Errico+Petrella&amp;search_field=search</field>
+</doc>
+</add>

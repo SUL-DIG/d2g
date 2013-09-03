@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132350</field>
+<field name="genre">Operas</field>
+<field name="title">"Zoe, or Amor romanesc</field>
+<field name="titleSort">"Zoe, or Amor romanesc"</field>
+<field name="composer">Ion Andrei Wachmann</field>
+<field name="composerSort">Wachmann, Ion Andrei</field>
+<field name="year">1852</field>
+<field name="date">1852</field>
+<field name="librettist">Eugène Scribe</field>
+<field name="librettistSort">Scribe, Eugène</field>
+<field name="librettist">[Anne-Honoré-Joseph Duveyrier] Mélesville</field>
+<field name="librettistSort">Mélesville, [Anne-Honoré-Joseph Duveyrier]</field>
+<field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zoe,+or+Amor+romanesc+Ion+Andrei+Wachmann&amp;search_field=search</field>
+</doc>
+</add>

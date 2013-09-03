@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127597</field>
+<field name="genre">Operas</field>
+<field name="title">Il casino di campagna</field>
+<field name="titleSort">casino di campagna</field>
+<field name="composer">Filippo Sangiorgi</field>
+<field name="composerSort">Sangiorgi, Filippo</field>
+<field name="year">1856</field>
+<field name="date">1856</field>
+<field name="librettist">Luigi Scalchi</field>
+<field name="librettistSort">Scalchi, Luigi</field>
+<field name="theater">Teatro Capranica</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+casino+di+campagna+Filippo+Sangiorgi&amp;search_field=search</field>
+</doc>
+</add>

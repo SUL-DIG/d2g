@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202172</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jesu Auferstehung</field>
+		<field name="titleSort">Jesu Auferstehung</field>
+		
+		
+		
+		
+		<field name="composer">Matthias Andreas Bauck</field>
+		<field name="composerSort">Bauck, Matthias Andreas</field>
+		
+		
+		<field name="theater">Marienkirche</field>
+		<field name="city">Lübeck</field>
+		<field name="region">Schleswig-Holstein</field>
+		<field name="country">Germany</field>
+		<field name="subject">The Resurrection</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jesu+Auferstehung+Matthias+Andreas+Bauck&amp;search_field=search</field>
+	</doc></add>

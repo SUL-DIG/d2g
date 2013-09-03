@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103507</field>
+<field name="genre">Operas</field>
+<field name="title">Antigone</field>
+<field name="titleSort">Antigone</field>
+<field name="composer">Carlo Bondonio</field>
+<field name="composerSort">Bondonio, Carlo</field>
+<field name="year">1920</field>
+<field name="date">1920</field>
+<field name="librettist">Carlo Bondonio</field>
+<field name="librettistSort">Bondonio, Carlo</field>
+<field name="theater">Teatro Coccia</field>
+<field name="city">Novara</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+Carlo+Bondonio&amp;search_field=search</field>
+</doc>
+</add>

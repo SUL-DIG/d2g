@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129872</field>
+<field name="genre">Operas</field>
+<field name="title">The Enchanted Canary</field>
+<field name="titleSort">Enchanted Canary</field>
+<field name="composer">Noel Scott Stevens</field>
+<field name="composerSort">Stevens, Noel Scott</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Andrew Oerke</field>
+<field name="librettistSort">Oerke, Andrew</field>
+<field name="theater">Bemidji State College</field>
+<field name="city">Bemidji</field>
+<field name="region">Minnesota</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Enchanted+Canary+Noel+Scott+Stevens&amp;search_field=search</field>
+</doc>
+</add>

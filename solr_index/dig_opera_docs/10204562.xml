@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204562</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La tour de Babel</field>
+		<field name="titleSort">tour de Babel</field>
+		<field name="year">1932</field>
+		
+		
+		<field name="date">1932</field>
+		<field name="composer">René Barbier</field>
+		<field name="composerSort">Barbier, René</field>
+		<field name="librettist">Maurice Henrion</field>
+		<field name="librettistSort">Henrion, Maurice</field>
+		
+		
+		<field name="city">Namur</field>
+		<field name="region">Namur</field>
+		<field name="country">Belgium</field>
+		<field name="subject">The Tower of Babel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tour+de+Babel+René+Barbier&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129011</field>
+<field name="genre">Operas</field>
+<field name="title">Tetri mandili (The White Shawl)</field>
+<field name="titleSort">Tetri mandili (The White Shawl)</field>
+<field name="composer">Tengiz Shavlokhashvili</field>
+<field name="composerSort">Shavlokhashvili, Tengiz</field>
+<field name="year">1993</field>
+<field name="date">1993</field>
+<field name="librettist">Moris Potskhishvili</field>
+<field name="librettistSort">Potskhishvili, Moris</field>
+<field name="librettist">Moritz Hartmann</field>
+<field name="librettistSort">Hartmann, Moritz</field>
+
+<field name="city">Kutaisi</field>
+
+<field name="country">Georgia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tetri+mandili+The+White+Shawl+Tengiz+Shavlokhashvili&amp;search_field=search</field>
+</doc>
+</add>

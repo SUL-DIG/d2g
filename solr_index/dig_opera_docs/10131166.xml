@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131166</field>
+<field name="genre">Operas</field>
+<field name="title">Tante Agnès</field>
+<field name="titleSort">Tante Agnès</field>
+<field name="composer">Frédéric Toulmouche</field>
+<field name="composerSort">Toulmouche, Frédéric</field>
+<field name="year">1896</field>
+<field name="date">1896</field>
+<field name="librettist">Maxime Boucheron</field>
+<field name="librettistSort">Boucheron, Maxime</field>
+<field name="theater">Théâtre de l'Olympia</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tante+Agnès+Frédéric+Toulmouche&amp;search_field=search</field>
+</doc>
+</add>

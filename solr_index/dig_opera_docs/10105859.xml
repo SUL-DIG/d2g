@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105859</field>
+<field name="genre">Operas</field>
+<field name="title">Sevillan parturi (The Barber of Seville)</field>
+<field name="titleSort">Sevillan parturi (The Barber of Seville)</field>
+<field name="composer">Kaj Chydenius</field>
+<field name="composerSort">Chydenius, Kaj</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Kaj Chydenius</field>
+<field name="librettistSort">Chydenius, Kaj</field>
+<field name="librettist">Pierre-Augustin Caron de Beaumarchais</field>
+<field name="librettistSort">Beaumarchais, Pierre-Augustin Caron de</field>
+<field name="theater">KOM-Teatteri</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sevillan+parturi+The+Barber+of+Seville+Kaj+Chydenius&amp;search_field=search</field>
+</doc>
+</add>

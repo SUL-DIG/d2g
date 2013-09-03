@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105580</field>
+<field name="genre">Operas</field>
+<field name="title">L'arracheuse de dents</field>
+<field name="titleSort">arracheuse de dents</field>
+<field name="composer">Marc Chantagne</field>
+<field name="composerSort">Chantagne, Marc</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Édouard Doyen</field>
+<field name="librettistSort">Doyen, Édouard</field>
+<field name="librettist">[Alexandre Charles] Armand Chaulieu</field>
+<field name="librettistSort">Chaulieu, Armand [Alexandre Charles]</field>
+<field name="theater">Concert-Tivoli</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'arracheuse+de+dents+Marc+Chantagne&amp;search_field=search</field>
+</doc>
+</add>

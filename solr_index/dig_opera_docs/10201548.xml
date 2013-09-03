@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201548</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Gideon</field>
+		<field name="titleSort">Gideon</field>
+		<field name="year">1871</field>
+		
+		
+		<field name="date">1871</field>
+		<field name="composer">William George Cusins</field>
+		<field name="composerSort">Cusins, William George</field>
+		<field name="librettist">F. T. Cusins</field>
+		<field name="librettistSort">Cusins, F. T.</field>
+		
+		<field name="theater">Three Choirs Festival</field>
+		<field name="city">Gloucester</field>
+		<field name="region">Gloucestershire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gideon+William+George+Cusins&amp;search_field=search</field>
+	</doc></add>

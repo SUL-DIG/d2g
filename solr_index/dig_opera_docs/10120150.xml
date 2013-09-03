@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120150</field>
+<field name="genre">Operas</field>
+<field name="title">Il convento di Santa Nicola</field>
+<field name="titleSort">convento di Santa Nicola</field>
+<field name="composer">Vincenzo Mela</field>
+<field name="composerSort">Mela, Vincenzo</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Luigi Sartorelli</field>
+<field name="librettistSort">Sartorelli, Luigi</field>
+<field name="theater">Teatro Filarmonico</field>
+<field name="city">Verona</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+convento+di+Santa+Nicola+Vincenzo+Mela&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111721</field>
+<field name="genre">Operas</field>
+<field name="title">La bufera</field>
+<field name="titleSort">bufera</field>
+<field name="composer">Gialdino Gialdini</field>
+<field name="composerSort">Gialdini, Gialdino</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Riccardo Biasoni</field>
+<field name="librettistSort">Biasoni, Riccardo</field>
+<field name="theater">Politeama Ciscutti</field>
+<field name="city">Pula</field>
+<field name="region">Istria</field>
+<field name="country">Croatia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+bufera+Gialdino+Gialdini&amp;search_field=search</field>
+</doc>
+</add>

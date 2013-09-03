@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132665</field>
+<field name="genre">Operas</field>
+<field name="title">Der Jahrarkt zu Grünewald</field>
+<field name="titleSort">Jahrarkt zu Grünewald</field>
+<field name="composer">Thaddäus Weigl</field>
+<field name="composerSort">Weigl, Thaddäus</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Karl Friedrich Hensler</field>
+<field name="librettistSort">Hensler, Karl Friedrich</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Jahrarkt+zu+Grünewald+Thaddäus+Weigl&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119306</field>
+<field name="genre">Operas</field>
+<field name="title">Daphnis et Chloé</field>
+<field name="titleSort">Daphnis et Chloé</field>
+<field name="composer">Henri Maréchal</field>
+<field name="composerSort">Maréchal, Henri</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Jules Barbier</field>
+<field name="librettistSort">Barbier, Jules</field>
+<field name="librettist">Pierre Barbier</field>
+<field name="librettistSort">Barbier, Pierre</field>
+<field name="theater">Théâtre Sarah-Bernhardt</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daphnis+et+Chloé+Henri+Maréchal&amp;search_field=search</field>
+</doc>
+</add>

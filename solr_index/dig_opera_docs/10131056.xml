@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131056</field>
+<field name="genre">Operas</field>
+<field name="title">Green Apples in the Orchard</field>
+<field name="titleSort">Green Apples in the Orchard</field>
+<field name="composer">Anne Toler</field>
+<field name="composerSort">Toler, Anne</field>
+<field name="year">1987</field>
+<field name="date">1987</field>
+<field name="librettist">Anne Toler</field>
+<field name="librettistSort">Toler, Anne</field>
+<field name="theater">West London Institute</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Green+Apples+in+the+Orchard+Anne+Toler&amp;search_field=search</field>
+</doc>
+</add>

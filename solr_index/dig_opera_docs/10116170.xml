@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116170</field>
+<field name="genre">Operas</field>
+<field name="title">Lebedinaya pesnya (Swan Song)</field>
+<field name="titleSort">Lebedinaya pesnya (Swan Song)</field>
+<field name="composer">Vladimir Aleksandrovich Kobekin</field>
+<field name="composerSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Vladimir Aleksandrovich Kobekin</field>
+<field name="librettistSort">Kobekin, Vladimir Aleksandrovich</field>
+<field name="librettist">Anton Pavlovich Chekhov</field>
+<field name="librettistSort">Chekhov, Anton Pavlovich</field>
+<field name="theater">Kamennïy Opernïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lebedinaya+pesnya+Swan+Song+Vladimir+Aleksandrovich+Kobekin&amp;search_field=search</field>
+</doc>
+</add>

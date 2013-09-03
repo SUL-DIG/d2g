@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202824</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La morte di Sant' Antonio di Padova</field>
+		<field name="titleSort">morte di Sant' Antonio di Padova</field>
+		<field name="year">1676</field>
+		
+		
+		<field name="date">1676</field>
+		<field name="composer">Giovanni Paolo Colonna</field>
+		<field name="composerSort">Colonna, Giovanni Paolo</field>
+		<field name="librettist">Girolamo Desideri</field>
+		<field name="librettistSort">Desideri, Girolamo</field>
+		
+		
+		<field name="city">Bologna</field>
+		<field name="region">Emilia-Romagna</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Antony of Padua</field>
+		<field name="feastMonth">June</field>
+		<field name="feastDay">13</field>
+		<field name="feastDate">June 13</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+di+Sant'+Antonio+di+Padova+Giovanni+Paolo+Colonna&amp;search_field=search</field>
+	</doc></add>

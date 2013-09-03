@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120122</field>
+<field name="genre">Operas</field>
+<field name="title">La prise du pont de Lodi</field>
+<field name="titleSort">prise du pont de Lodi</field>
+<field name="composer">Étienne-Nicolas Méhul</field>
+<field name="composerSort">Méhul, Étienne-Nicolas</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Étienne-Joseph-Bernard Delrieu</field>
+<field name="librettistSort">Delrieu, Étienne-Joseph-Bernard</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prise+du+pont+de+Lodi+Étienne-Nicolas+Méhul&amp;search_field=search</field>
+</doc>
+</add>

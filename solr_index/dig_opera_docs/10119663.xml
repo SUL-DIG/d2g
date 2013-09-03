@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119663</field>
+<field name="genre">Operas</field>
+<field name="title">I dolori della principessa Susina</field>
+<field name="titleSort">dolori della principessa Susina</field>
+<field name="composer">Renzo Massarani</field>
+<field name="composerSort">Massarani, Renzo</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Corrado Pavolini</field>
+<field name="librettistSort">Pavolini, Corrado</field>
+<field name="theater">Teatro delle Arti</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+dolori+della+principessa+Susina+Renzo+Massarani&amp;search_field=search</field>
+</doc>
+</add>

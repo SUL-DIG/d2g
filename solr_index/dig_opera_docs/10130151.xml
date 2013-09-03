@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130151</field>
+<field name="genre">Operas</field>
+<field name="title">Zwei lachende Augen</field>
+<field name="titleSort">Zwei lachende Augen</field>
+<field name="composer">Oscar Straus</field>
+<field name="composerSort">Straus, Oscar</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">Ludwig Hirschfeld</field>
+<field name="librettistSort">Hirschfeld, Ludwig</field>
+<field name="librettist">Rudolf Oesterreicher</field>
+<field name="librettistSort">Oesterreicher, Rudolf</field>
+<field name="theater">Theater an der Wien</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zwei+lachende+Augen+Oscar+Straus&amp;search_field=search</field>
+</doc>
+</add>

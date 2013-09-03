@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202079</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isaïe le prophète</field>
+		<field name="titleSort">Isaïe le prophète</field>
+		<field name="year">1950</field>
+		
+		
+		<field name="date">1950</field>
+		<field name="composer">Alexandre Tansman</field>
+		<field name="composerSort">Tansman, Alexandre</field>
+		
+		
+		<field name="theater">Orchestre National de Radiodiffusion Française</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Isaiah</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">6</field>
+		<field name="feastDate">July 6</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isaïe+le+prophète+Alexandre+Tansman&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104516</field>
+<field name="genre">Operas</field>
+<field name="title">"Le raritа, potente</field>
+<field name="titleSort">"raritа, potente"</field>
+<field name="composer">Sylvano Bussotti</field>
+<field name="composerSort">Bussotti, Sylvano</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Romano Amidei</field>
+<field name="librettistSort">Amidei, Romano</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Treviso</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+raritа,+potente+Sylvano+Bussotti&amp;search_field=search</field>
+</doc>
+</add>

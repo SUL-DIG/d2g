@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119747</field>
+<field name="genre">Operas</field>
+<field name="title">Richilde</field>
+<field name="titleSort">Richilde</field>
+<field name="composer">Émile Mathieu</field>
+<field name="composerSort">Mathieu, Émile</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">Émile Mathieu</field>
+<field name="librettistSort">Mathieu, Émile</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Richilde+Émile+Mathieu&amp;search_field=search</field>
+</doc>
+</add>

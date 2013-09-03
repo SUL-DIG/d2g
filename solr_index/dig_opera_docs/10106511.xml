@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106511</field>
+<field name="genre">Operas</field>
+<field name="title">La fortuna annichilata della prudenza</field>
+<field name="titleSort">fortuna annichilata della prudenza</field>
+<field name="composer">Ignazio Maria Conti</field>
+<field name="composerSort">Conti, Ignazio Maria</field>
+<field name="year">1735</field>
+<field name="date">1735</field>
+<field name="librettist">Giovanni Claudio Pasquini</field>
+<field name="librettistSort">Pasquini, Giovanni Claudio</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fortuna+annichilata+della+prudenza+Ignazio+Maria+Conti&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128376</field>
+<field name="genre">Operas</field>
+<field name="title">König Drosselbart</field>
+<field name="titleSort">König Drosselbart</field>
+<field name="composer">Lina Schneider</field>
+<field name="composerSort">Schneider, Lina</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Wilhelm Ernst Asbeck</field>
+<field name="librettistSort">Asbeck, Wilhelm Ernst</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+<field name="theater">Luisen-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Drosselbart+Lina+Schneider&amp;search_field=search</field>
+</doc>
+</add>

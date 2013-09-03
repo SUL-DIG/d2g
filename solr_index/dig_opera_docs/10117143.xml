@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117143</field>
+<field name="genre">Operas</field>
+<field name="title">Das Mädchen im Eichthale</field>
+<field name="titleSort">Mädchen im Eichthale</field>
+<field name="composer">Johann Georg Friedrich Lampe</field>
+<field name="composerSort">Lampe, Johann Georg Friedrich</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Johann Christoph Bock</field>
+<field name="librettistSort">Bock, Johann Christoph</field>
+<field name="theater">Ackermannsches Komödienhaus</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Mädchen+im+Eichthale+Johann+Georg+Friedrich+Lampe&amp;search_field=search</field>
+</doc>
+</add>

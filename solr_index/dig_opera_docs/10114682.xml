@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114682</field>
+<field name="genre">Operas</field>
+<field name="title">The Photo Shop</field>
+<field name="titleSort">Photo Shop</field>
+<field name="composer">Karl Hoschna</field>
+<field name="composerSort">Hoschna, Karl</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Otto Harbach</field>
+<field name="librettistSort">Harbach, Otto</field>
+<field name="librettist">Edward Clark</field>
+<field name="librettistSort">Clark, Edward"</field>
+
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Photo+Shop+Karl+Hoschna&amp;search_field=search</field>
+</doc>
+</add>

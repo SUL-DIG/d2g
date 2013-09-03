@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112088</field>
+<field name="genre">Operas</field>
+<field name="title">La passion</field>
+<field name="titleSort">passion</field>
+<field name="composer">Henri Giulietti</field>
+<field name="composerSort">Giulietti, Henri</field>
+<field name="year">1899</field>
+<field name="date">1899</field>
+<field name="librettist">Henri Giulietti</field>
+<field name="librettistSort">Giulietti, Henri</field>
+<field name="theater">Théâtre Moderne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+passion+Henri+Giulietti&amp;search_field=search</field>
+</doc>
+</add>

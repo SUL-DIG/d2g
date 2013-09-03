@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204770</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Venus süss und herbe Früchte</field>
+		<field name="titleSort">Venus süss und herbe Früchte</field>
+		<field name="year">1972</field>
+		
+		
+		<field name="date">1972</field>
+		<field name="composer">Max Georg Baumann</field>
+		<field name="composerSort">Baumann, Max Georg</field>
+		<field name="librettist">Hans Sachs</field>
+		<field name="librettistSort">Sachs, Hans</field>
+		
+		
+		<field name="city">Kronach</field>
+		<field name="region">Bayern</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Venus+süss+und+herbe+Früchte+Max+Georg+Baumann&amp;search_field=search</field>
+	</doc></add>

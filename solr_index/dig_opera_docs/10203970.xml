@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203970</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Sant' Agnese</field>
+		<field name="titleSort">Sant' Agnese</field>
+		<field name="year">1715</field>
+		
+		
+		<field name="date">1715</field>
+		<field name="composer">Giovanni Battista Moschini</field>
+		<field name="composerSort">Moschini, Giovanni Battista</field>
+		
+		
+		
+		<field name="city">Lucca</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Agnes</field>
+		<field name="feastMonth">January</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">January 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sant'+Agnese+Giovanni+Battista+Moschini&amp;search_field=search</field>
+	</doc></add>

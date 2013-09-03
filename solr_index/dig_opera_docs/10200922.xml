@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200922</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Debora e Giaele</field>
+		<field name="titleSort">Debora e Giaele</field>
+		<field name="year">1843</field>
+		
+		
+		<field name="date">1843</field>
+		<field name="composer">Ferdinando Ceccherini</field>
+		<field name="composerSort">Ceccherini, Ferdinando</field>
+		
+		
+		
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Sisara and Jael</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Debora+e+Giaele+Ferdinando+Ceccherini&amp;search_field=search</field>
+	</doc></add>

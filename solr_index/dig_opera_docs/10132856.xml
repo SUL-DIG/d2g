@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132856</field>
+<field name="genre">Operas</field>
+<field name="title">Boojum</field>
+<field name="titleSort">Boojum</field>
+<field name="composer">Martin Wesley-Smith</field>
+<field name="composerSort">Wesley-Smith, Martin</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Peter Wesley-Smith</field>
+<field name="librettistSort">Wesley-Smith, Peter</field>
+<field name="librettist">[Charles Lutwidge Dodgson] Lewis Carroll</field>
+<field name="librettistSort">Carroll, Lewis [Charles Lutwidge Dodgson]</field>
+<field name="theater">Scott Theatre</field>
+<field name="city">Adelaide</field>
+<field name="region">South Australia</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boojum+Martin+Wesley-Smith&amp;search_field=search</field>
+</doc>
+</add>

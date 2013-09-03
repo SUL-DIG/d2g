@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203787</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Salomone</field>
+		<field name="titleSort">Salomone</field>
+		
+		
+		
+		
+		<field name="composer">Cesare Androet</field>
+		<field name="composerSort">Androet, Cesare</field>
+		<field name="librettist">Geremia Barsottini</field>
+		<field name="librettistSort">Barsottini, Geremia</field>
+		
+		<field name="theater">Chiesa di San Giovannino degli Scolopi</field>
+		<field name="city">Florence</field>
+		<field name="region">Toscana</field>
+		<field name="country">Italy</field>
+		<field name="subject">Solomon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Salomone+Cesare+Androet&amp;search_field=search</field>
+	</doc></add>

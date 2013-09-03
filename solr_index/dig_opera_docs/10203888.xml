@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203888</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">San Magin</field>
+		<field name="titleSort">San Magin</field>
+		<field name="year">1740</field>
+		
+		
+		<field name="date">1740</field>
+		<field name="composer">Salvador Figueras</field>
+		<field name="composerSort">Figueras, Salvador</field>
+		
+		
+		
+		<field name="city">Barcelona</field>
+		<field name="region">Catalunya</field>
+		<field name="country">Spain</field>
+		<field name="subject">Saint Maginus</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">August 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Magin+Salvador+Figueras&amp;search_field=search</field>
+	</doc></add>

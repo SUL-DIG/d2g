@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132936</field>
+<field name="genre">Operas</field>
+<field name="title">Giocasta</field>
+<field name="titleSort">Giocasta</field>
+<field name="composer">Johann Hugo von Wilderer</field>
+<field name="composerSort">Wilderer, Johann Hugo von</field>
+<field name="year">1696</field>
+<field name="date">1696</field>
+<field name="librettist">Steffano Benedetto Pallavicino</field>
+<field name="librettistSort">Pallavicino, Steffano Benedetto</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Düsseldorf</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giocasta+Johann+Hugo+von+Wilderer&amp;search_field=search</field>
+</doc>
+</add>

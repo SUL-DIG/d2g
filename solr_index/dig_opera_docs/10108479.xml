@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108479</field>
+<field name="genre">Operas</field>
+<field name="title">La farce du cuvier</field>
+<field name="titleSort">farce du cuvier</field>
+<field name="composer">Gabriel Dupont</field>
+<field name="composerSort">Dupont, Gabriel</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Maurice Léna</field>
+<field name="librettistSort">Léna, Maurice</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+farce+du+cuvier+Gabriel+Dupont&amp;search_field=search</field>
+</doc>
+</add>

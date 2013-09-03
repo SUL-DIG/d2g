@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109205</field>
+<field name="genre">Operas</field>
+<field name="title">La pinzochera</field>
+<field name="titleSort">pinzochera</field>
+<field name="composer">Guido Falaschi</field>
+<field name="composerSort">Falaschi, Guido</field>
+<field name="year">1919</field>
+<field name="date">1919</field><field name="theater">Teatro Ristori</field>
+<field name="city">Monopoli</field>
+<field name="region">Puglia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+pinzochera+Guido+Falaschi&amp;search_field=search</field>
+</doc>
+</add>

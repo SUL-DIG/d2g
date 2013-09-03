@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102486</field>
+<field name="genre">Operas</field>
+<field name="title">Passaggio</field>
+<field name="titleSort">Passaggio</field>
+<field name="composer">Luciano Berio</field>
+<field name="composerSort">Berio, Luciano</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Edoardo Sanguinetti</field>
+<field name="librettistSort">Sanguinetti, Edoardo</field>
+<field name="theater">Piccola Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Passaggio+Luciano+Berio&amp;search_field=search</field>
+</doc>
+</add>

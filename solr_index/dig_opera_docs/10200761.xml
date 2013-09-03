@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200761</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">El cultivo del alma, figurando en la parábola de la viсa</field>
+		<field name="titleSort">cultivo del alma, figurando en la parábola de la viсa</field>
+		<field name="year">1720</field>
+		
+		
+		<field name="date">1720</field>
+		<field name="composer">Francesc Valls</field>
+		<field name="composerSort">Valls, Francesc</field>
+		
+		
+		<field name="theater">Real Congregación del Oratorio de San Felipe Neri</field>
+		<field name="city">Valencia</field>
+		<field name="region">Valencia</field>
+		<field name="country">Spain</field>
+		<field name="subject">Parable of the Vine</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=El+cultivo+del+alma,+figurando+en+la+parábola+de+la+viсa+Francesc+Valls&amp;search_field=search</field>
+	</doc></add>

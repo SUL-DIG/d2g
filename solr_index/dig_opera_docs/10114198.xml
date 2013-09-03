@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114198</field>
+<field name="genre">Operas</field>
+<field name="title">Le diner de Pierrot</field>
+<field name="titleSort">diner de Pierrot</field>
+<field name="composer">Charles Léon Hess</field>
+<field name="composerSort">Hess, Charles Léon</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Bertrand Millanvoye</field>
+<field name="librettistSort">Millanvoye, Bertrand</field>
+<field name="theater">Private Performance</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+diner+de+Pierrot+Charles+Léon+Hess&amp;search_field=search</field>
+</doc>
+</add>

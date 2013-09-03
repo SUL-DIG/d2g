@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119562</field>
+<field name="genre">Operas</field>
+<field name="title">Marcella</field>
+<field name="titleSort">Marcella</field>
+<field name="composer">Luigi Marzani</field>
+<field name="composerSort">Marzani, Luigi</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Bernardino Zendrini</field>
+<field name="librettistSort">Zendrini, Bernardino</field>
+
+<field name="city">Codogno</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marcella+Luigi+Marzani&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110872</field>
+<field name="genre">Operas</field>
+<field name="title">Il grillo del focolare</field>
+<field name="titleSort">grillo del focolare</field>
+<field name="composer">Giuseppe Gallignani</field>
+<field name="composerSort">Gallignani, Giuseppe</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Giuseppe Gallignani</field>
+<field name="librettistSort">Gallignani, Giuseppe</field>
+<field name="librettist">Charles Dickens</field>
+<field name="librettistSort">Dickens, Charles</field>
+<field name="theater">Sala Sivori</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+grillo+del+focolare+Giuseppe+Gallignani&amp;search_field=search</field>
+</doc>
+</add>

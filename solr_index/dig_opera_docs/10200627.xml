@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200627</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Christus der Erlöser</field>
+		<field name="titleSort">Christus der Erlöser</field>
+		<field name="year">1840</field>
+		<field name="month">April</field>
+		
+		<field name="date">April 1840</field>
+		<field name="composer">Friedrich Schneider</field>
+		<field name="composerSort">Schneider, Friedrich</field>
+		<field name="librettist">Philipp Mayer</field>
+		<field name="librettistSort">Mayer, Philipp</field>
+		
+		
+		<field name="city">Gera</field>
+		<field name="region">Thüringen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Christ the Redeemer</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Christus+der+Erlöser+Friedrich+Schneider&amp;search_field=search</field>
+	</doc></add>

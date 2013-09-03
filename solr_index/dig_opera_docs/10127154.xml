@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127154</field>
+<field name="genre">Operas</field>
+<field name="title">L'amore industrioso</field>
+<field name="titleSort">amore industrioso</field>
+<field name="composer">Giovanni Marco Rutini</field>
+<field name="composerSort">Rutini, Giovanni Marco</field>
+<field name="year">1765</field>
+<field name="date">1765</field>
+<field name="librettist">Gaetano Casorri</field>
+<field name="librettistSort">Casorri, Gaetano</field>
+<field name="theater">Teatro Tron di San Cassiano</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'amore+industrioso+Giovanni+Marco+Rutini&amp;search_field=search</field>
+</doc>
+</add>

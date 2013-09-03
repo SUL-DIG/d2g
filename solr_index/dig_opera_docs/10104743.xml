@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104743</field>
+<field name="genre">Operas</field>
+<field name="title">Le clown</field>
+<field name="titleSort">clown</field>
+<field name="composer">Isaac de Camondo</field>
+<field name="composerSort">Camondo, Isaac de</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Victor Capoul</field>
+<field name="librettistSort">Capoul, Victor</field>
+<field name="theater">Théâtre Moderne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+clown+Isaac+de+Camondo&amp;search_field=search</field>
+</doc>
+</add>

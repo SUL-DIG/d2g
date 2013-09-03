@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200042</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Abimelech</field>
+		<field name="titleSort">Abimelech</field>
+		<field name="year">1768</field>
+		<field name="month">March</field>
+		<field name="day">16</field>
+		<field name="date">March 16, 1768</field>
+		<field name="composer">Samuel Arnold</field>
+		<field name="composerSort">Arnold, Samuel</field>
+		<field name="librettist">Christopher Smart</field>
+		<field name="librettistSort">Smart, Christopher</field>
+		
+		<field name="theater">Little Theatre in the Haymarket</field>
+		<field name="city">London</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Abimelech, son of Gideon</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Abimelech+Samuel+Arnold&amp;search_field=search</field>
+	</doc></add>

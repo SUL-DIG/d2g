@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121537</field>
+<field name="genre">Operas</field>
+<field name="title">Joshua</field>
+<field name="titleSort">Joshua</field>
+<field name="composer">Gerald Muller</field>
+<field name="composerSort">Muller, Gerald</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Gerald Muller</field>
+<field name="librettistSort">Muller, Gerald</field>
+<field name="librettist">John T. Hill</field>
+<field name="librettistSort">Hill, John T.</field>
+<field name="theater">Montgomery College</field>
+<field name="city">Rockville</field>
+<field name="region">Maryland</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joshua+Gerald+Muller&amp;search_field=search</field>
+</doc>
+</add>

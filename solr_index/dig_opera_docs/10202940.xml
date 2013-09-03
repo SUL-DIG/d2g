@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202940</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Natale di nostro Signore</field>
+		<field name="titleSort">Natale di nostro Signore</field>
+		
+		
+		
+		
+		<field name="composer">Marco Marazzoli</field>
+		<field name="composerSort">Marazzoli, Marco</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Natale+di+nostro+Signore+Marco+Marazzoli&amp;search_field=search</field>
+	</doc></add>

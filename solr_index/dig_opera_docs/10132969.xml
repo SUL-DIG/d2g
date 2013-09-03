@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132969</field>
+<field name="genre">Operas</field>
+<field name="title">Carmita</field>
+<field name="titleSort">Carmita</field>
+<field name="composer">Jesse Williams</field>
+<field name="composerSort">Williams, Jesse</field>
+<field name="year">1901</field>
+<field name="date">1901</field>
+<field name="librettist">Walter Parke</field>
+<field name="librettistSort">Parke, Walter</field>
+<field name="librettist">Arthur Shirley</field>
+<field name="librettistSort">Shirley, Arthur</field>
+<field name="theater">Victoria Theatre</field>
+<field name="city">Broughton</field>
+<field name="region">Wales</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Carmita+Jesse+Williams&amp;search_field=search</field>
+</doc>
+</add>

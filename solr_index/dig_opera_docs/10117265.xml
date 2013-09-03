@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117265</field>
+<field name="genre">Operas</field>
+<field name="title">Pertinace</field>
+<field name="titleSort">Pertinace</field>
+<field name="composer">Vincenzo Lanzi</field>
+<field name="composerSort">Lanzi, Vincenzo</field>
+<field name="year">1699</field>
+<field name="date">1699</field>
+<field name="librettist">Pietro d'Averara</field>
+<field name="librettistSort">d'Averara, Pietro</field>
+<field name="theater">Teatro Ducale</field>
+<field name="city">Parma</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pertinace+Vincenzo+Lanzi&amp;search_field=search</field>
+</doc>
+</add>

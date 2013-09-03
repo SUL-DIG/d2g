@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105874</field>
+<field name="genre">Operas</field>
+<field name="title">Antigona</field>
+<field name="titleSort">Antigona</field>
+<field name="composer">Vincenzo Ciampi</field>
+<field name="composerSort">Ciampi, Vincenzo</field>
+<field name="year">1762</field>
+<field name="date">1762</field>
+<field name="librettist">Gaetano Roccaforte</field>
+<field name="librettistSort">Roccaforte, Gaetano</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigona+Vincenzo+Ciampi&amp;search_field=search</field>
+</doc>
+</add>

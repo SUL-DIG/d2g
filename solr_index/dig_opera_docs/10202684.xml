@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202684</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Sant' Adriano</field>
+		<field name="titleSort">martirio di Sant' Adriano</field>
+		<field name="year">1702</field>
+		
+		
+		<field name="date">1702</field>
+		<field name="composer">Giuseppe Amadori</field>
+		<field name="composerSort">Amadori, Giuseppe</field>
+		<field name="librettist">Malatesta Strinati</field>
+		<field name="librettistSort">Strinati, Malatesta</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Adrian</field>
+		<field name="feastMonth">August</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">August 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Sant'+Adriano+Giuseppe+Amadori&amp;search_field=search</field>
+	</doc></add>

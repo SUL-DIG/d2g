@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117989</field>
+<field name="genre">Operas</field>
+<field name="title">"La négresse, ou Le pouvoir de la reconnaissance</field>
+<field name="titleSort">"négresse, ou Le pouvoir de la reconnaissance"</field>
+<field name="composer">C. François Lescot</field>
+<field name="composerSort">Lescot, C. François</field>
+<field name="year">1787</field>
+<field name="date">1787</field>
+<field name="librettist">Pierre-Yon Barré</field>
+<field name="librettistSort">Barré, Pierre-Yon</field>
+<field name="librettist">Jean-Baptiste Radet</field>
+<field name="librettistSort">Radet, Jean-Baptiste</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+négresse,+ou+Le+pouvoir+de+la+reconnaissance+C.+François+Lescot&amp;search_field=search</field>
+</doc>
+</add>

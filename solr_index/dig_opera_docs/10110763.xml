@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110763</field>
+<field name="genre">Operas</field>
+<field name="title">Toka jonë (Our Land)</field>
+<field name="titleSort">Toka jonë (Our Land)</field>
+<field name="composer">Pjetër Gaci</field>
+<field name="composerSort">Gaci, Pjetër</field>
+<field name="year">1981</field>
+<field name="date">1981</field>
+<field name="librettist">Kolë Jakova</field>
+<field name="librettistSort">Jakova, Kolë</field>
+<field name="librettist">Ndrekë Luca</field>
+<field name="librettistSort">Luca, Ndrekë</field>
+<field name="theater">Teatri i Operës dhe i Baletit</field>
+<field name="city">Tirana</field>
+<field name="region">Rrethi i Tiranës</field>
+<field name="country">Albania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Toka+jonë+Our+Land+Pjetër+Gaci&amp;search_field=search</field>
+</doc>
+</add>

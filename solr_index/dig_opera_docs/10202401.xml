@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202401</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Könige</field>
+		<field name="titleSort">Könige</field>
+		<field name="year">1830</field>
+		
+		
+		<field name="date">1830</field>
+		<field name="composer">Simon Georg Schmidt</field>
+		<field name="composerSort">Schmidt, Simon Georg</field>
+		<field name="librettist">Hauptmann Schmidt</field>
+		<field name="librettistSort">Schmidt, Hauptmann</field>
+		
+		<field name="theater">Musikfeste des Vereins der Elbstädte</field>
+		<field name="city">Halle</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Könige+Simon+Georg+Schmidt&amp;search_field=search</field>
+	</doc></add>

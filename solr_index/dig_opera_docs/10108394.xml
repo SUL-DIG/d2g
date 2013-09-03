@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108394</field>
+<field name="genre">Operas</field>
+<field name="title">Ariane et Barbe-bleue</field>
+<field name="titleSort">Ariane et Barbe-bleue</field>
+<field name="composer">Paul Dukas</field>
+<field name="composerSort">Dukas, Paul</field>
+<field name="year">1907</field>
+<field name="date">1907</field>
+<field name="librettist">Maurice Maeterlinck</field>
+<field name="librettistSort">Maeterlinck, Maurice</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ariane+et+Barbe-bleue+Paul+Dukas&amp;search_field=search</field>
+</doc>
+</add>

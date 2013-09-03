@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116228</field>
+<field name="genre">Operas</field>
+<field name="title">"Sophie, ou Le mariage caché</field>
+<field name="titleSort">"Sophie, ou Le mariage caché"</field>
+<field name="composer">Josef Kohaut</field>
+<field name="composerSort">Kohaut, Josef</field>
+<field name="year">1768</field>
+<field name="date">1768</field>
+<field name="librettist">David Garrick</field>
+<field name="librettistSort">Garrick, David</field>
+<field name="librettist">George Colman the elder</field>
+<field name="librettistSort">Colman the elder, George</field>
+<field name="theater">Comédie-Italienne</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sophie,+ou+Le+mariage+caché+Josef+Kohaut&amp;search_field=search</field>
+</doc>
+</add>

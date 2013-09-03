@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111863</field>
+<field name="genre">Operas</field>
+<field name="title">Il visconte dimezzato</field>
+<field name="titleSort">visconte dimezzato</field>
+<field name="composer">Bruno Gillet</field>
+<field name="composerSort">Gillet, Bruno</field>
+<field name="year">1961</field>
+<field name="date">1961</field>
+<field name="librettist">Italo Calvino</field>
+<field name="librettistSort">Calvino, Italo</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+visconte+dimezzato+Bruno+Gillet&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124508</field>
+<field name="genre">Operas</field>
+<field name="title">König Lustik</field>
+<field name="titleSort">König Lustik</field>
+<field name="composer">Heinrich August Platzbecker</field>
+<field name="composerSort">Platzbecker, Heinrich August</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Karl Crome-Schwiening</field>
+<field name="librettistSort">Crome-Schwiening, Karl</field>
+<field name="theater">Altes Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=König+Lustik+Heinrich+August+Platzbecker&amp;search_field=search</field>
+</doc>
+</add>

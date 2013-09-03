@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200783</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Daniel the Prophet</field>
+		<field name="titleSort">Daniel the Prophet</field>
+		<field name="year">1833</field>
+		<field name="month">March</field>
+		<field name="day">4</field>
+		<field name="date">March 4, 1833</field>
+		<field name="composer">Frederick William Horncastle</field>
+		<field name="composerSort">Horncastle, Frederick William</field>
+		
+		
+		<field name="theater">Hanover Square Rooms</field>
+		<field name="city">Moorfields</field>
+		<field name="region">Greater London</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Daniel</field>
+		<field name="feastMonth">July</field>
+		<field name="feastDay">21</field>
+		<field name="feastDate">July 21</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daniel+the+Prophet+Frederick+William+Horncastle&amp;search_field=search</field>
+	</doc></add>

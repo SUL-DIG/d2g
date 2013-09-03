@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103142</field>
+<field name="genre">Operas</field>
+<field name="title">Pirouette</field>
+<field name="titleSort">Pirouette</field>
+<field name="composer">Maurice Blackburn</field>
+<field name="composerSort">Blackburn, Maurice</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Marthe Morisset-Blackburn</field>
+<field name="librettistSort">Morisset-Blackburn, Marthe</field>
+<field name="theater">Orford Art Centre</field>
+<field name="city">Mount Orford Park</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pirouette+Maurice+Blackburn&amp;search_field=search</field>
+</doc>
+</add>

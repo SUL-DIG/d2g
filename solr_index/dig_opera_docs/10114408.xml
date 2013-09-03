@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114408</field>
+<field name="genre">Operas</field>
+<field name="title">Undine</field>
+<field name="titleSort">Undine</field>
+<field name="composer">Ernst Theodor Amadeus Hoffmann</field>
+<field name="composerSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Friedrich de La Motte-Fouqué</field>
+<field name="librettistSort">La Motte-Fouqué, Friedrich de</field>
+<field name="theater">Königliche Schauspiele</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Undine+Ernst+Theodor+Amadeus+Hoffmann&amp;search_field=search</field>
+</doc>
+</add>

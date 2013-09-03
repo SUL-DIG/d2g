@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104397</field>
+<field name="genre">Operas</field>
+<field name="title">The Bald Knobbers</field>
+<field name="titleSort">Bald Knobbers</field>
+<field name="composer">Bert Buhrman</field>
+<field name="composerSort">Buhrman, Bert</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Karl H. Bratton</field>
+<field name="librettistSort">Bratton, Karl H.</field>
+<field name="theater">School of the Ozarks</field>
+<field name="city">Point Lookout</field>
+<field name="region">Missouri</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bald+Knobbers+Bert+Buhrman&amp;search_field=search</field>
+</doc>
+</add>

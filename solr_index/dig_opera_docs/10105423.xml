@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105423</field>
+<field name="genre">Operas</field>
+<field name="title">Kdyz proni se vrati</field>
+<field name="titleSort">Kdyz proni se vrati</field>
+<field name="composer">Milos Celedy</field>
+<field name="composerSort">Celedy, Milos</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Anton Raab</field>
+<field name="librettistSort">Raab, Anton</field>
+
+<field name="city">Opava</field>
+<field name="region">Severomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Kdyz+proni+se+vrati+Milos+Celedy&amp;search_field=search</field>
+</doc>
+</add>

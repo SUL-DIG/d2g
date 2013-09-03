@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124202</field>
+<field name="genre">Operas</field>
+<field name="title">La notte critica</field>
+<field name="titleSort">notte critica</field>
+<field name="composer">Niccolò Piccinni</field>
+<field name="composerSort">Piccinni, Niccolò</field>
+<field name="year">1767</field>
+<field name="date">1767</field>
+<field name="librettist">Carlo Goldoni</field>
+<field name="librettistSort">Goldoni, Carlo</field>
+<field name="theater">Palácio de Salvaterra</field>
+<field name="city">Salvaterra de Magos</field>
+<field name="region">Santarém</field>
+<field name="country">Portugal</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+notte+critica+Niccolò+Piccinni&amp;search_field=search</field>
+</doc>
+</add>

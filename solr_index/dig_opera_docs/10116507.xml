@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116507</field>
+<field name="genre">Operas</field>
+<field name="title">Pozdvizení v Efesu (Scandal in Ephesus)</field>
+<field name="titleSort">Pozdvizení v Efesu (Scandal in Ephesus)</field>
+<field name="composer">Isa Krejcí</field>
+<field name="composerSort">Krejcí, Isa</field>
+<field name="year">1945</field>
+<field name="date">1945</field>
+<field name="librettist">Josef Bachtík</field>
+<field name="librettistSort">Bachtík, Josef</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Národní Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pozdvizení+v+Efesu+Scandal+in+Ephesus+Isa+Krejcí&amp;search_field=search</field>
+</doc>
+</add>

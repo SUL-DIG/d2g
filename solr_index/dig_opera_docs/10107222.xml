@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107222</field>
+<field name="genre">Operas</field>
+<field name="title">X: the Life and Times of Malcolm X</field>
+<field name="titleSort">X: the Life and Times of Malcolm X</field>
+<field name="composer">Anthony Davis</field>
+<field name="composerSort">Davis, Anthony</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Thulani Davis</field>
+<field name="librettistSort">Davis, Thulani</field>
+<field name="librettist">Christopher Davis</field>
+<field name="librettistSort">Davis, Christopher</field>
+<field name="theater">New York City Opera</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=X:+the+Life+and+Times+of+Malcolm+X+Anthony+Davis&amp;search_field=search</field>
+</doc>
+</add>

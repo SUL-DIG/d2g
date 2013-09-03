@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120568</field>
+<field name="genre">Operas</field>
+<field name="title">San Contardo</field>
+<field name="titleSort">San Contardo</field>
+<field name="composer">Benedetto Micheli</field>
+<field name="composerSort">Micheli, Benedetto</field>
+<field name="year">1725</field>
+<field name="date">1725</field>
+<field name="librettist">Alessandro Ruspoli</field>
+<field name="librettistSort">Ruspoli, Alessandro</field>
+
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=San+Contardo+Benedetto+Micheli&amp;search_field=search</field>
+</doc>
+</add>

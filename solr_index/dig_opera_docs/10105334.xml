@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105334</field>
+<field name="genre">Operas</field>
+<field name="title">Atahualpa</field>
+<field name="titleSort">Atahualpa</field>
+<field name="composer">Feruccio Cattelani</field>
+<field name="composerSort">Cattelani, Feruccio</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Carlo Francesco Scotti</field>
+<field name="librettistSort">Scotti, Carlo Francesco</field>
+<field name="theater">Teatro San Martín</field>
+<field name="city">Buenos Aires</field>
+<field name="region">Buenos Aires</field>
+<field name="country">Argentina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atahualpa+Feruccio+Cattelani&amp;search_field=search</field>
+</doc>
+</add>

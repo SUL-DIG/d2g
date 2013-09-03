@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120755</field>
+<field name="genre">Operas</field>
+<field name="title">La petite milliardaire</field>
+<field name="titleSort">petite milliardaire</field>
+<field name="composer">Henri Miró</field>
+<field name="composerSort">Miró, Henri</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Armand Robi</field>
+<field name="librettistSort">Robi, Armand</field>
+<field name="theater">Théâtre Canadien Français</field>
+<field name="city">Montreal</field>
+<field name="region">Quebec</field>
+<field name="country">Canada</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+petite+milliardaire+Henri+Miró&amp;search_field=search</field>
+</doc>
+</add>

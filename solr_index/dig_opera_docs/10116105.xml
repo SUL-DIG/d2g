@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116105</field>
+<field name="genre">Operas</field>
+<field name="title">Le avventure d'Isabella e Rodrigo</field>
+<field name="titleSort">avventure d'Isabella e Rodrigo</field>
+<field name="composer">__ Klingemann</field>
+<field name="composerSort">Klingemann, __</field>
+<field name="year">1778</field>
+<field name="date">1778</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+
+<field name="city">Arezzo</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+avventure+d'Isabella+e+Rodrigo+__+Klingemann&amp;search_field=search</field>
+</doc>
+</add>

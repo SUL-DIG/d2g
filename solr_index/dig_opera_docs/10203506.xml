@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203506</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le profezie evangeliche d'Isaia</field>
+		<field name="titleSort">profezie evangeliche d'Isaia</field>
+		<field name="year">1739</field>
+		<field name="month">March</field>
+		<field name="day">24</field>
+		<field name="date">March 24, 1739</field>
+		<field name="composer">Jean Joseph Fiocco</field>
+		<field name="composerSort">Fiocco, Jean Joseph</field>
+		
+		
+		
+		<field name="city">Brussels</field>
+		<field name="region">Brabant</field>
+		<field name="country">Belgium</field>
+		<field name="subject">The Prophecies of Isaiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+profezie+evangeliche+d'Isaia+Jean+Joseph+Fiocco&amp;search_field=search</field>
+	</doc></add>

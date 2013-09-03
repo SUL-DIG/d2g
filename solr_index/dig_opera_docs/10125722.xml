@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125722</field>
+<field name="genre">Operas</field>
+<field name="title">Baby Pepper</field>
+<field name="titleSort">Baby Pepper</field>
+<field name="composer">Willy Redstone</field>
+<field name="composerSort">Redstone, Willy</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Lucien Boyer</field>
+<field name="librettistSort">Boyer, Lucien</field>
+<field name="librettist">Max Boyer</field>
+<field name="librettistSort">Boyer, Max</field>
+<field name="theater">Concert-Mayol</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Baby+Pepper+Willy+Redstone&amp;search_field=search</field>
+</doc>
+</add>

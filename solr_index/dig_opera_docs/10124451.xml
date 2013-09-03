@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124451</field>
+<field name="genre">Operas</field>
+<field name="title">Guglielmo Ratcliff</field>
+<field name="titleSort">Guglielmo Ratcliff</field>
+<field name="composer">Emilio Pizzi</field>
+<field name="composerSort">Pizzi, Emilio</field>
+<field name="year">1889</field>
+<field name="date">1889</field>
+<field name="librettist">Angelo Zanardini</field>
+<field name="librettistSort">Zanardini, Angelo</field>
+<field name="librettist">Heinrich Heine</field>
+<field name="librettistSort">Heine, Heinrich</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Guglielmo+Ratcliff+Emilio+Pizzi&amp;search_field=search</field>
+</doc>
+</add>

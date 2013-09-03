@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121937</field>
+<field name="genre">Operas</field>
+<field name="title">Il rivale di se medesimo</field>
+<field name="titleSort">rivale di se medesimo</field>
+<field name="composer">Michele Neri-Bondi</field>
+<field name="composerSort">Neri-Bondi, Michele</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Pierre-Claude Nivelle de la Chaussée</field>
+<field name="librettistSort">Nivelle de la Chaussée, Pierre-Claude</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+rivale+di+se+medesimo+Michele+Neri-Bondi&amp;search_field=search</field>
+</doc>
+</add>

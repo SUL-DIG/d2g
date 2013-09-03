@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128880</field>
+<field name="genre">Operas</field>
+<field name="title">The Rocking Stone</field>
+<field name="titleSort">Rocking Stone</field>
+<field name="composer">David Selwyn</field>
+<field name="composerSort">Selwyn, David</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">David Selwyn</field>
+<field name="librettistSort">Selwyn, David</field>
+<field name="theater">Bristol Grammar School</field>
+<field name="city">Clifton</field>
+<field name="region">Bristol</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Rocking+Stone+David+Selwyn&amp;search_field=search</field>
+</doc>
+</add>

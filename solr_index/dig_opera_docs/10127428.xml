@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127428</field>
+<field name="genre">Operas</field>
+<field name="title">Daliso e Delmita</field>
+<field name="titleSort">Daliso e Delmita</field>
+<field name="composer">Antonio Salieri</field>
+<field name="composerSort">Salieri, Antonio</field>
+<field name="year">1776</field>
+<field name="date">1776</field>
+<field name="librettist">Giovanni de Gamerra</field>
+<field name="librettistSort">Gamerra, Giovanni de</field>
+<field name="theater">Burgtheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Daliso+e+Delmita+Antonio+Salieri&amp;search_field=search</field>
+</doc>
+</add>

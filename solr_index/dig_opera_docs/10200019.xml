@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200019</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'Abele</field>
+		<field name="titleSort">Abele</field>
+		
+		
+		
+		
+		<field name="composer">Filippo Amadei</field>
+		<field name="composerSort">Amadei, Filippo</field>
+		<field name="librettist">Pietro Ottoboni</field>
+		<field name="librettistSort">Ottoboni, Pietro</field>
+		
+		
+		
+		
+		
+		<field name="subject">Cain and Abel</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'Abele+Filippo+Amadei&amp;search_field=search</field>
+	</doc></add>

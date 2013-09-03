@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115729</field>
+<field name="genre">Operas</field>
+<field name="title">Der Narrenthurm</field>
+<field name="titleSort">Narrenthurm</field>
+<field name="composer">Ferdinand Kauer</field>
+<field name="composerSort">Kauer, Ferdinand</field>
+<field name="year">1814</field>
+<field name="date">1814</field>
+<field name="librettist">Joachim Perinet</field>
+<field name="librettistSort">Perinet, Joachim</field>
+<field name="theater">Theater in der Leopoldstadt</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Narrenthurm+Ferdinand+Kauer&amp;search_field=search</field>
+</doc>
+</add>

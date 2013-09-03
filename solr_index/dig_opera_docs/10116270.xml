@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116270</field>
+<field name="genre">Operas</field>
+<field name="title">Marietta</field>
+<field name="titleSort">Marietta</field>
+<field name="composer">Walter Kollo</field>
+<field name="composerSort">Kollo, Walter</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Robert Bodanzky</field>
+<field name="librettistSort">Bodanzky, Robert</field>
+<field name="librettist">[Bruno Wradatsch] Bruno Hardt-Warden</field>
+<field name="librettistSort">Hardt-Warden, Bruno [Bruno Wradatsch]</field>
+<field name="theater">Metropoltheater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Marietta+Walter+Kollo&amp;search_field=search</field>
+</doc>
+</add>

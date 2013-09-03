@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112577</field>
+<field name="genre">Operas</field>
+<field name="title">Walzerliebe</field>
+<field name="titleSort">Walzerliebe</field>
+<field name="composer">Bruno Granichstädten</field>
+<field name="composerSort">Granichstädten, Bruno</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Bruno Granichstädten</field>
+<field name="librettistSort">Granichstädten, Bruno</field>
+<field name="librettist">Robert Bodanzky</field>
+<field name="librettistSort">Bodanzky, Robert</field>
+<field name="theater">Apollotheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Walzerliebe+Bruno+Granichstädten&amp;search_field=search</field>
+</doc>
+</add>

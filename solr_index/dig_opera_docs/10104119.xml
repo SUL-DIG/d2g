@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104119</field>
+<field name="genre">Operas</field>
+<field name="title">Éros vainqueur</field>
+<field name="titleSort">Éros vainqueur</field>
+<field name="composer">Pierre de Bréville</field>
+<field name="composerSort">Bréville, Pierre de</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">[Paul Alexandre Martin Duval] Jean Lorrain</field>
+<field name="librettistSort">Lorrain, Jean [Paul Alexandre Martin Duval]</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Éros+vainqueur+Pierre+de+Bréville&amp;search_field=search</field>
+</doc>
+</add>

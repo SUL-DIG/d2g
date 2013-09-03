@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115606</field>
+<field name="genre">Operas</field>
+<field name="title">Hamlets</field>
+<field name="titleSort">Hamlets</field>
+<field name="composer">Janis Kalnins</field>
+<field name="composerSort">Kalnins, Janis</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">Janis Kalnins</field>
+<field name="librettistSort">Kalnins, Janis</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Latïshskoy Natsional'noy Operï</field>
+<field name="city">Riga</field>
+
+<field name="country">Latvia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hamlets+Janis+Kalnins&amp;search_field=search</field>
+</doc>
+</add>

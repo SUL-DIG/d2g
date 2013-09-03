@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202658</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Il martirio di Sant' Agata</field>
+		<field name="titleSort">martirio di Sant' Agata</field>
+		<field name="year">1681</field>
+		
+		
+		<field name="date">1681</field>
+		<field name="composer">Giovanni Battista Tomasi</field>
+		<field name="composerSort">Tomasi, Giovanni Battista</field>
+		<field name="librettist">P. Abondi</field>
+		<field name="librettistSort">Abondi, P.</field>
+		
+		
+		<field name="city">Mantua</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Agatha</field>
+		<field name="feastMonth">February</field>
+		<field name="feastDay">5</field>
+		<field name="feastDate">February 5</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+martirio+di+Sant'+Agata+Giovanni+Battista+Tomasi&amp;search_field=search</field>
+	</doc></add>

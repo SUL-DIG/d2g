@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114744</field>
+<field name="genre">Operas</field>
+<field name="title">Az álarc (The Mask)</field>
+<field name="titleSort">álarc (The Mask)</field>
+<field name="composer">Jenö Hubay</field>
+<field name="composerSort">Hubay, Jenö</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Ferenc Martos</field>
+<field name="librettistSort">Martos, Ferenc</field>
+<field name="librettist">[Rudolph Spitzer] Rudolph Lothar</field>
+<field name="librettistSort">Lothar, Rudolph [Rudolph Spitzer]</field>
+<field name="theater">Magyar Királyi Operaház</field>
+<field name="city">Budapest</field>
+
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Az+álarc+The+Mask+Jenö+Hubay&amp;search_field=search</field>
+</doc>
+</add>

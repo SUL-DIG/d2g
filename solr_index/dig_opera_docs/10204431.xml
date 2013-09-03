@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204431</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Svatá Ludmila (St. Ludmilla)</field>
+		<field name="titleSort">Svatá Ludmila (St. Ludmilla)</field>
+		<field name="year">1886</field>
+		<field name="month">October</field>
+		<field name="day">15</field>
+		<field name="date">October 15, 1886</field>
+		<field name="composer">Antonín Dvorák</field>
+		<field name="composerSort">Dvorák, Antonín</field>
+		<field name="librettist">[Emil Bohus Frída] Jaroslav Vrchlický</field>
+		<field name="librettistSort">Vrchlick, Jaroslav [Emil Bohus Frída]</field>
+		
+		<field name="theater">Leeds Musical Festival</field>
+		<field name="city">Leeds</field>
+		<field name="region">West Yorkshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Saint Ludmilla</field>
+		<field name="feastMonth">September</field>
+		<field name="feastDay">16</field>
+		<field name="feastDate">September 16</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Svatá+Ludmila+(St.+Ludmilla)+Antonín+Dvorák&amp;search_field=search</field>
+	</doc></add>

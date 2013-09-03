@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107810</field>
+<field name="genre">Operas</field>
+<field name="title">Der Shatzgräber</field>
+<field name="titleSort">Shatzgräber</field>
+<field name="composer">Franz Anton Dimmler</field>
+<field name="composerSort">Dimmler, Franz Anton</field>
+<field name="year">1798</field>
+<field name="date">1798</field><field name="theater">Schloss Seefeld</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Shatzgräber+Franz+Anton+Dimmler&amp;search_field=search</field>
+</doc>
+</add>

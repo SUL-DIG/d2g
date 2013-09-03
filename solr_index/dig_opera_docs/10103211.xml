@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103211</field>
+<field name="genre">Operas</field>
+<field name="title">Studánka (The Little Pool)</field>
+<field name="titleSort">Studánka (The Little Pool)</field>
+<field name="composer">Pavel Blatný</field>
+<field name="composerSort">Blatný, Pavel</field>
+<field name="year">1979</field>
+<field name="date">1979</field>
+<field name="librettist">Zbysek Malý</field>
+<field name="librettistSort">Malý, Zbysek</field>
+<field name="theater">Czech Television (Ceska Televize)</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Studánka+The+Little+Pool+Pavel+Blatný&amp;search_field=search</field>
+</doc>
+</add>

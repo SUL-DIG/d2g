@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121939</field>
+<field name="genre">Operas</field>
+<field name="title">Le spose provenzali</field>
+<field name="titleSort">spose provenzali</field>
+<field name="composer">Michele Neri-Bondi</field>
+<field name="composerSort">Neri-Bondi, Michele</field>
+<field name="year">1787</field>
+<field name="date">1787</field><field name="theater">Regio Teatro degl'Intrepidi della Palla a Corda</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+spose+provenzali+Michele+Neri-Bondi&amp;search_field=search</field>
+</doc>
+</add>

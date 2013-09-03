@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129350</field>
+<field name="genre">Operas</field>
+<field name="title">Amor marinaro</field>
+<field name="titleSort">Amor marinaro</field>
+<field name="composer">Ramon Rodriguez Socas</field>
+<field name="composerSort">Socas, Ramon Rodriguez</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="city">La Spezia</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amor+marinaro+Ramon+Rodriguez+Socas&amp;search_field=search</field>
+</doc>
+</add>

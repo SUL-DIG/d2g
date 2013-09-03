@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131663</field>
+<field name="genre">Operas</field>
+<field name="title">La statua matematica</field>
+<field name="titleSort">statua matematica</field>
+<field name="composer">Giovanni Valentini</field>
+<field name="composerSort">Valentini, Giovanni</field>
+<field name="year">1780</field>
+<field name="date">1780</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro Giustiniani in San Moisè</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+statua+matematica+Giovanni+Valentini&amp;search_field=search</field>
+</doc>
+</add>

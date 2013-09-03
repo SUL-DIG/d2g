@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126364</field>
+<field name="genre">Operas</field>
+<field name="title">Le répassage de Vénus</field>
+<field name="titleSort">répassage de Vénus</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1874</field>
+<field name="date">1874</field>
+<field name="librettist">[Jules-Alexandre Kalitowitsch] Montbars</field>
+<field name="librettistSort">Montbars, [Jules-Alexandre Kalitowitsch]</field>
+<field name="theater">Nouvelle Salle des Délassements-Comiques</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+répassage+de+Vénus+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

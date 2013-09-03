@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106043</field>
+<field name="genre">Operas</field>
+<field name="title">Le coffret de Saint-Domingue</field>
+<field name="titleSort">coffret de Saint-Domingue</field>
+<field name="composer">Louis Clapisson</field>
+<field name="composerSort">Clapisson, Louis</field>
+<field name="year">1855</field>
+<field name="date">1855</field>
+<field name="librettist">Émile Deschamps</field>
+<field name="librettistSort">Deschamps, Émile</field>
+<field name="theater">Salle Herz</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+coffret+de+Saint-Domingue+Louis+Clapisson&amp;search_field=search</field>
+</doc>
+</add>

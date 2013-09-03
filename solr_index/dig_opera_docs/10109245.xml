@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109245</field>
+<field name="genre">Operas</field>
+<field name="title">Die Studentengräfin</field>
+<field name="titleSort">Studentengräfin</field>
+<field name="composer">Leo Fall</field>
+<field name="composerSort">Fall, Leo</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">[Victor Hirschfeld] Victor Léon</field>
+<field name="librettistSort">Léon, Victor [Victor Hirschfeld]</field>
+<field name="theater">Theater am Nollendorfplatz</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Studentengräfin+Leo+Fall&amp;search_field=search</field>
+</doc>
+</add>

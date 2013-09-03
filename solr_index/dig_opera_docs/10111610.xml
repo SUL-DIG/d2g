@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111610</field>
+<field name="genre">Operas</field>
+<field name="title">La chanson de l'étoile</field>
+<field name="titleSort">chanson de l'étoile</field>
+<field name="composer">Louis Gérome</field>
+<field name="composerSort">Gérome, Louis</field>
+<field name="year">1872</field>
+<field name="date">1872</field>
+<field name="librettist">Édouard Blau</field>
+<field name="librettistSort">Blau, Édouard</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+chanson+de+l'étoile+Louis+Gérome&amp;search_field=search</field>
+</doc>
+</add>

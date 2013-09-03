@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132812</field>
+<field name="genre">Operas</field>
+<field name="title">Meister Erhard</field>
+<field name="titleSort">Meister Erhard</field>
+<field name="composer">Josef Wenzl-Traunfels</field>
+<field name="composerSort">Wenzl-Traunfels, Josef</field>
+<field name="year">1911</field>
+<field name="date">1911</field>
+<field name="librettist">Paul Gustav Rheinhardt</field>
+<field name="librettistSort">Rheinhardt, Paul Gustav</field>
+<field name="theater">Johann Strauss-Theater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Meister+Erhard+Josef+Wenzl-Traunfels&amp;search_field=search</field>
+</doc>
+</add>

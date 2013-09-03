@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130593</field>
+<field name="genre">Operas</field>
+<field name="title">Pupu-Kani-Oe</field>
+<field name="titleSort">Pupu-Kani-Oe</field>
+<field name="composer">Jerré Eugene Tanner</field>
+<field name="composerSort">Tanner, Jerré Eugene</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Harvey Hess</field>
+<field name="librettistSort">Hess, Harvey</field>
+<field name="theater">Saint Francis High School</field>
+<field name="city">Honolulu</field>
+<field name="region">Hawaii</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pupu-Kani-Oe+Jerré+Eugene+Tanner&amp;search_field=search</field>
+</doc>
+</add>

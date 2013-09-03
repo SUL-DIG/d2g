@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109898</field>
+<field name="genre">Operas</field>
+<field name="title">La Pulcinella e la sua famiglia</field>
+<field name="titleSort">Pulcinella e la sua famiglia</field>
+<field name="composer">Vincenzo Fioravanti</field>
+<field name="composerSort">Fioravanti, Vincenzo</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Giovanni di Giurdignano</field>
+<field name="librettistSort">Giurdignano, Giovanni di</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Pulcinella+e+la+sua+famiglia+Vincenzo+Fioravanti&amp;search_field=search</field>
+</doc>
+</add>

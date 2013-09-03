@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202295</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Le jubilé de l'église française</field>
+		<field name="titleSort">jubilé de l'église française</field>
+		<field name="year">1785</field>
+		
+		
+		<field name="date">1785</field>
+		<field name="composer">Joseph Gross</field>
+		<field name="composerSort">Gross, Joseph</field>
+		
+		
+		<field name="theater">Königliche Schloss</field>
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+jubilé+de+l'église+française+Joseph+Gross&amp;search_field=search</field>
+	</doc></add>

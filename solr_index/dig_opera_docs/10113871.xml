@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113871</field>
+<field name="genre">Operas</field>
+<field name="title">Ivonne</field>
+<field name="titleSort">Ivonne</field>
+<field name="composer">Béla Hegyi</field>
+<field name="composerSort">Hegyi, Béla</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Lenkey Henrik</field>
+<field name="librettistSort">Henrik, Lenkey</field>
+<field name="theater">Schloss Esterháza</field>
+<field name="city">Fertöd</field>
+<field name="region">Györ-Moson-Sopron</field>
+<field name="country">Hungary</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ivonne+Béla+Hegyi&amp;search_field=search</field>
+</doc>
+</add>

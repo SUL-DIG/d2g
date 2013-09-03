@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121641</field>
+<field name="genre">Operas</field>
+<field name="title">Moskva-Parizh-Moskva</field>
+<field name="titleSort">Moskva-Parizh-Moskva</field>
+<field name="composer">Vano Il'ich Muradeli</field>
+<field name="composerSort">Muradeli, Vano Il'ich</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Viktor Vinnikov</field>
+<field name="librettistSort">Vinnikov, Viktor</field>
+<field name="librettist">Vladimir Krakht</field>
+<field name="librettistSort">Krakht, Vladimir</field>
+<field name="theater">State Operetta Theater</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Moskva-Parizh-Moskva+Vano+Il'ich+Muradeli&amp;search_field=search</field>
+</doc>
+</add>

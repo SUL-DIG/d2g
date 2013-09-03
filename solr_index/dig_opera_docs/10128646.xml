@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128646</field>
+<field name="genre">Operas</field>
+<field name="title">Elva</field>
+<field name="titleSort">Elva</field>
+<field name="composer">Eduard Schweiger</field>
+<field name="composerSort">Schweiger, Eduard</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Eduard Schweiger</field>
+<field name="librettistSort">Schweiger, Eduard</field>
+
+<field name="city">Baden bei Wien</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elva+Eduard+Schweiger&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116122</field>
+<field name="genre">Operas</field>
+<field name="title">Das Glas im Kopf wird vom Glas</field>
+<field name="titleSort">Glas im Kopf wird vom Glas</field>
+<field name="composer">Eugeniusz Knapik</field>
+<field name="composerSort">Knapik, Eugeniusz</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Jan Fabre</field>
+<field name="librettistSort">Fabre, Jan</field>
+<field name="theater">Opera voor Vlaanderen</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Glas+im+Kopf+wird+vom+Glas+Eugeniusz+Knapik&amp;search_field=search</field>
+</doc>
+</add>

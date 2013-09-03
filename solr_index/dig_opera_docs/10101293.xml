@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101293</field>
+<field name="genre">Operas</field>
+<field name="title">Die Seemannsbraut (Sjömandsbruden)</field>
+<field name="titleSort">Seemannsbraut (Sjömandsbruden)</field>
+<field name="composer">Siegwart Aspestrand</field>
+<field name="composerSort">Aspestrand, Siegwart</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Siegwart Aspestrand</field>
+<field name="librettistSort">Aspestrand, Siegwart</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Gotha</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Seemannsbraut+Sjömandsbruden+Siegwart+Aspestrand&amp;search_field=search</field>
+</doc>
+</add>

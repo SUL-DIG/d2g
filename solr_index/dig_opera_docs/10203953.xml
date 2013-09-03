@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203953</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">St. Cäcilia</field>
+		<field name="titleSort">St. Cäcilia</field>
+		
+		
+		
+		
+		<field name="composer">Gustav Adolph Heinze</field>
+		<field name="composerSort">Heinze, Gustav Adolph</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Saint Cecilia</field>
+		<field name="feastMonth">November</field>
+		<field name="feastDay">22</field>
+		<field name="feastDate">November 22</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=St.+Cäcilia+Gustav+Adolph+Heinze&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129360</field>
+<field name="genre">Operas</field>
+<field name="title">Maestro Giorgio</field>
+<field name="titleSort">Maestro Giorgio</field>
+<field name="composer">Domenico Sodero</field>
+<field name="composerSort">Sodero, Domenico</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Giuseppe di Nuno-Gianattasio</field>
+<field name="librettistSort">Nuno-Gianattasio, Giuseppe di</field>
+<field name="theater">Teatro Bellini</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maestro+Giorgio+Domenico+Sodero&amp;search_field=search</field>
+</doc>
+</add>

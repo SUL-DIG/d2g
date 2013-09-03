@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117817</field>
+<field name="genre">Operas</field>
+<field name="title">La paix et l'amour</field>
+<field name="titleSort">paix et l'amour</field>
+<field name="composer">Jean Frédéric Auguste Lemière de Corvey</field>
+<field name="composerSort">Corvey, Jean Frédéric Auguste Lemière de</field>
+<field name="year">1797</field>
+<field name="date">1797</field><field name="theater">Grand-Théâtre</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+paix+et+l'amour+Jean+Frédéric+Auguste+Lemière+de+Corvey&amp;search_field=search</field>
+</doc>
+</add>

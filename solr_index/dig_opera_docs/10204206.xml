@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204206</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Sea of Galilee</field>
+		<field name="titleSort">Sea of Galilee</field>
+		<field name="year">1872</field>
+		
+		
+		<field name="date">1872</field>
+		<field name="composer">William Thomas Belcher</field>
+		<field name="composerSort">Belcher, William Thomas</field>
+		
+		
+		
+		<field name="city">Oxford</field>
+		<field name="region">Oxfordshire</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Christ walks on water</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Sea+of+Galilee+William+Thomas+Belcher&amp;search_field=search</field>
+	</doc></add>

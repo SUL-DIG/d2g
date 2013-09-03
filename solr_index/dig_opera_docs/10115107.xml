@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115107</field>
+<field name="genre">Operas</field>
+<field name="title">"Le grand-père, ou Les deux âges</field>
+<field name="titleSort">"grand-père, ou Les deux âges"</field>
+<field name="composer">Louis-Emmanuel Jadin</field>
+<field name="composerSort">Jadin, Louis-Emmanuel</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Edmond-Guillaume-François de Favières</field>
+<field name="librettistSort">Favières, Edmond-Guillaume-François de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+grand-père,+ou+Les+deux+âges+Louis-Emmanuel+Jadin&amp;search_field=search</field>
+</doc>
+</add>

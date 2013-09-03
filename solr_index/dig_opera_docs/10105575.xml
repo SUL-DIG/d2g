@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105575</field>
+<field name="genre">Operas</field>
+<field name="title">La ceinture magique</field>
+<field name="titleSort">ceinture magique</field>
+<field name="composer">Louis Chancourtois</field>
+<field name="composerSort">Chancourtois, Louis</field>
+<field name="year">1818</field>
+<field name="date">1818</field>
+<field name="librettist">Joseph Hélitas de Mun</field>
+<field name="librettistSort">Hélitas de Mun, Joseph</field>
+<field name="librettist">Jean-François Ducis</field>
+<field name="librettistSort">Ducis, Jean-François</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+ceinture+magique+Louis+Chancourtois&amp;search_field=search</field>
+</doc>
+</add>

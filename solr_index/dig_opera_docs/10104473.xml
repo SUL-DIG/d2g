@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104473</field>
+<field name="genre">Operas</field>
+<field name="title">Volpone</field>
+<field name="titleSort">Volpone</field>
+<field name="composer">Francis Burt</field>
+<field name="composerSort">Burt, Francis</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="librettist">Francis Burt</field>
+<field name="librettistSort">Burt, Francis</field>
+<field name="librettist">Ben Jonson</field>
+<field name="librettistSort">Jonson, Ben</field>
+<field name="theater">Württembergisches Staatstheater</field>
+<field name="city">Stuttgart</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Volpone+Francis+Burt&amp;search_field=search</field>
+</doc>
+</add>

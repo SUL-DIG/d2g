@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129835</field>
+<field name="genre">Operas</field>
+<field name="title">Swatowits Ende</field>
+<field name="titleSort">Swatowits Ende</field>
+<field name="composer">Alfred Stelzner</field>
+<field name="composerSort">Stelzner, Alfred</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Alfred Stelzner</field>
+<field name="librettistSort">Stelzner, Alfred</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Kassel</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Swatowits+Ende+Alfred+Stelzner&amp;search_field=search</field>
+</doc>
+</add>

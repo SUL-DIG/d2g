@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106678</field>
+<field name="genre">Operas</field>
+<field name="title">Il matrimonio scoperto</field>
+<field name="titleSort">matrimonio scoperto</field>
+<field name="composer">Giacomo Correr</field>
+<field name="composerSort">Correr, Giacomo</field>
+<field name="year">1813</field>
+<field name="date">1813</field>
+<field name="librettist">Giulio Artusi</field>
+<field name="librettistSort">Artusi, Giulio</field>
+<field name="theater">Teatro Grimani di San Benedetto</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+matrimonio+scoperto+Giacomo+Correr&amp;search_field=search</field>
+</doc>
+</add>

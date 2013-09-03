@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116161</field>
+<field name="genre">Operas</field>
+<field name="title">Montana</field>
+<field name="titleSort">Montana</field>
+<field name="composer">E. Bruce Knowlton</field>
+<field name="composerSort">Knowlton, E. Bruce</field>
+<field name="year">1933</field>
+<field name="date">1933</field>
+<field name="librettist">E. Bruce Knowlton</field>
+<field name="librettistSort">Knowlton, E. Bruce</field>
+<field name="theater">Civic Auditorium</field>
+<field name="city">Portland</field>
+<field name="region">Oregon</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Montana+E.+Bruce+Knowlton&amp;search_field=search</field>
+</doc>
+</add>

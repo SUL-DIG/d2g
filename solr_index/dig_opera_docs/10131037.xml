@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131037</field>
+<field name="genre">Operas</field>
+<field name="title">Cesare Borgias Ende</field>
+<field name="titleSort">Cesare Borgias Ende</field>
+<field name="composer">Bernhard Tittel</field>
+<field name="composerSort">Tittel, Bernhard</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Heinrich Götz</field>
+<field name="librettistSort">Götz, Heinrich</field>
+<field name="theater">Stadttheater</field>
+<field name="city">Halle</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cesare+Borgias+Ende+Bernhard+Tittel&amp;search_field=search</field>
+</doc>
+</add>

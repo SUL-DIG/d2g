@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118849</field>
+<field name="genre">Operas</field>
+<field name="title">L'aeroplano</field>
+<field name="titleSort">aeroplano</field>
+<field name="composer">Lode Maes</field>
+<field name="composerSort">Maes, Lode</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">__ Gabelle</field>
+<field name="librettistSort">Gabelle, __</field>
+<field name="theater">Théâtre Sébastopol</field>
+<field name="city">Lille</field>
+<field name="region">Nord</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'aeroplano+Lode+Maes&amp;search_field=search</field>
+</doc>
+</add>

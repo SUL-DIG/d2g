@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105693</field>
+<field name="genre">Operas</field>
+<field name="title">Der Schweinehirt</field>
+<field name="titleSort">Schweinehirt</field>
+<field name="composer">Hans Chemin-Petit</field>
+<field name="composerSort">Chemin-Petit, Hans</field>
+<field name="year">1905</field>
+<field name="date">1905</field>
+<field name="librettist">Hans Gaus</field>
+<field name="librettistSort">Gaus, Hans</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Königliche Schauspielhaus</field>
+<field name="city">Potsdam</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Schweinehirt+Hans+Chemin-Petit&amp;search_field=search</field>
+</doc>
+</add>

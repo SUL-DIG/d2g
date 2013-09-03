@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104905</field>
+<field name="genre">Operas</field>
+<field name="title">I sposi in rissa</field>
+<field name="titleSort">sposi in rissa</field>
+<field name="composer">Luigi Capotorti</field>
+<field name="composerSort">Capotorti, Luigi</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Giuseppe Maria Diodati</field>
+<field name="librettistSort">Diodati, Giuseppe Maria</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+sposi+in+rissa+Luigi+Capotorti&amp;search_field=search</field>
+</doc>
+</add>

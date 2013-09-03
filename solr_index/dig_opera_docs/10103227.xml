@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103227</field>
+<field name="genre">Operas</field>
+<field name="title">La mayonnaise</field>
+<field name="titleSort">mayonnaise</field>
+<field name="composer">Paul Blétry</field>
+<field name="composerSort">Blétry, Paul</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Édouard Morello</field>
+<field name="librettistSort">Morello, Édouard</field>
+<field name="librettist">F. Vinbourg</field>
+<field name="librettistSort">Vinbourg, F.</field>
+<field name="theater">Éden-concert</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mayonnaise+Paul+Blétry&amp;search_field=search</field>
+</doc>
+</add>

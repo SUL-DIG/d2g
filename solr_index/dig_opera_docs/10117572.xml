@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117572</field>
+<field name="genre">Operas</field>
+<field name="title">La tyrolienne</field>
+<field name="titleSort">tyrolienne</field>
+<field name="composer">Charles-Théodore Leblicq</field>
+<field name="composerSort">Leblicq, Charles-Théodore</field>
+<field name="year">1861</field>
+<field name="date">1861</field>
+<field name="librettist">Jules-Henri Vernoy de Saint-Georges</field>
+<field name="librettistSort">Saint-Georges, Jules-Henri Vernoy de</field>
+<field name="librettist">Achille Dartois</field>
+<field name="librettistSort">Dartois, Achille</field>
+<field name="theater">Théâtre-Lyrique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+tyrolienne+Charles-Théodore+Leblicq&amp;search_field=search</field>
+</doc>
+</add>

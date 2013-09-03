@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124350</field>
+<field name="genre">Operas</field>
+<field name="title">Die Hochzeit im Gasthofe</field>
+<field name="titleSort">Hochzeit im Gasthofe</field>
+<field name="composer">Ferdinand Pillwitz</field>
+<field name="composerSort">Pillwitz, Ferdinand</field>
+<field name="year">1831</field>
+<field name="date">1831</field><field name="theater">Stadttheater</field>
+<field name="city">Bremen</field>
+<field name="region">Bremen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Hochzeit+im+Gasthofe+Ferdinand+Pillwitz&amp;search_field=search</field>
+</doc>
+</add>

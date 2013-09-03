@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130098</field>
+<field name="genre">Operas</field>
+<field name="title">"O ve', che figurace</field>
+<field name="titleSort">"O ve', che figurace"</field>
+<field name="composer">Alessandro Stradella</field>
+<field name="composerSort">Stradella, Alessandro</field>
+<field name="year">1672</field>
+<field name="date">1672</field>
+<field name="librettist">Filippo Acciaiuoli</field>
+<field name="librettistSort">Acciaiuoli, Filippo</field>
+<field name="theater">Teatro Tordinona</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=O+ve',+che+figurace+Alessandro+Stradella&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128551</field>
+<field name="genre">Operas</field>
+<field name="title">"Heinrich der Vogler, pt. 2</field>
+<field name="titleSort">"Heinrich der Vogler, pt. 2"</field>
+<field name="composer">Georg Caspar Schürmann</field>
+<field name="composerSort">Schürmann, Georg Caspar</field>
+<field name="year">1721</field>
+<field name="date">1721</field>
+<field name="librettist">Johann Ulrich von König</field>
+<field name="librettistSort">König, Johann Ulrich von</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Heinrich+der+Vogler,+pt.+2+Georg+Caspar+Schürmann&amp;search_field=search</field>
+</doc>
+</add>

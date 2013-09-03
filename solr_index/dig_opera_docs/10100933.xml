@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100933</field>
+<field name="genre">Operas</field>
+<field name="title">Fregat 'Pobeda' (The Frigate 'Victory')</field>
+<field name="titleSort">Fregat 'Pobeda' (The Frigate 'Victory')</field>
+<field name="composer">Boris Aleksandrovich Arapov</field>
+<field name="composerSort">Arapov, Boris Aleksandrovich</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Vsevolod Petrovych Rozhdestvensky</field>
+<field name="librettistSort">Rozhdestvensky, Vsevolod Petrovych</field>
+<field name="librettist">Aleksandr Viktorovich Ivanovsky</field>
+<field name="librettistSort">Ivanovsky, Aleksandr Viktorovich</field>
+<field name="theater">Radio Leningrad</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fregat+'Pobeda'+The+Frigate+'Victory'+Boris+Aleksandrovich+Arapov&amp;search_field=search</field>
+</doc>
+</add>

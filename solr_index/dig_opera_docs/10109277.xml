@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109277</field>
+<field name="genre">Operas</field>
+<field name="title">"Annetta, o La virtù trionfa</field>
+<field name="titleSort">"Annetta, o La virtù trionfa"</field>
+<field name="composer">Giuseppe Farinelli</field>
+<field name="composerSort">Farinelli, Giuseppe</field>
+<field name="year">1800</field>
+<field name="date">1800</field>
+<field name="librettist">Giulio Artusi</field>
+<field name="librettistSort">Artusi, Giulio</field>
+<field name="theater">Teatro Grimani di San Samuele</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Annetta,+o+La+virtù+trionfa+Giuseppe+Farinelli&amp;search_field=search</field>
+</doc>
+</add>

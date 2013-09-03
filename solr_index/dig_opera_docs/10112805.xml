@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112805</field>
+<field name="genre">Operas</field>
+<field name="title">Mistress Pudor</field>
+<field name="titleSort">Mistress Pudor</field>
+<field name="composer">Charles Grisart</field>
+<field name="composerSort">Grisart, Charles</field>
+<field name="year">1876</field>
+<field name="date">1876</field><field name="theater">Cercle de Beaux Arts</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mistress+Pudor+Charles+Grisart&amp;search_field=search</field>
+</doc>
+</add>

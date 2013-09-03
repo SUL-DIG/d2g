@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131187</field>
+<field name="genre">Operas</field>
+<field name="title">La serva astuta</field>
+<field name="titleSort">serva astuta</field>
+<field name="composer">Antonio Tozzi</field>
+<field name="composerSort">Tozzi, Antonio</field>
+<field name="year">1776</field>
+<field name="date">1776</field><field name="theater">Opernhaus am Salvatorplatz</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+serva+astuta+Antonio+Tozzi&amp;search_field=search</field>
+</doc>
+</add>

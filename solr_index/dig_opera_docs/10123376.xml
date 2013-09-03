@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123376</field>
+<field name="genre">Operas</field>
+<field name="title">Chyornïy yar (The Black Ravine)</field>
+<field name="titleSort">Chyornïy yar (The Black Ravine)</field>
+<field name="composer">Andrey Filippovich Pashchenko</field>
+<field name="composerSort">Pashchenko, Andrey Filippovich</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Lydia Seyfullina</field>
+<field name="librettistSort">Seyfullina, Lydia</field>
+
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Chyornïy+yar+The+Black+Ravine+Andrey+Filippovich+Pashchenko&amp;search_field=search</field>
+</doc>
+</add>

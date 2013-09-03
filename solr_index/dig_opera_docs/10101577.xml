@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101577</field>
+<field name="genre">Operas</field>
+<field name="title">Rosilde di Saluzzo</field>
+<field name="titleSort">Rosilde di Saluzzo</field>
+<field name="composer">Adolfo Baci</field>
+<field name="composerSort">Baci, Adolfo</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Giulio Gutersohn</field>
+<field name="librettistSort">Gutersohn, Giulio</field>
+<field name="theater">Teatro di via della Pergola</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rosilde+di+Saluzzo+Adolfo+Baci&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204528</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Der Tod des heiligen Johannes von Nepomuk</field>
+		<field name="titleSort">Tod des heiligen Johannes von Nepomuk</field>
+		<field name="year">1757</field>
+		
+		
+		<field name="date">1757</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">Saint John of Nepomuk</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">16</field>
+		<field name="feastDate">May 16</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Tod+des+heiligen+Johannes+von+Nepomuk+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

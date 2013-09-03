@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104826</field>
+<field name="genre">Operas</field>
+<field name="title">Il marinaio di Nisida</field>
+<field name="titleSort">marinaio di Nisida</field>
+<field name="composer">Antonio Candeloro</field>
+<field name="composerSort">Candeloro, Antonio</field>
+<field name="year">1854</field>
+<field name="date">1854</field>
+<field name="librettist">Marco d'Arienzo</field>
+<field name="librettistSort">d'Arienzo, Marco</field>
+<field name="theater">Conservatorio di San Pietro a Majella</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+marinaio+di+Nisida+Antonio+Candeloro&amp;search_field=search</field>
+</doc>
+</add>

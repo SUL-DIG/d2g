@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111474</field>
+<field name="genre">Operas</field>
+<field name="title">Der schwarze Prinz</field>
+<field name="titleSort">schwarze Prinz</field>
+<field name="composer">Richard Genée</field>
+<field name="composerSort">Genée, Richard</field>
+<field name="year">1866</field>
+<field name="date">1866</field>
+<field name="librettist">Richard Genée</field>
+<field name="librettistSort">Genée, Richard</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+<field name="theater">Stavovské Divadlo</field>
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+schwarze+Prinz+Richard+Genée&amp;search_field=search</field>
+</doc>
+</add>

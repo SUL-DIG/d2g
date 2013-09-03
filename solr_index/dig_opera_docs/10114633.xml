@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114633</field>
+<field name="genre">Operas</field>
+<field name="title">Atlantida (Atlantis)</field>
+<field name="titleSort">Atlantida (Atlantis)</field>
+<field name="composer">Karel Horký</field>
+<field name="composerSort">Horký, Karel</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Eva Bezdeková</field>
+<field name="librettistSort">Bezdeková, Eva</field>
+<field name="librettist">Víteslav Nezval</field>
+<field name="librettistSort">Nezval, Víteslav</field>
+<field name="theater">Janáckova Opera</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atlantida+Atlantis+Karel+Horký&amp;search_field=search</field>
+</doc>
+</add>

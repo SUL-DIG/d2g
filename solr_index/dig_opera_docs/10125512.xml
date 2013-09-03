@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125512</field>
+<field name="genre">Operas</field>
+<field name="title">Gli spensierati</field>
+<field name="titleSort">spensierati</field>
+<field name="composer">Pietro Raj</field>
+<field name="composerSort">Raj, Pietro</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Luigi Romanelli</field>
+<field name="librettistSort">Romanelli, Luigi</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gli+spensierati+Pietro+Raj&amp;search_field=search</field>
+</doc>
+</add>

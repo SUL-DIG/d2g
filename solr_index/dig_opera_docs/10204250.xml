@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204250</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Les sept paroles du Christ</field>
+		<field name="titleSort">sept paroles du Christ</field>
+		<field name="year">1867</field>
+		<field name="month">April</field>
+		<field name="day">19</field>
+		<field name="date">April 19, 1867</field>
+		<field name="composer">Théodore Dubois</field>
+		<field name="composerSort">Dubois, Théodore</field>
+		
+		
+		<field name="theater">Église de Sainte-Clotilde</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">The Seven Last Words</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Les+sept+paroles+du+Christ+Théodore+Dubois&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115433</field>
+<field name="genre">Operas</field>
+<field name="title">Rengau</field>
+<field name="titleSort">Rengau</field>
+<field name="composer">Alfred Josset</field>
+<field name="composerSort">Josset, Alfred</field>
+<field name="year">1894</field>
+<field name="date">1894</field>
+<field name="librettist">Alfred Josset</field>
+<field name="librettistSort">Josset, Alfred</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rengau+Alfred+Josset&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130577</field>
+<field name="genre">Operas</field>
+<field name="title">Francesca da Rimini</field>
+<field name="titleSort">Francesca da Rimini</field>
+<field name="composer">Giuseppe Tamburini</field>
+<field name="composerSort">Tamburini, Giuseppe</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="librettist">Dante AlighierilibrettistSortDante Alighieritheater</field>
+<field name="city">Rimini</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francesca+da+Rimini+Giuseppe+Tamburini&amp;search_field=search</field>
+</doc>
+</add>

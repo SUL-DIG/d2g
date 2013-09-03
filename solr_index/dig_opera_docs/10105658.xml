@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105658</field>
+<field name="genre">Operas</field>
+<field name="title">Vtoroye aprelya (The Second of April)</field>
+<field name="titleSort">Vtoroye aprelya (The Second of April)</field>
+<field name="composer">Aleksandr Vladimirovich Chaykovsky</field>
+<field name="composerSort">Chaykovsky, Aleksandr Vladimirovich</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Natal'ya Il'inichna Sats</field>
+<field name="librettistSort">Sats, Natal'ya Il'inichna</field>
+<field name="librettist">Il'ya Zverev</field>
+<field name="librettistSort">Zverev, Il'ya</field>
+<field name="theater">Detskiy Muzïkal'nïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Vtoroye+aprelya+The+Second+of+April+Aleksandr+Vladimirovich+Chaykovsky&amp;search_field=search</field>
+</doc>
+</add>

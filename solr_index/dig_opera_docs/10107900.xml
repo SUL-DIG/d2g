@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107900</field>
+<field name="genre">Operas</field>
+<field name="title">Le baiser d'Yvonne</field>
+<field name="titleSort">baiser d'Yvonne</field>
+<field name="composer">Charles Louis Domergue</field>
+<field name="composerSort">Domergue, Charles Louis</field>
+<field name="year">1888</field>
+<field name="date">1888</field>
+<field name="librettist">[Eugène Damien] Médina</field>
+<field name="librettistSort">Médina, [Eugène Damien]</field>
+<field name="theater">Théâtre Déjazet</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+baiser+d'Yvonne+Charles+Louis+Domergue&amp;search_field=search</field>
+</doc>
+</add>

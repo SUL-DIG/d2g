@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103827</field>
+<field name="genre">Operas</field>
+<field name="title">Altgeld</field>
+<field name="titleSort">Altgeld</field>
+<field name="composer">Will Gay Bottje</field>
+<field name="composerSort">Bottje, Will Gay</field>
+<field name="year">1969</field>
+<field name="date">1969</field>
+<field name="librettist">Will Gay Bottje</field>
+<field name="librettistSort">Bottje, Will Gay</field>
+<field name="librettist">John Peter Altgeld</field>
+<field name="librettistSort">Altgeld, John Peter</field>
+<field name="theater">University of Southern Illinois</field>
+<field name="city">Carbondale</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Altgeld+Will+Gay+Bottje&amp;search_field=search</field>
+</doc>
+</add>

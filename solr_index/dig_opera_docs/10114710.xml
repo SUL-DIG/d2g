@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114710</field>
+<field name="genre">Operas</field>
+<field name="title">Brunnen (The Well)</field>
+<field name="titleSort">Brunnen (The Well)</field>
+<field name="composer">Egil Hovland</field>
+<field name="composerSort">Hovland, Egil</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Bengt Verner Wall</field>
+<field name="librettistSort">Wall, Bengt Verner</field>
+
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Brunnen+The+Well+Egil+Hovland&amp;search_field=search</field>
+</doc>
+</add>

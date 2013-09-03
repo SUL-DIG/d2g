@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117927</field>
+<field name="genre">Operas</field>
+<field name="title">Pagliacci</field>
+<field name="titleSort">Pagliacci</field>
+<field name="composer">Ruggero Leoncavallo</field>
+<field name="composerSort">Leoncavallo, Ruggero</field>
+<field name="year">1892</field>
+<field name="date">1892</field>
+<field name="librettist">Ruggero Leoncavallo</field>
+<field name="librettistSort">Leoncavallo, Ruggero</field>
+<field name="theater">Teatro Dal Verme</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pagliacci+Ruggero+Leoncavallo&amp;search_field=search</field>
+</doc>
+</add>

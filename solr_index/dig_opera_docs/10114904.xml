@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114904</field>
+<field name="genre">Operas</field>
+<field name="title">Boyanskyat maïstor (Boyana's Master)</field>
+<field name="titleSort">Boyanskyat maïstor (Boyana's Master)</field>
+<field name="composer">Konstantin Iliev</field>
+<field name="composerSort">Iliev, Konstantin</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Michail Hadjimishev</field>
+<field name="librettistSort">Hadjimishev, Michail</field>
+<field name="librettist">Stoyan Zagorchinov</field>
+<field name="librettistSort">Zagorchinov, Stoyan</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Boyanskyat+maïstor+Boyana's+Master+Konstantin+Iliev&amp;search_field=search</field>
+</doc>
+</add>

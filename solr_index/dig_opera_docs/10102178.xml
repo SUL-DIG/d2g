@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102178</field>
+<field name="genre">Operas</field>
+<field name="title">Jonah</field>
+<field name="titleSort">Jonah</field>
+<field name="composer">Jack Beeson</field>
+<field name="composerSort">Beeson, Jack</field>
+<field name="year">1950</field>
+<field name="date">1950</field>
+<field name="librettist">Jack Beeson</field>
+<field name="librettistSort">Beeson, Jack</field>
+<field name="librettist">Paul Goodman</field>
+<field name="librettistSort">Goodman, Paul"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jonah+Jack+Beeson&amp;search_field=search</field>
+</doc>
+</add>

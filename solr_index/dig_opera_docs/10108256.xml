@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108256</field>
+<field name="genre">Operas</field>
+<field name="title">"Tullio Hostilio, aprendo il tempio di Giano</field>
+<field name="titleSort">"Tullio Hostilio, aprendo il tempio di Giano"</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1684</field>
+<field name="date">1684</field>
+<field name="librettist">Nicolò Minato</field>
+<field name="librettistSort">Minato, Nicolò</field>
+<field name="theater">Jesuit College</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tullio+Hostilio,+aprendo+il+tempio+di+Giano+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

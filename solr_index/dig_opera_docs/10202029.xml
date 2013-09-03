@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202029</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">The Invisible Fire</field>
+		<field name="titleSort">Invisible Fire</field>
+		<field name="year">1957</field>
+		<field name="month">December</field>
+		<field name="day">31</field>
+		<field name="date">December 31, 1957</field>
+		<field name="composer">Cecil Effinger</field>
+		<field name="composerSort">Effinger, Cecil</field>
+		<field name="librettist">Tom Faw Driver</field>
+		<field name="librettistSort">Driver, Tom Faw</field>
+		
+		<field name="theater">National Methodist Student Conference</field>
+		<field name="city">Lawrence</field>
+		<field name="region">Kansas</field>
+		<field name="country">United States</field>
+		<field name="subject">John Wesley</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Invisible+Fire+Cecil+Effinger&amp;search_field=search</field>
+	</doc></add>

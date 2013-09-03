@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204596</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">I trionfi della caritа</field>
+		<field name="titleSort">trionfi della caritа</field>
+		<field name="year">1698</field>
+		<field name="month">July</field>
+		<field name="day">6</field>
+		<field name="date">July 6, 1698</field>
+		<field name="composer">Francesco Gasparini</field>
+		<field name="composerSort">Gasparini, Francesco</field>
+		
+		
+		<field name="theater">Collegio della Compagnia di Gesù</field>
+		<field name="city">Naples</field>
+		<field name="region">Campania</field>
+		<field name="country">Italy</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+trionfi+della+caritа+Francesco+Gasparini&amp;search_field=search</field>
+	</doc></add>

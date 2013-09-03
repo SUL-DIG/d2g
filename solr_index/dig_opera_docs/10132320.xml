@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132320</field>
+<field name="genre">Operas</field>
+<field name="title">Rozbitý dzbán (The Broken Jug)</field>
+<field name="titleSort">Rozbitý dzbán (The Broken Jug)</field>
+<field name="composer">Zbynék Vostrák</field>
+<field name="composerSort">Vostrák, Zbynék</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Karel Jernek</field>
+<field name="librettistSort">Jernek, Karel</field>
+<field name="librettist">Heinrich von Kleist</field>
+<field name="librettistSort">Kleist, Heinrich von</field>
+
+<field name="city">Prague</field>
+
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rozbitý+dzbán+The+Broken+Jug+Zbynék+Vostrák&amp;search_field=search</field>
+</doc>
+</add>

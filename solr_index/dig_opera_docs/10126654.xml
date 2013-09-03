@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126654</field>
+<field name="genre">Operas</field>
+<field name="title">Doge und Dogaressa</field>
+<field name="titleSort">Doge und Dogaressa</field>
+<field name="composer">Ludwig Roselius</field>
+<field name="composerSort">Roselius, Ludwig</field>
+<field name="year">1928</field>
+<field name="date">1928</field>
+<field name="librettist">Ludwig Roselius</field>
+<field name="librettistSort">Roselius, Ludwig</field>
+<field name="theater">Theater am Hitropwall</field>
+<field name="city">Dortmund</field>
+<field name="region">Nordrhein-Westfallen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Doge+und+Dogaressa+Ludwig+Roselius&amp;search_field=search</field>
+</doc>
+</add>

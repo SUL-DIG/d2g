@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100934</field>
+<field name="genre">Operas</field>
+<field name="title">Khodzha Nasreddin</field>
+<field name="titleSort">Khodzha Nasreddin</field>
+<field name="composer">Boris Aleksandrovich Arapov</field>
+<field name="composerSort">Arapov, Boris Aleksandrovich</field>
+<field name="year">1944</field>
+<field name="date">1944</field>
+<field name="librettist">Viktor Stanislavovich Vitkovich</field>
+<field name="librettistSort">Vitkovich, Viktor Stanislavovich</field>
+<field name="librettist">G. Radomissky</field>
+<field name="librettistSort">Radomissky, G.</field>
+<field name="theater">Uzbekskiy Muzïkal'nïy Teatr</field>
+<field name="city">Tashkent</field>
+
+<field name="country">Uzbekistan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Khodzha+Nasreddin+Boris+Aleksandrovich+Arapov&amp;search_field=search</field>
+</doc>
+</add>

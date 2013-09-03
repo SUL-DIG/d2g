@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121694</field>
+<field name="genre">Operas</field>
+<field name="title">Atide</field>
+<field name="titleSort">Atide</field>
+<field name="composer">Josef Myslivecek</field>
+<field name="composerSort">Myslivecek, Josef</field>
+<field name="year">1774</field>
+<field name="date">1774</field>
+<field name="librettist">Tommaso Stanzani</field>
+<field name="librettistSort">Stanzani, Tommaso</field>
+<field name="theater">Teatro Nuovo</field>
+<field name="city">Padua</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Atide+Josef+Myslivecek&amp;search_field=search</field>
+</doc>
+</add>

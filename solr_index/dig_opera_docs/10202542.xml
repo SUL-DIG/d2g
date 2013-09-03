@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202542</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Luther auf dem Reichstage zu Worms</field>
+		<field name="titleSort">Luther auf dem Reichstage zu Worms</field>
+		<field name="year">1886</field>
+		<field name="month">May</field>
+		
+		<field name="date">May 1886</field>
+		<field name="composer">R. Klose</field>
+		<field name="composerSort">Klose, R.</field>
+		
+		
+		
+		<field name="city">Berlin</field>
+		<field name="region">Berlin</field>
+		<field name="country">Germany</field>
+		<field name="subject">Martin Luther</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Luther+auf+dem+Reichstage+zu+Worms+R.+Klose&amp;search_field=search</field>
+	</doc></add>

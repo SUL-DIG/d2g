@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111794</field>
+<field name="genre">Operas</field>
+<field name="title">Iphigenia in Exile</field>
+<field name="titleSort">Iphigenia in Exile</field>
+<field name="composer">Helen Gifford</field>
+<field name="composerSort">Gifford, Helen</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Richard Meredith</field>
+<field name="librettistSort">Meredith, Richard</field>
+<field name="theater">Radio Broadcast</field>
+<field name="city">Melbourne</field>
+<field name="region">Victoria</field>
+<field name="country">Australia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iphigenia+in+Exile+Helen+Gifford&amp;search_field=search</field>
+</doc>
+</add>

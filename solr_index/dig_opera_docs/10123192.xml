@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123192</field>
+<field name="genre">Operas</field>
+<field name="title">Aberfan</field>
+<field name="titleSort">Aberfan</field>
+<field name="composer">Raymond Pannell</field>
+<field name="composerSort">Pannell, Raymond</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Raymond Pannell</field>
+<field name="librettistSort">Pannell, Raymond</field>
+<field name="librettist">Beverly Pannell</field>
+<field name="librettistSort">Pannell, Beverly</field>
+<field name="theater">CBC Television (Canadian Broadcasting Corporation)</field>
+<field name="city">Toronto</field>
+<field name="region">Ontario</field>
+<field name="country">Canada</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Aberfan+Raymond+Pannell&amp;search_field=search</field>
+</doc>
+</add>

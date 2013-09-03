@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117956</field>
+<field name="genre">Operas</field>
+<field name="title">"D-ale, carnavalului (Carnival Stories)</field>
+<field name="titleSort">"D-ale, carnavalului (Carnival Stories)"</field>
+<field name="composer">Emil Lerescu</field>
+<field name="composerSort">Lerescu, Emil</field>
+<field name="year">1982</field>
+<field name="date">1982</field>
+<field name="librettist">Emil Lerescu</field>
+<field name="librettistSort">Lerescu, Emil</field>
+<field name="librettist">Ion Luca Caragiale</field>
+<field name="librettistSort">Caragiale, Ion Luca</field>
+<field name="theater">Bucharest Television</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=D-ale,+carnavalului+Carnival+Stories+Emil+Lerescu&amp;search_field=search</field>
+</doc>
+</add>

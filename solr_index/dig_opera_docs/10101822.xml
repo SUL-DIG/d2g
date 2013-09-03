@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101822</field>
+<field name="genre">Operas</field>
+<field name="title">Francastor</field>
+<field name="titleSort">Francastor</field>
+<field name="composer">Frédéric-Étienne Barbier</field>
+<field name="composerSort">Barbier, Frédéric-Étienne</field>
+<field name="year">1858</field>
+<field name="date">1858</field>
+<field name="librettist">Achille Eyraud</field>
+<field name="librettistSort">Eyraud, Achille</field>
+<field name="librettist">Gustave Labottière</field>
+<field name="librettistSort">Labottière, Gustave</field>
+<field name="theater">Théâtre des Folies-Nouvelles</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Francastor+Frédéric-Étienne+Barbier&amp;search_field=search</field>
+</doc>
+</add>

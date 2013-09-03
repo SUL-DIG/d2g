@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100204</field>
+<field name="genre">Operas</field>
+<field name="title">Il biglietto e l'anello</field>
+<field name="titleSort">biglietto e l'anello</field>
+<field name="composer">Rocca Aggiutorio</field>
+<field name="composerSort">Aggiutorio, Rocca</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">Raffaele d'Ambra</field>
+<field name="librettistSort">d'Ambra, Raffaele</field>
+<field name="theater">Real Teatro del Fondo di Separazione</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+biglietto+e+l'anello+Rocca+Aggiutorio&amp;search_field=search</field>
+</doc>
+</add>

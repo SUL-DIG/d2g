@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106774</field>
+<field name="genre">Operas</field>
+<field name="title">La belle Cathérine</field>
+<field name="titleSort">belle Cathérine</field>
+<field name="composer">Jules Costé</field>
+<field name="composerSort">Costé, Jules</field>
+<field name="year">1883</field>
+<field name="date">1883</field>
+<field name="librettist">F. de Mesgrigny</field>
+<field name="librettistSort">Mesgrigny, F. de</field>
+<field name="librettist">Philippe de Massa</field>
+<field name="librettistSort">Massa, Philippe de</field>
+<field name="theater">Cercle de l'Union Artistique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+belle+Cathérine+Jules+Costé&amp;search_field=search</field>
+</doc>
+</add>

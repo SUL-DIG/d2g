@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115028</field>
+<field name="genre">Operas</field>
+<field name="title">La prise de Passau</field>
+<field name="titleSort">prise de Passau</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1806</field>
+<field name="date">1806</field>
+<field name="librettist">[Louis-Emmanuel Mercier] Dupaty</field>
+<field name="librettistSort">Dupaty, [Louis-Emmanuel Mercier]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+prise+de+Passau+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

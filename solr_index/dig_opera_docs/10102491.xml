@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102491</field>
+<field name="genre">Operas</field>
+<field name="title">Nelson</field>
+<field name="titleSort">Nelson</field>
+<field name="composer">Lennox Berkeley</field>
+<field name="composerSort">Berkeley, Lennox</field>
+<field name="year">1954</field>
+<field name="date">1954</field>
+<field name="librettist">Alan Pryce-Jones</field>
+<field name="librettistSort">Pryce-Jones, Alan</field>
+<field name="theater">Sadler's Wells Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nelson+Lennox+Berkeley&amp;search_field=search</field>
+</doc>
+</add>

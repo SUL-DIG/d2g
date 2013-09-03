@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129733</field>
+<field name="genre">Operas</field>
+<field name="title">Het schoonste Meisje van Brussel</field>
+<field name="titleSort">schoonste Meisje van Brussel</field>
+<field name="composer">Joseph Steenebruggen</field>
+<field name="composerSort">Steenebruggen, Joseph</field>
+<field name="year">1885</field>
+<field name="date">1885</field>
+<field name="librettist">Emiel van Goethem</field>
+<field name="librettistSort">Goethem, Emiel van</field>
+
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Het+schoonste+Meisje+van+Brussel+Joseph+Steenebruggen&amp;search_field=search</field>
+</doc>
+</add>

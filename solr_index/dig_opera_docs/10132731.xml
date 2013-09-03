@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132731</field>
+<field name="genre">Operas</field>
+<field name="title">Malawika</field>
+<field name="titleSort">Malawika</field>
+<field name="composer">Felix Weingartner</field>
+<field name="composerSort">Weingartner, Felix</field>
+<field name="year">1886</field>
+<field name="date">1886</field>
+<field name="librettist">Felix Weingartner</field>
+<field name="librettistSort">Weingartner, Felix</field>
+<field name="theater">Königlich Hof- und Nationaltheater</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Malawika+Felix+Weingartner&amp;search_field=search</field>
+</doc>
+</add>

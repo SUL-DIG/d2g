@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109641</field>
+<field name="genre">Operas</field>
+<field name="title">I zingari</field>
+<field name="titleSort">zingari</field>
+<field name="composer">Andrea Ferretto</field>
+<field name="composerSort">Ferretto, Andrea</field>
+<field name="year">1900</field>
+<field name="date">1900</field>
+<field name="librettist">Andrea Ferretto</field>
+<field name="librettistSort">Ferretto, Andrea</field>
+<field name="theater">Teatro Storchi</field>
+<field name="city">Modena</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+zingari+Andrea+Ferretto&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132232</field>
+<field name="genre">Operas</field>
+<field name="title">Tsar Kaloyan</field>
+<field name="titleSort">Tsar Kaloyan</field>
+<field name="composer">Pancho Vladigerov</field>
+<field name="composerSort">Vladigerov, Pancho</field>
+<field name="year">1936</field>
+<field name="date">1936</field>
+<field name="librettist">[Nikolay Mikhaylov] Nikolay Liliev</field>
+<field name="librettistSort">Liliev, Nikolay [Nikolay Mikhaylov]</field>
+<field name="librettist">Fana Popova-Mutafova</field>
+<field name="librettistSort">Popova-Mutafova, Fana</field>
+<field name="theater">Sofiyska Narodna Opera</field>
+<field name="city">Sofia</field>
+
+<field name="country">Bulgaria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tsar+Kaloyan+Pancho+Vladigerov&amp;search_field=search</field>
+</doc>
+</add>

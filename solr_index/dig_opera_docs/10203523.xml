@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203523</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Psalmus hungaricus</field>
+		<field name="titleSort">Psalmus hungaricus</field>
+		<field name="year">1923</field>
+		<field name="month">November</field>
+		<field name="day">19</field>
+		<field name="date">November 19, 1923</field>
+		<field name="composer">Zoltán Kodály</field>
+		<field name="composerSort">Kodály, Zoltán</field>
+		<field name="librettist">Mihály Vég</field>
+		<field name="librettistSort">Vég, Mihály</field>
+		
+		
+		<field name="city">Budapest</field>
+		
+		<field name="country">Hungary</field>
+		
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Psalmus+hungaricus+Zoltán+Kodály&amp;search_field=search</field>
+	</doc></add>

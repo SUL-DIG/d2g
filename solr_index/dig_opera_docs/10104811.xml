@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104811</field>
+<field name="genre">Operas</field>
+<field name="title">Un pas de clerc</field>
+<field name="titleSort">pas de clerc</field>
+<field name="composer">Émile Camys</field>
+<field name="composerSort">Camys, Émile</field>
+<field name="year">1890</field>
+<field name="date">1890</field>
+<field name="librettist">Albert Riondel</field>
+<field name="librettistSort">Riondel, Albert</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+pas+de+clerc+Émile+Camys&amp;search_field=search</field>
+</doc>
+</add>

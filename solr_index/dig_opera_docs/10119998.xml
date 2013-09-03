@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119998</field>
+<field name="genre">Operas</field>
+<field name="title">Monsieur de Chalumeaux</field>
+<field name="titleSort">Monsieur de Chalumeaux</field>
+<field name="composer">Giuseppe Mazza</field>
+<field name="composerSort">Mazza, Giuseppe</field>
+<field name="year">1828</field>
+<field name="date">1828</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro Nuovo sopra Toledo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Monsieur+de+Chalumeaux+Giuseppe+Mazza&amp;search_field=search</field>
+</doc>
+</add>

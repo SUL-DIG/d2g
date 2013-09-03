@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117762</field>
+<field name="genre">Operas</field>
+<field name="title">The Vicar of Wakefield</field>
+<field name="titleSort">Vicar of Wakefield</field>
+<field name="composer">Liza Lehmann</field>
+<field name="composerSort">Lehmann, Liza</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Laurence Houseman</field>
+<field name="librettistSort">Houseman, Laurence</field>
+<field name="librettist">Oliver Goldsmith</field>
+<field name="librettistSort">Goldsmith, Oliver</field>
+<field name="theater">Prince of Wales Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Vicar+of+Wakefield+Liza+Lehmann&amp;search_field=search</field>
+</doc>
+</add>

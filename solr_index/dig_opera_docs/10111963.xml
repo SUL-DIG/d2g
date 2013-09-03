@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111963</field>
+<field name="genre">Operas</field>
+<field name="title">Rooversliefde (I briganti)</field>
+<field name="titleSort">Rooversliefde (I briganti)</field>
+<field name="composer">Paul Gilson</field>
+<field name="composerSort">Gilson, Paul</field>
+<field name="year">1910</field>
+<field name="date">1910</field>
+<field name="librettist">Jean-François Elslander</field>
+<field name="librettistSort">Elslander, Jean-François</field>
+<field name="theater">Vlaamsch Lyrisch Toneel</field>
+<field name="city">Antwerp</field>
+<field name="region">Antwerpen</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rooversliefde+I+briganti+Paul+Gilson&amp;search_field=search</field>
+</doc>
+</add>

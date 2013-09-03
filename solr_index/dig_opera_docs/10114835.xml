@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114835</field>
+<field name="genre">Operas</field>
+<field name="title">Mr. Punch</field>
+<field name="titleSort">Mr. Punch</field>
+<field name="composer">Michael Hurd</field>
+<field name="composerSort">Hurd, Michael</field>
+<field name="year">1970</field>
+<field name="date">1970</field>
+<field name="librettist">Michael Hurd</field>
+<field name="librettistSort">Hurd, Michael</field>
+<field name="theater">Institutet for Rikskonserter</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mr.+Punch+Michael+Hurd&amp;search_field=search</field>
+</doc>
+</add>

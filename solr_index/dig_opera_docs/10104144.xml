@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104144</field>
+<field name="genre">Operas</field>
+<field name="title">Nisan</field>
+<field name="titleSort">Nisan</field>
+<field name="composer">Radie Britain</field>
+<field name="composerSort">Britain, Radie</field>
+<field name="year">1962</field>
+<field name="date">1962</field>
+<field name="librettist">Kate Hammond</field>
+<field name="librettistSort">Hammond, Kate</field>
+<field name="theater">Sheraton Cadillac Hotel</field>
+<field name="city">Detroit</field>
+<field name="region">Michigan</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nisan+Radie+Britain&amp;search_field=search</field>
+</doc>
+</add>

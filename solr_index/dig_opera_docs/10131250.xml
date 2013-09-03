@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131250</field>
+<field name="genre">Operas</field>
+<field name="title">Don Cesare di Bazan</field>
+<field name="titleSort">Don Cesare di Bazan</field>
+<field name="composer">Antonio Traversari</field>
+<field name="composerSort">Traversari, Antonio</field>
+<field name="year">1853</field>
+<field name="date">1853</field>
+<field name="librettist">Giovanni Peruzzini</field>
+<field name="librettistSort">Peruzzini, Giovanni</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="theater">Teatro Grande</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Cesare+di+Bazan+Antonio+Traversari&amp;search_field=search</field>
+</doc>
+</add>

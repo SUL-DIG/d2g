@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105808</field>
+<field name="genre">Operas</field>
+<field name="title">The Importance of Being Earnest</field>
+<field name="titleSort">Importance of Being Earnest</field>
+<field name="composer">Erik Chisholm</field>
+<field name="composerSort">Chisholm, Erik</field>
+<field name="year">1963</field>
+<field name="date">1963</field>
+<field name="librettist">Erik Chisholm</field>
+<field name="librettistSort">Chisholm, Erik</field>
+<field name="librettist">Oscar Wilde</field>
+<field name="librettistSort">Wilde, Oscar"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Importance+of+Being+Earnest+Erik+Chisholm&amp;search_field=search</field>
+</doc>
+</add>

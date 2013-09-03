@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110091</field>
+<field name="genre">Operas</field>
+<field name="title">Le comte de Saint-Mégrin (La duchesse de Guise)</field>
+<field name="titleSort">comte de Saint-Mégrin (La duchesse de Guise)</field>
+<field name="composer">Friedrich Flotow</field>
+<field name="composerSort">Flotow, Friedrich</field>
+<field name="year">1838</field>
+<field name="date">1838</field>
+<field name="librettist">François de la Bouillerie</field>
+<field name="librettistSort">Bouillerie, François de la</field>
+<field name="librettist">Charles de la Bouillerie</field>
+<field name="librettistSort">Bouillerie, Charles de la</field>
+
+<field name="city">Rougemont-le-Château</field>
+<field name="region">Belfort</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+comte+de+Saint-Mégrin+La+duchesse+de+Guise+Friedrich+Flotow&amp;search_field=search</field>
+</doc>
+</add>

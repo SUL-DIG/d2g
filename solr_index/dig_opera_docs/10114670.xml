@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114670</field>
+<field name="genre">Operas</field>
+<field name="title">Le serrurier</field>
+<field name="titleSort">serrurier</field>
+<field name="composer">Franz Horzizki</field>
+<field name="composerSort">Horzizki, Franz</field>
+<field name="year">1787</field>
+<field name="date">1787</field><field name="theater">Schlosstheater der Prinz Heinrich von Preussen</field>
+<field name="city">Rheinsberg</field>
+<field name="region">Brandenburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+serrurier+Franz+Horzizki&amp;search_field=search</field>
+</doc>
+</add>

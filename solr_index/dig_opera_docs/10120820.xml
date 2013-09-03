@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120820</field>
+<field name="genre">Operas</field>
+<field name="title">Der grüne Kakadu</field>
+<field name="titleSort">grüne Kakadu</field>
+<field name="composer">Richard Mohaupt</field>
+<field name="composerSort">Mohaupt, Richard</field>
+<field name="year">1958</field>
+<field name="date">1958</field>
+<field name="librettist">Richard Mohaupt</field>
+<field name="librettistSort">Mohaupt, Richard</field>
+<field name="librettist">Arthur Schnitzler</field>
+<field name="librettistSort">Schnitzler, Arthur</field>
+<field name="theater">Hamburgisches Staatsoper</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+grüne+Kakadu+Richard+Mohaupt&amp;search_field=search</field>
+</doc>
+</add>

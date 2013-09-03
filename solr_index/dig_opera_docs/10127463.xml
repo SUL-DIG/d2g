@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127463</field>
+<field name="genre">Operas</field>
+<field name="title">Das Werbekleid</field>
+<field name="titleSort">Werbekleid</field>
+<field name="composer">Franz Salmhofer</field>
+<field name="composerSort">Salmhofer, Franz</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Franz Salmhofer</field>
+<field name="librettistSort">Salmhofer, Franz</field>
+<field name="theater">Landestheater</field>
+<field name="city">Salzburg</field>
+<field name="region">Salzburg</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Das+Werbekleid+Franz+Salmhofer&amp;search_field=search</field>
+</doc>
+</add>

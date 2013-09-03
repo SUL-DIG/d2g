@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201481</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Genesis</field>
+		<field name="titleSort">Genesis</field>
+		<field name="year">1992</field>
+		<field name="month">September</field>
+		<field name="day">26</field>
+		<field name="date">September 26, 1992</field>
+		<field name="composer">Charles Wuorinen</field>
+		<field name="composerSort">Wuorinen, Charles</field>
+		
+		
+		<field name="theater">Davies Symphony Hall</field>
+		<field name="city">San Francisco</field>
+		<field name="region">California</field>
+		<field name="country">United States</field>
+		<field name="subject">Creation</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Genesis+Charles+Wuorinen&amp;search_field=search</field>
+	</doc></add>

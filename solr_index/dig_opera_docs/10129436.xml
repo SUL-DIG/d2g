@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129436</field>
+<field name="genre">Operas</field>
+<field name="title">Le séducteur</field>
+<field name="titleSort">séducteur</field>
+<field name="composer">Jean-Pierre Solié</field>
+<field name="composerSort">Solié, Jean-Pierre</field>
+<field name="year">1783</field>
+<field name="date">1783</field>
+<field name="librettist">Georges-François Marechal de Bièvre</field>
+<field name="librettistSort">Bièvre, Georges-François Marechal de</field>
+<field name="theater">Château de Fontainebleau</field>
+<field name="city">Fontainebleau</field>
+<field name="region">Seine-et-Marne</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+séducteur+Jean-Pierre+Solié&amp;search_field=search</field>
+</doc>
+</add>

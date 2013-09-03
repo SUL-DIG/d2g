@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126365</field>
+<field name="genre">Operas</field>
+<field name="title">La revanche de Fortunio</field>
+<field name="titleSort">revanche de Fortunio</field>
+<field name="composer">Victor Robillard</field>
+<field name="composerSort">Robillard, Victor</field>
+<field name="year">1865</field>
+<field name="date">1865</field>
+<field name="librettist">Hippolyte Lefebvre</field>
+<field name="librettistSort">Lefebvre, Hippolyte</field>
+<field name="theater">Théâtre des Folies-Marigny</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+revanche+de+Fortunio+Victor+Robillard&amp;search_field=search</field>
+</doc>
+</add>

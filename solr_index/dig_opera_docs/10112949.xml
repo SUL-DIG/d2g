@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112949</field>
+<field name="genre">Operas</field>
+<field name="title">"Giulietta, ossia La fanciulla abbandonata</field>
+<field name="titleSort">"Giulietta, ossia La fanciulla abbandonata"</field>
+<field name="composer">Pasquale Guglielmi</field>
+<field name="composerSort">Guglielmi, Pasquale</field>
+<field name="year">1835</field>
+<field name="date">1835</field>
+<field name="librettist">Jacopo Ferretti</field>
+<field name="librettistSort">Ferretti, Jacopo</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giulietta,+ossia+La+fanciulla+abbandonata+Pasquale+Guglielmi&amp;search_field=search</field>
+</doc>
+</add>

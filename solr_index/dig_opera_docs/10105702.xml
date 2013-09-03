@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105702</field>
+<field name="genre">Operas</field>
+<field name="title">Une aventure sous la ligue</field>
+<field name="titleSort">aventure sous la ligue</field>
+<field name="composer">[Victor Cizos] Victor Chéri</field>
+<field name="composerSort">Chéri, [Victor Cizos] Victor</field>
+<field name="year">1857</field>
+<field name="date">1857</field>
+<field name="librettist">Auguste de Bruge</field>
+<field name="librettistSort">Bruge, Auguste de</field>
+<field name="librettist">Alexandre Montcavrel</field>
+<field name="librettistSort">Montcavrel, Alexandre</field>
+<field name="theater">Grand-Théâtre</field>
+<field name="city">Bordeaux</field>
+<field name="region">Gironde</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Une+aventure+sous+la+ligue+Victor+Cizos]+Victor+Chéri&amp;search_field=search</field>
+</doc>
+</add>

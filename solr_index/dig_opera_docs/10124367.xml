@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124367</field>
+<field name="genre">Operas</field>
+<field name="title">Il mercante di Venezia</field>
+<field name="titleSort">mercante di Venezia</field>
+<field name="composer">Ciro Pinsuti</field>
+<field name="composerSort">Pinsuti, Ciro</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="librettist">Giorgio Tommaso Cimino</field>
+<field name="librettistSort">Cimino, Giorgio Tommaso</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro Comunale</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+mercante+di+Venezia+Ciro+Pinsuti&amp;search_field=search</field>
+</doc>
+</add>

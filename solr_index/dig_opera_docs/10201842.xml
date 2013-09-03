@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201842</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Hezekiah</field>
+		<field name="titleSort">Hezekiah</field>
+		<field name="year">1847</field>
+		
+		
+		<field name="date">1847</field>
+		<field name="composer">George Frederick Perry</field>
+		<field name="composerSort">Perry, George Frederick</field>
+		
+		
+		
+		<field name="city">Norwich</field>
+		<field name="region">Norfolk</field>
+		<field name="country">United Kingdom</field>
+		<field name="subject">Hezekiah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hezekiah+George+Frederick+Perry&amp;search_field=search</field>
+	</doc></add>

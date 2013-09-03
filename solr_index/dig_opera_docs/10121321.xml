@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121321</field>
+<field name="genre">Operas</field>
+<field name="title">Amore e dovere</field>
+<field name="titleSort">Amore e dovere</field>
+<field name="composer">Giuseppe Mosca</field>
+<field name="composerSort">Mosca, Giuseppe</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Pietro Scotes</field>
+<field name="librettistSort">Scotes, Pietro</field>
+<field name="librettist">Giovanni Bertati</field>
+<field name="librettistSort">Bertati, Giovanni</field>
+<field name="theater">Teatro delle Dame</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Amore+e+dovere+Giuseppe+Mosca&amp;search_field=search</field>
+</doc>
+</add>

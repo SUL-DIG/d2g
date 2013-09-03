@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104307</field>
+<field name="genre">Operas</field>
+<field name="title">"Cadichon, ou Les bohèmiennes</field>
+<field name="titleSort">"Cadichon, ou Les bohèmiennes"</field>
+<field name="composer">Antonio Bartolomeo Bruni</field>
+<field name="composerSort">Bruni, Antonio Bartolomeo</field>
+<field name="year">1792</field>
+<field name="date">1792</field>
+<field name="librettist">Jean-Baptiste Pujoulx</field>
+<field name="librettistSort">Pujoulx, Jean-Baptiste</field>
+<field name="theater">Théâtre de la rue Feydeau</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Vaudeville</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cadichon,+ou+Les+bohèmiennes+Antonio+Bartolomeo+Bruni&amp;search_field=search</field>
+</doc>
+</add>

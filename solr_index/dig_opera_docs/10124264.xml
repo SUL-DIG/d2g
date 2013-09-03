@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124264</field>
+<field name="genre">Operas</field>
+<field name="title">Bidna Liza (Poor Liza)</field>
+<field name="titleSort">Bidna Liza (Poor Liza)</field>
+<field name="composer">Borys Volodymyrovych Pidhorets'ky</field>
+<field name="composerSort">Pidhorets'ky, Borys Volodymyrovych</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">M. Vashkevych</field>
+<field name="librettistSort">Vashkevych, M.</field>
+<field name="librettist">Nikolay Mikhaylovich Karamzin</field>
+<field name="librettistSort">Karamzin, Nikolay Mikhaylovich</field>
+<field name="theater">Kamennïy Opernïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Bidna+Liza+Poor+Liza+Borys+Volodymyrovych+Pidhorets'ky&amp;search_field=search</field>
+</doc>
+</add>

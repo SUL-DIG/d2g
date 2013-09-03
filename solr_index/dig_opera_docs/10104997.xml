@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104997</field>
+<field name="genre">Operas</field>
+<field name="title">Demetrio</field>
+<field name="titleSort">Demetrio</field>
+<field name="composer">Giuseppe Carcani</field>
+<field name="composerSort">Carcani, Giuseppe</field>
+<field name="year">1742</field>
+<field name="date">1742</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro Civico</field>
+<field name="city">Crema</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Demetrio+Giuseppe+Carcani&amp;search_field=search</field>
+</doc>
+</add>

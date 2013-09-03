@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115030</field>
+<field name="genre">Operas</field>
+<field name="title">Rinaldo d'Asti</field>
+<field name="titleSort">Rinaldo d'Asti</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1796</field>
+<field name="date">1796</field>
+<field name="librettist">Giuseppe Carpani</field>
+<field name="librettistSort">Carpani, Giuseppe</field>
+<field name="librettist">Jean-Baptiste Radet</field>
+<field name="librettistSort">Radet, Jean-Baptiste</field>
+<field name="theater">Teatru Manoel</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rinaldo+d'Asti+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

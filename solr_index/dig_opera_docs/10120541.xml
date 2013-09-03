@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120541</field>
+<field name="genre">Operas</field>
+<field name="title">Die goldene Insel</field>
+<field name="titleSort">goldene Insel</field>
+<field name="composer">Gustav Michaelis</field>
+<field name="composerSort">Michaelis, Gustav</field>
+<field name="year">1869</field>
+<field name="date">1869</field>
+<field name="librettist">Anton Anno</field>
+<field name="librettistSort">Anno, Anton</field>
+<field name="theater">Kallenbach-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+goldene+Insel+Gustav+Michaelis&amp;search_field=search</field>
+</doc>
+</add>

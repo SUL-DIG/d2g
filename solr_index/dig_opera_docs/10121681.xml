@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121681</field>
+<field name="genre">Operas</field>
+<field name="title">Sorochinskaya yarmarka (The Fair at Sorochintsï)</field>
+<field name="titleSort">Sorochinskaya yarmarka (The Fair at Sorochintsï)</field>
+<field name="composer">Modest Petrovich Mussorgsky</field>
+<field name="composerSort">Mussorgsky, Modest Petrovich</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Modest Petrovich Mussorgsky</field>
+<field name="librettistSort">Mussorgsky, Modest Petrovich</field>
+<field name="librettist">Arseny Golenishchev-Kutuzov</field>
+<field name="librettistSort">Golenishchev-Kutuzov, Arseny</field>
+<field name="theater">Vol'nïy Teatr</field>
+<field name="city">Moscow</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sorochinskaya+yarmarka+The+Fair+at+Sorochintsï+Modest+Petrovich+Mussorgsky&amp;search_field=search</field>
+</doc>
+</add>

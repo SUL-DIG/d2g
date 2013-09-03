@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118171</field>
+<field name="genre">Operas</field>
+<field name="title">Fredlös</field>
+<field name="titleSort">Fredlös</field>
+<field name="composer">Oskar Lindberg</field>
+<field name="composerSort">Lindberg, Oskar</field>
+<field name="year">1943</field>
+<field name="date">1943</field>
+<field name="librettist">Fritz Tutenberg</field>
+<field name="librettistSort">Tutenberg, Fritz</field>
+<field name="librettist">Selma Lagerlöf</field>
+<field name="librettistSort">Lagerlöf, Selma</field>
+<field name="theater">Kungliga Teatern</field>
+<field name="city">Stockholm</field>
+<field name="region">Stockholm</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fredlös+Oskar+Lindberg&amp;search_field=search</field>
+</doc>
+</add>

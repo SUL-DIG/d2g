@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108233</field>
+<field name="genre">Operas</field>
+<field name="title">La Rosaura</field>
+<field name="titleSort">Rosaura</field>
+<field name="composer">Antonio Draghi</field>
+<field name="composerSort">Draghi, Antonio</field>
+<field name="year">1689</field>
+<field name="date">1689</field>
+<field name="librettist">Ottavio Malvezzi</field>
+<field name="librettistSort">Malvezzi, Ottavio</field>
+<field name="theater">Hoftheater</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Rosaura+Antonio+Draghi&amp;search_field=search</field>
+</doc>
+</add>

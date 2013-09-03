@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105034</field>
+<field name="genre">Operas</field>
+<field name="title">Gabriella di Falesia</field>
+<field name="titleSort">Gabriella di Falesia</field>
+<field name="composer">Oreste Carlini</field>
+<field name="composerSort">Carlini, Oreste</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Oreste Carlini</field>
+<field name="librettistSort">Carlini, Oreste</field>
+<field name="theater">Teatro dagli Armeni</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gabriella+di+Falesia+Oreste+Carlini&amp;search_field=search</field>
+</doc>
+</add>

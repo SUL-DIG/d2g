@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102280</field>
+<field name="genre">Operas</field>
+<field name="title">Fräulein Don Juan</field>
+<field name="titleSort">Fräulein Don Juan</field>
+<field name="composer">Ralph Benatzky</field>
+<field name="composerSort">Benatzky, Ralph</field>
+<field name="year">1915</field>
+<field name="date">1915</field>
+<field name="librettist">__ Paracelsus</field>
+<field name="librettistSort">Paracelsus, __</field>
+<field name="theater">Etablissement Gartenbau</field>
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fräulein+Don+Juan+Ralph+Benatzky&amp;search_field=search</field>
+</doc>
+</add>

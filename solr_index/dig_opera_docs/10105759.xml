@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105759</field>
+<field name="genre">Operas</field>
+<field name="title">Una burla per correzione</field>
+<field name="titleSort">burla per correzione</field>
+<field name="composer">Francesco Chiaromonte</field>
+<field name="composerSort">Chiaromonte, Francesco</field>
+<field name="year">1855</field>
+<field name="date">1855</field><field name="theater">Teatro Paganini</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+burla+per+correzione+Francesco+Chiaromonte&amp;search_field=search</field>
+</doc>
+</add>

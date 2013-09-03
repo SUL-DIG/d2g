@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121233</field>
+<field name="genre">Operas</field>
+<field name="title">La fiesca</field>
+<field name="titleSort">fiesca</field>
+<field name="composer">Cesare Mori-Taddei</field>
+<field name="composerSort">Mori-Taddei, Cesare</field>
+<field name="year">1903</field>
+<field name="date">1903</field>
+<field name="librettist">Ezio Taranti</field>
+<field name="librettistSort">Taranti, Ezio</field>
+
+<field name="city">San Miniato</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fiesca+Cesare+Mori-Taddei&amp;search_field=search</field>
+</doc>
+</add>

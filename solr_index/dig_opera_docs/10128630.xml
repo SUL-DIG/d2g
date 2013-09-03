@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128630</field>
+<field name="genre">Operas</field>
+<field name="title">Look and Long</field>
+<field name="titleSort">Look and Long</field>
+<field name="composer">Marvin Schwartz</field>
+<field name="composerSort">Schwartz, Marvin</field>
+<field name="year">1971</field>
+<field name="date">1971</field>
+<field name="librettist">Gertrude Stein</field>
+<field name="librettistSort">Stein, Gertrude</field>
+<field name="theater">After Dinner Opera Company</field>
+<field name="city">Lake Placid</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Look+and+Long+Marvin+Schwartz&amp;search_field=search</field>
+</doc>
+</add>

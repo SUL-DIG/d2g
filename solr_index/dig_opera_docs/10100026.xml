@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10100026</field>
+<field name="genre">Operas</field>
+<field name="title">Alessandro nell'Indie</field>
+<field name="titleSort">Alessandro nell'Indie</field>
+<field name="composer">Girolamo Abos</field>
+<field name="composerSort">Abos, Girolamo</field>
+<field name="year">1747</field>
+<field name="date">1747</field>
+<field name="librettist">Pietro Metastasio</field>
+<field name="librettistSort">Metastasio, Pietro</field>
+<field name="theater">Teatro della Fenice</field>
+<field name="city">Ancona</field>
+<field name="region">Marche</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Alessandro+nell'Indie+Girolamo+Abos&amp;search_field=search</field>
+</doc>
+</add>

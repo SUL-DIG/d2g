@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101028</field>
+<field name="genre">Operas</field>
+<field name="title">Poissardes et Marmitons</field>
+<field name="titleSort">Poissardes et Marmitons</field>
+<field name="composer">Eugène Arnaud</field>
+<field name="composerSort">Arnaud, Eugène</field>
+<field name="year">1887</field>
+<field name="date">1887</field>
+<field name="librettist">Charles Mey</field>
+<field name="librettistSort">Mey, Charles</field>
+<field name="theater">Théâtre du Casino des Arts</field>
+<field name="city">Lyon</field>
+<field name="region">Rhône du Lyonnais</field>
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Poissardes+et+Marmitons+Eugène+Arnaud&amp;search_field=search</field>
+</doc>
+</add>

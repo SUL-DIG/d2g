@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132626</field>
+<field name="genre">Operas</field>
+<field name="title">Adelma</field>
+<field name="titleSort">Adelma</field>
+<field name="composer">Heinrich Weidt</field>
+<field name="composerSort">Weidt, Heinrich</field>
+<field name="year">1873</field>
+<field name="date">1873</field>
+<field name="city">Timisoara</field>
+<field name="region">Timis</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Adelma+Heinrich+Weidt&amp;search_field=search</field>
+</doc>
+</add>

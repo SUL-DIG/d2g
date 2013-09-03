@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122487</field>
+<field name="genre">Operas</field>
+<field name="title">Three Instant Operas</field>
+<field name="titleSort">Three Instant Operas</field>
+<field name="composer">Stephen Oliver</field>
+<field name="composerSort">Oliver, Stephen</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Stephen Oliver</field>
+<field name="librettistSort">Oliver, Stephen</field>
+
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Three+Instant+Operas+Stephen+Oliver&amp;search_field=search</field>
+</doc>
+</add>

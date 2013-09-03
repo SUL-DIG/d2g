@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200129</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">L'agonia e la morte di Gesù Cristo, overo Tre ore d'agonia</field>
+		<field name="titleSort">agonia e la morte di Gesù Cristo, overo Tre ore d'agonia</field>
+		<field name="year">1807</field>
+		<field name="month">March</field>
+		<field name="day">26</field>
+		<field name="date">March 26, 1807</field>
+		<field name="composer">Pietro Raj</field>
+		<field name="composerSort">Raj, Pietro</field>
+		
+		
+		
+		<field name="city">Monza</field>
+		<field name="region">Lombardia</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Crucifixion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'agonia+e+la+morte+di+Gesù+Cristo,+overo+Tre+ore+d'agonia+Pietro+Raj&amp;search_field=search</field>
+	</doc></add>

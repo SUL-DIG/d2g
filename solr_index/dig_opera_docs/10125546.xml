@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125546</field>
+<field name="genre">Operas</field>
+<field name="title">L'impresario di Smirne</field>
+<field name="titleSort">impresario di Smirne</field>
+<field name="composer">Domenico Rampini</field>
+<field name="composerSort">Rampini, Domenico</field>
+<field name="year">1798</field>
+<field name="date">1798</field>
+<field name="librettist">Giuseppe Maria Foppa</field>
+<field name="librettistSort">Foppa, Giuseppe Maria</field>
+<field name="theater">Teatro di San Pietro</field>
+<field name="city">Trieste</field>
+<field name="region">Friuli-Venezia Giulia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'impresario+di+Smirne+Domenico+Rampini&amp;search_field=search</field>
+</doc>
+</add>

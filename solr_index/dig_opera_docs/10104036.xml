@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104036</field>
+<field name="genre">Operas</field>
+<field name="title">Tudor din Vladimiri (Tudor of Vladimiri)</field>
+<field name="titleSort">Tudor din Vladimiri (Tudor of Vladimiri)</field>
+<field name="composer">Teodor Bratu</field>
+<field name="composerSort">Bratu, Teodor</field>
+<field name="year">1983</field>
+<field name="date">1983</field>
+<field name="librettist">Teodor Bratu</field>
+<field name="librettistSort">Bratu, Teodor</field>
+<field name="theater">Teatrul Liric</field>
+<field name="city">Craiova</field>
+<field name="region">Dolj</field>
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Tudor+din+Vladimiri+Tudor+of+Vladimiri+Teodor+Bratu&amp;search_field=search</field>
+</doc>
+</add>

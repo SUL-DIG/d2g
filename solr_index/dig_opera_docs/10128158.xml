@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128158</field>
+<field name="genre">Operas</field>
+<field name="title">Thusnelde</field>
+<field name="titleSort">Thusnelde</field>
+<field name="composer">Johann Adolf Scheibe</field>
+<field name="composerSort">Scheibe, Johann Adolf</field>
+<field name="year">1749</field>
+<field name="date">1749</field><field name="theater">Danske Skueplads</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Thusnelde+Johann+Adolf+Scheibe&amp;search_field=search</field>
+</doc>
+</add>

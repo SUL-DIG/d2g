@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130487</field>
+<field name="genre">Operas</field>
+<field name="title">Giovanna di Napoli</field>
+<field name="titleSort">Giovanna di Napoli</field>
+<field name="composer">Antonio Taddei</field>
+<field name="composerSort">Taddei, Antonio</field>
+<field name="year">1844</field>
+<field name="date">1844</field>
+<field name="librettist">Calisto Bassi</field>
+<field name="librettistSort">Bassi, Calisto</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giovanna+di+Napoli+Antonio+Taddei&amp;search_field=search</field>
+</doc>
+</add>

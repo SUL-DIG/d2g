@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201819</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die heilige Nacht</field>
+		<field name="titleSort">heilige Nacht</field>
+		
+		
+		
+		
+		<field name="composer">Karl Eduard Hering</field>
+		<field name="composerSort">Hering, Karl Eduard</field>
+		
+		
+		
+		
+		
+		
+		<field name="subject">Christmas</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+heilige+Nacht+Karl+Eduard+Hering&amp;search_field=search</field>
+	</doc></add>

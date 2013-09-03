@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118300</field>
+<field name="genre">Operas</field>
+<field name="title">Never Judge by Appearances</field>
+<field name="titleSort">Never Judge by Appearances</field>
+<field name="composer">Edward James Loder</field>
+<field name="composerSort">Loder, Edward James</field>
+<field name="year">1859</field>
+<field name="date">1859</field>
+<field name="librettist">Henry Drayton</field>
+<field name="librettistSort">Drayton, Henry</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Never+Judge+by+Appearances+Edward+James+Loder&amp;search_field=search</field>
+</doc>
+</add>

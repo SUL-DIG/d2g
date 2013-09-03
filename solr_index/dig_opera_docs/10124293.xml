@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124293</field>
+<field name="genre">Operas</field>
+<field name="title">La canzone di S Giovanni</field>
+<field name="titleSort">canzone di S Giovanni</field>
+<field name="composer">Giuseppe Pietri</field>
+<field name="composerSort">Pietri, Giuseppe</field>
+<field name="year">1939</field>
+<field name="date">1939</field>
+<field name="librettist">Arturo Rossato</field>
+<field name="librettistSort">Rossato, Arturo</field>
+<field name="theater">Casinò</field>
+<field name="city">San Remo</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+canzone+di+S+Giovanni+Giuseppe+Pietri&amp;search_field=search</field>
+</doc>
+</add>

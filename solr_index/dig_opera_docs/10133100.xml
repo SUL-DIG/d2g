@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133100</field>
+<field name="genre">Operas</field>
+<field name="title">Der Abend im Walde</field>
+<field name="titleSort">Abend im Walde</field>
+<field name="composer">Ernst Wilhelm Wolf</field>
+<field name="composerSort">Wolf, Ernst Wilhelm</field>
+<field name="year">1773</field>
+<field name="date">1773</field>
+<field name="librettist">Gottlob Ephraim Heermann</field>
+<field name="librettistSort">Heermann, Gottlob Ephraim</field>
+<field name="theater">Wilhelmsburg Schlosstheater</field>
+<field name="city">Weimar</field>
+<field name="region">Thüringen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Abend+im+Walde+Ernst+Wilhelm+Wolf&amp;search_field=search</field>
+</doc>
+</add>

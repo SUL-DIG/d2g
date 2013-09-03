@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114507</field>
+<field name="genre">Operas</field>
+<field name="title">Wo wohnt sie denn?</field>
+<field name="titleSort">Wo wohnt sie denn?</field>
+<field name="composer">Viktor Holländer</field>
+<field name="composerSort">Holländer, Viktor</field>
+<field name="year">1909</field>
+<field name="date">1909</field>
+<field name="librettist">Jean Kren</field>
+<field name="librettistSort">Kren, Jean</field>
+<field name="librettist">Georg Okonkowsky</field>
+<field name="librettistSort">Okonkowsky, Georg</field>
+<field name="theater">Thalia-Theater</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wo+wohnt+sie+denn?+Viktor+Holländer&amp;search_field=search</field>
+</doc>
+</add>

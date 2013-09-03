@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114251</field>
+<field name="genre">Operas</field>
+<field name="title">Geisterbahn</field>
+<field name="titleSort">Geisterbahn</field>
+<field name="composer">Volker Heyn</field>
+<field name="composerSort">Heyn, Volker</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Volker Heyn</field>
+<field name="librettistSort">Heyn, Volker</field>
+<field name="theater">Biennale</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Geisterbahn+Volker+Heyn&amp;search_field=search</field>
+</doc>
+</add>

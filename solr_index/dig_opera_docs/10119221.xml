@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119221</field>
+<field name="genre">Operas</field>
+<field name="title">La principessa Ulrica</field>
+<field name="titleSort">principessa Ulrica</field>
+<field name="composer">Luigi Mantegna</field>
+<field name="composerSort">Mantegna, Luigi</field>
+<field name="year">1898</field>
+<field name="date">1898</field><field name="theater">Teatro Eldorado</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+principessa+Ulrica+Luigi+Mantegna&amp;search_field=search</field>
+</doc>
+</add>

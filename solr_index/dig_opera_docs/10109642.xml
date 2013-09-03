@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10109642</field>
+<field name="genre">Operas</field>
+<field name="title">Don Molfetto</field>
+<field name="titleSort">Don Molfetto</field>
+<field name="composer">Giuseppe Ferri</field>
+<field name="composerSort">Ferri, Giuseppe</field>
+<field name="year">1894</field>
+<field name="date">1894</field><field name="theater">Teatro Ricci</field>
+<field name="city">Cremona</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Molfetto+Giuseppe+Ferri&amp;search_field=search</field>
+</doc>
+</add>

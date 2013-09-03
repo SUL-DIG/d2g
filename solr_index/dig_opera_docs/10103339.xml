@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103339</field>
+<field name="genre">Operas</field>
+<field name="title">Spanische Nacht</field>
+<field name="titleSort">Spanische Nacht</field>
+<field name="composer">Eugen Bodart</field>
+<field name="composerSort">Bodart, Eugen</field>
+<field name="year">1937</field>
+<field name="date">1937</field>
+<field name="librettist">Eugen Bodart</field>
+<field name="librettistSort">Bodart, Eugen</field>
+<field name="librettist">Heinrich Laube</field>
+<field name="librettistSort">Laube, Heinrich</field>
+<field name="theater">Nationaltheater</field>
+<field name="city">Mannheim</field>
+<field name="region">Baden-Württemberg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Spanische+Nacht+Eugen+Bodart&amp;search_field=search</field>
+</doc>
+</add>

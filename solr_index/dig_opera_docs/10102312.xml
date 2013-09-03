@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102312</field>
+<field name="genre">Operas</field>
+<field name="title">Il monte Parnasso</field>
+<field name="titleSort">monte Parnasso</field>
+<field name="composer">Antonio Bencini</field>
+<field name="composerSort">Bencini, Antonio</field>
+<field name="year">1739</field>
+<field name="date">1739</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Serenata</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+monte+Parnasso+Antonio+Bencini&amp;search_field=search</field>
+</doc>
+</add>

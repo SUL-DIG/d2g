@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103765</field>
+<field name="genre">Operas</field>
+<field name="title">Don Carlos</field>
+<field name="titleSort">Don Carlos</field>
+<field name="composer">Dmitry Stepanovich Bortnyansky</field>
+<field name="composerSort">Bortnyansky, Dmitry Stepanovich</field>
+<field name="year">1786</field>
+<field name="date">1786</field>
+<field name="librettist">François-Hermann Lafermière</field>
+<field name="librettistSort">Lafermière, François-Hermann</field>
+<field name="theater">Court</field>
+<field name="city">St. Petersburg</field>
+
+<field name="country">Russia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Carlos+Dmitry+Stepanovich+Bortnyansky&amp;search_field=search</field>
+</doc>
+</add>

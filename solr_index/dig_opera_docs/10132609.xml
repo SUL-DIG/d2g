@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10132609</field>
+<field name="genre">Operas</field>
+<field name="title">Lise og Peter</field>
+<field name="titleSort">Lise og Peter</field>
+<field name="composer">Søren Wedel</field>
+<field name="composerSort">Wedel, Søren</field>
+<field name="year">1793</field>
+<field name="date">1793</field>
+<field name="librettist">Hoegh Guldberg</field>
+<field name="librettistSort">Guldberg, Hoegh</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lise+og+Peter+Søren+Wedel&amp;search_field=search</field>
+</doc>
+</add>

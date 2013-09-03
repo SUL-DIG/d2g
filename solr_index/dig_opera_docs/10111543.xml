@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111543</field>
+<field name="genre">Operas</field>
+<field name="title">Enrico e Clotilde</field>
+<field name="titleSort">Enrico e Clotilde</field>
+<field name="composer">Tomás Genovés y Lapetra</field>
+<field name="composerSort">Lapetra, Tomás Genovés y</field>
+<field name="year">1831</field>
+<field name="date">1831</field>
+<field name="librettist">Felice Romani</field>
+<field name="librettistSort">Romani, Felice</field>
+<field name="theater">Teatro de la Cruz</field>
+<field name="city">Madrid</field>
+<field name="region">Madrid</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Enrico+e+Clotilde+Tomás+Genovés+y+Lapetra&amp;search_field=search</field>
+</doc>
+</add>

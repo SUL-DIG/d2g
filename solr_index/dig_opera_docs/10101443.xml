@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101443</field>
+<field name="genre">Operas</field>
+<field name="title">Die Bremer Stadtmusikanten</field>
+<field name="titleSort">Bremer Stadtmusikanten</field>
+<field name="composer">Hans Auenmüller</field>
+<field name="composerSort">Auenmüller, Hans</field>
+<field name="year">1972</field>
+<field name="date">1972</field>
+<field name="librettist">Hans-Hermann Krug</field>
+<field name="librettistSort">Krug, Hans-Hermann</field>
+<field name="librettist">Jakob &amp; Wilhelm Grimm</field>
+<field name="librettistSort">Grimm, Jakob &amp; Wilhelm</field>
+
+<field name="city">Thale</field>
+<field name="region">Sachsen-Anhalt</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Bremer+Stadtmusikanten+Hans+Auenmüller&amp;search_field=search</field>
+</doc>
+</add>

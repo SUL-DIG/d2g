@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115012</field>
+<field name="genre">Operas</field>
+<field name="title">I due avari</field>
+<field name="titleSort">due avari</field>
+<field name="composer">Nicolas Isouard</field>
+<field name="composerSort">Isouard, Nicolas</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Charles-Georges Fenouillot de Falbaire</field>
+<field name="librettistSort">Fenouillot de Falbaire, Charles-Georges</field>
+<field name="theater">Teatru Manoel</field>
+<field name="city">Valletta</field>
+
+<field name="country">Malta</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=I+due+avari+Nicolas+Isouard&amp;search_field=search</field>
+</doc>
+</add>

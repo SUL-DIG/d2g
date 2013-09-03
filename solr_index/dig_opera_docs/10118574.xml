@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118574</field>
+<field name="genre">Operas</field>
+<field name="title">Elisa</field>
+<field name="titleSort">Elisa</field>
+<field name="composer">Giovanni Lucantoni</field>
+<field name="composerSort">Lucantoni, Giovanni</field>
+<field name="year">1850</field>
+<field name="date">1850</field>
+<field name="librettist">Pietro Rotondi</field>
+<field name="librettistSort">Rotondi, Pietro</field>
+<field name="theater">Teatro Re</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisa+Giovanni+Lucantoni&amp;search_field=search</field>
+</doc>
+</add>

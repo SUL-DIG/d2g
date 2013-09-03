@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133143</field>
+<field name="genre">Operas</field>
+<field name="title">Sly ovvero La leggenda del dormiente risvegliato</field>
+<field name="titleSort">Sly ovvero La leggenda del dormiente risvegliato</field>
+<field name="composer">Ermanno Wolf-Ferrari</field>
+<field name="composerSort">Wolf-Ferrari, Ermanno</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Giovacchino Forzano</field>
+<field name="librettistSort">Forzano, Giovacchino</field>
+<field name="librettist">William Shakespeare</field>
+<field name="librettistSort">Shakespeare, William</field>
+<field name="theater">Teatro alla Scala</field>
+<field name="city">Milan</field>
+<field name="region">Lombardia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sly+ovvero+La+leggenda+del+dormiente+risvegliato+Ermanno+Wolf-Ferrari&amp;search_field=search</field>
+</doc>
+</add>

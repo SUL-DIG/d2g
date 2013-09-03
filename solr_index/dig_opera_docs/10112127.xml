@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112127</field>
+<field name="genre">Operas</field>
+<field name="title">En Naken Kung</field>
+<field name="titleSort">Naken Kung</field>
+<field name="composer">Werner Wolf Glaser</field>
+<field name="composerSort">Glaser, Werner Wolf</field>
+<field name="year">1973</field>
+<field name="date">1973</field>
+<field name="librettist">Etienne Glaser</field>
+<field name="librettistSort">Glaser, Etienne</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+<field name="theater">Stora Teatern</field>
+<field name="city">Göteborg</field>
+<field name="region">Göteborg och Bohus</field>
+<field name="country">Sweden</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=En+Naken+Kung+Werner+Wolf+Glaser&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112899</field>
+<field name="genre">Operas</field>
+<field name="title">Annemi's Liebe</field>
+<field name="titleSort">Annemi's Liebe</field>
+<field name="composer">Ernst Grunwald-Wissmann</field>
+<field name="composerSort">Grunwald-Wissmann, Ernst</field>
+<field name="year">1917</field>
+<field name="date">1917</field>
+<field name="librettist">Ernst Grunwald-Wissmann</field>
+<field name="librettistSort">Grunwald-Wissmann, Ernst</field>
+<field name="librettist">Sylvester Cramer</field>
+<field name="librettistSort">Cramer, Sylvester</field>
+<field name="theater">Bellevue-Theater</field>
+<field name="city">Szczecin</field>
+<field name="region">Zachodniopomorskie</field>
+<field name="country">Poland</field>
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Annemi's+Liebe+Ernst+Grunwald-Wissmann&amp;search_field=search</field>
+</doc>
+</add>

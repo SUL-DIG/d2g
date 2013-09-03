@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112384</field>
+<field name="genre">Operas</field>
+<field name="title">"Un'ereditа in Corsica, ossia La vendetta corsa</field>
+<field name="titleSort">"ereditа in Corsica, ossia La vendetta corsa"</field>
+<field name="composer">Luigi Gordigiani</field>
+<field name="composerSort">Gordigiani, Luigi</field>
+<field name="year">1847</field>
+<field name="date">1847</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="theater">Teatro di via del Cocomero</field>
+<field name="city">Florence</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un'ereditа+in+Corsica,+ossia+La+vendetta+corsa+Luigi+Gordigiani&amp;search_field=search</field>
+</doc>
+</add>

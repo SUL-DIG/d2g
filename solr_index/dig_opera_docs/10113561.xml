@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113561</field>
+<field name="genre">Operas</field>
+<field name="title">Sute-hime: shita o kamikitta onna</field>
+<field name="titleSort">Sute-hime: shita o kamikitta onna</field>
+<field name="composer">Kazuko Hara</field>
+<field name="composerSort">Hara, Kazuko</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Kazuko Hara</field>
+<field name="librettistSort">Hara, Kazuko</field>
+<field name="librettist">Saisei Muro</field>
+<field name="librettistSort">Muro, Saisei</field>
+<field name="theater">Shinjuku Bunka Center</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sute-hime:+shita+o+kamikitta+onna+Kazuko+Hara&amp;search_field=search</field>
+</doc>
+</add>

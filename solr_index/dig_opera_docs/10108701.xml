@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10108701</field>
+<field name="genre">Operas</field>
+<field name="title">Der Aufstand</field>
+<field name="titleSort">Aufstand</field>
+<field name="composer">Helmut Eder</field>
+<field name="composerSort">Eder, Helmut</field>
+<field name="year">1976</field>
+<field name="date">1976</field>
+<field name="librettist">Gertrud Fussenegger</field>
+<field name="librettistSort">Fussenegger, Gertrud</field>
+<field name="theater">Landestheater</field>
+<field name="city">Linz</field>
+<field name="region">Oberösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Aufstand+Helmut+Eder&amp;search_field=search</field>
+</doc>
+</add>

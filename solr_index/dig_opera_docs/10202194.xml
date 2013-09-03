@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202194</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Jésus de Béthanie</field>
+		<field name="titleSort">Jésus de Béthanie</field>
+		<field name="year">1901</field>
+		<field name="month">April</field>
+		<field name="day">3</field>
+		<field name="date">April 3, 1901</field>
+		<field name="composer">Adalbert Mercier</field>
+		<field name="composerSort">Mercier, Adalbert</field>
+		<field name="librettist">Émile Campobasso</field>
+		<field name="librettistSort">Campobasso, Émile</field>
+		
+		<field name="theater">Théâtre des Mathurins</field>
+		<field name="city">Paris</field>
+		
+		<field name="country">France</field>
+		<field name="subject">Bethany</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jésus+de+Béthanie+Adalbert+Mercier&amp;search_field=search</field>
+	</doc></add>

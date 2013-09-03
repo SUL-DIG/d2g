@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103722</field>
+<field name="genre">Operas</field>
+<field name="title">Der Eremit auf Formentara</field>
+<field name="titleSort">Eremit auf Formentara</field>
+<field name="composer">Johann Heinrich Karl Bornhardt</field>
+<field name="composerSort">Bornhardt, Johann Heinrich Karl</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">August von Kotzebue</field>
+<field name="librettistSort">Kotzebue, August von</field>
+
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Eremit+auf+Formentara+Johann+Heinrich+Karl+Bornhardt&amp;search_field=search</field>
+</doc>
+</add>

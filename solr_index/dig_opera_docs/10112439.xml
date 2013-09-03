@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112439</field>
+<field name="genre">Operas</field>
+<field name="title">Billy-Bill</field>
+<field name="titleSort">Billy-Bill</field>
+<field name="composer">Henri Goublier</field>
+<field name="composerSort">Goublier, Henri</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Georges Léglise</field>
+<field name="librettistSort">Léglise, Georges</field>
+<field name="librettist">[Lucien Max Rolland] Max Dearly</field>
+<field name="librettistSort">Dearly, Max [Lucien Max Rolland]</field>
+<field name="theater">Café-concert de la Scala</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Billy-Bill+Henri+Goublier&amp;search_field=search</field>
+</doc>
+</add>

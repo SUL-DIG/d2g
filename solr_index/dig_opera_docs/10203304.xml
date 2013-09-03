@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10203304</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Pastorum dialogus in Domini nativitate</field>
+		<field name="titleSort">Pastorum dialogus in Domini nativitate</field>
+		<field name="year">1746</field>
+		
+		
+		<field name="date">1746</field>
+		<field name="composer">Andrea Bernasconi</field>
+		<field name="composerSort">Bernasconi, Andrea</field>
+		
+		
+		
+		<field name="city">Venice</field>
+		<field name="region">Veneto</field>
+		<field name="country">Italy</field>
+		<field name="subject">The Annunciation to the Shepherds</field>
+		<field name="feastMonth">December</field>
+		<field name="feastDay">25</field>
+		<field name="feastDate">December 25</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pastorum+dialogus+in+Domini+nativitate+Andrea+Bernasconi&amp;search_field=search</field>
+	</doc></add>

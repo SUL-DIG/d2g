@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122153</field>
+<field name="genre">Operas</field>
+<field name="title">Cristina di Svezia</field>
+<field name="titleSort">Cristina di Svezia</field>
+<field name="composer">Alessandro Nini</field>
+<field name="composerSort">Nini, Alessandro</field>
+<field name="year">1840</field>
+<field name="date">1840</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="librettist">Giacomo Sacchèro</field>
+<field name="librettistSort">Sacchèro, Giacomo</field>
+<field name="theater">Teatro Carlo Felice</field>
+<field name="city">Genoa</field>
+<field name="region">Liguria</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Cristina+di+Svezia+Alessandro+Nini&amp;search_field=search</field>
+</doc>
+</add>

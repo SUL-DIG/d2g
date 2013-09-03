@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10122764</field>
+<field name="genre">Operas</field>
+<field name="title">La mariscala</field>
+<field name="titleSort">mariscala</field>
+<field name="composer">Luis Pacheco de Céspedes</field>
+<field name="composerSort">Céspedes, Luis Pacheco de</field>
+<field name="year">1942</field>
+<field name="date">1942</field>
+<field name="librettist">César Miró</field>
+<field name="librettistSort">Miró, César</field>
+
+<field name="city">Lima</field>
+
+<field name="country">Peru</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+mariscala+Luis+Pacheco+de+Céspedes&amp;search_field=search</field>
+</doc>
+</add>

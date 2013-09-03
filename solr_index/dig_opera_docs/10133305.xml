@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133305</field>
+<field name="genre">Operas</field>
+<field name="title">John Bull</field>
+<field name="titleSort">John Bull</field>
+<field name="composer">Ivan Zajc</field>
+<field name="composerSort">Zajc, Ivan</field>
+<field name="year">1906</field>
+<field name="date">1906</field>
+<field name="librettist">Ettore Generini</field>
+<field name="librettistSort">Generini, Ettore</field>
+
+<field name="city">Zagreb</field>
+
+<field name="country">Croatia</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=John+Bull+Ivan+Zajc&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125850</field>
+<field name="genre">Operas</field>
+<field name="title">Un segreto d'importanza</field>
+<field name="titleSort">segreto d'importanza</field>
+<field name="composer">Sergio Rendine</field>
+<field name="composerSort">Rendine, Sergio</field>
+<field name="year">1992</field>
+<field name="date">1992</field>
+<field name="librettist">Lorenzo Arruga</field>
+<field name="librettistSort">Arruga, Lorenzo</field>
+<field name="theater">Opéra</field>
+<field name="city">Monte Carlo</field>
+
+<field name="country">Monaco</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+segreto+d'importanza+Sergio+Rendine&amp;search_field=search</field>
+</doc>
+</add>

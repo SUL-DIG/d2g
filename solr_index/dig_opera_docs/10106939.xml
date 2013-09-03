@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106939</field>
+<field name="genre">Operas</field>
+<field name="title">Zulema (Gonzalvo di Cordova)</field>
+<field name="titleSort">Zulema (Gonzalvo di Cordova)</field>
+<field name="composer">Giuseppe Maria Curcio</field>
+<field name="composerSort">Curcio, Giuseppe Maria</field>
+<field name="year">1797</field>
+<field name="date">1797</field>
+<field name="librettist">Onorato Balsamo</field>
+<field name="librettistSort">Balsamo, Onorato</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zulema+Gonzalvo+di+Cordova+Giuseppe+Maria+Curcio&amp;search_field=search</field>
+</doc>
+</add>

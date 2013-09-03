@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106069</field>
+<field name="genre">Operas</field>
+<field name="title">Ilse</field>
+<field name="titleSort">Ilse</field>
+<field name="composer">Max Clarus</field>
+<field name="composerSort">Clarus, Max</field>
+<field name="year">1895</field>
+<field name="date">1895</field>
+<field name="librettist">Wilhelm Meves</field>
+<field name="librettistSort">Meves, Wilhelm</field>
+<field name="theater">Herzogliches Hoftheater</field>
+<field name="city">Brunswick</field>
+<field name="region">Niedersachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Ilse+Max+Clarus&amp;search_field=search</field>
+</doc>
+</add>

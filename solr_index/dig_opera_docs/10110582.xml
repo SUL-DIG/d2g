@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110582</field>
+<field name="genre">Operas</field>
+<field name="title">Sometime</field>
+<field name="titleSort">Sometime</field>
+<field name="composer">Rudolf Friml</field>
+<field name="composerSort">Friml, Rudolf</field>
+<field name="year">1918</field>
+<field name="date">1918</field>
+<field name="librettist">Rida Johnson Young</field>
+<field name="librettistSort">Young, Rida Johnson</field>
+<field name="theater">Shubert Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sometime+Rudolf+Friml&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10101048</field>
+<field name="genre">Operas</field>
+<field name="title">Elfrida</field>
+<field name="titleSort">Elfrida</field>
+<field name="composer">Thomas Augustine Arne</field>
+<field name="composerSort">Arne, Thomas Augustine</field>
+<field name="year">1772</field>
+<field name="date">1772</field>
+<field name="librettist">George Colman the elder</field>
+<field name="librettistSort">Colman the elder, George</field>
+<field name="librettist">William Mason</field>
+<field name="librettistSort">Mason, William</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elfrida+Thomas+Augustine+Arne&amp;search_field=search</field>
+</doc>
+</add>

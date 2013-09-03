@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202821</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">La morte di San Filippo Neri</field>
+		<field name="titleSort">morte di San Filippo Neri</field>
+		<field name="year">1734</field>
+		
+		
+		<field name="date">1734</field>
+		<field name="composer">Antonio Bencini</field>
+		<field name="composerSort">Bencini, Antonio</field>
+		<field name="librettist">Giovanni Gambogi</field>
+		<field name="librettistSort">Gambogi, Giovanni</field>
+		
+		
+		<field name="city">Rome</field>
+		<field name="region">Lazio</field>
+		<field name="country">Italy</field>
+		<field name="subject">Saint Philip Neri</field>
+		<field name="feastMonth">May</field>
+		<field name="feastDay">26</field>
+		<field name="feastDate">May 26</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+morte+di+San+Filippo+Neri+Antonio+Bencini&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115797</field>
+<field name="genre">Operas</field>
+<field name="title">Der Armenier</field>
+<field name="titleSort">Armenier</field>
+<field name="composer">Reinhard Keiser</field>
+<field name="composerSort">Keiser, Reinhard</field>
+<field name="year">1722</field>
+<field name="date">1722</field>
+<field name="librettist">Friedrich Maximilian Lersner</field>
+<field name="librettistSort">Lersner, Friedrich Maximilian"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Armenier+Reinhard+Keiser&amp;search_field=search</field>
+</doc>
+</add>

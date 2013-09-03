@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125598</field>
+<field name="genre">Operas</field>
+<field name="title">The Life Work of Juan Diaz</field>
+<field name="titleSort">Life Work of Juan Diaz</field>
+<field name="composer">Lawrence Rapchak</field>
+<field name="composerSort">Rapchak, Lawrence</field>
+<field name="year">1990</field>
+<field name="date">1990</field>
+<field name="librettist">Carl J. Ratner</field>
+<field name="librettistSort">Ratner, Carl J.</field>
+<field name="librettist">Ray Bradbury</field>
+<field name="librettistSort">Bradbury, Ray</field>
+<field name="theater">Ruth Page Auditorium</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Life+Work+of+Juan+Diaz+Lawrence+Rapchak&amp;search_field=search</field>
+</doc>
+</add>

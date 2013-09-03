@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116614</field>
+<field name="genre">Operas</field>
+<field name="title">La journée du 10 aoыt 1792</field>
+<field name="titleSort">journée du 10 aoыt 1792</field>
+<field name="composer">Rodolphe Kreutzer</field>
+<field name="composerSort">Kreutzer, Rodolphe</field>
+<field name="year">1795</field>
+<field name="date">1795</field>
+<field name="librettist">Guillaume Saulnier</field>
+<field name="librettistSort">Saulnier, Guillaume</field>
+<field name="librettist">__ Darrieux</field>
+<field name="librettistSort">Darrieux, __</field>
+<field name="theater">Opéra</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+journée+du+10+aoыt+1792+Rodolphe+Kreutzer&amp;search_field=search</field>
+</doc>
+</add>

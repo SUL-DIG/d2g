@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120565</field>
+<field name="genre">Operas</field>
+<field name="title">Don Frullone marchese di Lupino</field>
+<field name="titleSort">Don Frullone marchese di Lupino</field>
+<field name="composer">Benedetto Micheli</field>
+<field name="composerSort">Micheli, Benedetto</field>
+<field name="year">1737</field>
+<field name="date">1737</field>
+<field name="librettist">Benedetto Micheli</field>
+<field name="librettistSort">Micheli, Benedetto</field>
+<field name="theater">Teatro di via della Torre Argentina</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Don+Frullone+marchese+di+Lupino+Benedetto+Micheli&amp;search_field=search</field>
+</doc>
+</add>

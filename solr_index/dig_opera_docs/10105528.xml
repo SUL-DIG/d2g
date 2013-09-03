@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105528</field>
+<field name="genre">Operas</field>
+<field name="title">Pan et la Syrinx</field>
+<field name="titleSort">Pan et la Syrinx</field>
+<field name="composer">Jacques Chailley</field>
+<field name="composerSort">Chailley, Jacques</field>
+<field name="year">1946</field>
+<field name="date">1946</field>
+<field name="librettist">Jules Laforgue</field>
+<field name="librettistSort">Laforgue, Jules</field>
+<field name="theater">Radio-Paris</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Pan+et+la+Syrinx+Jacques+Chailley&amp;search_field=search</field>
+</doc>
+</add>

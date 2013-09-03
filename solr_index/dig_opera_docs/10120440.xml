@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120440</field>
+<field name="genre">Operas</field>
+<field name="title">La fée aux perles</field>
+<field name="titleSort">fée aux perles</field>
+<field name="composer">Olivier Métra</field>
+<field name="composerSort">Métra, Olivier</field>
+<field name="year">1880</field>
+<field name="date">1880</field>
+<field name="librettist">[Adolphe Philippe] Adolphe d'Ennery</field>
+<field name="librettistSort">d'Ennery, Adolphe [Adolphe Philippe]</field>
+<field name="librettist">[Paul Roucoux] Paul Burani</field>
+<field name="librettistSort">Burani, Paul [Paul Roucoux]</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fée+aux+perles+Olivier+Métra&amp;search_field=search</field>
+</doc>
+</add>

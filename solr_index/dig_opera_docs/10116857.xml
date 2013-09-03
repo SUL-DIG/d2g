@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116857</field>
+<field name="genre">Operas</field>
+<field name="title">Gensericus</field>
+<field name="titleSort">Gensericus</field>
+<field name="composer">Johann Sigismund Kusser</field>
+<field name="composerSort">Kusser, Johann Sigismund</field>
+<field name="year">1694</field>
+<field name="date">1694</field>
+<field name="librettist">Christian Heinrich Postel</field>
+<field name="librettistSort">Postel, Christian Heinrich</field>
+<field name="theater">Schauplatz am Gänsemarkt</field>
+<field name="city">Hamburg</field>
+<field name="region">Hamburg</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Gensericus+Johann+Sigismund+Kusser&amp;search_field=search</field>
+</doc>
+</add>

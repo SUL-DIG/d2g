@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121873</field>
+<field name="genre">Operas</field>
+<field name="title">Il circo Max</field>
+<field name="titleSort">circo Max</field>
+<field name="composer">Gino Negri</field>
+<field name="composerSort">Negri, Gino</field>
+<field name="year">1959</field>
+<field name="date">1959</field>
+<field name="librettist">Gino Negri</field>
+<field name="librettistSort">Negri, Gino</field>
+<field name="theater">Teatro La Fenice</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+circo+Max+Gino+Negri&amp;search_field=search</field>
+</doc>
+</add>

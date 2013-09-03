@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116727</field>
+<field name="genre">Operas</field>
+<field name="title">Euridice in Tartarus</field>
+<field name="titleSort">Euridice in Tartarus</field>
+<field name="composer">Friedrich Kuhlau</field>
+<field name="composerSort">Kuhlau, Friedrich</field>
+<field name="year">1816</field>
+<field name="date">1816</field>
+<field name="librettist">Jens Baggesen</field>
+<field name="librettistSort">Baggesen, Jens</field>
+<field name="theater">Det Kongelige Teater</field>
+<field name="city">Copenhagen</field>
+<field name="region">Hovedstaden</field>
+<field name="country">Denmark</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Euridice+in+Tartarus+Friedrich+Kuhlau&amp;search_field=search</field>
+</doc>
+</add>

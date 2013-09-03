@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114516</field>
+<field name="genre">Operas</field>
+<field name="title">Not I</field>
+<field name="titleSort">Not I</field>
+<field name="composer">Heinz Holliger</field>
+<field name="composerSort">Holliger, Heinz</field>
+<field name="year">1980</field>
+<field name="date">1980</field>
+<field name="librettist">Samuel Beckett</field>
+<field name="librettistSort">Beckett, Samuel</field>
+<field name="theater">Festival d'Avignon</field>
+<field name="city">Avignon</field>
+<field name="region">Vaucluse</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Not+I+Heinz+Holliger&amp;search_field=search</field>
+</doc>
+</add>

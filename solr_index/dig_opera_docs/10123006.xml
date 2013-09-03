@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10123006</field>
+<field name="genre">Operas</field>
+<field name="title">La finta contessa</field>
+<field name="titleSort">finta contessa</field>
+<field name="composer">Giovanni Paisiello</field>
+<field name="composerSort">Paisiello, Giovanni</field>
+<field name="year">1766</field>
+<field name="date">1766</field>
+<field name="librettist">Pietro Chiari</field>
+<field name="librettistSort">Chiari, Pietro</field>
+<field name="theater">Teatro Valle</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+finta+contessa+Giovanni+Paisiello&amp;search_field=search</field>
+</doc>
+</add>

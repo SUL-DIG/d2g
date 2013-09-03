@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102408</field>
+<field name="genre">Operas</field>
+<field name="title">Jertfirea Iphigeniei (Iphigenia's Sacrifice)</field>
+<field name="titleSort">Jertfirea Iphigeniei (Iphigenia's Sacrifice)</field>
+<field name="composer">Pascal Bentoiu</field>
+<field name="composerSort">Bentoiu, Pascal</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Adrian Pop</field>
+<field name="librettistSort">Pop, Adrian</field>
+<field name="librettist">Pascal Bentoiu</field>
+<field name="librettistSort">Bentoiu, Pascal</field>
+<field name="theater">Radio Bucharest</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Jertfirea+Iphigeniei+Iphigenia's+Sacrifice+Pascal+Bentoiu&amp;search_field=search</field>
+</doc>
+</add>

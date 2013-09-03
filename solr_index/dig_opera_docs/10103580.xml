@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103580</field>
+<field name="genre">Operas</field>
+<field name="title">La conquista del vello d'oro</field>
+<field name="titleSort">conquista del vello d'oro</field>
+<field name="composer">Antonio Maria Bononcini</field>
+<field name="composerSort">Bononcini, Antonio Maria</field>
+<field name="year">1717</field>
+<field name="date">1717</field>
+<field name="librettist">Flaminio Parisetti</field>
+<field name="librettistSort">Parisetti, Flaminio</field>
+<field name="theater">Teatro delle Commedie</field>
+<field name="city">Reggio nell'Emilia</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+conquista+del+vello+d'oro+Antonio+Maria+Bononcini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117524</field>
+<field name="genre">Operas</field>
+<field name="title">Wandernde Komödianten</field>
+<field name="titleSort">Wandernde Komödianten</field>
+<field name="composer">__ Lay</field>
+<field name="composerSort">Lay, __</field>
+<field name="year">1816</field>
+<field name="date">1816</field><field name="theater">Reithalle</field>
+<field name="city">Mainz</field>
+<field name="region">Rheinland-Pfalz</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wandernde+Komödianten+__+Lay&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133469</field>
+<field name="genre">Operas</field>
+<field name="title">Il signor Barilli</field>
+<field name="titleSort">signor Barilli</field>
+<field name="composer">Isidore-François-Antoine Zérézo de Tejada</field>
+<field name="composerSort">Tejada, Isidore-François-Antoine Zérézo de</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">[Jean Nicolas Gustave van Nieuvenhuysen] Gustave Vaëz</field>
+<field name="librettistSort">Vaëz, Gustave [Jean Nicolas Gustave van Nieuvenhuysen]</field>
+<field name="theater">Théâtre-Royal de la Monnaie</field>
+<field name="city">Brussels</field>
+<field name="region">Brabant</field>
+<field name="country">Belgium</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+signor+Barilli+Isidore-François-Antoine+Zérézo+de+Tejada&amp;search_field=search</field>
+</doc>
+</add>

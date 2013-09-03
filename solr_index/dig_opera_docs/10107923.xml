@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107923</field>
+<field name="genre">Operas</field>
+<field name="title">Scampagnola</field>
+<field name="titleSort">Scampagnola</field>
+<field name="composer">Stefano Donaudy</field>
+<field name="composerSort">Donaudy, Stefano</field>
+<field name="year">1898</field>
+<field name="date">1898</field><field name="theater">Private Performance</field>
+<field name="city">Palermo</field>
+<field name="region">Sicilia</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Scampagnola+Stefano+Donaudy&amp;search_field=search</field>
+</doc>
+</add>

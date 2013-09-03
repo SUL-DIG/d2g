@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10200404</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die betrübte Tochter Zion, oder die unter dem Kreuz nach Ruhe verlangende Seele</field>
+		<field name="titleSort">betrübte Tochter Zion, oder die unter dem Kreuz nach Ruhe verlangende Seele</field>
+		<field name="year">1732</field>
+		
+		
+		<field name="date">1732</field>
+		<field name="composer">Gregor Josef Werner</field>
+		<field name="composerSort">Werner, Gregor Josef</field>
+		
+		
+		<field name="theater">Schloss Esterháza</field>
+		<field name="city">Eisenstadt</field>
+		<field name="region">Burgenland</field>
+		<field name="country">Austria</field>
+		<field name="subject">The Daughters of Zion</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+betrübte+Tochter+Zion,+oder+die+unter+dem+Kreuz+nach+Ruhe+verlangende+Seele+Gregor+Josef+Werner&amp;search_field=search</field>
+	</doc></add>

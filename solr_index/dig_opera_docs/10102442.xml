@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102442</field>
+<field name="genre">Operas</field>
+<field name="title">Wozzeck</field>
+<field name="titleSort">Wozzeck</field>
+<field name="composer">Alban Berg</field>
+<field name="composerSort">Berg, Alban</field>
+<field name="year">1925</field>
+<field name="date">1925</field>
+<field name="librettist">Alban Berg</field>
+<field name="librettistSort">Berg, Alban</field>
+<field name="librettist">Georg Büchner</field>
+<field name="librettistSort">Büchner, Georg</field>
+<field name="theater">Staatsoper</field>
+<field name="city">Berlin</field>
+<field name="region">Berlin</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Wozzeck+Alban+Berg&amp;search_field=search</field>
+</doc>
+</add>

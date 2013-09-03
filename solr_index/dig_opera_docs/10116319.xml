@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10116319</field>
+<field name="genre">Operas</field>
+<field name="title">Knez od Zete (The Prince of Zeta)</field>
+<field name="titleSort">Knez od Zete (The Prince of Zeta)</field>
+<field name="composer">Petar Konjovic</field>
+<field name="composerSort">Konjovic, Petar</field>
+<field name="year">1929</field>
+<field name="date">1929</field>
+<field name="librettist">Laza Kostic</field>
+<field name="librettistSort">Kostic, Laza</field>
+<field name="theater">Narodno Pozorista</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Knez+od+Zete+The+Prince+of+Zeta+Petar+Konjovic&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117555</field>
+<field name="genre">Operas</field>
+<field name="title">Hariadan Barberousse</field>
+<field name="titleSort">Hariadan Barberousse</field>
+<field name="composer">__ Leblanc</field>
+<field name="composerSort">Leblanc, __</field>
+<field name="year">1809</field>
+<field name="date">1809</field>
+<field name="librettist">L.-A. Lamarque de Saint-Victor</field>
+<field name="librettistSort">Lamarque de Saint-Victor, L.-A.</field>
+<field name="librettist">[Jean-Baptiste Labenette] Corsse</field>
+<field name="librettistSort">Corsse, [Jean-Baptiste Labenette]</field>
+<field name="theater">Théâtre de l'Ambigu-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Hariadan+Barberousse+__+Leblanc&amp;search_field=search</field>
+</doc>
+</add>

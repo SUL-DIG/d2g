@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10111535</field>
+<field name="genre">Operas</field>
+<field name="title">On ne s'avise jamais de tout</field>
+<field name="titleSort">On ne s'avise jamais de tout</field>
+<field name="composer">François Génin</field>
+<field name="composerSort">Génin, François</field>
+<field name="year">1843</field>
+<field name="date">1843</field>
+<field name="librettist">Michel-Jean Sedaine</field>
+<field name="librettistSort">Sedaine, Michel-Jean</field>
+<field name="librettist">Jean de La Fontaine</field>
+<field name="librettistSort">La Fontaine, Jean de</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=On+ne+s'avise+jamais+de+tout+François+Génin&amp;search_field=search</field>
+</doc>
+</add>

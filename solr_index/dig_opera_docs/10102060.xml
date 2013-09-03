@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10102060</field>
+<field name="genre">Operas</field>
+<field name="title">Lazarus</field>
+<field name="titleSort">Lazarus</field>
+<field name="composer">Harold Gene Bauer</field>
+<field name="composerSort">Bauer, Harold Gene</field>
+<field name="year">1965</field>
+<field name="date">1965</field>
+<field name="librettist">Jack Anderson</field>
+<field name="librettistSort">Anderson, Jack</field>
+<field name="theater">Lake Forest Chamber Orchestra</field>
+<field name="city">Lake Forest</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Lazarus+Harold+Gene+Bauer&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114404</field>
+<field name="genre">Operas</field>
+<field name="title">Die Maske</field>
+<field name="titleSort">Maske</field>
+<field name="composer">Ernst Theodor Amadeus Hoffmann</field>
+<field name="composerSort">Hoffmann, Ernst Theodor Amadeus</field>
+<field name="year">1799</field>
+<field name="date">1799</field>
+<field name="librettist">Ernst Theodor Amadeus Hoffmann</field>
+<field name="librettistSort">Hoffmann, Ernst Theodor Amadeus"</field>
+
+<field name="subgenre">Singspiel</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Maske+Ernst+Theodor+Amadeus+Hoffmann&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10115904</field>
+<field name="genre">Operas</field>
+<field name="title">Two Little Brides</field>
+<field name="titleSort">Two Little Brides</field>
+<field name="composer">Gustave Kerker</field>
+<field name="composerSort">Kerker, Gustave</field>
+<field name="year">1912</field>
+<field name="date">1912</field>
+<field name="librettist">Arthur Anderson</field>
+<field name="librettistSort">Anderson, Arthur</field>
+<field name="librettist">Harold Atteridge</field>
+<field name="librettistSort">Atteridge, Harold</field>
+<field name="theater">Casino Theater</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Two+Little+Brides+Gustave+Kerker&amp;search_field=search</field>
+</doc>
+</add>

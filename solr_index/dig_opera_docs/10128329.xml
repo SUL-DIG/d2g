@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10128329</field>
+<field name="genre">Operas</field>
+<field name="title">The Lady of the Lake</field>
+<field name="titleSort">Lady of the Lake</field>
+<field name="composer">Karl Schmidt (2)</field>
+<field name="composerSort">Schmidt (2), Karl</field>
+<field name="year">1931</field>
+<field name="date">1931</field>
+<field name="librettist">Wallace Taylor Hughes</field>
+<field name="librettistSort">Hughes, Wallace Taylor</field>
+<field name="librettist">Walter Scott</field>
+<field name="librettistSort">Scott, Walter</field>
+<field name="theater">American Opera Society</field>
+<field name="city">Chicago</field>
+<field name="region">Illinois</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Lady+of+the+Lake+Karl+Schmidt+-2&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10105090</field>
+<field name="genre">Operas</field>
+<field name="title">Maria Antonietta</field>
+<field name="titleSort">Maria Antonietta</field>
+<field name="composer">Pavlos Carrer</field>
+<field name="composerSort">Carrer, Pavlos</field>
+<field name="year">1884</field>
+<field name="date">1884</field>
+<field name="librettist">Georgios Kandianos Romas</field>
+<field name="librettistSort">Romas, Georgios Kandianos</field>
+<field name="theater">Teatro Foscolo</field>
+<field name="city">Zákinthos</field>
+<field name="region">Zákinthos</field>
+<field name="country">Greece</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Maria+Antonietta+Pavlos+Carrer&amp;search_field=search</field>
+</doc>
+</add>

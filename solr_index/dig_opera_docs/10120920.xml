@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120920</field>
+<field name="genre">Operas</field>
+<field name="title">Mignonne</field>
+<field name="titleSort">Mignonne</field>
+<field name="composer">Eugène Moniot</field>
+<field name="composerSort">Moniot, Eugène</field>
+<field name="year">1876</field>
+<field name="date">1876</field>
+<field name="librettist">Eugène Moniot</field>
+<field name="librettistSort">Moniot, Eugène</field>
+<field name="theater">Théâtre des Bouffes-Parisiens</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mignonne+Eugène+Moniot&amp;search_field=search</field>
+</doc>
+</add>

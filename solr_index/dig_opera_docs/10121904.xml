@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10121904</field>
+<field name="genre">Operas</field>
+<field name="title">Der Richter von Kaschau</field>
+<field name="titleSort">Richter von Kaschau</field>
+<field name="composer">Otto Neitzel</field>
+<field name="composerSort">Neitzel, Otto</field>
+<field name="year">1916</field>
+<field name="date">1916</field>
+<field name="librettist">Otto Neitzel</field>
+<field name="librettistSort">Neitzel, Otto</field>
+<field name="librettist">Mór Jókai</field>
+<field name="librettistSort">Jókai, Mór</field>
+<field name="theater">Grossherzogliches Hoftheater</field>
+<field name="city">Darmstadt</field>
+<field name="region">Hessen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Richter+von+Kaschau+Otto+Neitzel&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114797</field>
+<field name="genre">Operas</field>
+<field name="title">Die Stadt</field>
+<field name="titleSort">Stadt</field>
+<field name="composer">Franz Human</field>
+<field name="composerSort">Human, Franz</field>
+<field name="year">1948</field>
+<field name="date">1948</field>
+<field name="librettist">Franz Human</field>
+<field name="librettistSort">Human, Franz</field>
+
+<field name="city">Weitra</field>
+<field name="region">Niederösterreich</field>
+<field name="country">Austria</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Stadt+Franz+Human&amp;search_field=search</field>
+</doc>
+</add>

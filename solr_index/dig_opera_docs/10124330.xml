@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124330</field>
+<field name="genre">Operas</field>
+<field name="title">The King of the Danube</field>
+<field name="titleSort">King of the Danube</field>
+<field name="composer">Auguste Pilati</field>
+<field name="composerSort">Pilati, Auguste</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">John Baldwin Buckstone</field>
+<field name="librettistSort">Buckstone, John Baldwin</field>
+<field name="theater">Adelphi Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+King+of+the+Danube+Auguste+Pilati&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10202047</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Isacco</field>
+		<field name="titleSort">Isacco</field>
+		<field name="year">1757</field>
+		<field name="month">April</field>
+		<field name="day">8</field>
+		<field name="date">April 8, 1757</field>
+		<field name="composer">Ignaz Holzbauer</field>
+		<field name="composerSort">Holzbauer, Ignaz</field>
+		<field name="librettist">Pietro Metastasio</field>
+		<field name="librettistSort">Metastasio, Pietro</field>
+		
+		<field name="theater">Cappella elettorale Palatina</field>
+		<field name="city">Mannheim</field>
+		<field name="region">Baden-Württemberg</field>
+		<field name="country">Germany</field>
+		<field name="subject">Abraham and Isaac</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Isacco+Ignaz+Holzbauer&amp;search_field=search</field>
+	</doc></add>

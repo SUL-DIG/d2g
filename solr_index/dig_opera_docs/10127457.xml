@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127457</field>
+<field name="genre">Operas</field>
+<field name="title">Punainen viiva (The Red Line)</field>
+<field name="titleSort">Punainen viiva (The Red Line)</field>
+<field name="composer">Aulis Sallinen</field>
+<field name="composerSort">Sallinen, Aulis</field>
+<field name="year">1978</field>
+<field name="date">1978</field>
+<field name="librettist">Aulis Sallinen</field>
+<field name="librettistSort">Sallinen, Aulis</field>
+<field name="librettist">Ilmari Kianto</field>
+<field name="librettistSort">Kianto, Ilmari</field>
+<field name="theater">Suomen Kansallisooppera</field>
+<field name="city">Helsinki</field>
+<field name="region">Uudenmaan</field>
+<field name="country">Finland</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Punainen+viiva+The+Red+Line+Aulis+Sallinen&amp;search_field=search</field>
+</doc>
+</add>

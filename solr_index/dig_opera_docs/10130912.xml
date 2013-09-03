@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10130912</field>
+<field name="genre">Operas</field>
+<field name="title">Le panier fleuri</field>
+<field name="titleSort">panier fleuri</field>
+<field name="composer">Ambroise Thomas</field>
+<field name="composerSort">Thomas, Ambroise</field>
+<field name="year">1839</field>
+<field name="date">1839</field>
+<field name="librettist">[Adolphe de Ribbing] Adolphe de Leuven</field>
+<field name="librettistSort">Leuven, Adolphe de [Adolphe de Ribbing]</field>
+<field name="librettist">[Léon Lhérie] Brunswick</field>
+<field name="librettistSort">Brunswick, [Léon Lhérie]</field>
+<field name="theater">Opéra-Comique</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+panier+fleuri+Ambroise+Thomas&amp;search_field=search</field>
+</doc>
+</add>

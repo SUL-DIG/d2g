@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104595</field>
+<field name="genre">Operas</field>
+<field name="title">"Il vecchio della montagna, ossia L'Emiro</field>
+<field name="titleSort">"vecchio della montagna, ossia L'Emiro"</field>
+<field name="composer">Antonio Cagnoni</field>
+<field name="composerSort">Cagnoni, Antonio</field>
+<field name="year">1860</field>
+<field name="date">1860</field>
+<field name="librettist">Francesco Guidi</field>
+<field name="librettistSort">Guidi, Francesco</field>
+<field name="theater">Teatro Carignano</field>
+<field name="city">Turin</field>
+<field name="region">Piemonte</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+vecchio+della+montagna,+ossia+L'Emiro+Antonio+Cagnoni&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117246</field>
+<field name="genre">Operas</field>
+<field name="title">"Félime et Tangut, ou Le pied de nez</field>
+<field name="titleSort">"Félime et Tangut, ou Le pied de nez"</field>
+<field name="composer">J. Lanusse</field>
+<field name="composerSort">Lanusse, J.</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Hyacinthe Antoine Pessey</field>
+<field name="librettistSort">Pessey, Hyacinthe Antoine</field>
+<field name="librettist">Pierre Villiers</field>
+<field name="librettistSort">Villiers, Pierre</field>
+<field name="theater">Théâtre de la Gaîté</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Félime+et+Tangut,+ou+Le+pied+de+nez+J.+Lanusse&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104148</field>
+<field name="genre">Operas</field>
+<field name="title">Billy Budd</field>
+<field name="titleSort">Billy Budd</field>
+<field name="composer">Benjamin Britten</field>
+<field name="composerSort">Britten, Benjamin</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Eric Crozier</field>
+<field name="librettistSort">Crozier, Eric</field>
+<field name="librettist">Edward Morgan Forster</field>
+<field name="librettistSort">Forster, Edward Morgan</field>
+<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Billy+Budd+Benjamin+Britten&amp;search_field=search</field>
+</doc>
+</add>

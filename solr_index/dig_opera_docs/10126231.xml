@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126231</field>
+<field name="genre">Operas</field>
+<field name="title">La Giocondina</field>
+<field name="titleSort">Giocondina</field>
+<field name="composer">Rinaldo di Capua</field>
+<field name="composerSort">Capua, Rinaldo di</field>
+<field name="year">1778</field>
+<field name="date">1778</field><field name="theater">Teatro della Pace</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+Giocondina+Rinaldo+di+Capua&amp;search_field=search</field>
+</doc>
+</add>

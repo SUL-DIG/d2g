@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110627</field>
+<field name="genre">Operas</field>
+<field name="title">Una mollia</field>
+<field name="titleSort">mollia</field>
+<field name="composer">Francesco Paolo Frontini</field>
+<field name="composerSort">Frontini, Francesco Paolo</field>
+<field name="year">1893</field>
+<field name="date">1893</field>
+<field name="librettist">Luigi Capuana</field>
+<field name="librettistSort">Capuana, Luigi</field>
+<field name="theater">Teatro Brunetti</field>
+<field name="city">Bologna</field>
+<field name="region">Emilia-Romagna</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Una+mollia+Francesco+Paolo+Frontini&amp;search_field=search</field>
+</doc>
+</add>

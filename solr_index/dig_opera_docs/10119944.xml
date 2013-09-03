@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119944</field>
+<field name="genre">Operas</field>
+<field name="title">Di locanda in locanda e sempre in sala</field>
+<field name="titleSort">Di locanda in locanda e sempre in sala</field>
+<field name="composer">Simon Mayr</field>
+<field name="composerSort">Mayr, Simon</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Luigi Buonavoglia</field>
+<field name="librettistSort">Buonavoglia, Luigi"</field>
+
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Di+locanda+in+locanda+e+sempre+in+sala+Simon+Mayr&amp;search_field=search</field>
+</doc>
+</add>

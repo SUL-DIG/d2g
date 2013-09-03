@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124472</field>
+<field name="genre">Operas</field>
+<field name="title">Rip Van Winkle</field>
+<field name="titleSort">Rip Van Winkle</field>
+<field name="composer">Robert Planquette</field>
+<field name="composerSort">Planquette, Robert</field>
+<field name="year">1882</field>
+<field name="date">1882</field>
+<field name="librettist">Henry Brougham Farnie</field>
+<field name="librettistSort">Farnie, Henry Brougham</field>
+<field name="librettist">Washington Irving</field>
+<field name="librettistSort">Irving, Washington</field>
+<field name="theater">Comedy Theatre</field>
+<field name="city">London</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rip+Van+Winkle+Robert+Planquette&amp;search_field=search</field>
+</doc>
+</add>

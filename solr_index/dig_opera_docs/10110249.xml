@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10110249</field>
+<field name="genre">Operas</field>
+<field name="title">Il marno</field>
+<field name="titleSort">marno</field>
+<field name="composer">Nicola Fornasini</field>
+<field name="composerSort">Fornasini, Nicola</field>
+<field name="year">1822</field>
+<field name="date">1822</field><field name="theater">Conservatorio di San Sebastiano</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+marno+Nicola+Fornasini&amp;search_field=search</field>
+</doc>
+</add>

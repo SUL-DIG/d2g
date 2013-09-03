@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107307</field>
+<field name="genre">Operas</field>
+<field name="title">Il bosco di Dafne</field>
+<field name="titleSort">bosco di Dafne</field>
+<field name="composer">Nicola De Giosa</field>
+<field name="composerSort">Giosa, Nicola De</field>
+<field name="year">1864</field>
+<field name="date">1864</field>
+<field name="librettist">Michele Achille Bianchi</field>
+<field name="librettistSort">Bianchi, Michele Achille</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+bosco+di+Dafne+Nicola+De+Giosa&amp;search_field=search</field>
+</doc>
+</add>

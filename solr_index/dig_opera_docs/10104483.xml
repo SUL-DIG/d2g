@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10104483</field>
+<field name="genre">Operas</field>
+<field name="title">Titon et l'Aurore</field>
+<field name="titleSort">Titon et l'Aurore</field>
+<field name="composer">Bernard de Bury</field>
+<field name="composerSort">Bury, Bernard de</field>
+<field name="year">1750</field>
+<field name="date">1750</field>
+<field name="librettist">Pierre-Charles Roy</field>
+<field name="librettistSort">Roy, Pierre-Charles</field>
+<field name="theater">Théâtre des Petits Appartemens</field>
+<field name="city">Versailles</field>
+<field name="region">Yvelines</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Titon+et+l'Aurore+Bernard+de+Bury&amp;search_field=search</field>
+</doc>
+</add>

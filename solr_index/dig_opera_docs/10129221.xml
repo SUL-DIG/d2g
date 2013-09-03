@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129221</field>
+<field name="genre">Operas</field>
+<field name="title">Joli coeur</field>
+<field name="titleSort">Joli coeur</field>
+<field name="composer">Charles de Sivry</field>
+<field name="composerSort">Sivry, Charles de</field>
+<field name="year">1877</field>
+<field name="date">1877</field>
+<field name="librettist">__ Mettez</field>
+<field name="librettistSort">Mettez, __</field>
+<field name="theater">Théâtre des Fantaisies-Oller</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Joli+coeur+Charles+de+Sivry&amp;search_field=search</field>
+</doc>
+</add>

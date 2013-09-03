@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107021</field>
+<field name="genre">Operas</field>
+<field name="title">Il gran Tamerlano</field>
+<field name="titleSort">gran Tamerlano</field>
+<field name="composer">Daniel Dal Barba</field>
+<field name="composerSort">Dal Barba, Daniel</field>
+<field name="year">1746</field>
+<field name="date">1746</field>
+<field name="librettist">Verdacchio Predamosche</field>
+<field name="librettistSort">Predamosche, Verdacchio</field>
+<field name="theater">Teatro Vendramin di San Salvatore</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+gran+Tamerlano+Daniel+Dal+Barba&amp;search_field=search</field>
+</doc>
+</add>

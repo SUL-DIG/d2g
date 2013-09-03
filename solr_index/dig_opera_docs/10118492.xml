@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118492</field>
+<field name="genre">Operas</field>
+<field name="title">Fiammetta</field>
+<field name="titleSort">Fiammetta</field>
+<field name="composer">Alessandro Lotti</field>
+<field name="composerSort">Lotti, Alessandro</field>
+<field name="year">1923</field>
+<field name="date">1923</field>
+<field name="librettist">Pietro Bernini</field>
+<field name="librettistSort">Bernini, Pietro</field>
+<field name="theater">Teatro Rossini</field>
+<field name="city">Livorno</field>
+<field name="region">Toscana</field>
+<field name="country">Italy</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fiammetta+Alessandro+Lotti&amp;search_field=search</field>
+</doc>
+</add>

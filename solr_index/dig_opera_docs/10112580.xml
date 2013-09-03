@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10112580</field>
+<field name="genre">Operas</field>
+<field name="title">Nova Lux</field>
+<field name="titleSort">Nova Lux</field>
+<field name="composer">Carlo Granozio</field>
+<field name="composerSort">Granozio, Carlo</field>
+<field name="year">1902</field>
+<field name="date">1902</field>
+<field name="librettist">Faust Hermann</field>
+<field name="librettistSort">Hermann, Faust</field>
+<field name="theater">Teatro Adriano</field>
+<field name="city">Rome</field>
+<field name="region">Lazio</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Nova+Lux+Carlo+Granozio&amp;search_field=search</field>
+</doc>
+</add>

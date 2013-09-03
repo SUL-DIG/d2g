@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129114</field>
+<field name="genre">Operas</field>
+<field name="title">Der Weiberfeind</field>
+<field name="titleSort">Weiberfeind</field>
+<field name="composer">Philipp Silber</field>
+<field name="composerSort">Silber, Philipp</field>
+<field name="year">1898</field>
+<field name="date">1898</field>
+<field name="librettist">Karl Georg Zwerenz</field>
+<field name="librettistSort">Zwerenz, Karl Georg</field>
+
+<field name="city">Vienna</field>
+
+<field name="country">Austria</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Weiberfeind+Philipp+Silber&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10114434</field>
+<field name="genre">Operas</field>
+<field name="title">The Fall of the House of Usher</field>
+<field name="titleSort">Fall of the House of Usher</field>
+<field name="composer">Hendrik Pienaar Hofmeyr</field>
+<field name="composerSort">Hofmeyr, Hendrik Pienaar</field>
+<field name="year">1988</field>
+<field name="date">1988</field>
+<field name="librettist">Hendrik Pienaar Hofmeyr</field>
+<field name="librettistSort">Hofmeyr, Hendrik Pienaar</field>
+<field name="librettist">Edgar Allan Poe</field>
+<field name="librettistSort">Poe, Edgar Allan</field>
+<field name="theater">"Arena, State Theatre"</field>
+<field name="city">Pretoria</field>
+<field name="region">Gauteng</field>
+<field name="country">South Africa</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Fall+of+the+House+of+Usher+Hendrik+Pienaar+Hofmeyr&amp;search_field=search</field>
+</doc>
+</add>

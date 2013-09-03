@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10120395</field>
+<field name="genre">Operas</field>
+<field name="title">Antigone</field>
+<field name="titleSort">Antigone</field>
+<field name="composer">Marjorie Merryman</field>
+<field name="composerSort">Merryman, Marjorie</field>
+<field name="year">1986</field>
+<field name="date">1986</field>
+<field name="librettist">Marjorie Merryman</field>
+<field name="librettistSort">Merryman, Marjorie</field>
+<field name="theater">Boston University</field>
+<field name="city">Boston</field>
+<field name="region">Massachussets</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Antigone+Marjorie+Merryman&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10118929</field>
+<field name="genre">Operas</field>
+<field name="title">Mélusine</field>
+<field name="titleSort">Mélusine</field>
+<field name="composer">Louis Maingueneau</field>
+<field name="composerSort">Maingueneau, Louis</field>
+<field name="year">1913</field>
+<field name="date">1913</field>
+<field name="librettist">Louis Blanpain de Saint Mars</field>
+<field name="librettistSort">Blanpain de Saint Mars, Louis</field>
+<field name="librettist">Henri Aucher</field>
+<field name="librettistSort">Aucher, Henri</field>
+<field name="theater">Théâtre Municipal</field>
+<field name="city">Nantes</field>
+<field name="region">Loire-Atlantique</field>
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Mélusine+Louis+Maingueneau&amp;search_field=search</field>
+</doc>
+</add>

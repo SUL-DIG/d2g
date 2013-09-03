@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10106763</field>
+<field name="genre">Operas</field>
+<field name="title">"Elisa, regina di Tiro</field>
+<field name="titleSort">"Elisa, regina di Tiro"</field>
+<field name="composer">Antonio Costantini</field>
+<field name="composerSort">Costantini, Antonio</field>
+<field name="year">1738</field>
+<field name="date">1738</field>
+<field name="librettist">Apostolo Zeno</field>
+<field name="librettistSort">Zeno, Apostolo</field>
+<field name="librettist">Pietro Pariati</field>
+<field name="librettistSort">Pariati, Pietro</field>
+<field name="theater">Mingotti Company</field>
+<field name="city">Brno</field>
+<field name="region">Jihomoravsky Kraj</field>
+<field name="country">Czech Republic</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Elisa,+regina+di+Tiro+Antonio+Costantini&amp;search_field=search</field>
+</doc>
+</add>

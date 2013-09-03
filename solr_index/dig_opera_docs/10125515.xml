@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10125515</field>
+<field name="genre">Operas</field>
+<field name="title">Karadjordje</field>
+<field name="titleSort">Karadjordje</field>
+<field name="composer">Stanojlo Rajicic</field>
+<field name="composerSort">Rajicic, Stanojlo</field>
+<field name="year">1977</field>
+<field name="date">1977</field>
+<field name="librettist">Ivan Studen</field>
+<field name="librettistSort">Studen, Ivan</field>
+<field name="theater">Belgrade Television</field>
+<field name="city">Belgrade</field>
+
+<field name="country">Serbia</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Karadjordje+Stanojlo+Rajicic&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113843</field>
+<field name="genre">Operas</field>
+<field name="title">The Bachelor Mouse</field>
+<field name="titleSort">Bachelor Mouse</field>
+<field name="composer">Michael Head</field>
+<field name="composerSort">Head, Michael</field>
+<field name="year">1951</field>
+<field name="date">1951</field>
+<field name="librettist">Nancy Bush</field>
+<field name="librettistSort">Bush, Nancy</field>
+
+<field name="city">Hampstead</field>
+<field name="region">Greater London</field>
+<field name="country">United Kingdom</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Bachelor+Mouse+Michael+Head&amp;search_field=search</field>
+</doc>
+</add>

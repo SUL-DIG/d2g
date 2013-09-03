@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10126005</field>
+<field name="genre">Operas</field>
+<field name="title">Satuala</field>
+<field name="titleSort">Satuala</field>
+<field name="composer">Emil Nikolaus von Reznicek</field>
+<field name="composerSort">Reznicek, Emil Nikolaus von</field>
+<field name="year">1927</field>
+<field name="date">1927</field>
+<field name="librettist">Rolf Lauckner</field>
+<field name="librettistSort">Lauckner, Rolf</field>
+<field name="theater">Neues Stadttheater</field>
+<field name="city">Leipzig</field>
+<field name="region">Sachsen</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Satuala+Emil+Nikolaus+von+Reznicek&amp;search_field=search</field>
+</doc>
+</add>

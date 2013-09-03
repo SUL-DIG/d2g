@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10124411</field>
+<field name="genre">Operas</field>
+<field name="title">Il Leandro</field>
+<field name="titleSort">Leandro</field>
+<field name="composer">Francesco Antonio Pistocchi</field>
+<field name="composerSort">Pistocchi, Francesco Antonio</field>
+<field name="year">1679</field>
+<field name="date">1679</field>
+<field name="librettist">Camillo Badovero</field>
+<field name="librettistSort">Badovero, Camillo</field>
+<field name="theater">Riva delle Zattere</field>
+<field name="city">Venice</field>
+<field name="region">Veneto</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+Leandro+Francesco+Antonio+Pistocchi&amp;search_field=search</field>
+</doc>
+</add>

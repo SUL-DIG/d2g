@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107117</field>
+<field name="genre">Operas</field>
+<field name="title">Iphigenie in Aulis</field>
+<field name="titleSort">Iphigenie in Aulis</field>
+<field name="composer">Franz Danzi</field>
+<field name="composerSort">Danzi, Franz</field>
+<field name="year">1807</field>
+<field name="date">1807</field>
+<field name="librettist">Karl Reger</field>
+<field name="librettistSort">Reger, Karl</field>
+<field name="theater">Residenztheater (Cuvilliéstheater)</field>
+<field name="city">Munich</field>
+<field name="region">Bayern</field>
+<field name="country">Germany</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Iphigenie+in+Aulis+Franz+Danzi&amp;search_field=search</field>
+</doc>
+</add>

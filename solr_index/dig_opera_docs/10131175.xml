@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131175</field>
+<field name="genre">Operas</field>
+<field name="title">Angelica e Medoro</field>
+<field name="titleSort">Angelica e Medoro</field>
+<field name="composer">Antonio Tozzi</field>
+<field name="composerSort">Tozzi, Antonio</field>
+<field name="year">1805</field>
+<field name="date">1805</field>
+<field name="librettist">Gaetano Sertor</field>
+<field name="librettistSort">Sertor, Gaetano</field>
+<field name="librettist">Ludovico Ariosto</field>
+<field name="librettistSort">Ariosto, Ludovico</field>
+<field name="theater">Teatre Principal</field>
+<field name="city">Barcelona</field>
+<field name="region">Catalunya</field>
+<field name="country">Spain</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Angelica+e+Medoro+Antonio+Tozzi&amp;search_field=search</field>
+</doc>
+</add>

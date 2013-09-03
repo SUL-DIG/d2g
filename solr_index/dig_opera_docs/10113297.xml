@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10113297</field>
+<field name="genre">Operas</field>
+<field name="title">A Night in Old Paris</field>
+<field name="titleSort">Night in Old Paris</field>
+<field name="composer">Henry Hadley</field>
+<field name="composerSort">Hadley, Henry</field>
+<field name="year">1924</field>
+<field name="date">1924</field>
+<field name="librettist">Frederick Truesdell</field>
+<field name="librettistSort">Truesdell, Frederick</field>
+<field name="librettist">Glen MacDonough</field>
+<field name="librettistSort">MacDonough, Glen</field>
+<field name="theater">Private Performance</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=A+Night+in+Old+Paris+Henry+Hadley&amp;search_field=search</field>
+</doc>
+</add>

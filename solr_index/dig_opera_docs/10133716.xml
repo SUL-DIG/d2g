@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10133716</field>
+<field name="genre">Operas</field>
+<field name="title">Magdalena</field>
+<field name="titleSort">Magdalena</field>
+<field name="composer">Alexander Tache Zissus</field>
+<field name="composerSort">Zissus, Alexander Tache</field>
+<field name="year">1861</field>
+<field name="date">1861</field><field name="theater">Teatrul National</field>
+<field name="city">Bucharest</field>
+
+<field name="country">Romania</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Magdalena+Alexander+Tache+Zissus&amp;search_field=search</field>
+</doc>
+</add>

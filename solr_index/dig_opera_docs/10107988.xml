@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10107988</field>
+<field name="genre">Operas</field>
+<field name="title">"Roberto Devereux, ossia Il conte di Essex</field>
+<field name="titleSort">"Roberto Devereux, ossia Il conte di Essex"</field>
+<field name="composer">Gaetano Donizetti</field>
+<field name="composerSort">Donizetti, Gaetano</field>
+<field name="year">1837</field>
+<field name="date">1837</field>
+<field name="librettist">Salvadore Cammarano</field>
+<field name="librettistSort">Cammarano, Salvadore</field>
+<field name="librettist">François Ancelot</field>
+<field name="librettistSort">Ancelot, François</field>
+<field name="theater">Teatro San Carlo</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Roberto+Devereux,+ossia+Il+conte+di+Essex+Gaetano+Donizetti&amp;search_field=search</field>
+</doc>
+</add>

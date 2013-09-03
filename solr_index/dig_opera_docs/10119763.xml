@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10119763</field>
+<field name="genre">Operas</field>
+<field name="title">Sara</field>
+<field name="titleSort">Sara</field>
+<field name="composer">Yori-Aki Matsudaira</field>
+<field name="composerSort">Matsudaira, Yori-Aki</field>
+<field name="year">1960</field>
+<field name="date">1960</field>
+<field name="city">Tokyo</field>
+<field name="region">Tokyo</field>
+<field name="country">Japan</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sara+Yori-Aki+Matsudaira&amp;search_field=search</field>
+</doc>
+</add>

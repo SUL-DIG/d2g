@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10127247</field>
+<field name="genre">Operas</field>
+<field name="title">Il giocatore</field>
+<field name="titleSort">giocatore</field>
+<field name="composer">Antonio Sacchini</field>
+<field name="composerSort">Sacchini, Antonio</field>
+<field name="year">1757</field>
+<field name="date">1757</field><field name="theater">Conservatorio di Santa Maria di Loreto</field>
+<field name="city">Naples</field>
+<field name="region">Campania</field>
+<field name="country">Italy</field>
+<field name="subgenre">Intermezzo</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Il+giocatore+Antonio+Sacchini&amp;search_field=search</field>
+</doc>
+</add>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10129878</field>
+<field name="genre">Operas</field>
+<field name="title">To Let the Captive Go</field>
+<field name="titleSort">To Let the Captive Go</field>
+<field name="composer">Frank Graham Stewart</field>
+<field name="composerSort">Stewart, Frank Graham</field>
+<field name="year">1974</field>
+<field name="date">1974</field>
+<field name="librettist">John R. Hubsky</field>
+<field name="librettistSort">Hubsky, John R.</field>
+<field name="theater">"Kaufmann Auditorium, 92nd Street Y"</field>
+<field name="city">New York</field>
+<field name="region">New York</field>
+<field name="country">United States</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=To+Let+the+Captive+Go+Frank+Graham+Stewart&amp;search_field=search</field>
+</doc>
+</add>

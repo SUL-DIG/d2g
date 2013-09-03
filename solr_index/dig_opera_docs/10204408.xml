@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10204408</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Die Sündflut</field>
+		<field name="titleSort">Sündflut</field>
+		<field name="year">1843</field>
+		<field name="month">October</field>
+		<field name="day">10</field>
+		<field name="date">October 10, 1843</field>
+		<field name="composer">Karl Ludwig Drobisch</field>
+		<field name="composerSort">Drobisch, Karl Ludwig</field>
+		
+		
+		
+		<field name="city">Leipzig</field>
+		<field name="region">Sachsen</field>
+		<field name="country">Germany</field>
+		<field name="subject">Noah</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Die+Sündflut+Karl+Ludwig+Drobisch&amp;search_field=search</field>
+	</doc></add>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117445</field>
+<field name="genre">Operas</field>
+<field name="title">Un futur sur le gril</field>
+<field name="titleSort">futur sur le gril</field>
+<field name="composer">Germain Laurens</field>
+<field name="composerSort">Laurens, Germain</field>
+<field name="year">1879</field>
+<field name="date">1879</field>
+<field name="librettist">Édouard Legentil</field>
+<field name="librettistSort">Legentil, Édouard</field>
+<field name="librettist">J. Chocas</field>
+<field name="librettistSort">Chocas, J.</field>
+<field name="theater">Café-concert de l'Eldorado</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+<field name="subgenre">Operetta</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Un+futur+sur+le+gril+Germain+Laurens&amp;search_field=search</field>
+</doc>
+</add>

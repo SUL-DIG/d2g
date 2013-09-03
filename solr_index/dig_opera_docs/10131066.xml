@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10131066</field>
+<field name="genre">Operas</field>
+<field name="title">L'éloge de la folie</field>
+<field name="titleSort">éloge de la folie</field>
+<field name="composer">Henri Tomasi</field>
+<field name="composerSort">Tomasi, Henri</field>
+<field name="year">1968</field>
+<field name="date">1968</field>
+<field name="librettist">Hubert Devillez</field>
+<field name="librettistSort">Devillez, Hubert</field>
+<field name="librettist">Desiderius Erasmus</field>
+<field name="librettistSort">Erasmus, Desiderius</field>
+
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=L'éloge+de+la+folie+Henri+Tomasi&amp;search_field=search</field>
+</doc>
+</add>

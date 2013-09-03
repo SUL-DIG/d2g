@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10103124</field>
+<field name="genre">Operas</field>
+<field name="title">Slavuj (The Nightingale)</field>
+<field name="titleSort">Slavuj (The Nightingale)</field>
+<field name="composer">Bruno Bjelinski</field>
+<field name="composerSort">Bjelinski, Bruno</field>
+<field name="year">1984</field>
+<field name="date">1984</field>
+<field name="librettist">Bruno Bjelinski</field>
+<field name="librettistSort">Bjelinski, Bruno</field>
+<field name="librettist">Hans Christian Andersen</field>
+<field name="librettistSort">Andersen, Hans Christian</field>
+
+<field name="city">Sarajevo</field>
+
+<field name="country">Bosnia-Hercegovina</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Slavuj+The+Nightingale+Bruno+Bjelinski&amp;search_field=search</field>
+</doc>
+</add>

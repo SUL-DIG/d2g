@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc>
+		<field name="id">10201532</field>
+		<field name="genre">Oratorios</field>
+		<field name="title">Giacobbe</field>
+		<field name="titleSort">Giacobbe</field>
+		<field name="year">1799</field>
+		
+		
+		<field name="date">1799</field>
+		<field name="composer">Pietro Carlo Guglielmi</field>
+		<field name="composerSort">Guglielmi, Pietro Carlo</field>
+		<field name="librettist">Giovanni Francesco Fattiboni</field>
+		<field name="librettistSort">Fattiboni, Giovanni Frances</field>
+		
+		<field name="theater">Real Cappella di Nostra Signora della Soledad</field>
+		<field name="city">Palermo</field>
+		<field name="region">Sicilia</field>
+		<field name="country">Italy</field>
+		<field name="subject">Jacob</field>
+		
+		
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Giacobbe+Pietro+Carlo+Guglielmi&amp;search_field=search</field>
+	</doc></add>

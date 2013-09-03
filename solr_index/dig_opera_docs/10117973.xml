@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+<doc>
+<field name="id">10117973</field>
+<field name="genre">Operas</field>
+<field name="title">La fille de Figaro</field>
+<field name="titleSort">fille de Figaro</field>
+<field name="composer">Xavier Leroux</field>
+<field name="composerSort">Leroux, Xavier</field>
+<field name="year">1914</field>
+<field name="date">1914</field>
+<field name="librettist">Maurice Hennequin</field>
+<field name="librettistSort">Hennequin, Maurice</field>
+<field name="librettist">[Georges Thiébost] Hugues Delorme</field>
+<field name="librettistSort">Delorme, Hugues [Georges Thiébost]</field>
+<field name="theater">Théâtre de l'Apollo</field>
+<field name="city">Paris</field>
+
+<field name="country">France</field>
+
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=La+fille+de+Figaro+Xavier+Leroux&amp;search_field=search</field>
+</doc>
+</add>
