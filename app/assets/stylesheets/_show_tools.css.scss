@@ -1,0 +1,33 @@
+/* 
+#emailLink {
+	padding: 1px 15px 1px 1px;
+	width: 60px;
+	float: left;
+	}
+
+#emailLink:hover {
+	background-color: #b3b3b3;
+	}
+.lightboxLink {
+	width: 100%;
+	}
+
+li.email span {
+		font-size: 14px;
+		margin-left: -210px;
+		vertical-align: sub;
+		}
+.email:hover {
+		font-color: #b50000;
+		}
+ */
+
+#sidebar-nav > .nav-list li > a {
+    width: 225px;
+    padding: 5px 15px;
+    margin-left: -5px;
+    }
+.nav > li > a > img {
+    max-width: none;
+    margin-left: -15px;
+}

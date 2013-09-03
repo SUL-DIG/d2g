@@ -1,0 +1,167 @@
+/* TODO: Refactor to use mix-ins, etc. */
+
+#brandbar {
+  min-height: 35px;
+}
+
+#header-navbar-static-top {
+  border-bottom: 1px solid $nav_border_color;
+  &.navbar {
+      font-family: $text_font_family;
+    .logo {
+      text-align: center;
+      img {
+        height: auto !important;
+        display: block;
+        float: left;
+        margin-right: 10px;
+        max-width: 100%;
+      }
+    }
+    .nav {
+		border-bottom: 3px solid rgb(221, 219, 206);
+		border-top: 3px solid rgb(221, 219, 206);
+      clear: left;
+      margin-top: 6px;
+      margin-left: 10px;
+      padding-bottom: 3px;
+      width: 100%;
+      > li {
+        &.active > a {
+          color: $active_nav_link_color;
+        }
+        > a {
+          background-color: $header_bg_color;
+          box-shadow: none;
+          color: $inactive_nav_link_color;
+          font-size: 1.2em;
+          float: left;
+          display: inline-block;
+          padding: 8px 50px 5px 3px;
+          
+          &:hover, &:focus {
+            color: $active_nav_link_color;
+          }
+        }
+      }
+//      > li:last-child > a {padding-right: 0}
+    }
+  h1 {
+  	margin-left: 10px;
+  	padding-bottom: 10px;
+  	padding-top: 15px;
+  }
+  }
+ 	
+  #header-navbar-static-top h1 {
+  	margin-top: 20px;
+  	padding-bottom: 20px;
+  	}
+  h1 {
+    border-bottom: none;
+    font-size: 2.5em;
+    font-family: $heading_font_family;
+    margin: 0px;
+    padding-bottom: 0;
+    line-height: 1.5em;
+    font-weight: 500;
+  }
+  h2 {
+    border: none;
+    clear: left;
+    color: #666666;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3em;
+    font-style: italic;
+    font-weight: normal;
+    padding-top: 2px;
+    text-transform: none;
+    margin-left: 20px;
+  }
+  .navbar-inner {
+    background: $header_bg_color;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    .language-toggle {
+      color: #999;
+      font-size: 13px;
+      margin-bottom: 9px;
+      text-align: right;
+    }
+  }
+  #searchbar {
+  	padding-top: 10px
+  	}
+}
+
+/* Phones: reduce logo size and center site title and nav elements */
+@media (max-width: 767px) {
+  #header-navbar-static-top {
+    .logo img {
+      float: left;
+      max-width: 80px;
+    }
+    h1 {
+      font-size: 1.4em;
+      float: left;
+      margin-top: 10px;
+    }
+    h2 {
+    font-size: 1.3em;
+    margin-left: 20px;
+    }
+    
+    &.navbar {
+      h2 {display: none;}
+      .site-header-content {text-align: center;}
+      .language-toggle {text-align: center;}
+      .nav > li:last-child > a {padding-right: 25px}
+    }
+  }
+}
+/* Tablets: reduce logo size and add some extra space between logo
+   and site title and nav elements */
+@media (min-width: 768px) and (max-width: 979px) {
+  #header-navbar-static-top {
+    .logo img {
+      float: right;
+      max-width: 120px;
+    }
+    h1 {
+      font-size: 1.6em;
+      margin-top: 10px;
+    }
+    &.navbar {
+      h2 {font-size: 0.9em;}
+      .language-toggle {text-align: left;}
+    }
+  }
+}
+
+.nav-list .nav-header {
+	margin-left: -12px;
+	margin-right: 0px;
+	margin-top: -15px;
+	margin-bottom: 15px;
+	color: rgb(51, 51, 51);
+}
+
+#sidebar .span3 {
+	width: 250px;
+	@media screen and (max-width: 978px) {
+		display:none;
+		}
+	}
+	#sidebar-nav {
+	@media screen and (max-width: 978px) {
+		display:none;
+		}
+	}
+
+.span9 {
+	margin-left: 10px;
+	height: 170px;
+	}
