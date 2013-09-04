@@ -15,4 +15,4 @@ development:
 test:
   url: http://sul-solr.stanford.edu/solr/dig_opera_test
 production:
-  url: http://sul-solr.stanford.edu/solr/dig_opera_test
+  url: http://sul-solr.stanford.edu/solr/dig_opera_prod
