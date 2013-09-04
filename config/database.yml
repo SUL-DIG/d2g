@@ -18,8 +18,14 @@ test:
   pool: 5
   timeout: 5000
 
-production:
-  adapter: sqlite3
-  database: db/production.sqlite3
-  pool: 5
-  timeout: 5000
+ production:
+
+  adapter: mysql2
+
+  database: db/production.mysql2
+
+  database: blacklight
+
+  username: blacklight
+
+  password: 3u/qET73ltwBxvgl+VoOObE0
