@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10123306</field>
 <field name="genre">Operas</field>
-<field name="title">"Fair Cheating, or The Wise Ones Outwitted</field>
-<field name="titleSort">"Fair Cheating, or The Wise Ones Outwitted"</field>
+<field name="title">Fair Cheating, or The Wise Ones Outwitted</field>
+<field name="titleSort">Fair Cheating, or The Wise Ones Outwitted</field>
 <field name="composer">John Parry</field>
 <field name="composerSort">Parry, John</field>
 <field name="year">1814</field>
 <field name="date">1814</field>
 <field name="librettist">John Parry</field>
 <field name="librettistSort">Parry, John</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

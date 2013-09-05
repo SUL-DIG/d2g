@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10125645</field>
 <field name="genre">Operas</field>
-<field name="title">"Alina, ossia La regina di Golconda</field>
-<field name="titleSort">"Alina, ossia La regina di Golconda"</field>
+<field name="title">Alina, ossia La regina di Golconda</field>
+<field name="titleSort">Alina, ossia La regina di Golconda</field>
 <field name="composer">Venanzio Rauzzini</field>
 <field name="composerSort">Rauzzini, Venanzio</field>
 <field name="year">1784</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Andrei, Antonio</field>
 <field name="librettist">Michel-Jean Sedaine</field>
 <field name="librettistSort">Sedaine, Michel-Jean</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

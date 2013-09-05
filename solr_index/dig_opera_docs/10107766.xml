@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10107766</field>
 <field name="genre">Operas</field>
-<field name="title">"The Sultan, or A Peep into the Seraglio</field>
-<field name="titleSort">"Sultan, or A Peep into the Seraglio"</field>
+<field name="title">The Sultan, or A Peep into the Seraglio</field>
+<field name="titleSort">Sultan, or A Peep into the Seraglio</field>
 <field name="composer">Charles Dibdin</field>
 <field name="composerSort">Dibdin, Charles</field>
 <field name="year">1775</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Bickerstaff, Isaac</field>
 <field name="librettist">Charles Simon Favart</field>
 <field name="librettistSort">Favart, Charles Simon</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10110000</field>
 <field name="genre">Operas</field>
-<field name="title">"Der rätselhafte Gast, oder Der Jahrestag</field>
-<field name="titleSort">"rätselhafte Gast, oder Jahrestag"</field>
+<field name="title">Der rätselhafte Gast, oder Der Jahrestag</field>
+<field name="titleSort">rätselhafte Gast, oder Jahrestag</field>
 <field name="composer">Wilhelm Fischer</field>
 <field name="composerSort">Fischer, Wilhelm</field>
 <field name="year">1863</field>

@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10120265</field>
 <field name="genre">Operas</field>
-<field name="title">"God Bless You, Mr. Rosewater</field>
-<field name="titleSort">"God Bless You, Mr. Rosewater"</field>
+<field name="title">God Bless You, Mr. Rosewater</field>
+<field name="titleSort">God Bless You, Mr. Rosewater</field>
 <field name="composer">Alan Menken</field>
 <field name="composerSort">Menken, Alan</field>
 <field name="year">1979</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Ashman, Howard</field>
 <field name="librettist">Dennis Green</field>
 <field name="librettistSort">Green, Dennis</field>
-<field name="theater">"Henry Street Settlement, WPA Theater"</field>
+<field name="theater">"Henry Street Settlement, WPA Theater</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>

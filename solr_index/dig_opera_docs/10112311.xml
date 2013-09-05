@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10112311</field>
 <field name="genre">Operas</field>
-<field name="title">"The Soldier's Return, or Clara and Valentine</field>
-<field name="titleSort">"Soldier's Return, or Clara and Valentine"</field>
+<field name="title">The Soldier's Return, or Clara and Valentine</field>
+<field name="titleSort">Soldier's Return, or Clara and Valentine</field>
 <field name="composer">Robert Goldbeck</field>
 <field name="composerSort">Goldbeck, Robert</field>
 <field name="year">1856</field>
 <field name="date">1856</field>
 <field name="librettist">Robert Goldbeck</field>
 <field name="librettistSort">Goldbeck, Robert</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

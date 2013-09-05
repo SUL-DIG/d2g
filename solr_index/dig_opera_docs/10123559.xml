@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10123559</field>
 <field name="genre">Operas</field>
-<field name="title">"Musica, pittura e poesia</field>
-<field name="titleSort">"Musica, pittura e poesia"</field>
+<field name="title">Musica, pittura e poesia</field>
+<field name="titleSort">Musica, pittura e poesia</field>
 <field name="composer">Giovanni Battista Pederzuoli</field>
 <field name="composerSort">Pederzuoli, Giovanni Battista</field>
 <field name="year">1685</field>
 <field name="date">1685</field>
 <field name="librettist">Nicolò Minato</field>
 <field name="librettistSort">Minato, Nicolò</field>
-<field name="theater">"Hofburg, Bellaria"</field>
+<field name="theater">"Hofburg, Bellaria</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

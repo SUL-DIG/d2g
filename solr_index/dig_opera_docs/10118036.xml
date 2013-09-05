@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10118036</field>
 <field name="genre">Operas</field>
-<field name="title">"The Mountebank, or The Humours of the Fair</field>
-<field name="titleSort">"Mountebank, or Humours of the Fair"</field>
+<field name="title">The Mountebank, or The Humours of the Fair</field>
+<field name="titleSort">Mountebank, or Humours of the Fair</field>
 <field name="composer">Richard Leveridge</field>
 <field name="composerSort">Leveridge, Richard</field>
 <field name="year">1705</field>
 <field name="date">1705</field>
 <field name="librettist">Peter Anthony Motteux</field>
 <field name="librettistSort">Motteux, Peter Anthony</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

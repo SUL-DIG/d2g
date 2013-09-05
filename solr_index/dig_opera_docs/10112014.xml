@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10112014</field>
 <field name="genre">Operas</field>
-<field name="title">"Calypso, or Love and Enchantment</field>
-<field name="titleSort">"Calypso, or Love and Enchantment"</field>
+<field name="title">Calypso, or Love and Enchantment</field>
+<field name="titleSort">Calypso, or Love and Enchantment</field>
 <field name="composer">Tommaso Giordani</field>
 <field name="composerSort">Giordani, Tommaso</field>
 <field name="year">1785</field>
 <field name="date">1785</field>
 <field name="librettist">Robert Houlton</field>
 <field name="librettistSort">Houlton, Robert</field>
-<field name="theater">"Theatre Royal, Smock Alley"</field>
+<field name="theater">"Theatre Royal, Smock Alley</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

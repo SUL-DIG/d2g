@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10120321</field>
 <field name="genre">Operas</field>
-<field name="title">"Francesca Donato, ossia Corinto distrutta</field>
-<field name="titleSort">"Francesca Donato, ossia Corinto distrutta"</field>
+<field name="title">Francesca Donato, ossia Corinto distrutta</field>
+<field name="titleSort">Francesca Donato, ossia Corinto distrutta</field>
 <field name="composer">Saverio Mercadante</field>
 <field name="composerSort">Mercadante, Saverio</field>
 <field name="year">1835</field>
 <field name="date">1835</field>
 <field name="librettist">Felice Romani</field>
 <field name="librettistSort">Romani, Felice</field>
-<field name="librettist">"George Gordon, Lord Byron"</field>
+<field name="librettist">"George Gordon, Lord Byron</field>
 <field name="librettistSort">Byron, George Gordon, Lord</field>
 <field name="theater">Teatro Regio</field>
 <field name="city">Turin</field>

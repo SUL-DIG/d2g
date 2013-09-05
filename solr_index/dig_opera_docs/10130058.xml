@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10130058</field>
 <field name="genre">Operas</field>
-<field name="title">"Dido, Queen of Carthage</field>
-<field name="titleSort">"Dido, Queen of Carthage"</field>
+<field name="title">Dido, Queen of Carthage</field>
+<field name="titleSort">Dido, Queen of Carthage</field>
 <field name="composer">Stephen Storace</field>
 <field name="composerSort">Storace, Stephen</field>
 <field name="year">1792</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Hoare, Prince</field>
 <field name="librettist">Pietro Metastasio</field>
 <field name="librettistSort">Metastasio, Pietro</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

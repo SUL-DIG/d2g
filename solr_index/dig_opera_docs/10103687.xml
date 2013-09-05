@@ -7,7 +7,7 @@
 <field name="composer">Antonio D. R. Borghese</field>
 <field name="composerSort">Borghese, Antonio D. R.</field>
 <field name="year">1776</field>
-<field name="date">1776</field><field name="theater">"Theatre Royal, Crow Street"</field>
+<field name="date">1776</field><field name="theater">"Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

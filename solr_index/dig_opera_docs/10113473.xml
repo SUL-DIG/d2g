@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10113473</field>
 <field name="genre">Operas</field>
-<field name="title">"Admeto, re di Tessaglia</field>
-<field name="titleSort">"Admeto, re di Tessaglia"</field>
+<field name="title">Admeto, re di Tessaglia</field>
+<field name="titleSort">Admeto, re di Tessaglia</field>
 <field name="composer">George Frideric Handel</field>
 <field name="composerSort">Handel, George Frideric</field>
 <field name="year">1727</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Mauro, Ortensio</field>
 <field name="librettist">Aurelio Aureli</field>
 <field name="librettistSort">Aureli, Aurelio</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

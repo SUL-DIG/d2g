@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10102770</field>
 <field name="genre">Operas</field>
-<field name="title">"La governante, or The Duenna</field>
-<field name="titleSort">"governante, or The Duenna"</field>
+<field name="title">La governante, or The Duenna</field>
+<field name="titleSort">governante, or The Duenna</field>
 <field name="composer">Ferdinando Bertoni</field>
 <field name="composerSort">Bertoni, Ferdinando</field>
 <field name="year">1779</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Badini, Carlo Francesco</field>
 <field name="librettist">Richard Brinsley Sheridan</field>
 <field name="librettistSort">Sheridan, Richard Brinsley</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

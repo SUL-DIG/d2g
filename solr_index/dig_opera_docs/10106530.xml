@@ -7,7 +7,7 @@
 <field name="composer">Thomas Simpson Cooke</field>
 <field name="composerSort">Cooke, Thomas Simpson</field>
 <field name="year">1806</field>
-<field name="date">1806</field><field name="theater">"Theatre Royal, Crow Street"</field>
+<field name="date">1806</field><field name="theater">"Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

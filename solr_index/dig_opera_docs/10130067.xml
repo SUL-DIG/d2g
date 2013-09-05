@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10130067</field>
 <field name="genre">Operas</field>
-<field name="title">"No Song, No Supper</field>
-<field name="titleSort">"No Song, No Supper"</field>
+<field name="title">No Song, No Supper</field>
+<field name="titleSort">No Song, No Supper</field>
 <field name="composer">Stephen Storace</field>
 <field name="composerSort">Storace, Stephen</field>
 <field name="year">1790</field>
 <field name="date">1790</field>
 <field name="librettist">Prince Hoare</field>
 <field name="librettistSort">Hoare, Prince</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

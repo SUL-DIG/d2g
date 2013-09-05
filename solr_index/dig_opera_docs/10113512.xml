@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10113512</field>
 <field name="genre">Operas</field>
-<field name="title">"Tolomeo, re d'Egitto</field>
-<field name="titleSort">"Tolomeo, re d'Egitto"</field>
+<field name="title">Tolomeo, re d'Egitto</field>
+<field name="titleSort">Tolomeo, re d'Egitto</field>
 <field name="composer">George Frideric Handel</field>
 <field name="composerSort">Handel, George Frideric</field>
 <field name="year">1728</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Haym, Nicola Francesco</field>
 <field name="librettist">Carlo Sigismondo Capece</field>
 <field name="librettistSort">Capece, Carlo Sigismondo</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

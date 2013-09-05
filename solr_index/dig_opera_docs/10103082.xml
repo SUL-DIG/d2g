@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10103082</field>
 <field name="genre">Operas</field>
-<field name="title">"Cortez, or The Conquest of Mexico</field>
-<field name="titleSort">"Cortez, or The Conquest of Mexico"</field>
+<field name="title">Cortez, or The Conquest of Mexico</field>
+<field name="titleSort">Cortez, or The Conquest of Mexico</field>
 <field name="composer">Henry Bishop</field>
 <field name="composerSort">Bishop, Henry</field>
 <field name="year">1823</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Planché, James Robinson</field>
 <field name="librettist">William Hickling Prescott</field>
 <field name="librettistSort">Prescott, William Hickling</field>
-<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="theater">"Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

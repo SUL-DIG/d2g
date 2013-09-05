@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10130830</field>
 <field name="genre">Operas</field>
-<field name="title">"Paris, ou ""Le bon juge""</field>
-<field name="titleSort">"Paris, ou ""Le bon juge"""</field>
+<field name="title">Paris, ou ""Le bon juge"</field>
+<field name="titleSort">Paris, ou ""Le bon juge""</field>
 <field name="composer">Claude Terrasse</field>
 <field name="composerSort">Terrasse, Claude</field>
 <field name="year">1906</field>

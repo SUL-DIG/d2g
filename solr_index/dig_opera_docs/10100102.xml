@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10100102</field>
 <field name="genre">Operas</field>
-<field name="title">"Le barbier châtelain, ou La loterie de Francfort</field>
-<field name="titleSort">"barbier châtelain, ou La loterie de Francfort"</field>
+<field name="title">Le barbier châtelain, ou La loterie de Francfort</field>
+<field name="titleSort">barbier châtelain, ou La loterie de Francfort</field>
 <field name="composer">Adolphe Adam</field>
 <field name="composerSort">Adam, Adolphe</field>
 <field name="year">1828</field>

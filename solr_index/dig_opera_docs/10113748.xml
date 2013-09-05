@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10113748</field>
 <field name="genre">Operas</field>
-<field name="title">"The Queen of the Thames, or The Anglers</field>
-<field name="titleSort">"Queen of the Thames, or Anglers"</field>
+<field name="title">The Queen of the Thames, or The Anglers</field>
+<field name="titleSort">Queen of the Thames, or Anglers</field>
 <field name="composer">John Hatton</field>
 <field name="composerSort">Hatton, John</field>
 <field name="year">1842</field>
 <field name="date">1842</field>
 <field name="librettist">Edward Fitzball</field>
 <field name="librettistSort">Fitzball, Edward</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

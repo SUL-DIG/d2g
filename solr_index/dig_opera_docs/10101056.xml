@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101056</field>
 <field name="genre">Operas</field>
-<field name="title">"The Jovial Crew, or The Merry Beggars</field>
-<field name="titleSort">"Jovial Crew, or Merry Beggars"</field>
+<field name="title">The Jovial Crew, or The Merry Beggars</field>
+<field name="titleSort">Jovial Crew, or Merry Beggars</field>
 <field name="composer">Thomas Augustine Arne</field>
 <field name="composerSort">Arne, Thomas Augustine</field>
 <field name="year">1760</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Roome, Edward</field>
 <field name="librettist">Richard Brome</field>
 <field name="librettistSort">Brome, Richard</field>
-<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="theater">"Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

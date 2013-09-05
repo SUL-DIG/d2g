@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10112016</field>
 <field name="genre">Operas</field>
-<field name="title">"The Cottage Festival, or A Day in Wales</field>
-<field name="titleSort">"Cottage Festival, or A Day in Wales"</field>
+<field name="title">The Cottage Festival, or A Day in Wales</field>
+<field name="titleSort">Cottage Festival, or A Day in Wales</field>
 <field name="composer">Tommaso Giordani</field>
 <field name="composerSort">Giordani, Tommaso</field>
 <field name="year">1796</field>
 <field name="date">1796</field>
 <field name="librettist">Leonard MacNally</field>
 <field name="librettistSort">MacNally, Leonard</field>
-<field name="theater">"Theatre Royal, Crow Street"</field>
+<field name="theater">"Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

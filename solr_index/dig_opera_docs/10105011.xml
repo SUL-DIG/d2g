@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10105011</field>
 <field name="genre">Operas</field>
-<field name="title">"Betty, or The Country Bumpkins</field>
-<field name="titleSort">"Betty, or The Country Bumpkins"</field>
+<field name="title">Betty, or The Country Bumpkins</field>
+<field name="titleSort">Betty, or The Country Bumpkins</field>
 <field name="composer">Henry Carey</field>
 <field name="composerSort">Carey, Henry</field>
 <field name="year">1732</field>
 <field name="date">1732</field>
 <field name="librettist">Henry Carey</field>
 <field name="librettistSort">Carey, Henry</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

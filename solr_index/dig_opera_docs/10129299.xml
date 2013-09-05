@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10129299</field>
 <field name="genre">Operas</field>
-<field name="title">"The Enchanter, or Love and Magic</field>
-<field name="titleSort">"Enchanter, or Love and Magic"</field>
+<field name="title">The Enchanter, or Love and Magic</field>
+<field name="titleSort">Enchanter, or Love and Magic</field>
 <field name="composer">John Christopher Smith</field>
 <field name="composerSort">Smith, John Christopher</field>
 <field name="year">1760</field>
 <field name="date">1760</field>
 <field name="librettist">David Garrick</field>
 <field name="librettistSort">Garrick, David</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

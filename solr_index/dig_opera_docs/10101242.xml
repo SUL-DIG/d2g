@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101242</field>
 <field name="genre">Operas</field>
-<field name="title">"Vindobona, du herrliches Stadt</field>
-<field name="titleSort">"Vindobona, du herrliches Stadt"</field>
+<field name="title">Vindobona, du herrliches Stadt</field>
+<field name="titleSort">Vindobona, du herrliches Stadt</field>
 <field name="composer">Leo Ascher</field>
 <field name="composerSort">Ascher, Leo</field>
 <field name="year">1910</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Brammer, Julius</field>
 <field name="librettist">Alfred Grünwald</field>
 <field name="librettistSort">Grünwald, Alfred</field>
-<field name="theater">"Sommertheater ""Venedig in Wien"""</field>
+<field name="theater">"Sommertheater ""Venedig in Wien""</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

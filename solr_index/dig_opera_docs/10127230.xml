@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10127230</field>
 <field name="genre">Operas</field>
-<field name="title">"L'avaro deluso, o Don Calandrino</field>
-<field name="titleSort">"avaro deluso, o Don Calandrino"</field>
+<field name="title">L'avaro deluso, o Don Calandrino</field>
+<field name="titleSort">avaro deluso, o Don Calandrino</field>
 <field name="composer">Antonio Sacchini</field>
 <field name="composerSort">Sacchini, Antonio</field>
 <field name="year">1778</field>
 <field name="date">1778</field>
 <field name="librettist">Giovanni Bertati</field>
 <field name="librettistSort">Bertati, Giovanni</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

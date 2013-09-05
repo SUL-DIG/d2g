@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10129049</field>
 <field name="genre">Operas</field>
-<field name="title">"The Shamrock, or The Anniversary of St. Patrick</field>
-<field name="titleSort">"Shamrock, or Anniversary of St. Patrick"</field>
+<field name="title">The Shamrock, or The Anniversary of St. Patrick</field>
+<field name="titleSort">Shamrock, or Anniversary of St. Patrick</field>
 <field name="composer">William Shield</field>
 <field name="composerSort">Shield, William</field>
 <field name="year">1777</field>
 <field name="date">1777</field>
 <field name="librettist">John O'Keeffe</field>
 <field name="librettistSort">O'Keeffe, John</field>
-<field name="theater">"Theatre Royal, Crow Street"</field>
+<field name="theater">"Theatre Royal, Crow Street</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

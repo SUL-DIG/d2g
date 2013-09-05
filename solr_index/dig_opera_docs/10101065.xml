@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101065</field>
 <field name="genre">Operas</field>
-<field name="title">"Oedipus, King of Thebes</field>
-<field name="titleSort">"Oedipus, King of Thebes"</field>
+<field name="title">Oedipus, King of Thebes</field>
+<field name="titleSort">Oedipus, King of Thebes</field>
 <field name="composer">Thomas Augustine Arne</field>
 <field name="composerSort">Arne, Thomas Augustine</field>
 <field name="year">1740</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Dryden, John</field>
 <field name="librettist">Nathaniel Lee</field>
 <field name="librettistSort">Lee, Nathaniel</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

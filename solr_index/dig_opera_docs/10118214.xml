@@ -7,7 +7,7 @@
 <field name="composer">William Linley</field>
 <field name="composerSort">Linley, William</field>
 <field name="year">1797</field>
-<field name="date">1797</field><field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="date">1797</field><field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

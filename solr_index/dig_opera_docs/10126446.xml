@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10126446</field>
 <field name="genre">Operas</field>
-<field name="title">"Quasimodo, or The Gipsy Girl of Notre Dame</field>
-<field name="titleSort">"Quasimodo, or The Gipsy Girl of Notre Dame"</field>
+<field name="title">Quasimodo, or The Gipsy Girl of Notre Dame</field>
+<field name="titleSort">Quasimodo, or The Gipsy Girl of Notre Dame</field>
 <field name="composer">George Rodwell</field>
 <field name="composerSort">Rodwell, George</field>
 <field name="year">1836</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Fitzball, Edward</field>
 <field name="librettist">Victor Hugo</field>
 <field name="librettistSort">Hugo, Victor</field>
-<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="theater">"Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

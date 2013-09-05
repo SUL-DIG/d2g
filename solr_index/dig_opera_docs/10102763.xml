@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10102763</field>
 <field name="genre">Operas</field>
-<field name="title">"Il convito, or The Banquet</field>
-<field name="titleSort">"convito, or The Banquet"</field>
+<field name="title">Il convito, or The Banquet</field>
+<field name="titleSort">convito, or The Banquet</field>
 <field name="composer">Ferdinando Bertoni</field>
 <field name="composerSort">Bertoni, Ferdinando</field>
 <field name="year">1782</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Andrei, Antonio</field>
 <field name="librettist">Filippo Livigni</field>
 <field name="librettistSort">Livigni, Filippo</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

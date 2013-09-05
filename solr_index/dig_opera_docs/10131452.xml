@@ -2,14 +2,14 @@
 <doc>
 <field name="id">10131452</field>
 <field name="genre">Operas</field>
-<field name="title">"Der Zauberkuss, oder Die Stunde der Erlösung</field>
-<field name="titleSort">"Zauberkuss, oder Die Stunde der Erlösung"</field>
+<field name="title">Der Zauberkuss, oder Die Stunde der Erlösung</field>
+<field name="titleSort">Zauberkuss, oder Die Stunde der Erlösung</field>
 <field name="composer">Vincenc Tucek</field>
 <field name="composerSort">Tucek, Vincenc</field>
 <field name="year">1807</field>
 <field name="date">1807</field>
 <field name="librettist">Josef Hofmüller</field>
-<field name="librettistSort">Hofmüller, Josef"</field>
+<field name="librettistSort">Hofmüller, Josef</field>
 
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Der+Zauberkuss,+oder+Die+Stunde+der+Erlösung+Vincenc+Tucek&amp;search_field=search</field>

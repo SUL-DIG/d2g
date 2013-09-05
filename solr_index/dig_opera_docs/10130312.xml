@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10130312</field>
 <field name="genre">Operas</field>
-<field name="title">"Princess Ida, or Castle Adamant</field>
-<field name="titleSort">"Princess Ida, or Castle Adamant"</field>
+<field name="title">Princess Ida, or Castle Adamant</field>
+<field name="titleSort">Princess Ida, or Castle Adamant</field>
 <field name="composer">Arthur Sullivan</field>
 <field name="composerSort">Sullivan, Arthur</field>
 <field name="year">1884</field>
 <field name="date">1884</field>
 <field name="librettist">William Schwenck Gilbert</field>
 <field name="librettistSort">Gilbert, William Schwenck</field>
-<field name="librettist">"Alfred, Lord Tennyson"</field>
+<field name="librettist">"Alfred, Lord Tennyson</field>
 <field name="librettistSort">Tennyson, Alfred, Lord</field>
 <field name="theater">Savoy Theatre</field>
 <field name="city">London</field>

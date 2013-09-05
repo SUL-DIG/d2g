@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10113509</field>
 <field name="genre">Operas</field>
-<field name="title">"Sosarme, re di Media</field>
-<field name="titleSort">"Sosarme, re di Media"</field>
+<field name="title">Sosarme, re di Media</field>
+<field name="titleSort">Sosarme, re di Media</field>
 <field name="composer">George Frideric Handel</field>
 <field name="composerSort">Handel, George Frideric</field>
 <field name="year">1732</field>
 <field name="date">1732</field>
 <field name="librettist">Antonio Salvi</field>
 <field name="librettistSort">Salvi, Antonio</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

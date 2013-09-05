@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10125321</field>
 <field name="genre">Operas</field>
-<field name="title">"King Arthur, or The British Worthy</field>
-<field name="titleSort">"King Arthur, or The British Worthy"</field>
+<field name="title">King Arthur, or The British Worthy</field>
+<field name="titleSort">King Arthur, or The British Worthy</field>
 <field name="composer">Henry Purcell</field>
 <field name="composerSort">Purcell, Henry</field>
 <field name="year">1691</field>
 <field name="date">1691</field>
 <field name="librettist">John Dryden</field>
 <field name="librettistSort">Dryden, John</field>
-<field name="theater">"Duke's Theatre, Dorset Garden"</field>
+<field name="theater">"Duke's Theatre, Dorset Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

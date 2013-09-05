@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10118209</field>
 <field name="genre">Operas</field>
-<field name="title">"Love in the East, or Adventures of Twelve Hours</field>
-<field name="titleSort">"Love in the East, or Adventures of Twelve Hours"</field>
+<field name="title">Love in the East, or Adventures of Twelve Hours</field>
+<field name="titleSort">Love in the East, or Adventures of Twelve Hours</field>
 <field name="composer">Thomas Linley</field>
 <field name="composerSort">Linley, Thomas</field>
 <field name="year">1788</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Cobb, James</field>
 <field name="librettist">Francis Beaumont &amp; John Fletcher</field>
 <field name="librettistSort">Beaumont, Francis &amp; John Fletcher</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

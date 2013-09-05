@@ -2,12 +2,12 @@
 <doc>
 <field name="id">10108176</field>
 <field name="genre">Operas</field>
-<field name="title">"Le finezze dell'amicizia, e dell'amore</field>
-<field name="titleSort">"finezze dell'amicizia, e dell'amore"</field>
+<field name="title">Le finezze dell'amicizia, e dell'amore</field>
+<field name="titleSort">finezze dell'amicizia, e dell'amore</field>
 <field name="composer">Antonio Draghi</field>
 <field name="composerSort">Draghi, Antonio</field>
 <field name="year">1699</field>
-<field name="date">1699</field><field name="theater">"Hofburg, Tanzsaal"</field>
+<field name="date">1699</field><field name="theater">"Hofburg, Tanzsaal</field>
 <field name="city">Vienna</field>
 
 <field name="country">Austria</field>

@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10106212</field>
 <field name="genre">Operas</field>
-<field name="title">"Maria Stuarda, regina di Scozia</field>
-<field name="titleSort">"Maria Stuarda, regina di Scozia"</field>
+<field name="title">Maria Stuarda, regina di Scozia</field>
+<field name="titleSort">Maria Stuarda, regina di Scozia</field>
 <field name="composer">Carlo Coccia</field>
 <field name="composerSort">Coccia, Carlo</field>
 <field name="year">1827</field>
 <field name="date">1827</field>
 <field name="librettist">Pietro Giannone</field>
 <field name="librettistSort">Giannone, Pietro</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

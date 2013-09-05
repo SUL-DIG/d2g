@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10101062</field>
 <field name="genre">Operas</field>
-<field name="title">"May-day, or The Little Gipsy</field>
-<field name="titleSort">"May-day, or The Little Gipsy"</field>
+<field name="title">May-day, or The Little Gipsy</field>
+<field name="titleSort">May-day, or The Little Gipsy</field>
 <field name="composer">Thomas Augustine Arne</field>
 <field name="composerSort">Arne, Thomas Augustine</field>
 <field name="year">1775</field>
 <field name="date">1775</field>
 <field name="librettist">David Garrick</field>
 <field name="librettistSort">Garrick, David</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

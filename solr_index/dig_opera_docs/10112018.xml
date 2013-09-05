@@ -2,12 +2,12 @@
 <doc>
 <field name="id">10112018</field>
 <field name="genre">Operas</field>
-<field name="title">"Don Fulminone, or The Lover with Two Mistresses</field>
-<field name="titleSort">"Don Fulminone, or The Lover with Two Mistresses"</field>
+<field name="title">Don Fulminone, or The Lover with Two Mistresses</field>
+<field name="titleSort">Don Fulminone, or The Lover with Two Mistresses</field>
 <field name="composer">Tommaso Giordani</field>
 <field name="composerSort">Giordani, Tommaso</field>
 <field name="year">1765</field>
-<field name="date">1765</field><field name="theater">"Theatre Royal, Smock Alley"</field>
+<field name="date">1765</field><field name="theater">"Theatre Royal, Smock Alley</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

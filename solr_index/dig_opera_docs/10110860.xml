@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10110860</field>
 <field name="genre">Operas</field>
-<field name="title">"Merlin, or The Devil of Stonehenge</field>
-<field name="titleSort">"Merlin, or The Devil of Stonehenge"</field>
+<field name="title">Merlin, or The Devil of Stonehenge</field>
+<field name="titleSort">Merlin, or The Devil of Stonehenge</field>
 <field name="composer">John Ernest Galliard</field>
 <field name="composerSort">Galliard, John Ernest</field>
 <field name="year">1734</field>
 <field name="date">1734</field>
 <field name="librettist">Lewis Theobald</field>
 <field name="librettistSort">Theobald, Lewis</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

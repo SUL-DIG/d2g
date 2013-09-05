@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101069</field>
 <field name="genre">Operas</field>
-<field name="title">"The Picture, or The Cuckold in Conceit</field>
-<field name="titleSort">"Picture, or Cuckold in Conceit"</field>
+<field name="title">The Picture, or The Cuckold in Conceit</field>
+<field name="titleSort">Picture, or Cuckold in Conceit</field>
 <field name="composer">Thomas Augustine Arne</field>
 <field name="composerSort">Arne, Thomas Augustine</field>
 <field name="year">1745</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Miller, James</field>
 <field name="librettist">[Jean-Baptiste Poquelin] Molière</field>
 <field name="librettistSort">Molière, [Jean-Baptiste Poquelin]</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

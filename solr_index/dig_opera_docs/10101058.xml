@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101058</field>
 <field name="genre">Operas</field>
-<field name="title">"King Arthur, or The British Worthy</field>
-<field name="titleSort">"King Arthur, or The British Worthy"</field>
+<field name="title">King Arthur, or The British Worthy</field>
+<field name="titleSort">King Arthur, or The British Worthy</field>
 <field name="composer">Thomas Augustine Arne</field>
 <field name="composerSort">Arne, Thomas Augustine</field>
 <field name="year">1770</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Garrick, David</field>
 <field name="librettist">John Dryden</field>
 <field name="librettistSort">Dryden, John</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

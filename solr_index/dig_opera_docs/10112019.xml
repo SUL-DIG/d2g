@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10112019</field>
 <field name="genre">Operas</field>
-<field name="title">"The Enchanter, or Love and Magic</field>
-<field name="titleSort">"Enchanter, or Love and Magic"</field>
+<field name="title">The Enchanter, or Love and Magic</field>
+<field name="titleSort">Enchanter, or Love and Magic</field>
 <field name="composer">Tommaso Giordani</field>
 <field name="composerSort">Giordani, Tommaso</field>
 <field name="year">1765</field>
 <field name="date">1765</field>
 <field name="librettist">David Garrick</field>
 <field name="librettistSort">Garrick, David</field>
-<field name="theater">"Theatre Royal, Smock Alley"</field>
+<field name="theater">"Theatre Royal, Smock Alley</field>
 <field name="city">Dublin</field>
 <field name="region">Leinster</field>
 <field name="country">Ireland</field>

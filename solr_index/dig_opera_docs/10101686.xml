@@ -2,8 +2,8 @@
 <doc>
 <field name="id">10101686</field>
 <field name="genre">Operas</field>
-<field name="title">"Bianca, or The Bravo's Bride</field>
-<field name="titleSort">"Bianca, or The Bravo's Bride"</field>
+<field name="title">Bianca, or The Bravo's Bride</field>
+<field name="titleSort">Bianca, or The Bravo's Bride</field>
 <field name="composer">Michael William Balfe</field>
 <field name="composerSort">Balfe, Michael William</field>
 <field name="year">1860</field>
@@ -12,7 +12,7 @@
 <field name="librettistSort">Simpson, John Palgrave</field>
 <field name="librettist">Matthew Gregory Lewis</field>
 <field name="librettistSort">Lewis, Matthew Gregory</field>
-<field name="theater">"Royal Opera House, Covent Garden"</field>
+<field name="theater">"Royal Opera House, Covent Garden</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10125269</field>
 <field name="genre">Operas</field>
-<field name="title">"Il trionfo di Rosselane, ossia Le tre sultane</field>
-<field name="titleSort">"trionfo di Rosselane, ossia Le tre sultane"</field>
+<field name="title">Il trionfo di Rosselane, ossia Le tre sultane</field>
+<field name="titleSort">trionfo di Rosselane, ossia Le tre sultane</field>
 <field name="composer">Vincenzo Pucitta</field>
 <field name="composerSort">Pucitta, Vincenzo</field>
 <field name="year">1811</field>
 <field name="date">1811</field>
 <field name="librettist">Giuseppe Caravita</field>
 <field name="librettistSort">Caravita, Giuseppe</field>
-<field name="theater">"King's Theatre, Haymarket"</field>
+<field name="theater">"King's Theatre, Haymarket</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>

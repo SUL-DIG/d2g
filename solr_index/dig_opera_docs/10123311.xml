@@ -2,15 +2,15 @@
 <doc>
 <field name="id">10123311</field>
 <field name="genre">Operas</field>
-<field name="title">"Two Wives, or A Hint to Husbands</field>
-<field name="titleSort">"Two Wives, or A Hint to Husbands"</field>
+<field name="title">Two Wives, or A Hint to Husbands</field>
+<field name="titleSort">Two Wives, or A Hint to Husbands</field>
 <field name="composer">John Parry</field>
 <field name="composerSort">Parry, John</field>
 <field name="year">1824</field>
 <field name="date">1824</field>
 <field name="librettist">John Parry</field>
 <field name="librettistSort">Parry, John</field>
-<field name="theater">"Theatre Royal, Drury Lane"</field>
+<field name="theater">"Theatre Royal, Drury Lane</field>
 <field name="city">London</field>
 <field name="region">Greater London</field>
 <field name="country">United Kingdom</field>
