@@ -4,20 +4,10 @@
 		<field name="title">Zyamlya Belaruzi (The Land of Belarus)</field>
 		<field name="titleSort">Zyamlya Belaruzi (The Land of Belarus)</field>
 		<field name="year">1981</field>
-		
-		
 		<field name="date">1981</field>
 		<field name="composer">Wladzmir Vasil'yevich Darokhin</field>
 		<field name="composerSort">Darokhin, Wladzmir Vasil'yevich</field>
 		<field name="librettist">Petr Brovka</field>
 		<field name="librettistSort">Brovka, Petr</field>
-		
-		
-		
-		
-		
-		
-		
-		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Zyamlya+Belaruzi+(The+Land+of+Belarus)+Wladzmir+Vasil'yevich+Darokhin&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=%E2%9C%93&amp;op=AND&amp;author=Wladzmir+Vasil%27yevich+Darokhin&amp;title=Zyamlya+Belaruzi+%28The+Land+of+Belarus%29&amp;search_field=advanced</field>
 	</doc></add>
