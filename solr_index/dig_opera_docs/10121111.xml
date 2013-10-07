@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add>
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
 <doc>
 <field name="id">10121111</field>
 <field name="genre">Operas</field>
@@ -12,11 +12,13 @@
 <field name="librettistSort">Moore, Douglas</field>
 <field name="librettist">Stephen Vincent Benét</field>
 <field name="librettistSort">Benét, Stephen Vincent</field>
-<field name="theater">Martin Beck Theater</field>
+<field name="theater">Martin Beck Theatre</field>
 <field name="city">New York</field>
 <field name="region">New York</field>
 <field name="country">United States</field>
 
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=The+Devil+and+Daniel+Webster+Douglas+Moore&amp;search_field=search</field>
+
+<field name="revisions">changed theater Martin Beck Theater to Martin Beck Theatre (9/23/2013)</field>
 </doc>
 </add>

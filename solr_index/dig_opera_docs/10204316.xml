@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><add><doc>
 		<field name="id">10204316</field>
 		<field name="genre">Oratorios</field>
-		<field name="title">Sjoah: "...et l'accusé: Dieu..."<"/field>
+		<field name="title">Sjoah: "...et l'accusé: Dieu..."</field>
 		<field name="titleSort">Sjoah: "...et l'accusé: Dieu..."</field>
 		<field name="year">1989</field>
 		
@@ -20,5 +20,5 @@
 		<field name="subject">World War II: The Holocaust</field>
 		
 		
-		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sjoah:+...et l'accusé: Dieu...+Hans+Kox&amp;search_field=search</field>
+		<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Sjoah++et+l'accusé:+Dieu+Hans+Kox&amp;search_field=search</field>
 	</doc></add>

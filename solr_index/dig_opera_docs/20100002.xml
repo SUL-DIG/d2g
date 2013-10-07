@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><add>
+<?xml version="1.0" encoding="UTF-8"?><add>
     <doc>
         <field name="id">20100002</field>
         <field name="genre">Operas</field>
@@ -26,7 +26,7 @@
         <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
         <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Little+Nemo+in+Slumberland+Daron+Hagon&amp;search_field=search</field>
 
-	<revision>added (2013-09-26)</revision>
+	<field name="revisions">Record added (2013-09-26)</field>
     </doc>
 </add>
 
