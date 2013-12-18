@@ -14,7 +14,6 @@
 <field name="city">Boulogne-sur-Mer</field>
 <field name="region">Pas-de-Calais</field>
 <field name="country">France</field>
-
 <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+lutin+de+Galway+George+O'Kelly&amp;search_field=search</field>
 </doc>
 </add>

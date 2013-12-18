@@ -25,7 +25,7 @@
         <field name="country">United States</field>
         <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
         <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Dolores+Claiborne+and+Tobias+Picker&amp;search_field=search</field>
-        <field name="revision">NEW 2013-10-08</field>
+        <field name="revisions">NEW 2013-10-08</field>
     </doc>
 </add>
 
