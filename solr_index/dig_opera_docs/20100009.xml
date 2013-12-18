@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100009</field>
+        <field name="genre">Operas</field>
+        <field name="title">Rabarbaro rabarbaro</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Rabarbaro rabarbaro</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Carlo Pedini</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Pedini, Carlo</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Gino Viziano</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+        <field name="librettistSort">Viziano, Gino</field>
+        <field name="year">1987</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">February 25, 1987</field>
+        <field name="theater">Accademia d'Arte Lirica e Corale</field>
+        <field name="city">Osimo</field>
+        <field name="region">Ancona</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="country">Italy</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Rabarbaro+rabarbaro+and+Carlo+Pedini&amp;search_field=search</field>
+        <field name="revision">NEW RECORD 2013-11-25 nel</field>
+    </doc>
+</add>
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. -->

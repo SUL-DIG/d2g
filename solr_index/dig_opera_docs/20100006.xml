@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><add>
+    <doc>
+        <field name="id">20100006</field>
+        <field name="genre">Operas</field>
+        <field name="subgenre"></field>
+        <field name="title">Fantastic Mr. Fox</field>
+        <!-- The titleSort field should be the Title beginning with whatever word should be used for alphabetical sorting (the elimination of title-beginning articles). -->
+        <field name="titleSort">Fantastic Mr. Fox</field>
+        <!-- The composer's name should be put in Natural Order: First Middle Last -->
+        <field name="composer">Tobias Picker</field>
+        <!-- The composer's name should be put in Indirect Order: Last, First Middle, etc. -->
+        <field name="composerSort">Picker, Tobias</field>
+        <!-- The librettist's (or literary source's) name should be put in Natural Order: First Middle Last -->
+        <field name="librettist">Donald Sturrock</field>
+        <!-- The same librettist's (or literary source's) name should be put in Indirect Order: Last, First Middle, etc. -->	
+        <field name="librettistSort">Sturrock, Donald</field>
+	<field name="librettist">Roald Dahl</field>
+	<field name="librettistSort">Dahl, Roald</field>
+        <field name="year">1998</field>
+        <!-- The date should be used for Month Day, Year. If no Month or Day, then just repeat the year again here. -->
+        <field name="date">December 9, 1998</field>
+        <field name="theater">Dorothy Chandler Pavilion</field>
+        <field name="city">Los Angeles</field>
+        <!-- We use the region field for states or regions. -->
+        <field name="region">California</field>
+        <field name="country">United States</field>
+        <!-- Please insert the title and composer's name down below where you see "Title+and+Composer+Name+Here" and make sure to use plus signs (+) in place of spaces -->
+        <field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Fantastic+Mr.+Fox+and+Tobias+Picker&amp;search_field=search</field>
+        <field name="revision">NEW 2013-10-13</field>
+    </doc>
+</add>
+
+<!-- Don't forget to delete all empty tags for which you do not have data. Leaving them in will cause errors in the indexing process. -->

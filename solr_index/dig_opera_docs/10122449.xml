@@ -4,8 +4,8 @@
 <field name="genre">Operas</field>
 <field name="title">Le lutin de Galway</field>
 <field name="titleSort">lutin de Galway</field>
-<field name="composer">Joseph O'Kelly</field>
-<field name="composerSort">O'Kelly, Joseph</field>
+<field name="composer">George O'Kelly</field>
+<field name="composerSort">O'Kelly, George</field>
 <field name="year">1878</field>
 <field name="date">1878</field>
 <field name="librettist">Ernest Deseille</field>
@@ -15,6 +15,6 @@
 <field name="region">Pas-de-Calais</field>
 <field name="country">France</field>
 
-<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+lutin+de+Galway+Joseph+O'Kelly&amp;search_field=search</field>
+<field name="swQuery">http://searchworks.stanford.edu/?utf8=✓&amp;q=Le+lutin+de+Galway+George+O'Kelly&amp;search_field=search</field>
 </doc>
 </add>
