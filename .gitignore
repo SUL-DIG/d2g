@@ -11,5 +11,11 @@
 /db/*.sqlite3
 
 # Ignore all logfiles and tempfiles.
-/log/*.log
-/tmp
+/log/*
+/tmp/*
+
+# Ignore database information
+/config/database.yml
+
+# Ignore .DS_Store
+.DS_Store
