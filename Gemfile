@@ -1,17 +1,16 @@
 source 'https://rubygems.org'
 source 'http://sul-gems.stanford.edu'
-gem 'rails', '3.2.14'
+
+gem 'rails', '3.2.16'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-group :development do
+
 gem 'sqlite3'
-end
 
 group :production do
- gem 'mysql2'
+  gem 'mysql2'
 end
-
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -54,12 +53,11 @@ gem 'blacklight_range_limit'
 
 # gems necessary for capistrano deployment
 group :development,:deployment do
-  gem 'capistrano', '~>2'
+  gem 'capistrano', '< 3.0.0'
   gem 'capistrano-ext'
   gem 'rvm-capistrano'
   gem 'lyberteam-devel', '>=1.0.0'
   gem 'lyberteam-gems-devel', '>=1.0.0'
-        gem 'lyberteam-capistrano-devel', '>= 1.1.0'
   gem 'net-ssh-krb'
 end
 gem 'gssapi', :git => 'https://github.com/cbeer/gssapi.git'

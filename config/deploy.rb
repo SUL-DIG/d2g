@@ -1,33 +1,43 @@
+require 'net/ssh/kerberos'
 require 'bundler/setup'
 require 'bundler/capistrano'
 require 'dlss/capistrano'
+require "rvm/capistrano"
+require 'capistrano/ext/multistage'
 
 set :stages, %W(development)
 set :default_stage, "development"
 set :bundle_flags, "--quiet"
 
-require 'capistrano/ext/multistage'
+set :sunet_id,   Capistrano::CLI.ui.ask('SUNetID: ') { |q| q.default =  `whoami`.chomp }
+set :repository, "https://github.com/SUL-DIG/d2g.git"
+set :deploy_via, :copy
 
-before "deploy:restart", "deploy:migrate"
+set :shared_children, %w(
+  log
+  tmp
+  config/database.yml
+  config/solr.yml
+)
 
-set :shared_children, %w(log tmp config/database.yml config/solr.yml)
+set :user, "efahy"
 
-set :user, "blacklight" 
-set :runner, "blacklight"
+set :destination, "/home/efahy"
+set :application, "d2g_test_efahy"
 
-set :destination, "/home/blacklight/dig/public/"
-set :application, "d2g_test"
-set :deploy_to, "#{destination}/#{application}"
-
-set :ssh_options, {:auth_methods => %w(gssapi-with-mic publickey hostbased), :forward_agent => true}
-
-
-set :scm, :git
-set :deploy_via, :copy # I got 99 problems, but AFS ain't one
-set :copy_cache, true
 set :copy_exclude, [".git"]
 set :use_sudo, false
-set :keep_releases, 10
+set :keep_releases, 3
+
+set :deploy_to, "#{destination}/#{application}"
+
+set :branch do
+  DEFAULT_TAG = 'master'
+  tag = Capistrano::CLI.ui.ask "Tag or branch to deploy (make sure to push the tag or branch first): [#{DEFAULT_TAG}] "
+  tag = DEFAULT_TAG if tag.empty?
+  tag
+end
+
 namespace :deploy do
   task :start do ; end
   task :stop do ; end
@@ -35,3 +45,6 @@ namespace :deploy do
     run "touch #{File.join(current_path,'tmp','restart.txt')}"
   end
 end
+
+after "deploy", "deploy:migrate"
+after "deploy:update", "deploy:cleanup"
