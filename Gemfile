@@ -53,13 +53,13 @@ gem 'blacklight_range_limit'
 
 
 # gems necessary for capistrano deployment
-group :development,:deployment do
-  gem 'capistrano', '~>2'
-  gem 'capistrano-ext'
-  gem 'rvm-capistrano'
-  gem 'lyberteam-devel', '>=1.0.0'
-  gem 'lyberteam-gems-devel', '>=1.0.0'
-        gem 'lyberteam-capistrano-devel', '>= 1.1.0'
-  gem 'net-ssh-krb'
-end
-gem 'gssapi', :git => 'https://github.com/cbeer/gssapi.git'
+#group :development,:deployment do
+#  gem 'capistrano', '~>2'
+#  gem 'capistrano-ext'
+#  gem 'rvm-capistrano'
+#  gem 'lyberteam-devel', '>=1.0.0'
+#  gem 'lyberteam-gems-devel', '>=1.0.0'
+#        gem 'lyberteam-capistrano-devel', '>= 1.1.0'
+#  gem 'net-ssh-krb'
+#end
+#gem 'gssapi', :git => 'https://github.com/cbeer/gssapi.git'
