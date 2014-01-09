@@ -20,10 +20,10 @@ set :shared_children, %w(
   config/solr.yml
 )
 
-set :user, "efahy"
+set :user, "blacklight"
 
-set :destination, "/home/efahy"
-set :application, "d2g_test_efahy"
+set :destination, "/home/blacklight/dig/public"
+set :application, "d2g"
 
 set :copy_exclude, [".git"]
 set :use_sudo, false
@@ -32,7 +32,7 @@ set :keep_releases, 3
 set :deploy_to, "#{destination}/#{application}"
 
 set :branch do
-  DEFAULT_TAG = 'master'
+  DEFAULT_TAG = 'deploy'
   tag = Capistrano::CLI.ui.ask "Tag or branch to deploy (make sure to push the tag or branch first): [#{DEFAULT_TAG}] "
   tag = DEFAULT_TAG if tag.empty?
   tag
