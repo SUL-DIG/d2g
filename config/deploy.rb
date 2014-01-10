@@ -5,8 +5,8 @@ require 'dlss/capistrano'
 require "rvm/capistrano"
 require 'capistrano/ext/multistage'
 
-set :stages, %W(development)
-set :default_stage, "development"
+set :stages, %W(staging)
+set :default_stage, "staging"
 set :bundle_flags, "--quiet"
 
 set :sunet_id,   Capistrano::CLI.ui.ask('SUNetID: ') { |q| q.default =  `whoami`.chomp }
