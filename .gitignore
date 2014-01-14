@@ -19,3 +19,4 @@
 
 # Ignore .DS_Store
 .DS_Store
+/config/solr.yml
