@@ -16,6 +16,7 @@ set :deploy_via, :copy
 set :shared_children, %w(
   log
   tmp
+  solr_index
   config/database.yml
   config/solr.yml
 )
