@@ -19,7 +19,7 @@ set :shared_children, %w(
   solr_index
   config/database.yml
   config/solr.yml
-  initializers/devise.rb
+  config/initializers/devise.rb
 )
 
 set :user, "blacklight"
