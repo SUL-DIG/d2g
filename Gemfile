@@ -63,3 +63,5 @@ group :development,:deployment do
   gem 'net-ssh-krb'
 end
 gem 'gssapi', :git => 'https://github.com/cbeer/gssapi.git'
+
+gem 'protected_attributes'
