@@ -1,11 +1,4 @@
 GIT
-  remote: https://github.com/cbeer/gssapi.git
-  revision: 59bbd6dd916cf2b96cf6b1984f5db8e7891c8bcd
-  specs:
-    gssapi (1.1.2)
-      ffi (>= 1.0.1)
-
-GIT
   remote: https://github.com/projectblacklight/blacklight_range_limit.git
   revision: 8d3aea7d766100f4e1f0fdcba8c0dbd668060ac4
   specs:
@@ -57,14 +50,23 @@ GEM
     bootstrap-sass (2.3.2.2)
       sass (~> 3.2)
     builder (3.1.4)
-    capistrano (2.15.5)
-      highline
-      net-scp (>= 1.0.0)
-      net-sftp (>= 2.0.0)
-      net-ssh (>= 2.0.14)
-      net-ssh-gateway (>= 1.1.0)
-    capistrano-ext (1.2.1)
-      capistrano (>= 1.0.0)
+    capistrano (3.1.0)
+      i18n
+      rake (>= 10.0.0)
+      sshkit (~> 1.3)
+    capistrano-bundler (1.1.1)
+      capistrano (~> 3.0)
+      sshkit (>= 1.2.0)
+    capistrano-holepicker (0.0.1)
+      capistrano (~> 3.0)
+      holepicker
+    capistrano-one_time_key (0.0.1)
+      capistrano (~> 3.0)
+    capistrano-rails (1.1.1)
+      capistrano (~> 3.1)
+      capistrano-bundler (~> 1.1)
+    capistrano-releaseboard (0.0.1)
+      faraday
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
@@ -82,16 +84,11 @@ GEM
       warden (~> 1.2.3)
     devise-guests (0.3.2)
       devise
-    diff-lcs (1.2.5)
     ensure_valid_encoding (0.5.3)
     erubis (2.7.0)
     execjs (2.0.2)
-    ffi (1.9.3)
-    grit (2.5.0)
-      diff-lcs (~> 1.1)
-      mime-types (~> 1.15)
-      posix-spawn (~> 0.3.6)
-    highline (1.6.20)
+    faraday (0.9.0)
+      multipart-post (>= 1.2, < 3)
     hike (1.2.3)
     holepicker (0.3.1)
       json (>= 1.7.7)
@@ -105,19 +102,11 @@ GEM
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
     libv8 (3.16.14.3)
-    lyberteam-capistrano-devel (1.3.0)
-      actionmailer
-      capistrano (>= 2.11.0)
-      grit
-      holepicker
-      rake (>= 0.8.7)
-      rest-client
-    lyberteam-devel (1.0.1)
-      lyberteam-capistrano-devel (~> 1.0, >= 1.0.7)
-      lyberteam-gems-devel (~> 1.0, >= 1.0.1)
-    lyberteam-gems-devel (1.0.1)
-      rake (>= 0.8.7)
-      rest-client
+    lyberteam-capistrano-devel (3.0.0.pre1)
+      capistrano (~> 3.0)
+      capistrano-holepicker
+      capistrano-one_time_key
+      capistrano-releaseboard
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
@@ -128,22 +117,15 @@ GEM
     mini_portile (0.5.2)
     minitest (4.7.5)
     multi_json (1.8.4)
+    multipart-post (2.0.0)
     mysql2 (0.3.14)
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
-    net-sftp (2.1.2)
-      net-ssh (>= 2.6.5)
     net-ssh (2.7.0)
-    net-ssh-gateway (1.2.0)
-      net-ssh (>= 2.6.5)
-    net-ssh-krb (0.3.0)
-      gssapi (~> 1.1.2)
-      net-ssh (>= 2.0)
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     orm_adapter (0.5.0)
     polyglot (0.3.3)
-    posix-spawn (0.3.8)
     protected_attributes (1.0.5)
       activemodel (>= 4.0.1, < 5.0)
     rack (1.5.2)
@@ -165,12 +147,8 @@ GEM
     rainbow (1.99.1)
     rake (10.1.1)
     ref (1.0.5)
-    rest-client (1.6.7)
-      mime-types (>= 1.16)
     rsolr (1.0.9)
       builder (>= 2.1.2)
-    rvm-capistrano (1.5.1)
-      capistrano (~> 2.15.4)
     sass (3.2.13)
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
@@ -186,6 +164,12 @@ GEM
       activesupport (>= 3.0)
       sprockets (~> 2.8)
     sqlite3 (1.3.8)
+    sshkit (1.3.0)
+      net-scp (>= 1.1.2)
+      net-ssh
+      term-ansicolor
+    term-ansicolor (1.2.2)
+      tins (~> 0.8)
     therubyracer (0.12.0)
       libv8 (~> 3.16.14.0)
       ref
@@ -193,6 +177,7 @@ GEM
     thread_safe (0.1.3)
       atomic
     tilt (1.4.1)
+    tins (0.13.1)
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
@@ -214,20 +199,17 @@ DEPENDENCIES
   blacklight (~> 4.6.0)
   blacklight_range_limit!
   bootstrap-sass
-  capistrano (< 3.0.0)
-  capistrano-ext
+  capistrano (~> 3.0)
+  capistrano-bundler (~> 1.1)
+  capistrano-rails (~> 1.1)
   coffee-rails
   devise
   devise-guests (~> 0.3)
-  gssapi!
   jquery-rails
-  lyberteam-devel (>= 1.0.0)
-  lyberteam-gems-devel (>= 1.0.0)
+  lyberteam-capistrano-devel (= 3.0.0.pre1)
   mysql2
-  net-ssh-krb
   protected_attributes
   rails (= 4.0.2)
-  rvm-capistrano
   sass-rails
   sqlite3
   therubyracer

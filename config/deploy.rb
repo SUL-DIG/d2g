@@ -1,17 +1,41 @@
-require 'net/ssh/kerberos'
-require 'bundler/setup'
-require 'bundler/capistrano'
-require 'dlss/capistrano'
-require "rvm/capistrano"
-require 'capistrano/ext/multistage'
+# config valid only for Capistrano 3.1
+lock '3.1.0'
+
+set :application, 'd2g-cap3'
+set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
+
+# Default branch is :master
+# ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
+set :branch, 'efahy_deploy_test'
+
+# Default deploy_to directory is /var/www/my_app
+set :deploy_to, '/home/blacklight/dig/public/#{application}'
+
+# Default value for :scm is :git
+# set :scm, :git
+
+# Default value for :format is :pretty
+# set :format, :pretty
+
+# Default value for :log_level is :debug
+# set :log_level, :debug
+
+# Default value for :pty is false
+# set :pty, true
+
+# Default value for :linked_files is []
+# set :linked_files, %w{config/database.yml}
+
+# Default value for linked_dirs is []
+# set :linked_dirs, %w{bin log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system}
+
+# Default value for default_env is {}
+# set :default_env, { path: "/opt/ruby/bin:$PATH" }
+
+# Default value for keep_releases is 5
+# set :keep_releases, 5
 
 set :stages, %W(staging)
-set :default_stage, "staging"
-set :bundle_flags, "--quiet"
-
-set :sunet_id,   Capistrano::CLI.ui.ask('SUNetID: ') { |q| q.default =  `whoami`.chomp }
-set :repository, "https://github.com/SUL-DIG/d2g.git"
-set :deploy_via, :copy
 
 set :shared_children, %w(
   log
@@ -22,31 +46,27 @@ set :shared_children, %w(
   config/initializers/devise.rb
 )
 
-set :user, "blacklight"
-
-set :destination, "/home/blacklight/dig/public"
-set :application, "d2g"
-
-set :copy_exclude, [".git"]
-set :use_sudo, false
-set :keep_releases, 3
-
-set :deploy_to, "#{destination}/#{application}"
-
-set :branch do
-  DEFAULT_TAG = 'deploy'
-  tag = Capistrano::CLI.ui.ask "Tag or branch to deploy (make sure to push the tag or branch first): [#{DEFAULT_TAG}] "
-  tag = DEFAULT_TAG if tag.empty?
-  tag
-end
-
 namespace :deploy do
-  task :start do ; end
-  task :stop do ; end
-  task :restart, :roles => :app, :except => { :no_release => true } do
-    run "touch #{File.join(current_path,'tmp','restart.txt')}"
+
+  desc 'Restart application'
+  task :restart do
+    on roles(:app), in: :sequence, wait: 5 do
+      # Your restart mechanism here, for example:
+      # execute :touch, release_path.join('tmp/restart.txt')
+    end
   end
+
+  after :publishing, :restart
+
+  after :restart, :clear_cache do
+    on roles(:web), in: :groups, limit: 3, wait: 10 do
+      # Here we can do anything such as:
+      # within release_path do
+      #   execute :rake, 'cache:clear'
+      # end
+    end
+  end
+
 end
 
 after "deploy", "deploy:migrate"
-after "deploy:update", "deploy:cleanup"
