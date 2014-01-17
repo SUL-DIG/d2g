@@ -1,7 +1,7 @@
 # config valid only for Capistrano 3.1
 lock '3.1.0'
 
-set :application, 'd2g-cap3'
+set :application, 'd2g'
 set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 
 # Default branch is :master
@@ -9,7 +9,7 @@ set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 set :branch, 'efahy_deploy_test'
 
 # Default deploy_to directory is /var/www/my_app
-set :deploy_to, '/home/blacklight/dig/public/d2g-cap3'
+set :deploy_to, '/home/blacklight/dig/public/d2g'
 
 # Default value for :scm is :git
 # set :scm, :git
