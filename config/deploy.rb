@@ -9,7 +9,7 @@ set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 set :branch, 'efahy_deploy_test'
 
 # Default deploy_to directory is /var/www/my_app
-set :deploy_to, '/home/blacklight/dig/public/#{application}'
+set :deploy_to, '/home/blacklight/dig/public/d2g-cap3'
 
 # Default value for :scm is :git
 # set :scm, :git
@@ -37,14 +37,8 @@ set :deploy_to, '/home/blacklight/dig/public/#{application}'
 
 set :stages, %W(staging)
 
-set :shared_children, %w(
-  log
-  tmp
-  solr_index
-  config/database.yml
-  config/solr.yml
-  config/initializers/devise.rb
-)
+set :linked_files, %w{config/database.yml config/solr.yml config/initializers/devise.rb}
+set :linked_dirs, %w{log tmp solr_index}
 
 namespace :deploy do
 
@@ -52,7 +46,7 @@ namespace :deploy do
   task :restart do
     on roles(:app), in: :sequence, wait: 5 do
       # Your restart mechanism here, for example:
-      # execute :touch, release_path.join('tmp/restart.txt')
+      execute :touch, release_path.join('tmp/restart.txt')
     end
   end
 
