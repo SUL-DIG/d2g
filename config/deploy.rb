@@ -6,7 +6,6 @@ set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
-set :branch, 'efahy_deploy_test'
 
 # Default deploy_to directory is /var/www/my_app
 set :deploy_to, '/home/blacklight/dig/public/d2g'
