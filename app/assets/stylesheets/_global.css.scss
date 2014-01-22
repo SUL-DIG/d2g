@@ -164,12 +164,13 @@ a:hover {
 }
 
 div .report {
-	a {
-	span {
-		position: relative;
-		right: -1000px;
-		bottom: 20px;
-		color: #FFFFFF;
+	float: right;
+    font-size: 0.85em;
+    margin-top: -20px;
+    padding-right: 60px;
+		a {
+		span {
+		color: #ffffff;
 		}
 		}
 		}
