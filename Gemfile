@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-source 'http://sul-gems.stanford.edu'
+# source 'http://sul-gems.stanford.edu'
 
-gem 'rails', '4.0.2'
+gem 'rails', '4.0.11'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -50,7 +50,7 @@ gem "devise"
 gem "devise-guests", "~> 0.3"
 gem "bootstrap-sass"
 # To create the year slider
-gem 'blacklight_range_limit', :git => 'https://github.com/projectblacklight/blacklight_range_limit.git'
+gem 'blacklight_range_limit', '2.1.0'
 
 
 # gems necessary for capistrano deployment
