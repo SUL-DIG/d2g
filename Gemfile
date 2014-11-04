@@ -63,7 +63,7 @@ group :development,:deployment do
 #  gem 'lyberteam-devel', '>=1.0.0'
 #  gem 'lyberteam-gems-devel', '>=1.0.0'
 #  gem 'net-ssh-krb'
-  gem 'lyberteam-capistrano-devel', '3.0.0.pre1'
+  gem 'lyberteam-capistrano-devel', '~> 3.1.0'
 end
 #gem 'gssapi', :git => 'https://github.com/cbeer/gssapi.git'
 
