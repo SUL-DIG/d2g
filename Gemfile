@@ -56,6 +56,7 @@ group :deployment do
   gem 'capistrano-rails'
   gem 'capistrano-bundler'
   gem 'dlss-capistrano'
+  gem 'net-ssh', '~> 4.0'
 end
 
 gem 'protected_attributes'
