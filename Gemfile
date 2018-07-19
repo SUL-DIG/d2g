@@ -43,13 +43,13 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 # To install blacklight
-gem 'blacklight', '~> 4.6.0'
+gem 'blacklight', '~> 4.6'
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "devise"
 gem "devise-guests", "~> 0.3"
 gem "bootstrap-sass"
 # To create the year slider
-gem 'blacklight_range_limit', '2.1.0'
+gem 'blacklight_range_limit', '~> 2.1'
 
 
 # gems necessary for capistrano deployment
