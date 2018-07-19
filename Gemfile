@@ -61,3 +61,4 @@ group :deployment do
 end
 
 gem 'protected_attributes'
+gem 'solr_wrapper', group: :development
