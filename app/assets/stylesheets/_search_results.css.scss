@@ -359,7 +359,7 @@ span.constraints-label {margin-right: 0.5em;}
     padding: 1px 50px 1px 1em;
     .btnRemove {
       /* override the BL icon used as separator */
-      background: asset_url('remove.png', image) no-repeat center center;
+      background: asset_url('remove.png') no-repeat center center;
       background-size: 8px 8px;
     }
     .queryName,.filterName {
