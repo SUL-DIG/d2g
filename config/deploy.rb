@@ -1,6 +1,4 @@
 # config valid only for Capistrano 3.1
-lock '3.2.1'
-
 set :application, 'd2g'
 set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 
@@ -36,7 +34,7 @@ set :deploy_to, '/home/blacklight/dig/public/d2g'
 
 set :stages, %W(staging)
 
-set :linked_files, %w{config/database.yml config/solr.yml config/initializers/devise.rb}
+set :linked_files, %w{config/database.yml config/solr.yml config/secrets.yml}
 set :linked_dirs, %w{log tmp solr_index}
 
 namespace :deploy do

@@ -105,11 +105,11 @@ class CatalogController < ApplicationController
     config.add_facet_field 'region_facet', :label => 'State/Region', :limit => 10
     config.add_facet_field 'city_facet', :label => 'City', :limit => 10
     config.add_facet_field 'theater_facet', :label => 'Theater', :limit => 10
-    
+
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
     # handler defaults, or have no facets.
-	config.add_facet_fields_to_solr_request!	
+	config.add_facet_fields_to_solr_request!
     #use this instead if you don't want to query facets marked :show=>false
     #config.default_solr_params[:'facet.field'] = config.facet_fields.select{ |k, v| v[:show] != false}.keys
 
@@ -139,7 +139,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'country', :label => 'Country:'
     config.add_show_field 'swQuery', :label => '', :helper_method => :render_external_link
     config.add_show_field 'revisions', :label => 'Revisions History:'
-    
+
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
@@ -158,44 +158,39 @@ class CatalogController < ApplicationController
     # This one uses all the defaults set by the solr request handler. Which
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise.
-    
+
     config.add_search_field 'all_fields', :label => 'All Fields'
-    
+
 
     # Now we see how to over-ride Solr request handler defaults, in this
     # case for a BL "search field", which is really a dismax aggregate
     # of Solr search fields.
-    
+
     config.add_search_field('title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params.
-      field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
-
-      # :solr_local_parameters will be sent using Solr LocalParams
-      # syntax, as eg {! qf=$title_qf }. This is neccesary to use
-      # Solr parameter de-referencing like $title_qf.
-      # See: http://wiki.apache.org/solr/LocalParams
-      field.solr_local_parameters = {
-        :qf => '$title_qf',
-        :pf => '$title_pf'
+      field.solr_parameters = {
+        :'spellcheck.dictionary' => 'title',
+        :qf => '${title_qf}',
+        :pf => '${title_pf}'
       }
     end
-    
+
     config.add_search_field('composer') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'composer' }
-      field.solr_local_parameters = {
-        :qf => '$composer_qf',
-        :pf => '$composer_pf'
+      field.solr_parameters = {
+        :'spellcheck.dictionary' => 'composer',
+        :qf => '${composer_qf}',
+        :pf => '${composer_pf}'
       }
     end
 
     config.add_search_field('librettist') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'librettist' }
-      field.solr_local_parameters = {
-        :qf => '$librettist_qf',
-        :pf => '$librettist_pf'
+      field.solr_parameters = {
+        :'spellcheck.dictionary' => 'librettist',
+        :qf => '${librettist_qf}',
+        :pf => '${librettist_pf}'
       }
     end
-    
+
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
@@ -212,4 +207,4 @@ class CatalogController < ApplicationController
 
 
 
-end 
+end
