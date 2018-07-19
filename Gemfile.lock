@@ -236,7 +236,7 @@ DEPENDENCIES
   devise-guests (~> 0.3)
   dlss-capistrano
   jquery-rails
-  mysql2
+  mysql2 (~> 0.3)
   protected_attributes
   rails (~> 4.2)
   sass-rails
