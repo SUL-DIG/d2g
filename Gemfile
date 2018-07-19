@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-# source 'http://sul-gems.stanford.edu'
 
 gem 'rails', '4.0.11'
 
