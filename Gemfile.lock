@@ -127,7 +127,7 @@ GEM
     mini_portile2 (2.3.0)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    mysql2 (0.5.2)
+    mysql2 (0.3.21)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (4.2.0)
@@ -236,7 +236,7 @@ DEPENDENCIES
   devise-guests (~> 0.3)
   dlss-capistrano
   jquery-rails
-  mysql2 (~> 0.3)
+  mysql2 (~> 0.3.0)
   net-ssh (~> 4.0)
   protected_attributes
   rails (~> 4.2)
