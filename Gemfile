@@ -54,9 +54,9 @@ gem 'blacklight_range_limit', '~> 2.1'
 
 # gems necessary for capistrano deployment
 group :deployment do
-  gem 'capistrano', '3.2.1'
-  gem 'capistrano-rails', '~> 1.1'
-  gem 'capistrano-bundler', '~> 1.1'
+  gem 'capistrano', '~> 3.2'
+  gem 'capistrano-rails'
+  gem 'capistrano-bundler'
   gem 'dlss-capistrano'
 end
 

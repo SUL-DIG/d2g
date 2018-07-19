@@ -1,6 +1,4 @@
 # config valid only for Capistrano 3.1
-lock '3.2.1'
-
 set :application, 'd2g'
 set :repo_url, 'https://github.com/SUL-DIG/d2g.git'
 
