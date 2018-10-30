@@ -42,7 +42,7 @@ gem 'rubyzip', '~> 1.2.2'
 # gem 'debugger'
 
 # To install blacklight
-gem 'blacklight', '~> 4.6'
+gem 'blacklight', '~> 4.9'
 gem "unicode", :platforms => [:mri_18, :mri_19]
 gem "devise"
 gem "devise-guests", "~> 0.3"
