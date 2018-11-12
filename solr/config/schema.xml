@@ -99,8 +99,8 @@ when adding a document.
     <field name="region" type="text_general" indexed="true" stored="true" />
     <field name="country" type="text_general" indexed="true" stored="true" />
     <field name="subject" type="text_general" indexed="true" stored="true" />
-    <field name="composer" type="text_general" indexed="true" stored="true" />
-    <field name="composerSort" type="string" indexed="true" stored="true" />
+    <field name="composer" type="text_general" indexed="true" stored="true" multiValued="true"/>
+    <field name="composerSort" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="librettist" type="text_general" indexed="true" stored="true" multiValued="true"/>
     <field name="librettistSort" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="year" type="string" indexed="true" stored="true" />
